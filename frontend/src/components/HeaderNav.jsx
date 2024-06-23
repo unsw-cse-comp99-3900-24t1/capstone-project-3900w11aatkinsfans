@@ -20,7 +20,8 @@ const AppTitle = styled('div')({
   justifyContent: 'center', /* Horizontal centering */
   alignItems: 'center', /* Vertical centering */
   color: 'white',
-  fontSize: '36px',
+  fontSize: '32px',
+  fontWeight: 600,
   padding: '10px',
 })
 
