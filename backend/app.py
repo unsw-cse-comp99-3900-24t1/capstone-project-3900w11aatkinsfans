@@ -8,7 +8,7 @@ Basic Skeleton for a Flask app that you can use in a docker container.
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
-@app.route('/')
+@app.route('/test')
 def passes():
     data = {
         'message': 'Hello from Flask!',
