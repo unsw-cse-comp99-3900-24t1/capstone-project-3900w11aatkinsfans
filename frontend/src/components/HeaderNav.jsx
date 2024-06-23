@@ -3,7 +3,6 @@ import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/system';
 
 // Styled components
-
 const HeaderNavDiv = styled('div')({
   top: '0',
   left: '0',
@@ -29,7 +28,7 @@ const AppTitle = styled('div')({
 export default function HeaderNav () {
   return (
     <>
-      <div>
+      <div style={{ display: 'block', height: '6.5vh' }}>
         <HeaderNavDiv>
           <AppTitle>
             Meme Analytics
