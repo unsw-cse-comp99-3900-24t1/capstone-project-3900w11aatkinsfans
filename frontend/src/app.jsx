@@ -4,14 +4,15 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 // components & other files
 import Test from './pages/Test';
 import HeaderNav from './components/HeaderNav';
+import Dashboard from './pages/Dashboard';
 
 function App() {
   
-
   return (
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<HeaderNav />}>
+          <Route index element={<Dashboard />} />
           <Route path='test' element={<Test/>} />
         </Route>
       </Routes>

@@ -20,10 +20,6 @@ export default function Test() {
 
   return (
     <div>
-      {/* needs to render this relative to header */}
-      <br></br> 
-      <br></br>
-      <br></br>
       <p>This is the Test component content.</p>
       <p>Test: {message} </p>
     </div>
