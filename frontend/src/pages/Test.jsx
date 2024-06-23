@@ -1,8 +1,23 @@
+// import React from 'react';
+
+// export default function Test () {
+
+
+//   return (
+//     <>
+//       <div>
+//         Test: {message}
+//       </div>
+//     </>
+//   )
+// }
+
 import React from 'react';
 
-export default function Test () {
-  const [message, setMessage] = useState('');
-  setMessage('deine mutter');
+export default function Test() {
+
+  // const [message, setMessage] = useState('');
+  // setMessage('deine mutter');
   // React.useEffect(() => {
   //   fetch(process.env.REACT_APP_BACKEND_URL + '/test' || 'http://localhost:5000/test')
   //     .then(response => {
@@ -21,7 +36,12 @@ export default function Test () {
 
   return (
     <div>
-      Test: {message}
+      {/* needs to render this relative to header */}
+      <br></br> 
+      <br></br>
+      <br></br>
+      <p>This is the Test component content.</p>
+      {/* <p>Test: {message} </p> */}
     </div>
-  )
-}
+  );
+};

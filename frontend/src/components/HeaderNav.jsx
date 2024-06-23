@@ -13,15 +13,28 @@ const HeaderNavDiv = styled('div')({
   display: 'flex',
   flexDirection: 'row',
   justifyContent: 'space-between',
-  background: 'linear-gradient(90deg, rgb(74,0,153) 120px, rgb(42,121,203))',
+  background: 'rgb(12,65,96)',
 });
 
-export default function HeaderNav () {
+const AppTitle = styled('div')({
+  display: 'flex',
+  justifyContent: 'center', /* Horizontal centering */
+  alignItems: 'center', /* Vertical centering */
+  color: 'white',
+  fontSize: '36px',
+  padding: '10px',
+})
 
+
+export default function HeaderNav () {
   return (
     <>
       <div>
-        <HeaderNavDiv />
+        <HeaderNavDiv>
+          <AppTitle>
+            Meme Analytics
+          </AppTitle>
+        </HeaderNavDiv>
       </div>
       <Outlet />
     </>
