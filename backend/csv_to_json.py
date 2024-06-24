@@ -8,9 +8,8 @@ import numpy as np
 # to the form:
 # {
 #     entries: [{
-#         ID: string,
-#         name: string,
-#         values: [number]
+#         label: string,
+#         data: [numbers]
 #     }],
 #     xLabels: []
 # }
@@ -36,9 +35,9 @@ def get_json_data(csvFilePath):
             entry = {}
             # extract as array
             entry_row = np.array(row)
-            entry['ID'] = str(entry_row[0])
-            entry['name'] = str(entry_row[1])
-            entry['values'] = entry_row[2:].tolist()
+            # entry['ID'] = str(entry_row[0])
+            entry['label'] = str(entry_row[1])
+            entry['data'] = entry_row[2:].tolist()
             entries.append(entry)
         
         # create data dictionary

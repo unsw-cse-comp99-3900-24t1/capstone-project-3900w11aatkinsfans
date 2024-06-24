@@ -1,17 +1,30 @@
 import React from 'react';
-// import Chart from 'chart.js/auto'
+import { Line } from 'react-chartjs-2'
+import {
+  Chart as ChartJS,
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend,
+} from 'chart.js';
+ChartJS.register(
+  CategoryScale,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Title,
+  Tooltip,
+  Legend
+);
 
 export default function MainGraph () {
-  const [chartConfig, setChartConfig] = React.useState({
-    type: 'scatter',
-    data: {
-      labels: [],
-      datasets: []
-    },
-    options: {
-      showLine: true
-    }
+  const [chartData, setChartData] = React.useState({
+    datasets: []
   });
+  const [chartOptions, setChartOptions] = React.useState({});
 
   React.useEffect(() => {
     fetch('http://localhost:5000/dashboard/overview_data')
@@ -22,50 +35,68 @@ export default function MainGraph () {
         return response.json();
       })
       .then(data => {
-        console.log(data);
-
-        // let labels = [];
-        // let datasets = [];
-        // for (let i = 1; i <= 10; i++) {
-        //   let entry = {
-        //     label: data[i].Name,
-        //     data: 
-        //   }
-        // }
+        // console.log(data.xLabels);
+        // console.log(data.entries);
+        // set colors
+        let datasets = data.entries;
+        for (const entry of datasets) {
+          const randomColor = Math.floor(Math.random()*16777215).toString(16);
+          entry.borderColor = '#' + randomColor;
+          entry.backgroundColor = '#' + randomColor + 'E6';
+        }
+        // set chart data and options
+        setChartData({
+          labels: data.xLabels,
+          datasets: datasets
+        })
+        setChartOptions({
+          scales: {
+            x: {
+              title: {
+                display: true,
+                text: 'Time (H:MM)',
+                font: { size: 14, weight: 'bold' }
+              }
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Volume',
+                font: { size: 14, weight: 'bold' }
+              }
+            }
+          },
+          responsive: true,
+          plugins: {
+            title: {
+              display: true,
+              text: "Top \'meme\' phrases during 1/08/2008",
+              font: { size: 16 }
+            },
+            legend: { display: false },
+          }
+        })
       })
       .catch(err => {
         console.log(err);
       });
   }, []);
-  // React.useEffect(() => {
-    // setChartData({
-    //   labels: result.data.map((item, index) => [item[' "Year"']]).filter( String ),
-    //   datasets: [
-    //     {
-    //       label: "OSCAR WINNER",
-    //       data: result.data.map((item, index) => [item[' "Age"']]).filter( Number ),
-    //       borderColor: "black",
-    //       backgroundColor: "red"
-    //     }
-    //   ]
-    // });
-    // setChartOptions({
-    //   responsive: true,
-    //   plugins: {
-    //     legend: {
-    //       position: 'top'
-    //     },
-    //     title: {
-    //       display: true,
-    //       text: "ALL OSCAR WINNERS SINCE 1928"
-    //     }
-    //   }
-    // })
-  // }, [])
 
   return (
     <>
-      Sadge graph
+    <div style={{ width: '80%' }}>
+      {
+        chartData.datasets.length > 0 ? (
+          <div>
+            <Line options={chartOptions} data={chartData}/>
+          </div>
+        ) : (
+          <div>
+            Loading...
+          </div>
+        )
+      }
+    </div>
     </>
   )
 }
