@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 
 // components & other files
 import Test from './pages/Test';
@@ -12,7 +12,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<HeaderNav />}>
-          <Route index element={<Dashboard />} />
+          <Route index element={<Navigate to='/dashboard' />} />
+          <Route path='dashboard' element={<Dashboard />} />
           <Route path='test' element={<Test/>} />
         </Route>
       </Routes>
