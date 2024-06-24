@@ -5,6 +5,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Test from './pages/Test';
 import HeaderNav from './components/HeaderNav';
 import Dashboard from './pages/Dashboard';
+import './global.css';
 
 function App() {
   
