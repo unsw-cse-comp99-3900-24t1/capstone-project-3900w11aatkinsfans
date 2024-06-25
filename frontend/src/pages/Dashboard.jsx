@@ -37,9 +37,10 @@ export default function Dashboard () {
     alignItems: 'flex-start', 
   });
   const CurrentMemesBoard = styled('div')({
-    width: '45vw',
-    height: '25vh',
+    width: '94vw',
+    height: 'auto',
     display: 'flex',
+    flexDirection: 'column',
     backgroundColor: 'white',
     borderRadius: '12px',
   });
@@ -55,8 +56,6 @@ export default function Dashboard () {
           <CurrentMemes>
             <CurrentMemesBoard>
               <PopularMeme/>
-            </CurrentMemesBoard>
-            <CurrentMemesBoard>
             </CurrentMemesBoard>
           </CurrentMemes>
         </CurrentMemesDiv>

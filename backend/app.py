@@ -30,6 +30,10 @@ def popular():
     df = pd.read_csv('sorted_clusters.csv')
     df['Timestamp'] = pd.to_datetime(df['Timestamp'])
 
+    earliest_timestamp = df['Timestamp'].min()
+    latest_timestamp = df['Timestamp'].max()
+    meme_count = df.shape[0]
+
     # Filter for clusters of interest
     filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5])]
 
@@ -43,6 +47,9 @@ def popular():
     # Combine results and quotes into final data dictionary
     data = {
         'result': results.to_dict(orient='records'),
+        'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
+        'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
+        'memeCount': meme_count,
     }
 
     return jsonify(data)
