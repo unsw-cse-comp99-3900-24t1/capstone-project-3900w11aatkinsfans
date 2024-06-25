@@ -7,8 +7,7 @@ const HeaderNavDiv = styled('div')({
   top: '0',
   left: '0',
   width: '100%',
-  height: '6.5vh',
-  position: 'fixed',
+  height: '60px',
   display: 'flex',
   flexDirection: 'row',
   justifyContent: 'space-between',
@@ -29,13 +28,12 @@ const AppTitle = styled('div')({
 export default function HeaderNav () {
   return (
     <>
-      <div style={{ display: 'block', height: '6.5vh' }}>
-        <HeaderNavDiv>
+      <div/>
+      <HeaderNavDiv>
           <AppTitle>
             Meme Analytics
           </AppTitle>
         </HeaderNavDiv>
-      </div>
       <Outlet />
     </>
   );

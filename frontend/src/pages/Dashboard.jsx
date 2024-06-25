@@ -2,42 +2,36 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/system';
 
-// import MainGraph from '../components/MainGraph';
+import MainGraph from '../components/MainGraph';
 import PopularMeme from '../components/PopularMeme';
 
 export default function Dashboard () {
   const PopularityGraphDiv = styled('div')({
-    width: '100vw',
-    height: '60vh',
-    display: 'flex',
-    justifyContent: 'center', 
-    alignItems: 'flex-start', 
-    marginTop: '3vh'
-  });
-  const PopularityGraph = styled('div')({
-    width: '94vw',
-    height: '56vh',
-    display: 'flex',
+    width: '90vw',
+    height: '620px',
     backgroundColor: 'white',
-    justifyContent: 'center', 
+    justifyContent: 'center',
+    margin: '3vh 3vw 30px 3vw',
     borderRadius: '12px',
+    padding: '1vw',
   });
+
   const CurrentMemesDiv = styled('div')({
-    width: '100vw',
+    width: '98vw',
     height: '30vh',
     display: 'flex',
     justifyContent: 'center', 
     alignItems: 'flex-start', 
   });
   const CurrentMemes = styled('div')({
-    width: '94vw',
+    width: '92vw',
     height: '30vh',
     display: 'flex',
     justifyContent: 'space-between', 
     alignItems: 'flex-start', 
   });
   const CurrentMemesBoard = styled('div')({
-    width: '94vw',
+    width: '92vw',
     height: 'auto',
     display: 'flex',
     flexDirection: 'column',
@@ -48,7 +42,7 @@ export default function Dashboard () {
     <>
       <div>
         <PopularityGraphDiv>
-          {/* <MainGraph /> */}
+          <MainGraph />
         </PopularityGraphDiv>
       </div>
       <div>
