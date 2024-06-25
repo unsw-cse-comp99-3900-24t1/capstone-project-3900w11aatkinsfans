@@ -67,6 +67,7 @@ export default function MainGraph () {
             }
           },
           responsive: true,
+          maintainAspectRatio: false,
           plugins: {
             title: {
               display: true,
@@ -84,11 +85,11 @@ export default function MainGraph () {
 
   return (
     <>
-    <div style={{ width: '80%' }}>
+    <div>
       {
         chartData.datasets.length > 0 ? (
           <div>
-            <Line options={chartOptions} data={chartData}/>
+            <Line options={chartOptions} data={chartData} style={{ height: '600px' }}/>
           </div>
         ) : (
           <div>
