@@ -104,7 +104,7 @@ export default function PopularMeme() {
                 </Table>
                 </StyledTableContainer>
                 <TotalResultsDiv>
-                    Showing Top 5 memes of {memeCount}
+                    Showing Top 5 of {memeCount} memes
                 </TotalResultsDiv>
             </Center>
         </>
