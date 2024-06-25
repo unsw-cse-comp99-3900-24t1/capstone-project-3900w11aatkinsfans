@@ -9,6 +9,9 @@ import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
 import { styled } from '@mui/system';
+import Modal from '@mui/material/Modal';
+import Box from '@mui/material/Box';
+import Typography from '@mui/material/Typography';
 
 const StyledTableContainer = styled(TableContainer)(({ theme }) => ({
   borderBottom: `1px solid rgba(0, 0, 0, 0.2);`,
@@ -16,7 +19,7 @@ const StyledTableContainer = styled(TableContainer)(({ theme }) => ({
 
 const PopularMemesTitle = styled('div')({
     display: 'flex',
-    alignItems: 'center', /* Vertical centering */
+    alignItems: 'center', 
     textAlign: 'center',
     padding: '4px',
 });
@@ -30,7 +33,7 @@ const Center = styled('div')({
 
 const TotalResultsDiv = styled('div')({
     display: 'flex',
-    alignItems: 'center', /* Vertical centering */
+    alignItems: 'center',
     justifyContent: 'center',
     textAlign: 'center',
     marginTop: '0.7em',
@@ -40,12 +43,27 @@ const TotalResultsDiv = styled('div')({
     fontWeight: 400,
 });
 
+const style = {
+    position: 'absolute',
+    top: '50%',
+    left: '50%',
+    transform: 'translate(-50%, -50%)',
+    width: 400,
+    bgcolor: 'background.paper',
+    boxShadow: 0,
+    p: 4,
+    borderRadius: '5px',
+  };
+
 export default function PopularMeme() {
     const [popularData, setPopularData] = useState(null);
     const [error, setError] = useState(null);
     const [beginDate, setBeginDate] = useState(null);
     const [endDate, setEndDate] = useState(null);
     const [memeCount, setMemeCount] = useState(null);
+    const [open, setOpen] = React.useState(false);
+    const handleOpen = () => setOpen(true);
+    const handleClose = () => setOpen(false);
 
     useEffect(() => {
         fetch('http://localhost:5000/getPopular')
@@ -77,8 +95,25 @@ export default function PopularMeme() {
     return (
         <>
             <PopularMemesTitle>
-                <div style={{ margin:'0.8em'}}>Top Popular Memes from {beginDate} to {endDate}</div>
-                <HelpOutlineIcon style={{ fill:'rgba(0, 0, 0, 0.8)'}}/>
+                <div style={{ margin:'0.5em'}}>Top Popular Memes from {beginDate} to {endDate}</div>
+                <button style={{ width: '50px', height: '50px', backgroundColor: 'white', border: 'none', cursor: 'pointer' }} onClick={handleOpen}>
+                    <HelpOutlineIcon style={{ fill:'rgba(0, 0, 0, 0.65)'}}/>
+                </button>
+                <Modal
+                    open={open}
+                    onClose={handleClose}
+                    aria-labelledby="modal-modal-title"
+                    aria-describedby="modal-modal-description"
+                >
+                    <Box sx={style}>
+                    <Typography id="modal-modal-title" variant="h6" component="h2">
+                        Top Popular Memes
+                    </Typography>
+                    <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+                        This table displays the top popular memes based on the number of mutations from the SNAP Memetracker Dataset. Mutations are the accidental or intentional modification of an original meme. 
+                    </Typography>
+                    </Box>
+                </Modal>
             </PopularMemesTitle>
             <Center>
                 <StyledTableContainer component={Paper} elevation={0} style={{ width:'92vw'}}>
