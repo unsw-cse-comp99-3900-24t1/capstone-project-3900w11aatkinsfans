@@ -2,7 +2,8 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/system';
 
-import MainGraph from '../components/MainGraph';
+// import MainGraph from '../components/MainGraph';
+import PopularMeme from '../components/PopularMeme';
 
 export default function Dashboard () {
   const PopularityGraphDiv = styled('div')({
@@ -46,13 +47,14 @@ export default function Dashboard () {
     <>
       <div>
         <PopularityGraphDiv>
-          <MainGraph />
+          {/* <MainGraph /> */}
         </PopularityGraphDiv>
       </div>
       <div>
         <CurrentMemesDiv>
           <CurrentMemes>
             <CurrentMemesBoard>
+              <PopularMeme/>
             </CurrentMemesBoard>
             <CurrentMemesBoard>
             </CurrentMemesBoard>
