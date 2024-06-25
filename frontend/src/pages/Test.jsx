@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function Test() {
-  const [message, setMessage] = React.useState('yes');
+  const [message, setMessage] = React.useState('Running test...');
   React.useEffect(() => {
     fetch(process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000/test')
       .then(response => {

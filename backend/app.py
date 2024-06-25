@@ -1,6 +1,8 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
+from csv_to_json import get_json_data
 import pandas as pd
+
 """
 Basic Skeleton for a Flask app that you can use in a docker container.
 """
@@ -16,6 +18,12 @@ def passes():
     }
     return jsonify(data)
 
+# TODO: fetch from database in the future instead of local backend
+@app.route('/dashboard/overview_data', methods=['GET'])
+def get_overview_data():
+    json_data = get_json_data('assets/overview_data.csv')
+    return jsonify(json_data)
+    
 ## getPopular 
 @app.route('/getPopular')
 def passes():

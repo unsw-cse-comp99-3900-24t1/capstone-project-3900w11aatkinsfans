@@ -2,6 +2,8 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/system';
 
+import MainGraph from '../components/MainGraph';
+
 export default function Dashboard () {
   const PopularityGraphDiv = styled('div')({
     width: '100vw',
@@ -44,8 +46,7 @@ export default function Dashboard () {
     <>
       <div>
         <PopularityGraphDiv>
-          <PopularityGraph>
-          </PopularityGraph>
+          <MainGraph />
         </PopularityGraphDiv>
       </div>
       <div>
