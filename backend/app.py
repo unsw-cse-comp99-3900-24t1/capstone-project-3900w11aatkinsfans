@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 @app.route('/test')
-def passes():
+def test():
     data = {
         'message': 'Hello from Flask!',
         'status': 'success'
@@ -26,41 +26,32 @@ def get_overview_data():
     
 ## getPopular 
 @app.route('/getPopular')
-def passes():
+def popular():
     df = pd.read_csv('sorted_clusters.csv')
-    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5])]
-
-    # Convert Timestamp to datetime
     df['Timestamp'] = pd.to_datetime(df['Timestamp'])
 
-    # Group by ClusterID and resample in 30-minute intervals
-    df.set_index('Timestamp', inplace=True)
+    earliest_timestamp = df['Timestamp'].min()
+    latest_timestamp = df['Timestamp'].max()
+    meme_count = df.shape[0]
+
+    # Filter for clusters of interest
+    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5])]
 
     # Initialize an empty DataFrame to store results
-    results = pd.DataFrame()
+    results = filtered_df.copy()
 
-    for cluster_id, group in df.groupby('ClusterID'):
-
-        # Resample each group's timestamps by 30-minute intervals and count quotes
-        resampled = group['Quote'].resample('30T').count().reset_index(name='QuoteCount')
-        resampled['ClusterID'] = cluster_id
-        results = pd.concat([results, resampled])
-    # Reset index to get a clean DataFrame
-    results.reset_index(drop=True, inplace=True)
-
-    # Sort by ClusterID and Timestamp
+    # Sort the DataFrame
     results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
+    results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)  # Keep only the first row of each ClusterID
 
-    # Get the total count of quotes for each ClusterID
-
-    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5])]
-    quotes = filtered_df.groupby('ClusterID').first().reset_index()
-    sampled = results[results['ClusterID'].isin([1, 2, 3, 4, 5])]
-
+    # Combine results and quotes into final data dictionary
     data = {
-        'quotes': quotes,
-        'timeseries': sampled,
+        'result': results.to_dict(orient='records'),
+        'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
+        'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
+        'memeCount': meme_count,
     }
+
     return jsonify(data)
 
 if __name__ == '__main__':
