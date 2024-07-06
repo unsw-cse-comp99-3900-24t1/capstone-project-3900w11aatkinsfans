@@ -62,13 +62,12 @@ export default function HeaderNav() {
     setValue(tabToValue(currentPath));
   }, [currentPath]);
 
-  const handleChange = (newValue) => {
+  const handleChange = (event, newValue) => {
     setValue(newValue);
   };
 
   return (
     <>
-      <div />
       <HeaderNavDiv>
         <AppTitle to="/dashboard">Meme Analytics</AppTitle>
         <TabsContainer>
@@ -81,16 +80,19 @@ export default function HeaderNav() {
           >
             <StyledTab
               label="Dashboard"
+              value={0} // Assign value prop
               component={Link}
               to="/dashboard"
             />
             <StyledTab
               label="Meme Search"
+              value={1} // Assign value prop
               component={Link}
               to="/memesearch"
             />
             <StyledTab
               label="Meme Prediction"
+              value={2} // Assign value prop
               component={Link}
               to="/memeprediction"
             />
