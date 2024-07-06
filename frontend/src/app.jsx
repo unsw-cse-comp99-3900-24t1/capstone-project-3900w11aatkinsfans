@@ -2,7 +2,8 @@ import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 
 // components & other files
-import Test from './pages/Test';
+import MemeSearch from './pages/MemeSearch';
+import MemePrediction from './pages/MemePrediction';
 import HeaderNav from './components/HeaderNav';
 import Dashboard from './pages/Dashboard';
 import './global.css';
@@ -15,7 +16,8 @@ function App() {
         <Route path='/' element={<HeaderNav />}>
           <Route index element={<Navigate to='/dashboard' />} />
           <Route path='dashboard' element={<Dashboard />} />
-          <Route path='test' element={<Test/>} />
+          <Route path='memesearch' element={<MemeSearch/>} />
+          <Route path='memeprediction' element={<MemePrediction/>} />
         </Route>
       </Routes>
     </BrowserRouter>

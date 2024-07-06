@@ -47,8 +47,10 @@ export default function HeaderNav() {
     switch (path) {
       case '/dashboard':
         return 0;
-      case '/test':
+      case '/memesearch':
         return 1;
+      case '/memeprediction':
+        return 2;
       default:
         return 0;
     }
@@ -60,7 +62,7 @@ export default function HeaderNav() {
     setValue(tabToValue(currentPath));
   }, [currentPath]);
 
-  const handleChange = (event, newValue) => {
+  const handleChange = (newValue) => {
     setValue(newValue);
   };
 
@@ -83,9 +85,14 @@ export default function HeaderNav() {
               to="/dashboard"
             />
             <StyledTab
-              label="Test"
+              label="Meme Search"
               component={Link}
-              to="/test"
+              to="/memesearch"
+            />
+            <StyledTab
+              label="Meme Prediction"
+              component={Link}
+              to="/memeprediction"
             />
           </Tabs>
         </TabsContainer>
