@@ -25,6 +25,10 @@ export default function MainGraph () {
     datasets: []
   });
   const [chartOptions, setChartOptions] = React.useState({});
+  const isHovering = React.useRef(false);
+  const [cursorType, setCursorType] = React.useState('default')
+  const defaultLineWidth = 3;
+  const hoverLineWidth = 7;
 
   React.useEffect(() => {
     fetch('http://localhost:5000/dashboard/overview_data')
@@ -35,14 +39,15 @@ export default function MainGraph () {
         return response.json();
       })
       .then(data => {
-        // console.log(data.xLabels);
-        // console.log(data.entries);
         // set colors
         let datasets = data.entries;
         for (const entry of datasets) {
+          // console.log(entry);
           const randomColor = Math.floor(Math.random()*16777215).toString(16);
           entry.borderColor = '#' + randomColor;
           entry.backgroundColor = '#' + randomColor + 'E6';
+          entry.hoverBorderWidth = 10;
+          entry.tension = 0.1;
         }
         // set chart data and options
         setChartData({
@@ -75,6 +80,29 @@ export default function MainGraph () {
               font: { size: 16 }
             },
             legend: { display: false },
+            tooltip: {
+              intersect: false,
+              mode: 'nearest',
+              axis: 'xy',
+              padding: 10,
+              caretPadding: 20,
+              caretSize: 10,
+              yAlign: 'bottom',
+            },
+          },
+          hover: {
+            intersect: true,
+          },
+          // highlighting when hovering on line
+          onHover: onHover,
+          // onclick functionality
+          onClick: (event, chartElements) => {
+            if (chartElements && chartElements.length > 0) {
+              const chart = event.chart;
+              const datasetIndex = chartElements[0].datasetIndex;
+              const datasetItem = chart.data.datasets[datasetIndex];
+              console.log("Clicked dataset: " + datasetItem.label);
+            }
           }
         })
       })
@@ -83,13 +111,43 @@ export default function MainGraph () {
       });
   }, []);
 
+  const onHover = (event, chartElement) => {
+    const chart = event.chart;
+    if (!isHovering.current) {
+      isHovering.current = true;
+      if (chartElement && chartElement.length > 0) {
+        setCursorType('pointer');
+        const datasetIndex = chartElement[0].datasetIndex;
+        chart.data.datasets.forEach(function(dataset, index) {
+          if (index === datasetIndex) {
+            dataset.borderWidth = hoverLineWidth; // highlighted width
+          } else {
+            dataset.borderWidth = defaultLineWidth; // default width
+          }
+        });
+        chart.update();
+      } else {
+        setCursorType('default');
+        chart.data.datasets.forEach(function(dataset) {
+          dataset.borderWidth = defaultLineWidth; // Reset all datasets to default width
+        });
+        chart.update();
+      }
+      // throttle so only sets new line thickness every 100ms
+      setTimeout(() => {
+        isHovering.current = false;
+      }, 100)
+    }
+  }
+
   return (
     <>
     <div>
       {
         chartData.datasets.length > 0 ? (
           <div>
-            <Line options={chartOptions} data={chartData} style={{ height: '600px' }}/>
+            <Line options={chartOptions} data={chartData}
+            style={{ height: '600px', cursor: cursorType }}/>
           </div>
         ) : (
           <div>
