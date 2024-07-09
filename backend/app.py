@@ -1,7 +1,13 @@
-from flask import Flask, jsonify
+import sys
+import os
+from flask import Flask, jsonify, send_from_directory
 from flask_cors import CORS
-from csv_to_json import get_json_data
 import pandas as pd
+
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'database')))
+
+from database.database import Database
+
 
 """
 Basic Skeleton for a Flask app that you can use in a docker container.
@@ -9,6 +15,18 @@ Basic Skeleton for a Flask app that you can use in a docker container.
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
+
+# Initialize the database
+db = Database()
+collection = db.get_collection('mycollection')
+
+@app.route('/')
+def index():
+    return "Welcome to the Flask app!"
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory('static', 'favicon.ico')
 
 @app.route('/test')
 def test():
@@ -21,7 +39,8 @@ def test():
 # TODO: fetch from database in the future instead of local backend
 @app.route('/dashboard/overview_data', methods=['GET'])
 def get_overview_data():
-    json_data = get_json_data('assets/overview_data.csv')
+    # json_data = get_json_data('assets/overview_data.csv')
+    json_data = list(collection.find({}, {'_id': 0}))
     return jsonify(json_data)
     
 ## getPopular 
