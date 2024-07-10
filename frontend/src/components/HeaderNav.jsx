@@ -22,6 +22,7 @@ const AppTitle = styled(Link)({
   color: 'white',
   fontSize: '32px',
   fontWeight: 600,
+  fontFamily: 'Inter, sans-serif',
   padding: '10px',
   textDecoration: 'none',
 });

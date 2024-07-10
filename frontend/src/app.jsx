@@ -6,6 +6,7 @@ import MemeSearch from './pages/MemeSearch';
 import MemePrediction from './pages/MemePrediction';
 import HeaderNav from './components/HeaderNav';
 import Dashboard from './pages/Dashboard';
+import Meme from './pages/Meme';
 import './global.css';
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
           <Route path='dashboard' element={<Dashboard />} />
           <Route path='memesearch' element={<MemeSearch/>} />
           <Route path='memeprediction' element={<MemePrediction/>} />
+          <Route path="/meme/:id" element={<Meme />} />
         </Route>
       </Routes>
     </BrowserRouter>

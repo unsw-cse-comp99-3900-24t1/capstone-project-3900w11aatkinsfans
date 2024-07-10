@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import { Line } from 'react-chartjs-2'
 import {
   Chart as ChartJS,
@@ -29,6 +30,7 @@ export default function MainGraph () {
   const [cursorType, setCursorType] = React.useState('default')
   const defaultLineWidth = 3;
   const hoverLineWidth = 7;
+  const navigate = useNavigate();
 
   React.useEffect(() => {
     fetch('http://localhost:5000/dashboard/overview_data')
@@ -102,6 +104,8 @@ export default function MainGraph () {
               const datasetIndex = chartElements[0].datasetIndex;
               const datasetItem = chart.data.datasets[datasetIndex];
               console.log("Clicked dataset: " + datasetItem.label);
+              const memeId = 1;
+              navigate(`/meme/${memeId}`);
             }
           }
         })

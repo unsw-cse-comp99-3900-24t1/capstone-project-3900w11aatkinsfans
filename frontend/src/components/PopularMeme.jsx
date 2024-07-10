@@ -91,7 +91,6 @@ export default function PopularMeme() {
     if (!popularData) {
         return <div>Loading...</div>;
     }
-    console.log(popularData);
     return (
         <>
             <PopularMemesTitle>
