@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { TextField, Paper, InputAdornment, IconButton } from '@mui/material';
+import React, { useState, useEffect } from 'react';
+import { TextField, Paper, InputAdornment, IconButton, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Modal, Box, Typography } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import { styled } from '@mui/system';
 
@@ -12,13 +12,45 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
   maxWidth: 600,
   height: '50px',
   margin: '0 auto',
+  marginTop: '15vh'
 }));
 
 const StyledTextField = styled(TextField)(({ theme }) => ({
   '& .MuiInputBase-root': {
-    padding: '0 20px', // Padding inside the input field
+    padding: '0 20px',
   },
 }));
+
+const SearchResultDatabaseSize = styled('div')({
+  display: 'flex',
+  justifyContent: 'center',
+  margin: '0 auto',
+  textAlign: 'center',
+  marginTop: '3vh',
+  fontSize: '13px'
+});
+
+const StyledTableContainer = styled(TableContainer)(({ theme }) => ({
+  borderBottom: `1px solid rgba(0, 0, 0, 0.2)`,
+  borderRadius: '18px',
+  overflowX: 'auto',
+  width: '45%',
+  minWidth: '800px',
+}));
+
+const CenterTable = styled('div')({
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  flexDirection: 'column',
+  marginTop: '10vh',
+  paddingBottom: '30px',
+});
+
+const TopTrendingMemesTitle = styled('div')({
+  marginBottom: '20px',
+  fontSize: '20px'
+});
 
 const SearchBar = () => {
   const [searchText, setSearchText] = useState('');
@@ -43,7 +75,7 @@ const SearchBar = () => {
 
   const handleKeyDown = (e) => {
     if (e.key === 'Enter') {
-      e.preventDefault(); // Prevent form submission or any default action
+      e.preventDefault();
       handleSearchClick();
     }
   };
@@ -52,7 +84,7 @@ const SearchBar = () => {
     <StyledPaper>
       <StyledTextField
         variant="standard"
-        placeholder="Search..."
+        placeholder="Search Meme..."
         value={searchText}
         onChange={(e) => setSearchText(e.target.value)}
         onKeyDown={handleKeyDown}
@@ -73,39 +105,111 @@ const SearchBar = () => {
   );
 };
 
+// Function to calculate time from now
+const timeFromNow = (timestamp) => {
+  const now = new Date();
+  const date = new Date(timestamp);
+  const diff = now - date;
+
+  const seconds = Math.floor(diff / 1000);
+  const minutes = Math.floor(seconds / 60);
+  const hours = Math.floor(minutes / 60);
+  const days = Math.floor(hours / 24);
+
+  if (days > 0) return `${days} days ago`;
+  if (hours > 0) return `${hours} hours ago`;
+  if (minutes > 0) return `${minutes} minutes ago`;
+  return `${seconds} seconds ago`;
+};
+
+// Clicking on most popular memes table to search 
+const handleCellClick = (clusterID) => {
+  console.log('Cell clicked with ClusterID:', clusterID);
+  // Later add dynamic routing to specific meme pages
+};
+
 export default function MemeSearch() {
+  const [popularData, setPopularData] = useState(null);
+  const [error, setError] = useState(null);
+  const [beginDate, setBeginDate] = useState(null);
+  const [endDate, setEndDate] = useState(null);
+  const [memeCount, setMemeCount] = useState(null);
+
+  useEffect(() => {
+    fetch('http://localhost:5000/getPopular')
+      .then(response => {
+          if (!response.ok) {
+              throw new Error('Network response was not ok');
+          }
+          return response.json();
+      })
+      .then(data => {
+          setPopularData(data.result);
+          setBeginDate(data.earliest_timestamp);
+          setEndDate(data.latest_timestamp);
+          const formattedMemeCount = data.memeCount ? new Intl.NumberFormat().format(data.memeCount) : '...';
+          setMemeCount(formattedMemeCount);
+      })
+      .catch(err => {
+          setError(err.message);
+      });
+  }, []);
+
+  if (error) {
+    return <div>{`Error: ${error}`}</div>;
+  }
+
+  if (!popularData) {
+    return <div>Loading...</div>;
+  }
+
   return (
-    <div>
-      <p>This is the Meme search page.</p>
+    <>
       <SearchBar />
-    </div>
+      <SearchResultDatabaseSize>
+        Search from a database of {memeCount} memes
+      </SearchResultDatabaseSize>
+      <CenterTable>
+        <TopTrendingMemesTitle>
+          Top Trending Memes
+        </TopTrendingMemesTitle>
+        <StyledTableContainer component={Paper} elevation={0}>
+          <Table sx={{ minWidth: 650 }} size="small" aria-label="a dense table">
+            <TableBody>
+              {popularData.map((row) => (
+                <TableRow
+                  key={row.ClusterID}
+                  sx={{
+                      height: '60px', 
+                      '&:last-child td, &:last-child th': { border: 0 },
+                      cursor: 'pointer',
+                      '&:hover': {
+                        backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                      },
+                    }}
+                    onClick={() => handleCellClick(row.ClusterID)}
+                >
+                  <TableCell component="th" scope="row" sx={{color:'rgb(123, 123, 125)'}}>
+                    {row.ClusterID}
+                  </TableCell>
+                  <TableCell 
+                    align="left" 
+                    sx={{ textTransform: 'capitalize', padding: '16px', cursor: 'pointer'}}
+                    onClick={() => handleCellClick(row.ClusterID)}
+                  >
+                    {row.Quote}
+                  </TableCell>
+                  <TableCell
+                  sx={{ width:'100px', color:'rgb(174, 176, 175)' }}
+                  >
+                    {timeFromNow(row.Timestamp)}
+                  </TableCell>
+                </TableRow>
+              ))}
+            </TableBody>
+          </Table>
+        </StyledTableContainer>
+      </CenterTable>
+    </>
   );
 }
-
-
-// export default function test() {
-//   // test
-//   const [message, setMessage] = React.useState('Running test...');
-//   React.useEffect(() => {
-//     fetch(process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000/test')
-//       .then(response => {
-//         if (!response.ok) {
-//           throw new Error('Bad response');
-//         }
-//         return response.json();
-//       })
-//       .then(data => {
-//         setMessage(data.message);
-//       })
-//       .catch(err => {
-//         setMessage('FAILED, as something related to fetching backend data is not working :(');
-//       });
-//   }, []);
-
-//   return (
-//     <div>
-//       <p>This is the Test component content.</p>
-//       <p>Test: {message} </p>
-//     </div>
-//   );
-// };
