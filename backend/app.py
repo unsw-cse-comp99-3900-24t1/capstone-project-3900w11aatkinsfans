@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 from csv_to_json import get_json_data
 import pandas as pd
@@ -53,6 +53,17 @@ def popular():
     }
 
     return jsonify(data)
+
+@app.route('/memesearch', methods=['POST'])
+def search():
+    data = request.get_json()
+    search_text = data.get('searchText')
+
+    # Add cluster finding algorithm here.
+    print(f"Received search text: {search_text}")
+
+    # Return a response with number 1
+    return jsonify({'clusterID': 1})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)

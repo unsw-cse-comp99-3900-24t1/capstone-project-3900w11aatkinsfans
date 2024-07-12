@@ -25,6 +25,20 @@ const SearchBar = () => {
 
   const handleSearchClick = () => {
     console.log(searchText);
+    fetch('http://localhost:5000/memesearch', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ searchText }),
+    })
+      .then(response => response.json())
+      .then(data => {
+        console.log('Success:', data); // This should result in log { clusterID: 1 }
+    })
+      .catch((error) => {
+        console.error('Error:', error);
+    });
   };
 
   const handleKeyDown = (e) => {
