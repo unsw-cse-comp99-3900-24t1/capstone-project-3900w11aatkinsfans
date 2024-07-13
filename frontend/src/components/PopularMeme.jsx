@@ -74,10 +74,11 @@ export default function PopularMeme() {
                 return response.json();
             })
             .then(data => {
-                setPopularData(data.result);
+                setPopularData(data.result.slice(0, 5));
                 setBeginDate(data.earliest_timestamp);
                 setEndDate(data.latest_timestamp);
-                setMemeCount(data.memeCount);
+                const formattedMemeCount = data.memeCount ? new Intl.NumberFormat().format(data.memeCount) : '...';
+                setMemeCount(formattedMemeCount);
             })
             .catch(err => {
                 setError(err.message);
@@ -92,7 +93,7 @@ export default function PopularMeme() {
         return <div>Loading...</div>;
     }
     return (
-        <>
+        <>  
             <PopularMemesTitle>
                 <div style={{ margin:'0.5em'}}>Top Popular Memes from {beginDate} to {endDate}</div>
                 <button style={{ width: '50px', height: '50px', backgroundColor: 'white', border: 'none', cursor: 'pointer' }} onClick={handleOpen}>
@@ -130,7 +131,7 @@ export default function PopularMeme() {
                         </TableCell>
                         <TableCell align="right">{row.ClusterSize} Mutations</TableCell>
                         <TableCell align="right">{row.Timestamp}</TableCell>
-                        <TableCell align="right">{row.Quote}</TableCell>
+                        <TableCell align="right" sx={{ textTransform: 'capitalize' }}>{row.Quote}</TableCell>
                         <TableCell align="right">{row.protein}</TableCell>
                         </TableRow>
                     ))}

@@ -35,7 +35,7 @@ def popular():
     meme_count = df.shape[0]
 
     # Filter for clusters of interest
-    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5])]
+    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])]
 
     # Initialize an empty DataFrame to store results
     results = filtered_df.copy()
