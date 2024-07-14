@@ -1,7 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Line } from 'react-chartjs-2'
-import { COLOUR_PALETTE } from '../assets/constants'
+import { COLOUR_PALETTE } from '../assets/constants';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -72,6 +72,9 @@ export default function MainGraph () {
             display: true,
             text: 'Time (H:MM)',
             font: { size: 14, weight: 'bold' }
+          },
+          ticks: {
+            maxTicksLimit: 20,
           }
         },
         y: {

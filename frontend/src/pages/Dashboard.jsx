@@ -1,5 +1,4 @@
 import React from 'react';
-import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/system';
 
 import MainGraph from '../components/MainGraph';

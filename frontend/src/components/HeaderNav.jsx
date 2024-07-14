@@ -53,7 +53,7 @@ export default function HeaderNav() {
       case '/memeprediction':
         return 2;
       default:
-        return 0;
+        return false;
     }
   };
 
