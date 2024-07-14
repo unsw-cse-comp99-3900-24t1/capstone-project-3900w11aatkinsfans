@@ -1,6 +1,7 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Line } from 'react-chartjs-2'
+import { COLOUR_PALETTE } from '../assets/constants'
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -23,6 +24,7 @@ ChartJS.register(
 
 export default function MainGraph () {
   const [chartData, setChartData] = React.useState({
+    labels: [],
     datasets: []
   });
   const [chartOptions, setChartOptions] = React.useState({});
@@ -33,86 +35,80 @@ export default function MainGraph () {
   const navigate = useNavigate();
 
   React.useEffect(() => {
-    fetch('http://localhost:5000/dashboard/overview_data')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Bad response');
-        }
-        return response.json();
-      })
-      .then(data => {
-        // set colors
-        let datasets = data.entries;
-        for (const entry of datasets) {
-          // console.log(entry);
-          const randomColor = Math.floor(Math.random()*16777215).toString(16);
-          entry.borderColor = '#' + randomColor;
-          entry.backgroundColor = '#' + randomColor + 'E6';
-          entry.hoverBorderWidth = 10;
-          entry.tension = 0.1;
-        }
-        // set chart data and options
-        setChartData({
-          labels: data.xLabels,
-          datasets: datasets
-        })
-        setChartOptions({
-          scales: {
-            x: {
-              title: {
-                display: true,
-                text: 'Time (H:MM)',
-                font: { size: 14, weight: 'bold' }
-              }
-            },
-            y: {
-              title: {
-                display: true,
-                text: 'Volume',
-                font: { size: 14, weight: 'bold' }
-              }
-            }
-          },
-          responsive: true,
-          maintainAspectRatio: false,
-          plugins: {
-            title: {
-              display: true,
-              text: "Top \'meme\' phrases during 1/08/2008",
-              font: { size: 16 }
-            },
-            legend: { display: false },
-            tooltip: {
-              intersect: false,
-              mode: 'nearest',
-              axis: 'xy',
-              padding: 10,
-              caretPadding: 20,
-              caretSize: 10,
-              yAlign: 'bottom',
-            },
-          },
-          hover: {
-            intersect: true,
-          },
-          // highlighting when hovering on line
-          onHover: onHover,
-          // onclick functionality
-          onClick: (event, chartElements) => {
-            if (chartElements && chartElements.length > 0) {
-              const chart = event.chart;
-              const datasetIndex = chartElements[0].datasetIndex;
-              const datasetItem = chart.data.datasets[datasetIndex];
-              console.log("Clicked dataset: " + datasetItem.label);
-              const memeId = 1;
-              navigate(`/meme/${memeId}`);
-            }
+    for (let i = 1; i <= 10; i++) {
+      let filename = 'cluster_' + i;
+      fetch((process.env.REACT_APP_BACKEND_URL ||
+        'http://localhost:5000') + '/clusters/sample1')
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Bad response');
           }
+          return response.json();
         })
-      })
-      .catch(err => {
-        console.log(err);
-      });
+        .then(data => {
+          // set colors and dataset options
+          let dataset = data.popularityCurve;
+          dataset.borderColor = COLOUR_PALETTE[i-1];
+          dataset.backgroundColor = COLOUR_PALETTE[i-1] + 'E6';
+          dataset.hoverBorderWidth = 10;
+          dataset.tension = 0.1;
+          dataset.id = i;
+          // set chart data
+          // only update xLabels if a dataset with more values are found
+          setChartData(prevChartData => ({
+            labels: dataset.xLabels.length > prevChartData.labels.length ? dataset.xLabels : prevChartData.labels,
+            datasets: [...prevChartData.datasets, dataset],
+          }));
+        })
+        .catch(err => {
+          console.log(err);
+        });
+      }
+    // set chart options
+    setChartOptions({
+      scales: {
+        x: {
+          title: {
+            display: true,
+            text: 'Time (H:MM)',
+            font: { size: 14, weight: 'bold' }
+          }
+        },
+        y: {
+          title: {
+            display: true,
+            text: 'Volume',
+            font: { size: 14, weight: 'bold' }
+          }
+        }
+      },
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        title: {
+          display: true,
+          text: "Top \'meme\' phrases during 1/08/2008",
+          font: { size: 16 }
+        },
+        legend: { display: false },
+        tooltip: {
+          intersect: false,
+          mode: 'nearest',
+          axis: 'xy',
+          padding: 10,
+          caretPadding: 20,
+          caretSize: 10,
+          yAlign: 'bottom',
+        },
+      },
+      hover: {
+        intersect: true,
+      },
+      // highlighting when hovering on line
+      onHover: onHover,
+      // onclick functionality to navigate to corresponding page
+      onClick: onClick
+    })
   }, []);
 
   const onHover = (event, chartElement) => {
@@ -144,6 +140,15 @@ export default function MainGraph () {
     }
   }
 
+  const onClick = (event, chartElements) => {
+    if (chartElements && chartElements.length > 0) {
+      const chart = event.chart;
+      const datasetIndex = chartElements[0].datasetIndex;
+      const datasetItem = chart.data.datasets[datasetIndex];
+      navigate(`/meme/${datasetItem.id}`);
+    }
+  }
+
   return (
     <>
     <div>
@@ -155,7 +160,7 @@ export default function MainGraph () {
           </div>
         ) : (
           <div>
-            Loading...
+            Loading chart data...
           </div>
         )
       }

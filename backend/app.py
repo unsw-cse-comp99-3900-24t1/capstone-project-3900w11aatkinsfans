@@ -1,11 +1,8 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, abort, send_from_directory
 from flask_cors import CORS
 from csv_to_json import get_json_data
 import pandas as pd
-
-"""
-Basic Skeleton for a Flask app that you can use in a docker container.
-"""
+import os
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
@@ -18,16 +15,24 @@ def test():
     }
     return jsonify(data)
 
-# TODO: fetch from database in the future instead of local backend
+# Initial method of serving main graph data through a pre-processed excel
 @app.route('/dashboard/overview_data', methods=['GET'])
 def get_overview_data():
     json_data = get_json_data('assets/overview_data.csv')
     return jsonify(json_data)
-    
-## getPopular 
+
+# route for getting cluster_id.json given the file name
+@app.route('/clusters/<string:filename>', methods=['GET'])
+def get_cluster(filename):
+    if not os.path.isfile(f'assets/clusters/{filename}.json'):
+        abort(404, description="File not found")
+    return send_from_directory('assets/clusters/', f'{filename}.json')
+
+# getPopular 
 @app.route('/getPopular')
 def popular():
-    df = pd.read_csv('sorted_clusters.csv')
+
+    df = pd.read_csv('assets/sorted_clusters.csv')
     df['Timestamp'] = pd.to_datetime(df['Timestamp'])
 
     earliest_timestamp = df['Timestamp'].min()
