@@ -1,5 +1,4 @@
 import React from 'react';
-import { Outlet } from 'react-router-dom';
 import { styled } from '@mui/system';
 
 import MainGraph from '../components/MainGraph';
@@ -14,6 +13,7 @@ export default function Dashboard () {
     margin: '3vh 3vw 30px 3vw',
     borderRadius: '12px',
     padding: '1vw',
+    boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
   });
 
   const CurrentMemesDiv = styled('div')({
@@ -21,7 +21,7 @@ export default function Dashboard () {
     height: '30vh',
     display: 'flex',
     justifyContent: 'center', 
-    alignItems: 'flex-start', 
+    alignItems: 'flex-start',
   });
   const CurrentMemes = styled('div')({
     width: '92vw',
@@ -37,6 +37,7 @@ export default function Dashboard () {
     flexDirection: 'column',
     backgroundColor: 'white',
     borderRadius: '12px',
+    boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
   });
   return (
     <>

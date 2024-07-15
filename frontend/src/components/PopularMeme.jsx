@@ -66,7 +66,8 @@ export default function PopularMeme() {
     const handleClose = () => setOpen(false);
 
     useEffect(() => {
-        fetch('http://localhost:5000/getPopular')
+        fetch((process.env.REACT_APP_BACKEND_URL ||
+            'http://localhost:5000') +'/getPopular')
             .then(response => {
                 if (!response.ok) {
                     throw new Error('Network response was not ok');

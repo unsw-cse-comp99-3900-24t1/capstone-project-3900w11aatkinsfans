@@ -1,5 +1,5 @@
 # version of node to use
-FROM node:14
+FROM node:18
 # this is the working directory inside the container
 WORKDIR /usr/src/app
 # copy package.json and package-lock.json to the working directory (required to install dependencies)

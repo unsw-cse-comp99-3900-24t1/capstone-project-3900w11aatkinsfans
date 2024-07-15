@@ -1,5 +1,4 @@
 import csv
-import json
 import numpy as np
 
 # Function to convert a CSV to JSON from the form:

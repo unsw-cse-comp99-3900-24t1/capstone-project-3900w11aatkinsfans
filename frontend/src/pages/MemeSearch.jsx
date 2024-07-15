@@ -136,7 +136,8 @@ export default function MemeSearch() {
   const [memeCount, setMemeCount] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:5000/getPopular')
+    fetch((process.env.REACT_APP_BACKEND_URL ||
+      'http://localhost:5000') + '/getPopular')
       .then(response => {
           if (!response.ok) {
               throw new Error('Network response was not ok');
@@ -160,7 +161,14 @@ export default function MemeSearch() {
   }
 
   if (!popularData) {
-    return <div>Loading...</div>;
+    return (
+      <>
+        <SearchBar />
+        <SearchResultDatabaseSize>
+          Loading...
+        </SearchResultDatabaseSize>
+      </>
+    );
   }
 
   return (
