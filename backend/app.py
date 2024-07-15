@@ -1,11 +1,20 @@
 from flask import Flask, request, jsonify, abort, send_from_directory
 from flask_cors import CORS
 from csv_to_json import get_json_data
+from database.database import Database
 import pandas as pd
 import os
 
+
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
+
+# Setting up MongoDB connection
+db = Database(uri='mongodb://localhost:27017', db_name='3900')
+
+@app.route('/')
+def home():
+    return "Welcome to the Flask API!"
 
 @app.route('/test')
 def test():
@@ -69,6 +78,12 @@ def search():
 
     # Return a response with number 1
     return jsonify({'clusterID': 1})
+
+app.route('/dashboard/overview_data_db', methods=['GET'])
+def get_overview_data_db():
+    data = db.find_all('overview_data', {})
+    json_data = [doc for doc in data]
+    return jsonify(json_data)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
