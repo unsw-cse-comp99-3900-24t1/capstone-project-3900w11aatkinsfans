@@ -8,7 +8,9 @@ from sentence_transformers import SentenceTransformer
 import joblib
 import csv
 from sklearn.decomposition import PCA
-
+import json
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
@@ -16,30 +18,33 @@ CORS(app, resources={r"/*": {"origins": "*"}})
 # Setting up MongoDB connection
 db = Database(uri='mongodb://localhost:27017', db_name='3900')
 model = SentenceTransformer("all-MiniLM-L6-v2")
-
-def load_quotes_from_csv(csv_file):
-    quotes = []
-    with open(csv_file, 'r') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            quotes.append(row['quote'])
-    return quotes
-csv_file = "sorted_clusters2.csv"
-quotes = load_quotes_from_csv(csv_file)
-
-
-def vectorize_quotes(quotes, model):
-    embeddings = model.encode(quotes)
-    return embeddings
-
-embeddings_360d = vectorize_quotes(quotes, model)
-
-pca_model = PCA(n_components=100, random_state=0)
-pca_model.fit(embeddings_360d)
-
-joblib.dump(pca_model, 'pca_model.pkl')
 pca_model = joblib.load('pca_model.pkl')
-print("Done initialising")
+
+# Load cluster centers from CSV
+cluster_centers_file = 'assets/cluster_centers.csv'
+cluster_centers = {}
+with open(cluster_centers_file, 'r') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        cluster_id = int(row['cluster_id'])
+        center_vector = json.loads(row['center_vector'])
+        cluster_centers[cluster_id] = np.array(center_vector)
+
+def vectorize_and_reduce(sentence, model, pca_model):
+    vector_360d = model.encode(sentence)
+    vector_100d = pca_model.transform([vector_360d])[0]
+    return vector_100d
+
+def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
+    input_vector = vectorize_and_reduce(sentence, model, pca_model)
+    min_distance = float('inf')
+    closest_cluster_id = None
+    for cluster_id, center_vector in cluster_centers.items():
+        distance = 1 - cosine_similarity([input_vector], [center_vector])[0][0]
+        if distance < min_distance:
+            min_distance = distance
+            closest_cluster_id = cluster_id
+    return closest_cluster_id
 
 @app.route('/')
 def home():
@@ -102,11 +107,13 @@ def search():
     data = request.get_json()
     search_text = data.get('searchText')
 
-    # Add cluster finding algorithm here.
-    print(f"Received search text: {search_text}")
+    if not search_text:
+        return jsonify({'error': 'searchText is required'}), 400
 
-    # Return a response with number 1
-    return jsonify({'clusterID': 1})
+    # Find the closest cluster ID for the given search text
+    closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
+
+    return jsonify({'clusterID': closest_cluster_id})
 
 app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
