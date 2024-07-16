@@ -1,22 +1,50 @@
 from flask import Flask, request, jsonify, abort, send_from_directory
 from flask_cors import CORS
-from csv_to_json import get_json_data
-from database.database import Database
 import pandas as pd
 import os
-import csv
-import json
-import numpy as np
-from sklearn.decomposition import PCA
-from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 import joblib
+import csv
+from sklearn.decomposition import PCA
+import json
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
+from database.database import Database
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Setting up MongoDB connection
 db = Database(uri='mongodb://localhost:27017', db_name='3900')
+
+model = SentenceTransformer("all-MiniLM-L6-v2")
+pca_model = joblib.load('pca_model.pkl')
+
+# Load cluster centers from CSV
+cluster_centers_file = 'cluster_centers.csv'
+cluster_centers = {}
+with open(cluster_centers_file, 'r') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        cluster_id = int(row['cluster_id'])
+        center_vector = json.loads(row['center_vector'])
+        cluster_centers[cluster_id] = np.array(center_vector)
+
+def vectorize_and_reduce(sentence, model, pca_model):
+    vector_360d = model.encode(sentence)
+    vector_100d = pca_model.transform([vector_360d])[0]
+    return vector_100d
+
+def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
+    input_vector = vectorize_and_reduce(sentence, model, pca_model)
+    min_distance = float('inf')
+    closest_cluster_id = None
+    for cluster_id, center_vector in cluster_centers.items():
+        distance = 1 - cosine_similarity([input_vector], [center_vector])[0][0]
+        if distance < min_distance:
+            min_distance = distance
+            closest_cluster_id = cluster_id
+    return closest_cluster_id
 
 @app.route('/')
 def home():
@@ -75,53 +103,16 @@ def popular():
     return jsonify(data)
 
 @app.route('/memesearch', methods=['POST'])
-
-
-def vectorize_and_reduce(sentence, model, pca_model):
-    vector_360d = model.encode(sentence)
-    vector_100d = pca_model.transform([vector_360d])[0]
-    return vector_100d
-
-def load_cluster_centers_csv(cluster_centers_file):
-    cluster_centers = {}
-    with open(cluster_centers_file, 'r') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            cluster_id = int(row['cluster_id'])
-            center_vector = json.loads(row['center_vector'])
-            cluster_centers[cluster_id] = np.array(center_vector)
-    return cluster_centers
-
-def find_closest_cluster_id(sentence, model, pca_model, cluster_centers, clusters_dir='clusters'):
-    # Vectorize the sentence and reduce dimensionality
-    input_vector = vectorize_and_reduce(sentence, model, pca_model)
-
-    # Find the closest cluster
-    min_distance = float('inf')
-    closest_cluster_id = None
-    for cluster_id, center_vector in cluster_centers.items():
-        distance = 1 - cosine_similarity([input_vector], [center_vector])[0][0]
-        if distance < min_distance:
-            min_distance = distance
-            closest_cluster_id = cluster_id
-    return closest_cluster_id
-
 def search():
     data = request.get_json()
     search_text = data.get('searchText')
 
-    # Add cluster finding algorithm here.
-    print(f"Received search text: {search_text}")
+    if not search_text:
+        return jsonify({'error': 'searchText is required'}), 400
 
-    # Initialize the SentenceTransformer model
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    pca_model = joblib.load('pca_model.pkl')
-    cluster_centers_file = 'cluster_centers.csv'  # Path to your cluster centers CSV file
-
-    cluster_centers = load_cluster_centers_csv(cluster_centers_file)
-
+    # Find the closest cluster ID for the given search text
     closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
-    # Return a response with number 1
+
     return jsonify({'clusterID': closest_cluster_id})
 
 app.route('/dashboard/overview_data_db', methods=['GET'])
