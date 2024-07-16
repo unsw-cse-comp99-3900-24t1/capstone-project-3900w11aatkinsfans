@@ -1,12 +1,10 @@
 from flask import Flask, request, jsonify, abort, send_from_directory
 from flask_cors import CORS
-from csv_to_json import get_json_data
+import numpy as np
 from database.database import Database
 import pandas as pd
-import os
 import csv
 import json
-import numpy as np
 from sklearn.decomposition import PCA
 from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
