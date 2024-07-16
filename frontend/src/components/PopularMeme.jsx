@@ -98,7 +98,7 @@ export default function PopularMeme() {
 
     // Clicking on most popular memes table to search 
     const handleCellClick = (clusterID) => {
-        navigate(`/meme/${clusterID}`);
+        navigate(`/meme/${clusterID - 1}`);
     };
 
     return (

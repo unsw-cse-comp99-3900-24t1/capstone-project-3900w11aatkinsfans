@@ -154,7 +154,7 @@ export default function MemeSearch() {
 
   // Clicking on most popular memes table to search 
   const handleCellClick = (clusterID) => {
-    navigate(`/meme/${clusterID}`);
+    navigate(`/meme/${clusterID - 1}`);
   };
 
   if (error) {

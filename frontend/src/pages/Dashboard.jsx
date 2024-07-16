@@ -55,6 +55,8 @@ export default function Dashboard () {
           </CurrentMemes>
         </CurrentMemesDiv>
       </div>
+      <br></br>
+      <br></br>
     </>
   );
 }

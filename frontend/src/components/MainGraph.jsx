@@ -39,7 +39,7 @@ export default function MainGraph () {
     let isMounted = true;
     
     const fetchData = async () => {
-      for (let i = 1; i <= 10; i++) {
+      for (let i = 0; i <= 4; i++) {
         let filename = 'cluster_' + i;
         try {
           const response = await fetch((process.env.REACT_APP_BACKEND_URL ||
