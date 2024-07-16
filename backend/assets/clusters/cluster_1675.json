@@ -6,10 +6,7 @@
         "xLabels": [
             "01:22"
         ],
-        "label": {
-            "phrase": "select distinct cast year postdate as varchar 4 as year",
-            "count": 2
-        }
+        "label": "select distinct cast year postdate as varchar 4 as year"
     },
     "clusterList": [
         {

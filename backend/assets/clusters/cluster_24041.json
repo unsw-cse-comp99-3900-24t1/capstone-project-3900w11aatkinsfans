@@ -6,10 +6,7 @@
         "xLabels": [
             "03:00"
         ],
-        "label": {
-            "phrase": "the provider requires sessionstate to be enabled",
-            "count": 1
-        }
+        "label": "the provider requires sessionstate to be enabled"
     },
     "clusterList": [
         {

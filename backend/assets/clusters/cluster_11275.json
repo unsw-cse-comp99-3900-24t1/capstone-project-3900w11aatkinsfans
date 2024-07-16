@@ -6,10 +6,7 @@
         "xLabels": [
             "03:17"
         ],
-        "label": {
-            "phrase": "duplicate custoemrid is not allowed",
-            "count": 2
-        }
+        "label": "duplicate custoemrid is not allowed"
     },
     "clusterList": [
         {

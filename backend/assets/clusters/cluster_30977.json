@@ -6,10 +6,7 @@
         "xLabels": [
             "05:01"
         ],
-        "label": {
-            "phrase": "hits per day",
-            "count": 1
-        }
+        "label": "hits per day"
     },
     "clusterList": [
         {

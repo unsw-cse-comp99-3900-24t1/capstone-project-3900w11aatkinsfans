@@ -6,10 +6,7 @@
         "xLabels": [
             "03:34"
         ],
-        "label": {
-            "phrase": "from users where username and applicationname",
-            "count": 2
-        }
+        "label": "from users where username and applicationname"
     },
     "clusterList": [
         {

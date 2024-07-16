@@ -6,10 +6,7 @@
         "xLabels": [
             "04:03"
         ],
-        "label": {
-            "phrase": "q i have many connections in close wait what does this mean",
-            "count": 1
-        }
+        "label": "q i have many connections in close wait what does this mean"
     },
     "clusterList": [
         {

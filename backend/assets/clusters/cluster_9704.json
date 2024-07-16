@@ -6,10 +6,7 @@
         "xLabels": [
             "01:20"
         ],
-        "label": {
-            "phrase": "several java virtual machines running in the same process",
-            "count": 2
-        }
+        "label": "several java virtual machines running in the same process"
     },
     "clusterList": [
         {

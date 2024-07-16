@@ -6,10 +6,7 @@
         "xLabels": [
             "03:22"
         ],
-        "label": {
-            "phrase": "sudo ln s opt local bin ruby usr bin ruby",
-            "count": 1
-        }
+        "label": "sudo ln s opt local bin ruby usr bin ruby"
     },
     "clusterList": [
         {

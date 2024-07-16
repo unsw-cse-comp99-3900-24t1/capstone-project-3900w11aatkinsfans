@@ -6,10 +6,7 @@
         "xLabels": [
             "03:14"
         ],
-        "label": {
-            "phrase": "enable pop only for mail that arrives from now on",
-            "count": 1
-        }
+        "label": "enable pop only for mail that arrives from now on"
     },
     "clusterList": [
         {

@@ -6,10 +6,7 @@
         "xLabels": [
             "01:13"
         ],
-        "label": {
-            "phrase": "bin tests system ifconfig sh up",
-            "count": 1
-        }
+        "label": "bin tests system ifconfig sh up"
     },
     "clusterList": [
         {

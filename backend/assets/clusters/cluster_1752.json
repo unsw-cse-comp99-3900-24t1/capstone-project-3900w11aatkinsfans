@@ -6,10 +6,7 @@
         "xLabels": [
             "03:34"
         ],
-        "label": {
-            "phrase": "comment isapproved islockedout creationdate lastlogindate",
-            "count": 4
-        }
+        "label": "comment isapproved islockedout creationdate lastlogindate"
     },
     "clusterList": [
         {

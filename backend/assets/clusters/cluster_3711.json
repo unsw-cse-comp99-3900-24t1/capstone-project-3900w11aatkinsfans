@@ -12,10 +12,7 @@
             "04:50",
             "05:04"
         ],
-        "label": {
-            "phrase": "you have included a header file which contains private interfaces of sun microsystems inc or technology it has licensed",
-            "count": 2
-        }
+        "label": "you have included a header file which contains private interfaces of sun microsystems inc or technology it has licensed"
     },
     "clusterList": [
         {

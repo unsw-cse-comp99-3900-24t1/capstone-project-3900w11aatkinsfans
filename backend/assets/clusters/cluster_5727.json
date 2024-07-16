@@ -10,10 +10,7 @@
             "01:33",
             "03:24"
         ],
-        "label": {
-            "phrase": "shouldn't exception filters do the trick without the need to rethrow explicitly",
-            "count": 3
-        }
+        "label": "shouldn't exception filters do the trick without the need to rethrow explicitly"
     },
     "clusterList": [
         {

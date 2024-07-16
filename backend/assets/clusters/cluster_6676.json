@@ -6,10 +6,7 @@
         "xLabels": [
             "01:36"
         ],
-        "label": {
-            "phrase": "select distinct age range from pulse rate",
-            "count": 1
-        }
+        "label": "select distinct age range from pulse rate"
     },
     "clusterList": [
         {

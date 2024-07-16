@@ -6,10 +6,7 @@
         "xLabels": [
             "04:00"
         ],
-        "label": {
-            "phrase": "not surviving without ports",
-            "count": 1
-        }
+        "label": "not surviving without ports"
     },
     "clusterList": [
         {

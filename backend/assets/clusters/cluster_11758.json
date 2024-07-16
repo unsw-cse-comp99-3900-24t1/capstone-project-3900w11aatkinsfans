@@ -6,10 +6,7 @@
         "xLabels": [
             "04:04"
         ],
-        "label": {
-            "phrase": "xrandr output vga off output lvds auto",
-            "count": 1
-        }
+        "label": "xrandr output vga off output lvds auto"
     },
     "clusterList": [
         {

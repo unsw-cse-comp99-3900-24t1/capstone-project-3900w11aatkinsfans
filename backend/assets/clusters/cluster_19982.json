@@ -6,10 +6,7 @@
         "xLabels": [
             "01:38"
         ],
-        "label": {
-            "phrase": "select from usuarios where activo 0",
-            "count": 1
-        }
+        "label": "select from usuarios where activo 0"
     },
     "clusterList": [
         {

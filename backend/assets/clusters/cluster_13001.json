@@ -6,10 +6,7 @@
         "xLabels": [
             "00:05"
         ],
-        "label": {
-            "phrase": "iis localhost w3svc 1 root",
-            "count": 1
-        }
+        "label": "iis localhost w3svc 1 root"
     },
     "clusterList": [
         {

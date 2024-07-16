@@ -6,10 +6,7 @@
         "xLabels": [
             "01:21"
         ],
-        "label": {
-            "phrase": "keep only the last x versions",
-            "count": 1
-        }
+        "label": "keep only the last x versions"
     },
     "clusterList": [
         {

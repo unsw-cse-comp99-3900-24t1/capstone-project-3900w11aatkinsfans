@@ -6,10 +6,7 @@
         "xLabels": [
             "01:21"
         ],
-        "label": {
-            "phrase": "you can't have two tasks with the same name",
-            "count": 1
-        }
+        "label": "you can't have two tasks with the same name"
     },
     "clusterList": [
         {

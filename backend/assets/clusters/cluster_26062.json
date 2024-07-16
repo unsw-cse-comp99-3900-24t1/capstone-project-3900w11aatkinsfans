@@ -6,10 +6,7 @@
         "xLabels": [
             "03:36"
         ],
-        "label": {
-            "phrase": "file notify change last write",
-            "count": 1
-        }
+        "label": "file notify change last write"
     },
     "clusterList": [
         {

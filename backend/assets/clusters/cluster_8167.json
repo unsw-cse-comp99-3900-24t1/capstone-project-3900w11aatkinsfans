@@ -6,10 +6,7 @@
         "xLabels": [
             "00:10"
         ],
-        "label": {
-            "phrase": "ip igmp static-group",
-            "count": 2
-        }
+        "label": "ip igmp static-group"
     },
     "clusterList": [
         {

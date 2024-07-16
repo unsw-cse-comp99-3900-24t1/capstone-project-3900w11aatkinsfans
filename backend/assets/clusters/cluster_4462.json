@@ -12,10 +12,7 @@
             "02:55",
             "04:14"
         ],
-        "label": {
-            "phrase": "address 0x0000 expected 0xffff received 0x0100",
-            "count": 4
-        }
+        "label": "address 0x0000 expected 0xffff received 0x0100"
     },
     "clusterList": [
         {

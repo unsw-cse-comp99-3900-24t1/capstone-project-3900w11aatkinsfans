@@ -6,10 +6,7 @@
         "xLabels": [
             "01:22"
         ],
-        "label": {
-            "phrase": "select blogid posttitle",
-            "count": 2
-        }
+        "label": "select blogid posttitle"
     },
     "clusterList": [
         {

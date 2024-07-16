@@ -6,10 +6,7 @@
         "xLabels": [
             "02:28"
         ],
-        "label": {
-            "phrase": "set your bashrc or other shell login file to source",
-            "count": 1
-        }
+        "label": "set your bashrc or other shell login file to source"
     },
     "clusterList": [
         {

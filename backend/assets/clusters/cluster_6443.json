@@ -10,10 +10,7 @@
             "03:21",
             "04:22"
         ],
-        "label": {
-            "phrase": "server timeout retry",
-            "count": 1
-        }
+        "label": "server timeout retry"
     },
     "clusterList": [
         {

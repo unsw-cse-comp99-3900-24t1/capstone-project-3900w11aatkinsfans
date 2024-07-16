@@ -10,10 +10,7 @@
             "02:01",
             "04:17"
         ],
-        "label": {
-            "phrase": "select employeeid lastname address from employees",
-            "count": 2
-        }
+        "label": "select employeeid lastname address from employees"
     },
     "clusterList": [
         {

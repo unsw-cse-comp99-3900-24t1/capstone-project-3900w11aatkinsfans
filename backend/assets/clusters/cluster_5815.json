@@ -10,10 +10,7 @@
             "00:52",
             "01:33"
         ],
-        "label": {
-            "phrase": "return scan mask 0 amp 0x0080",
-            "count": 3
-        }
+        "label": "return scan mask 0 amp 0x0080"
     },
     "clusterList": [
         {

@@ -8,10 +8,7 @@
             "00:29",
             "04:33"
         ],
-        "label": {
-            "phrase": "file http https mailto ftp irc",
-            "count": 4
-        }
+        "label": "file http https mailto ftp irc"
     },
     "clusterList": [
         {

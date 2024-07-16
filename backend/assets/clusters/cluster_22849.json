@@ -6,10 +6,7 @@
         "xLabels": [
             "02:31"
         ],
-        "label": {
-            "phrase": "insert into shippers companyname phone values companyname phone select shipperid scope identity",
-            "count": 1
-        }
+        "label": "insert into shippers companyname phone values companyname phone select shipperid scope identity"
     },
     "clusterList": [
         {

@@ -10,10 +10,7 @@
             "01:00",
             "01:13"
         ],
-        "label": {
-            "phrase": "a scriptmanager control must exist on the current page",
-            "count": 2
-        }
+        "label": "a scriptmanager control must exist on the current page"
     },
     "clusterList": [
         {

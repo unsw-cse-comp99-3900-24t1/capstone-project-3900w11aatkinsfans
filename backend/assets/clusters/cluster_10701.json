@@ -8,10 +8,7 @@
             "02:24",
             "03:05"
         ],
-        "label": {
-            "phrase": "wp-includes directories to delete and the waiting for the new directories to upload via ftp",
-            "count": 1
-        }
+        "label": "wp-includes directories to delete and the waiting for the new directories to upload via ftp"
     },
     "clusterList": [
         {
