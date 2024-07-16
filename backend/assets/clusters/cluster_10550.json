@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the real deal",
+            "count": 1
+        },
+        {
+            "phrase": "the real thing",
+            "count": 1
+        }
+    ]
+}

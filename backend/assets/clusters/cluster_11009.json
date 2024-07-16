@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the purpose of the district attorney's office is to combat crime",
+            "count": 1
+        },
+        {
+            "phrase": "the main job of the district attorney is to act as a lawyer to enforce all of the laws of the state of kansas",
+            "count": 1
+        }
+    ]
+}

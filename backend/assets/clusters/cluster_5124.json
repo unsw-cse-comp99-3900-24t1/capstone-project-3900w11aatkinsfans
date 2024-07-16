@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "02:09",
+            "02:33",
+            "03:34"
+        ],
+        "label": "reuse"
+    },
+    "clusterList": [
+        {
+            "phrase": "reuse what you know",
+            "count": 1
+        },
+        {
+            "phrase": "there's lots of reusable code in the j2ee framework",
+            "count": 1
+        },
+        {
+            "phrase": "here's how you can reuse use for etc",
+            "count": 1
+        },
+        {
+            "phrase": "reuse any specialist codes you might be using as part of your strategy to work that magic",
+            "count": 1
+        }
+    ]
+}

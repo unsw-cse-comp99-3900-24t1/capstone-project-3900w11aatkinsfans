@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "01:02",
+            "01:10",
+            "01:33",
+            "01:37",
+            "03:01",
+            "03:46",
+            "04:12"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they approached me yesterday afternoon",
+            "count": 2
+        },
+        {
+            "phrase": "then they asked me if i would come out and submit a new application",
+            "count": 2
+        },
+        {
+            "phrase": "they chatted with me and even asked for my name and asked whether i would come again",
+            "count": 1
+        },
+        {
+            "phrase": "they're definitely interested in bringing me back we'll talk again in the beginning of august",
+            "count": 1
+        },
+        {
+            "phrase": "but they had different ways of trying to get to me",
+            "count": 1
+        },
+        {
+            "phrase": "they asked you if you needed a nudge after they jostled you",
+            "count": 1
+        },
+        {
+            "phrase": "i said them and i just forgot who i was talking to i was at my house i was relaxed",
+            "count": 1
+        }
+    ]
+}

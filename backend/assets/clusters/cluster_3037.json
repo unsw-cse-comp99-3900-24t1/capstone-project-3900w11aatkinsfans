@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "00:42",
+            "01:24",
+            "01:50"
+        ],
+        "label": "speaking"
+    },
+    "clusterList": [
+        {
+            "phrase": "the introduction and increasing use of antipsychotic medication the greater awareness of the treatment of psychosis by primary care providers after deinstitutionalisation and the creation of regional health authorities with responsibility for defined populations may have all contributed to the observed decline in homicide since the 1970s",
+            "count": 2
+        },
+        {
+            "phrase": "the number of homicides committed by people with mental distress have long been a tiny fraction of the total but due to sensational media coverage of one-off cases there has been a widespread misconception that they are more common than they really are",
+            "count": 2
+        },
+        {
+            "phrase": "speaking of wt psychos",
+            "count": 1
+        },
+        {
+            "phrase": "disorder and wickedness of every kind",
+            "count": 1
+        }
+    ]
+}

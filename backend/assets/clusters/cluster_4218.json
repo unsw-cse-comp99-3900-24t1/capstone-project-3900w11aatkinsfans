@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:05",
+            "04:08",
+            "04:28"
+        ],
+        "label": "something"
+    },
+    "clusterList": [
+        {
+            "phrase": "something of a transcendental or tantric nature",
+            "count": 1
+        },
+        {
+            "phrase": "emerges from religion only when ultimacy is transformed and becomes equated with the idea of the absolute",
+            "count": 1
+        },
+        {
+            "phrase": "a source of meaning that has no superior and cannot be transcended",
+            "count": 1
+        },
+        {
+            "phrase": "openness to the transcendent",
+            "count": 1
+        },
+        {
+            "phrase": "arrogance and folly",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:19",
+            "01:51",
+            "02:42",
+            "03:00",
+            "04:08",
+            "04:54"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm just writing the report now we haven't quite decided whether he committed suicide or died trying to escape",
+            "count": 4
+        },
+        {
+            "phrase": "he had a family he had friends he had plans for the future and had no reason to commit suicide",
+            "count": 1
+        },
+        {
+            "phrase": "it's tragic but the means of his death trying to save his wife is the way he lived his professional life",
+            "count": 1
+        },
+        {
+            "phrase": "but he messed up the lives of the other family that man had a wife and children",
+            "count": 1
+        },
+        {
+            "phrase": "he was moving through life and maybe not real appreciative of things",
+            "count": 1
+        }
+    ]
+}

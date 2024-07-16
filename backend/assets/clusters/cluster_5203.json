@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:52",
+            "04:14",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know i'm in good position",
+            "count": 2
+        },
+        {
+            "phrase": "i think we're in it",
+            "count": 1
+        },
+        {
+            "phrase": "it has been a really good move for us",
+            "count": 1
+        }
+    ]
+}

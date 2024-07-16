@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            4,
+            3,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:41",
+            "02:42",
+            "02:46",
+            "03:10",
+            "03:51",
+            "04:17",
+            "04:31",
+            "04:32",
+            "04:50"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can't drill our way out of this",
+            "count": 12
+        },
+        {
+            "phrase": "we can't drill our way out of this mess",
+            "count": 3
+        },
+        {
+            "phrase": "we can't drill our way out of this problem",
+            "count": 2
+        },
+        {
+            "phrase": "we need to get to the bottom of",
+            "count": 2
+        },
+        {
+            "phrase": "we are at or near the bottom",
+            "count": 2
+        },
+        {
+            "phrase": "we're getting to the bottom of that",
+            "count": 1
+        },
+        {
+            "phrase": "we have to start somewhere",
+            "count": 1
+        },
+        {
+            "phrase": "to see that we get to the bottom of this",
+            "count": 1
+        }
+    ]
+}

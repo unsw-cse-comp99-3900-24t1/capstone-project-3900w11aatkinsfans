@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "04:00",
+            "04:05",
+            "04:13",
+            "04:19",
+            "04:35",
+            "04:41",
+            "05:04"
+        ],
+        "label": "beauty"
+    },
+    "clusterList": [
+        {
+            "phrase": "carnival of disgust",
+            "count": 2
+        },
+        {
+            "phrase": "carnival of hurricane relief",
+            "count": 2
+        },
+        {
+            "phrase": "beauty and the feast",
+            "count": 1
+        },
+        {
+            "phrase": "bread and circuses",
+            "count": 1
+        },
+        {
+            "phrase": "a joyful exploration of food and wine affinties",
+            "count": 1
+        },
+        {
+            "phrase": "gathering of joy",
+            "count": 1
+        },
+        {
+            "phrase": "bread and circus",
+            "count": 1
+        },
+        {
+            "phrase": "carnival of delights",
+            "count": 1
+        }
+    ]
+}

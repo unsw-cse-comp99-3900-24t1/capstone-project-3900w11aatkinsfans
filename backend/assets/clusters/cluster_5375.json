@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:34",
+            "03:54",
+            "04:32"
+        ],
+        "label": "everybody"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody wants baked goods that are good for you but a lot of those health cookies are heavier than bricks you could bring down a bunny with some of the health food cookies people bake",
+            "count": 1
+        },
+        {
+            "phrase": "our customers appreciate the large variety of complimentary snack and beverage options already available to them as part of the core jetblue experience",
+            "count": 1
+        },
+        {
+            "phrase": "hostess 100-calorie packs are so cute you won't want to eat them these little cakes pack a sweet punch plus it's nice to be able to eat three of anything",
+            "count": 1
+        },
+        {
+            "phrase": "that's 20 20 20 20 chews per bite not 10 pancho",
+            "count": 1
+        }
+    ]
+}

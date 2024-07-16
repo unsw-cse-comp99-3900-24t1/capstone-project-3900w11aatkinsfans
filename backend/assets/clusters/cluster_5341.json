@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:51",
+            "03:44",
+            "04:07",
+            "04:35"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is your favourite tv show of all time",
+            "count": 1
+        },
+        {
+            "phrase": "family friendly tv favorites",
+            "count": 1
+        },
+        {
+            "phrase": "best new tv show of the past year",
+            "count": 1
+        },
+        {
+            "phrase": "dart for the local tv",
+            "count": 1
+        }
+    ]
+}

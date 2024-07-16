@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "03:01",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the stuff left to do",
+            "count": 1
+        },
+        {
+            "phrase": "what goes around",
+            "count": 1
+        },
+        {
+            "phrase": "things that aren't there anymore",
+            "count": 1
+        }
+    ]
+}

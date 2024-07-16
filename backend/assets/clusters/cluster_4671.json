@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:42",
+            "04:32"
+        ],
+        "label": "shy"
+    },
+    "clusterList": [
+        {
+            "phrase": "shy please help me i've learned my lesson",
+            "count": 1
+        },
+        {
+            "phrase": "no shy that is not what i was going to say",
+            "count": 1
+        },
+        {
+            "phrase": "let me tell you no one was shy in the least",
+            "count": 1
+        },
+        {
+            "phrase": "i'm an introvert you are a wonderful person and i like you but now please shush",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:32",
+            "02:24"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a necessity",
+            "count": 1
+        },
+        {
+            "phrase": "one only has to believe it is necessary",
+            "count": 1
+        },
+        {
+            "phrase": "the convenience is all there",
+            "count": 1
+        }
+    ]
+}

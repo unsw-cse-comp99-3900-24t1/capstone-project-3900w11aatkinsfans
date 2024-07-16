@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "01:41",
+            "03:18"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's none of your business",
+            "count": 1
+        },
+        {
+            "phrase": "s-sir please s-state your business with king k roo argh",
+            "count": 1
+        },
+        {
+            "phrase": "my business with the king is none of your business you're not a very good guard are you",
+            "count": 1
+        },
+        {
+            "phrase": "halt state your business with king k rool at once",
+            "count": 1
+        },
+        {
+            "phrase": "what is my business with king k rool",
+            "count": 1
+        }
+    ]
+}

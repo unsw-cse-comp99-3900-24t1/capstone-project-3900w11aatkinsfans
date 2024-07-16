@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            7,
+            7,
+            7,
+            2,
+            1,
+            7,
+            7,
+            7
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:05",
+            "02:32",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was the one that started it all",
+            "count": 18
+        },
+        {
+            "phrase": "i was the one who started it all",
+            "count": 12
+        },
+        {
+            "phrase": "that was the one that you didn't hear of but that was the one that started it all",
+            "count": 6
+        },
+        {
+            "phrase": "that was the one that started it all",
+            "count": 6
+        },
+        {
+            "phrase": "and this was only the beginning",
+            "count": 2
+        },
+        {
+            "phrase": "that was the play or the game or the series where it all came together",
+            "count": 1
+        }
+    ]
+}

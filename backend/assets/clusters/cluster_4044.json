@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:20",
+            "01:01",
+            "02:20",
+            "03:56"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "that or you pick out of a hat which is not fun we can run faster than dashboard confessional so if it comes down to a foot race it should be us",
+            "count": 3
+        },
+        {
+            "phrase": "we're in between races at the moment so now is the ideal time to get someone new on board",
+            "count": 1
+        },
+        {
+            "phrase": "they are in the race and i'm ready to do my job",
+            "count": 1
+        }
+    ]
+}

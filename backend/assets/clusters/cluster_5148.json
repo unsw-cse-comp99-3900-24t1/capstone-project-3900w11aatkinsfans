@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:45",
+            "03:06",
+            "04:28"
+        ],
+        "label": "citizen"
+    },
+    "clusterList": [
+        {
+            "phrase": "citizen of the world",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:28",
+            "00:42",
+            "00:46",
+            "01:24",
+            "02:15",
+            "04:32"
+        ],
+        "label": "funny"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's in a name",
+            "count": 2
+        },
+        {
+            "phrase": "funny sounding name",
+            "count": 1
+        },
+        {
+            "phrase": "having a funny name",
+            "count": 1
+        },
+        {
+            "phrase": "trying to be funny what is your surname",
+            "count": 1
+        },
+        {
+            "phrase": "why would anybody name a drink bob",
+            "count": 1
+        },
+        {
+            "phrase": "i've thought of a nickname for you",
+            "count": 1
+        }
+    ]
+}

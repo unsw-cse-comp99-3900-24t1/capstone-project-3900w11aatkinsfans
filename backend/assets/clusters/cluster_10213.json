@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "04:35"
+        ],
+        "label": "born"
+    },
+    "clusterList": [
+        {
+            "phrase": "born on the 17th",
+            "count": 1
+        },
+        {
+            "phrase": "it's christmas in july",
+            "count": 1
+        }
+    ]
+}

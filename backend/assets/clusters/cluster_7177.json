@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:06",
+            "03:43",
+            "04:41"
+        ],
+        "label": "cheap"
+    },
+    "clusterList": [
+        {
+            "phrase": "cheap ink with inkers biz",
+            "count": 1
+        },
+        {
+            "phrase": "fiskars new pigment inks a personal review",
+            "count": 1
+        },
+        {
+            "phrase": "ink by the gallon",
+            "count": 1
+        }
+    ]
+}

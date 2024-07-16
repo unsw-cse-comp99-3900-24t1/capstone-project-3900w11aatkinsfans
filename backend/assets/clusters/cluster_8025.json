@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the jobs are gone",
+            "count": 1
+        },
+        {
+            "phrase": "just got to look for another job i guess i'm going to miss the kids and the people",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:37",
+            "03:01",
+            "03:11",
+            "03:14",
+            "03:36",
+            "04:16",
+            "04:41",
+            "05:03"
+        ],
+        "label": "roads"
+    },
+    "clusterList": [
+        {
+            "phrase": "roads to ruin why america is falling apart",
+            "count": 2
+        },
+        {
+            "phrase": "the highway man",
+            "count": 1
+        },
+        {
+            "phrase": "roads where we're going we don't need roads",
+            "count": 1
+        },
+        {
+            "phrase": "road to freedom",
+            "count": 1
+        },
+        {
+            "phrase": "american v a hundred highways",
+            "count": 1
+        },
+        {
+            "phrase": "expressway to your heart",
+            "count": 1
+        },
+        {
+            "phrase": "a ride along the lincoln highway",
+            "count": 1
+        },
+        {
+            "phrase": "back roads to the white house",
+            "count": 1
+        }
+    ]
+}

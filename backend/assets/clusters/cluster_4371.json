@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "01:39",
+            "04:46"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my government blew through my doors and killed my dogs",
+            "count": 4
+        }
+    ]
+}

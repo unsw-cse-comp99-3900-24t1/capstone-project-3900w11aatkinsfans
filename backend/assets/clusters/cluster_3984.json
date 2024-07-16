@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:20",
+            "00:41",
+            "02:01",
+            "03:06"
+        ],
+        "label": "strip"
+    },
+    "clusterList": [
+        {
+            "phrase": "strip the bark",
+            "count": 3
+        },
+        {
+            "phrase": "it's my last resort in class it barking can create a symphony of barking",
+            "count": 1
+        },
+        {
+            "phrase": "it really started barking on me",
+            "count": 1
+        }
+    ]
+}

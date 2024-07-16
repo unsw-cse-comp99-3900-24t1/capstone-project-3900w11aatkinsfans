@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:01",
+            "02:25"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so fun but i definitely am not 23 anymore",
+            "count": 1
+        },
+        {
+            "phrase": "i will be with you even to the end of the world",
+            "count": 1
+        },
+        {
+            "phrase": "i will be with you even to the end of the age",
+            "count": 1
+        }
+    ]
+}

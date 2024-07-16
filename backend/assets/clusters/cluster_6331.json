@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "00:56",
+            "01:14"
+        ],
+        "label": "whose"
+    },
+    "clusterList": [
+        {
+            "phrase": "whose responsibility is sustainable consumerism",
+            "count": 1
+        },
+        {
+            "phrase": "what does it mean to have a sustainable brand",
+            "count": 1
+        },
+        {
+            "phrase": "positiveness of domestic seafood sustainability",
+            "count": 1
+        }
+    ]
+}

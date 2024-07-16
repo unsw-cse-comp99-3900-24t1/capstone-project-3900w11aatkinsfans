@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:33",
+            "03:12"
+        ],
+        "label": "aesthetic"
+    },
+    "clusterList": [
+        {
+            "phrase": "aesthetic tone across all titles",
+            "count": 2
+        },
+        {
+            "phrase": "the aesthetics of one line",
+            "count": 1
+        }
+    ]
+}

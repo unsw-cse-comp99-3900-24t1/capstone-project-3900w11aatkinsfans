@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:10",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "especially"
+    },
+    "clusterList": [
+        {
+            "phrase": "especially when we're using enough power for 10 houses just for stage lighting it'd be a bit hypocritical",
+            "count": 5
+        },
+        {
+            "phrase": "that's the whole idea behind the high-efficiency home",
+            "count": 1
+        }
+    ]
+}

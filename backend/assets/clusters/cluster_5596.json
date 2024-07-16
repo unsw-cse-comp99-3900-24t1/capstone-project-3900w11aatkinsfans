@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "01:30",
+            "03:54",
+            "05:04"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a reason a season and a lifetime",
+            "count": 1
+        },
+        {
+            "phrase": "time of the season",
+            "count": 1
+        },
+        {
+            "phrase": "start a new season",
+            "count": 1
+        },
+        {
+            "phrase": "to every thing there is a season and a time to every purpose",
+            "count": 1
+        }
+    ]
+}

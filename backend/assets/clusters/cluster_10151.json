@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:22"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have no control over who's arrested here or prosecuted here",
+            "count": 1
+        },
+        {
+            "phrase": "the crime that we are looking at here just can't be tolerated anywhere",
+            "count": 1
+        }
+    ]
+}

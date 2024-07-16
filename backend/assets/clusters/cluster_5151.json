@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:24",
+            "03:02",
+            "03:25"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is hard to explain the emotion of the people i was privileged to spend time with to listen to their stories to listen to their understanding of what occurred over there",
+            "count": 2
+        },
+        {
+            "phrase": "we're going to give them a little education on what crisis and trauma are what they look like what some of the emotional psychological reactions may be or may not be we all react to things differently",
+            "count": 1
+        },
+        {
+            "phrase": "they seemed to be less afraid of what other people would say or demand or laugh at perhaps more important however was their lack of fear of their own insides of their own impulses emotions thoughts",
+            "count": 1
+        }
+    ]
+}

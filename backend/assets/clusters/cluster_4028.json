@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:29",
+            "02:24",
+            "04:06",
+            "04:41"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from the internet",
+            "count": 1
+        },
+        {
+            "phrase": "caught on camera",
+            "count": 1
+        },
+        {
+            "phrase": "caught on the web",
+            "count": 1
+        },
+        {
+            "phrase": "caught you looking",
+            "count": 1
+        },
+        {
+            "phrase": "the web's dirty little secret",
+            "count": 1
+        }
+    ]
+}

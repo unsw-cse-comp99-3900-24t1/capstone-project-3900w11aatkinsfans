@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:32",
+            "02:01",
+            "03:10",
+            "03:27",
+            "04:08",
+            "04:42",
+            "04:45"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "newspapers can't cut their way into the future",
+            "count": 4
+        },
+        {
+            "phrase": "this decision to move to a five-day print newspaper was a difficult one for me and for our colleagues at the new york times co but we believe it is a necessary one and not unlike changes that all newspapers and media companies are currently experiencing",
+            "count": 2
+        },
+        {
+            "phrase": "we believe obviously that media is fragmenting but if you can build your portfolio by launch and acquisition and the right combination of products to meet the needs of readers and advertisers there's no reason you can't grow very healthily in the future",
+            "count": 1
+        },
+        {
+            "phrase": "in every industry sooner or later there is a radical change in the language of its products",
+            "count": 1
+        },
+        {
+            "phrase": "publications are going through a reinvention period",
+            "count": 1
+        },
+        {
+            "phrase": "we currently produce between three and five newspapers per night but from 2009 we'll have a new newspaper title because of the national circulation of the newspapers within sweden and the distances over which they need to be delivered we have a very small time window in which to print the magnum 4 press will enable us to run at faster speeds and therefore increase our production capacity",
+            "count": 1
+        },
+        {
+            "phrase": "we expect to see much less waste and greater operational efficiencies once the new press is up and running",
+            "count": 1
+        }
+    ]
+}

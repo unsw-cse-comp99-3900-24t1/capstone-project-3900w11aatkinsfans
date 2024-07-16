@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "03:50"
+        ],
+        "label": "factors"
+    },
+    "clusterList": [
+        {
+            "phrase": "factors that probably influenced the actions of the truck driver included a low expectation that a train would be encountered at the crossing failure to sight the train due to glare from the sun and possibily fatigue",
+            "count": 1
+        },
+        {
+            "phrase": "based on the evidence there was nothing that the drivers of train 3835 could have done to prevent or lessen the impact of the collision with the semi-trailer",
+            "count": 1
+        },
+        {
+            "phrase": "the age of the driver was one of the things taken into consideration relative to driver reaction times",
+            "count": 1
+        }
+    ]
+}

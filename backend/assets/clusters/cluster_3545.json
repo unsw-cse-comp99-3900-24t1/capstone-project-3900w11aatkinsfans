@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:20",
+            "02:31",
+            "04:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "someone gutted this book",
+            "count": 2
+        },
+        {
+            "phrase": "the collected works of abraham lincoln edited by roy p",
+            "count": 1
+        },
+        {
+            "phrase": "a book is like a garden carried in the pocket",
+            "count": 1
+        },
+        {
+            "phrase": "rudyard kipling's the jungle book",
+            "count": 1
+        }
+    ]
+}

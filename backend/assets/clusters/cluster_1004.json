@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "00:56",
+            "01:00",
+            "01:07",
+            "01:56",
+            "02:19",
+            "02:29",
+            "02:33",
+            "03:18",
+            "04:01",
+            "04:24",
+            "04:43"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was kind of disappointed i wasn't there",
+            "count": 1
+        },
+        {
+            "phrase": "guy who was there",
+            "count": 1
+        },
+        {
+            "phrase": "someone got there before me",
+            "count": 1
+        },
+        {
+            "phrase": "i wasn't there",
+            "count": 1
+        },
+        {
+            "phrase": "he was there",
+            "count": 1
+        },
+        {
+            "phrase": "see i was there",
+            "count": 1
+        },
+        {
+            "phrase": "i was at the concert",
+            "count": 1
+        },
+        {
+            "phrase": "i was there of course",
+            "count": 1
+        },
+        {
+            "phrase": "as you were",
+            "count": 1
+        },
+        {
+            "phrase": "i was in the neighbourhood",
+            "count": 1
+        },
+        {
+            "phrase": "where was i",
+            "count": 1
+        },
+        {
+            "phrase": "and what were you doing in there",
+            "count": 1
+        },
+        {
+            "phrase": "and what did you there",
+            "count": 1
+        },
+        {
+            "phrase": "i wasn't goin anywhere",
+            "count": 1
+        },
+        {
+            "phrase": "i was at my mall walkers club",
+            "count": 1
+        }
+    ]
+}

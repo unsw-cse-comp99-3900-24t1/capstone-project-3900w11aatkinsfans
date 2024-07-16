@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:22",
+            "04:32"
+        ],
+        "label": "macintosh"
+    },
+    "clusterList": [
+        {
+            "phrase": "macintosh stefandozier which psql opt local lib postgresql83 bin psql macintosh stefandozier createuser enter name of role to add stefandozier shall the new role be a superuser",
+            "count": 1
+        },
+        {
+            "phrase": "install database software only",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:16",
+            "00:23",
+            "04:32"
+        ],
+        "label": "differentiation"
+    },
+    "clusterList": [
+        {
+            "phrase": "differentiation between them will need studies with laboratory-confirmed endpoints such as pneumonia or serious respiratory outcomes after a confirmed influenza infection",
+            "count": 1
+        },
+        {
+            "phrase": "it tends to happen seasonally at times when we have admitted a lot of patients with flu or pneumonia we transfer about 20 people a year because of the cap",
+            "count": 1
+        },
+        {
+            "phrase": "in addition people in their 70s and 80s and 90s are more prone to pneumonia with or without influence a number of these pneumonias may be secondary to other causes aside from influenza",
+            "count": 1
+        },
+        {
+            "phrase": "there are plenty of flu-related complications that are life-threatening besides pneumonia",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:04",
+            "03:14"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how much does it cost to join i know if i join you'll help me",
+            "count": 1
+        },
+        {
+            "phrase": "join on the fly",
+            "count": 1
+        }
+    ]
+}

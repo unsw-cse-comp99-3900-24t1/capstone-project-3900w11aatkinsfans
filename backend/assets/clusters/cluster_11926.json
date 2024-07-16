@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:18",
+            "04:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the roots come alive",
+            "count": 1
+        },
+        {
+            "phrase": "it's my roots",
+            "count": 1
+        }
+    ]
+}

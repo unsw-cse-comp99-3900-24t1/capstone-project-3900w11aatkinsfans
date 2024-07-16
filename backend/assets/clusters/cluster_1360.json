@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:11",
+            "01:20",
+            "01:24",
+            "01:29",
+            "01:32",
+            "01:33",
+            "01:50",
+            "02:24",
+            "03:27",
+            "04:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't see that coming",
+            "count": 8
+        },
+        {
+            "phrase": "this was quite unexpected",
+            "count": 2
+        },
+        {
+            "phrase": "yeah i was expecting it",
+            "count": 1
+        },
+        {
+            "phrase": "we weren't expecting it",
+            "count": 1
+        }
+    ]
+}

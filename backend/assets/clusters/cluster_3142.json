@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:24",
+            "02:09",
+            "04:08",
+            "04:45"
+        ],
+        "label": "30"
+    },
+    "clusterList": [
+        {
+            "phrase": "stay a little longer",
+            "count": 4
+        },
+        {
+            "phrase": "30 weeks you're still so small",
+            "count": 1
+        },
+        {
+            "phrase": "i look as big now as i did at five months with my first pregnancy",
+            "count": 1
+        }
+    ]
+}

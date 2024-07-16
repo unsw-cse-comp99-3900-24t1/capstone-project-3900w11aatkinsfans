@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "01:51",
+            "02:57",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the judges were really impressed with him and what he did",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of judges",
+            "count": 1
+        },
+        {
+            "phrase": "whomever judges that",
+            "count": 1
+        },
+        {
+            "phrase": "who the judges feel is exciting",
+            "count": 1
+        }
+    ]
+}

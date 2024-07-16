@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:05",
+            "02:00",
+            "04:24"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't let the cave-in get you down",
+            "count": 2
+        },
+        {
+            "phrase": "you got me running going out of my mind you got me thinking me that i'm wasting my time don't bring me down no no no no no ooh ooh i'll tell you once more before i get off the floor don't bring me down",
+            "count": 1
+        },
+        {
+            "phrase": "holing up in a cave",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:24",
+            "00:28",
+            "01:11"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there could be a paternal transmission factor but we don't really know what it is",
+            "count": 3
+        },
+        {
+            "phrase": "but if the populations are very isolated it means they need even more protection because there's not a huge gene pool",
+            "count": 1
+        },
+        {
+            "phrase": "there will be risk factors throughout the genome and some may be paternally transmitted i think it would be too soon to exclude that",
+            "count": 1
+        }
+    ]
+}

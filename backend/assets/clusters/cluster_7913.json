@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "02:02"
+        ],
+        "label": "alfred"
+    },
+    "clusterList": [
+        {
+            "phrase": "alfred arteaga 1950-2008",
+            "count": 1
+        },
+        {
+            "phrase": "eric von hippel from mit",
+            "count": 1
+        }
+    ]
+}

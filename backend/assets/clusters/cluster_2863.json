@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "01:32",
+            "03:48",
+            "04:24"
+        ],
+        "label": "responsible"
+    },
+    "clusterList": [
+        {
+            "phrase": "serve interests greater than self",
+            "count": 2
+        },
+        {
+            "phrase": "serve a cause higher than self",
+            "count": 2
+        },
+        {
+            "phrase": "responsible passion for the greater good",
+            "count": 1
+        },
+        {
+            "phrase": "of high moral standing and competence",
+            "count": 1
+        }
+    ]
+}

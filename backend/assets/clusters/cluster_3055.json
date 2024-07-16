@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:45",
+            "00:59",
+            "03:13",
+            "03:16",
+            "04:08"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that was not a hard punch",
+            "count": 1
+        },
+        {
+            "phrase": "certainly had a rough time",
+            "count": 1
+        },
+        {
+            "phrase": "it was pretty well apart",
+            "count": 1
+        },
+        {
+            "phrase": "a little bit but really had no clue what was going on",
+            "count": 1
+        },
+        {
+            "phrase": "as rough as it was out there today anything can happen",
+            "count": 1
+        },
+        {
+            "phrase": "it was nothing out of the ordinary",
+            "count": 1
+        }
+    ]
+}

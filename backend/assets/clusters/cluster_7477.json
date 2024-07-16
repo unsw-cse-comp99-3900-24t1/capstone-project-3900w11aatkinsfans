@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:26",
+            "02:01",
+            "03:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the expansion of human knowledge of the earth and of phenomena in the atmosphere and space",
+            "count": 1
+        },
+        {
+            "phrase": "our ideas must be as broad as nature if we are to interpret nature",
+            "count": 1
+        },
+        {
+            "phrase": "logically explain the workings of the natural world around us",
+            "count": 1
+        }
+    ]
+}

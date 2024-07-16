@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:42",
+            "00:43",
+            "00:52",
+            "01:15",
+            "04:18"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so of course we didn't trust them",
+            "count": 3
+        },
+        {
+            "phrase": "they are not telling us the truth about this",
+            "count": 1
+        },
+        {
+            "phrase": "they lied to us",
+            "count": 1
+        },
+        {
+            "phrase": "we were lying about money",
+            "count": 1
+        }
+    ]
+}

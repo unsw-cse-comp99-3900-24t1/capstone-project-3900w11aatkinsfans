@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:33"
+        ],
+        "label": "carriers"
+    },
+    "clusterList": [
+        {
+            "phrase": "carriers do adjust their schedules and they adjust them based upon operational needs as well as market conditions",
+            "count": 1
+        },
+        {
+            "phrase": "found that meeting some of the carrier specific requirements will take longer than anticipated",
+            "count": 1
+        }
+    ]
+}

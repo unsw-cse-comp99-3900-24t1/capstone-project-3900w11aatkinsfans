@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "00:51",
+            "01:42",
+            "03:46",
+            "03:56",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a mystery this is a typically acidic environment perhaps this had to do with a nearby crater",
+            "count": 2
+        },
+        {
+            "phrase": "the bottom of the ocean is a vast virtually unknown geological feature the old clich that we know more about the surface of the moon and mars than the sea floor is true many astronauts have been on the moon but only two people have been to the deepest part of the ocean and one was an aggie",
+            "count": 1
+        },
+        {
+            "phrase": "martian water has been touched and tasted",
+            "count": 1
+        },
+        {
+            "phrase": "we recognize that under the existing soil there is some petroleum there is some metals",
+            "count": 1
+        },
+        {
+            "phrase": "in most locations the rocks are lightly altered by liquid water but in a few locations they have been so altered that a great deal of water must have flushed though the rocks and soil",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:14",
+            "03:23"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're not irish are you",
+            "count": 2
+        },
+        {
+            "phrase": "anyway as you can see from the information which i got mostly from my uncle jimmy i am your basic scots-irish",
+            "count": 1
+        }
+    ]
+}

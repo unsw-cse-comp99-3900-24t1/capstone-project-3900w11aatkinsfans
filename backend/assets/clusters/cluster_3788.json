@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:06",
+            "02:46",
+            "03:01",
+            "03:05"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can take your diploma walk off this stage and chase only after the big house and the nice suits and all the other things that our money culture says you should",
+            "count": 4
+        },
+        {
+            "phrase": "i should have diplomas all over that wall",
+            "count": 1
+        }
+    ]
+}

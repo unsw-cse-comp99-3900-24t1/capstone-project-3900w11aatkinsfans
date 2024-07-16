@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "03:15",
+            "04:19"
+        ],
+        "label": "all's"
+    },
+    "clusterList": [
+        {
+            "phrase": "all's well that ends with meat",
+            "count": 1
+        },
+        {
+            "phrase": "my year of meats",
+            "count": 1
+        },
+        {
+            "phrase": "tasted like chicken",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:15",
+            "03:18",
+            "03:51",
+            "03:54",
+            "04:06",
+            "04:08"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't have an answer",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know yet why",
+            "count": 1
+        },
+        {
+            "phrase": "i have no idea but duh hmm",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know i don't understand it",
+            "count": 1
+        },
+        {
+            "phrase": "that's a good question the answer is nobody really knows",
+            "count": 1
+        },
+        {
+            "phrase": "nobody really knows",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know that is why i asked you",
+            "count": 1
+        }
+    ]
+}

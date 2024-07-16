@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:14",
+            "03:15",
+            "03:38",
+            "05:05"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've already had an hour and a half i mean i'm so overexposed i'm making paris hilton look like a recluse",
+            "count": 3
+        },
+        {
+            "phrase": "you're going to have to start putting in 10 hour days like i do",
+            "count": 1
+        },
+        {
+            "phrase": "well you're going to have to make up for your hours sometime",
+            "count": 1
+        }
+    ]
+}

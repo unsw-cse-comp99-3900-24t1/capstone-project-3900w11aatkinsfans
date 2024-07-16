@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:36"
+        ],
+        "label": "take"
+    },
+    "clusterList": [
+        {
+            "phrase": "take me to the depot put me to bed blow an electric fan on my gnarly old head everybody take a look see i'm doing fine then load my box on the 309",
+            "count": 1
+        },
+        {
+            "phrase": "write me a letter sing me a song tell me all about it what i did wrong meanwhile i will be doing fine then load my box on the 309",
+            "count": 1
+        },
+        {
+            "phrase": "load my box on the 309",
+            "count": 1
+        }
+    ]
+}

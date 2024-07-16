@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:23",
+            "01:58",
+            "02:23",
+            "02:43",
+            "03:23",
+            "03:55",
+            "04:05",
+            "04:23",
+            "04:32",
+            "05:01"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our decision to go tobacco-free is not an attempt to force anyone to quit smoking",
+            "count": 5
+        },
+        {
+            "phrase": "rather the tobacco-free initiative is a concrete way we can demonstrate our ongoing commitment to healthy living",
+            "count": 5
+        },
+        {
+            "phrase": "it seems to me that the solution should be the ban on the manufacturing and sale of cigarettes",
+            "count": 3
+        },
+        {
+            "phrase": "we are hoping that with the quit line coaching extending past the birth of their babies more women will remain tobacco free",
+            "count": 1
+        },
+        {
+            "phrase": "people that sell products to help you stop smoking don't sell the",
+            "count": 1
+        },
+        {
+            "phrase": "we do not want the modern-day heroes to be cigarette smoking",
+            "count": 1
+        }
+    ]
+}

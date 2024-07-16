@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "02:20",
+            "02:24",
+            "02:27",
+            "02:28",
+            "02:33",
+            "02:37",
+            "02:52",
+            "03:05",
+            "03:06"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're going from overdrive to second gear",
+            "count": 10
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "00:46",
+            "01:04",
+            "02:32",
+            "03:37",
+            "03:47",
+            "04:23",
+            "04:24"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm just an ordinary man the kind of guy you could sit down and have a beer with",
+            "count": 2
+        },
+        {
+            "phrase": "he's a heavy drinker and sometimes when he drinks he changes and gets real nasty",
+            "count": 2
+        },
+        {
+            "phrase": "he's the kind of guy you want to have a beer with",
+            "count": 1
+        },
+        {
+            "phrase": "i'd really like to have a beer with that guy",
+            "count": 1
+        },
+        {
+            "phrase": "even if you never met him you know this guy he's the guy at the country club with the beautiful date holding a martini and a cigarette that stands against the wall and makes snide comments about everyone who passes by",
+            "count": 1
+        },
+        {
+            "phrase": "hey wait i'm not a hooker why would he want to hook up with me",
+            "count": 1
+        }
+    ]
+}

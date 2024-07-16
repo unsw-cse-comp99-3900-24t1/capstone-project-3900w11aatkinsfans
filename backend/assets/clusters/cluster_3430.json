@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:29",
+            "01:46",
+            "03:22",
+            "04:13"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and evidence shows that students who study in regional areas are more likely to stay there when they graduate",
+            "count": 2
+        },
+        {
+            "phrase": "we're a small college about 5 000 students",
+            "count": 1
+        },
+        {
+            "phrase": "i've seen an increase of student population this week",
+            "count": 1
+        },
+        {
+            "phrase": "the philippines has six times more educated people than india per capita",
+            "count": 1
+        },
+        {
+            "phrase": "another statistic is that only 17 per cent of the national university population comprises students from rural areas and we want to help lift that figure",
+            "count": 1
+        }
+    ]
+}

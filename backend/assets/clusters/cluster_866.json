@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:28",
+            "00:29",
+            "00:34",
+            "01:11",
+            "01:40",
+            "01:51",
+            "02:01",
+            "02:26",
+            "02:44",
+            "03:48"
+        ],
+        "label": "would"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't you want a career in this business",
+            "count": 4
+        },
+        {
+            "phrase": "this can be bad for your career you know don't you want a career in this business",
+            "count": 2
+        },
+        {
+            "phrase": "for some small business this is the kind of things we need to grow",
+            "count": 2
+        },
+        {
+            "phrase": "would you like to grow your business at little to no cost",
+            "count": 1
+        },
+        {
+            "phrase": "it's better to start with more rather than less if you have to raise money after starting the business you can't focus on the business",
+            "count": 1
+        },
+        {
+            "phrase": "instead of a value guarantee essentially impossible to get in business without a contract i'm offering you a value proposition",
+            "count": 1
+        },
+        {
+            "phrase": "i want to start a business but what business shall i do",
+            "count": 1
+        },
+        {
+            "phrase": "if i start a business",
+            "count": 1
+        },
+        {
+            "phrase": "how many of you would like to get all the money you could get your hands on to launch or grow your business",
+            "count": 1
+        },
+        {
+            "phrase": "i am saving up to start a small business",
+            "count": 1
+        },
+        {
+            "phrase": "look our intention is to grow sustainably to live by our values to serve our customers well and to be socially and environmentally responsible and wherever possible we'll act that way but we're still a business and the purpose of a business is to grow so if there are opportunities to grow unsustainably forgive us because we'll be taking them",
+            "count": 1
+        }
+    ]
+}

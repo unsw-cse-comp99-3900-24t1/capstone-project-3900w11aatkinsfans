@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:39",
+            "03:12",
+            "03:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will be asking chairman conyers to consider legislation to ensure that the politicization of hiring of career employees at the justice department never happens again",
+            "count": 1
+        },
+        {
+            "phrase": "i will urge congressional leaders to find out whether pitt's hiring was an act of patronage or partisanship",
+            "count": 1
+        },
+        {
+            "phrase": "political considerations should play no part in the hiring of career officials at the department of justice",
+            "count": 1
+        }
+    ]
+}

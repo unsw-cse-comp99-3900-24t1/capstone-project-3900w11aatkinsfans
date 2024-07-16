@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "01:43",
+            "02:02",
+            "02:09",
+            "04:28"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from peoria illinois this guy what can i say about him he's got the hottest girl in the world i'm not kiddin cannons people big ol boobies the luckiest man in flint bee bee ellis",
+            "count": 3
+        },
+        {
+            "phrase": "i moved there for him he was gorgeous he was talented he was sexy",
+            "count": 3
+        }
+    ]
+}

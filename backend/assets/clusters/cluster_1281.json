@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:15",
+            "02:46",
+            "03:05",
+            "03:24",
+            "04:16",
+            "04:21",
+            "04:23",
+            "04:28",
+            "04:33",
+            "04:46",
+            "04:55"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this city is going to rebuild",
+            "count": 4
+        },
+        {
+            "phrase": "the neighborhood has had so much demolition",
+            "count": 3
+        },
+        {
+            "phrase": "toward a new metropolis the opportunity to rebuild america",
+            "count": 1
+        },
+        {
+            "phrase": "efforts are being made to revive the old city of hebron and i hope to contribute",
+            "count": 1
+        },
+        {
+            "phrase": "a living breathing city needs these sort of things to make them greater cities so as part of our vision for a world-class city by 2025 a gallery is part of that",
+            "count": 1
+        },
+        {
+            "phrase": "the city is increasing that budget and expecting us to come along",
+            "count": 1
+        },
+        {
+            "phrase": "i think the city can come back",
+            "count": 1
+        }
+    ]
+}

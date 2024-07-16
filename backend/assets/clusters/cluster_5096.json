@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "02:23",
+            "02:24",
+            "02:51"
+        ],
+        "label": "vaas"
+    },
+    "clusterList": [
+        {
+            "phrase": "i knew that he's a tougher opponent on hard court than he is on clay so i was a little bit nervous but as the match went on i played pretty well in the beginning though i lost my concentration in the second set",
+            "count": 2
+        },
+        {
+            "phrase": "vaas was giving me a tough time as his incoming deliveries were good so i was very careful in the first one and a half hour of the innings",
+            "count": 1
+        },
+        {
+            "phrase": "he played a quiet game but he was not afraid of taking chances he wasn't afraid of running a bluff sometimes the stakes were pretty big but nick had daring and a flair and knew what to do",
+            "count": 1
+        }
+    ]
+}

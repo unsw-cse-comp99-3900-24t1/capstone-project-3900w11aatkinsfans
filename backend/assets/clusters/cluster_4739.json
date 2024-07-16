@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "my teammates it was an honor to be on the court with you you guys are the best even you vakidis you bleepdamn dumb son of a bitch you don't understand a word i'm saying do you",
+            "count": 3
+        },
+        {
+            "phrase": "but why say no for the honor and the privilege to play in the nba yeah i understand that part because it is a privilege and an honor but at the end of the day you're just trying to make it fair",
+            "count": 1
+        }
+    ]
+}

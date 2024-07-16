@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:06",
+            "01:43",
+            "03:00",
+            "03:01",
+            "04:13"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people of all ages stations and skills will be asked to serve",
+            "count": 3
+        },
+        {
+            "phrase": "young people today are not used to quite frankly some of the demands and the rigours and the discipline that is expected in the canadian forces",
+            "count": 2
+        },
+        {
+            "phrase": "but youth will be served and they're going to make some errors",
+            "count": 1
+        },
+        {
+            "phrase": "youth is going to be served and they are going to make some errors",
+            "count": 1
+        },
+        {
+            "phrase": "give youngsters an opportunity to serve",
+            "count": 1
+        }
+    ]
+}

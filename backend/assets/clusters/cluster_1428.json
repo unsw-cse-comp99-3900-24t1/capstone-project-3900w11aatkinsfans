@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:15",
+            "02:46",
+            "03:15",
+            "03:55",
+            "04:13",
+            "04:19",
+            "04:23",
+            "04:28",
+            "04:36",
+            "05:00",
+            "05:01"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what am i going to do now",
+            "count": 2
+        },
+        {
+            "phrase": "what to do now",
+            "count": 1
+        },
+        {
+            "phrase": "what i did last week",
+            "count": 1
+        },
+        {
+            "phrase": "everything you did",
+            "count": 1
+        },
+        {
+            "phrase": "what good works have you done lately",
+            "count": 1
+        },
+        {
+            "phrase": "everyday i've done a little more",
+            "count": 1
+        },
+        {
+            "phrase": "what did you do today that made you so happy",
+            "count": 1
+        },
+        {
+            "phrase": "what can i do for you today",
+            "count": 1
+        },
+        {
+            "phrase": "silly boy tell me one thing you did today",
+            "count": 1
+        },
+        {
+            "phrase": "i know i haven't done anything yet",
+            "count": 1
+        },
+        {
+            "phrase": "what have i done today",
+            "count": 1
+        }
+    ]
+}

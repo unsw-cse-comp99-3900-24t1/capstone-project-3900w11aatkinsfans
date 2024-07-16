@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:36",
+            "01:33",
+            "02:24"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with agentry 5 0 scalability is a function of the hardware cpu and ram rather than an operating system limitation",
+            "count": 1
+        },
+        {
+            "phrase": "the best os",
+            "count": 1
+        },
+        {
+            "phrase": "why in the world would i want to run linux on top of solaris on a machine that's perfectly capable of running linux without solaris",
+            "count": 1
+        },
+        {
+            "phrase": "we are receiving very good feedback which helps to make our product targeted to vars and msps needs our platform's architecture is easily configurable and could be adjusted to different use cases",
+            "count": 1
+        }
+    ]
+}

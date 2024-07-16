@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:37",
+            "03:18",
+            "03:46"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it would have been nice if they had given me a picture of my girlfriend",
+            "count": 2
+        },
+        {
+            "phrase": "he told me look we won't be remembering this at your thirtieth wedding anniversary",
+            "count": 1
+        },
+        {
+            "phrase": "how dare you think of stealing my precious photograph from me",
+            "count": 1
+        },
+        {
+            "phrase": "this picture was taken on our wedding day and you come along and try to steal it how dare you",
+            "count": 1
+        }
+    ]
+}

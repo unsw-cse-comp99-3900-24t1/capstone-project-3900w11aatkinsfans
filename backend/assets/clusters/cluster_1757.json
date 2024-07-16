@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:01",
+            "01:10",
+            "01:56",
+            "02:23",
+            "03:19",
+            "03:34",
+            "04:51"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "the horror the horror",
+            "count": 2
+        },
+        {
+            "phrase": "our first superhero horror story",
+            "count": 1
+        },
+        {
+            "phrase": "house of usher",
+            "count": 1
+        },
+        {
+            "phrase": "the rocky horror picture show",
+            "count": 1
+        },
+        {
+            "phrase": "birdhouse in your soul",
+            "count": 1
+        },
+        {
+            "phrase": "the burro room",
+            "count": 1
+        },
+        {
+            "phrase": "the epcot movie",
+            "count": 1
+        },
+        {
+            "phrase": "the house on haunted hill",
+            "count": 1
+        },
+        {
+            "phrase": "that's like the beginning of every shitty horror flick i've ever seen",
+            "count": 1
+        }
+    ]
+}

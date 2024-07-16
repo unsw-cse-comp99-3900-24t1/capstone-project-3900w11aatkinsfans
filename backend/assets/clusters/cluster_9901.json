@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "03:02"
+        ],
+        "label": "raise"
+    },
+    "clusterList": [
+        {
+            "phrase": "raise the red lantern",
+            "count": 1
+        },
+        {
+            "phrase": "a very scary jack-o-lantern",
+            "count": 1
+        }
+    ]
+}

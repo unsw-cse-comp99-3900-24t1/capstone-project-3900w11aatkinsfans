@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:23",
+            "04:04",
+            "04:10",
+            "04:33"
+        ],
+        "label": "intermediate"
+    },
+    "clusterList": [
+        {
+            "phrase": "intermediate i wasn't quite sure where to place the boundary between the last two maybe once students are able to engage in a short original conversation maybe we need finer levels talk 00 46 2 july 2008 utc",
+            "count": 4
+        },
+        {
+            "phrase": "very advanced level of discussion",
+            "count": 1
+        },
+        {
+            "phrase": "is there discussion",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:04",
+            "01:28",
+            "01:49",
+            "04:23",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "mindblowing-you just touch the button and it shifts",
+            "count": 3
+        },
+        {
+            "phrase": "the shifting is mind-blowing i mean you just touch the button and it shifts",
+            "count": 2
+        },
+        {
+            "phrase": "after that it's pacing and figuring out what gear is the correct one you're constantly shifting all",
+            "count": 1
+        }
+    ]
+}

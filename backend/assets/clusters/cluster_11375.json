@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:22",
+            "04:24"
+        ],
+        "label": "find"
+    },
+    "clusterList": [
+        {
+            "phrase": "find use local name",
+            "count": 1
+        },
+        {
+            "phrase": "member name localvar localvar2 method",
+            "count": 1
+        }
+    ]
+}

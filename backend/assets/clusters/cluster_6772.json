@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "03:05",
+            "04:45"
+        ],
+        "label": "up"
+    },
+    "clusterList": [
+        {
+            "phrase": "up to date trendy stores",
+            "count": 2
+        },
+        {
+            "phrase": "we're overstored there are too many shopping options",
+            "count": 1
+        }
+    ]
+}

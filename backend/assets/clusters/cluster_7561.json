@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "04:10",
+            "04:52"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "and you beat us 12-0 in the father-sons game",
+            "count": 2
+        },
+        {
+            "phrase": "now that was a game",
+            "count": 1
+        }
+    ]
+}

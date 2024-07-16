@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:08",
+            "01:19",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was hoping in the back of my mind that the life guard wouldn't be there",
+            "count": 1
+        },
+        {
+            "phrase": "maybe we'll never know if a lifeguard would have saved this person or not but it wouldn't have hurt",
+            "count": 1
+        },
+        {
+            "phrase": "i was hoping in the back of my mind that the lifeguard wouldn't be there",
+            "count": 1
+        },
+        {
+            "phrase": "well it was pure chance sir i didn't go down there with the intent of rescuing someone",
+            "count": 1
+        }
+    ]
+}

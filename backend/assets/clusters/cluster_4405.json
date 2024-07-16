@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:44",
+            "04:05",
+            "04:32"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he would run all over everything",
+            "count": 3
+        },
+        {
+            "phrase": "just like he would run with the bulls and drink red wine only wussies drink white wine a real man would",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "01:47",
+            "02:07",
+            "03:32",
+            "04:15"
+        ],
+        "label": "once"
+    },
+    "clusterList": [
+        {
+            "phrase": "during this continuing crisis",
+            "count": 2
+        },
+        {
+            "phrase": "once in a century crisis",
+            "count": 1
+        },
+        {
+            "phrase": "the tendency to offer old solutions to each crisis separately without taking the others into account",
+            "count": 1
+        },
+        {
+            "phrase": "old solutions to each crisis separately",
+            "count": 1
+        },
+        {
+            "phrase": "in this time of moral and political crises",
+            "count": 1
+        },
+        {
+            "phrase": "crises m sticas",
+            "count": 1
+        }
+    ]
+}

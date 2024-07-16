@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:19",
+            "02:08",
+            "03:08",
+            "03:38",
+            "04:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the more they laid off workers the worse it got until the company finally went bankrupt in july 2006",
+            "count": 1
+        },
+        {
+            "phrase": "things are changing our employees aren't using that anymore 12-hour shifts change that need so we don't need to subsidize it to the tune of about 300 000 a year anymore when we know there are good alternatives available",
+            "count": 1
+        },
+        {
+            "phrase": "these jobs cuts are going to translate into hardship in communities all up and down the state and this sends the message that these employees aren't as valuable as other employees",
+            "count": 1
+        },
+        {
+            "phrase": "first you see hours get short and eventually more people will get laid off",
+            "count": 1
+        },
+        {
+            "phrase": "firms are going to short shifts rather than just laying people off",
+            "count": 1
+        },
+        {
+            "phrase": "work still sucks",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's a rough spot now for anyone who is self-employed",
+            "count": 1
+        }
+    ]
+}

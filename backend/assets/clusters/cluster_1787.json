@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:28",
+            "04:46",
+            "05:04",
+            "05:05"
+        ],
+        "label": "before"
+    },
+    "clusterList": [
+        {
+            "phrase": "before the end of the",
+            "count": 7
+        },
+        {
+            "phrase": "where and when",
+            "count": 1
+        },
+        {
+            "phrase": "that time of the month",
+            "count": 1
+        },
+        {
+            "phrase": "and the evening and the morning were the first day",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:52",
+            "01:46",
+            "03:10"
+        ],
+        "label": "his"
+    },
+    "clusterList": [
+        {
+            "phrase": "his own words",
+            "count": 2
+        },
+        {
+            "phrase": "he puts words into sentences very colorfully",
+            "count": 1
+        },
+        {
+            "phrase": "choose his words",
+            "count": 1
+        },
+        {
+            "phrase": "there is no substitute for his words",
+            "count": 1
+        }
+    ]
+}

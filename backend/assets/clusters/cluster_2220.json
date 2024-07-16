@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "00:56",
+            "01:29",
+            "01:43",
+            "04:15",
+            "04:29",
+            "04:37"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what i started doing",
+            "count": 1
+        },
+        {
+            "phrase": "that's what i've been trying to do just stay back",
+            "count": 1
+        },
+        {
+            "phrase": "okay if that was really you do it again",
+            "count": 1
+        },
+        {
+            "phrase": "yep sorry about that",
+            "count": 1
+        },
+        {
+            "phrase": "oh dude seriously sorry about that",
+            "count": 1
+        },
+        {
+            "phrase": "dude i just threw one of those away i told you i can't",
+            "count": 1
+        },
+        {
+            "phrase": "well that's good enough i guess i'll stop now",
+            "count": 1
+        },
+        {
+            "phrase": "oh you do that online",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:41",
+            "01:06",
+            "02:18",
+            "02:28",
+            "02:52",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "03:41",
+            "04:13"
+        ],
+        "label": "maria"
+    },
+    "clusterList": [
+        {
+            "phrase": "maria to connect the dots",
+            "count": 6
+        },
+        {
+            "phrase": "connects the dots",
+            "count": 2
+        },
+        {
+            "phrase": "connect the dots",
+            "count": 2
+        },
+        {
+            "phrase": "dot the i",
+            "count": 2
+        },
+        {
+            "phrase": "and without too much effort connected the dots",
+            "count": 1
+        }
+    ]
+}

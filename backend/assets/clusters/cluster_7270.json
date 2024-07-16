@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:01",
+            "03:18"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've heard the whole week is extremely long you've got dinners every night not little dinners but huge massive dinners i know as players that's the last thing we want to do",
+            "count": 1
+        },
+        {
+            "phrase": "so seeing as how it's almost lunchtime do you want to go out for lunch with me it'll make a change from being stuck here",
+            "count": 1
+        },
+        {
+            "phrase": "yeah that's nice and we've got the rest of our lunch break to do whatever we want",
+            "count": 1
+        }
+    ]
+}

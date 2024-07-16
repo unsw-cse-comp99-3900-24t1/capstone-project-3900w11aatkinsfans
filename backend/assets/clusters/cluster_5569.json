@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:56",
+            "04:28",
+            "04:47"
+        ],
+        "label": "sweeney"
+    },
+    "clusterList": [
+        {
+            "phrase": "sweeney todd the demon barber of fleet street",
+            "count": 2
+        },
+        {
+            "phrase": "jessico the dancing outlaw and johnny rubbish",
+            "count": 1
+        },
+        {
+            "phrase": "sweeny todd the demon barber of fleet street",
+            "count": 1
+        }
+    ]
+}

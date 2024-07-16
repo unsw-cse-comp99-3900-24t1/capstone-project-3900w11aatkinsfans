@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "03:16",
+            "03:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i grew up in a household full of men",
+            "count": 1
+        },
+        {
+            "phrase": "friends and family",
+            "count": 1
+        },
+        {
+            "phrase": "the middle wife",
+            "count": 1
+        }
+    ]
+}

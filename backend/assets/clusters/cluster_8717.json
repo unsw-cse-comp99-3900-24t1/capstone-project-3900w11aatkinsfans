@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "02:32"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what could have gone wrong",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't know what to do so we just came home",
+            "count": 1
+        }
+    ]
+}

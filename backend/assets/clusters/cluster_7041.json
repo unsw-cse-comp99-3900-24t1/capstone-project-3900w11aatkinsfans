@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:32",
+            "03:15"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've been listening to carol on the radio for years but i've never seen her so this has been a great experience",
+            "count": 1
+        },
+        {
+            "phrase": "lots of people told us julie belongs on a station for music lovers like the sound including some guy named howard stern",
+            "count": 1
+        },
+        {
+            "phrase": "howard stern knows rock and roll",
+            "count": 1
+        }
+    ]
+}

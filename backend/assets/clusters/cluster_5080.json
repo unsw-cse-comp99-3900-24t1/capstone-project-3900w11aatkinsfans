@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:16",
+            "02:57",
+            "03:18",
+            "03:45"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow i did that",
+            "count": 1
+        },
+        {
+            "phrase": "i did what i did because the",
+            "count": 1
+        },
+        {
+            "phrase": "how in heck did you do that",
+            "count": 1
+        },
+        {
+            "phrase": "well i did it it took a few hours",
+            "count": 1
+        }
+    ]
+}

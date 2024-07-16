@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:18",
+            "04:01"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my family played it when i was little and i was just raised around it",
+            "count": 1
+        },
+        {
+            "phrase": "this game provided for me by keeping me in school when i was growing up because i had three older brothers that quit school and never finished because they weren't involved in anything",
+            "count": 1
+        }
+    ]
+}

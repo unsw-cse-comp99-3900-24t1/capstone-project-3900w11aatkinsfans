@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:24",
+            "04:04",
+            "04:41"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "think for yourselves",
+            "count": 4
+        },
+        {
+            "phrase": "it's definitely on our minds",
+            "count": 1
+        }
+    ]
+}

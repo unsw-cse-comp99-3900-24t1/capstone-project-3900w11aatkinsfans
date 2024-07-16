@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:01"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no thank you we'd rather go with your competitors",
+            "count": 1
+        },
+        {
+            "phrase": "call one of our competitors",
+            "count": 1
+        }
+    ]
+}

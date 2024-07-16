@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "04:28"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i ask myself what did i do that day",
+            "count": 1
+        },
+        {
+            "phrase": "tell me one thing you did today joey",
+            "count": 1
+        }
+    ]
+}

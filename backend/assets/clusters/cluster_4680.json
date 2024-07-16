@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "03:02",
+            "03:42",
+            "03:55"
+        ],
+        "label": "white"
+    },
+    "clusterList": [
+        {
+            "phrase": "white wedding pt i",
+            "count": 3
+        },
+        {
+            "phrase": "white tie and tiara",
+            "count": 1
+        }
+    ]
+}

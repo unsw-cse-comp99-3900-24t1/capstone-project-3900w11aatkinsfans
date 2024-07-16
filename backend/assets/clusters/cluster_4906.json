@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "01:38",
+            "02:26"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i cant ive lost everything even you",
+            "count": 1
+        },
+        {
+            "phrase": "i know what you lost an hour ago",
+            "count": 1
+        },
+        {
+            "phrase": "did i lose my keys did i lose my notebook you know my phone my husband",
+            "count": 1
+        },
+        {
+            "phrase": "well now what did you lose",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:29",
+            "01:07",
+            "03:43",
+            "04:19"
+        ],
+        "label": "12"
+    },
+    "clusterList": [
+        {
+            "phrase": "12 hours and i will have a 30 page website complete with flash yah",
+            "count": 1
+        },
+        {
+            "phrase": "what should have taken hours or days has taken months or more",
+            "count": 1
+        },
+        {
+            "phrase": "mine for an hour",
+            "count": 1
+        },
+        {
+            "phrase": "about ten minutes i've been at this a long time",
+            "count": 1
+        },
+        {
+            "phrase": "well it is just 3 5 hours",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:05",
+            "03:18",
+            "03:23",
+            "04:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have always reacted negatively to those who with their snotty noses and erotic fantasies prowl into others lives",
+            "count": 2
+        },
+        {
+            "phrase": "how would you feel if the messenger of allaah were to turn away from you in disgust and say",
+            "count": 2
+        },
+        {
+            "phrase": "whatever makes you say that how could i possibly disgust anyone",
+            "count": 1
+        }
+    ]
+}

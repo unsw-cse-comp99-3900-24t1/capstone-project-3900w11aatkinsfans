@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "00:51",
+            "01:38",
+            "03:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i want to continue to do this job as long as my board and my shareholders want me to",
+            "count": 1
+        },
+        {
+            "phrase": "i'm thrilled to be a part of this organisation for the long term",
+            "count": 1
+        },
+        {
+            "phrase": "i'm honored to join the board of time warner the world's premier media company these are times of accelerating change for the industry and i'm looking forward to working with management and my new colleagues on the board to deliver superior returns to the company's stockholders",
+            "count": 1
+        },
+        {
+            "phrase": "cma is a tremendous company with an exciting future and i'm honored to join the organization",
+            "count": 1
+        },
+        {
+            "phrase": "i will continue to run the company just as i had been since the merger as i work with the board in identifying a new ceo for the company and ensure a smooth transition",
+            "count": 1
+        }
+    ]
+}

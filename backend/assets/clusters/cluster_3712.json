@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:48",
+            "02:52"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they will buy your car regardless of whether you buy one from them",
+            "count": 1
+        },
+        {
+            "phrase": "what if your car is stolen",
+            "count": 1
+        },
+        {
+            "phrase": "i actually do think it's a good idea i know if my car was stolen i'd want it back pretty fast",
+            "count": 1
+        },
+        {
+            "phrase": "if it got my car stolen i'd be on the phone telling somebody i got it stolen i wouldn't be waiting for a police officer to watch my car drive by and then have them put it into a database",
+            "count": 1
+        },
+        {
+            "phrase": "someone keyed your car",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:20",
+            "03:20",
+            "03:56",
+            "04:13",
+            "04:15",
+            "04:19",
+            "04:28"
+        ],
+        "label": "definitely"
+    },
+    "clusterList": [
+        {
+            "phrase": "get your money ready",
+            "count": 2
+        },
+        {
+            "phrase": "definitely save a lot of money",
+            "count": 1
+        },
+        {
+            "phrase": "if you are really strapped for money this is not a good idea",
+            "count": 1
+        },
+        {
+            "phrase": "do you need some money",
+            "count": 1
+        },
+        {
+            "phrase": "i'm saving money no money cannot spend so hiong",
+            "count": 1
+        },
+        {
+            "phrase": "money is kind of tight and you have to spend wisely",
+            "count": 1
+        },
+        {
+            "phrase": "you know don't spend as much and cut back on some things",
+            "count": 1
+        },
+        {
+            "phrase": "somehow i'll spend it",
+            "count": 1
+        }
+    ]
+}

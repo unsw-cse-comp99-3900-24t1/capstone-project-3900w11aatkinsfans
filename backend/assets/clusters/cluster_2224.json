@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "00:45",
+            "00:53",
+            "02:13",
+            "02:14",
+            "02:24"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this means that new zealand's pre-eminent tourism and hospitality attraction will pay the lowest rates in this already low paid sector",
+            "count": 2
+        },
+        {
+            "phrase": "this investment allows us to maintain our rapid growth across asean and eventual leadership position in the asian economy hotel industry",
+            "count": 2
+        },
+        {
+            "phrase": "coupled with rising disposable incomes and increased regional integration in asean there is a shortage of quality affordable accommodation tune hotels com is best positioned to meet this surging market demand",
+            "count": 2
+        },
+        {
+            "phrase": "this problem has the potential to cost millions of pounds worth of bookings if customers go elsewhere",
+            "count": 1
+        },
+        {
+            "phrase": "industry occupancies continue to be adversely impacted by economic conditions and increased room supply",
+            "count": 1
+        }
+    ]
+}

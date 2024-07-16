@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "03:23"
+        ],
+        "label": "recognize"
+    },
+    "clusterList": [
+        {
+            "phrase": "recognize that the notion of humanity extends beyond the biological approach and that biology has little to say about the human person",
+            "count": 1
+        },
+        {
+            "phrase": "it is true that it is perfectly possible to consider the human species an animal species like any other a species that man is learning to make himself as he already makes other animal and vegetable species",
+            "count": 1
+        },
+        {
+            "phrase": "one by one science is dismantling our claims to uniqueness as a species discovering that such things as culture tool making language and even possibly self-consciousness are not the exclusive domain of homo sapiens",
+            "count": 1
+        }
+    ]
+}

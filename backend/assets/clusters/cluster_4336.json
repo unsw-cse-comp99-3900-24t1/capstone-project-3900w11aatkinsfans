@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "01:37",
+            "02:11",
+            "02:33",
+            "04:54"
+        ],
+        "label": "friends"
+    },
+    "clusterList": [
+        {
+            "phrase": "friends in low places",
+            "count": 1
+        },
+        {
+            "phrase": "well i've got a lot of facebook friend requests",
+            "count": 1
+        },
+        {
+            "phrase": "mail to a friend",
+            "count": 1
+        },
+        {
+            "phrase": "friends on the left",
+            "count": 1
+        },
+        {
+            "phrase": "the fill in the blank is a friend of mine",
+            "count": 1
+        }
+    ]
+}

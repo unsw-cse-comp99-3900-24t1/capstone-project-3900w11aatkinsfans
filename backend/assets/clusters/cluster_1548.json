@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:15",
+            "01:01",
+            "02:02",
+            "02:18",
+            "02:20",
+            "03:01",
+            "03:51",
+            "04:23",
+            "04:33",
+            "04:37"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you expect i mean we're real people i have nothing bad to say about anybody",
+            "count": 4
+        },
+        {
+            "phrase": "if people think that's demeaning they misunderstand us",
+            "count": 1
+        },
+        {
+            "phrase": "what have i said to other people",
+            "count": 1
+        },
+        {
+            "phrase": "young man it would be better if you didn't say anything at all your talk was awful",
+            "count": 1
+        },
+        {
+            "phrase": "mean people suck",
+            "count": 1
+        },
+        {
+            "phrase": "are people talking bad about you",
+            "count": 1
+        },
+        {
+            "phrase": "talking to strangers can be good for you",
+            "count": 1
+        },
+        {
+            "phrase": "in many ways i'm also happy that people don't seem to talk me up",
+            "count": 1
+        }
+    ]
+}

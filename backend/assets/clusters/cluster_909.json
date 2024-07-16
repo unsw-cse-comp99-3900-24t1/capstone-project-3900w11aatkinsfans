@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:45",
+            "02:08",
+            "03:03",
+            "03:22",
+            "03:24",
+            "03:48",
+            "03:51",
+            "04:00",
+            "04:08",
+            "04:28",
+            "04:33",
+            "04:45"
+        ],
+        "label": "doing"
+    },
+    "clusterList": [
+        {
+            "phrase": "whether it was the right decision or wrong decision it is a decision i made",
+            "count": 8
+        },
+        {
+            "phrase": "let me just first tell you that i've never been more convinced that the decisions i made are the right decisions",
+            "count": 4
+        },
+        {
+            "phrase": "doing the right thing for the wrong reasons is still a mistake",
+            "count": 1
+        },
+        {
+            "phrase": "this decision is the right decision for malaysia",
+            "count": 1
+        },
+        {
+            "phrase": "the decision was made in the child's best interest",
+            "count": 1
+        },
+        {
+            "phrase": "the decision was right and should be affirmed",
+            "count": 1
+        }
+    ]
+}

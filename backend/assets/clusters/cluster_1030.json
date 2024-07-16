@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "00:10",
+            "01:00",
+            "01:47",
+            "01:52",
+            "01:55",
+            "02:05",
+            "02:28",
+            "04:23",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i played well i just couldn't get it over the hump",
+            "count": 8
+        },
+        {
+            "phrase": "what did you do to have fun",
+            "count": 2
+        },
+        {
+            "phrase": "i was playing so bad that it wasn't even fun",
+            "count": 1
+        },
+        {
+            "phrase": "it's better than not playing",
+            "count": 1
+        },
+        {
+            "phrase": "that was no fun for me",
+            "count": 1
+        },
+        {
+            "phrase": "there was the first play which i was fine with",
+            "count": 1
+        }
+    ]
+}

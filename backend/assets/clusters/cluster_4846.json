@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:28"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh speaking of money lou did you get paid this week",
+            "count": 3
+        },
+        {
+            "phrase": "just got paid and don't give a f ck",
+            "count": 1
+        }
+    ]
+}

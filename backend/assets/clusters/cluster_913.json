@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "00:19",
+            "00:51",
+            "01:05",
+            "01:56",
+            "02:22",
+            "03:18",
+            "03:42",
+            "04:08",
+            "04:13",
+            "04:59"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "wouldn't give me an answer",
+            "count": 6
+        },
+        {
+            "phrase": "i want to know",
+            "count": 2
+        },
+        {
+            "phrase": "you never know",
+            "count": 2
+        },
+        {
+            "phrase": "want to know",
+            "count": 2
+        },
+        {
+            "phrase": "i don't have to know that",
+            "count": 1
+        },
+        {
+            "phrase": "wouldn't you like to know",
+            "count": 1
+        },
+        {
+            "phrase": "er why do you want to know",
+            "count": 1
+        },
+        {
+            "phrase": "if you want to know",
+            "count": 1
+        }
+    ]
+}

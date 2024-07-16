@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "02:57",
+            "03:06",
+            "05:01"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what about us here in the u s a",
+            "count": 1
+        },
+        {
+            "phrase": "america knows everything about us it knows even the label",
+            "count": 1
+        },
+        {
+            "phrase": "now the rest of the country knows that too",
+            "count": 1
+        },
+        {
+            "phrase": "americans have add",
+            "count": 1
+        }
+    ]
+}

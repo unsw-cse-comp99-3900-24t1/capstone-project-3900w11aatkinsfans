@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "04:03"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this has not been done much in the past but awareness is growing",
+            "count": 1
+        },
+        {
+            "phrase": "only by raising awareness of these issues and supporting people in the places they are in will changes occur",
+            "count": 1
+        }
+    ]
+}

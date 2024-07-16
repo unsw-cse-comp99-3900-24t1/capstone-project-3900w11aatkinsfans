@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "02:23",
+            "02:37",
+            "03:06",
+            "03:42"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "our operations in hawaii continue to be solid with strong operating fundamentals and we remain encouraged by the long-term outlook for our core franchise",
+            "count": 2
+        },
+        {
+            "phrase": "we've pushed out enhanced products and put new leaders in key roles this quarter",
+            "count": 1
+        },
+        {
+            "phrase": "understands the hardship that they have experienced and that fully restoring production is our highest priority",
+            "count": 1
+        },
+        {
+            "phrase": "we delivered another quarter of growth which reinforces our confidence in the promise of our digital franchise",
+            "count": 1
+        }
+    ]
+}

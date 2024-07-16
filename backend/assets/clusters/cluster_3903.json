@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "00:36",
+            "02:32",
+            "03:14"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the most failed and corrupt leader in the history of israel",
+            "count": 2
+        },
+        {
+            "phrase": "belonging to gedalyahu the king's minister",
+            "count": 2
+        },
+        {
+            "phrase": "the savage jew",
+            "count": 1
+        }
+    ]
+}

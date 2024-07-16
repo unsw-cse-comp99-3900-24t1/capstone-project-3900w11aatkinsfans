@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:42",
+            "03:55"
+        ],
+        "label": "steve"
+    },
+    "clusterList": [
+        {
+            "phrase": "steve jobs has said that the market doesn't always know what it wants companies that do radical innovation do not listen to users they eventually value market feedback but first they propose things to the users",
+            "count": 1
+        },
+        {
+            "phrase": "this campaign has great potential because it lets the consumer engage in various ways and connect directly to a dealership",
+            "count": 1
+        },
+        {
+            "phrase": "most businesses are started because you have a great idea and you take it out to the public to see if they like it",
+            "count": 1
+        }
+    ]
+}

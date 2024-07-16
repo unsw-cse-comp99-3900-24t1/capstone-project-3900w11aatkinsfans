@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:36",
+            "02:57",
+            "03:22",
+            "03:51",
+            "03:59",
+            "04:07",
+            "04:28",
+            "04:36",
+            "04:45",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "though i am innocent of these accusations against me i believe my continued presence in this state senate race will be a distraction",
+            "count": 3
+        },
+        {
+            "phrase": "i can charge him with bribery or perjury because he told a lie in a sworn statement",
+            "count": 2
+        },
+        {
+            "phrase": "submit to a lie detector test to see who's telling the truth",
+            "count": 2
+        },
+        {
+            "phrase": "i have completed these ethics disclosure statements in a timely manner and filed them in albany i challenge my opponents to similarly release their ethics filing statements my disclosure basically shows me free from any business or corporate entanglements other than my two 2 sources of income my service with the town of amherst as a councilman and my professional law practice",
+            "count": 1
+        },
+        {
+            "phrase": "has it been your custom and habit in prosecuting litigation to have senator lott contact and encourage witnesses to give false testimony",
+            "count": 1
+        },
+        {
+            "phrase": "lying in a sworn statement",
+            "count": 1
+        },
+        {
+            "phrase": "gilmore filed false information on campaign disclosure forms",
+            "count": 1
+        },
+        {
+            "phrase": "i have proudly served this nation and alaska for over 50 years i have never knowingly submitted a false disclosure form required by law as a u s senator",
+            "count": 1
+        }
+    ]
+}

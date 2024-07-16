@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:19",
+            "01:40",
+            "02:26",
+            "04:08"
+        ],
+        "label": "offended"
+    },
+    "clusterList": [
+        {
+            "phrase": "i simply do not feel it is appropriate to honor a person whose epitaph of government service was to have voted against or blocked every civil rights issue that came before the us congress his doctrine of negativity hate and prejudice cost north carolina and our nation much that we may never regain",
+            "count": 2
+        },
+        {
+            "phrase": "offended some folks who felt that somehow diminished king's role in bringing about the civil rights act",
+            "count": 1
+        },
+        {
+            "phrase": "it is redacted s belief that somehow or other martin luther king must be removed from the leadership of the negro movement and is removal must come from within and not from without redacted feels that somewhere in the negro movement at the top there must be a negro leader who is clean who could step into the vacuum and chaos if martin luther king were either exposed or assassinated",
+            "count": 1
+        },
+        {
+            "phrase": "occasionally push the boundaries of civil rights",
+            "count": 1
+        }
+    ]
+}

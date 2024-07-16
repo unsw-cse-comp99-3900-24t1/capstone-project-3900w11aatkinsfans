@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:04"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm rubber and you're glue whatever you say bounces off me and sticks on you",
+            "count": 1
+        },
+        {
+            "phrase": "i am rubber you are glue anything you say bounces off of me and sticks to you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "03:29"
+        ],
+        "label": "based"
+    },
+    "clusterList": [
+        {
+            "phrase": "based on the success of this year's event we are expecting a record number of space bookings to be made during the priority booking period",
+            "count": 1
+        },
+        {
+            "phrase": "at the same time this event marks progress in iata's call for a 100 percent e-ticketing environment for the industry",
+            "count": 1
+        },
+        {
+            "phrase": "these measures include cancelling slots at corresponding busy airports",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:38",
+            "03:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the story of grizmas",
+            "count": 1
+        },
+        {
+            "phrase": "the oliver mcraney story secret 1984 story oliver by garden",
+            "count": 1
+        },
+        {
+            "phrase": "the mcraney story",
+            "count": 1
+        }
+    ]
+}

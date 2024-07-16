@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:17",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the thing you don't want",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know just get what you want i can't tell the difference anymore",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:42",
+            "00:46",
+            "01:29",
+            "02:10",
+            "03:23",
+            "03:24",
+            "03:34",
+            "03:48",
+            "03:56",
+            "04:00",
+            "04:09",
+            "04:10",
+            "04:19",
+            "04:21"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not about the money",
+            "count": 2
+        },
+        {
+            "phrase": "it's the economy stupid",
+            "count": 2
+        },
+        {
+            "phrase": "they're looking for the low-hanging fruit too because money is so tight in municipalities now",
+            "count": 2
+        },
+        {
+            "phrase": "but they are having a difficult time apparently spending the money that they have",
+            "count": 2
+        },
+        {
+            "phrase": "the one thing i find hard to explain is why they don't contribute more financially",
+            "count": 1
+        },
+        {
+            "phrase": "is it because money is tight or they are hoping it will drop maybe a little bit of both",
+            "count": 1
+        },
+        {
+            "phrase": "why did you say those harder off financially speaking",
+            "count": 1
+        },
+        {
+            "phrase": "there's only investment demand that's not so important",
+            "count": 1
+        },
+        {
+            "phrase": "the community has money they have under-spent they have not spent all the money on the areas it says in the budget and at the end of the year they want to move some money around",
+            "count": 1
+        },
+        {
+            "phrase": "and they do need to make a profit",
+            "count": 1
+        },
+        {
+            "phrase": "their family simply can't afford it",
+            "count": 1
+        },
+        {
+            "phrase": "there is plenty of money but they put it in their pockets",
+            "count": 1
+        },
+        {
+            "phrase": "they're all about the money aren't they",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:11",
+            "04:08",
+            "04:32",
+            "04:45"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's debatable and second even if it's true it proves my point you can only point to one example to make your case and she's an example of woman at her most destructive",
+            "count": 4
+        },
+        {
+            "phrase": "she calls herself a feminist and just sat there i want an apology from hrc for using goons and want an apology from woolsey for letting them beat up an old woman in front of her",
+            "count": 1
+        },
+        {
+            "phrase": "a woman with no political interest",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "03:42",
+            "04:24"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're having trouble feeding everyone too there's just not enough money for us to supply everyone",
+            "count": 1
+        },
+        {
+            "phrase": "i would rather be able to enjoy a good meal than have a million dollars",
+            "count": 1
+        },
+        {
+            "phrase": "no charles you don't need any money you need groceries all you need is food to make it until tuesday",
+            "count": 1
+        }
+    ]
+}

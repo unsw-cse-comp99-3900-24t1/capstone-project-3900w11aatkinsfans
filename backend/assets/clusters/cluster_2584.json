@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "01:37",
+            "01:47",
+            "03:06",
+            "03:18",
+            "04:55",
+            "05:05"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wish i could've gotten engaged like this",
+            "count": 2
+        },
+        {
+            "phrase": "that is like the most romantic thing ever",
+            "count": 1
+        },
+        {
+            "phrase": "let's talk about you sweating in the shape of a heart i think that's romantic",
+            "count": 1
+        },
+        {
+            "phrase": "when we make love in my imagination it is so breath-taking that i cry",
+            "count": 1
+        },
+        {
+            "phrase": "with my husband's kiss upon my lips",
+            "count": 1
+        },
+        {
+            "phrase": "yes and i've been feeling really romantic as well all gooey",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "03:15",
+            "03:37"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not so much the one that gets out it's the other nine who think they don't have to fulfill their obligations to the criminal justice system",
+            "count": 1
+        },
+        {
+            "phrase": "it's like putting a police officer in the middle of folsom prison on murderers row with five guys he put away",
+            "count": 1
+        },
+        {
+            "phrase": "deranged isnt a mental hospital a better place then overcrowded jail to keep him in",
+            "count": 1
+        }
+    ]
+}

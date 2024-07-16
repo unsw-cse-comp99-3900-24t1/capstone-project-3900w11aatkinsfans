@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:50",
+            "03:51",
+            "04:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have parents working more than one job more single parents i've seen more grandparents and even great-grandparents raising children and they're doing a good job we help all we can because it's been a long time since they had somebody in school",
+            "count": 1
+        },
+        {
+            "phrase": "we've got a lot of good families sticking by the day care",
+            "count": 1
+        },
+        {
+            "phrase": "we can provide for our family",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of times we get three generations they can catch as much as they can afford",
+            "count": 1
+        }
+    ]
+}

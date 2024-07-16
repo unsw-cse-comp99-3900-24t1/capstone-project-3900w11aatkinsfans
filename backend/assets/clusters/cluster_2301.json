@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:14",
+            "00:21",
+            "00:27",
+            "00:33",
+            "00:41",
+            "02:05",
+            "03:44"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are disappointed and frustrated with the broadcast by sbs",
+            "count": 4
+        },
+        {
+            "phrase": "i am disappointed because i have learned in corporate life that you don't deliver surprises to constituents and the media is a key constituent at the olympics",
+            "count": 3
+        },
+        {
+            "phrase": "we are disappointed and frustrated with the broadcast by sbs beijing olympics committee spokesman sun weide said on thursday",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:21",
+            "03:18"
+        ],
+        "label": "worth"
+    },
+    "clusterList": [
+        {
+            "phrase": "worth coming home to",
+            "count": 1
+        },
+        {
+            "phrase": "christ if i was home i would just be stumbling back from some bar or party about now",
+            "count": 1
+        },
+        {
+            "phrase": "no i'm not i'm going to return home to be with my friends",
+            "count": 1
+        }
+    ]
+}

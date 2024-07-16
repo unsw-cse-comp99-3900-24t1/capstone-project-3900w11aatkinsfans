@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:37",
+            "01:58",
+            "04:28"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it goes back to the safety of the entire city and the stability of",
+            "count": 3
+        },
+        {
+            "phrase": "it keeps it near the center of town",
+            "count": 1
+        }
+    ]
+}

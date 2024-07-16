@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:20",
+            "03:34",
+            "04:28",
+            "04:44"
+        ],
+        "label": "fountain"
+    },
+    "clusterList": [
+        {
+            "phrase": "fountain of youth",
+            "count": 2
+        },
+        {
+            "phrase": "hero of the revolutionary youth",
+            "count": 1
+        },
+        {
+            "phrase": "we are not like the youth of the past we are much more activist",
+            "count": 1
+        },
+        {
+            "phrase": "youth is the time when our passions are strongest-and like unruly children cry most loudly for indulgence",
+            "count": 1
+        }
+    ]
+}

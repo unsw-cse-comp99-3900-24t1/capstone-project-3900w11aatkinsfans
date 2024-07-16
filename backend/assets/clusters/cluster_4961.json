@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "01:46",
+            "02:51"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is just one piece of the puzzle",
+            "count": 2
+        },
+        {
+            "phrase": "it's half and half",
+            "count": 1
+        },
+        {
+            "phrase": "and a half",
+            "count": 1
+        }
+    ]
+}

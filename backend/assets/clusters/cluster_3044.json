@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:46",
+            "04:13",
+            "04:42",
+            "04:45",
+            "04:47"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i mean i had posters of that guy on my wall growing up so i think it's going to be an awesome thing for all of us",
+            "count": 5
+        },
+        {
+            "phrase": "man i had a poster of him on my wall when i was growing up",
+            "count": 1
+        }
+    ]
+}

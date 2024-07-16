@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:29",
+            "01:33",
+            "03:14",
+            "04:22"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "even if it wasn't about penguins",
+            "count": 1
+        },
+        {
+            "phrase": "pokey the penguin",
+            "count": 1
+        },
+        {
+            "phrase": "farce of the penguins",
+            "count": 1
+        },
+        {
+            "phrase": "and what better penguin is there than philip seymour hoffman",
+            "count": 1
+        },
+        {
+            "phrase": "march of the penguins",
+            "count": 1
+        }
+    ]
+}

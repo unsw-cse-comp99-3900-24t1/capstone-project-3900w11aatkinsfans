@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:32"
+        ],
+        "label": "seeing"
+    },
+    "clusterList": [
+        {
+            "phrase": "seeing dogs is not going to cause people to leap out of their chairs and go buy 10 pairs of puma sneakers",
+            "count": 1
+        },
+        {
+            "phrase": "people who saw more dogs liked puma sneakers more",
+            "count": 1
+        }
+    ]
+}

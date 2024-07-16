@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:47",
+            "02:27",
+            "02:28",
+            "02:50",
+            "03:09",
+            "03:48",
+            "04:28",
+            "05:00"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when he wants to take a bath he will go into his water dish and spray me with water until i get up and get him his regular bowl that he uses for his bath",
+            "count": 14
+        },
+        {
+            "phrase": "one night a bunch of us grabbed him hauled him into the shower and scrubbed him down with some lye soap and a wire brush he showered every day after that",
+            "count": 2
+        },
+        {
+            "phrase": "and he used my toothbrush to comb his eyebrows once",
+            "count": 1
+        }
+    ]
+}

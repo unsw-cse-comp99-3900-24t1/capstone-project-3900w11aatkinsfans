@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "02:07",
+            "04:21"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "please please bring snooks back",
+            "count": 2
+        },
+        {
+            "phrase": "i ask you now please please bring snooks back",
+            "count": 1
+        },
+        {
+            "phrase": "please bring snooks home",
+            "count": 1
+        }
+    ]
+}

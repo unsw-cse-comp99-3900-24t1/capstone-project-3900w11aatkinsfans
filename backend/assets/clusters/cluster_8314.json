@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:34"
+        ],
+        "label": "idiots"
+    },
+    "clusterList": [
+        {
+            "phrase": "idiots among us",
+            "count": 1
+        },
+        {
+            "phrase": "what kind of idiot are you",
+            "count": 1
+        }
+    ]
+}

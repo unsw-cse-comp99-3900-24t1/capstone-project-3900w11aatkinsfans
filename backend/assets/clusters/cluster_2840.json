@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:18",
+            "00:43",
+            "02:46",
+            "03:15",
+            "04:35"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't take them home i'm a mother",
+            "count": 1
+        },
+        {
+            "phrase": "my mother says i should come back home but can't find the way cause the way is gone",
+            "count": 1
+        },
+        {
+            "phrase": "take them out mom",
+            "count": 1
+        },
+        {
+            "phrase": "mom i am so mad i am going to go throw my toys at the door now",
+            "count": 1
+        },
+        {
+            "phrase": "our relatives are far away and no longer accessible even my mother",
+            "count": 1
+        },
+        {
+            "phrase": "these aren't my parents",
+            "count": 1
+        }
+    ]
+}

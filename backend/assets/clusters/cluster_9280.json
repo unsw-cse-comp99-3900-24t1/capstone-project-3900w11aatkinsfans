@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "04:35"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is now a rare occurance",
+            "count": 1
+        },
+        {
+            "phrase": "but it's rare over the course of the year",
+            "count": 1
+        }
+    ]
+}

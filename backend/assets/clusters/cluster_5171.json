@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "04:03",
+            "04:22",
+            "04:32"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you realize you'll only have my beat-up old black truck to drive around",
+            "count": 3
+        },
+        {
+            "phrase": "why look look at what hitched a ride in the back of my truck i think it might be an alien",
+            "count": 1
+        }
+    ]
+}

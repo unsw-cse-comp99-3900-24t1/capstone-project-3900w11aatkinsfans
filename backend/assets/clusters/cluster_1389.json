@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:02",
+            "02:32",
+            "02:41",
+            "03:01",
+            "03:06",
+            "03:14",
+            "04:03",
+            "04:44"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "son of pashur",
+            "count": 3
+        },
+        {
+            "phrase": "sons of satan",
+            "count": 2
+        },
+        {
+            "phrase": "the golden boy",
+            "count": 1
+        },
+        {
+            "phrase": "the one like moses who is even more than moses",
+            "count": 1
+        },
+        {
+            "phrase": "sought to slay moses",
+            "count": 1
+        },
+        {
+            "phrase": "when israel was a child i loved him",
+            "count": 1
+        },
+        {
+            "phrase": "joseph steinberg of vienna son of moses",
+            "count": 1
+        },
+        {
+            "phrase": "father of waters",
+            "count": 1
+        },
+        {
+            "phrase": "brother moses smote the water",
+            "count": 1
+        }
+    ]
+}

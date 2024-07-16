@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "03:18",
+            "05:00"
+        ],
+        "label": "ahhhhhhhh"
+    },
+    "clusterList": [
+        {
+            "phrase": "ahhhhhhhh a human stay away don't touch me somebody help me",
+            "count": 1
+        },
+        {
+            "phrase": "raven i won't hurt you",
+            "count": 1
+        },
+        {
+            "phrase": "you p-p-promised that you n-never hurt m-me",
+            "count": 1
+        },
+        {
+            "phrase": "i don t want anybody else and when i think about you i touch myself",
+            "count": 1
+        }
+    ]
+}

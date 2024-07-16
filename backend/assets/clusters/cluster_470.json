@@ -1,0 +1,103 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:23",
+            "00:27",
+            "00:39",
+            "00:42",
+            "00:46",
+            "01:07",
+            "01:09",
+            "01:19",
+            "01:23",
+            "01:47",
+            "02:38",
+            "03:10",
+            "03:51",
+            "04:13",
+            "04:24",
+            "04:32",
+            "04:44"
+        ],
+        "label": "development"
+    },
+    "clusterList": [
+        {
+            "phrase": "solar wind and geothermal are all available right here",
+            "count": 6
+        },
+        {
+            "phrase": "windmills should be installed in every uninhabited windy place in this country",
+            "count": 5
+        },
+        {
+            "phrase": "move power from remote resource-rich areas to places where power is consumed",
+            "count": 2
+        },
+        {
+            "phrase": "this puts many projects on hold just when we were building a wind manufacturing infrastructure in this country",
+            "count": 2
+        },
+        {
+            "phrase": "development of water storages and hydel power development have been ignored apart from the ghazi barotha project 1 450 mw over the past 30 years the country is now paying the cost of this neglect",
+            "count": 1
+        },
+        {
+            "phrase": "during the next five years hydel projects with generation capacity of 20 000 mws could be started",
+            "count": 1
+        },
+        {
+            "phrase": "there is no more reliable source of electricity than coal",
+            "count": 1
+        },
+        {
+            "phrase": "farmed energy sources",
+            "count": 1
+        },
+        {
+            "phrase": "in general the farms are much better run than they were 10 15 20 years ago",
+            "count": 1
+        },
+        {
+            "phrase": "at this point it's just not economically feasible to require farms to convert from the lagoon systems",
+            "count": 1
+        },
+        {
+            "phrase": "it's an ideal terrain for geothermal energy resources it will be able to provide a large source of energy in the area and encourage the growth of industries that require heat",
+            "count": 1
+        },
+        {
+            "phrase": "iberdrola renewables has two large wind farms in colorado and we would like to invest more in the state",
+            "count": 1
+        },
+        {
+            "phrase": "with shuweihat 2 we now have 10 plants in our middle east portfolio the majority combining power and desalination they represent over 12 000mw of electricity and two million cubic metres of water per day",
+            "count": 1
+        },
+        {
+            "phrase": "in fact the process uses non-arable land and non-potable undrinkable water and delivers 10 to 100 times more energy per acre than cropland biofuels",
+            "count": 1
+        }
+    ]
+}

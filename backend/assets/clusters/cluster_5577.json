@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:37",
+            "04:38",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i felt it was time to make a change i'm 51 how many new beginnings do you get in life",
+            "count": 1
+        },
+        {
+            "phrase": "i'm glad it's been a year since i stepped into your life and all sorts of craziness ensued wait that didn't sound right",
+            "count": 1
+        },
+        {
+            "phrase": "for a long time it had seemed to me that life was about to begin real life but there was always some obstacle in the way something to be gotten through first some unfinished business time still to then life would begin at last it dawned on me that these obstacles were my life",
+            "count": 1
+        },
+        {
+            "phrase": "it might not be the life you had planned but it can also be a new beginning like being reborn",
+            "count": 1
+        }
+    ]
+}

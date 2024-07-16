@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:31",
+            "00:36",
+            "00:51",
+            "00:56",
+            "01:33",
+            "01:43",
+            "01:51",
+            "01:56",
+            "02:55"
+        ],
+        "label": "also"
+    },
+    "clusterList": [
+        {
+            "phrase": "also there are militiamen who have fled the country and might return as soon as possible",
+            "count": 6
+        },
+        {
+            "phrase": "with some moving to other threatened areas and others returning to the united states",
+            "count": 3
+        },
+        {
+            "phrase": "the militiamen have been confined and now they cannot move freely",
+            "count": 1
+        }
+    ]
+}

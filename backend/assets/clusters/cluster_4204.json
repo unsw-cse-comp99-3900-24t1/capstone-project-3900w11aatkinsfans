@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:03",
+            "01:13",
+            "03:59",
+            "04:45"
+        ],
+        "label": "coles"
+    },
+    "clusterList": [
+        {
+            "phrase": "coles and woolies and the big retailers they have the power to do that",
+            "count": 3
+        },
+        {
+            "phrase": "there is a cost but to us it's nowhere near the sort of cost woolworths and coles are talking about",
+            "count": 1
+        },
+        {
+            "phrase": "the fact we don't have to put additions on it stanwood makes all the difference in the world in costs",
+            "count": 1
+        }
+    ]
+}

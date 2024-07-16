@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:52",
+            "01:06",
+            "01:07",
+            "01:47",
+            "02:10",
+            "03:18",
+            "03:38",
+            "04:03",
+            "04:13",
+            "04:36"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "when are you leaving",
+            "count": 2
+        },
+        {
+            "phrase": "i might sound like a politician but i'm looking forward to spending more time with my family",
+            "count": 1
+        },
+        {
+            "phrase": "i am not leaving for political reasons or for health reasons but rather because i have learned that life is short and there is a great deal that i have yet to experience and enjoy",
+            "count": 1
+        },
+        {
+            "phrase": "getting ready to leave",
+            "count": 1
+        },
+        {
+            "phrase": "i miss my family",
+            "count": 1
+        },
+        {
+            "phrase": "i'm leaving to spend more time with my family",
+            "count": 1
+        },
+        {
+            "phrase": "i have time for my family which is good i have time for me and my wife",
+            "count": 1
+        },
+        {
+            "phrase": "that's just as well i'm not going to give up until you leave my family for good they have done nothing wrong",
+            "count": 1
+        },
+        {
+            "phrase": "more time with the family",
+            "count": 1
+        },
+        {
+            "phrase": "if you're going to leave then get on with it",
+            "count": 1
+        },
+        {
+            "phrase": "it's been too long and has taken a toll on my family",
+            "count": 1
+        }
+    ]
+}

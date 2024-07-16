@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:55",
+            "03:56"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they mentioned the land may be classified as community land we couldn't believe it",
+            "count": 1
+        },
+        {
+            "phrase": "nonetheless if there are concerns about how gtech is addressing the problem of vacant land and our approach to community development it is my responsibility to take responsibility for misconceptions or inadequate communication",
+            "count": 1
+        },
+        {
+            "phrase": "i'm here today to encourage the council to support the rezoning of the land in question",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:29",
+            "04:46"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a unique and artful blend of the pi novel and the police procedural with a story as deceptively simple as your first love and as fatal as your last car wreck a terrific novel",
+            "count": 1
+        },
+        {
+            "phrase": "oozing with all the crime conventions you want from a noir thriller",
+            "count": 1
+        }
+    ]
+}

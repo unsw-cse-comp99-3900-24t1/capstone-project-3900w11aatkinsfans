@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:52",
+            "01:41",
+            "01:51",
+            "03:35"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all food in senegal is organic",
+            "count": 1
+        },
+        {
+            "phrase": "excuse me do you have organic free range chicken",
+            "count": 1
+        },
+        {
+            "phrase": "eat organic foods",
+            "count": 1
+        },
+        {
+            "phrase": "pure natural and organic",
+            "count": 1
+        },
+        {
+            "phrase": "the classical chinese diet rich in vegetables and carbohydrates with minimal animal-sourced food no longer exists",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            3,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:03",
+            "01:13",
+            "04:15"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you drive on drugs you're out of your mind",
+            "count": 3
+        },
+        {
+            "phrase": "this campaign specifically targets the high number of young men putting themselves and others at risk when driving on drugs",
+            "count": 3
+        },
+        {
+            "phrase": "driving on drugs is illegal stupid and highly dangerous",
+            "count": 3
+        },
+        {
+            "phrase": "driving under the influence of drugs is dangerous because it makes you less alert impairs your vision reduces your coordination and prevents you from making the right decisions under pressure",
+            "count": 1
+        },
+        {
+            "phrase": "even if you don't drive a 180 mph like i do it's still risky driving with an allergy medicine that can cause drowsiness",
+            "count": 1
+        }
+    ]
+}

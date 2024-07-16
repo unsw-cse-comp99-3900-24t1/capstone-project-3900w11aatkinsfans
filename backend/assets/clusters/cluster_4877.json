@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:32",
+            "03:18",
+            "04:42"
+        ],
+        "label": "love"
+    },
+    "clusterList": [
+        {
+            "phrase": "love at first sight",
+            "count": 1
+        },
+        {
+            "phrase": "it was almost love at first sight but then some blind man stole your eyes and gave them to his ex-wife for a birthday surprise",
+            "count": 1
+        },
+        {
+            "phrase": "i even saw a few others including a lizard-and-human one but everyone looked so happy so much in love and i didn't feel sick or angry the couples some of them were just sitting together some were hugging or kissing one another and they were all right by the side of the river i do believe i saw you there my raven next to that that big blue object",
+            "count": 1
+        },
+        {
+            "phrase": "it was love at first sight",
+            "count": 1
+        }
+    ]
+}

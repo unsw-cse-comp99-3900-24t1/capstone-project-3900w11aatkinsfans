@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:51",
+            "04:32",
+            "04:41"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people still place enormous blame on yahoo for the breakdown of the talks with microsoft",
+            "count": 1
+        },
+        {
+            "phrase": "you are out of luck sir blame microsoft",
+            "count": 1
+        },
+        {
+            "phrase": "lubow recalled according to an account provided by microsoft",
+            "count": 1
+        },
+        {
+            "phrase": "i don't have a windows machine ergo jamie you're wrong",
+            "count": 1
+        }
+    ]
+}

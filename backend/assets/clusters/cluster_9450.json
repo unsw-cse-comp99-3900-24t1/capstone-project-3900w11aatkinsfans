@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:13"
+        ],
+        "label": "ok"
+    },
+    "clusterList": [
+        {
+            "phrase": "ok but my hands are all tired feed me will you",
+            "count": 1
+        },
+        {
+            "phrase": "give me your tired your poor",
+            "count": 1
+        }
+    ]
+}

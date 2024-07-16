@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:33"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh i hope it stand up",
+            "count": 1
+        },
+        {
+            "phrase": "looks like it's going to fall over at any time",
+            "count": 1
+        }
+    ]
+}

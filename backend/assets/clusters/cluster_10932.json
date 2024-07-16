@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "03:47"
+        ],
+        "label": "motorcyclist"
+    },
+    "clusterList": [
+        {
+            "phrase": "motorcyclist seriously hurt in th-97 crash",
+            "count": 1
+        },
+        {
+            "phrase": "driver error appears to be a major contributing factor in the crash",
+            "count": 1
+        }
+    ]
+}

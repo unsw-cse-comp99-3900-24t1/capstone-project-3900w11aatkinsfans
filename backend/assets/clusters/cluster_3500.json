@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:12",
+            "01:47",
+            "02:29",
+            "04:45"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she had the right-of-way",
+            "count": 1
+        },
+        {
+            "phrase": "i seen her being ridiculous i knew her capabilities of going in that direction so i bought the rights",
+            "count": 1
+        },
+        {
+            "phrase": "she had to know it was a person and she would not extend the same courtesy that the normal person would for an animal lying in the road",
+            "count": 1
+        },
+        {
+            "phrase": "she had the touch to make it just right",
+            "count": 1
+        },
+        {
+            "phrase": "based on the information at the time she thought it was the right thing to do",
+            "count": 1
+        }
+    ]
+}

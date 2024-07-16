@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "01:24",
+            "01:50",
+            "03:54",
+            "04:21"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never even played a sport when i was in school i got a book and the girls and i learned out of a book",
+            "count": 1
+        },
+        {
+            "phrase": "i've never seen myself as an athlete",
+            "count": 1
+        },
+        {
+            "phrase": "i've still got to improve my muscle endurance getting into football shape is totally different than just running and getting into shape in general",
+            "count": 1
+        },
+        {
+            "phrase": "i was always active in sports such as running cross-country in high school and swimming on the swim team in college",
+            "count": 1
+        },
+        {
+            "phrase": "i've worked really hard on my swim and in the past that had been my limiter if i don't do well in the swim you can't be sure a good run will help you catch",
+            "count": 1
+        }
+    ]
+}

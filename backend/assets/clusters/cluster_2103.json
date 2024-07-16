@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:42",
+            "01:46",
+            "01:47",
+            "02:14",
+            "04:36"
+        ],
+        "label": "unfortunately"
+    },
+    "clusterList": [
+        {
+            "phrase": "it can force people to follow you which means all your twits will be showed in their twitter home page including potentially malicious links",
+            "count": 5
+        },
+        {
+            "phrase": "unfortunately users are very trusting of messages left by friends on social networking sites so the likelihood of a user clicking on a link like this is very high at the beginning of 2008 that we'd see an increase in cybercriminals exploiting myspace facebook and similar sites and we're now seeing evidence of this i'm sure that this is simply the first step and that virus writers will continue to target these resources with increased intensity",
+            "count": 2
+        },
+        {
+            "phrase": "the increasing number of compromised sites during these times presents a greater opportunity of host infection on the client side",
+            "count": 1
+        }
+    ]
+}

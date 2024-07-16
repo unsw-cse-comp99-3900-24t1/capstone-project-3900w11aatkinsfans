@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:50"
+        ],
+        "label": "endeavor"
+    },
+    "clusterList": [
+        {
+            "phrase": "endeavor believes that in omidyar network we have found a partner that understands high-impact entrepreneurship is an integral part of economic and social development in emerging economies",
+            "count": 1
+        },
+        {
+            "phrase": "this grant will enable endeavor's model to build the conditions for the next silicon valleys to spring forth in emerging economies omidyar network's support enables endeavor to reach more emerging-market entrepreneurs who will create more high-value jobs many more indirect jobs through supply chains and inject billions into local economies through investments and revenues",
+            "count": 1
+        },
+        {
+            "phrase": "endeavor demonstrates that entrepreneurship can improve the lives of millions endeavor entrepreneurs have already provided thousands of people with jobs and millions more with previously unavailable products and services",
+            "count": 1
+        },
+        {
+            "phrase": "now go to the same university and the same professors will tell you that one of their goals is to produce good entrepreneurs",
+            "count": 1
+        }
+    ]
+}

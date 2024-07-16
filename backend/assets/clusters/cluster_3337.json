@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:57",
+            "02:18",
+            "02:29",
+            "02:55",
+            "03:09"
+        ],
+        "label": "then"
+    },
+    "clusterList": [
+        {
+            "phrase": "then you gonna walk the plank",
+            "count": 1
+        },
+        {
+            "phrase": "walk then run",
+            "count": 1
+        },
+        {
+            "phrase": "so you would be walking you wouldn't be driving at that point",
+            "count": 1
+        },
+        {
+            "phrase": "what do you think i'm doing every time i step outside my front door",
+            "count": 1
+        },
+        {
+            "phrase": "the least i can do is walk",
+            "count": 1
+        },
+        {
+            "phrase": "i don't really think i just walk",
+            "count": 1
+        }
+    ]
+}

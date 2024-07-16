@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:16",
+            "03:38",
+            "04:41"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but the waves started coming in faster than i could pump the water out",
+            "count": 1
+        },
+        {
+            "phrase": "we were pumping water long before that seven inches of rain that fell in june",
+            "count": 1
+        },
+        {
+            "phrase": "you led to the water",
+            "count": 1
+        }
+    ]
+}

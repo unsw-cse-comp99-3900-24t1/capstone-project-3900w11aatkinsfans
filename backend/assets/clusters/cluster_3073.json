@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:04",
+            "03:05",
+            "03:23",
+            "04:28",
+            "04:50"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have more capital than we need so we can say to the market that we don't need more injections we can confirm that we have tackled the problem",
+            "count": 2
+        },
+        {
+            "phrase": "new off-plan opportunities from heavy weight international developers are now springing up attracting overseas investors looking for a secure investment with good growth potential at rock bottom prices",
+            "count": 2
+        },
+        {
+            "phrase": "in such a challenging time when many companies in the countries we operate in are unable to raise funds we continue to be able to access the capital markets in view of the group's strong reputation and good financial standing",
+            "count": 1
+        },
+        {
+            "phrase": "they have a big investment and they are willing to pay for it sometimes we have big debates",
+            "count": 1
+        }
+    ]
+}

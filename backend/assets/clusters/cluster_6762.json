@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "02:39",
+            "02:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the basketball diaries",
+            "count": 2
+        },
+        {
+            "phrase": "the stillwell diaries",
+            "count": 1
+        }
+    ]
+}

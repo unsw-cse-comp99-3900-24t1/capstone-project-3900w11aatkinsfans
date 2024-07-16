@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:00",
+            "01:11",
+            "01:14",
+            "01:43",
+            "02:09",
+            "02:24",
+            "02:40",
+            "02:51",
+            "03:01",
+            "03:15",
+            "03:18",
+            "03:22",
+            "03:55",
+            "04:19",
+            "04:46"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was like something between a dog howling and a baby crying i guess you could say",
+            "count": 7
+        },
+        {
+            "phrase": "my daughter said oh my god and everybody else started screaming",
+            "count": 2
+        },
+        {
+            "phrase": "i stammered in my ever increasingly common brainless mommy way",
+            "count": 2
+        },
+        {
+            "phrase": "she was growling and rolling the whole time",
+            "count": 1
+        },
+        {
+            "phrase": "it sounded like a door slammed shut",
+            "count": 1
+        },
+        {
+            "phrase": "she came up to me and said that big tummy has a baby in it",
+            "count": 1
+        },
+        {
+            "phrase": "mom what's wrong why are you yelling",
+            "count": 1
+        },
+        {
+            "phrase": "what was that noise",
+            "count": 1
+        },
+        {
+            "phrase": "your girlfriend hasn't just screamed things like that in your face this is all your fault you know",
+            "count": 1
+        }
+    ]
+}

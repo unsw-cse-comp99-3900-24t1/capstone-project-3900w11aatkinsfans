@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:29",
+            "01:38",
+            "03:51"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my family has helped me with a lot of things growing up and i try to use that to my advantage",
+            "count": 1
+        },
+        {
+            "phrase": "does family friendliness help anything",
+            "count": 1
+        },
+        {
+            "phrase": "we try to work with the youth and families in a holistic manner because we realize that family is a great part of the young person's life",
+            "count": 1
+        },
+        {
+            "phrase": "all i've been thinking about is making sure i do what i need to do to get healthy for my family",
+            "count": 1
+        }
+    ]
+}

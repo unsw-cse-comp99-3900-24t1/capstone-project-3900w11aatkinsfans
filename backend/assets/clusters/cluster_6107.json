@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:22",
+            "03:14"
+        ],
+        "label": "help"
+    },
+    "clusterList": [
+        {
+            "phrase": "help me file an appeal",
+            "count": 1
+        },
+        {
+            "phrase": "what i find totally totally disgusting is it's been two years since the process was in place it took nine months for three judges to reject an appeal",
+            "count": 1
+        },
+        {
+            "phrase": "what i am surprised about is that the decision came down today the last day to file documents in the case",
+            "count": 1
+        }
+    ]
+}

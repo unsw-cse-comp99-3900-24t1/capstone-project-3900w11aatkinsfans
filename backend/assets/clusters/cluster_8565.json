@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the well versed words of a pissed off woman",
+            "count": 1
+        },
+        {
+            "phrase": "hell hath no fury like a woman scorned",
+            "count": 1
+        }
+    ]
+}

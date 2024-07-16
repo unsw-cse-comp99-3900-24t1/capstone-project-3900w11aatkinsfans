@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:24",
+            "03:42",
+            "03:48"
+        ],
+        "label": "forty-one"
+    },
+    "clusterList": [
+        {
+            "phrase": "forty-one years ago when i first started carrying a police badge i never dreamed that this day would come",
+            "count": 1
+        },
+        {
+            "phrase": "i don't expect to see this ever again in my lifetime as a police officer",
+            "count": 1
+        },
+        {
+            "phrase": "i look at mr sullivan when i see the police department",
+            "count": 1
+        },
+        {
+            "phrase": "that's the worst piece of police work i've seen in a long time",
+            "count": 1
+        }
+    ]
+}

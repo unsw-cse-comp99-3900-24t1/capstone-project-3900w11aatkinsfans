@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i got a really cool shirt today like really emo like emo-mazing",
+            "count": 1
+        },
+        {
+            "phrase": "i had my shirt on tonight",
+            "count": 1
+        }
+    ]
+}

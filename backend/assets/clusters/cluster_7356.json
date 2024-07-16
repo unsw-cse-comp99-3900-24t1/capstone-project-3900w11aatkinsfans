@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:15",
+            "04:35",
+            "04:42"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a project and we are united to take it forward",
+            "count": 1
+        },
+        {
+            "phrase": "we're collaborating with the state",
+            "count": 1
+        },
+        {
+            "phrase": "large and progressive thinking and a demonstrated potential for partnership",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:18",
+            "00:58",
+            "01:20",
+            "01:33",
+            "01:38",
+            "02:02",
+            "02:09",
+            "02:19",
+            "03:00",
+            "03:01",
+            "03:09",
+            "03:15",
+            "03:41",
+            "03:50",
+            "04:49",
+            "05:01"
+        ],
+        "label": "follow"
+    },
+    "clusterList": [
+        {
+            "phrase": "meet the team",
+            "count": 8
+        },
+        {
+            "phrase": "now until we start playing like a real team",
+            "count": 3
+        },
+        {
+            "phrase": "take me out to the ballgame",
+            "count": 2
+        },
+        {
+            "phrase": "follow the ball and join in everybody",
+            "count": 1
+        },
+        {
+            "phrase": "come play with us",
+            "count": 1
+        },
+        {
+            "phrase": "i want fans to come and enjoy watching me and my team but i know i have to earn the right",
+            "count": 1
+        },
+        {
+            "phrase": "take me out to the ball game",
+            "count": 1
+        }
+    ]
+}

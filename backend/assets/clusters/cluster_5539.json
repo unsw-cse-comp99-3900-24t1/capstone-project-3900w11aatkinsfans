@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:43",
+            "04:04",
+            "04:36"
+        ],
+        "label": "damn"
+    },
+    "clusterList": [
+        {
+            "phrase": "damn my ringer was turned low and didn't hear my phone ring",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't know what was going on i though it was the alarm system had gone off",
+            "count": 1
+        },
+        {
+            "phrase": "it was supposed to be off two hours and it was off 50",
+            "count": 1
+        },
+        {
+            "phrase": "my phone should've been ringing off the hook at 8 30 not 9 17 a m",
+            "count": 1
+        }
+    ]
+}

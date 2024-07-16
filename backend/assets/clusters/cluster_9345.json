@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the attack of the killer tomatoes",
+            "count": 1
+        },
+        {
+            "phrase": "the killer tomatoes strike back",
+            "count": 1
+        }
+    ]
+}

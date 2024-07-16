@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:39",
+            "00:51",
+            "01:05",
+            "01:48",
+            "02:01",
+            "02:14",
+            "03:28",
+            "03:42",
+            "04:08"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't think it is ethical behaviour to agree to do that",
+            "count": 3
+        },
+        {
+            "phrase": "we feel it is the right thing to do we don't need the law to tell us that",
+            "count": 1
+        },
+        {
+            "phrase": "i cannot condone that kind of behaviour it's unacceptable and should never have happened",
+            "count": 1
+        },
+        {
+            "phrase": "this is a new strange dilemma in our society which is unacceptable ethically socially and religiously",
+            "count": 1
+        },
+        {
+            "phrase": "i can see that there might be political pressure on the government to do that but it doesn't mean its the right thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "of course in practice the doctrine of social responsibility is frequently a cloak for actions that are justified on other grounds rather than a reason for those actions",
+            "count": 1
+        },
+        {
+            "phrase": "in each of these cases there is a strong temptation to rationalize these actions as an exercise of social responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "that's so unethical",
+            "count": 1
+        },
+        {
+            "phrase": "look this is illegal and morally repugnant but it has to be done so we're going to do it and face the consequences",
+            "count": 1
+        }
+    ]
+}

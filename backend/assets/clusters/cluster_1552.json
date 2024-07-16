@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:33",
+            "00:43",
+            "01:00",
+            "01:34",
+            "01:46",
+            "01:50",
+            "02:15",
+            "03:55",
+            "04:15"
+        ],
+        "label": "prison"
+    },
+    "clusterList": [
+        {
+            "phrase": "prison bound blues",
+            "count": 2
+        },
+        {
+            "phrase": "hot buttered soul",
+            "count": 2
+        },
+        {
+            "phrase": "warm and soul-stirring pop",
+            "count": 1
+        },
+        {
+            "phrase": "rockin in the park",
+            "count": 1
+        },
+        {
+            "phrase": "r-and-b hippie neo-soul rock star",
+            "count": 1
+        },
+        {
+            "phrase": "piece of the rock",
+            "count": 1
+        },
+        {
+            "phrase": "the tattooed irish rocker",
+            "count": 1
+        },
+        {
+            "phrase": "deathrock psychobilly horror punk",
+            "count": 1
+        },
+        {
+            "phrase": "the new rock",
+            "count": 1
+        }
+    ]
+}

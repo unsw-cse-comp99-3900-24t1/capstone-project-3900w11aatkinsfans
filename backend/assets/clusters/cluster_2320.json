@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:42",
+            "00:43",
+            "01:09",
+            "02:28",
+            "03:48",
+            "04:21",
+            "05:05"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "the companies quarterly reports are a testament to management whose sole focus is short-term profits not a long-term energy future",
+            "count": 2
+        },
+        {
+            "phrase": "resist the false comfort of revenue predictions",
+            "count": 2
+        },
+        {
+            "phrase": "at least another 15 companies stopped short of issuing a full profit warning",
+            "count": 1
+        },
+        {
+            "phrase": "as smes grow they do not increase debt levels even with adequate financial choices to do so",
+            "count": 1
+        },
+        {
+            "phrase": "when you look at a profit and loss statement what you see is an average but it's an average comprised of a lot of different components",
+            "count": 1
+        },
+        {
+            "phrase": "in fact we expect 15 to 18 percent of our net profit tocome from the combined entity",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "03:23",
+            "04:27"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it sounds like a large number of units but actually it's less than about a month's worth of a run-rate",
+            "count": 2
+        },
+        {
+            "phrase": "we don't think it would be uncommon for people who are running them really hard to incur costs of up to 5 a day",
+            "count": 1
+        }
+    ]
+}

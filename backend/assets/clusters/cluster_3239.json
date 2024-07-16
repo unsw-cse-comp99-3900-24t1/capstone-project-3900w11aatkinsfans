@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:06",
+            "03:35",
+            "04:08",
+            "04:45"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "every last piece",
+            "count": 4
+        },
+        {
+            "phrase": "oh i couldn't take the last piece",
+            "count": 1
+        },
+        {
+            "phrase": "phew thank you god for getting me out of that last one",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "04:21",
+            "04:28"
+        ],
+        "label": "act"
+    },
+    "clusterList": [
+        {
+            "phrase": "act of free choice",
+            "count": 2
+        },
+        {
+            "phrase": "we feel it's important that our employee partners fully understand the implications that the employee free choice act could have on their work environment and benefits",
+            "count": 1
+        },
+        {
+            "phrase": "that in itself burger argues makes the employee free choice act larger than any one single issue even more important than healthcare",
+            "count": 1
+        }
+    ]
+}

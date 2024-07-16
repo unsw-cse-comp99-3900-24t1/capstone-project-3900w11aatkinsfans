@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "02:22",
+            "03:08",
+            "04:23"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he felt it was important to let brett know face to face that he was serious about a long-term relationship regardless of his intentions to play football",
+            "count": 2
+        },
+        {
+            "phrase": "he's not a good man to fall in love with",
+            "count": 1
+        },
+        {
+            "phrase": "he loves quarterbacks but he likes to just date he doesn't like to marry",
+            "count": 1
+        }
+    ]
+}

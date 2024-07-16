@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            5,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:51",
+            "01:46",
+            "01:52",
+            "01:57",
+            "02:01",
+            "02:10",
+            "02:18",
+            "02:44",
+            "04:28"
+        ],
+        "label": "fish"
+    },
+    "clusterList": [
+        {
+            "phrase": "fish and chips",
+            "count": 3
+        },
+        {
+            "phrase": "i could search for fish and chips but not for whakatane fish and chips",
+            "count": 3
+        },
+        {
+            "phrase": "mac and cheese",
+            "count": 3
+        },
+        {
+            "phrase": "cheese and mac",
+            "count": 2
+        },
+        {
+            "phrase": "fish amp chips",
+            "count": 2
+        },
+        {
+            "phrase": "fish or cut bait",
+            "count": 1
+        },
+        {
+            "phrase": "can we have fish and chips instead let's try some restaurant maybe mcdonald's in porto marina",
+            "count": 1
+        },
+        {
+            "phrase": "bigger fish in the frying pan",
+            "count": 1
+        },
+        {
+            "phrase": "plate of shrimp",
+            "count": 1
+        },
+        {
+            "phrase": "fish n chips",
+            "count": 1
+        }
+    ]
+}

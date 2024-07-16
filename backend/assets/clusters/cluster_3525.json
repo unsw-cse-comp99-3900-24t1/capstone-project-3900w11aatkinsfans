@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:29",
+            "01:51",
+            "04:09"
+        ],
+        "label": "trying"
+    },
+    "clusterList": [
+        {
+            "phrase": "trying to stir up trouble",
+            "count": 4
+        },
+        {
+            "phrase": "trying to stir trouble",
+            "count": 1
+        }
+    ]
+}

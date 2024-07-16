@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "01:41",
+            "04:00",
+            "04:13",
+            "04:27",
+            "04:32",
+            "04:46",
+            "04:51",
+            "04:56"
+        ],
+        "label": "join"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm practicing my rock band drumming",
+            "count": 2
+        },
+        {
+            "phrase": "i was just kidding it's my band",
+            "count": 2
+        },
+        {
+            "phrase": "join this group",
+            "count": 1
+        },
+        {
+            "phrase": "band of idiots",
+            "count": 1
+        },
+        {
+            "phrase": "being in the band",
+            "count": 1
+        },
+        {
+            "phrase": "band membership agreement",
+            "count": 1
+        },
+        {
+            "phrase": "the cat band",
+            "count": 1
+        }
+    ]
+}

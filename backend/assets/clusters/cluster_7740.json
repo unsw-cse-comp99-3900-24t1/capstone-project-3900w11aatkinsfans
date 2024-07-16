@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "03:00",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i put my ice box up against my door in case someone wants to mess with me it could happen to us",
+            "count": 1
+        },
+        {
+            "phrase": "what if this whole house was made of cheese and we were surrounded by giant mice and we were all bare naked and it was snowing so we couldn't get outside to run away",
+            "count": 1
+        },
+        {
+            "phrase": "i'd just come in to the house i still had my gloves on and i wasn't wearing my glasses my wife hollered from upstairs quick put the pistachio ice cream in the freezer before it melts it never occurred to me someone for whatever reason might've left a stack of 100s on our kitchen table",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "03:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this attack involves a special packet which has the effect of disconnecting the endpoint",
+            "count": 1
+        },
+        {
+            "phrase": "my impression is that this attack was carried out by subcontractors",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "05:05"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what boxing doesn't have so many of anymore and that's what this fight will need",
+            "count": 1
+        },
+        {
+            "phrase": "the build-up seems to be the same so there won't be any problem creating excitement about the fight",
+            "count": 1
+        },
+        {
+            "phrase": "there's the power of both guys and the body shots of both guys and when theyre trying to get to the next level anything can happen this reminds me of the fights from back in the day where at any given moment either guy can win",
+            "count": 1
+        },
+        {
+            "phrase": "both probably expect to win the game and this time around it's probably a top four battle",
+            "count": 1
+        }
+    ]
+}

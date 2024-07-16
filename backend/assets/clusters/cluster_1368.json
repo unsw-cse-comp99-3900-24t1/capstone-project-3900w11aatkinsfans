@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:33",
+            "01:41",
+            "02:08",
+            "02:13",
+            "02:24",
+            "02:42",
+            "02:55",
+            "02:57",
+            "03:42",
+            "05:05"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "neither of those individuals was ever part of cia's high-value terrorist interrogation program",
+            "count": 4
+        },
+        {
+            "phrase": "witness hamdan not part of elite a defense expert testified that osama bin laden's driver had none of the skills to qualify to be an al qaeda terrorist",
+            "count": 3
+        },
+        {
+            "phrase": "a private cia essentially called total intelligence solutions and the man running total intelligence solutions is j cofer black he's a thirty-year veteran of the central intelligence agency he also was the guy who ran the cia's extraordinary rendition program the government-sanctioned kidnap-and-torture program",
+            "count": 2
+        },
+        {
+            "phrase": "at least five men within the pentagon who knew arms were being transferred to the cia",
+            "count": 1
+        },
+        {
+            "phrase": "do not know whether they have been surveilled much less whether they have been surveilled under the wiretapping program",
+            "count": 1
+        },
+        {
+            "phrase": "two american intelligence officials",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            3
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:47",
+            "01:50",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am the last born of a big family and also a twin my parents were in the navy so we traveled around a bit and then decided to settle in georgia no i am not a peach per se but",
+            "count": 14
+        },
+        {
+            "phrase": "i didn't want to leave because i have been living in the same place for 40 years and i know what this is about",
+            "count": 1
+        },
+        {
+            "phrase": "i moved to ireland when i was six my folks got divorced my mother married an irishman and so we moved there baggage three kids my mom and my stepfather i was there for eleven years",
+            "count": 1
+        }
+    ]
+}

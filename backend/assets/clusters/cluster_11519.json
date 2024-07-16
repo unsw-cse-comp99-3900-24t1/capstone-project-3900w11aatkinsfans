@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:20",
+            "03:18"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that outfit says i have a knife and i will cut you i love it",
+            "count": 1
+        },
+        {
+            "phrase": "how sweet you've dressed up your kitten",
+            "count": 1
+        }
+    ]
+}

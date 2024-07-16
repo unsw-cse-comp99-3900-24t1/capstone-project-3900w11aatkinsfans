@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:41",
+            "01:09",
+            "01:33",
+            "01:55",
+            "02:45",
+            "02:57",
+            "04:03",
+            "04:28",
+            "04:29"
+        ],
+        "label": "won't"
+    },
+    "clusterList": [
+        {
+            "phrase": "we suck less",
+            "count": 3
+        },
+        {
+            "phrase": "we do not appreciate what we have until we lose it",
+            "count": 2
+        },
+        {
+            "phrase": "won't give up won't give in",
+            "count": 1
+        },
+        {
+            "phrase": "we have no competition",
+            "count": 1
+        },
+        {
+            "phrase": "we don't give a fuck",
+            "count": 1
+        },
+        {
+            "phrase": "we don't give up",
+            "count": 1
+        },
+        {
+            "phrase": "we will not give up",
+            "count": 1
+        },
+        {
+            "phrase": "we ain't going nowhere",
+            "count": 1
+        }
+    ]
+}

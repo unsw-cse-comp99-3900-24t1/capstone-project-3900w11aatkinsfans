@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:15",
+            "02:10",
+            "02:24",
+            "04:20"
+        ],
+        "label": "lenin"
+    },
+    "clusterList": [
+        {
+            "phrase": "lenin of today",
+            "count": 1
+        },
+        {
+            "phrase": "king leonardo's short subjects",
+            "count": 1
+        },
+        {
+            "phrase": "look at any great spiritual leader throughout history",
+            "count": 1
+        },
+        {
+            "phrase": "ruler of the universe",
+            "count": 1
+        },
+        {
+            "phrase": "the unaborted socrates",
+            "count": 1
+        }
+    ]
+}

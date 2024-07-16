@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:32",
+            "04:06"
+        ],
+        "label": "mayberry"
+    },
+    "clusterList": [
+        {
+            "phrase": "mayberry inside the capital beltway",
+            "count": 3
+        }
+    ]
+}

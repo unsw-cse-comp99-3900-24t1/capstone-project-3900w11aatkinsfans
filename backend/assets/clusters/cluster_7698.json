@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "04:23",
+            "04:41"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why is this taking me forever",
+            "count": 1
+        },
+        {
+            "phrase": "i'm spending way more time on this than i should",
+            "count": 1
+        },
+        {
+            "phrase": "if i click on this it's going to take lots of my time",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:02",
+            "04:09",
+            "04:31",
+            "04:33"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm building a hotel there it's environmentally friendly i went there with the make a wish foundation and met some great people there and the royal family was really friendly",
+            "count": 2
+        },
+        {
+            "phrase": "i'm glad i did continue on i strongly considered dropping out after my brother got booted and that took the wind out of my sails and i think probably contributed to my subpar performances for a couple weeks there but it's another one of those challenges this whole experience has been a series of challenges and that was one of them to be able to re-centre myself which is another reason i'm thrilled i was able to continue through til this week because i feel like i really came out of it and found myself again",
+            "count": 1
+        },
+        {
+            "phrase": "i have really enjoyed my time in inverell and can't wait to come back again",
+            "count": 1
+        },
+        {
+            "phrase": "the gift of your professional skills made such a critical difference in restoring the facility and hopefully the spirits of those who view it as their church home",
+            "count": 1
+        }
+    ]
+}

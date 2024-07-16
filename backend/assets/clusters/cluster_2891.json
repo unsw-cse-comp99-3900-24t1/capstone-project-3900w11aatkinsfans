@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:28",
+            "01:05",
+            "01:19",
+            "01:20",
+            "01:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think i was the first guy off the golf course that day at washington",
+            "count": 4
+        },
+        {
+            "phrase": "i think i was the first guy off the golf course that day at washington he said",
+            "count": 1
+        },
+        {
+            "phrase": "it seems to be a year of firsts for me first major first world golf championships event",
+            "count": 1
+        }
+    ]
+}

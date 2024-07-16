@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "04:13",
+            "04:19"
+        ],
+        "label": "emotion"
+    },
+    "clusterList": [
+        {
+            "phrase": "emotion was running quite high at that point",
+            "count": 1
+        },
+        {
+            "phrase": "i was very impressed defensively",
+            "count": 1
+        },
+        {
+            "phrase": "i mean that shit got intense",
+            "count": 1
+        }
+    ]
+}

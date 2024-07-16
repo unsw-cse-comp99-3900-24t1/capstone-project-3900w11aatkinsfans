@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "02:46",
+            "02:47",
+            "03:15",
+            "04:17"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is economical we realize that times are tough we're working people so we understand if it's tough for us we know that's it's tough for the guy that's working every day",
+            "count": 2
+        },
+        {
+            "phrase": "stress free productivity",
+            "count": 1
+        },
+        {
+            "phrase": "our job is not to add stress at the end of life but to make it easy",
+            "count": 1
+        },
+        {
+            "phrase": "i left the hospital because i was tired of the stress to me this is the perfect job",
+            "count": 1
+        },
+        {
+            "phrase": "it helps with the burden that life can sometimes bring we're committed to helping simplify the life of our employees",
+            "count": 1
+        }
+    ]
+}

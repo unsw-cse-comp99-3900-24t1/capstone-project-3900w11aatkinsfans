@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:18",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know better than anyone",
+            "count": 1
+        },
+        {
+            "phrase": "i know that's right mainly because i am a nobody",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't matter how many people you know what matters is how many people know you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "02:14",
+            "02:25"
+        ],
+        "label": "thorn"
+    },
+    "clusterList": [
+        {
+            "phrase": "thorn in the side",
+            "count": 1
+        },
+        {
+            "phrase": "they have been a thorn in our side",
+            "count": 1
+        },
+        {
+            "phrase": "crown of thorns",
+            "count": 1
+        }
+    ]
+}

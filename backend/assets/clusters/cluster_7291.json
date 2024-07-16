@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:13",
+            "03:19"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if she had anything to do with that book it would have been better written and more eloquent to say madonna needs publicity is insane",
+            "count": 1
+        },
+        {
+            "phrase": "right she can't just sit there and narrate the entire publishing industry to us i'd rather smell like funyans for the rest of my friggin life than listen to that",
+            "count": 1
+        },
+        {
+            "phrase": "no kidding doesn't she know that a few snippets of witty repartee might keep her readers from being bored into rigor mortis",
+            "count": 1
+        }
+    ]
+}

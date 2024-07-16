@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:15",
+            "01:29"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i started my career people talked down buses i had a rather strange job to a lot of people",
+            "count": 2
+        },
+        {
+            "phrase": "i have always had a dread of becoming a passenger in life",
+            "count": 1
+        }
+    ]
+}

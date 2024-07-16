@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            5,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "00:41",
+            "01:19",
+            "02:41",
+            "03:22",
+            "04:41"
+        ],
+        "label": "terror"
+    },
+    "clusterList": [
+        {
+            "phrase": "terror school turns out to be moderate madrassa",
+            "count": 11
+        },
+        {
+            "phrase": "the catholic school on the threshold of the third millennium",
+            "count": 1
+        }
+    ]
+}

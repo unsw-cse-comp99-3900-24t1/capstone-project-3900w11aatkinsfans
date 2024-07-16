@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:05"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when apple was on its heels which was not that long ago the bloom was off the rose and people wrote apple off then a couple years later they're in a new business that no one ever predicted and it has a halo on the entire company",
+            "count": 1
+        },
+        {
+            "phrase": "then apple came along and in a 30-second commercial they just made it dead simple",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "01:00",
+            "01:10",
+            "01:41",
+            "02:00",
+            "02:19",
+            "03:18",
+            "04:04"
+        ],
+        "label": "please"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm trying to pick up things as i go along",
+            "count": 2
+        },
+        {
+            "phrase": "please pick up",
+            "count": 1
+        },
+        {
+            "phrase": "i've got something so cool i wish i could tell you",
+            "count": 1
+        },
+        {
+            "phrase": "maybe i can just have you pick me up something",
+            "count": 1
+        },
+        {
+            "phrase": "do you want me to go outside and pick you up myself",
+            "count": 1
+        },
+        {
+            "phrase": "i'll pick you up after story time",
+            "count": 1
+        },
+        {
+            "phrase": "because i've got something i want to give you",
+            "count": 1
+        },
+        {
+            "phrase": "didn't you have something you wanted to give me",
+            "count": 1
+        },
+        {
+            "phrase": "and then i might have you for afters i think i'd better get you two outta here",
+            "count": 1
+        }
+    ]
+}

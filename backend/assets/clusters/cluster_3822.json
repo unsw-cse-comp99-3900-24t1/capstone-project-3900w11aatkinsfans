@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "01:14",
+            "02:37"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "new york reuters delta air lines on tuesday doubled the fee to check a second bag for domestic flights to 50 from 25 to help offset record fuel prices",
+            "count": 1
+        },
+        {
+            "phrase": "delta announced a number of baggage fee increases on domestic and international flights including a rise in the fee for items that require special handling such as surfboards or ski equipment",
+            "count": 1
+        },
+        {
+            "phrase": "delta also increased the fee for a third checked bag from 80 to 125 on domestic flights and from 150 to 200 on international flights it also raised fees for bags that exceed its weight allowance",
+            "count": 1
+        },
+        {
+            "phrase": "airport concession fee on flight arrivals within 24hrs and facility use fee on flight arrivals within 24hrs",
+            "count": 1
+        },
+        {
+            "phrase": "with the kuwait flight delta now offers more service to the middle east than all other u s carriers combined",
+            "count": 1
+        }
+    ]
+}

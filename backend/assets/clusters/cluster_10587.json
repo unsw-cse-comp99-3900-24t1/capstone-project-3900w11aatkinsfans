@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:16",
+            "04:08"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the terror of bombs falling from the sky and landmines exploding from the earth is revealed in",
+            "count": 1
+        },
+        {
+            "phrase": "bombed as spectacularly as operation shock and awe",
+            "count": 1
+        }
+    ]
+}

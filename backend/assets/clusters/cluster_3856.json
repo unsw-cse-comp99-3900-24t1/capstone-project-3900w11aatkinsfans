@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "01:38",
+            "04:04"
+        ],
+        "label": "2008"
+    },
+    "clusterList": [
+        {
+            "phrase": "roadshow home video",
+            "count": 2
+        },
+        {
+            "phrase": "2008 grand national roadster show",
+            "count": 1
+        },
+        {
+            "phrase": "welcome to roadshow home video",
+            "count": 1
+        },
+        {
+            "phrase": "we should have some 60 to 70 vehicles in the show which is a premiere event for western newfoundland and takes place right on main street in stephenville which is blocked off for the duration of the show from its intersection with queen street and grove street",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:41",
+            "03:18"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not as fine as you think",
+            "count": 1
+        },
+        {
+            "phrase": "lol you don't sound okay",
+            "count": 1
+        },
+        {
+            "phrase": "no i'm quite alright i think i'll just look through some of our photo albums again just to remind me",
+            "count": 1
+        }
+    ]
+}

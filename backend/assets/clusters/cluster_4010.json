@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:41",
+            "02:46",
+            "04:55",
+            "05:05"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can tell you that what boston was looking for we could not provide them",
+            "count": 2
+        },
+        {
+            "phrase": "what boston was looking for we could not provide",
+            "count": 1
+        },
+        {
+            "phrase": "the most lopsided trade in mlb history",
+            "count": 1
+        },
+        {
+            "phrase": "we felt very strong about moss ability to come out and be an everyday outfielder for us",
+            "count": 1
+        }
+    ]
+}

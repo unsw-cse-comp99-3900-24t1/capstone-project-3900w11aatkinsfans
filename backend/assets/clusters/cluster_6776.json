@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:05"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what we saw in minnesota was our soldiers having significant problems in the first months home but since the launch of the program they're seeing progress",
+            "count": 1
+        },
+        {
+            "phrase": "what we've seen an increase in is the soldiers accessing the help that is available and we've seen a decrease six to seven in the really significant problems saw in the war",
+            "count": 1
+        },
+        {
+            "phrase": "there was also a 6 percent increase in individuals served in june 2008 compared to june 2007",
+            "count": 1
+        }
+    ]
+}

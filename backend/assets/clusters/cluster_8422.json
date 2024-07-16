@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "04:28"
+        ],
+        "label": "stay"
+    },
+    "clusterList": [
+        {
+            "phrase": "stay awake alert you have no idea what day your master will show up",
+            "count": 1
+        },
+        {
+            "phrase": "cancer educational board is at 7am it is 1 am pehaps one should go get some sleep",
+            "count": 1
+        }
+    ]
+}

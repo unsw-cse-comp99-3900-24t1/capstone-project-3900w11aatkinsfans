@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:43",
+            "03:37"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've got centuries of history to draw on",
+            "count": 1
+        },
+        {
+            "phrase": "not what has happened but what is recorded makes history",
+            "count": 1
+        },
+        {
+            "phrase": "someone needs to be considering how history will look back at this",
+            "count": 1
+        }
+    ]
+}

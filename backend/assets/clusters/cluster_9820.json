@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "03:51"
+        ],
+        "label": "crime"
+    },
+    "clusterList": [
+        {
+            "phrase": "crime of passion",
+            "count": 1
+        },
+        {
+            "phrase": "the rebellious nature at the heart of all great filmmaking",
+            "count": 1
+        }
+    ]
+}

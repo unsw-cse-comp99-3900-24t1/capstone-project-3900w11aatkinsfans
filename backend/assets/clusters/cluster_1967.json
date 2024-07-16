@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:36",
+            "03:51",
+            "04:27",
+            "04:35",
+            "04:45",
+            "04:51",
+            "05:01",
+            "05:05"
+        ],
+        "label": "olmert"
+    },
+    "clusterList": [
+        {
+            "phrase": "olmert failed in war and failed in peace",
+            "count": 5
+        },
+        {
+            "phrase": "olmert leaves behind grave damage to israel's power of deterrence in the region and a feeling of demoralization and lost hope at home",
+            "count": 2
+        },
+        {
+            "phrase": "olmert is the first israeli leader perhaps the first democratic leader anywhere to threaten his own country with destruction if it rejected his policies",
+            "count": 1
+        },
+        {
+            "phrase": "olmert two years after assuming office and promising to make israel a more fun place to live leaves us a nation in shame",
+            "count": 1
+        }
+    ]
+}

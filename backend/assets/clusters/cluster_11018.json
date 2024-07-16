@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "03:20"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if only i could have finished that email",
+            "count": 1
+        },
+        {
+            "phrase": "i could have written this",
+            "count": 1
+        }
+    ]
+}

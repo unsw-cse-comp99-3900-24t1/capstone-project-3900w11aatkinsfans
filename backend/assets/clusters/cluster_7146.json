@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:01"
+        ],
+        "label": "faithless"
+    },
+    "clusterList": [
+        {
+            "phrase": "faithless is he that says farewell when the road darkens",
+            "count": 1
+        },
+        {
+            "phrase": "faithlesh ish he that shesh farewell when the road darkensh",
+            "count": 1
+        },
+        {
+            "phrase": "this is a voice of a man who calls out in the desert prepare the way for the lord make the road straight for him",
+            "count": 1
+        }
+    ]
+}

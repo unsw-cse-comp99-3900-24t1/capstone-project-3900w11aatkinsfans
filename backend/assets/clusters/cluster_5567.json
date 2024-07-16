@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:56",
+            "04:36",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fact that a piece of luggage with bomb clearly written on it has been able to get into the baggage make-up area of a secure airport in this country is just another slap in the face for aviation workers and the travelling public",
+            "count": 1
+        },
+        {
+            "phrase": "the terrorist operations of such a massive scale are not possible without local support the planting of bombs selection of places and transportation of explosive materials were not possible without locals",
+            "count": 1
+        },
+        {
+            "phrase": "their plan was to detonate the pipe bombs in a public area located at a school",
+            "count": 1
+        },
+        {
+            "phrase": "tsa consistently reminds passengers that joking about bombs is not a laughing matter",
+            "count": 1
+        }
+    ]
+}

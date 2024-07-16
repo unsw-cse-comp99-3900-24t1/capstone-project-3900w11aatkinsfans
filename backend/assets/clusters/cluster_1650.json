@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:56",
+            "01:07",
+            "02:01",
+            "02:10",
+            "03:18",
+            "04:36",
+            "05:00"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's ok horsie it's ok shhhhhh",
+            "count": 1
+        },
+        {
+            "phrase": "it's ok its all over now",
+            "count": 1
+        },
+        {
+            "phrase": "its ok i told you its all over",
+            "count": 1
+        },
+        {
+            "phrase": "it's ok really",
+            "count": 1
+        },
+        {
+            "phrase": "hey its ok you can tell me",
+            "count": 1
+        },
+        {
+            "phrase": "it's ok honey just go back to sleep",
+            "count": 1
+        },
+        {
+            "phrase": "your life is over",
+            "count": 1
+        },
+        {
+            "phrase": "ah good it's over i didn't feel a thing",
+            "count": 1
+        },
+        {
+            "phrase": "all i know is that i'm relieved it's over",
+            "count": 1
+        },
+        {
+            "phrase": "shhh it will all be over in a few moments dear one just trust me remember",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:06"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the worst crisis i've ever seen",
+            "count": 1
+        },
+        {
+            "phrase": "it's a crisis for most people",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:34",
+            "03:42",
+            "04:27",
+            "04:28"
+        ],
+        "label": "down"
+    },
+    "clusterList": [
+        {
+            "phrase": "down by the water pj",
+            "count": 1
+        },
+        {
+            "phrase": "there is not enough space between the water and the bridge to get underneath safely",
+            "count": 1
+        },
+        {
+            "phrase": "the arctic bridge",
+            "count": 1
+        },
+        {
+            "phrase": "shallow water blackout",
+            "count": 1
+        }
+    ]
+}

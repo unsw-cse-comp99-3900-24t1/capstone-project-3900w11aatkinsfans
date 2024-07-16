@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:38"
+        ],
+        "label": "delete"
+    },
+    "clusterList": [
+        {
+            "phrase": "delete from usuarios where id",
+            "count": 1
+        }
+    ]
+}

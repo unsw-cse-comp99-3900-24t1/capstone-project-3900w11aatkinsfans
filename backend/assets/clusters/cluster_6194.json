@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "03:00",
+            "03:23"
+        ],
+        "label": "cradle"
+    },
+    "clusterList": [
+        {
+            "phrase": "cradle of life",
+            "count": 1
+        },
+        {
+            "phrase": "beyond the orphanage",
+            "count": 1
+        },
+        {
+            "phrase": "confessions of a second lifer",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            8
+        ],
+        "xLabels": [
+            "00:20",
+            "00:58"
+        ],
+        "label": "crop"
+    },
+    "clusterList": [
+        {
+            "phrase": "crop both black bands",
+            "count": 6
+        },
+        {
+            "phrase": "crop the upper black band",
+            "count": 5
+        }
+    ]
+}

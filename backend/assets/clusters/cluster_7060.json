@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:12",
+            "04:24"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "you've got to ask ray charles about it ray charles plays piano on it not only that he arranged the song",
+            "count": 2
+        },
+        {
+            "phrase": "oh this one by john piper it's really good what was it called",
+            "count": 1
+        }
+    ]
+}

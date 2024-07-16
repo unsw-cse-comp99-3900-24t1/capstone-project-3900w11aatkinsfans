@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:15",
+            "04:41"
+        ],
+        "label": "scarcely"
+    },
+    "clusterList": [
+        {
+            "phrase": "scarcely a visible trace",
+            "count": 1
+        },
+        {
+            "phrase": "without a trace",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:24",
+            "03:59",
+            "04:33"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never sent us e-tickets confirmation numbers they charged my credit card the only thing they sent us actually was housing vouchers",
+            "count": 1
+        },
+        {
+            "phrase": "for another year ticketfinder com aims at providing customers with unparalleled service and living up-to its 100 customer satisfaction guarantee simply order and sit back we will deliver tickets right at your doorstep",
+            "count": 1
+        },
+        {
+            "phrase": "okay well there was an issue with my ticket in the front apparently i am supposed to have a peak ticket that doesn't read ort but i didn't know about this and i don't really have the money to give you",
+            "count": 1
+        },
+        {
+            "phrase": "ticketmaster customer service has not received any complaints",
+            "count": 1
+        }
+    ]
+}

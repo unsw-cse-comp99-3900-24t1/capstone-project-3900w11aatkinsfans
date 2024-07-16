@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "01:34",
+            "02:00",
+            "02:05",
+            "02:46",
+            "04:13",
+            "04:28"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "even if for now i'm the only one",
+            "count": 2
+        },
+        {
+            "phrase": "i'm the only one",
+            "count": 1
+        },
+        {
+            "phrase": "all of me",
+            "count": 1
+        },
+        {
+            "phrase": "i know i'm not the only one",
+            "count": 1
+        },
+        {
+            "phrase": "you're the only ones",
+            "count": 1
+        },
+        {
+            "phrase": "am i the only one listening",
+            "count": 1
+        }
+    ]
+}

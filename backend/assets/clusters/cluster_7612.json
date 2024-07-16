@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:11",
+            "04:50"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and my husband just put that new door up",
+            "count": 1
+        },
+        {
+            "phrase": "shiro get your ass in here and help me get this house ready",
+            "count": 1
+        },
+        {
+            "phrase": "everybody said i should live here in the new house for a little while",
+            "count": 1
+        }
+    ]
+}

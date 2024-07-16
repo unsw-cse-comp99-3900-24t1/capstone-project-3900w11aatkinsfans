@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:43",
+            "01:13",
+            "02:37",
+            "04:10"
+        ],
+        "label": "moral"
+    },
+    "clusterList": [
+        {
+            "phrase": "moral politics reduced to 5 pages",
+            "count": 1
+        },
+        {
+            "phrase": "moral right wing",
+            "count": 1
+        },
+        {
+            "phrase": "this administration is planning a right wing assault on values and ideals",
+            "count": 1
+        },
+        {
+            "phrase": "the modern conservative is engaged in one of man's oldest exercises in moral philosophy that is the search for a superior moral justification for selfishness",
+            "count": 1
+        },
+        {
+            "phrase": "right wing halfwits",
+            "count": 1
+        }
+    ]
+}

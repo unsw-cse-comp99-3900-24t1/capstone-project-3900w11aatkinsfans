@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:20",
+            "02:42",
+            "03:18",
+            "03:28",
+            "04:41"
+        ],
+        "label": "feedback"
+    },
+    "clusterList": [
+        {
+            "phrase": "feedback has been positive from my students",
+            "count": 1
+        },
+        {
+            "phrase": "alternative means of feedback",
+            "count": 1
+        },
+        {
+            "phrase": "how feedback should be given",
+            "count": 1
+        },
+        {
+            "phrase": "less positive feedback",
+            "count": 1
+        },
+        {
+            "phrase": "you can tell me you know i'm a good listener",
+            "count": 1
+        },
+        {
+            "phrase": "listened to and learnt from",
+            "count": 1
+        },
+        {
+            "phrase": "listens well to feedback",
+            "count": 1
+        }
+    ]
+}

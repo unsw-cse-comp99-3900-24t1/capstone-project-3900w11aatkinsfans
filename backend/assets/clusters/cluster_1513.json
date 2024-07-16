@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:24",
+            "00:32",
+            "02:22",
+            "02:23",
+            "02:37",
+            "02:56",
+            "03:01",
+            "03:23",
+            "04:44",
+            "04:50"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's interesting because after every",
+            "count": 3
+        },
+        {
+            "phrase": "there's so much they can do with the story that's one of the things that makes it stay interesting",
+            "count": 2
+        },
+        {
+            "phrase": "it's racy and exciting",
+            "count": 1
+        },
+        {
+            "phrase": "it's a fascinating topic on many levels",
+            "count": 1
+        },
+        {
+            "phrase": "it's very interesting",
+            "count": 1
+        },
+        {
+            "phrase": "it's interesting because after every you",
+            "count": 1
+        },
+        {
+            "phrase": "and this is interesting why",
+            "count": 1
+        },
+        {
+            "phrase": "it gets a ton of interest because it's so unique",
+            "count": 1
+        }
+    ]
+}

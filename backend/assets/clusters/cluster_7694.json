@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:17",
+            "04:38"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to keep a man",
+            "count": 1
+        },
+        {
+            "phrase": "being a husband there's a natural instinct to protect",
+            "count": 1
+        },
+        {
+            "phrase": "saving yourself for your husband",
+            "count": 1
+        }
+    ]
+}

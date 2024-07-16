@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:49",
+            "03:18",
+            "04:27"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "no secret software for public sensing data",
+            "count": 2
+        },
+        {
+            "phrase": "it said the safeguards google was putting in place such as blurring faces and registration plates were sufficient to allay worries about privacy",
+            "count": 1
+        },
+        {
+            "phrase": "today's satellite-image technology means that complete privacy does not exist",
+            "count": 1
+        }
+    ]
+}

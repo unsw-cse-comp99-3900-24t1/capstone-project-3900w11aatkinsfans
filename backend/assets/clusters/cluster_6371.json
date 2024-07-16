@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:01",
+            "02:00"
+        ],
+        "label": "frosty"
+    },
+    "clusterList": [
+        {
+            "phrase": "frosty was a lifesaver in waking me up when i was sleeping and incurring a low blood sugar",
+            "count": 1
+        },
+        {
+            "phrase": "a tale that sent my blood into icy creeps",
+            "count": 1
+        },
+        {
+            "phrase": "tales of a scorched earth",
+            "count": 1
+        }
+    ]
+}

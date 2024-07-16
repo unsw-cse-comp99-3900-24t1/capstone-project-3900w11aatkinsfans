@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "04:41"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in episode 3 of season 5 titled",
+            "count": 1
+        },
+        {
+            "phrase": "you saw on the show yesterday",
+            "count": 1
+        }
+    ]
+}

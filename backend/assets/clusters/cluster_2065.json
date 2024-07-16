@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:04",
+            "01:18",
+            "02:14",
+            "03:55",
+            "04:15",
+            "04:47"
+        ],
+        "label": "sounds"
+    },
+    "clusterList": [
+        {
+            "phrase": "sounds like it might be a true",
+            "count": 3
+        },
+        {
+            "phrase": "is true n",
+            "count": 2
+        },
+        {
+            "phrase": "they're saying that",
+            "count": 1
+        },
+        {
+            "phrase": "so is that a yes",
+            "count": 1
+        },
+        {
+            "phrase": "it certainly is true",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:42",
+            "01:02",
+            "01:13",
+            "01:42",
+            "03:03",
+            "03:06",
+            "03:51",
+            "04:05",
+            "04:46",
+            "04:54"
+        ],
+        "label": "return"
+    },
+    "clusterList": [
+        {
+            "phrase": "return on success",
+            "count": 6
+        },
+        {
+            "phrase": "basic guarantee for the success",
+            "count": 4
+        },
+        {
+            "phrase": "right of return",
+            "count": 2
+        },
+        {
+            "phrase": "nothing fails like success",
+            "count": 1
+        },
+        {
+            "phrase": "return to form",
+            "count": 1
+        }
+    ]
+}

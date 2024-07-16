@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:51",
+            "02:52",
+            "04:08",
+            "04:51"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are aware of a recent posting on the internet and believe this is a malicious hoax",
+            "count": 2
+        },
+        {
+            "phrase": "a malicious hoax",
+            "count": 1
+        },
+        {
+            "phrase": "unfounded baseless and malicious",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:05",
+            "04:28"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it may be minimal but that's ok if it is",
+            "count": 7
+        },
+        {
+            "phrase": "might buy a little bit of relief but it's minimal",
+            "count": 1
+        }
+    ]
+}

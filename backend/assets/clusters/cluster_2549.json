@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:04",
+            "01:33",
+            "01:47",
+            "03:10",
+            "03:51"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "the debate is over",
+            "count": 3
+        },
+        {
+            "phrase": "you can still expect a heated debate",
+            "count": 1
+        },
+        {
+            "phrase": "an honorable debate",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to get a dispute and a debate done but in a respectful fashion",
+            "count": 1
+        },
+        {
+            "phrase": "key to resolving the dispute",
+            "count": 1
+        }
+    ]
+}

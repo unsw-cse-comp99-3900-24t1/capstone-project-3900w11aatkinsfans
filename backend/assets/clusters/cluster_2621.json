@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:14",
+            "00:18",
+            "00:53",
+            "01:18",
+            "01:29",
+            "03:12"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your love is lawless the quantum of solace",
+            "count": 1
+        },
+        {
+            "phrase": "love is an ugly terrible business practiced by fools it'll trample your heart and leave you bleeding on the floor and what does it really get you in the end nothing but a few incredible memories that you can't ever shake",
+            "count": 1
+        },
+        {
+            "phrase": "romance novels are not",
+            "count": 1
+        },
+        {
+            "phrase": "the romantic generation",
+            "count": 1
+        },
+        {
+            "phrase": "psychic love affair",
+            "count": 1
+        },
+        {
+            "phrase": "loves of a blonde",
+            "count": 1
+        },
+        {
+            "phrase": "lovers in japan reign of love",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:04",
+            "01:20",
+            "03:00",
+            "03:42"
+        ],
+        "label": "be"
+    },
+    "clusterList": [
+        {
+            "phrase": "female high boss",
+            "count": 2
+        },
+        {
+            "phrase": "be your own boss leaving the cubicle in 5 simple steps",
+            "count": 1
+        },
+        {
+            "phrase": "show the world who's boss",
+            "count": 1
+        },
+        {
+            "phrase": "be the boss",
+            "count": 1
+        },
+        {
+            "phrase": "show him who's boss",
+            "count": 1
+        }
+    ]
+}

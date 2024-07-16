@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "03:08",
+            "03:36"
+        ],
+        "label": "master"
+    },
+    "clusterList": [
+        {
+            "phrase": "master who bought them",
+            "count": 1
+        },
+        {
+            "phrase": "they were purchased with borrowed money",
+            "count": 1
+        },
+        {
+            "phrase": "sold the last of them to a bunch of cosplayers from the anime convention",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "04:49"
+        ],
+        "label": "candidate"
+    },
+    "clusterList": [
+        {
+            "phrase": "candidate of change",
+            "count": 2
+        },
+        {
+            "phrase": "routinely ignores or marginalizes the party's candidates",
+            "count": 1
+        }
+    ]
+}

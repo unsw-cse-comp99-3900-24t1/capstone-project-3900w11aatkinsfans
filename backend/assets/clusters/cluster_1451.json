@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:23",
+            "00:32",
+            "00:42",
+            "00:52",
+            "01:50",
+            "03:17",
+            "03:18",
+            "03:34",
+            "05:03"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of them was warning his colleagues that the other was a suicide attacker and asking them to take cover then another policeman fired towards both of them",
+            "count": 4
+        },
+        {
+            "phrase": "at least one witness saw the final incident",
+            "count": 1
+        },
+        {
+            "phrase": "there were six people involved in the incident",
+            "count": 1
+        },
+        {
+            "phrase": "there are indications that there were more people in the car at the time of the shooting which is the main focus of our inquiry",
+            "count": 1
+        },
+        {
+            "phrase": "it was very difficult a very long and arduous process to get the four people out without causing further injury we were on scene about 7 25am and the last person was released about 9 20am",
+            "count": 1
+        },
+        {
+            "phrase": "i have all three numbers jotted down here they died under very strange circumstances though one of them had apparently been shot or stabbed another had one eye missing and the remains of the last one show that he died quite a grizzly death maybe it was more than one attacker i don't know just don't tell the families how their loved ones died don't explain anything just tell them and go",
+            "count": 1
+        },
+        {
+            "phrase": "a couple of people got caught in the middle of it that's all",
+            "count": 1
+        },
+        {
+            "phrase": "we know there were lots of people in the area when this incident occurred",
+            "count": 1
+        }
+    ]
+}

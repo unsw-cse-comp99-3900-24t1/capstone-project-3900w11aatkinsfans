@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:10",
+            "00:48",
+            "03:17",
+            "03:29",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "mother"
+    },
+    "clusterList": [
+        {
+            "phrase": "the harm goes beyond how the child victim feels",
+            "count": 3
+        },
+        {
+            "phrase": "to lose a child to murder shakes one's faith in humanity",
+            "count": 2
+        },
+        {
+            "phrase": "mother of all crimes",
+            "count": 1
+        },
+        {
+            "phrase": "it is a crime against humanity when someone is put to death purely by virtue of his or her birth",
+            "count": 1
+        },
+        {
+            "phrase": "parents of murdered children",
+            "count": 1
+        }
+    ]
+}

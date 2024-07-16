@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:47"
+        ],
+        "label": "provides"
+    },
+    "clusterList": [
+        {
+            "phrase": "provides a startling new perspective",
+            "count": 1
+        },
+        {
+            "phrase": "provides a startling new",
+            "count": 1
+        }
+    ]
+}

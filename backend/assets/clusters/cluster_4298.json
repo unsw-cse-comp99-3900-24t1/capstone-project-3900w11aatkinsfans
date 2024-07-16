@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:05",
+            "04:04",
+            "04:33",
+            "04:50"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i grew up there",
+            "count": 1
+        },
+        {
+            "phrase": "so is it always the same people up here",
+            "count": 1
+        },
+        {
+            "phrase": "i live here so i see it all the time",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of people have been saying i live here",
+            "count": 1
+        },
+        {
+            "phrase": "but i think people don't live here any more they sold their places i think most people sell them",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "00:12"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that right there is as plain as it gets about the racism in verona",
+            "count": 1
+        },
+        {
+            "phrase": "they said it was affecting the verona community",
+            "count": 1
+        },
+        {
+            "phrase": "verona is not racist",
+            "count": 1
+        }
+    ]
+}

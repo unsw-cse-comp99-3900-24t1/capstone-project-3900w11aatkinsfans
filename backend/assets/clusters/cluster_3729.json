@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:37",
+            "02:23",
+            "02:24"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm very happy to announce that we've gotten an ice sample",
+            "count": 2
+        },
+        {
+            "phrase": "we got a little bit of ice mixed in with this sample",
+            "count": 2
+        },
+        {
+            "phrase": "we've gotten an ice sample into tega",
+            "count": 1
+        }
+    ]
+}

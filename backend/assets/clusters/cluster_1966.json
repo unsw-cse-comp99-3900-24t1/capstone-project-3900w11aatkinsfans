@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:39",
+            "00:50",
+            "01:20",
+            "03:35",
+            "04:04",
+            "04:15",
+            "04:28",
+            "05:05"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "it would have been an entertaining game to watch but it wasn't that good being on the losing side it's still fresh in our memories it's good motivation for the weekend",
+            "count": 2
+        },
+        {
+            "phrase": "it's still fresh in our memories and it's good motivation for the weekend",
+            "count": 2
+        },
+        {
+            "phrase": "there wasn't a whole lot of pleasure watching that game",
+            "count": 1
+        },
+        {
+            "phrase": "i'm disappointed that there has been so much emphasise put on what happened at the end of the game rather than the game itself",
+            "count": 1
+        },
+        {
+            "phrase": "it's about being competitive and i thought the game was really tight the red team never quit they came back and they were close to tying the game at the end it was a good hockey game this is what we want from them",
+            "count": 1
+        },
+        {
+            "phrase": "saturday's defeat was disappointing there were a lot of positives to take out of the game but the way we lost all the goals was poor",
+            "count": 1
+        },
+        {
+            "phrase": "i thought we had a pretty positive approach in all of those games that week",
+            "count": 1
+        }
+    ]
+}

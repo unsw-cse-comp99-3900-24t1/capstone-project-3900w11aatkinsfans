@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:01",
+            "02:20",
+            "03:00",
+            "03:10",
+            "04:05"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "get out and vote or the end will be near",
+            "count": 3
+        },
+        {
+            "phrase": "get off their a and vote",
+            "count": 1
+        },
+        {
+            "phrase": "but that should not bar them from voting",
+            "count": 1
+        },
+        {
+            "phrase": "waste their vote",
+            "count": 1
+        }
+    ]
+}

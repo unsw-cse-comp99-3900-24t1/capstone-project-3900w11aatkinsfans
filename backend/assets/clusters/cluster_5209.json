@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:13",
+            "03:06",
+            "04:23"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some of the developing countries have fairly restrictive policies regarding ownership of airlines for instance in india",
+            "count": 1
+        },
+        {
+            "phrase": "there is also no regulatory body for the civil aviation sector like trai in telecom the government should call the airlines and take necessary steps to prevent burdening of the people",
+            "count": 1
+        },
+        {
+            "phrase": "there is a high degree of frustration in the ambiguity between what is the aviation advisory board's responsibility and what is the county council's responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "what's happened over the last two years is that the aviation advisory board has been embroiled in political decisions we were not elected to make political decisions we don't have the capability to make political decisions",
+            "count": 1
+        }
+    ]
+}

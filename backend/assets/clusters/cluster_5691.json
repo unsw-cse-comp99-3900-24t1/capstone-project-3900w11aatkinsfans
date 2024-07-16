@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:06",
+            "00:36"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there will be guns blood demons and gibs",
+            "count": 1
+        },
+        {
+            "phrase": "but there will be blood",
+            "count": 1
+        },
+        {
+            "phrase": "i can tell you there will be guns i can tell you there will be blood i can tell you there will be demons i can tell you there will be gibs in other words i can tell you it's going to be kickass because it couldn't be anything else right",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i would like to speak to an attorney before i answer preferably someone who specializes in intellectual property",
+            "count": 1
+        },
+        {
+            "phrase": "one of the things that's important with all of the new innovation from third parties on facebook platform is that as part of the developer terms of service developers own the intellectual property for the applications they build and attest that their applications do not infringe on any copyright or trademark laws we recommend application developers consult with an attorney who can give sound legal advice whenever they have questions",
+            "count": 1
+        }
+    ]
+}

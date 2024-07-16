@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:10",
+            "03:18",
+            "03:51",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i lie to get my picture in the papers",
+            "count": 4
+        },
+        {
+            "phrase": "you claim that you weren't stealing the photo but looking at it krusha doesn't think you're telling the truth miss he seems to think that you're trying to protect someone else by lying about what happened is that so",
+            "count": 1
+        }
+    ]
+}

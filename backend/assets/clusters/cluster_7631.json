@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:09",
+            "04:26"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you want to maintain a constant level of inhibition with more neurosteroids you need fewer receptors",
+            "count": 1
+        },
+        {
+            "phrase": "we were able to restore function in these animals not by dosing them with estrogen but by enabling them to use the estrogen that was naturally present in their bodies",
+            "count": 1
+        },
+        {
+            "phrase": "rats treated with estradiol are definitely a lot more active and make a lot more lever presses",
+            "count": 1
+        }
+    ]
+}

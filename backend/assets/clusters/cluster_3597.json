@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:18",
+            "02:23",
+            "02:36"
+        ],
+        "label": "web"
+    },
+    "clusterList": [
+        {
+            "phrase": "cloud computing journal",
+            "count": 4
+        },
+        {
+            "phrase": "web 2 0 expo",
+            "count": 1
+        }
+    ]
+}

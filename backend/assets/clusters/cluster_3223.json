@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "02:17",
+            "03:17",
+            "04:04",
+            "04:45"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "something happened there that i don't quite understand",
+            "count": 3
+        },
+        {
+            "phrase": "mikey what the hell happened to you",
+            "count": 2
+        },
+        {
+            "phrase": "we don't know why it happened",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:55",
+            "04:19"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is only one indicator for telling the value of paintings and that is the saleroom",
+            "count": 1
+        },
+        {
+            "phrase": "view seller's other items",
+            "count": 1
+        },
+        {
+            "phrase": "pictures used in auction listings may or may not be actual picture of item or items listed but do depict similar item or items listed",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:05",
+            "01:38",
+            "01:52",
+            "04:27"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "most people are going closer to home for vacations",
+            "count": 2
+        },
+        {
+            "phrase": "tourists are really discovering austin and there's so much demand we have people call all the time and say what do you mean you're full there's plenty of room for others",
+            "count": 2
+        },
+        {
+            "phrase": "for last-minute travel we're finding so many travelers choosing to stay close to home and explore their own neighborhood",
+            "count": 1
+        }
+    ]
+}

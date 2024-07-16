@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "02:38",
+            "02:42",
+            "03:20",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we need money we are operating at a deficit and spending money out of reserves the missouri department of elementary and secondary education has added new requirements for graduation and the only way to meet those requirements is by adding personnel",
+            "count": 1
+        },
+        {
+            "phrase": "we want a yes no or a maybe so we can begin applying for grants and other means of support for the building",
+            "count": 1
+        },
+        {
+            "phrase": "the local grants program supports organisations that continue to dedicate their time and energy to making a difference in local communities",
+            "count": 1
+        },
+        {
+            "phrase": "a lot can be done in five years to bring substantial benefit",
+            "count": 1
+        },
+        {
+            "phrase": "there is money out there i have a calendar of grants for the next three months that is eight pages long",
+            "count": 1
+        },
+        {
+            "phrase": "for example singleton council has had a grants officer for three years and she has attracted 1 2 million in that area",
+            "count": 1
+        }
+    ]
+}

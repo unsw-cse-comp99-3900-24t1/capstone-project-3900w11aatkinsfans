@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:41",
+            "04:18",
+            "04:27"
+        ],
+        "label": "warner"
+    },
+    "clusterList": [
+        {
+            "phrase": "warner bros pictures",
+            "count": 3
+        },
+        {
+            "phrase": "filmed at warner bros studios in burbank california",
+            "count": 1
+        },
+        {
+            "phrase": "the studio of the south",
+            "count": 1
+        },
+        {
+            "phrase": "which came out in 1998 mostly because the film was shot on location there",
+            "count": 1
+        }
+    ]
+}

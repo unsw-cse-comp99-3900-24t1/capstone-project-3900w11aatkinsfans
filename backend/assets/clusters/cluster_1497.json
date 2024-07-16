@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:08",
+            "00:20",
+            "00:29",
+            "01:01",
+            "01:46",
+            "01:47",
+            "04:54"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have completed restoring mail service including historical messages to all of the 1 of affected members",
+            "count": 4
+        },
+        {
+            "phrase": "we have completed restoring mail service including historical messages to all of the 1 of affected members thank you all for your extreme patience during this trying time",
+            "count": 2
+        },
+        {
+            "phrase": "by completing this restoration of mail services we hope we have put the vast majority of mobileme problems behind us and can now focus on improving other aspects of this new ambitious service",
+            "count": 2
+        },
+        {
+            "phrase": "by completing this restoration of mail services we hope we have put the vast majority of mobileme mail problems behind us and can now focus on improving other aspects of this new ambitious service",
+            "count": 2
+        },
+        {
+            "phrase": "i hope the situation can change with this new system",
+            "count": 1
+        }
+    ]
+}

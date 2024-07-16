@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:23",
+            "00:52",
+            "01:33",
+            "02:05",
+            "03:19",
+            "03:24",
+            "03:59",
+            "04:05",
+            "04:33",
+            "04:57"
+        ],
+        "label": "grace"
+    },
+    "clusterList": [
+        {
+            "phrase": "somewhere between addictive by faithless and addicted by juliana hatfield",
+            "count": 3
+        },
+        {
+            "phrase": "fall from grace",
+            "count": 2
+        },
+        {
+            "phrase": "and jesus said come to the waters stand by my side i know you are thirsty you won't be denied i felt every tear drop when in darkness you cried and i strove to remind you that for those tears died i know most of the words but i am trying to find the whole song and possible music",
+            "count": 2
+        },
+        {
+            "phrase": "grace for grace",
+            "count": 1
+        },
+        {
+            "phrase": "eyes of faith",
+            "count": 1
+        },
+        {
+            "phrase": "will and grace",
+            "count": 1
+        },
+        {
+            "phrase": "grace by faith",
+            "count": 1
+        },
+        {
+            "phrase": "saved by the bell",
+            "count": 1
+        }
+    ]
+}

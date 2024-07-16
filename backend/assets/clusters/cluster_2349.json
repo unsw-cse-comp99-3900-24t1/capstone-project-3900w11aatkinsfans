@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:46",
+            "01:25",
+            "02:05",
+            "04:32",
+            "05:04"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a pretty big part of our game",
+            "count": 2
+        },
+        {
+            "phrase": "i'm obviously disappointed it's part of the game and you can't do anything about it",
+            "count": 1
+        },
+        {
+            "phrase": "i think that's part of the game",
+            "count": 1
+        },
+        {
+            "phrase": "is a very big deal",
+            "count": 1
+        },
+        {
+            "phrase": "that's what all the fuss is about",
+            "count": 1
+        },
+        {
+            "phrase": "it's part of the game no big deal",
+            "count": 1
+        },
+        {
+            "phrase": "what's the big deal",
+            "count": 1
+        }
+    ]
+}

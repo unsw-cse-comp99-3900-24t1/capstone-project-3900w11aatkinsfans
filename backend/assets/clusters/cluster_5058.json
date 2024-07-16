@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:23",
+            "04:28",
+            "04:59",
+            "05:00"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these reports shows productivity gains have been sustained and are not due to climate change effects",
+            "count": 2
+        },
+        {
+            "phrase": "amid the recent surge in commodity prices and japan's aging society",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "03:34"
+        ],
+        "label": "creating"
+    },
+    "clusterList": [
+        {
+            "phrase": "creating something positive",
+            "count": 1
+        },
+        {
+            "phrase": "project a more positive attitude about it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:10",
+            "00:11",
+            "00:51",
+            "01:07",
+            "02:51"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's already been reported",
+            "count": 5
+        },
+        {
+            "phrase": "if i knew then what i know now i can't say for sure i would have reported it",
+            "count": 1
+        }
+    ]
+}

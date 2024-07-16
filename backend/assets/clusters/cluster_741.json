@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            8,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:22",
+            "00:25",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:48",
+            "03:59",
+            "04:28",
+            "05:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "will take a look at disclosure",
+            "count": 7
+        },
+        {
+            "phrase": "the commission has recognized that more information is necessary to ensure that speculation has not become excessive and i agree with them",
+            "count": 7
+        },
+        {
+            "phrase": "we faced an alarming degree of secrecy and deliberate concealment of financial records that limited our ability to complete a comprehensive review",
+            "count": 1
+        },
+        {
+            "phrase": "and now i'm going to reveal something that has never been disclosed before",
+            "count": 1
+        },
+        {
+            "phrase": "i'm very happy with the response at this point because we don't have any legal information or findings at this point and i don't like rumor or innuendo so i prefer the findings come in first",
+            "count": 1
+        },
+        {
+            "phrase": "from a credibility perspective the issue is who is making these decisions about disclosure and publication and on what criteria",
+            "count": 1
+        }
+    ]
+}

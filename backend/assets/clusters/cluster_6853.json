@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:56",
+            "04:42"
+        ],
+        "label": "consumers"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of the online tastemakers driving buzz in canada",
+            "count": 2
+        },
+        {
+            "phrase": "consumers who've tasted the beers like them",
+            "count": 1
+        }
+    ]
+}

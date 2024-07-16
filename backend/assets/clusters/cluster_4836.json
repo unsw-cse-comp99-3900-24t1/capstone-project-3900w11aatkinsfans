@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "03:09",
+            "04:23"
+        ],
+        "label": "unable"
+    },
+    "clusterList": [
+        {
+            "phrase": "unable to read the source file",
+            "count": 2
+        },
+        {
+            "phrase": "filename must be either an absolute pathname etc",
+            "count": 1
+        },
+        {
+            "phrase": "key not created",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:02",
+            "03:14"
+        ],
+        "label": "tv"
+    },
+    "clusterList": [
+        {
+            "phrase": "tv service is currently not available please try again later",
+            "count": 1
+        },
+        {
+            "phrase": "mullen concludes that a full hd device must be capable of displaying or outputting a 1080 60p signal",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:04",
+            "02:06",
+            "04:10",
+            "04:26",
+            "04:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the 100 billion that fled the region in a few short weeks in the summer of 1997 brought economic growth to a screeching halt from korea all the way down to indonesia",
+            "count": 1
+        },
+        {
+            "phrase": "there's growth in florida but it's far less than the growth in the past couple of years",
+            "count": 1
+        },
+        {
+            "phrase": "we've seen call growth from 30 000 to 60 000 in the last year",
+            "count": 1
+        },
+        {
+            "phrase": "in terms of a number of other countries in the world that have perfectly successful healthy economies with growth and inward investment it's much closer to those today than it would have been a year ago",
+            "count": 1
+        },
+        {
+            "phrase": "china has become a notable factor in the scientific landscape usually scientific development in nations does not show such a strong acceleration as we have seen in china so it will be interesting to see how it responds and develops in the future",
+            "count": 1
+        },
+        {
+            "phrase": "goes some way to explaining the overall rise",
+            "count": 1
+        }
+    ]
+}

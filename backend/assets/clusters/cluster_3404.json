@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:29",
+            "01:04",
+            "01:34",
+            "03:01",
+            "03:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "uncle john's band",
+            "count": 2
+        },
+        {
+            "phrase": "the tfc band",
+            "count": 1
+        },
+        {
+            "phrase": "the blue man group",
+            "count": 1
+        },
+        {
+            "phrase": "sgt peppers loleny hearts club band",
+            "count": 1
+        },
+        {
+            "phrase": "sgt pepper's lonely hearts club band",
+            "count": 1
+        }
+    ]
+}

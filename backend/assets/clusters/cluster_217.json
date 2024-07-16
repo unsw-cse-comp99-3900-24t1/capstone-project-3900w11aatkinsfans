@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            2,
+            4,
+            1,
+            2,
+            1,
+            4,
+            1,
+            2,
+            3,
+            1,
+            4,
+            4,
+            4
+        ],
+        "xLabels": [
+            "00:27",
+            "00:29",
+            "00:32",
+            "01:09",
+            "01:25",
+            "01:40",
+            "01:46",
+            "01:47",
+            "02:06",
+            "02:26",
+            "02:28",
+            "02:29",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "although"
+    },
+    "clusterList": [
+        {
+            "phrase": "although congress has taken a number of steps to help alleviate the current housing crisis we need to proactively put practices in place that will help prevent another crisis down the road",
+            "count": 14
+        },
+        {
+            "phrase": "i asked that this bill include protections for florida's wishes and those protections are included in this bill",
+            "count": 7
+        },
+        {
+            "phrase": "this legislation will bring relief to many florida homeowners who face losing their homes the measure also puts long-term fixes in place to prevent a housing crisis like this from occurring in the future",
+            "count": 7
+        },
+        {
+            "phrase": "you know we're not just going to help a few homeowners right now we need to change the entire system we need to make it transparent we need to make the legislation enforceable and we need to bring some control into what's going on and understanding of what we need to be looking for",
+            "count": 4
+        },
+        {
+            "phrase": "housing and economic recovery act of 2008",
+            "count": 2
+        },
+        {
+            "phrase": "through these measures we are ending decades of unfair unbalanced and insufficient provision of affordable housing in new jersey",
+            "count": 1
+        },
+        {
+            "phrase": "this overhaul of the state's affordable housing laws is long overdue",
+            "count": 1
+        },
+        {
+            "phrase": "the housing bill signed by president bush on wednesday won't help southwest florida homeowners hit hardest by the economy this is one of those feel-good government intervention programs with only a marginal real impact said said charles costello a mortgage broker in fort myers",
+            "count": 1
+        },
+        {
+            "phrase": "this bill doesn't do anything for the people who have lost their homes or are in the process of losing their homes",
+            "count": 1
+        }
+    ]
+}

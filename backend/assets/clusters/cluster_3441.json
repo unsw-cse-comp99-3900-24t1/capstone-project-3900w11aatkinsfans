@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "01:50",
+            "02:27",
+            "04:19",
+            "04:28"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of our detectives was telling me that he was supposed to go to the house today to interview him",
+            "count": 2
+        },
+        {
+            "phrase": "the fact that mr rupert may or may not have a shady background depending on your point of view and the fact that as a paid agent he might be suspect as a witness at any rate are neither here nor there",
+            "count": 2
+        },
+        {
+            "phrase": "he looks very like a lawyer if ever he had seen one",
+            "count": 1
+        },
+        {
+            "phrase": "tvnz have had two private investigators detectives sniffing around since they were sued for defamation some years ago an action which is still alive today",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:14",
+            "03:43"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's still an incoming and outgoing message",
+            "count": 1
+        },
+        {
+            "phrase": "return to sender can not be delivered as addressed",
+            "count": 1
+        }
+    ]
+}

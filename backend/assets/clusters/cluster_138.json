@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            1,
+            1,
+            2,
+            6,
+            1,
+            7,
+            1,
+            7,
+            1,
+            6,
+            2,
+            1,
+            6,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:29",
+            "00:39",
+            "00:49",
+            "01:07",
+            "01:15",
+            "01:47",
+            "02:02",
+            "03:10",
+            "03:41",
+            "03:51",
+            "04:18",
+            "04:28",
+            "04:32",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i invented the internet",
+            "count": 12
+        },
+        {
+            "phrase": "i took the initiative in creating the internet",
+            "count": 12
+        },
+        {
+            "phrase": "invented the internet",
+            "count": 6
+        },
+        {
+            "phrase": "i took the initiative in starting programs that ultimately led to the creation of the internet",
+            "count": 6
+        },
+        {
+            "phrase": "essentially regulating the internet",
+            "count": 4
+        },
+        {
+            "phrase": "turning the tide of technology",
+            "count": 2
+        },
+        {
+            "phrase": "invent the internet",
+            "count": 1
+        },
+        {
+            "phrase": "we invented online community",
+            "count": 1
+        },
+        {
+            "phrase": "i don't invent the things on the internet i make them better",
+            "count": 1
+        },
+        {
+            "phrase": "father of the internet",
+            "count": 1
+        },
+        {
+            "phrase": "initiative in creating the internet",
+            "count": 1
+        },
+        {
+            "phrase": "bringing technology education and information to these parts of the world will be done by accessing web browsers and doing that in the ways that we are familiar with today and that is using a mouse",
+            "count": 1
+        },
+        {
+            "phrase": "clog the tubes of the internet",
+            "count": 1
+        }
+    ]
+}

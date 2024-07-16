@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:15",
+            "01:37",
+            "01:38",
+            "02:22",
+            "03:41"
+        ],
+        "label": "yet"
+    },
+    "clusterList": [
+        {
+            "phrase": "yet the company bigchampagne has made no such consistent observation in nearly a decade of analyzing these data",
+            "count": 3
+        },
+        {
+            "phrase": "the answer i have given is therefore purely scientific no industrial company financial interest has swayed me one way or another",
+            "count": 1
+        },
+        {
+            "phrase": "when you look at the non-industry sponsored research it's about three to one-three out of every four papers shows an effect",
+            "count": 1
+        },
+        {
+            "phrase": "but there are so many of these studies that somebody has got to hit on one of these",
+            "count": 1
+        }
+    ]
+}

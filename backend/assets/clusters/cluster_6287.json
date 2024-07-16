@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "00:51",
+            "04:13"
+        ],
+        "label": "death"
+    },
+    "clusterList": [
+        {
+            "phrase": "death by a thousand cuts from imaginaryband thanks",
+            "count": 1
+        },
+        {
+            "phrase": "death by 100 papercuts",
+            "count": 1
+        },
+        {
+            "phrase": "death list is now 900",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "04:03"
+        ],
+        "label": "was"
+    },
+    "clusterList": [
+        {
+            "phrase": "was your father in there kicking mr penn",
+            "count": 1
+        },
+        {
+            "phrase": "how close were you to mr penn",
+            "count": 1
+        },
+        {
+            "phrase": "did you whisper into mr penn's ear",
+            "count": 1
+        }
+    ]
+}

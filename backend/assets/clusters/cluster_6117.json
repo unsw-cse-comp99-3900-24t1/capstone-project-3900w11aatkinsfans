@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "02:51",
+            "03:02"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fact is this legislation holds much promise for the thousands of new jerseyans who want to stay in their hometown to work there and raise their families there but simply can't afford to live there",
+            "count": 1
+        },
+        {
+            "phrase": "consistently fought to make livable affordable housing in mixed-income neighborhoods available to all",
+            "count": 1
+        },
+        {
+            "phrase": "but now that there are fewer buyers and fewer healthy buyers they both sat there",
+            "count": 1
+        }
+    ]
+}

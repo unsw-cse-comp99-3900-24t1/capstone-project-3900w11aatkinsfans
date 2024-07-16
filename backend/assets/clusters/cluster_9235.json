@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:56"
+        ],
+        "label": "bearing"
+    },
+    "clusterList": [
+        {
+            "phrase": "bearing from origin to destination",
+            "count": 1
+        },
+        {
+            "phrase": "bearing from present position to destination",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:36",
+            "02:56",
+            "04:03"
+        ],
+        "label": "marketing"
+    },
+    "clusterList": [
+        {
+            "phrase": "code of conduct",
+            "count": 3
+        },
+        {
+            "phrase": "marketing code of conduct",
+            "count": 1
+        },
+        {
+            "phrase": "ten moral courses of conduct",
+            "count": 1
+        }
+    ]
+}

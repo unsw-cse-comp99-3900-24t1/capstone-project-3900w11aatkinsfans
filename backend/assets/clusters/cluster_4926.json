@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "04:28",
+            "04:56"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow this guy is not just talking to us he's talking to either some statewide or national crowd this speech seems pointed for the-seems more like for the history books than just for us here at this antiwar rally",
+            "count": 3
+        },
+        {
+            "phrase": "historians blast arnie's bush speech",
+            "count": 1
+        }
+    ]
+}

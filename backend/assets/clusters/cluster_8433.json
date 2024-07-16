@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "04:10"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is the difference between a jew and a turk",
+            "count": 1
+        },
+        {
+            "phrase": "q what is the difference between a jew and a pizza",
+            "count": 1
+        }
+    ]
+}

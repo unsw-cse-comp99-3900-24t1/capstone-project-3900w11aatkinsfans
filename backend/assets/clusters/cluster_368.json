@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:23",
+            "00:28",
+            "00:38",
+            "00:41",
+            "00:44",
+            "00:48",
+            "00:53",
+            "01:01",
+            "01:19",
+            "01:40",
+            "01:46",
+            "01:47",
+            "02:46",
+            "03:08",
+            "03:09",
+            "03:24",
+            "03:38",
+            "03:57",
+            "04:04",
+            "04:27",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the kennedys of massachusetts",
+            "count": 19
+        },
+        {
+            "phrase": "bobby kennedy died believing his brother's killers had not been found",
+            "count": 2
+        },
+        {
+            "phrase": "jfk and the unspeakable why he died amp why it matters",
+            "count": 2
+        },
+        {
+            "phrase": "who killed the kennedys",
+            "count": 1
+        },
+        {
+            "phrase": "i have some information to share with you about the kennedy assassination",
+            "count": 1
+        },
+        {
+            "phrase": "lee harvey oswald shot her from the grassy knoll",
+            "count": 1
+        },
+        {
+            "phrase": "jfk breaking the news",
+            "count": 1
+        },
+        {
+            "phrase": "kennedy's been shot in california",
+            "count": 1
+        }
+    ]
+}

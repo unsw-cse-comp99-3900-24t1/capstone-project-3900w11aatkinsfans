@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "04:09",
+            "04:18",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was happy being a general practitioner but i was becoming bored and frustrated by my surgical caseload and ability my skills weren't quite what i would have liked them to be",
+            "count": 1
+        },
+        {
+            "phrase": "when i was growing up in a small town in west virginia my family and i had a wonderful family physician who really influenced me to become a doctor",
+            "count": 1
+        },
+        {
+            "phrase": "i would talk to him about what it was like to be a doctor he encouraged me and told me that it was the best thing to do because it was always interesting not only could you learn a lot but you could help people in a very direct way",
+            "count": 1
+        },
+        {
+            "phrase": "my mother was a woman of compassion who looked for ways to make life easier especially for those confined to beds in nursing homes",
+            "count": 1
+        }
+    ]
+}

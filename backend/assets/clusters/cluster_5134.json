@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:36",
+            "03:51",
+            "04:32"
+        ],
+        "label": "arson"
+    },
+    "clusterList": [
+        {
+            "phrase": "arson fire by nature is out of the ordinary",
+            "count": 1
+        },
+        {
+            "phrase": "accidental fires happen all the time it is what it is and it's dangerous for the community",
+            "count": 1
+        },
+        {
+            "phrase": "the cooking chamber of the grill can melt and or ignite which poses a risk of fires and burn injuries to consumers",
+            "count": 1
+        },
+        {
+            "phrase": "we believe that when this fire occurred our employees took reasonable precautions to put it out",
+            "count": 1
+        }
+    ]
+}

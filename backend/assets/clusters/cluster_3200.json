@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:51",
+            "01:50",
+            "02:33",
+            "04:14"
+        ],
+        "label": "steve"
+    },
+    "clusterList": [
+        {
+            "phrase": "the two of you or jessie or him etc",
+            "count": 3
+        },
+        {
+            "phrase": "steve and i have had a great working relationship for many years and a great deal of respect for one another so this was a real easy decision",
+            "count": 1
+        },
+        {
+            "phrase": "jonas and i are working together but at the same time we push each other and i think that's the way you're going to get the best out of each of us",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to be working together as a single unit think of it like a sexual kinda tug-of-war when i make myself flex you",
+            "count": 1
+        }
+    ]
+}

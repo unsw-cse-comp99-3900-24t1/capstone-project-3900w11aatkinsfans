@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:21",
+            "03:05",
+            "04:00",
+            "04:38"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that would never happen to me",
+            "count": 1
+        },
+        {
+            "phrase": "heck that's what always happened in this life",
+            "count": 1
+        },
+        {
+            "phrase": "ever the same",
+            "count": 1
+        },
+        {
+            "phrase": "this never has to happen to you",
+            "count": 1
+        }
+    ]
+}

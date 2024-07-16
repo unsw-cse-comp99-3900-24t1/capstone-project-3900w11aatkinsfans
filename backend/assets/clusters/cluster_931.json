@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:25",
+            "00:27",
+            "00:28",
+            "01:01",
+            "01:07",
+            "01:47",
+            "02:25",
+            "02:49",
+            "03:10",
+            "03:15",
+            "03:18",
+            "03:41",
+            "04:09"
+        ],
+        "label": "thou"
+    },
+    "clusterList": [
+        {
+            "phrase": "holier than thou",
+            "count": 3
+        },
+        {
+            "phrase": "thou shall not kill",
+            "count": 2
+        },
+        {
+            "phrase": "thou shall not steal",
+            "count": 2
+        },
+        {
+            "phrase": "thou shalt not make unto thee any graven image or any likeness of any thing that is in heaven above or that is in the earth beneath or that is in the water under the earth",
+            "count": 1
+        },
+        {
+            "phrase": "a verse then a verse and refrain",
+            "count": 1
+        },
+        {
+            "phrase": "hallowed be thy name",
+            "count": 1
+        },
+        {
+            "phrase": "thou shall not bear false witness",
+            "count": 1
+        },
+        {
+            "phrase": "thou shall win",
+            "count": 1
+        },
+        {
+            "phrase": "lord teach us to pray",
+            "count": 1
+        },
+        {
+            "phrase": "i'm holier than thou",
+            "count": 1
+        },
+        {
+            "phrase": "the lord is my shepherd i shall not want",
+            "count": 1
+        },
+        {
+            "phrase": "thou shalt not steal",
+            "count": 1
+        }
+    ]
+}

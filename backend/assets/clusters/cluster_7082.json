@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:41",
+            "04:38"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i looked at that and i thought oh my that looks like jesus on the cross it was just like wow",
+            "count": 1
+        },
+        {
+            "phrase": "the story about jesus as the symbol of everything that christianity is will fade away",
+            "count": 1
+        },
+        {
+            "phrase": "the tragi-comic story of a man mistaken for the messiah",
+            "count": 1
+        }
+    ]
+}

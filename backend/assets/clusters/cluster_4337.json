@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:30",
+            "02:18",
+            "03:46",
+            "04:53"
+        ],
+        "label": "bonnie"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are nearly on our side if we get out of this it will be a miracle i am so scared",
+            "count": 3
+        },
+        {
+            "phrase": "bonnie and joel say we do believe in miracles but we know at this point there really can't be a miracle",
+            "count": 1
+        },
+        {
+            "phrase": "we have done the best we can and now hope for a medical miracle we never know it could happen",
+            "count": 1
+        }
+    ]
+}

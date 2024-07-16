@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:32",
+            "00:48",
+            "01:19",
+            "01:30",
+            "02:14",
+            "02:42",
+            "04:49"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "arena of ideas",
+            "count": 3
+        },
+        {
+            "phrase": "an affluent target market i see some potential there",
+            "count": 1
+        },
+        {
+            "phrase": "the marketplace of ideas",
+            "count": 1
+        },
+        {
+            "phrase": "creative financing or trade deals",
+            "count": 1
+        },
+        {
+            "phrase": "market of ideas",
+            "count": 1
+        },
+        {
+            "phrase": "the underbelly of marketing",
+            "count": 1
+        }
+    ]
+}

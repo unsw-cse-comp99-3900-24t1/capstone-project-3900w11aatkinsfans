@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:16",
+            "01:51",
+            "03:38"
+        ],
+        "label": "p"
+    },
+    "clusterList": [
+        {
+            "phrase": "p etitioners have presented a substantial showing of actual harm which will likely occur as a consequence of the reimbursement reductions",
+            "count": 1
+        },
+        {
+            "phrase": "establish within two years a searchable database to include any reports of injuries illness death or risk related to consumer products submitted by consumers government offices doctors or child care providers",
+            "count": 1
+        },
+        {
+            "phrase": "full coverage for its claims for any policy in effect during the time period of the injury or damage",
+            "count": 1
+        },
+        {
+            "phrase": "impact of the epc 2000 on medical use claims",
+            "count": 1
+        }
+    ]
+}

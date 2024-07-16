@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:32",
+            "00:33",
+            "00:44",
+            "00:51",
+            "01:11",
+            "01:33",
+            "01:45",
+            "02:11",
+            "02:47",
+            "02:51",
+            "03:00",
+            "04:28"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've never done any favors for anybody lobbyist or special-interest group that's a clear 24-year record",
+            "count": 5
+        },
+        {
+            "phrase": "now listen not every lobbyist is bad i mean some of them they're just trying to present their point of view",
+            "count": 2
+        },
+        {
+            "phrase": "the poor don't have a lobbyist that's why i went to washington",
+            "count": 2
+        },
+        {
+            "phrase": "i'm very much a populist look after people the people need a lobbyist and that's what i plan to do bring common sense to u s senate",
+            "count": 1
+        },
+        {
+            "phrase": "i work with lobbyists and folks in pacs all the time in virginia and they're not bad but i think there's a sense sometimes in washington that they kinda have a veto power over policy initiatives it's not a matter of having a seat at the table they should often they have great expertise but sometimes you feel like government is what lobbyists allow to happen rather than what a president or congress decide to focus on as key policies",
+            "count": 1
+        },
+        {
+            "phrase": "i think we have a rule that says lobbyists can't be on the floor",
+            "count": 1
+        },
+        {
+            "phrase": "i was a bit surprised certainly former speakers and members enjoy a certain status but not all are lobbyists",
+            "count": 1
+        }
+    ]
+}

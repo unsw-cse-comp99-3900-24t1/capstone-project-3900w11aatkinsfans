@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:47",
+            "01:23",
+            "01:57",
+            "03:22",
+            "03:35"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "the prosecution is sending a warning that while some things might be tolerated in sports other actions won't be tolerated",
+            "count": 3
+        },
+        {
+            "phrase": "it is a travesty that two innocent people attempting to tell the truth to shea stadium security about the victimization of an elderly couple get assaulted by shea stadium security one charged with a criminal act when they did nothing wrong",
+            "count": 1
+        },
+        {
+            "phrase": "the ban imposed by fifa is illegal and eff will take its case to the international court of arbitration for sport",
+            "count": 1
+        },
+        {
+            "phrase": "it is clear that there is some percentage of athletes that do this in spite of everything and not only in russia",
+            "count": 1
+        }
+    ]
+}

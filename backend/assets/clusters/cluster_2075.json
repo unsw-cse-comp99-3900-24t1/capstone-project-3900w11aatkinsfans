@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "04:11",
+            "04:35",
+            "04:36",
+            "04:45",
+            "04:51",
+            "05:01",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the end of olmert's era",
+            "count": 5
+        },
+        {
+            "phrase": "this is going to be history",
+            "count": 2
+        },
+        {
+            "phrase": "the inevitable laws of history",
+            "count": 1
+        }
+    ]
+}

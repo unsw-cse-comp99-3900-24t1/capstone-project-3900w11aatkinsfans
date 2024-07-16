@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            4,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:18",
+            "03:23",
+            "04:31"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "has that been there",
+            "count": 6
+        },
+        {
+            "phrase": "not that i'm aware of",
+            "count": 2
+        },
+        {
+            "phrase": "yes there is",
+            "count": 2
+        },
+        {
+            "phrase": "there is are",
+            "count": 2
+        },
+        {
+            "phrase": "of course there is",
+            "count": 1
+        },
+        {
+            "phrase": "yeah there is",
+            "count": 1
+        }
+    ]
+}

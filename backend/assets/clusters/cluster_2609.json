@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:53",
+            "01:34",
+            "03:05",
+            "03:46",
+            "04:33",
+            "04:42"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a lot of faith in the guys we have",
+            "count": 3
+        },
+        {
+            "phrase": "we'll make the best of what we've got",
+            "count": 2
+        },
+        {
+            "phrase": "i think we've got five great guys and some more guys who can step in if something happens",
+            "count": 1
+        },
+        {
+            "phrase": "i think we're in a good position",
+            "count": 1
+        }
+    ]
+}

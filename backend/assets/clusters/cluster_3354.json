@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:14",
+            "03:18",
+            "04:32"
+        ],
+        "label": "she's"
+    },
+    "clusterList": [
+        {
+            "phrase": "she's just the nastiest",
+            "count": 1
+        },
+        {
+            "phrase": "it stir the embers of that relationship and makes her question",
+            "count": 1
+        },
+        {
+            "phrase": "what's the matter with you",
+            "count": 1
+        },
+        {
+            "phrase": "is it girl troubles or somethin",
+            "count": 1
+        },
+        {
+            "phrase": "what's the matter with her",
+            "count": 1
+        },
+        {
+            "phrase": "what's the matter",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:06",
+            "04:41",
+            "05:03"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the way things work",
+            "count": 2
+        },
+        {
+            "phrase": "how it all works",
+            "count": 1
+        },
+        {
+            "phrase": "the way these things work",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "04:28",
+            "04:41"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a black man in the position of president they would kill him",
+            "count": 1
+        },
+        {
+            "phrase": "do you want to kill the president",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know anything about this doctrine of assassination but if he thinks we are trying to assasinate him i think we really ought to go ahead and do it it's a whole lot cheaper than starting a war we have the ability to take him out and i think the time has come that we exercise that ability",
+            "count": 1
+        },
+        {
+            "phrase": "so now assassination",
+            "count": 1
+        }
+    ]
+}

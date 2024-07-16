@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "02:14",
+            "03:55",
+            "04:04",
+            "04:21"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he said we'll just go for it",
+            "count": 1
+        },
+        {
+            "phrase": "we're for real",
+            "count": 1
+        },
+        {
+            "phrase": "we went for it",
+            "count": 1
+        },
+        {
+            "phrase": "we were unsuccessful with it",
+            "count": 1
+        },
+        {
+            "phrase": "this came up and we jumped on it",
+            "count": 1
+        }
+    ]
+}

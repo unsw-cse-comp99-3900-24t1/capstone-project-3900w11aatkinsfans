@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "04:21"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two million people are serviced by one 45-year-old pipeline",
+            "count": 1
+        },
+        {
+            "phrase": "we still have all 150 in the pipeline but now they're in a parking lot",
+            "count": 1
+        }
+    ]
+}

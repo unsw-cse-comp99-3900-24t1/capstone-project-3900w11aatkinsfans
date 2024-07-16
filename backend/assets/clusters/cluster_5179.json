@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "01:33",
+            "02:57",
+            "03:37"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the course of human events",
+            "count": 1
+        },
+        {
+            "phrase": "easily the biggest event",
+            "count": 1
+        },
+        {
+            "phrase": "with the events",
+            "count": 1
+        },
+        {
+            "phrase": "one time events",
+            "count": 1
+        }
+    ]
+}

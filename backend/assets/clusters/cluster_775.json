@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "01:01",
+            "01:41",
+            "02:10",
+            "02:20",
+            "03:01",
+            "03:02",
+            "03:37",
+            "03:42",
+            "03:55",
+            "03:59",
+            "04:04",
+            "04:28",
+            "04:53",
+            "04:59"
+        ],
+        "label": "sick"
+    },
+    "clusterList": [
+        {
+            "phrase": "sick in the head",
+            "count": 6
+        },
+        {
+            "phrase": "feel the pain",
+            "count": 3
+        },
+        {
+            "phrase": "everything is hurting",
+            "count": 3
+        },
+        {
+            "phrase": "facing the pain",
+            "count": 1
+        },
+        {
+            "phrase": "face this pain",
+            "count": 1
+        },
+        {
+            "phrase": "the problem of pain",
+            "count": 1
+        },
+        {
+            "phrase": "pain is all in the head",
+            "count": 1
+        },
+        {
+            "phrase": "just a headache",
+            "count": 1
+        },
+        {
+            "phrase": "the pain's gone",
+            "count": 1
+        }
+    ]
+}

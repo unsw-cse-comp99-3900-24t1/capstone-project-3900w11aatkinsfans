@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "02:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the devil may be in the detail of the implementation report to be published in the autumn",
+            "count": 1
+        },
+        {
+            "phrase": "for me the report's findings indicate that the programme has functioned reasonably well as it was the first time that we tried something like this and it has improved the lives of some returnees",
+            "count": 1
+        }
+    ]
+}

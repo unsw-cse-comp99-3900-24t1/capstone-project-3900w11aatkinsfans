@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the equipment will be ready within the next week or so",
+            "count": 1
+        },
+        {
+            "phrase": "we expect to have 200 fully operational by july",
+            "count": 1
+        }
+    ]
+}

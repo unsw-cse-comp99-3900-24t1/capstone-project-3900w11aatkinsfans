@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "01:19",
+            "01:57",
+            "02:36",
+            "03:01",
+            "04:41"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a good honest life",
+            "count": 1
+        },
+        {
+            "phrase": "clearly a lie",
+            "count": 1
+        },
+        {
+            "phrase": "wonderful to see such honesty",
+            "count": 1
+        },
+        {
+            "phrase": "is this honest",
+            "count": 1
+        },
+        {
+            "phrase": "honest to goodness",
+            "count": 1
+        },
+        {
+            "phrase": "good and honest",
+            "count": 1
+        }
+    ]
+}

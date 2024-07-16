@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:26",
+            "03:59",
+            "04:21",
+            "04:55"
+        ],
+        "label": "science"
+    },
+    "clusterList": [
+        {
+            "phrase": "more of an art than a science",
+            "count": 2
+        },
+        {
+            "phrase": "science is a wonderful thing if one does not have to earn one's living at it",
+            "count": 1
+        },
+        {
+            "phrase": "the whole of science is nothing more than a refinement of everyday thinking",
+            "count": 1
+        },
+        {
+            "phrase": "of course you should know about science for the same reason that dr seuss counsels his readers to sing with a ying or play ring the gack these things are fun and fun is good",
+            "count": 1
+        },
+        {
+            "phrase": "id is not science",
+            "count": 1
+        }
+    ]
+}

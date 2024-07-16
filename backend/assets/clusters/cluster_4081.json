@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:38",
+            "05:00"
+        ],
+        "label": "specially"
+    },
+    "clusterList": [
+        {
+            "phrase": "specially designated global terrorist",
+            "count": 2
+        },
+        {
+            "phrase": "terrorist or not-a-terrorist",
+            "count": 1
+        },
+        {
+            "phrase": "the terrorists they are the elite i call them the harvard of the terrorist movement",
+            "count": 1
+        },
+        {
+            "phrase": "specially designated global terrorists",
+            "count": 1
+        }
+    ]
+}

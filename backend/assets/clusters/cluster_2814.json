@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:23",
+            "03:18",
+            "03:50",
+            "04:04",
+            "04:27"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in no particular order no wait i think i can order them",
+            "count": 1
+        },
+        {
+            "phrase": "when i get back you better know what you want to order",
+            "count": 1
+        },
+        {
+            "phrase": "what are your orders o great one",
+            "count": 1
+        },
+        {
+            "phrase": "i ordered them this morning after dropping you off at the train station so it took them about five hours to get to you",
+            "count": 1
+        },
+        {
+            "phrase": "ok these will do nicely",
+            "count": 1
+        },
+        {
+            "phrase": "i absssolootley wanna placccccce an order yep",
+            "count": 1
+        }
+    ]
+}

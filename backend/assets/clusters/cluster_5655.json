@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:41",
+            "04:09"
+        ],
+        "label": "recycling"
+    },
+    "clusterList": [
+        {
+            "phrase": "recycling plutonium reduces the waste problem only minimally",
+            "count": 1
+        },
+        {
+            "phrase": "why not recycle inert but uneconomic to recycle waste like green glass for example as artificial reefs to break up the force of the waves and act as fish breeding grounds",
+            "count": 1
+        },
+        {
+            "phrase": "more than 84 or 5 015 tons of construction waste is being recycled instead of landfilled",
+            "count": 1
+        }
+    ]
+}

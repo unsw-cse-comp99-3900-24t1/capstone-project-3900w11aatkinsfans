@@ -1,0 +1,125 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:13",
+            "00:32",
+            "00:36",
+            "00:48",
+            "01:38",
+            "01:40",
+            "02:06",
+            "02:07",
+            "02:26",
+            "02:29",
+            "02:35",
+            "02:42",
+            "03:19",
+            "03:51",
+            "04:06",
+            "04:07",
+            "04:15",
+            "05:00"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not going to take it off",
+            "count": 4
+        },
+        {
+            "phrase": "take it or leave it",
+            "count": 2
+        },
+        {
+            "phrase": "take off your t-shirt",
+            "count": 2
+        },
+        {
+            "phrase": "take it off",
+            "count": 2
+        },
+        {
+            "phrase": "get rid of it",
+            "count": 1
+        },
+        {
+            "phrase": "if you put it on it's easier to get it back off",
+            "count": 1
+        },
+        {
+            "phrase": "after you get it out how do you put it back",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not going to soldier it to your finger just try it on to see if it needs to be sized then you can take it right off",
+            "count": 1
+        },
+        {
+            "phrase": "move it or lose it",
+            "count": 1
+        },
+        {
+            "phrase": "warm it up",
+            "count": 1
+        },
+        {
+            "phrase": "snap out of it",
+            "count": 1
+        },
+        {
+            "phrase": "no put it out",
+            "count": 1
+        },
+        {
+            "phrase": "stop touching it",
+            "count": 1
+        },
+        {
+            "phrase": "put off and put off and put off it's got to be done",
+            "count": 1
+        },
+        {
+            "phrase": "i want it to get out",
+            "count": 1
+        },
+        {
+            "phrase": "i should throw that away or destroy it",
+            "count": 1
+        },
+        {
+            "phrase": "take a sniff pull it out",
+            "count": 1
+        },
+        {
+            "phrase": "turn it up",
+            "count": 1
+        },
+        {
+            "phrase": "take it back",
+            "count": 1
+        }
+    ]
+}

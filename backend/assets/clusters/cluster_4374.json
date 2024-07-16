@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:51",
+            "02:32",
+            "03:05"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "we understand that bocog will give details to the media very soon of how the matter has been addressed",
+            "count": 3
+        },
+        {
+            "phrase": "if all is made known then it would become discussions via the media",
+            "count": 1
+        }
+    ]
+}

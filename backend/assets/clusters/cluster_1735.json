@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "02:10",
+            "02:20",
+            "02:37",
+            "02:49",
+            "03:01",
+            "03:10",
+            "03:28",
+            "04:58",
+            "05:02"
+        ],
+        "label": "getting"
+    },
+    "clusterList": [
+        {
+            "phrase": "getting people to play with rules and laws",
+            "count": 6
+        },
+        {
+            "phrase": "defending the rules",
+            "count": 1
+        },
+        {
+            "phrase": "within the rules of the game",
+            "count": 1
+        },
+        {
+            "phrase": "they're playing it by the rules",
+            "count": 1
+        },
+        {
+            "phrase": "the rules of the game get posted at the beginning",
+            "count": 1
+        }
+    ]
+}

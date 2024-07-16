@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "04:26",
+            "05:01"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look how respectable i am i always pay everything on time this is some kind of mistake",
+            "count": 1
+        },
+        {
+            "phrase": "that's not conducive toward being rewarded",
+            "count": 1
+        },
+        {
+            "phrase": "when things are rough people have that discretionary money that gets a little tighter",
+            "count": 1
+        }
+    ]
+}

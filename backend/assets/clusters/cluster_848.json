@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:24",
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:27",
+            "03:10",
+            "03:19",
+            "03:51",
+            "04:23",
+            "04:32",
+            "04:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of us still feel he was cheated",
+            "count": 11
+        },
+        {
+            "phrase": "i look back and i just feel i cheated myself",
+            "count": 3
+        },
+        {
+            "phrase": "i was not a good husband and although i had some good moments i would slip back into my selfish lifestyle believing life was all about me",
+            "count": 1
+        },
+        {
+            "phrase": "i felt like i was being cheated out of life",
+            "count": 1
+        },
+        {
+            "phrase": "did you feel cheated in any way",
+            "count": 1
+        }
+    ]
+}

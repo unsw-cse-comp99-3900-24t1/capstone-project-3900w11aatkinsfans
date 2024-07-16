@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:33",
+            "02:13",
+            "02:15"
+        ],
+        "label": "practicing"
+    },
+    "clusterList": [
+        {
+            "phrase": "practicing family planning",
+            "count": 1
+        },
+        {
+            "phrase": "one who manages a household",
+            "count": 1
+        },
+        {
+            "phrase": "a married household actually uses resources more efficiently than a divorced household",
+            "count": 1
+        },
+        {
+            "phrase": "procedures for excommunicating family members",
+            "count": 1
+        }
+    ]
+}

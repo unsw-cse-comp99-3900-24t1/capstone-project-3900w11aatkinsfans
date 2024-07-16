@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:29",
+            "04:47"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i should just go ahead n call off monday he's comin ne minute",
+            "count": 1
+        },
+        {
+            "phrase": "rein call dan we'll take you home it'll be ok dude",
+            "count": 1
+        },
+        {
+            "phrase": "i'll call tomorrow i'm really anxious to talk to him i know myself i know i'll be asking all kinds of questions and i didn't want random thoughts in my head right before a game",
+            "count": 1
+        }
+    ]
+}

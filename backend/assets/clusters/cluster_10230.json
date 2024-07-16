@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:32",
+            "02:44"
+        ],
+        "label": "beagles"
+    },
+    "clusterList": [
+        {
+            "phrase": "beagles are one big nose on four legs and they're fast",
+            "count": 1
+        },
+        {
+            "phrase": "no such creature exists",
+            "count": 1
+        }
+    ]
+}

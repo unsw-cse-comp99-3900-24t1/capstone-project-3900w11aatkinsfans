@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "04:05"
+        ],
+        "label": "where's"
+    },
+    "clusterList": [
+        {
+            "phrase": "where's the soap",
+            "count": 1
+        },
+        {
+            "phrase": "give soap a chance",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:06",
+            "03:09",
+            "03:55",
+            "04:04",
+            "04:28"
+        ],
+        "label": "hamsters"
+    },
+    "clusterList": [
+        {
+            "phrase": "pig faced orc tribe",
+            "count": 2
+        },
+        {
+            "phrase": "hamsters chickens and aliens",
+            "count": 1
+        },
+        {
+            "phrase": "poochie the rockin dog",
+            "count": 1
+        },
+        {
+            "phrase": "all the pigs lined up",
+            "count": 1
+        },
+        {
+            "phrase": "the shower guinea pig",
+            "count": 1
+        }
+    ]
+}

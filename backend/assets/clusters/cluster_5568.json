@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:14",
+            "04:37",
+            "04:46"
+        ],
+        "label": "let's"
+    },
+    "clusterList": [
+        {
+            "phrase": "let's be on the lookout",
+            "count": 1
+        },
+        {
+            "phrase": "keep on the lookout",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i'll definitely let you know if things come up",
+            "count": 1
+        },
+        {
+            "phrase": "i'll make sure that i'm on the lookout next time for you",
+            "count": 1
+        }
+    ]
+}

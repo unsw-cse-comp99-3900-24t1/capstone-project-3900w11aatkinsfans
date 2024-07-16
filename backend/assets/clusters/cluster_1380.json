@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:21",
+            "00:26",
+            "01:11",
+            "01:34",
+            "01:35",
+            "01:40",
+            "01:49",
+            "02:26",
+            "02:42"
+        ],
+        "label": "travelling"
+    },
+    "clusterList": [
+        {
+            "phrase": "edge of sports",
+            "count": 4
+        },
+        {
+            "phrase": "travelling with sports equipment",
+            "count": 2
+        },
+        {
+            "phrase": "next hot professional athletic endeavor",
+            "count": 2
+        },
+        {
+            "phrase": "lacrosse that's it",
+            "count": 1
+        },
+        {
+            "phrase": "tennis and golf are two totally different sports",
+            "count": 1
+        },
+        {
+            "phrase": "there is another sport available",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know any other sport that has such a focus on community",
+            "count": 1
+        }
+    ]
+}

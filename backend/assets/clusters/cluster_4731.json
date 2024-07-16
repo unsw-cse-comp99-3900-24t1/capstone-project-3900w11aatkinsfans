@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:50",
+            "01:52",
+            "02:51"
+        ],
+        "label": "batman"
+    },
+    "clusterList": [
+        {
+            "phrase": "batman is as mad as the joker",
+            "count": 1
+        },
+        {
+            "phrase": "batman is the hero gotham deserves",
+            "count": 1
+        },
+        {
+            "phrase": "raider nation is known for many outlandish and menacing costumes during raiders events and games there's a raider a gorilla darth vader but i don't think there's a batman",
+            "count": 1
+        },
+        {
+            "phrase": "so what's your favorite superhero",
+            "count": 1
+        }
+    ]
+}

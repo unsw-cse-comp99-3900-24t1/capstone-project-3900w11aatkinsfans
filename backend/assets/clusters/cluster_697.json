@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            3,
+            1,
+            2,
+            3,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "01:06",
+            "01:09",
+            "01:47",
+            "02:28",
+            "02:50",
+            "03:09",
+            "03:48",
+            "03:57",
+            "04:28"
+        ],
+        "label": "ten"
+    },
+    "clusterList": [
+        {
+            "phrase": "ten can't rule but 10 can make a difference",
+            "count": 7
+        },
+        {
+            "phrase": "three entity rule",
+            "count": 7
+        },
+        {
+            "phrase": "the rule of three",
+            "count": 1
+        },
+        {
+            "phrase": "rule of society",
+            "count": 1
+        },
+        {
+            "phrase": "the golden rule",
+            "count": 1
+        },
+        {
+            "phrase": "f the rules",
+            "count": 1
+        },
+        {
+            "phrase": "golden rule that says",
+            "count": 1
+        }
+    ]
+}

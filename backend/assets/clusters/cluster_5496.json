@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:56",
+            "04:27",
+            "04:45"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's nothing that justified what happened",
+            "count": 1
+        },
+        {
+            "phrase": "no one had a chance to make a positive difference for the victim",
+            "count": 1
+        },
+        {
+            "phrase": "as if nothing had happened",
+            "count": 1
+        },
+        {
+            "phrase": "that did not have to happen",
+            "count": 1
+        }
+    ]
+}

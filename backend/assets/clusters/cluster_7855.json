@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:41"
+        ],
+        "label": "many"
+    },
+    "clusterList": [
+        {
+            "phrase": "many do not understand how the hierarchy works",
+            "count": 1
+        },
+        {
+            "phrase": "these groups don't need complex hierarchical structures to spread their messages or organize actions",
+            "count": 1
+        }
+    ]
+}

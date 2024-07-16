@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "02:28",
+            "04:27",
+            "04:54"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want to ensure that the new bridge will integrate effectively with the road network so we will want to consider how the north and south fraser perimeter roads will be developed",
+            "count": 2
+        },
+        {
+            "phrase": "a bridge in america just shouldn't fall down",
+            "count": 2
+        }
+    ]
+}

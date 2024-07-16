@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:33",
+            "01:37",
+            "02:33",
+            "04:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am particularly pleased at what this agreement means for our educational mission and the continued safety of our students",
+            "count": 1
+        },
+        {
+            "phrase": "we have agreed over all the sections of the policy statement",
+            "count": 1
+        },
+        {
+            "phrase": "we are what our policy says we are",
+            "count": 1
+        },
+        {
+            "phrase": "i agree to these terms and conditions",
+            "count": 1
+        },
+        {
+            "phrase": "ministerial committee tasked with drafting a policy statement will hold its final meeting on friday",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:38",
+            "01:06",
+            "01:15",
+            "01:34",
+            "03:10",
+            "04:19",
+            "04:33"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know some people have been so enraged by your little opinion piece that they want you to kill yourself please don't you know why because i am going to have so much fun killing you myself",
+            "count": 1
+        },
+        {
+            "phrase": "why are you so obsessed with killing yourself",
+            "count": 1
+        },
+        {
+            "phrase": "you're trying to kill me aren't you",
+            "count": 1
+        },
+        {
+            "phrase": "either to kill myself or turn myself in",
+            "count": 1
+        },
+        {
+            "phrase": "why you'll get yourself killed they'll catch you and beat you to death",
+            "count": 1
+        },
+        {
+            "phrase": "there are people killing other people out there and you are here messing with me",
+            "count": 1
+        },
+        {
+            "phrase": "are you trying to",
+            "count": 1
+        },
+        {
+            "phrase": "are you trying to get yourself killed",
+            "count": 1
+        },
+        {
+            "phrase": "just thought you should know i'm going to kill myself",
+            "count": 1
+        }
+    ]
+}

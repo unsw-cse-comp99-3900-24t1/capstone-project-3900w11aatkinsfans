@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "01:20",
+            "02:05",
+            "02:41",
+            "05:01"
+        ],
+        "label": "natural"
+    },
+    "clusterList": [
+        {
+            "phrase": "evolutionary science is as much about the posturing salesmanship stonewalling and bullying as it is about actual scientific theory",
+            "count": 3
+        },
+        {
+            "phrase": "natural selection ave",
+            "count": 1
+        },
+        {
+            "phrase": "sources seem to agree that the upgrades will more evolutionary than evolutionary",
+            "count": 1
+        },
+        {
+            "phrase": "more devolutionary than evolutionary",
+            "count": 1
+        },
+        {
+            "phrase": "theory of devolution",
+            "count": 1
+        }
+    ]
+}

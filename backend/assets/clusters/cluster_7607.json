@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "03:49",
+            "04:21"
+        ],
+        "label": "shop"
+    },
+    "clusterList": [
+        {
+            "phrase": "shop online for your home decor",
+            "count": 1
+        },
+        {
+            "phrase": "people from here go to chicago or santa fe to buy art",
+            "count": 1
+        },
+        {
+            "phrase": "lots of paint stores",
+            "count": 1
+        }
+    ]
+}

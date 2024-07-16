@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "03:42",
+            "04:36"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mayor denies these allegations and if he is reasonably confident that he and the city will prevail in court then he should get his day in court",
+            "count": 2
+        },
+        {
+            "phrase": "you can't tell me the chief of police of a municipality wouldn't have been able to knock on the door of the mayor of that municipality gain his confidence and enter the residence",
+            "count": 1
+        }
+    ]
+}

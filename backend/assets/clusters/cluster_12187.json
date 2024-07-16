@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:47"
+        ],
+        "label": "sure"
+    },
+    "clusterList": [
+        {
+            "phrase": "sure we can just transfer those numbers back to the original account and close the new account",
+            "count": 1
+        },
+        {
+            "phrase": "we can't transfer back because lines in a new account can't be transferred for 60 days",
+            "count": 1
+        }
+    ]
+}

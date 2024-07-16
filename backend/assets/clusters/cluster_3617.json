@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:15",
+            "04:15",
+            "04:29",
+            "04:36"
+        ],
+        "label": "due"
+    },
+    "clusterList": [
+        {
+            "phrase": "due out september 30th via",
+            "count": 1
+        },
+        {
+            "phrase": "when is this meeting",
+            "count": 1
+        },
+        {
+            "phrase": "thursday in the city",
+            "count": 1
+        },
+        {
+            "phrase": "wow really really go to the back what's the last date",
+            "count": 1
+        },
+        {
+            "phrase": "it will be delivered in may of next year",
+            "count": 1
+        }
+    ]
+}

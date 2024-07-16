@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "02:33",
+            "02:42",
+            "04:37"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he had no authority to do so",
+            "count": 1
+        },
+        {
+            "phrase": "he insisted on it",
+            "count": 1
+        },
+        {
+            "phrase": "he knew most did not accept it etc etc",
+            "count": 1
+        },
+        {
+            "phrase": "he actually refused it",
+            "count": 1
+        }
+    ]
+}

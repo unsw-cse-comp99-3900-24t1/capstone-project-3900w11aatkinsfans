@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "02:56",
+            "04:05",
+            "04:06"
+        ],
+        "label": "severe"
+    },
+    "clusterList": [
+        {
+            "phrase": "severe abdominal pain",
+            "count": 1
+        },
+        {
+            "phrase": "are the pains gone now",
+            "count": 1
+        },
+        {
+            "phrase": "pains on the left side",
+            "count": 1
+        },
+        {
+            "phrase": "chest pains of unclear etiology",
+            "count": 1
+        }
+    ]
+}

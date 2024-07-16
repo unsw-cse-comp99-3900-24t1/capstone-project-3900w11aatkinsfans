@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:12",
+            "02:00"
+        ],
+        "label": "while"
+    },
+    "clusterList": [
+        {
+            "phrase": "while it's hot and dry the water supply level is very solid",
+            "count": 1
+        },
+        {
+            "phrase": "as that cold water impacts against the warm water the manganese from the bottom starts interacting and moving up through the zone right there",
+            "count": 1
+        },
+        {
+            "phrase": "there's a disturbed northwesterly flow over the north island",
+            "count": 1
+        }
+    ]
+}

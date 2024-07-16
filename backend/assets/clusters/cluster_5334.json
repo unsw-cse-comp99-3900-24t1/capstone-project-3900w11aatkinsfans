@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "01:55",
+            "03:42",
+            "03:51"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all ships at sea",
+            "count": 1
+        },
+        {
+            "phrase": "give up the ship",
+            "count": 1
+        },
+        {
+            "phrase": "every ship must sail away",
+            "count": 1
+        },
+        {
+            "phrase": "come sail away come sail away come sail away with me",
+            "count": 1
+        }
+    ]
+}

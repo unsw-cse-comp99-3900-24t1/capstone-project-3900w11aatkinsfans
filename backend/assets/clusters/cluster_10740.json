@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "04:00"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a crooked and depraved generation",
+            "count": 1
+        },
+        {
+            "phrase": "this is the generation that has institutionalized the dual or some might say",
+            "count": 1
+        }
+    ]
+}

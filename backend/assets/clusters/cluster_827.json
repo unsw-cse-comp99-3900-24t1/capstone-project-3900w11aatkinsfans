@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            10,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "02:01",
+            "02:02",
+            "02:19",
+            "02:36",
+            "02:56",
+            "03:17",
+            "03:33"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't realize that when i said i do i'd do everything",
+            "count": 10
+        },
+        {
+            "phrase": "it doesn't mean that i have to e-mail people",
+            "count": 2
+        },
+        {
+            "phrase": "you don't have to sweetie",
+            "count": 1
+        },
+        {
+            "phrase": "if you do it right you won't need them",
+            "count": 1
+        },
+        {
+            "phrase": "i guess so i mean you don't have to do that not necessary no",
+            "count": 1
+        },
+        {
+            "phrase": "is this necessary",
+            "count": 1
+        },
+        {
+            "phrase": "you don't need it",
+            "count": 1
+        }
+    ]
+}

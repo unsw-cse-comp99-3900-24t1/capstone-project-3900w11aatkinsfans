@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:28",
+            "00:31",
+            "00:58",
+            "01:30",
+            "01:38",
+            "01:41",
+            "01:47",
+            "02:19",
+            "02:59",
+            "03:00",
+            "03:10",
+            "03:18",
+            "03:41",
+            "04:19",
+            "04:38",
+            "05:00",
+            "05:01"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh yes definitely",
+            "count": 8
+        },
+        {
+            "phrase": "yeah for sure",
+            "count": 4
+        },
+        {
+            "phrase": "all right then",
+            "count": 1
+        },
+        {
+            "phrase": "of course i do",
+            "count": 1
+        },
+        {
+            "phrase": "oh right then",
+            "count": 1
+        },
+        {
+            "phrase": "come on then",
+            "count": 1
+        },
+        {
+            "phrase": "i think i might be able to",
+            "count": 1
+        },
+        {
+            "phrase": "oh of course right away sir",
+            "count": 1
+        },
+        {
+            "phrase": "um yes i suppose you could say that",
+            "count": 1
+        },
+        {
+            "phrase": "i'll take that as a yes",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:42",
+            "02:01",
+            "02:20",
+            "03:38",
+            "03:48",
+            "05:00",
+            "05:01"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you buy for that loved one who has everything",
+            "count": 1
+        },
+        {
+            "phrase": "gifts and gourmet",
+            "count": 1
+        },
+        {
+            "phrase": "well if you did get me a gift especially since i said no gifts it would be a surprise",
+            "count": 1
+        },
+        {
+            "phrase": "no gifts please",
+            "count": 1
+        },
+        {
+            "phrase": "what do you want for christmas",
+            "count": 1
+        },
+        {
+            "phrase": "i am sorry that i do not have anything for you to give",
+            "count": 1
+        },
+        {
+            "phrase": "no need to bring a gift",
+            "count": 1
+        },
+        {
+            "phrase": "gifts of magic",
+            "count": 1
+        },
+        {
+            "phrase": "no i don't want to know what i'm getting for my birthday it's 2 weeks away still",
+            "count": 1
+        }
+    ]
+}

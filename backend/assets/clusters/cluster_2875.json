@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:39",
+            "02:36",
+            "04:27",
+            "04:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the audacity of hope",
+            "count": 2
+        },
+        {
+            "phrase": "principle of hope",
+            "count": 1
+        },
+        {
+            "phrase": "audacity of hopelessness",
+            "count": 1
+        },
+        {
+            "phrase": "ripple of hope",
+            "count": 1
+        },
+        {
+            "phrase": "audacity of hope",
+            "count": 1
+        }
+    ]
+}

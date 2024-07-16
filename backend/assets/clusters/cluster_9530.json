@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:54"
+        ],
+        "label": "four"
+    },
+    "clusterList": [
+        {
+            "phrase": "four years i've been here",
+            "count": 1
+        },
+        {
+            "phrase": "it took us five long years to get here",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i like you just the way you are a dooshbag",
+            "count": 1
+        },
+        {
+            "phrase": "yes i suppose i like you also sometimes when you're being obedient",
+            "count": 1
+        }
+    ]
+}

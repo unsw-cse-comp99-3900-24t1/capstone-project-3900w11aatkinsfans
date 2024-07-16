@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "03:06",
+            "04:28"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "the millennium development goal of reducing by one-half the proportion of people worldwide who live on less than 1 per day",
+            "count": 2
+        },
+        {
+            "phrase": "how can the employees survive on just the returns expenditure has increased so much and everyone has a family",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the group tried to evacuate but only half the party got across the river",
+            "count": 1
+        },
+        {
+            "phrase": "it seemed to be the end of the event but the people didn't swarm to the exit but to the cross",
+            "count": 1
+        }
+    ]
+}

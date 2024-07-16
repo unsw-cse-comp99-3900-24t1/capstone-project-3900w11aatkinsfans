@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "02:04",
+            "02:32",
+            "02:39"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you are contacted directly by the ig's office or gao requesting information of any kind please do not respond to questions or make any statements",
+            "count": 3
+        },
+        {
+            "phrase": "there is nothing that restricts conversation between enforcement staff the press gao and the ig and the procedure is consistent with existing agency policies",
+            "count": 1
+        },
+        {
+            "phrase": "no one has to get permission or approval to speak with the ig or gao",
+            "count": 1
+        }
+    ]
+}

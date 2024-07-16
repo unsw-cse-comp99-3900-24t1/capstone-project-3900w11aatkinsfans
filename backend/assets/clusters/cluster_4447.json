@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:14",
+            "00:20"
+        ],
+        "label": "apocalypse"
+    },
+    "clusterList": [
+        {
+            "phrase": "apocalypse down-under aussie bank's write-offs signal doom for wall street",
+            "count": 2
+        },
+        {
+            "phrase": "dude wtf is the bank ever going to sign the fucking acceptance i'm going a little crazy over here",
+            "count": 1
+        },
+        {
+            "phrase": "hundreds of worried indymac bancorp inc customers descended on the company's branches on monday to withdraw money after regulators seized what was once one of the largest mortgage lenders in the united states",
+            "count": 1
+        }
+    ]
+}

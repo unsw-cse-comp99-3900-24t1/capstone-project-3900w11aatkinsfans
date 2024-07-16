@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:46",
+            "00:56",
+            "03:43"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there ain't white kids and black kids here",
+            "count": 1
+        },
+        {
+            "phrase": "the history of the nation is one of white exploitation of blacks whites have also brainwashed other minorities notably asians and mexicans into being white asian are the so-called model minority and will do whatever it takes to please white people and become doctors and lawyers mexicans are also on the white man's jock and will mow their lawns clean their houses and wash their cars black people are the only people to stand up to white exploitation say no to white racism and asian and mexicans who support white people",
+            "count": 1
+        },
+        {
+            "phrase": "colored people are not allowed here",
+            "count": 1
+        },
+        {
+            "phrase": "the young guys around here are racist because they think they're so much better than everyone else",
+            "count": 1
+        }
+    ]
+}

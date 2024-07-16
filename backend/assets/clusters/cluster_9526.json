@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:42"
+        ],
+        "label": "paganism"
+    },
+    "clusterList": [
+        {
+            "phrase": "paganism is as old as human history in one sentence paganism is a culture of untruth",
+            "count": 1
+        },
+        {
+            "phrase": "while the unwritten traditions are so many and their bearing on",
+            "count": 1
+        }
+    ]
+}

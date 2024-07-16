@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "01:40",
+            "02:26",
+            "04:23",
+            "04:56"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "certainly there were commentators and others pundits at fox news that were helpful to the white house and then certainly-yeah certainly we got talking points to those people",
+            "count": 3
+        },
+        {
+            "phrase": "look beyond the speeches and propaganda they were being fed and instead look at who was writing the speeches and reports who owned the papers and who influenced the speakers",
+            "count": 1
+        },
+        {
+            "phrase": "was there any pressure to do propaganda art",
+            "count": 1
+        }
+    ]
+}

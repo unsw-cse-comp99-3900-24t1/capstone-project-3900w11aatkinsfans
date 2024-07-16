@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:20",
+            "00:28",
+            "00:53",
+            "01:19",
+            "02:00",
+            "03:56",
+            "04:28",
+            "04:33",
+            "04:40",
+            "04:49"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a smoking gun it appears",
+            "count": 6
+        },
+        {
+            "phrase": "the fire has burned to the point now where people can see the flames",
+            "count": 4
+        },
+        {
+            "phrase": "go where the fire is hottest",
+            "count": 1
+        },
+        {
+            "phrase": "we started to smell smoke at that point and i looked outside and all i could see was smoke so i walked outside and saw the whole side of our building was on fire",
+            "count": 1
+        },
+        {
+            "phrase": "i only smoke outside",
+            "count": 1
+        }
+    ]
+}

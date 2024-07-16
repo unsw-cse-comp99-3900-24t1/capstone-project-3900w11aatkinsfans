@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:37",
+            "02:19",
+            "03:18",
+            "04:04"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's in a name that which we call a rose by any other name would smell as sweet",
+            "count": 2
+        },
+        {
+            "phrase": "i'm not wearing any perfume but it was a good try",
+            "count": 1
+        },
+        {
+            "phrase": "rose scale cream rose shower gel rose perfume everything rose still it's a nice smell",
+            "count": 1
+        },
+        {
+            "phrase": "no 5 is still the world's most popular scent because like the chanel jacket it radiates sophistication",
+            "count": 1
+        }
+    ]
+}

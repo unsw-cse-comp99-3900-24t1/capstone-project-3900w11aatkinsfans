@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:27",
+            "00:32",
+            "00:44",
+            "01:07",
+            "02:05",
+            "03:10",
+            "03:51",
+            "04:03",
+            "04:32"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "while mccain will get 85 million from the federal government for his campaign our goal is to raise 300 to 400 million",
+            "count": 5
+        },
+        {
+            "phrase": "so we're going to research that cause i'm ready to duel john mccain on taxes right now right here i am a quick draw",
+            "count": 2
+        },
+        {
+            "phrase": "i'm ready to duel john mccain on taxes right here quick draw",
+            "count": 1
+        },
+        {
+            "phrase": "t here is no imaginable circumstance where john mccain would raise payroll taxes it's absolutely out of the question",
+            "count": 1
+        },
+        {
+            "phrase": "that's been our contention and it's my understanding that it's always been john mccain's contention i will announce that new hampshire is casting all 24 votes for john mccain and if they want to shut off my microphone so be it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "03:43"
+        ],
+        "label": "teens"
+    },
+    "clusterList": [
+        {
+            "phrase": "teens might want different things every day",
+            "count": 1
+        },
+        {
+            "phrase": "teens today think love is really easy to get",
+            "count": 1
+        }
+    ]
+}

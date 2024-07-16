@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:27",
+            "01:09",
+            "01:10",
+            "01:47",
+            "02:28",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the first step in working to make appraisal standards uniform across the nation",
+            "count": 7
+        },
+        {
+            "phrase": "while we still need to work to make appraisal standards uniform across the nation this strengthens standards for fha appraisals and ensures the integrity of the new fha program that offers foreclosure assistance",
+            "count": 7
+        },
+        {
+            "phrase": "some of these measures require additional work but the agency will come back to these and others each year",
+            "count": 2
+        }
+    ]
+}

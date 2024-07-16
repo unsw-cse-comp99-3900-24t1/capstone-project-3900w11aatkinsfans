@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "02:13"
+        ],
+        "label": "of"
+    },
+    "clusterList": [
+        {
+            "phrase": "of course it will fly",
+            "count": 1
+        },
+        {
+            "phrase": "will likely result",
+            "count": 1
+        }
+    ]
+}

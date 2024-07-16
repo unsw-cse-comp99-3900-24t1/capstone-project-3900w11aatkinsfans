@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "04:04",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the monsters are due on maple street",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "03:28",
+            "03:34",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is clear that the presidency is now very much",
+            "count": 2
+        },
+        {
+            "phrase": "i think this president the next president of the united states will walk into the most difficult situation since fdr in 1933",
+            "count": 1
+        },
+        {
+            "phrase": "after seven years of a go-it-alone presidency perhaps i should expect nothing more from this white house but this order will be binding on future administrations as well",
+            "count": 1
+        }
+    ]
+}

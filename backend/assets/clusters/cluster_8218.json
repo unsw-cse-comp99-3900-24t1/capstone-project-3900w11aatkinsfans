@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:12"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow jared you look terrible",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry to hear that jared",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:04",
+            "01:29",
+            "01:37",
+            "01:51",
+            "03:34",
+            "03:35",
+            "04:45"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the first observation that really pins down that titan has a surface lake filled with liquid",
+            "count": 5
+        },
+        {
+            "phrase": "raises expectations for exciting future lake discoveries by the infrared spectrometer",
+            "count": 1
+        },
+        {
+            "phrase": "we know the lake is liquid because it reflects essentially no light at 5-micron wavelengths",
+            "count": 1
+        },
+        {
+            "phrase": "it was hard for us to accept the fact that the feature was so black when we first saw it more than 99 9 percent of the light that reaches the lake never gets out again for it to be that dark the surface has to be extremely quiescent mirror smooth no naturally produced solid could be that smooth",
+            "count": 1
+        },
+        {
+            "phrase": "we can see there's a shelf a beach that is being exposed as the lake evaporates",
+            "count": 1
+        },
+        {
+            "phrase": "this is the first body of liquid definitely identified on titan said astronomer robert brown of the university of arizona",
+            "count": 1
+        },
+        {
+            "phrase": "this water is clearly there",
+            "count": 1
+        },
+        {
+            "phrase": "water must have been creating minerals at depth to get the signatures we see",
+            "count": 1
+        }
+    ]
+}

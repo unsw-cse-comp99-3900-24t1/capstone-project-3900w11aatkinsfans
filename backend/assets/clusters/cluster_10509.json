@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:10"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my name is michael kessing ms hawthorne and i'm here to discuss a official matter with you",
+            "count": 1
+        },
+        {
+            "phrase": "ms hawthorne it would take a long time to give you the details of what i've been sent to discuss with you",
+            "count": 1
+        }
+    ]
+}

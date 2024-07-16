@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:45",
+            "03:46",
+            "04:05"
+        ],
+        "label": "rice"
+    },
+    "clusterList": [
+        {
+            "phrase": "rice was counting on the fact that olmert's dwindling political fortunes would lead him to turn to a diplomatic victory as a springboard toward a political comeback but if he's leaving office that doesn't happen",
+            "count": 1
+        },
+        {
+            "phrase": "president bush told ambassador lee tae-sik that he knew well of the issue and instructed secretary rice to look into the matter",
+            "count": 1
+        },
+        {
+            "phrase": "the exchanges between cheney's office and rice's people at state got very testy but ultimately condi had the president's ear and persuaded him that his legacy would be stronger if they reached a deal with pyongyang",
+            "count": 1
+        }
+    ]
+}

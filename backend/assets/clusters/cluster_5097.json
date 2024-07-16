@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:46",
+            "04:36",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it's going to be tough for a lot of us down here",
+            "count": 1
+        },
+        {
+            "phrase": "probably going to be long and hard and tough",
+            "count": 1
+        },
+        {
+            "phrase": "it is going to be very physical a lot rougher",
+            "count": 1
+        },
+        {
+            "phrase": "it's going to be tough it's going to come down to the wire we know that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "03:55"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you think about gun control give me the short answer",
+            "count": 2
+        },
+        {
+            "phrase": "are trying to increase deaths by gun",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "05:02"
+        ],
+        "label": "was"
+    },
+    "clusterList": [
+        {
+            "phrase": "was the perfect dog",
+            "count": 1
+        },
+        {
+            "phrase": "no actually he was happy that wolf was hungry",
+            "count": 1
+        }
+    ]
+}

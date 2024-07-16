@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "04:03",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was an amazing feeling when everyone is shouting your name and taking photos of you i mean i had never done anything like it",
+            "count": 1
+        },
+        {
+            "phrase": "my heart was pounding and i was overwhelmed with admiration fear and the urge to take pictures",
+            "count": 1
+        },
+        {
+            "phrase": "it was more or less adrenaline and being excited to be here that helped me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:03",
+            "04:46"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm very fortunate to be in the position where people are interested in what i do the more popular you get the more people who are watching what you do",
+            "count": 1
+        },
+        {
+            "phrase": "i think some of them actually don't believe i'm doing it",
+            "count": 1
+        },
+        {
+            "phrase": "its not about what you can do but what people think your capeable of doing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:52",
+            "01:07",
+            "02:29",
+            "03:41",
+            "03:55",
+            "03:56",
+            "04:13",
+            "04:16",
+            "04:23",
+            "04:28",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it did its best to keep above 94 us cents but it looks like it just gave way to selling pressure this morning",
+            "count": 7
+        },
+        {
+            "phrase": "the prices were very good in the fall and american farmers thought that 6 or 7 a bushel was a good price so they took it",
+            "count": 2
+        },
+        {
+            "phrase": "just before the prices went through the roof",
+            "count": 2
+        },
+        {
+            "phrase": "that's just way way out of our price range",
+            "count": 1
+        },
+        {
+            "phrase": "light sweet crude for september delivery fell 63 cents to us 123 45 a barrel in electronic trading on the new york mercantile exchange by midday in singapore the contract lost us 2 69 overnight to settle at us 124 08 a barrel",
+            "count": 1
+        }
+    ]
+}

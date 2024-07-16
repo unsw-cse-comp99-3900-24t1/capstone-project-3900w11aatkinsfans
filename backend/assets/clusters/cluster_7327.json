@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:27",
+            "04:03"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i made up my mind to wait on as many customers as i could myself feeling that i could do it better than anyone i could hire and hoping that i could communicate some of my own enthusiasm in what i was selling",
+            "count": 1
+        },
+        {
+            "phrase": "i have so much patience but i don't know a lot of people who have as much patience as i do",
+            "count": 1
+        },
+        {
+            "phrase": "so everybody loses their job and you know what without a single complaint from a customer in 18 years it just seems to be a shame but i'll take what comes",
+            "count": 1
+        }
+    ]
+}

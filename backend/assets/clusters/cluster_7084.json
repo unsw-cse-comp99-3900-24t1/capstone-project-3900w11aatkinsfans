@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "02:43",
+            "04:00"
+        ],
+        "label": "repentance"
+    },
+    "clusterList": [
+        {
+            "phrase": "repentance of ingrained habits that are ecologically irresponsible",
+            "count": 2
+        },
+        {
+            "phrase": "making people feel guilty doesn't help the environment",
+            "count": 1
+        }
+    ]
+}

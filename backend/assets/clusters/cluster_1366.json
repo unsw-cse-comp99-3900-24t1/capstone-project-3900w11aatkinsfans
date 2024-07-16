@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:27",
+            "01:07",
+            "01:58",
+            "02:00",
+            "02:02",
+            "02:13",
+            "03:10",
+            "03:51",
+            "04:26",
+            "04:32"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "solar cells are dealing with the material science",
+            "count": 5
+        },
+        {
+            "phrase": "it's cheap it's efficient it's highly manufacturable it's incredibly tolerant of impurity and it's from earth-abundant stuff",
+            "count": 3
+        },
+        {
+            "phrase": "there's a heck of lot of energy stored in chemical bonds",
+            "count": 3
+        },
+        {
+            "phrase": "it's green by design so the building has a high degree of recyclable materials and it is very energy efficient",
+            "count": 1
+        }
+    ]
+}

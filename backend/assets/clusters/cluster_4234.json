@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:00",
+            "02:43",
+            "03:05",
+            "04:13"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can not enter media philips external hard disk folder",
+            "count": 1
+        },
+        {
+            "phrase": "cannot install mac os x on this volume",
+            "count": 1
+        },
+        {
+            "phrase": "failed to copy from source cannot create folder dwalker2-c backuptarget encryptedsubfolder access is denied",
+            "count": 1
+        },
+        {
+            "phrase": "choose source folder",
+            "count": 1
+        },
+        {
+            "phrase": "please choose the source folder cannot be a root drive",
+            "count": 1
+        }
+    ]
+}

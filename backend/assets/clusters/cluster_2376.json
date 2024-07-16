@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:27",
+            "00:42",
+            "00:46",
+            "00:52",
+            "04:04"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the perfect storm for our business and we see no signs of it blowing over",
+            "count": 7
+        }
+    ]
+}

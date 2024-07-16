@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "03:56",
+            "04:04",
+            "04:32"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's got the emmy the oscar he's a nobel laureate why would he want to go back to that",
+            "count": 2
+        },
+        {
+            "phrase": "he was the big winner of the off-season awards",
+            "count": 2
+        },
+        {
+            "phrase": "so i don't think people really gave him the attention he probably deserved until now",
+            "count": 1
+        }
+    ]
+}

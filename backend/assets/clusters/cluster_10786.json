@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:32",
+            "03:51"
+        ],
+        "label": "another"
+    },
+    "clusterList": [
+        {
+            "phrase": "another world is colliding with this one",
+            "count": 1
+        },
+        {
+            "phrase": "7 worlds collide",
+            "count": 1
+        }
+    ]
+}

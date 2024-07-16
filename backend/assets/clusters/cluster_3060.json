@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:01",
+            "02:19",
+            "02:25",
+            "03:18",
+            "04:00"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when did you come to work today",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not a ghost i just got hired and today's supposed to be my first day didn't anyone tell you i was coming",
+            "count": 1
+        },
+        {
+            "phrase": "so when are you coming to do the work",
+            "count": 1
+        },
+        {
+            "phrase": "yes i only just arrived today",
+            "count": 1
+        },
+        {
+            "phrase": "you left for work at 5 55 am didn't you",
+            "count": 1
+        },
+        {
+            "phrase": "today you were late you didn't leave until 6 20 am",
+            "count": 1
+        }
+    ]
+}

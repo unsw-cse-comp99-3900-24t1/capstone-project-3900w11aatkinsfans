@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:42",
+            "04:28"
+        ],
+        "label": "very"
+    },
+    "clusterList": [
+        {
+            "phrase": "very concerned by this loss of the right to vote",
+            "count": 1
+        },
+        {
+            "phrase": "the struggle for the right-to-vote",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sort of hoping they might be defeated because i'm concerned about sending an amended bill to the house",
+            "count": 1
+        }
+    ]
+}

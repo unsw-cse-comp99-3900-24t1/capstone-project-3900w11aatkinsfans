@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:43",
+            "02:06",
+            "02:17",
+            "03:02",
+            "03:54",
+            "04:00",
+            "04:05",
+            "04:33",
+            "05:00",
+            "05:05"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "no i don't have a boyfriend i'm looking but i'm too busy but i'm 16 and i like to go on dates and i have crushes and stuff",
+            "count": 4
+        },
+        {
+            "phrase": "look i don't want you going crazy with boys but that doesn't mean that i want you to like girls either",
+            "count": 1
+        },
+        {
+            "phrase": "i want to the boy",
+            "count": 1
+        },
+        {
+            "phrase": "find a boyfriend",
+            "count": 1
+        },
+        {
+            "phrase": "why don't you have a girlfriend",
+            "count": 1
+        },
+        {
+            "phrase": "anyone who wants one",
+            "count": 1
+        },
+        {
+            "phrase": "who wants boyfriends",
+            "count": 1
+        },
+        {
+            "phrase": "i only need one boy and i won't need him until he's a man",
+            "count": 1
+        }
+    ]
+}

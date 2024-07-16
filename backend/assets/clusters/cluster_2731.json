@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:56",
+            "02:14",
+            "03:41",
+            "03:47",
+            "04:18",
+            "04:59"
+        ],
+        "label": "inscribed"
+    },
+    "clusterList": [
+        {
+            "phrase": "the red canvas",
+            "count": 2
+        },
+        {
+            "phrase": "inscribed in glass",
+            "count": 1
+        },
+        {
+            "phrase": "box and circle",
+            "count": 1
+        },
+        {
+            "phrase": "the square o",
+            "count": 1
+        },
+        {
+            "phrase": "the red rectangle",
+            "count": 1
+        },
+        {
+            "phrase": "the stagr triangle",
+            "count": 1
+        }
+    ]
+}

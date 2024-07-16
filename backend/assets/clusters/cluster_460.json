@@ -1,0 +1,111 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:08",
+            "00:18",
+            "00:23",
+            "00:29",
+            "00:46",
+            "01:10",
+            "01:29",
+            "01:30",
+            "01:50",
+            "01:52",
+            "02:04",
+            "02:22",
+            "02:55",
+            "03:51",
+            "04:00",
+            "04:21",
+            "04:41",
+            "04:45",
+            "04:55"
+        ],
+        "label": "thinks"
+    },
+    "clusterList": [
+        {
+            "phrase": "from the city perspective we're moving forward",
+            "count": 5
+        },
+        {
+            "phrase": "thinks we're on the right track",
+            "count": 4
+        },
+        {
+            "phrase": "we were ready to go forward",
+            "count": 4
+        },
+        {
+            "phrase": "we're still quite optimistic about it going forward",
+            "count": 1
+        },
+        {
+            "phrase": "it is our turn now",
+            "count": 1
+        },
+        {
+            "phrase": "we're getting closer and closer",
+            "count": 1
+        },
+        {
+            "phrase": "i think we're making progress",
+            "count": 1
+        },
+        {
+            "phrase": "jake we have a lot of movement heading our direction",
+            "count": 1
+        },
+        {
+            "phrase": "we're not going we're headed back",
+            "count": 1
+        },
+        {
+            "phrase": "we're moving forward",
+            "count": 1
+        },
+        {
+            "phrase": "it's time for us to go in a different direction",
+            "count": 1
+        },
+        {
+            "phrase": "we're way past that",
+            "count": 1
+        },
+        {
+            "phrase": "it's something we look forward to",
+            "count": 1
+        },
+        {
+            "phrase": "we feel we're moving in that direction",
+            "count": 1
+        },
+        {
+            "phrase": "we've got a lot to look forward to",
+            "count": 1
+        }
+    ]
+}

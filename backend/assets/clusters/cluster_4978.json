@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:39",
+            "03:12",
+            "03:35"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "tragedy of troy smith",
+            "count": 2
+        },
+        {
+            "phrase": "i think it's a tragedy along the shakespearean lines this whole scenario",
+            "count": 1
+        },
+        {
+            "phrase": "the tragedy of macbeth and baby macbeth",
+            "count": 1
+        }
+    ]
+}

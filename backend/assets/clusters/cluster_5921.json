@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:51",
+            "04:51"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will linux work",
+            "count": 1
+        },
+        {
+            "phrase": "use linux it never crashes",
+            "count": 1
+        },
+        {
+            "phrase": "well i hope the linux version will still get through the production and not dropped entirely",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "03:43",
+            "04:38",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i came home and saw it had smashed our solar collector and i could see this tree sitting on the roof",
+            "count": 1
+        },
+        {
+            "phrase": "sunglasses are not safe and never use home-made filters such as cds photographic negatives or coloured film they are dangerous and can let through invisible radiation that can blind you",
+            "count": 1
+        },
+        {
+            "phrase": "it is not advisable for anybody to watch the eclipse with x-ray plate ordinary sunglasses or smoke glasses",
+            "count": 1
+        },
+        {
+            "phrase": "a wind turbine can be seen you can't hide it",
+            "count": 1
+        }
+    ]
+}

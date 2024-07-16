@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:01",
+            "01:30",
+            "03:09",
+            "03:35",
+            "04:13",
+            "04:46"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not trying to separate myself",
+            "count": 1
+        },
+        {
+            "phrase": "we don't want to belong we said all along we just want to be left alone",
+            "count": 1
+        },
+        {
+            "phrase": "so long self it's been fun but i've found somebody else so long self there's now room for two so you're gonna have to move so long self you're wrong for me i want more in life than this just go away so long self",
+            "count": 1
+        },
+        {
+            "phrase": "i have been alone since my husband died i stay in my home i don't date it's hard to date when you're at home nobody knows you",
+            "count": 1
+        },
+        {
+            "phrase": "i have too much to do leave me alone",
+            "count": 1
+        },
+        {
+            "phrase": "i am afraid no one would like to be with me",
+            "count": 1
+        },
+        {
+            "phrase": "don't worry you'll find someone who can be with you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:32",
+            "04:55"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "pretty much there's no reason to go out there and be stupid",
+            "count": 2
+        },
+        {
+            "phrase": "but that is not the only reason i am out here",
+            "count": 1
+        }
+    ]
+}

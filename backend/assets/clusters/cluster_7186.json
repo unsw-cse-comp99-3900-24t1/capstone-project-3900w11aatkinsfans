@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:08",
+            "04:26"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think that's realistic",
+            "count": 1
+        },
+        {
+            "phrase": "but to say it's realistic i don't know",
+            "count": 1
+        },
+        {
+            "phrase": "but to say it's realistic i don't know i see very large obstacles in the way",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:06",
+            "00:16",
+            "00:32",
+            "00:51",
+            "01:32",
+            "02:11",
+            "02:51",
+            "03:40",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "three days after the fact there is still terrible flooding many of the roads that we need to take to get to some shelters are still impassable and i heard that about 200 000 people down here are still without power or bathroom facilities",
+            "count": 5
+        },
+        {
+            "phrase": "i am particularly concerned by the sharp rise in the number of children needing to access homelessness services and the fact that families are being evicted from stable housing",
+            "count": 2
+        },
+        {
+            "phrase": "the u s had 12 fewer homeless last year than in 2005 and the greatest decline occurred among those who chronically live on the streets or in emergency shelters according to a federal report to be released tuesday",
+            "count": 1
+        },
+        {
+            "phrase": "and we do have a lot of homeless and rehab people hanging around so the area isn't quite the same",
+            "count": 1
+        },
+        {
+            "phrase": "new jerseyans need homes they can afford and jobs they can reach today we are transforming the state's almost barren affordable housing landscape from one of lost opportunities to one of hope and promise for thousands of families",
+            "count": 1
+        },
+        {
+            "phrase": "we have a moral responsibility to countless new jerseyans disabled residents families living on limited incomes and senior citizens to ensure access to housing is safe and affordable",
+            "count": 1
+        },
+        {
+            "phrase": "i would argue that someone living in a poor neighborhood that isn't 100 percent public housing is by definition better off",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:20",
+            "04:45"
+        ],
+        "label": "john"
+    },
+    "clusterList": [
+        {
+            "phrase": "john would have been a good fit for us but it wasn't a good fit for him right now",
+            "count": 2
+        },
+        {
+            "phrase": "it would have been interesting if we did get him because i wanted to see if we made him cut his hair",
+            "count": 1
+        }
+    ]
+}

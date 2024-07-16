@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:07",
+            "04:19"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well and an immortal but she's not around so we're like the chosen one only there are four of us and no vampires at least i don't think",
+            "count": 1
+        },
+        {
+            "phrase": "you knnow i can always be ur vampire if u want",
+            "count": 1
+        },
+        {
+            "phrase": "i object to this and any other association between a vampire and a human",
+            "count": 1
+        }
+    ]
+}

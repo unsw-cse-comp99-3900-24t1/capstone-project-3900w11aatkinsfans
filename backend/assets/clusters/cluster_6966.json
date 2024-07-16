@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:00",
+            "02:18"
+        ],
+        "label": "ok"
+    },
+    "clusterList": [
+        {
+            "phrase": "ok so coop honey why would someone send you one",
+            "count": 1
+        },
+        {
+            "phrase": "why would i take one",
+            "count": 1
+        },
+        {
+            "phrase": "because i got one how'd you find it",
+            "count": 1
+        }
+    ]
+}

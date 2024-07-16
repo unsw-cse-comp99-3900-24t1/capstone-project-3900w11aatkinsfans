@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:06",
+            "01:42",
+            "03:02",
+            "03:06",
+            "03:59",
+            "04:55",
+            "05:05"
+        ],
+        "label": "without"
+    },
+    "clusterList": [
+        {
+            "phrase": "without any support in case law",
+            "count": 3
+        },
+        {
+            "phrase": "undertaking any action to further implement these rules",
+            "count": 1
+        },
+        {
+            "phrase": "impossible to meet the legal criteria required",
+            "count": 1
+        },
+        {
+            "phrase": "there is no need for legal action and all the associated costs",
+            "count": 1
+        },
+        {
+            "phrase": "if there's no other option we would have to make to the public the case and say this is what we need to continue on and these are the services that we can't provide without the funds",
+            "count": 1
+        },
+        {
+            "phrase": "if they hire a legal work force to begin with none of this would be there",
+            "count": 1
+        }
+    ]
+}

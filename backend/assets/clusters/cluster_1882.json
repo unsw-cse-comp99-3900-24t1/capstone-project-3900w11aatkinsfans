@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:41",
+            "02:20",
+            "02:37",
+            "04:28",
+            "04:33",
+            "04:50",
+            "05:04"
+        ],
+        "label": "roman"
+    },
+    "clusterList": [
+        {
+            "phrase": "theology for girls",
+            "count": 3
+        },
+        {
+            "phrase": "roman catholic womenpriests",
+            "count": 1
+        },
+        {
+            "phrase": "on the dignity and vocation of women",
+            "count": 1
+        },
+        {
+            "phrase": "people have realized that the complete removal of the feminine element from the christian message is a shortcoming from an anthropological viewpoint it is theologically and anthropologically important for woman to be at the center of christianity",
+            "count": 1
+        },
+        {
+            "phrase": "missiology for islamic women",
+            "count": 1
+        },
+        {
+            "phrase": "get to work a manifesto for women of the world",
+            "count": 1
+        },
+        {
+            "phrase": "a pioneer among women in politics and public service",
+            "count": 1
+        }
+    ]
+}

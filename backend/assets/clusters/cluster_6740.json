@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:21",
+            "01:41",
+            "03:42"
+        ],
+        "label": "pdfill"
+    },
+    "clusterList": [
+        {
+            "phrase": "pdfill pdf tools",
+            "count": 1
+        },
+        {
+            "phrase": "count pdf files",
+            "count": 1
+        },
+        {
+            "phrase": "tiff pdf counter",
+            "count": 1
+        }
+    ]
+}

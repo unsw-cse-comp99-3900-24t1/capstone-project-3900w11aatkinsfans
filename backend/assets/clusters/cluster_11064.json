@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "03:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the man they call bin laden's brain",
+            "count": 1
+        },
+        {
+            "phrase": "we can't find bin laden",
+            "count": 1
+        }
+    ]
+}

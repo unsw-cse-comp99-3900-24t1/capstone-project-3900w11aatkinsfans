@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:30",
+            "01:46",
+            "04:17"
+        ],
+        "label": "type"
+    },
+    "clusterList": [
+        {
+            "phrase": "find as you type",
+            "count": 2
+        },
+        {
+            "phrase": "type them down",
+            "count": 1
+        },
+        {
+            "phrase": "those are search tables",
+            "count": 1
+        }
+    ]
+}

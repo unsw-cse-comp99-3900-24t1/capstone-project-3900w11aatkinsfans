@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:31"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select distinct topic author numreplies gdtopicview latestrepliedtime from gdforum where discussion",
+            "count": 1
+        }
+    ]
+}

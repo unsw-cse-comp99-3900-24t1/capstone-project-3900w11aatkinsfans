@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:40",
+            "02:26",
+            "02:51",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "as you know fannie mae and freddie mac play a central role in our housing finance system and must continue to do so in their current form as shareholder-owned companies their support for the housing market is particularly important as we work through the current housing correction",
+            "count": 2
+        },
+        {
+            "phrase": "we congratulate champlain housing trust for achieving this international honor champlain housing trust is an industry leader that has worked to create and preserve affordable housing in vermont for more than 20 years",
+            "count": 1
+        },
+        {
+            "phrase": "the champlain housing trust is honored to be recognized among the best of the best and we are thrilled to have this award to share with all of our partners that are so committed to permanently affordable housing in this time where newspaper headlines scream about the housing slump sub-prime mortgages foreclosures and now fannie mae and freddie mac the housing trust is a true success story",
+            "count": 1
+        },
+        {
+            "phrase": "affordable housing run by private companies just doesn't work",
+            "count": 1
+        },
+        {
+            "phrase": "we have the same core values and believe that together we can achieve far more than we could separately we bring the same approach to the real estate industry the strongest commitment to our clients and a determination to provide the most supportive environment for agents with this in mind we have united to form a company that can do more and achieve more than ever before",
+            "count": 1
+        }
+    ]
+}

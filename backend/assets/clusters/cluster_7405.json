@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "01:38",
+            "02:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i get my vocabulary words from the president's speeches",
+            "count": 1
+        },
+        {
+            "phrase": "ronald reagan is my hero",
+            "count": 1
+        },
+        {
+            "phrase": "hmmm didn't st reagan once give a big speech in germany in front of a historic symbol of german power with 20 000 germans in attendance",
+            "count": 1
+        }
+    ]
+}

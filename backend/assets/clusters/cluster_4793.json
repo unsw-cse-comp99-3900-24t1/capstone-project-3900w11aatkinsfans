@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "02:01",
+            "04:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this guy what's he like",
+            "count": 1
+        },
+        {
+            "phrase": "he is kind and caring",
+            "count": 1
+        },
+        {
+            "phrase": "man who is nice to me a man who will take care of me",
+            "count": 1
+        },
+        {
+            "phrase": "and he doesn't seem to care",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:59",
+            "03:06",
+            "03:39",
+            "04:03",
+            "04:23"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so that demands some special treatment from us",
+            "count": 4
+        },
+        {
+            "phrase": "to tackle the serious problems we face",
+            "count": 1
+        }
+    ]
+}

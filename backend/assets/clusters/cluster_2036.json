@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:32",
+            "00:56",
+            "01:50",
+            "02:33",
+            "04:31",
+            "04:33"
+        ],
+        "label": "revise"
+    },
+    "clusterList": [
+        {
+            "phrase": "now renegades are the people with their own philosophies they change the course of history everyday people like you and me",
+            "count": 5
+        },
+        {
+            "phrase": "revise history was what i said not true were the leaders of movement politicians or were they regular people",
+            "count": 1
+        },
+        {
+            "phrase": "i just changed the entire course of history so that thinks for a moment says irreverent out loud then irrelevant the following post is a lot about who i am sadly",
+            "count": 1
+        },
+        {
+            "phrase": "history shapes people",
+            "count": 1
+        }
+    ]
+}

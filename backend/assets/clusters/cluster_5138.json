@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "02:39"
+        ],
+        "label": "she's"
+    },
+    "clusterList": [
+        {
+            "phrase": "she's going to be the paper's newest food critic",
+            "count": 1
+        },
+        {
+            "phrase": "miss della scalla has been hired as one of our new food critics she'll be taking over your brother's column",
+            "count": 1
+        },
+        {
+            "phrase": "no she had introduced herself as portia della scalla apparently she's been hired to take over dewolfe's column",
+            "count": 1
+        },
+        {
+            "phrase": "do me a favor will you keep an eye on her i've got a very funny feeling about ms della scalla",
+            "count": 1
+        }
+    ]
+}

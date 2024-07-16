@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:01",
+            "01:02",
+            "01:20",
+            "01:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will continue to evolve our channel and retail footprint here in australia we now have best in class support and service that we can offer our consumer customers",
+            "count": 3
+        },
+        {
+            "phrase": "the latest consumers you need to know",
+            "count": 1
+        },
+        {
+            "phrase": "ninety percent of our customers are here every week",
+            "count": 1
+        }
+    ]
+}

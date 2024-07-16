@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "01:32",
+            "02:39"
+        ],
+        "label": "blackwater"
+    },
+    "clusterList": [
+        {
+            "phrase": "blackwater is getting a bad rap",
+            "count": 2
+        },
+        {
+            "phrase": "blackwater is looking forward to correcting the record",
+            "count": 1
+        }
+    ]
+}

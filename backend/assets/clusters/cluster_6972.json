@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "02:19",
+            "04:04"
+        ],
+        "label": "how's"
+    },
+    "clusterList": [
+        {
+            "phrase": "how's the account coming along",
+            "count": 1
+        },
+        {
+            "phrase": "well it is our account we opened it together last june",
+            "count": 1
+        },
+        {
+            "phrase": "everyone on our mailing list for whom we had an e-mail address as of february 1 along with those who have signed up for it since",
+            "count": 1
+        }
+    ]
+}

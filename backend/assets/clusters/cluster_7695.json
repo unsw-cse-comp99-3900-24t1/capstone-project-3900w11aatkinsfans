@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "00:53",
+            "02:00"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do they do how can i make my blog better",
+            "count": 1
+        },
+        {
+            "phrase": "a new blogger importer that is able to handle the latest version of google's blogger product and seamlessly import posts and comments without any user interaction beyond entering your login",
+            "count": 1
+        },
+        {
+            "phrase": "the age of performance blogging",
+            "count": 1
+        }
+    ]
+}

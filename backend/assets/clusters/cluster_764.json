@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            12,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:48",
+            "01:52",
+            "03:34",
+            "04:09",
+            "04:18"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "originally posted by",
+            "count": 14
+        },
+        {
+            "phrase": "will be reported in next weeks report for tuesday august 5 2008",
+            "count": 1
+        },
+        {
+            "phrase": "ooooh that report is hot",
+            "count": 1
+        },
+        {
+            "phrase": "report published by",
+            "count": 1
+        },
+        {
+            "phrase": "published as received",
+            "count": 1
+        }
+    ]
+}

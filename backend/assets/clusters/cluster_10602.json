@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:18",
+            "03:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we wouldn't be able to pump the fuel into the trucks and get the trucks to the warehouses",
+            "count": 1
+        },
+        {
+            "phrase": "without gas the stores will close and we'll really be hurting",
+            "count": 1
+        }
+    ]
+}

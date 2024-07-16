@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:32",
+            "01:05",
+            "01:07",
+            "01:23",
+            "01:50",
+            "02:55",
+            "04:31"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "they all watched and the bus driver had to ask a trucker to help him keep the guy in the bus",
+            "count": 6
+        },
+        {
+            "phrase": "he went back to his seat and brought the head to the front and pretty much displayed it to us like that and then dropped it on the ground in front of us",
+            "count": 2
+        },
+        {
+            "phrase": "canadian man cuts off head of bus passenger",
+            "count": 1
+        },
+        {
+            "phrase": "i guess it just bumped him in the head",
+            "count": 1
+        }
+    ]
+}

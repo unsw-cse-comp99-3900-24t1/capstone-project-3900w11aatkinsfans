@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:23",
+            "01:09",
+            "01:33",
+            "01:43",
+            "02:38",
+            "03:18",
+            "04:06"
+        ],
+        "label": "sometimes"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i'm sure that you can't have one and a half hours of dinner shouting at each other",
+            "count": 4
+        },
+        {
+            "phrase": "sometimes i'll ask her to sit for a biscuit like that",
+            "count": 1
+        },
+        {
+            "phrase": "what why wouldn't you want to get a free dinner",
+            "count": 1
+        },
+        {
+            "phrase": "c'mon she'll never know just come out for a nice meal the talk will only be an hour and then we'll all go out for drinks why wouldn't you",
+            "count": 1
+        },
+        {
+            "phrase": "we haven't got a date but we've previously been assured she would meet with us",
+            "count": 1
+        },
+        {
+            "phrase": "i hope she doesn't show up maybe then i can avoid havin my own dang coffee poured all over me",
+            "count": 1
+        },
+        {
+            "phrase": "in that case i'm havin it to go i can't stand bein in the same restaurant as her",
+            "count": 1
+        }
+    ]
+}

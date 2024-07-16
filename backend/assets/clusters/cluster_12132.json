@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "04:41"
+        ],
+        "label": "introducing"
+    },
+    "clusterList": [
+        {
+            "phrase": "introducing the admob engineering blog",
+            "count": 1
+        },
+        {
+            "phrase": "tech blogger visit to dc",
+            "count": 1
+        }
+    ]
+}

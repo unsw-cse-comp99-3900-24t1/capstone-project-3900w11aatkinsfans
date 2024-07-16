@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            6
+        ],
+        "xLabels": [
+            "00:29",
+            "00:32",
+            "01:50",
+            "02:32",
+            "02:39",
+            "02:43",
+            "02:55",
+            "03:13",
+            "03:29",
+            "04:33"
+        ],
+        "label": "best-paid"
+    },
+    "clusterList": [
+        {
+            "phrase": "best-paid actor i",
+            "count": 15
+        },
+        {
+            "phrase": "my show is going to be a mixture of my entire career",
+            "count": 2
+        },
+        {
+            "phrase": "maybe when i was younger and in my prime i liked being on stage more",
+            "count": 1
+        },
+        {
+            "phrase": "to be professional",
+            "count": 1
+        },
+        {
+            "phrase": "there are so many actors out there and it's like hitting the lottery even if you get an audition the competition is so fierce",
+            "count": 1
+        },
+        {
+            "phrase": "i always wanted to be a professional actor",
+            "count": 1
+        },
+        {
+            "phrase": "i just wanted to be someone",
+            "count": 1
+        },
+        {
+            "phrase": "i knew that i had to trust myself enough to go with where i felt comfortable it was huge when i decided that that's what i would call myself an actor and that's what i would become it was a large moment",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:43",
+            "04:05",
+            "04:19",
+            "04:54",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't charge that much when i was a lawyer either",
+            "count": 1
+        },
+        {
+            "phrase": "not true and i have an attorney general's opinion to back it up",
+            "count": 1
+        },
+        {
+            "phrase": "compensatory damages are intended to redress a plaintiff's concrete loss",
+            "count": 1
+        },
+        {
+            "phrase": "then you told them you had been found guilty of violating that order",
+            "count": 1
+        },
+        {
+            "phrase": "the losing party does not actually need to pay the judgment",
+            "count": 1
+        },
+        {
+            "phrase": "absolutely nothing you can go to the attorney general but nothing will happen because you have no evidence",
+            "count": 1
+        },
+        {
+            "phrase": "keep your mouth shut until the attorney arrives",
+            "count": 1
+        },
+        {
+            "phrase": "ask the judge",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:23",
+            "01:19",
+            "02:59",
+            "04:05",
+            "04:42",
+            "04:45",
+            "04:47"
+        ],
+        "label": "thinking"
+    },
+    "clusterList": [
+        {
+            "phrase": "thinking back on my recent comments at big east media day i believe that i may have overstated my feelings on college baseball and the wvu baseball program",
+            "count": 6
+        },
+        {
+            "phrase": "that's the way baseball has gone you never know who you're going to play with who you're going to play for you just go out and play",
+            "count": 1
+        },
+        {
+            "phrase": "i owe a lot to the front office and to the teammates i had here the last time i was here i gave up those six homers",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:05"
+        ],
+        "label": "create"
+    },
+    "clusterList": [
+        {
+            "phrase": "create site collection",
+            "count": 1
+        },
+        {
+            "phrase": "create sharepoint server site definition",
+            "count": 1
+        }
+    ]
+}

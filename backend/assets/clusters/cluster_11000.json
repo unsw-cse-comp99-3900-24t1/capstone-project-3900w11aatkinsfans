@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:51",
+            "04:18"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm a 20-something",
+            "count": 1
+        },
+        {
+            "phrase": "i am 64 years old and you are 19",
+            "count": 1
+        }
+    ]
+}

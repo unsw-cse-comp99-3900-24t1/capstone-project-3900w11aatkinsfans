@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "01:25",
+            "01:33",
+            "02:14",
+            "02:39",
+            "04:01",
+            "04:04"
+        ],
+        "label": "many"
+    },
+    "clusterList": [
+        {
+            "phrase": "many people get frustrated because they feel they are not achieving success there are many reasons for this but one of the most common reasons is that people measure success by what others have instead measuring success is about looking at your own skills and opportunities it is about what success means to you in your own mind rather than someone else's discover a different definition of success",
+            "count": 2
+        },
+        {
+            "phrase": "i really have no control over it i just have to make the best out of the situation that i'm in each time i come out of the practice field whether we're inside or outside i just have to go out there and compete",
+            "count": 2
+        },
+        {
+            "phrase": "were just trying to get through practice rather than practice with a purpose",
+            "count": 2
+        },
+        {
+            "phrase": "everything is so easy for me-at half-intensity i can still do things better than everybody else so why should i try too hard",
+            "count": 1
+        },
+        {
+            "phrase": "where i get frustrated is when today it was more trying to get through practice than practicing with a purpose and that's not acceptable",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know how to put into words the frustration level how difficult this year has been for me to do that it's certainly not commonplace",
+            "count": 1
+        },
+        {
+            "phrase": "have you ever thought of practicing",
+            "count": 1
+        }
+    ]
+}

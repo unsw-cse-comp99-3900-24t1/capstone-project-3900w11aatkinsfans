@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:38",
+            "03:16",
+            "04:45"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at the time there was a lake there called marguerite lake it was manmade eventually the dam became damaged and it was not repaired so it doesn't exist today",
+            "count": 1
+        },
+        {
+            "phrase": "there's no question that it would have been under water for a couple of years and while it's reasonably heavy it might have moved when there was water in the lake",
+            "count": 1
+        },
+        {
+            "phrase": "the fish could have swam under my legs i had so much water in the boat",
+            "count": 1
+        },
+        {
+            "phrase": "not only was water active in this region to weather the rocks but there was enough of it to run through the beds transport the clays and run into the lake and form the delta",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "03:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i set the alarm can you wake me when it goes off",
+            "count": 1
+        },
+        {
+            "phrase": "hell i don't know what i did all i know is i have to turn my room key in by 9 tomorrow morning",
+            "count": 1
+        }
+    ]
+}

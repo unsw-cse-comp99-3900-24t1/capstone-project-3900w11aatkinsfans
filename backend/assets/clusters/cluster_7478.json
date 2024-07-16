@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:59",
+            "04:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we normally get in 10 to 15 million a year and only give out about 6 million",
+            "count": 1
+        },
+        {
+            "phrase": "this figure is nominally higher than the previous record of 158 4 million kg in 2006",
+            "count": 1
+        },
+        {
+            "phrase": "it's up 5 percent this year every year it's usually up in the double digits",
+            "count": 1
+        }
+    ]
+}

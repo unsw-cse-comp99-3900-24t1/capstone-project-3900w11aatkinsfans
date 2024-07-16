@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "01:01",
+            "01:25",
+            "03:02"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for procurement of war replacement ah-64d apache longbow aircraft",
+            "count": 2
+        },
+        {
+            "phrase": "great planes aircraft supply is a great resource for anyone looking to purchase parts to build their own sonerai ii",
+            "count": 1
+        },
+        {
+            "phrase": "the following are considered replacements to vehicles weapons requested in the military table of equipment mtoe",
+            "count": 1
+        }
+    ]
+}

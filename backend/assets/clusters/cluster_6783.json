@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:06",
+            "01:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the commission also strongly supports the recommendation from the review of the 2007 scottish elections that no changes to the rules surrounding elections should be applied to an election held within six months of those changes coming into force",
+            "count": 1
+        },
+        {
+            "phrase": "many mayoral candidates have submitted inadequate and false information in their affidavits but the election commission ec has not taken action against them",
+            "count": 1
+        },
+        {
+            "phrase": "election commission needs to take action against them in this regard",
+            "count": 1
+        }
+    ]
+}

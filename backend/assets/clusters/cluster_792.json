@@ -1,0 +1,91 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "00:09",
+            "00:16",
+            "00:18",
+            "00:20",
+            "00:24",
+            "00:46",
+            "00:47",
+            "01:04",
+            "01:13",
+            "01:15",
+            "02:02",
+            "02:57",
+            "03:56",
+            "04:28"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "cameras are potentially more dangerous than guns",
+            "count": 3
+        },
+        {
+            "phrase": "law governing an acceptable filming distance from an unwilling subject to keep everybody safe and misbehaviour accountable",
+            "count": 3
+        },
+        {
+            "phrase": "arms in the hands of citizens may be used at individual discretion in private self-defense",
+            "count": 2
+        },
+        {
+            "phrase": "one of the things that makes it okay is that as opposed to being photographed you're being captured by someone else the only view of a photograph is the one you put on it yourself so this is my opportunity to see what other people see",
+            "count": 1
+        },
+        {
+            "phrase": "recently the camera has come to serve as all but an official license to encroach on someone's right to protect themselves from threats of danger it is also the most socially acceptable way to come within inches from someone who you do not know and who does not know you",
+            "count": 1
+        },
+        {
+            "phrase": "the danger exists in methods and tactics having absolutely nothing to do with picture-taking in fact removing a camera from the equation is a very effective way of looking at this situation candidly",
+            "count": 1
+        },
+        {
+            "phrase": "recently the camera has come to serve as all but an official license to encroach on someone's rights to protect themselves from threats of danger it is also the most socially acceptable way to come within inches from someone who you do not know and who does not know you",
+            "count": 1
+        },
+        {
+            "phrase": "i'm concerned about the intrusion into people's private lives it's a civil liberties issue",
+            "count": 1
+        },
+        {
+            "phrase": "it's an invasion of that person's privacy",
+            "count": 1
+        },
+        {
+            "phrase": "a law governing an acceptable filming distance from an unwilling subject keeps everybody safe and misbehavior becomes accountable",
+            "count": 1
+        },
+        {
+            "phrase": "i treat this matter delicately because this person needs privacy",
+            "count": 1
+        },
+        {
+            "phrase": "with properly posted speed limits and properly installed traffic-control devices there is no need for camera-based law traffic law enforcement devices",
+            "count": 1
+        }
+    ]
+}

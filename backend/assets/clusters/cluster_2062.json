@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "02:24",
+            "03:19",
+            "03:23",
+            "04:05",
+            "04:15"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you own ishares ftse xinhua china 25 index nyse fxi you own the best-of-the-best blue chip stocks traded in the chinese market",
+            "count": 3
+        },
+        {
+            "phrase": "investors are reluctant to buy shares ahead of u s economic events",
+            "count": 3
+        },
+        {
+            "phrase": "we recommend buying only stocks with great fundamentals and momentum",
+            "count": 1
+        },
+        {
+            "phrase": "these asset values will return to a profitable position when the market gets back to normal",
+            "count": 1
+        }
+    ]
+}

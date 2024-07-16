@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "03:51",
+            "04:51"
+        ],
+        "label": "something"
+    },
+    "clusterList": [
+        {
+            "phrase": "something must happen",
+            "count": 4
+        }
+    ]
+}

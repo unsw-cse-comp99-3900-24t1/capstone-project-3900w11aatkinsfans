@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:01",
+            "03:27"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our education system often teach brilliant children as if they are mentally challenged and most are never inspired to reach early intellectual potential",
+            "count": 1
+        },
+        {
+            "phrase": "gensler's research uncovered an interesting paradox about learning",
+            "count": 1
+        },
+        {
+            "phrase": "i thought for the most part our kids were focused they were on task and learning",
+            "count": 1
+        }
+    ]
+}

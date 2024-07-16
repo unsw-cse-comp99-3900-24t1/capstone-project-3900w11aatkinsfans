@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:11",
+            "04:05",
+            "04:13",
+            "04:28"
+        ],
+        "label": "ventura"
+    },
+    "clusterList": [
+        {
+            "phrase": "ventura county community college district has done an outstanding job in setting a model practice on the importance of emergency preparedness",
+            "count": 1
+        },
+        {
+            "phrase": "we as a ministry must be prepared for the possibility our strategic facilities will be hit we have to be ready for the worst case scenario but nevertheless this drill is a test of readiness for us and should not be perceived as a threat to any of our neighbors",
+            "count": 1
+        },
+        {
+            "phrase": "dhs has made limited progress in the areas of emergency preparedness and response",
+            "count": 1
+        },
+        {
+            "phrase": "it's become emergency dispatch not emergency management",
+            "count": 1
+        }
+    ]
+}

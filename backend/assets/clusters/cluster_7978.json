@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:38"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "new dusty springfield",
+            "count": 1
+        },
+        {
+            "phrase": "dusty in memphis",
+            "count": 1
+        }
+    ]
+}

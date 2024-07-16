@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:12",
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:52",
+            "03:10",
+            "03:18",
+            "03:40",
+            "03:51",
+            "04:32",
+            "04:45",
+            "04:47"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's the only naked man that will ever be in my bedroom",
+            "count": 6
+        },
+        {
+            "phrase": "he said well i've got to tell you i don't know that you're going to see the guy from seattle",
+            "count": 3
+        },
+        {
+            "phrase": "he said i don't know that you're going to see that guy from seattle",
+            "count": 2
+        },
+        {
+            "phrase": "great that'll be swell then i really need to talk with him",
+            "count": 1
+        },
+        {
+            "phrase": "he's a great dude he's my friend we'll just wait to see what else he has to say about it",
+            "count": 1
+        },
+        {
+            "phrase": "you can be with him later for now have a sniff of this",
+            "count": 1
+        },
+        {
+            "phrase": "this'll show him",
+            "count": 1
+        }
+    ]
+}

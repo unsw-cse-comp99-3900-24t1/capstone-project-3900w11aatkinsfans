@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:23",
+            "03:48"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i find men who don't commit to relationships unattractive and men who go",
+            "count": 2
+        },
+        {
+            "phrase": "effeminate men are held in much lower esteem than are masculine-looking homosexuals",
+            "count": 1
+        },
+        {
+            "phrase": "not even as straight man they're the straight man to the straight man",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:22",
+            "04:05"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it shows that great things come out of a winning tradition",
+            "count": 1
+        },
+        {
+            "phrase": "to honor a player who demonstrates pride and poise for the oakland raiders during the season teammates vote for the player they think exemplifies these qualities and dedication and that player is then honored on the field at the last home game of the season",
+            "count": 1
+        },
+        {
+            "phrase": "a previously private royal and naval ritual to the public",
+            "count": 1
+        }
+    ]
+}

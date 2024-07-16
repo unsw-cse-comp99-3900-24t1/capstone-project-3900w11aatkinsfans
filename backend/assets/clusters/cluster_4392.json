@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "02:39",
+            "04:00",
+            "04:28"
+        ],
+        "label": "she's"
+    },
+    "clusterList": [
+        {
+            "phrase": "she's going to get dumped",
+            "count": 1
+        },
+        {
+            "phrase": "she's going to see o'keefe",
+            "count": 1
+        },
+        {
+            "phrase": "what does she have to be depressed about all the guys she's been sleeping with",
+            "count": 1
+        },
+        {
+            "phrase": "she'll back up everything the other two say",
+            "count": 1
+        }
+    ]
+}

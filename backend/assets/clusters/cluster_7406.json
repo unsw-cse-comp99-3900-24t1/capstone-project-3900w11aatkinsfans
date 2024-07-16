@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:43",
+            "04:28",
+            "04:54"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he worked hard so his kids would have more than he had growing up",
+            "count": 1
+        },
+        {
+            "phrase": "his dad was too old and his brother was too busy with his own farm",
+            "count": 1
+        },
+        {
+            "phrase": "yeah he could have made lots more money at disney",
+            "count": 1
+        }
+    ]
+}

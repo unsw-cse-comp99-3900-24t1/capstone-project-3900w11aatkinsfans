@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:29",
+            "02:47",
+            "03:10",
+            "04:28"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have done something that could land them in prison for many many years",
+            "count": 1
+        },
+        {
+            "phrase": "they should be put in prison for the rest of their life",
+            "count": 1
+        },
+        {
+            "phrase": "they acted in self defense against their abusers not only were they punished before going to prison but now they're in prison as well",
+            "count": 1
+        },
+        {
+            "phrase": "should be in jail",
+            "count": 1
+        },
+        {
+            "phrase": "those criminals deserve death for the crimes they committed against the iraqi people",
+            "count": 1
+        }
+    ]
+}

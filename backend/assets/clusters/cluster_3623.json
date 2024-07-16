@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "01:46",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i had been waiting for what i thought would be the inevitable",
+            "count": 3
+        },
+        {
+            "phrase": "imagine it and it will come",
+            "count": 1
+        },
+        {
+            "phrase": "thoughts on future memes",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "04:38",
+            "04:50"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i saw that you put all are stuff in out rooms",
+            "count": 1
+        },
+        {
+            "phrase": "just every ones shoes and rouge s jewelry box to their rooms",
+            "count": 1
+        },
+        {
+            "phrase": "i'd prefer that you use the dressing room",
+            "count": 1
+        },
+        {
+            "phrase": "this was the most logical place for a media room because it has a big stone fireplace and there is no bathroom",
+            "count": 1
+        }
+    ]
+}

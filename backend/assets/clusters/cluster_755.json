@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            16,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:10",
+            "04:54"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in national car rental system inc",
+            "count": 16
+        },
+        {
+            "phrase": "car titles registration folder",
+            "count": 1
+        },
+        {
+            "phrase": "do you have the title to the vehicle",
+            "count": 1
+        }
+    ]
+}

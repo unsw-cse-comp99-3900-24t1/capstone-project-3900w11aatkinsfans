@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:47",
+            "02:55",
+            "03:05",
+            "03:14",
+            "03:27",
+            "03:34",
+            "03:38",
+            "04:04"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was like slow motion but happened so quickly people were desperately trying to grab hold of things to keep safe",
+            "count": 7
+        },
+        {
+            "phrase": "when the press barrier came down it was a mad rush to the elevator people being trampled",
+            "count": 1
+        }
+    ]
+}

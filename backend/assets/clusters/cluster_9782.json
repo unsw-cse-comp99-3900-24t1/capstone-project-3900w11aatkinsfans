@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "01:30"
+        ],
+        "label": "deep"
+    },
+    "clusterList": [
+        {
+            "phrase": "deep social scientific knowledge",
+            "count": 1
+        },
+        {
+            "phrase": "in a democratic society it is of great importance that the results of scientific research can be published",
+            "count": 1
+        }
+    ]
+}

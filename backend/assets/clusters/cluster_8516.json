@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:21"
+        ],
+        "label": "prices"
+    },
+    "clusterList": [
+        {
+            "phrase": "prices at the pump pinched at the pump",
+            "count": 1
+        },
+        {
+            "phrase": "pinched at the pump",
+            "count": 1
+        }
+    ]
+}

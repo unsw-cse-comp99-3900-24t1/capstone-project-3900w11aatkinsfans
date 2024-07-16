@@ -1,0 +1,119 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:10",
+            "00:16",
+            "00:29",
+            "00:47",
+            "00:48",
+            "00:56",
+            "01:04",
+            "01:06",
+            "01:18",
+            "01:47",
+            "01:52",
+            "02:00",
+            "02:01",
+            "02:02",
+            "02:10",
+            "03:38",
+            "04:00",
+            "04:03",
+            "04:15",
+            "04:21",
+            "04:56"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of touch",
+            "count": 10
+        },
+        {
+            "phrase": "out of the blue",
+            "count": 4
+        },
+        {
+            "phrase": "over and out",
+            "count": 3
+        },
+        {
+            "phrase": "not that far out",
+            "count": 2
+        },
+        {
+            "phrase": "out of football",
+            "count": 2
+        },
+        {
+            "phrase": "out of the system",
+            "count": 2
+        },
+        {
+            "phrase": "out of woik",
+            "count": 2
+        },
+        {
+            "phrase": "out of the game",
+            "count": 1
+        },
+        {
+            "phrase": "out of whack",
+            "count": 1
+        },
+        {
+            "phrase": "out of reach",
+            "count": 1
+        },
+        {
+            "phrase": "out of it",
+            "count": 1
+        },
+        {
+            "phrase": "hom out of",
+            "count": 1
+        },
+        {
+            "phrase": "out there on the ice",
+            "count": 1
+        },
+        {
+            "phrase": "out of hand",
+            "count": 1
+        },
+        {
+            "phrase": "out to get them",
+            "count": 1
+        },
+        {
+            "phrase": "out of my way",
+            "count": 1
+        }
+    ]
+}

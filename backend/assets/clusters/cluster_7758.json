@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:38",
+            "03:51"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it turned around very quickly leaving at 8 13 a m and required no services on the ground",
+            "count": 1
+        },
+        {
+            "phrase": "within a short time rescue trucks were speeding to the downed aircraft and soon a rescue helicopter arrived to bring the downed pilots to the hospital it was apparent from the radio transmission that they were able to eject from their disabled jet",
+            "count": 1
+        },
+        {
+            "phrase": "the flames were leaping out the back of it up over the top of it",
+            "count": 1
+        }
+    ]
+}

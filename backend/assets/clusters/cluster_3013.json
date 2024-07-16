@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:48",
+            "03:04",
+            "03:51"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are excited to self publish the lord of the rings online mines of moria and to partner with warner bros to distribute the title at retail this fall",
+            "count": 3
+        },
+        {
+            "phrase": "we look forward to working with turbine and we will leverage our experience in distributing successful premium titles with the launch of the lord of the rings online mines of moria this fall",
+            "count": 3
+        }
+    ]
+}

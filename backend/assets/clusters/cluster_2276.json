@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            8
+        ],
+        "xLabels": [
+            "03:18"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are ya in there amy",
+            "count": 1
+        },
+        {
+            "phrase": "argh stop amy stop",
+            "count": 1
+        },
+        {
+            "phrase": "amy please stop",
+            "count": 1
+        },
+        {
+            "phrase": "of course you're a you're amy",
+            "count": 1
+        },
+        {
+            "phrase": "amy are ya in there",
+            "count": 1
+        },
+        {
+            "phrase": "amy are you alright wake up",
+            "count": 1
+        },
+        {
+            "phrase": "amy please don't do this",
+            "count": 1
+        },
+        {
+            "phrase": "amy thank gawd you're here",
+            "count": 1
+        }
+    ]
+}

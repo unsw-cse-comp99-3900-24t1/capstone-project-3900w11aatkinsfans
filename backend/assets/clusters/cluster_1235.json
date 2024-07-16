@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:10",
+            "01:37",
+            "01:40",
+            "01:41",
+            "02:26",
+            "02:51",
+            "03:18",
+            "04:15",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i hate you",
+            "count": 3
+        },
+        {
+            "phrase": "please don't tase me",
+            "count": 2
+        },
+        {
+            "phrase": "maybe the people will start to hate me now",
+            "count": 1
+        },
+        {
+            "phrase": "i hated you when i first met you",
+            "count": 1
+        },
+        {
+            "phrase": "if you're a jerk to me i'm going to punch you in the face",
+            "count": 1
+        },
+        {
+            "phrase": "you know you disgust me",
+            "count": 1
+        },
+        {
+            "phrase": "i know you'll probably hate me but",
+            "count": 1
+        },
+        {
+            "phrase": "you hate me",
+            "count": 1
+        },
+        {
+            "phrase": "why hate me",
+            "count": 1
+        },
+        {
+            "phrase": "do you hate me after that last sentence i don't blame you if you do",
+            "count": 1
+        }
+    ]
+}

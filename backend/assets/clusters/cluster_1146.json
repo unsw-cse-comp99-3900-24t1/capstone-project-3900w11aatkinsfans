@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "00:28",
+            "00:32",
+            "00:41",
+            "00:46",
+            "00:53",
+            "01:12",
+            "01:13",
+            "03:25",
+            "04:29"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe mike can hook on some place else",
+            "count": 11
+        },
+        {
+            "phrase": "since mike got locked up kevin has visited him a lot",
+            "count": 1
+        },
+        {
+            "phrase": "they give him a mike but they don't plug it in",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:42",
+            "02:00",
+            "02:05",
+            "03:05",
+            "04:09",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i sat with my daughters in back to back concerts of the new kids on the block",
+            "count": 2
+        },
+        {
+            "phrase": "i wasn't really quite sure i wanted to come and the reason i came is because my kids would kill me if i didn't",
+            "count": 1
+        },
+        {
+            "phrase": "when i signed up i said to my mum that i didn't know how far i would go but would just see what happened",
+            "count": 1
+        },
+        {
+            "phrase": "we were excited we told our friends and family the good news did whatever little things we could to prepare ourselves to be parents",
+            "count": 1
+        },
+        {
+            "phrase": "the year my parents went on vacation",
+            "count": 1
+        },
+        {
+            "phrase": "they grabbed me from my family they put us in a truck about 50 of us and we just drove we didn't know where we were going",
+            "count": 1
+        },
+        {
+            "phrase": "we didn't know where we were going but my friends kept telling me i was going to see my mom i was excited they were only 14 or 15 years old but they carried me on their backs",
+            "count": 1
+        }
+    ]
+}

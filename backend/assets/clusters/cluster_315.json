@@ -1,0 +1,113 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:48",
+            "01:07",
+            "01:13",
+            "01:19",
+            "01:30",
+            "01:47",
+            "01:56",
+            "02:05",
+            "02:20",
+            "02:26",
+            "02:52",
+            "03:10",
+            "03:14",
+            "03:42",
+            "03:51",
+            "03:55",
+            "04:03",
+            "04:04",
+            "04:14",
+            "04:22",
+            "04:27",
+            "04:28",
+            "04:32",
+            "04:38",
+            "04:52",
+            "04:55"
+        ],
+        "label": "save"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm trying to save the planet i'm trying to save the planet",
+            "count": 8
+        },
+        {
+            "phrase": "i'm trying to save the planet",
+            "count": 8
+        },
+        {
+            "phrase": "save the oceans",
+            "count": 6
+        },
+        {
+            "phrase": "save the earth",
+            "count": 1
+        },
+        {
+            "phrase": "just trying to save the planet",
+            "count": 1
+        },
+        {
+            "phrase": "i'm trying to save the world",
+            "count": 1
+        },
+        {
+            "phrase": "i'm saving the world",
+            "count": 1
+        },
+        {
+            "phrase": "venturing into space to save humanity",
+            "count": 1
+        },
+        {
+            "phrase": "trying to save the planet",
+            "count": 1
+        },
+        {
+            "phrase": "trying to save the planet i'm trying to save the planet",
+            "count": 1
+        },
+        {
+            "phrase": "what must we do to be saved",
+            "count": 1
+        },
+        {
+            "phrase": "this is the moment we must come together to save this planet",
+            "count": 1
+        }
+    ]
+}

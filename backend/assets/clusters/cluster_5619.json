@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "02:42"
+        ],
+        "label": "china's"
+    },
+    "clusterList": [
+        {
+            "phrase": "china's clean revolution",
+            "count": 3
+        }
+    ]
+}

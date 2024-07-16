@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:33",
+            "02:33",
+            "02:41",
+            "02:46",
+            "03:01",
+            "03:13",
+            "03:34",
+            "04:09"
+        ],
+        "label": "looking"
+    },
+    "clusterList": [
+        {
+            "phrase": "looking forward to it",
+            "count": 1
+        },
+        {
+            "phrase": "over the coming weeks",
+            "count": 1
+        },
+        {
+            "phrase": "the next year",
+            "count": 1
+        },
+        {
+            "phrase": "between this summer and next summer",
+            "count": 1
+        },
+        {
+            "phrase": "so last year",
+            "count": 1
+        },
+        {
+            "phrase": "this year's model",
+            "count": 1
+        },
+        {
+            "phrase": "wait until next year",
+            "count": 1
+        },
+        {
+            "phrase": "come back next year",
+            "count": 1
+        },
+        {
+            "phrase": "we are already talking about next year",
+            "count": 1
+        }
+    ]
+}

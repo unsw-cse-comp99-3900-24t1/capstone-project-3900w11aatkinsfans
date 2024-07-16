@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:44",
+            "03:59"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is the best feeling in the world to sing",
+            "count": 1
+        },
+        {
+            "phrase": "it's the song and lights together that form our music",
+            "count": 1
+        }
+    ]
+}

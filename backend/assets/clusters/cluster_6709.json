@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:16",
+            "04:31"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm a fiddle player and i love to walk around and play music later on in the evening",
+            "count": 1
+        },
+        {
+            "phrase": "music editor free",
+            "count": 1
+        },
+        {
+            "phrase": "in the world of digital music creation acid pro software has always stood out from the crowd",
+            "count": 1
+        }
+    ]
+}

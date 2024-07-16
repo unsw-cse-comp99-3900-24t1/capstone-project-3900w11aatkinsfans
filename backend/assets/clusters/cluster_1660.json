@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            3,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:06",
+            "03:14",
+            "03:18",
+            "03:52",
+            "04:05",
+            "04:46"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to take a shower",
+            "count": 1
+        },
+        {
+            "phrase": "i need a shower",
+            "count": 1
+        },
+        {
+            "phrase": "gus and i will stay home and take a bath",
+            "count": 1
+        },
+        {
+            "phrase": "i need a shower and i need one now",
+            "count": 1
+        },
+        {
+            "phrase": "do you think i could sneak a quick shower or a bath",
+            "count": 1
+        },
+        {
+            "phrase": "don't you have some bathing to do",
+            "count": 1
+        },
+        {
+            "phrase": "we alternate going home to take showers in the morning",
+            "count": 1
+        },
+        {
+            "phrase": "i'm still sweaty i must stink i think i'll go take a shower",
+            "count": 1
+        },
+        {
+            "phrase": "you are very hot a cold shower is just what you need",
+            "count": 1
+        },
+        {
+            "phrase": "fuck i hate showering",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:22",
+            "02:42",
+            "02:48"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so much of our success this year depends on the development of darren and jarmarus",
+            "count": 1
+        },
+        {
+            "phrase": "we haven't done as much with our juniors in the past",
+            "count": 1
+        },
+        {
+            "phrase": "we've been awfully hard on you lately haven't we",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "04:18",
+            "04:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the worst period of our history",
+            "count": 1
+        },
+        {
+            "phrase": "classic hollywood era",
+            "count": 1
+        },
+        {
+            "phrase": "you'd have to go back to the era of the great depression",
+            "count": 1
+        }
+    ]
+}

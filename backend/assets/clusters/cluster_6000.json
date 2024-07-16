@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:23",
+            "02:15"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never felt uncomfortable because of my race",
+            "count": 1
+        },
+        {
+            "phrase": "i still have the same nerves before every race that i had before i won",
+            "count": 1
+        },
+        {
+            "phrase": "usually when you have a big margin like today you can relax more but i had no front brake during my last stint so i was really nervous i'm so happy to have won",
+            "count": 1
+        }
+    ]
+}

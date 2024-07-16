@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "00:50",
+            "02:57"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the department of defence has taken on many of these burdens and will need to institutionalise and retain these capabilities but this is no replacement for civilian involvement and expertise",
+            "count": 1
+        },
+        {
+            "phrase": "tough realistic counterinsurgency",
+            "count": 1
+        },
+        {
+            "phrase": "we have made and innovated new ways and methods unprecedented in the people's wars of liberation or even in the intelligence sciences i cannot go into more details for security reasons this is what kept the resistance",
+            "count": 1
+        }
+    ]
+}

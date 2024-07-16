@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:51",
+            "01:09",
+            "01:32",
+            "02:11",
+            "02:51",
+            "04:13",
+            "04:21",
+            "04:28",
+            "04:31"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want to help the city",
+            "count": 5
+        },
+        {
+            "phrase": "i am a person who will be out there and i will continue to be out there across pennsylvania i speak out on numerous public issues that impact the general assembly and government in general and i'm going to continue to be a very open and accessible public servant",
+            "count": 2
+        },
+        {
+            "phrase": "i've seen myself as a member of this free and dynamic city after living here for more than four years but i've not been registered as a permanent resident all this time and am still labeled as part of the migrant population",
+            "count": 1
+        },
+        {
+            "phrase": "with this new location we will have a greater opportunity to expand our presence and continue to serve this community",
+            "count": 1
+        },
+        {
+            "phrase": "i want to provide my service but also become a citizen of the community as well i'm looking forward to the change from the city",
+            "count": 1
+        }
+    ]
+}

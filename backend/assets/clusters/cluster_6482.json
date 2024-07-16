@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:13",
+            "01:46"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she is free to explain that but the notion that somehow this is our doing is ludicrous",
+            "count": 1
+        },
+        {
+            "phrase": "it was just a matter of getting her to do it in such large terms it wasn't as if we gave her instructions this was very much her story",
+            "count": 1
+        },
+        {
+            "phrase": "nice have you explained to the mom how she's supposed to do that",
+            "count": 1
+        }
+    ]
+}

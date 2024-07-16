@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:16",
+            "00:23",
+            "00:39",
+            "00:40",
+            "00:42",
+            "00:51",
+            "01:19",
+            "01:25",
+            "01:33",
+            "01:50",
+            "02:10",
+            "03:05",
+            "03:35",
+            "04:55"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "honestly i just don't know how that happens whether it would happen in a person i don't know i think it's a small miracle it happened at all",
+            "count": 7
+        },
+        {
+            "phrase": "it was a real awakening",
+            "count": 5
+        },
+        {
+            "phrase": "what i was feeling when it happened",
+            "count": 2
+        },
+        {
+            "phrase": "it was a miracle that the boy resurfaced and it was the miracle of all miracles that the gator did not come back a second time as the boy lay in the water",
+            "count": 1
+        },
+        {
+            "phrase": "i think it was something of a miracle",
+            "count": 1
+        }
+    ]
+}

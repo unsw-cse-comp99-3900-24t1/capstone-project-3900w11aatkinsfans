@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "04:21"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it doesn't mean one did or didn't occur i certainly wasn't at one",
+            "count": 1
+        },
+        {
+            "phrase": "this did occur but it's not how you define your whole life",
+            "count": 1
+        }
+    ]
+}

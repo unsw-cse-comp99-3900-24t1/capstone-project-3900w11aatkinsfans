@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "02:19",
+            "03:14",
+            "04:22"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have spent 10k here because so and so told me this is what i needed to do",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't matter do you have what i paid you to retrieve",
+            "count": 1
+        },
+        {
+            "phrase": "owes you one",
+            "count": 1
+        },
+        {
+            "phrase": "i have paid for any debt he may owe",
+            "count": 1
+        }
+    ]
+}

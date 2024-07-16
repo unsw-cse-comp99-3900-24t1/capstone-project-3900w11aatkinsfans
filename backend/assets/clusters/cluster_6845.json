@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:55",
+            "02:56"
+        ],
+        "label": "goodbye"
+    },
+    "clusterList": [
+        {
+            "phrase": "goodbye tony and jessica harris",
+            "count": 1
+        },
+        {
+            "phrase": "welcome back my friends to the show that never ends",
+            "count": 1
+        },
+        {
+            "phrase": "my soap got cancelled",
+            "count": 1
+        }
+    ]
+}

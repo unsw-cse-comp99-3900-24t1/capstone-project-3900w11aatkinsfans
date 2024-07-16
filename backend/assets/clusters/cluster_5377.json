@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "01:43",
+            "02:26",
+            "03:55"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of the greatest intrusions potentially on the rights of americans protected under the fourth amendment of the us constitution in the history of our country",
+            "count": 2
+        },
+        {
+            "phrase": "every passage in the constitution contradicts another passage somewhere in the constitution",
+            "count": 1
+        },
+        {
+            "phrase": "you've got around 30 000 gun deaths in this country per year another 75 000 non-fatal gun wounds half the suicides are by gun and this clown and his four colleagues decided that the 32-year-old ban on handguns in washington d c and the demand that firearms kept in the home be locked or disassembled was unconstitutional based on the second amendment",
+            "count": 1
+        }
+    ]
+}

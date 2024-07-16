@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:30"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the living hindu torso",
+            "count": 1
+        },
+        {
+            "phrase": "the hindu comes to the house of a hindu",
+            "count": 1
+        }
+    ]
+}

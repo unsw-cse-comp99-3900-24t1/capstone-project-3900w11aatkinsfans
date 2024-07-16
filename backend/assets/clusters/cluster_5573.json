@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "03:10",
+            "04:51"
+        ],
+        "label": "150"
+    },
+    "clusterList": [
+        {
+            "phrase": "beautiful tender healthy and happy",
+            "count": 2
+        },
+        {
+            "phrase": "150 percent pleased",
+            "count": 1
+        },
+        {
+            "phrase": "happy and comfortable",
+            "count": 1
+        }
+    ]
+}

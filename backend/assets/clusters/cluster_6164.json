@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:56",
+            "01:42"
+        ],
+        "label": "love"
+    },
+    "clusterList": [
+        {
+            "phrase": "love the sinner hate the sin",
+            "count": 1
+        },
+        {
+            "phrase": "vanity my favourite sin",
+            "count": 1
+        },
+        {
+            "phrase": "how else do you change someone's heart hatred is a spiritual wickedness",
+            "count": 1
+        }
+    ]
+}

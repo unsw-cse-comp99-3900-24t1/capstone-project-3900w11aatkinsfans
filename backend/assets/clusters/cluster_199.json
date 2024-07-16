@@ -1,0 +1,155 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            2,
+            1,
+            4,
+            1,
+            9,
+            4,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:29",
+            "01:00",
+            "01:13",
+            "01:41",
+            "01:43",
+            "02:46",
+            "03:00",
+            "03:14",
+            "03:17",
+            "03:41",
+            "04:06",
+            "04:14",
+            "04:28",
+            "04:33",
+            "04:37",
+            "04:38",
+            "05:04"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "it seems that since you are unable to offer",
+            "count": 4
+        },
+        {
+            "phrase": "if you didn't request the password change",
+            "count": 3
+        },
+        {
+            "phrase": "sign in before you can post messages join this group please update your nickname on the http www domainname com",
+            "count": 2
+        },
+        {
+            "phrase": "username and password do not match",
+            "count": 2
+        },
+        {
+            "phrase": "you have exceeded your user count",
+            "count": 2
+        },
+        {
+            "phrase": "you have not entered the message please go back and try again",
+            "count": 2
+        },
+        {
+            "phrase": "you have not entered the contact person please go back and try again",
+            "count": 2
+        },
+        {
+            "phrase": "you have not entered an email please go back and try again",
+            "count": 2
+        },
+        {
+            "phrase": "you have not entered a name please go back and try again",
+            "count": 2
+        },
+        {
+            "phrase": "your message was successfully sent to its recipients",
+            "count": 2
+        },
+        {
+            "phrase": "yourusername gmail com",
+            "count": 2
+        },
+        {
+            "phrase": "you have a domain or web hosting don't you",
+            "count": 1
+        },
+        {
+            "phrase": "did you get my email i have been emailing you and you have not been responding",
+            "count": 1
+        },
+        {
+            "phrase": "you may now login below",
+            "count": 1
+        },
+        {
+            "phrase": "forgot your password",
+            "count": 1
+        },
+        {
+            "phrase": "click here if you've forgotten your login information",
+            "count": 1
+        },
+        {
+            "phrase": "before you proceed to the following categories we will need to validate your email address",
+            "count": 1
+        },
+        {
+            "phrase": "no reply xxxxxxx com",
+            "count": 1
+        },
+        {
+            "phrase": "we encountered an error sending your mail",
+            "count": 1
+        },
+        {
+            "phrase": "thank you for logging in",
+            "count": 1
+        },
+        {
+            "phrase": "indicated that you have forgotten your password",
+            "count": 1
+        },
+        {
+            "phrase": "the steam servers are currently too busy to handle your request please try again in a few minutes",
+            "count": 1
+        },
+        {
+            "phrase": "log in to you",
+            "count": 1
+        },
+        {
+            "phrase": "if you'd like to reset your password enter the email address we have on record for you",
+            "count": 1
+        },
+        {
+            "phrase": "we need to verify that you really are who you say you are so we've sent you an email it gives you link to reset your password don't forget to check your junk mail folder",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know my password",
+            "count": 1
+        },
+        {
+            "phrase": "this account has been permanently terminated or closed please check the url and try again",
+            "count": 1
+        }
+    ]
+}

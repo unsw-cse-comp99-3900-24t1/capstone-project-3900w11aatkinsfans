@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "01:51",
+            "02:02",
+            "04:06",
+            "04:18",
+            "04:31"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've got quite isolated communities in some of the places that i just named",
+            "count": 2
+        },
+        {
+            "phrase": "we are totally embracing the historical aspect of sanlitun as an enclave we're adding a more cosmopolitan touch to the area",
+            "count": 2
+        },
+        {
+            "phrase": "we have a very safe sanctuary",
+            "count": 1
+        },
+        {
+            "phrase": "it's a unique area with beaches and inland areas and the ecology is extremely diverse",
+            "count": 1
+        }
+    ]
+}

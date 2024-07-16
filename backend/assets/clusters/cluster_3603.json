@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:04"
+        ],
+        "label": "thomas"
+    },
+    "clusterList": [
+        {
+            "phrase": "dewey defeats truman",
+            "count": 2
+        },
+        {
+            "phrase": "thomas e dewey's election as president is a foregone conclusion",
+            "count": 1
+        },
+        {
+            "phrase": "thomas dewey will be elected president of the united states",
+            "count": 1
+        },
+        {
+            "phrase": "elect us and we'll make sure the rich get much richer and tough luck to the rest of you we'll see to it that the constitution doesn't apply to the mucky mucks in our party and come to think of it why do we even need a constitution we'll invent a war and send your kids not ours to be killed and maimed in it we'll appoint only our most unqualified friends to key cabinet posts and then we'll tell em what a great job they're doing when they screw up",
+            "count": 1
+        }
+    ]
+}

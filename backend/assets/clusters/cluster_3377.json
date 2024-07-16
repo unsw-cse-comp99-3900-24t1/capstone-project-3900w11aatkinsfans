@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:51",
+            "02:42",
+            "03:37",
+            "04:49"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for substandard performance",
+            "count": 2
+        },
+        {
+            "phrase": "fully aware of the importance of being efficient",
+            "count": 1
+        },
+        {
+            "phrase": "we are now able to focus on the performance indicators that matter most and proactively determine what actions will yield the most favorable results we use our data to power better business decisions",
+            "count": 1
+        },
+        {
+            "phrase": "measures of performance",
+            "count": 1
+        },
+        {
+            "phrase": "what you can control is your performance",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "04:13",
+            "04:28",
+            "04:42"
+        ],
+        "label": "call"
+    },
+    "clusterList": [
+        {
+            "phrase": "because of their unwillingness to be a part of the solution and knowing that i am duty bound both constitutionally and by statute to balance the budget i am forced to take immediate and unilateral actions to fulfill my responsibilities",
+            "count": 2
+        },
+        {
+            "phrase": "call your representative",
+            "count": 1
+        },
+        {
+            "phrase": "give me control of a nation's money and i care not who makes the laws",
+            "count": 1
+        }
+    ]
+}

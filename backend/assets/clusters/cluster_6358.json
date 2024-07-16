@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:23",
+            "04:32"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's my pick this week",
+            "count": 1
+        },
+        {
+            "phrase": "pickin on ben harper",
+            "count": 1
+        },
+        {
+            "phrase": "where's mighty quinn i want his prediction on how my jets will do this season",
+            "count": 1
+        }
+    ]
+}

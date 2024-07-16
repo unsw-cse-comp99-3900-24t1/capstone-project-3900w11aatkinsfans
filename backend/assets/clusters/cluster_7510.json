@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "02:15",
+            "04:18"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they need to know someone cares and teach them to stay away from drugs",
+            "count": 1
+        },
+        {
+            "phrase": "there were so many diseases and no proper treatment their average life span was just 50",
+            "count": 1
+        },
+        {
+            "phrase": "these patients were able to lead lives without the impact of allergic symptoms and without the use of daily medications to control allergic symptoms",
+            "count": 1
+        }
+    ]
+}

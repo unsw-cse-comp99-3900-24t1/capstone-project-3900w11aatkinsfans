@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:10",
+            "03:38"
+        ],
+        "label": "dubai"
+    },
+    "clusterList": [
+        {
+            "phrase": "if they dumped these securities on the market today their value would go straight to 0",
+            "count": 2
+        },
+        {
+            "phrase": "dubai buying liverpool may not be much of an issue but when it comes to a utility or a major bank it could well be",
+            "count": 1
+        }
+    ]
+}

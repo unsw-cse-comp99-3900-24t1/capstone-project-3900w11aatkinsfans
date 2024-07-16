@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:51",
+            "03:34"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we might move on that sooner than we originally planned to",
+            "count": 1
+        },
+        {
+            "phrase": "if it was in september yeah this would hurt but we have plenty of time to recover from this to get back on track and right the ship so to speak",
+            "count": 1
+        },
+        {
+            "phrase": "we don't really see a recovery until some time in the spring or summer",
+            "count": 1
+        }
+    ]
+}

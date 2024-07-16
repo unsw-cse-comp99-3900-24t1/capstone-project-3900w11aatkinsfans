@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:40",
+            "00:52",
+            "03:48",
+            "04:45"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are a service company that happens to sell",
+            "count": 1
+        },
+        {
+            "phrase": "we're doing all the things we tell our clients not to do",
+            "count": 1
+        },
+        {
+            "phrase": "is it worth risking your job to deal with your customers like that",
+            "count": 1
+        },
+        {
+            "phrase": "it's the elephant that's ignored by all of us daily we sincerely proclaim our values to our staff and our customers and then sell them out as soon as they become inconvenient which unfortunately is often",
+            "count": 1
+        },
+        {
+            "phrase": "we don't want our customers to wait",
+            "count": 1
+        }
+    ]
+}

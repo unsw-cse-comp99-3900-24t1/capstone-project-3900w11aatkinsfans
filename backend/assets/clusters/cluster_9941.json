@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:10"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this song was written for my future wife which is none of you",
+            "count": 1
+        },
+        {
+            "phrase": "it's a beautiful story but i don't know if i could be like that if i had lost my wife and kid i don't know that i could sing that kind of a song",
+            "count": 1
+        }
+    ]
+}

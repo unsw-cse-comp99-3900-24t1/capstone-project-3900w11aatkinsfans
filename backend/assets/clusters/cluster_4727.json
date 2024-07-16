@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:45",
+            "03:51",
+            "04:06"
+        ],
+        "label": "jury"
+    },
+    "clusterList": [
+        {
+            "phrase": "jury nullification is your right",
+            "count": 1
+        },
+        {
+            "phrase": "election commission should disqualify candidates who had submitted wrong and incomplete information",
+            "count": 1
+        },
+        {
+            "phrase": "when a guilty verdict for first-degree murder is rendered the jury is held and asked to decide whether the death penalty should be applied",
+            "count": 1
+        },
+        {
+            "phrase": "grand jury qualification process",
+            "count": 1
+        }
+    ]
+}

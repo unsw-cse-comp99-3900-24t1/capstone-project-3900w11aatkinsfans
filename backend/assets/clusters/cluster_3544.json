@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "00:56",
+            "01:37"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "for 2008 we have 12 wall street forecasts all expect the s amp p index to be up in the year ahead",
+            "count": 4
+        },
+        {
+            "phrase": "and leaves the group broadly on track to make our forecast 3 8bn buy back for the full year",
+            "count": 1
+        }
+    ]
+}

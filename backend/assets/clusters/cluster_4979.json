@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "04:06",
+            "04:13",
+            "05:00"
+        ],
+        "label": "ok"
+    },
+    "clusterList": [
+        {
+            "phrase": "ok its been a long day i'm tired hot and pissed off if you can for just once give me an excuse for your terrible driving i've not heard before i'll consider letting you go",
+            "count": 1
+        },
+        {
+            "phrase": "what the hell man i coulda been driving goddamit you should of just called me on the phone like normal human beings tend to do",
+            "count": 1
+        },
+        {
+            "phrase": "you're welcome to stay the night if you want heaven knows i have the room i'll call the tow truck in the morning for you you could rent a car if you want old sam down at the garage could probably have your car fixed by the time you get back from silver lake",
+            "count": 1
+        },
+        {
+            "phrase": "i've definitely cut back on my driving i'm not taking as many vacations as i would like to",
+            "count": 1
+        }
+    ]
+}

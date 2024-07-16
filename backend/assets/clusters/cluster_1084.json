@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:18",
+            "00:53",
+            "01:03",
+            "01:10",
+            "01:52",
+            "01:55",
+            "02:22",
+            "03:20",
+            "04:19"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's amazing how many club officials read fire brand of the american league",
+            "count": 6
+        },
+        {
+            "phrase": "major league soccer has done an impressive job of bringing an exciting brand of professional soccer to north america",
+            "count": 3
+        },
+        {
+            "phrase": "the popularity and passion for soccer is deeply rooted within our community and we firmly believe our city is more than ready to embrace an mls team over the next few months we will be working closely with the region's soccer community and all levels of government to prepare a comprehensive submission to the league",
+            "count": 3
+        },
+        {
+            "phrase": "there is no doubt in my mind that major league soccer in portland would both add a tremendous amount to the league and have a phenomenally positive impact on our community and state",
+            "count": 1
+        },
+        {
+            "phrase": "we have the most ardent and authentic soccer fan base in the united states and soccer city usa deserves a major league soccer team",
+            "count": 1
+        }
+    ]
+}

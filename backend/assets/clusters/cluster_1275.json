@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:48",
+            "01:02",
+            "01:33",
+            "02:11",
+            "03:10",
+            "03:51",
+            "03:58",
+            "03:59",
+            "04:27",
+            "04:28",
+            "04:38"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "what would it take or you to resist the government's offer",
+            "count": 4
+        },
+        {
+            "phrase": "in return the united states of america would fulfill their commitments",
+            "count": 3
+        },
+        {
+            "phrase": "according to which i had to withdraw from public life i had to make certain gestures and in return the united states would fulfill their commitment",
+            "count": 2
+        },
+        {
+            "phrase": "i would withdraw from public life and make certain gestures and in return the us would fulfil its commitments",
+            "count": 1
+        },
+        {
+            "phrase": "in return the united states of america would fulfil their commitments",
+            "count": 1
+        },
+        {
+            "phrase": "what would it take for you to resist the government's offer",
+            "count": 1
+        }
+    ]
+}

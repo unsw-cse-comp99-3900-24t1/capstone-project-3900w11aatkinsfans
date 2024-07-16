@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:19",
+            "03:06",
+            "03:10",
+            "03:12"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "plastics packaging waste in particular is a very visible part of the waste stream and it's also growing",
+            "count": 2
+        },
+        {
+            "phrase": "the idea behind bioplastic is that you could fill up a bioplastic bag with food waste and throw other bioplastic products like drinks bottles disposable plates and cutlery in a composter and within three months in theory there would be no trace",
+            "count": 1
+        },
+        {
+            "phrase": "synthetic plastics find application in fabricating a wide variety of articles many of which in the past were made from natural products",
+            "count": 1
+        },
+        {
+            "phrase": "the same way as waste vapour is drawn out of this material to make hikers more comfortable so it is able to breathe oxygen into our fuel cell and into contact with the conductive plastic",
+            "count": 1
+        }
+    ]
+}

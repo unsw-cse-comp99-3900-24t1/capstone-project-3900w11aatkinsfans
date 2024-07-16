@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "01:10",
+            "03:14",
+            "03:48",
+            "04:36"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "you've already apologized for having already misread what i had previously written what makes you think that you're correctly understanding what i'm writting now you've got a history of reading into things what you wanted people to have said instead of what they really said i suggest you get over this limitation of yours it's making you look foolish",
+            "count": 2
+        },
+        {
+            "phrase": "i do not intend for this apology to help me evade criticism for my failure",
+            "count": 1
+        },
+        {
+            "phrase": "i will be criticized by all sides for my late act of contrition i accept all of it i deserve it",
+            "count": 1
+        },
+        {
+            "phrase": "i apologize for it i did not know about these remarks but i take responsibility for them i repudiate them i will certainly make sure that nothing like that happens again",
+            "count": 1
+        },
+        {
+            "phrase": "and they change my analysis i will certainly do that addendum i hope it will satisfy you it will not be an apology per se i would like you to take a look at what i do you can judge whether it's sufficient",
+            "count": 1
+        },
+        {
+            "phrase": "how can anyone apologize for the actions of others",
+            "count": 1
+        },
+        {
+            "phrase": "letter of apology",
+            "count": 1
+        }
+    ]
+}

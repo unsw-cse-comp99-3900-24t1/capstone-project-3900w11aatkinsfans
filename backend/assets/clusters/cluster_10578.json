@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "04:08"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for i was hungry and you gave me something to eat i was thirsty and you gave me something to drink i was a stranger and you invited me in i needed clothes and you clothed me i was sick and you looked after me i was in prison and you came to visit me",
+            "count": 1
+        },
+        {
+            "phrase": "lord when did we see you hungry and feed you or thirsty and give you drink when did we see you a stranger and make you welcome naked and clothe you sick or in prison and go to see you",
+            "count": 1
+        }
+    ]
+}

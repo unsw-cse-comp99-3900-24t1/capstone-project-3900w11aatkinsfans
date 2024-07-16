@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "03:00"
+        ],
+        "label": "non-dairy"
+    },
+    "clusterList": [
+        {
+            "phrase": "non-dairy creamer contains milk",
+            "count": 1
+        },
+        {
+            "phrase": "this donor milk is not commonly heard of",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:08",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "mother"
+    },
+    "clusterList": [
+        {
+            "phrase": "bambi's mother got shot right",
+            "count": 3
+        },
+        {
+            "phrase": "mother superior jumped the gun",
+            "count": 2
+        }
+    ]
+}

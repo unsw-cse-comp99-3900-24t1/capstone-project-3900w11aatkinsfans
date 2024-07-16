@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:48",
+            "01:01",
+            "01:07",
+            "02:19",
+            "03:18",
+            "03:22",
+            "03:23",
+            "03:34",
+            "03:43"
+        ],
+        "label": "hurry"
+    },
+    "clusterList": [
+        {
+            "phrase": "hurry up you're too slow",
+            "count": 1
+        },
+        {
+            "phrase": "aaargh it's not going fast enough raaawwwrrr",
+            "count": 1
+        },
+        {
+            "phrase": "hurry grab it now",
+            "count": 1
+        },
+        {
+            "phrase": "uhm dont go fast ok",
+            "count": 1
+        },
+        {
+            "phrase": "hurry up i've got hot water",
+            "count": 1
+        },
+        {
+            "phrase": "hurry up and die will you",
+            "count": 1
+        },
+        {
+            "phrase": "not so fast girly",
+            "count": 1
+        },
+        {
+            "phrase": "hurry up then",
+            "count": 1
+        },
+        {
+            "phrase": "uh i'm a little slow could you just spell it out for me please sir",
+            "count": 1
+        },
+        {
+            "phrase": "go ahead you're faster",
+            "count": 1
+        },
+        {
+            "phrase": "hurry up it's so slow why can't we just get moving",
+            "count": 1
+        },
+        {
+            "phrase": "well now not so fast",
+            "count": 1
+        },
+        {
+            "phrase": "not so fast my friend",
+            "count": 1
+        }
+    ]
+}

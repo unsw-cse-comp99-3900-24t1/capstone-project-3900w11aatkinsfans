@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:58",
+            "04:03"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't like the colleges you have been looking at here is some one who will correct your perspective",
+            "count": 1
+        },
+        {
+            "phrase": "that puts wisconsin at number 18 in the overall u s ranking",
+            "count": 1
+        },
+        {
+            "phrase": "minneapolis is one of the better districts among those that were failing",
+            "count": 1
+        }
+    ]
+}

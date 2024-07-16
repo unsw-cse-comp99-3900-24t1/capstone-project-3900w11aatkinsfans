@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:29",
+            "04:03"
+        ],
+        "label": "london"
+    },
+    "clusterList": [
+        {
+            "phrase": "daily web newspaper of the autism epidemic",
+            "count": 2
+        },
+        {
+            "phrase": "london free press october 31 2006",
+            "count": 1
+        },
+        {
+            "phrase": "links for the day",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "02:39",
+            "04:21",
+            "04:32"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe i heard they were dating again",
+            "count": 1
+        },
+        {
+            "phrase": "like what according to jason they had a mutual breakup",
+            "count": 1
+        },
+        {
+            "phrase": "i'd be afraid if they caught up with him he might say if i can't have her nobody can",
+            "count": 1
+        },
+        {
+            "phrase": "what if she is actually married to that guy that's standing two feet away from her",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:19",
+            "00:41",
+            "00:46",
+            "01:01",
+            "01:19",
+            "01:28",
+            "01:29",
+            "02:13",
+            "02:32",
+            "02:42",
+            "03:27",
+            "04:04",
+            "04:21",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "political commentary with bite",
+            "count": 4
+        },
+        {
+            "phrase": "respectful campaign focused on issues",
+            "count": 2
+        },
+        {
+            "phrase": "given the seriousness of the issues you'd think we could have a serious debate",
+            "count": 2
+        },
+        {
+            "phrase": "created the space for a political solution",
+            "count": 2
+        },
+        {
+            "phrase": "it's posed as a political question",
+            "count": 2
+        },
+        {
+            "phrase": "we could discuss fundamental issues such as religion and leave politics out",
+            "count": 1
+        },
+        {
+            "phrase": "politics of the possible",
+            "count": 1
+        },
+        {
+            "phrase": "debating with honest intentions and an open mind",
+            "count": 1
+        },
+        {
+            "phrase": "taking on a controversial topic",
+            "count": 1
+        },
+        {
+            "phrase": "teach the controversy",
+            "count": 1
+        },
+        {
+            "phrase": "since it is the best means of competing with the body of fact that exists in the minds of the general public it is also the means of establishing a controversy",
+            "count": 1
+        },
+        {
+            "phrase": "been asked by many to step into the political arena once again",
+            "count": 1
+        }
+    ]
+}

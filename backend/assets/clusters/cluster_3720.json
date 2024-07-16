@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:34",
+            "01:12",
+            "01:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was struggling just to keep my head above water i had to eat sleep and dream racing 24 hours a day",
+            "count": 2
+        },
+        {
+            "phrase": "i nearly drank me dead too i had to find that balance between it dying and me dying you know",
+            "count": 1
+        },
+        {
+            "phrase": "once i had inhaled five or six gasps of water i thought my time was getting really short and i was going to be gone",
+            "count": 1
+        },
+        {
+            "phrase": "i thought i had lasted as long as i could and that was it i realized that i was getting closer to the surface of the water and i wasn't dead i was alive so i kicked even harder and faster and got to the surface and i took this great breath of air that i'll never forget",
+            "count": 1
+        }
+    ]
+}

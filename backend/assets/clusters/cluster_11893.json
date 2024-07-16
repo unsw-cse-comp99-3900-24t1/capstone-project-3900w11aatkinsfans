@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:15",
+            "04:21"
+        ],
+        "label": "welcome"
+    },
+    "clusterList": [
+        {
+            "phrase": "welcome to the jungle",
+            "count": 1
+        },
+        {
+            "phrase": "it is awesome like a jungle",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:42",
+            "02:24",
+            "02:25",
+            "03:55"
+        ],
+        "label": "their"
+    },
+    "clusterList": [
+        {
+            "phrase": "their stupid and or ignorant customers",
+            "count": 1
+        },
+        {
+            "phrase": "so it's not about being the first it's just about good business practice to try to give customers as much information about products that they need",
+            "count": 1
+        },
+        {
+            "phrase": "we put customer above everything else profits come later friends come first",
+            "count": 1
+        },
+        {
+            "phrase": "for the purpose of enabling the purchaser to start a business",
+            "count": 1
+        },
+        {
+            "phrase": "it's not crazy to do if you have an established loyal customer base",
+            "count": 1
+        }
+    ]
+}

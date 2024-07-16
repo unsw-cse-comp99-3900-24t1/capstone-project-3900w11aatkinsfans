@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:55"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm redesigning wally west's costume right now and it's terrifying",
+            "count": 1
+        },
+        {
+            "phrase": "wally west is the most perfectly designed costume ever aside from green lantern's costume in my opinion",
+            "count": 1
+        },
+        {
+            "phrase": "this is for the first time that manish has designed a costume for me and his creations are just wonderful",
+            "count": 1
+        }
+    ]
+}

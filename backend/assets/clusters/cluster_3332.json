@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:18",
+            "03:06",
+            "03:28",
+            "04:27"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have 20 out here right now",
+            "count": 1
+        },
+        {
+            "phrase": "we'll have three",
+            "count": 1
+        },
+        {
+            "phrase": "we have many",
+            "count": 1
+        },
+        {
+            "phrase": "we already have one",
+            "count": 1
+        },
+        {
+            "phrase": "the ones we love",
+            "count": 1
+        },
+        {
+            "phrase": "right now we have 56",
+            "count": 1
+        }
+    ]
+}

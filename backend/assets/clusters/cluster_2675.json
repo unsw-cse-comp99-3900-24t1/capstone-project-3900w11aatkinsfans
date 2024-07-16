@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:24",
+            "00:28",
+            "01:09",
+            "03:00",
+            "03:02",
+            "04:18"
+        ],
+        "label": "before"
+    },
+    "clusterList": [
+        {
+            "phrase": "before you get settled in i need you to fill out this form",
+            "count": 1
+        },
+        {
+            "phrase": "the general registrars will follow up with you",
+            "count": 1
+        },
+        {
+            "phrase": "also registered in class 9 by microsoft corporation",
+            "count": 1
+        },
+        {
+            "phrase": "where do i sign",
+            "count": 1
+        },
+        {
+            "phrase": "don't know how or where to register",
+            "count": 1
+        },
+        {
+            "phrase": "how to sign-up for a cash",
+            "count": 1
+        },
+        {
+            "phrase": "create an account",
+            "count": 1
+        }
+    ]
+}

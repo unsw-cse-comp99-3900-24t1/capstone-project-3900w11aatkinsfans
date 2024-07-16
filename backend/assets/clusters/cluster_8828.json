@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "04:08"
+        ],
+        "label": "bride"
+    },
+    "clusterList": [
+        {
+            "phrase": "bride of the monster",
+            "count": 1
+        },
+        {
+            "phrase": "the messenger the story of joan of arc",
+            "count": 1
+        }
+    ]
+}

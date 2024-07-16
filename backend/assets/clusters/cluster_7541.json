@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "04:10",
+            "04:27"
+        ],
+        "label": "traffic"
+    },
+    "clusterList": [
+        {
+            "phrase": "traffic lights are synchronized with each other so your chances of hitting a green are quite good when that's the direction we actually favor",
+            "count": 1
+        },
+        {
+            "phrase": "when you have a lot of traffic lights that are clustered up it's much more difficult to make coordination good in both directions",
+            "count": 1
+        },
+        {
+            "phrase": "the change in left turn phasing is expected to reduce the number of left turn conflicts and thereby improve the safety of the intersection",
+            "count": 1
+        }
+    ]
+}

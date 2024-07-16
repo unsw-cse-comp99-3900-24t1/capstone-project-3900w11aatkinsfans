@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:22",
+            "02:32",
+            "04:18",
+            "04:23"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's something that every kid playing peewee football in eden prairie like i did dreams about someday playing for the vikings so it's great to be out here and be part of the team",
+            "count": 2
+        },
+        {
+            "phrase": "all home games all away games except buffalo because nobody in their right mind willingly goes to buffalo",
+            "count": 1
+        },
+        {
+            "phrase": "with the wcc now having a regular presence in our thursday night showcase college basketball fans will be able to enjoy as many as five games every thursday on espn and espn2",
+            "count": 1
+        }
+    ]
+}

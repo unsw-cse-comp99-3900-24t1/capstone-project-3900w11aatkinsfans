@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "04:33"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not a whole lot going on today",
+            "count": 1
+        },
+        {
+            "phrase": "nope just the usual",
+            "count": 1
+        }
+    ]
+}

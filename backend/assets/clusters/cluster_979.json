@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:41",
+            "00:51",
+            "01:27",
+            "01:32",
+            "02:11",
+            "02:36",
+            "02:51",
+            "03:40",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "my concern is the salinity that will come in through the colorado river into that east matagorda bay",
+            "count": 6
+        },
+        {
+            "phrase": "this will help keep the mouth of the river open it'll be good for drainage and i think it will be good for marine life",
+            "count": 6
+        },
+        {
+            "phrase": "we cannot make it rain in san diego and we cannot stop the cuts to our imported water but the carlsbad desalination plant will give us drought-proof water that is under our control here in san diego the coastal commission must act without delay so we can construct this facility the entire region is counting on this project",
+            "count": 2
+        },
+        {
+            "phrase": "but it's also very dry in the carson river",
+            "count": 1
+        }
+    ]
+}

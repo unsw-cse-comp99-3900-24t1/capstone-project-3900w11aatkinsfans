@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "01:51",
+            "02:46",
+            "04:13"
+        ],
+        "label": "certificate"
+    },
+    "clusterList": [
+        {
+            "phrase": "certificate of public necessity",
+            "count": 1
+        },
+        {
+            "phrase": "congress shall make no law respecting the establishment of religion or prohibiting the free exercise thereof",
+            "count": 1
+        },
+        {
+            "phrase": "the senators and representatives shall be bound by oath or affirmation to support this constitution but no religious test shall ever be required as a qualification to any office or public trust under the united states",
+            "count": 1
+        },
+        {
+            "phrase": "the u s constitution prohibits a religious test for public office but that is precisely what is being posed now romney is well aware that an unconstitutional religious test is being applied to him",
+            "count": 1
+        }
+    ]
+}

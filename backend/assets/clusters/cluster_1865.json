@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:10",
+            "01:14",
+            "01:20",
+            "01:47",
+            "02:02",
+            "02:09",
+            "04:19"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "well sometimes dreams can turn into nightmares lou",
+            "count": 3
+        },
+        {
+            "phrase": "my worst nightmare",
+            "count": 2
+        },
+        {
+            "phrase": "stop causing nightmares",
+            "count": 1
+        },
+        {
+            "phrase": "do one thing each day that scares you",
+            "count": 1
+        },
+        {
+            "phrase": "parents family and friends an ongoing nightmare i am sick and tired of the daily reminder of this torment and loss",
+            "count": 1
+        },
+        {
+            "phrase": "now you've all had nightmares right",
+            "count": 1
+        }
+    ]
+}

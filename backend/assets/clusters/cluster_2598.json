@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:24",
+            "01:10",
+            "02:13",
+            "02:33",
+            "03:43"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i feel so lucky tonight",
+            "count": 1
+        },
+        {
+            "phrase": "it will be the happiest day of my life it's going to be crazy that's what i'm looking forward to and it's all the better it's in ann arbor",
+            "count": 1
+        },
+        {
+            "phrase": "oh what a beautiful morning",
+            "count": 1
+        },
+        {
+            "phrase": "this is the first day of my life",
+            "count": 1
+        },
+        {
+            "phrase": "my wife will be happy",
+            "count": 1
+        },
+        {
+            "phrase": "if you love clouds and low-hanging skies then today was a wonderful day",
+            "count": 1
+        },
+        {
+            "phrase": "love in the morning 6am-11am",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:01"
+        ],
+        "label": "its"
+    },
+    "clusterList": [
+        {
+            "phrase": "its ok wats better to hold on tight to me or fall off the bike",
+            "count": 1
+        },
+        {
+            "phrase": "fall off the bike",
+            "count": 1
+        },
+        {
+            "phrase": "you should probably go get your sandals on before you get on the bike",
+            "count": 1
+        }
+    ]
+}

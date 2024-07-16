@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:40"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the museum's you can't take photographs here",
+            "count": 1
+        },
+        {
+            "phrase": "please don't take any photographs in here",
+            "count": 1
+        }
+    ]
+}

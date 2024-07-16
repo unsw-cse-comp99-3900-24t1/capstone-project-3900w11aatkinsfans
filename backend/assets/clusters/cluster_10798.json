@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:55"
+        ],
+        "label": "hello"
+    },
+    "clusterList": [
+        {
+            "phrase": "hello i'm ringing on behalf of telstra to check whether you are still listed as using telstra services",
+            "count": 1
+        },
+        {
+            "phrase": "yes and i am never using your company again",
+            "count": 1
+        }
+    ]
+}

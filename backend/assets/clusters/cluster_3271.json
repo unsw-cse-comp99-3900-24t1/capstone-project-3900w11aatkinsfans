@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "02:25",
+            "04:04",
+            "04:28",
+            "04:46"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "rumors of our progress have been greatly exaggerated",
+            "count": 2
+        },
+        {
+            "phrase": "so the rumors were true",
+            "count": 1
+        },
+        {
+            "phrase": "i wonder how the rumors came about",
+            "count": 1
+        },
+        {
+            "phrase": "the rumors which began in",
+            "count": 1
+        },
+        {
+            "phrase": "are overreacting to rumors",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:22",
+            "03:24"
+        ],
+        "label": "hello"
+    },
+    "clusterList": [
+        {
+            "phrase": "hello wtf oh crap the punter just tore his acl ok thanks",
+            "count": 1
+        },
+        {
+            "phrase": "knock eli's block off broooooski",
+            "count": 1
+        }
+    ]
+}

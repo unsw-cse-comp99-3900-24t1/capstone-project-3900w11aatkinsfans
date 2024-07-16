@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:57",
+            "01:35",
+            "02:42",
+            "02:51",
+            "03:13",
+            "04:03",
+            "04:22",
+            "04:36",
+            "04:51"
+        ],
+        "label": "change"
+    },
+    "clusterList": [
+        {
+            "phrase": "dream as if you'll live forever live as if you'll die today",
+            "count": 3
+        },
+        {
+            "phrase": "i'm going to live my own life for a change",
+            "count": 2
+        },
+        {
+            "phrase": "change of living",
+            "count": 1
+        },
+        {
+            "phrase": "this is my life",
+            "count": 1
+        },
+        {
+            "phrase": "you live and let others die",
+            "count": 1
+        },
+        {
+            "phrase": "and when you are living your own life what will you do",
+            "count": 1
+        },
+        {
+            "phrase": "you're living my dream life",
+            "count": 1
+        },
+        {
+            "phrase": "and live a life of love",
+            "count": 1
+        },
+        {
+            "phrase": "do this and you will live",
+            "count": 1
+        },
+        {
+            "phrase": "today is the only day that belongs to me i will live it the best way i know how",
+            "count": 1
+        }
+    ]
+}

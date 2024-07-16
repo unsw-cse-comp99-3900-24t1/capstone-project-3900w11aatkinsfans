@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the staff are friendly but a little cheeky",
+            "count": 1
+        },
+        {
+            "phrase": "the staff is pretty good looking",
+            "count": 1
+        }
+    ]
+}

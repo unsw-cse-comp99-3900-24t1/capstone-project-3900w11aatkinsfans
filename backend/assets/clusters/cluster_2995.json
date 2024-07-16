@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:09",
+            "00:41",
+            "00:56",
+            "01:47",
+            "03:18"
+        ],
+        "label": "yah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yah i just found it looks kinda interesting and familiar",
+            "count": 1
+        },
+        {
+            "phrase": "will look into it for next version",
+            "count": 1
+        },
+        {
+            "phrase": "this looks cool i'm going to check it out",
+            "count": 1
+        },
+        {
+            "phrase": "awesome creation check out",
+            "count": 1
+        },
+        {
+            "phrase": "cool i'll check it out",
+            "count": 1
+        },
+        {
+            "phrase": "i'm gonna check it out okay",
+            "count": 1
+        }
+    ]
+}

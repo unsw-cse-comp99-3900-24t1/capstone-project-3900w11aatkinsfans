@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "03:16",
+            "03:18",
+            "04:10"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is it funky enough",
+            "count": 1
+        },
+        {
+            "phrase": "it wasn't too smooth out there i've been thinking about that all day",
+            "count": 1
+        },
+        {
+            "phrase": "a bit messy but",
+            "count": 1
+        },
+        {
+            "phrase": "funky and cute",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:22",
+            "03:24"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a dead end town",
+            "count": 1
+        },
+        {
+            "phrase": "like a ghost town",
+            "count": 1
+        },
+        {
+            "phrase": "parts of the old city of hebron have turned into a ghost town and we're doing all we can to try and restore it",
+            "count": 1
+        }
+    ]
+}

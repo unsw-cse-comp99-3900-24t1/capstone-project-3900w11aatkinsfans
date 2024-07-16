@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:29",
+            "04:38"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we do not need to discourage immigration",
+            "count": 1
+        },
+        {
+            "phrase": "we're just really encouraging people not to travel if they don't have to",
+            "count": 1
+        },
+        {
+            "phrase": "they shouldn't be going home in august while travelers in america are finding it harder and harder to go anywhere",
+            "count": 1
+        }
+    ]
+}

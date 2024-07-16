@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:02",
+            "02:01",
+            "02:20",
+            "03:01",
+            "03:06",
+            "04:23"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah i was surprised it got so big that we had to do it somewhere like this",
+            "count": 4
+        },
+        {
+            "phrase": "that was big because even though it was early in the round it really kept my momentum going",
+            "count": 3
+        },
+        {
+            "phrase": "it was about eight-foot long",
+            "count": 1
+        },
+        {
+            "phrase": "nobody could have thought it was going to get this big",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "02:46"
+        ],
+        "label": "ask"
+    },
+    "clusterList": [
+        {
+            "phrase": "ask me when i'm going to get engaged",
+            "count": 2
+        },
+        {
+            "phrase": "i didn't write anything yesterday because i was otherwise engaged",
+            "count": 1
+        }
+    ]
+}

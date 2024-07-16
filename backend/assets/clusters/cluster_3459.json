@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "01:01",
+            "02:10",
+            "02:28",
+            "02:42"
+        ],
+        "label": "telling"
+    },
+    "clusterList": [
+        {
+            "phrase": "telling developing countries that they must do it when they themselves are not is just not acceptable",
+            "count": 3
+        },
+        {
+            "phrase": "the aim of the policy change is not to punish folks",
+            "count": 1
+        },
+        {
+            "phrase": "that is our policy",
+            "count": 1
+        },
+        {
+            "phrase": "cannot be the only criterion guiding policy",
+            "count": 1
+        }
+    ]
+}

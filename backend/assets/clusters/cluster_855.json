@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:38",
+            "01:07",
+            "01:13",
+            "02:01",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:45",
+            "04:51",
+            "04:56"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the population bomb",
+            "count": 10
+        },
+        {
+            "phrase": "target that explosion and fire torpedoz",
+            "count": 1
+        },
+        {
+            "phrase": "the bomb they dropped on pearl harbor",
+            "count": 1
+        },
+        {
+            "phrase": "like a bomb going off",
+            "count": 1
+        },
+        {
+            "phrase": "from the fission bombs",
+            "count": 1
+        },
+        {
+            "phrase": "simply talking about bombs in an airport",
+            "count": 1
+        },
+        {
+            "phrase": "bomb bomb bomb bomb bomb iran",
+            "count": 1
+        },
+        {
+            "phrase": "ticking time bomb",
+            "count": 1
+        }
+    ]
+}

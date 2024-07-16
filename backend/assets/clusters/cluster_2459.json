@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "03:59",
+            "04:32"
+        ],
+        "label": "said"
+    },
+    "clusterList": [
+        {
+            "phrase": "said i wish i could take credit for that but i can't because it's not about me it's about america it's about the people of germany and the people of europe looking for a new hope new relationships as we go forward in the world so he expressly said that it's not about me",
+            "count": 6
+        },
+        {
+            "phrase": "it's not about me it's about america",
+            "count": 1
+        }
+    ]
+}

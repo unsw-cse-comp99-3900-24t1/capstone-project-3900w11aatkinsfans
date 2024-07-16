@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "01:47",
+            "02:46",
+            "03:59"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these students have put in the hard work and commitment to graduate in their respective industries this ceremony is a chance for all of us to acknowledge and celebrate their skills and achievements they deserve our support and encouragement for the future",
+            "count": 1
+        },
+        {
+            "phrase": "we are very fortunate to have faculty who are making important contributions to their fields and involving undergraduates in their research and scholarship",
+            "count": 1
+        },
+        {
+            "phrase": "it's important to us that they feel like full-fledged members of our honors program community when they arrive in their junior year",
+            "count": 1
+        },
+        {
+            "phrase": "we sincerely thank sa tab grant harrison and melissa mittiga in their support of the scholarship",
+            "count": 1
+        }
+    ]
+}

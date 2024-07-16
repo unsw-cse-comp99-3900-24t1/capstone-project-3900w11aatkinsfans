@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:34",
+            "00:48",
+            "01:10",
+            "01:11",
+            "01:14",
+            "04:04",
+            "04:37",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have a lot of expertise in the console area where we're very-headed in addition to pc and online",
+            "count": 3
+        },
+        {
+            "phrase": "what i will say is as a games designer i'm very excited about net connectivity",
+            "count": 2
+        },
+        {
+            "phrase": "we initially thought flash flex would be easier to start with but in the end it was harder to do certain functions",
+            "count": 1
+        },
+        {
+            "phrase": "what about developers",
+            "count": 1
+        },
+        {
+            "phrase": "andy the programmers at microsoft tell me that managed code is a ton easier to write mostly cause you don't have to do so much worrying about memory and all that at least that's what they tell me the downside performance memory usage and also engineering tools to help figure out where bugs are and all that",
+            "count": 1
+        },
+        {
+            "phrase": "things go well with the developers because net code is a lot nicer than flash stuff",
+            "count": 1
+        }
+    ]
+}

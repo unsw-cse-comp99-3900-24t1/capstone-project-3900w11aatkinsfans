@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "03:35"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because god designed us that way",
+            "count": 1
+        },
+        {
+            "phrase": "because we wanted to create something",
+            "count": 1
+        }
+    ]
+}

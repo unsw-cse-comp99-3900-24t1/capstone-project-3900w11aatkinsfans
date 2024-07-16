@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            17
+        ],
+        "xLabels": [
+            "00:09",
+            "02:25",
+            "02:51"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "ctl00 logincontent loginview1 login1 username",
+            "count": 6
+        },
+        {
+            "phrase": "ctl00 logincontent loginview1 login1 password",
+            "count": 6
+        },
+        {
+            "phrase": "ctl00 logincontent loginview1 login1 rememberme",
+            "count": 3
+        },
+        {
+            "phrase": "one login for the whole of your authentication",
+            "count": 1
+        },
+        {
+            "phrase": "select username password from account",
+            "count": 1
+        },
+        {
+            "phrase": "ctl00 logincontent loginview1 login1 createuserlink",
+            "count": 1
+        },
+        {
+            "phrase": "ctl00 logincontent loginview1 login1 passwordrecoverylink",
+            "count": 1
+        }
+    ]
+}

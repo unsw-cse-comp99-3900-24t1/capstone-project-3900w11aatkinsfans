@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:14",
+            "02:51",
+            "04:07"
+        ],
+        "label": "fighter"
+    },
+    "clusterList": [
+        {
+            "phrase": "fighter of the year",
+            "count": 1
+        },
+        {
+            "phrase": "i am a fighter i will fight for whoever the party fields as a candidate",
+            "count": 1
+        },
+        {
+            "phrase": "i'm trying not to work myself up so much that i'm in the ufc",
+            "count": 1
+        },
+        {
+            "phrase": "i was a fighter pilot",
+            "count": 1
+        },
+        {
+            "phrase": "the truth is i don't really care if i fight in the ufc or somewhere else",
+            "count": 1
+        }
+    ]
+}

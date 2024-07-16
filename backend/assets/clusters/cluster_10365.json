@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "04:51"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "they're throwing so much money around it's easy to lose your mind",
+            "count": 1
+        },
+        {
+            "phrase": "so as far as what i'm hearing it's some kind of financial thing",
+            "count": 1
+        }
+    ]
+}

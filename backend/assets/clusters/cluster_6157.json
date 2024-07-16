@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:13",
+            "04:54"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you sure you want to delete this event",
+            "count": 2
+        },
+        {
+            "phrase": "return confirm are you sure you wish to delete this item",
+            "count": 1
+        }
+    ]
+}

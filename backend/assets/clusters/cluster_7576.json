@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "03:18",
+            "04:35"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this that the other thing",
+            "count": 1
+        },
+        {
+            "phrase": "if you say one more thing",
+            "count": 1
+        },
+        {
+            "phrase": "the next thing you know it adds up",
+            "count": 1
+        }
+    ]
+}

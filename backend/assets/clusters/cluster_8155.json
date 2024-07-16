@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "02:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fire department even told us to paint our address numbers on the alley side because that's their first line of response",
+            "count": 1
+        },
+        {
+            "phrase": "we do know that there were shots fired in the residential neighborhood and we responded and that's how it all came out",
+            "count": 1
+        }
+    ]
+}

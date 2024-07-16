@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:24",
+            "01:47",
+            "01:51",
+            "02:07",
+            "04:18",
+            "04:45",
+            "04:50"
+        ],
+        "label": "f"
+    },
+    "clusterList": [
+        {
+            "phrase": "me i'm ok with that",
+            "count": 3
+        },
+        {
+            "phrase": "f cking stupid",
+            "count": 2
+        },
+        {
+            "phrase": "i'm with stupid",
+            "count": 2
+        },
+        {
+            "phrase": "stupid answer for stupid question",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "04:15"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but this is the only way out",
+            "count": 1
+        },
+        {
+            "phrase": "that one way",
+            "count": 1
+        }
+    ]
+}

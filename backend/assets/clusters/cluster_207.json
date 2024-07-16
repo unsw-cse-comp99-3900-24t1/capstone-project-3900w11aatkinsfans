@@ -1,0 +1,125 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            15,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:05",
+            "00:08",
+            "00:18",
+            "00:33",
+            "00:51",
+            "00:57",
+            "01:06",
+            "01:15",
+            "01:34",
+            "02:59",
+            "03:02",
+            "03:06",
+            "03:17",
+            "03:28",
+            "04:01",
+            "04:07",
+            "04:09",
+            "04:22",
+            "04:28"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "class of one",
+            "count": 15
+        },
+        {
+            "phrase": "one of them",
+            "count": 7
+        },
+        {
+            "phrase": "one two three go",
+            "count": 2
+        },
+        {
+            "phrase": "one of two",
+            "count": 1
+        },
+        {
+            "phrase": "at first glance the 1",
+            "count": 1
+        },
+        {
+            "phrase": "back at one",
+            "count": 1
+        },
+        {
+            "phrase": "2 out of",
+            "count": 1
+        },
+        {
+            "phrase": "it is a",
+            "count": 1
+        },
+        {
+            "phrase": "two of a kind",
+            "count": 1
+        },
+        {
+            "phrase": "1 of 1",
+            "count": 1
+        },
+        {
+            "phrase": "one of a kind",
+            "count": 1
+        },
+        {
+            "phrase": "just that right one",
+            "count": 1
+        },
+        {
+            "phrase": "one two three",
+            "count": 1
+        },
+        {
+            "phrase": "three two one yes",
+            "count": 1
+        },
+        {
+            "phrase": "a loving one",
+            "count": 1
+        },
+        {
+            "phrase": "one at a time",
+            "count": 1
+        },
+        {
+            "phrase": "the big one",
+            "count": 1
+        },
+        {
+            "phrase": "the one and only",
+            "count": 1
+        }
+    ]
+}

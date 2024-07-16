@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:25",
+            "00:52",
+            "04:13",
+            "04:29",
+            "04:36",
+            "04:45"
+        ],
+        "label": "lake"
+    },
+    "clusterList": [
+        {
+            "phrase": "lake of the ozarks is one of the largest and most popular recreational lakes in the midwest",
+            "count": 3
+        },
+        {
+            "phrase": "day hikes and a picnic at lookout rock sure staying in the woods for days on end no thank you",
+            "count": 1
+        },
+        {
+            "phrase": "you're a long way from home if you don't mind me asking what's in silver lake",
+            "count": 1
+        },
+        {
+            "phrase": "i'd rather come to this lake than any of the other ones so i'm glad that there's a beach again where i can bring him",
+            "count": 1
+        },
+        {
+            "phrase": "i like to be out at lakes and just enjoy the scenery",
+            "count": 1
+        }
+    ]
+}

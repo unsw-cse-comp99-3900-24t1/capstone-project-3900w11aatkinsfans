@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:48",
+            "02:19",
+            "03:56",
+            "04:54"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and where do you think your doing",
+            "count": 1
+        },
+        {
+            "phrase": "and who do you think you're going",
+            "count": 1
+        },
+        {
+            "phrase": "and who do you think your going",
+            "count": 1
+        },
+        {
+            "phrase": "where are you going with this",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going someplace they want me that's how i look at it",
+            "count": 1
+        },
+        {
+            "phrase": "i thought where am i going with this",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "04:05",
+            "04:28",
+            "04:46"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two hundred and fifty years is of reserves should say gosh we're in good shape we got energy available right here in the united states of america",
+            "count": 1
+        },
+        {
+            "phrase": "on capitol hill many have ignored the obvious and stood in the way of more domestic energy production",
+            "count": 1
+        },
+        {
+            "phrase": "hot flat and crowded why we need a green revolution and how it can renew america",
+            "count": 1
+        },
+        {
+            "phrase": "what if a candidate for president said that everyone will need to make sacrifices either by paying more for energy or using less energy to help protect the environment would that make a difference in whether or not you voted for the candidate",
+            "count": 1
+        }
+    ]
+}

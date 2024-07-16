@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:11",
+            "00:23",
+            "00:39",
+            "00:52",
+            "00:56",
+            "01:13",
+            "01:34",
+            "01:37",
+            "02:01",
+            "02:05",
+            "02:18",
+            "03:23",
+            "03:29",
+            "04:28"
+        ],
+        "label": "common"
+    },
+    "clusterList": [
+        {
+            "phrase": "have another drink on me",
+            "count": 3
+        },
+        {
+            "phrase": "let me have what you're drinking i want to get loaded too",
+            "count": 3
+        },
+        {
+            "phrase": "how about a beer",
+            "count": 2
+        },
+        {
+            "phrase": "common ma can i get a coffee i am too old enough to drink",
+            "count": 1
+        },
+        {
+            "phrase": "i want some coke",
+            "count": 1
+        },
+        {
+            "phrase": "can i get you something to drink",
+            "count": 1
+        },
+        {
+            "phrase": "and get me a glass of water",
+            "count": 1
+        },
+        {
+            "phrase": "re i so need a drink tonight anyone else i always have to wait for the weekend we need to start doing this on fridays rebecca",
+            "count": 1
+        },
+        {
+            "phrase": "would you please bring me a little water in a cup",
+            "count": 1
+        },
+        {
+            "phrase": "i'll make you a smoothie",
+            "count": 1
+        },
+        {
+            "phrase": "hold my beer a second i want to try something",
+            "count": 1
+        },
+        {
+            "phrase": "i've had a few beers we can go in a while let me drink some water eat something",
+            "count": 1
+        },
+        {
+            "phrase": "that glass is half full would you like a drink take a drink",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            4
+        ],
+        "xLabels": [
+            "02:41",
+            "02:46",
+            "03:34",
+            "04:54"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "creative commons friendly",
+            "count": 3
+        },
+        {
+            "phrase": "new school vle summer 08 online project blog more on the nonprofit commons",
+            "count": 2
+        },
+        {
+            "phrase": "the pundit is designed to give young people their first shot at being published in an open field with little barriers licensing the pundit under creative commons enables us to utilise their work without needing to take all creative rights away from the individual author",
+            "count": 2
+        },
+        {
+            "phrase": "flickr commons project",
+            "count": 1
+        }
+    ]
+}

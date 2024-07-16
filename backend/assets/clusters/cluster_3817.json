@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "03:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the file you are trying to open filename xls is in different format thatn specified by the file extension verify that the file is not corrupted and is from a trusted source before opening the file do you want to open the file now",
+            "count": 1
+        },
+        {
+            "phrase": "the file you are trying to open filename xls is in different format gt thatn gt specified by the file extension verify that the file is not corrupted and gt is gt from a trusted source before opening the file do you want to open the gt file gt now",
+            "count": 1
+        },
+        {
+            "phrase": "the file you are trying to open filename xls is in different format gt gt thatn gt gt specified by the file extension verify that the file is not corrupted and gt gt is gt gt from a trusted source before opening the file do you want to open the gt gt file gt gt now",
+            "count": 1
+        },
+        {
+            "phrase": "the file you are trying to open filename xls is in different format gt gt gt thatn gt gt gt specified by the file extension verify that the file is not corrupted and gt gt gt is gt gt gt from a trusted source before opening the file do you want to open the gt gt gt file gt gt gt now",
+            "count": 1
+        },
+        {
+            "phrase": "mailbox has an invalid format",
+            "count": 1
+        }
+    ]
+}

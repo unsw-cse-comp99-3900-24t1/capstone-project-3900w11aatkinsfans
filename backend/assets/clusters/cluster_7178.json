@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "02:05",
+            "03:06"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so you think you're a choreographer",
+            "count": 1
+        },
+        {
+            "phrase": "i can tell how a man would be in bed by how he dances",
+            "count": 1
+        },
+        {
+            "phrase": "this is perhaps because dance music engages the dancer's mind",
+            "count": 1
+        }
+    ]
+}

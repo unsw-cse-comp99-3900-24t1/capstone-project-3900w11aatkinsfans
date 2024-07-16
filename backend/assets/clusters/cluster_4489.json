@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:28",
+            "01:52",
+            "04:27"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "no parking construction zone",
+            "count": 2
+        },
+        {
+            "phrase": "we just sit out here and wait for cars to park it's kind of hard in the morning because we have to put up the signs and stuff",
+            "count": 1
+        },
+        {
+            "phrase": "you don't walk along the main street of hamilton and expect to get away with it",
+            "count": 1
+        }
+    ]
+}

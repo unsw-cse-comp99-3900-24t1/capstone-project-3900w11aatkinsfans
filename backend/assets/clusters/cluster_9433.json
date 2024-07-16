@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "03:46"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my sister said she wouldn't come unless i came down",
+            "count": 1
+        },
+        {
+            "phrase": "she has always been there for me and i thought this was a good chance to do something nice for her",
+            "count": 1
+        }
+    ]
+}

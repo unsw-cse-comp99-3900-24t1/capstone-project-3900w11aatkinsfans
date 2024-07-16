@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "04:28"
+        ],
+        "label": "flying"
+    },
+    "clusterList": [
+        {
+            "phrase": "flying saucers serious business",
+            "count": 2
+        },
+        {
+            "phrase": "flying saucers are the way to go",
+            "count": 1
+        }
+    ]
+}

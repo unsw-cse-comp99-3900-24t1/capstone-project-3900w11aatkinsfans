@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:41",
+            "02:23"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've seen that come on track in the latter part of the second quarter but not enough to affect it",
+            "count": 1
+        },
+        {
+            "phrase": "the second-quarter figures may have been well up on the first quarter but this is a clearing in the middle of the forest the fact that this is all unfolding over a year or two rather than two consecutive quarters doesn't make it any less painful",
+            "count": 1
+        },
+        {
+            "phrase": "it picked up a bit in the first quarter of this year",
+            "count": 1
+        }
+    ]
+}

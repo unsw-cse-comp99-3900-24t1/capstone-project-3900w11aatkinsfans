@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:10",
+            "02:20",
+            "03:01",
+            "04:23",
+            "04:28"
+        ],
+        "label": "step"
+    },
+    "clusterList": [
+        {
+            "phrase": "step up 2 the streets",
+            "count": 4
+        },
+        {
+            "phrase": "take back roads to get there",
+            "count": 1
+        },
+        {
+            "phrase": "but she goes a different path and that's not the path way that i've taken",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            4,
+            2,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "00:53",
+            "01:15",
+            "01:18",
+            "01:22",
+            "01:48",
+            "02:00",
+            "03:06",
+            "03:19",
+            "03:23",
+            "04:32"
+        ],
+        "label": "modern"
+    },
+    "clusterList": [
+        {
+            "phrase": "modern games are about coddling the player so they have fun",
+            "count": 10
+        },
+        {
+            "phrase": "the current system of classification comes from a time when video games were in their infancy",
+            "count": 4
+        },
+        {
+            "phrase": "the games market has simply outgrown the classification system",
+            "count": 4
+        },
+        {
+            "phrase": "role-playing games offering a new reality",
+            "count": 1
+        },
+        {
+            "phrase": "video games were not invented yet",
+            "count": 1
+        }
+    ]
+}

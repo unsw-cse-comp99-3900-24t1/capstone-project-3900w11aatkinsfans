@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:10"
+        ],
+        "label": "can"
+    },
+    "clusterList": [
+        {
+            "phrase": "can we please talk about this when i'm not trying to drive through traffic",
+            "count": 1
+        },
+        {
+            "phrase": "i could be sitting in the same traffic jam with dozens of other drivers but we'll each respond differently to the situation",
+            "count": 1
+        }
+    ]
+}

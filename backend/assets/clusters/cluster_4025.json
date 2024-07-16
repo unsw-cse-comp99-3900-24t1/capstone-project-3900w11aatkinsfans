@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "02:22",
+            "02:32",
+            "03:24",
+            "04:22"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "so i wasn't disappointed i just wanted to get everything figured out about where i was going to be afterwards and i'm glad it ended up being here",
+            "count": 2
+        },
+        {
+            "phrase": "to be able to come in here today to walk into that dressing room it was a great feeling",
+            "count": 2
+        },
+        {
+            "phrase": "i wasn't there for too long because when i got the call i was excited got on a plane and came right back i couldn't care less about the vacation",
+            "count": 1
+        }
+    ]
+}

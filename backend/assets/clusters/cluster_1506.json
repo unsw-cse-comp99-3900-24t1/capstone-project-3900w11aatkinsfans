@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "01:07",
+            "02:01",
+            "02:05",
+            "02:57",
+            "03:18",
+            "04:00",
+            "04:35",
+            "04:58"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll never get another chance",
+            "count": 1
+        },
+        {
+            "phrase": "one day you're going to be goaded into a challenge you can't win",
+            "count": 1
+        },
+        {
+            "phrase": "um ok fair enough but if i win",
+            "count": 1
+        },
+        {
+            "phrase": "and you will win through don't give up",
+            "count": 1
+        },
+        {
+            "phrase": "he said just try to win more than you lose",
+            "count": 1
+        },
+        {
+            "phrase": "don't be carried away by your successive victories",
+            "count": 1
+        },
+        {
+            "phrase": "don't be taken away by your successive victories",
+            "count": 1
+        },
+        {
+            "phrase": "but i must keep going i can't give up",
+            "count": 1
+        },
+        {
+            "phrase": "i'm winning but my numbers aren't as high as i want them to be",
+            "count": 1
+        },
+        {
+            "phrase": "you're not going to win every time that's just the nature of the beast",
+            "count": 1
+        },
+        {
+            "phrase": "you don't ever give up you don't quit golf is a game about forgetting what just happened and trying to stay in the moment fighting for everything you get",
+            "count": 1
+        }
+    ]
+}

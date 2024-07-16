@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:29",
+            "00:36",
+            "01:10",
+            "01:12",
+            "01:13",
+            "02:43",
+            "03:51",
+            "04:23"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but say it doesn't we're still under a lot of pressure to get a park that is our own that isn't going to go away so my hope is that we'll find a way to make it happen it has not been as easy as i thought it would be",
+            "count": 5
+        },
+        {
+            "phrase": "it's a whole different design of a park so it's going to be a new experience",
+            "count": 2
+        },
+        {
+            "phrase": "it is close to a park where we do our walking",
+            "count": 1
+        },
+        {
+            "phrase": "a road through a park is not a good thing it's not adding value to the park",
+            "count": 1
+        },
+        {
+            "phrase": "it runs contrary to common sense and the whole goal we're trying to achieve with a park is a place you can go and get back to nature and in the outdoors",
+            "count": 1
+        },
+        {
+            "phrase": "and now there is a game park a national park as a direct result of christian's life it's a wonderful wonderful endorsement",
+            "count": 1
+        },
+        {
+            "phrase": "until we're used to the spatial feeling of it we're still going to park very slowly",
+            "count": 1
+        }
+    ]
+}

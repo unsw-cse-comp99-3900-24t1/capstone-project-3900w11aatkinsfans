@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:44",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know what you are talking about but you'd better shut that mouth of yours before i",
+            "count": 1
+        },
+        {
+            "phrase": "sorry ken see i only have half of my mouth to speak now",
+            "count": 1
+        },
+        {
+            "phrase": "shut your mouth or i'm gonna fuck it",
+            "count": 1
+        }
+    ]
+}

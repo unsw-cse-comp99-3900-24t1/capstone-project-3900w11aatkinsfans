@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:23",
+            "00:33",
+            "00:56",
+            "01:00",
+            "01:51",
+            "02:01",
+            "02:42",
+            "02:47",
+            "03:38",
+            "03:51",
+            "03:55",
+            "04:04",
+            "04:06"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a block wall",
+            "count": 3
+        },
+        {
+            "phrase": "these four walls",
+            "count": 3
+        },
+        {
+            "phrase": "new walls must not divide us",
+            "count": 2
+        },
+        {
+            "phrase": "collapsing new buildings",
+            "count": 1
+        },
+        {
+            "phrase": "tear this wall down",
+            "count": 1
+        },
+        {
+            "phrase": "these white walls",
+            "count": 1
+        },
+        {
+            "phrase": "wall of separation",
+            "count": 1
+        },
+        {
+            "phrase": "tear down that wall",
+            "count": 1
+        },
+        {
+            "phrase": "the breaking down of walls",
+            "count": 1
+        },
+        {
+            "phrase": "tear down this wall",
+            "count": 1
+        },
+        {
+            "phrase": "the great wall",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:32",
+            "02:15",
+            "02:48",
+            "04:19",
+            "04:28",
+            "04:46",
+            "05:00"
+        ],
+        "label": "boys"
+    },
+    "clusterList": [
+        {
+            "phrase": "boys i need more calories",
+            "count": 1
+        },
+        {
+            "phrase": "live the healthy way eat five fruits and veggies a day",
+            "count": 1
+        },
+        {
+            "phrase": "run 10 miles a day how about that",
+            "count": 1
+        },
+        {
+            "phrase": "fill your hungry belly with rocks and get conceivin",
+            "count": 1
+        },
+        {
+            "phrase": "i want to be thin so i am not fat",
+            "count": 1
+        },
+        {
+            "phrase": "eat at least",
+            "count": 1
+        },
+        {
+            "phrase": "i do diet and exercise but this excess skin doesn't seem to go away",
+            "count": 1
+        },
+        {
+            "phrase": "you have to have a good lifestyle with diet and exercise",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:00",
+            "02:22",
+            "04:03",
+            "04:32"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "every 38 seconds a marijuana smoker is arrested",
+            "count": 2
+        },
+        {
+            "phrase": "ending arrests is the key to marijuana policy reform",
+            "count": 2
+        },
+        {
+            "phrase": "controlled substances including marijuana derivatives thereof and edible products containing marijuana receipts notes ledgers records reflecting the proceeds of those activities electronic equipment photographs negatives videotapes films addresses and or telephone books records documents programs applications",
+            "count": 2
+        },
+        {
+            "phrase": "not lock people up or use scarce federal resources to arrest people for using or possessing marijuana",
+            "count": 1
+        },
+        {
+            "phrase": "the personal use of marijuana by responsible adults act of 2008",
+            "count": 1
+        },
+        {
+            "phrase": "with alcohol we acknowledge the distinction between use and abuse and we focus our law enforcement involvement on efforts to stop irresponsible use we do not arrest and jail responsible alcohol drinkers this should be our policy with marijuana as well",
+            "count": 1
+        },
+        {
+            "phrase": "the federal government's misguided prohibition of marijuana is a war on young people",
+            "count": 1
+        },
+        {
+            "phrase": "is to combat recreational drug use not to regulate a state's medical practices",
+            "count": 1
+        }
+    ]
+}

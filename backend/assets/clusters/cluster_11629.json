@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "04:32"
+        ],
+        "label": "jim"
+    },
+    "clusterList": [
+        {
+            "phrase": "jim went to work a little earlier",
+            "count": 1
+        },
+        {
+            "phrase": "i said look steve this kid runs in there and he's in that room and he's working like he owns this place and steve says well you know what he does he's your boss he's the president",
+            "count": 1
+        }
+    ]
+}

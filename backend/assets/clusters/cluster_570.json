@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:02",
+            "01:05",
+            "01:13",
+            "01:32",
+            "02:33",
+            "02:38",
+            "03:05",
+            "03:09",
+            "03:19",
+            "03:43",
+            "03:58",
+            "04:18",
+            "04:27",
+            "04:36",
+            "04:37",
+            "04:55",
+            "05:01",
+            "05:05"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i look back at peter's career he's never had the balls to challenge or make a move or actually move to get the job in circumstances where he could have got it",
+            "count": 16
+        },
+        {
+            "phrase": "i think peter's strategy has been that if he got someting he really wanted to do he'd leave parliament for that but otherwise he'll sit on the backbench hoping one day he can make a comeback",
+            "count": 2
+        },
+        {
+            "phrase": "when i look back at peter's career he's never had the balls to challenge or make a move or actually move to get the job in circumstances where he could have got it he told sky news",
+            "count": 2
+        },
+        {
+            "phrase": "peter has always done very well and stuck with it",
+            "count": 1
+        },
+        {
+            "phrase": "ok peterman's finally lost it",
+            "count": 1
+        }
+    ]
+}

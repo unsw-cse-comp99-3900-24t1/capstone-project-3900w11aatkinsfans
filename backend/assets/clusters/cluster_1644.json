@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:15",
+            "00:40",
+            "00:50",
+            "01:54",
+            "02:44",
+            "02:54",
+            "03:41",
+            "04:26"
+        ],
+        "label": "best"
+    },
+    "clusterList": [
+        {
+            "phrase": "best antivirus product of 2007",
+            "count": 8
+        },
+        {
+            "phrase": "deliver advanced mobile security solutions for information anywhere suite's afaria mobile device management and security platform",
+            "count": 1
+        },
+        {
+            "phrase": "after a competitive review we selected the smobile security shield as offering the highest degree of security available for handheld devices in addition the company's multi-device strategy aligns well with our commitment to provide broad multi-platform mobile device support",
+            "count": 1
+        }
+    ]
+}

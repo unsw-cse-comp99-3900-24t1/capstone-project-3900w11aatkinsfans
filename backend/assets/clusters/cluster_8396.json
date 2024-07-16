@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:11"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you take everything with a grain of salt",
+            "count": 1
+        },
+        {
+            "phrase": "rinse them off to get the salt off",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a very special thanks to all those friends citizens and fellow republicans who worked donating time and money to get me elected in 2002 and again in 2004",
+            "count": 1
+        },
+        {
+            "phrase": "a welcome like that is almost enough to make me want to run for office again almost",
+            "count": 1
+        }
+    ]
+}

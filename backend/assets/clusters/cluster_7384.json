@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:02",
+            "03:22"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and they're not just attacking me",
+            "count": 1
+        },
+        {
+            "phrase": "i am so angry i wanted to confront them but my colleagues stopped me",
+            "count": 1
+        },
+        {
+            "phrase": "you cannot stop others from talking against you but you can always make them eat what they say",
+            "count": 1
+        }
+    ]
+}

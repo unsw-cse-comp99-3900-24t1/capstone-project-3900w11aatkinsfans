@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "04:56"
+        ],
+        "label": "america's"
+    },
+    "clusterList": [
+        {
+            "phrase": "america's election headquarters",
+            "count": 1
+        },
+        {
+            "phrase": "found at another polling station nearby",
+            "count": 1
+        }
+    ]
+}

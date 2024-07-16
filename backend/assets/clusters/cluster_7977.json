@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:00"
+        ],
+        "label": "stop"
+    },
+    "clusterList": [
+        {
+            "phrase": "stop messing around with the boys quit school go on the dole and become a singer",
+            "count": 1
+        },
+        {
+            "phrase": "go win two grammys build cribs for a few families then you can come back and holla at me",
+            "count": 1
+        }
+    ]
+}

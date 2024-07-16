@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "03:25",
+            "04:14"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "i mean this as mike c",
+            "count": 3
+        },
+        {
+            "phrase": "they don't even mike him up",
+            "count": 1
+        }
+    ]
+}

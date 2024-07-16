@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:33",
+            "04:38"
+        ],
+        "label": "reasons"
+    },
+    "clusterList": [
+        {
+            "phrase": "reasons to be miserable",
+            "count": 1
+        },
+        {
+            "phrase": "what's the motive from the city to make my life miserable",
+            "count": 1
+        },
+        {
+            "phrase": "who said i was unhappy",
+            "count": 1
+        }
+    ]
+}

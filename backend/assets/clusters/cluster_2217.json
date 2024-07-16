@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:01",
+            "02:55",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i may disagree with all the ways of getting there",
+            "count": 6
+        },
+        {
+            "phrase": "not seem to be a wise decision to have gone there in the first place",
+            "count": 1
+        },
+        {
+            "phrase": "to this day i've never questioned my decision to go out there",
+            "count": 1
+        }
+    ]
+}

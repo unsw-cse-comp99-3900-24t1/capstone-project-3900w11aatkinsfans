@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:40",
+            "02:26",
+            "03:21"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "i heard somebody say well it's going to take seven years well if we'd have done it seven years ago we'd be having a different conversation today i'm not suggesting we'd have completely created a-you know changed the dynamics in the world but it certainly would have been we'd have been using more of our own oil and sending less money overseas",
+            "count": 2
+        },
+        {
+            "phrase": "they developed a 2 billion 12 year package",
+            "count": 1
+        },
+        {
+            "phrase": "it took 100 years to get 1 billion devices on the network",
+            "count": 1
+        }
+    ]
+}

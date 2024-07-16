@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "04:18",
+            "04:46"
+        ],
+        "label": "charlyne"
+    },
+    "clusterList": [
+        {
+            "phrase": "charlyne yi is coming charlyne yi is coming",
+            "count": 1
+        },
+        {
+            "phrase": "she'll be arriving in beijing on aug 6 or 7 on the eve of the games opening",
+            "count": 1
+        },
+        {
+            "phrase": "is lily going to be there",
+            "count": 1
+        }
+    ]
+}

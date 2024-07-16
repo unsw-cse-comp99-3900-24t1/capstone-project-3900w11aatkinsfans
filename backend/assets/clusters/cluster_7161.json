@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:02",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you have a dollar i need it for the bus fare",
+            "count": 2
+        },
+        {
+            "phrase": "i take the bus pay two yuan and most of the bus here cost two yuan if it's air-conditioned and one yuan if it's not",
+            "count": 1
+        }
+    ]
+}

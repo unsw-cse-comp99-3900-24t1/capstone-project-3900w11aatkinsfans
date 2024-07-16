@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "04:59"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how long have you worked here",
+            "count": 1
+        },
+        {
+            "phrase": "we worked with canal-villere for 10 years",
+            "count": 1
+        }
+    ]
+}

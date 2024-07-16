@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "02:14",
+            "03:46",
+            "03:51"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "great what would you like to do",
+            "count": 2
+        },
+        {
+            "phrase": "the best job in the world",
+            "count": 2
+        },
+        {
+            "phrase": "and to work courageously to make that dream possible",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "02:14",
+            "02:27",
+            "04:00"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll have a tough time taking on the riders who've done the tour de france because their form will be better after hard racing in july",
+            "count": 2
+        },
+        {
+            "phrase": "it will be the first time i've ever ridden the clasica but i know it's never easy",
+            "count": 2
+        },
+        {
+            "phrase": "have you ever ridden the alps of circle c",
+            "count": 1
+        },
+        {
+            "phrase": "this is your only chance to ride in front of d the rest of the day",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:14",
+            "05:04"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how many more reports findings and data have to be released saying the same thing before governments sit up and listen",
+            "count": 1
+        },
+        {
+            "phrase": "the numbers went down and we just could not substantiate continuing to do this",
+            "count": 1
+        },
+        {
+            "phrase": "we continue to stress that these numbers have been wrong our concern remains how does the rest of the country get this revised information the misinformation may remain in people's minds how do we correct that misimpression",
+            "count": 1
+        }
+    ]
+}

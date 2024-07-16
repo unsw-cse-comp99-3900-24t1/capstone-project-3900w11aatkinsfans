@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "02:18",
+            "04:00"
+        ],
+        "label": "truly"
+    },
+    "clusterList": [
+        {
+            "phrase": "truly massive traffic jams",
+            "count": 1
+        },
+        {
+            "phrase": "traffic jam today ah go taka sure traffic jam",
+            "count": 1
+        },
+        {
+            "phrase": "everywhere jam lah go taka sure traffic jam",
+            "count": 1
+        },
+        {
+            "phrase": "same go orchard sure traffic jam",
+            "count": 1
+        },
+        {
+            "phrase": "go orchard sure traffic jam",
+            "count": 1
+        }
+    ]
+}

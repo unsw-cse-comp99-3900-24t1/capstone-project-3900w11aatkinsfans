@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the compactrio embedded system and labview graphical tools from national instruments gave us the power to design prototype and deploy the control system within our visica2 medical device quickly and beat our time-to-market goals while saving money by eliminating the need for building custom hardware the rio architecture and new low-cost hardware help us even further by allowing us to quickly move to lower-cost hardware when deploying our machines at high volume without having to redesign software or start over from scratch with a new design",
+            "count": 6
+        },
+        {
+            "phrase": "we were able to rapidly prototype our system for fedex using labview and compactrio and create a final deployed solution with ni single-board rio all in under a year the fact that ni provides hardware and software to quickly prototype and deploy embedded systems was crucial for us we're quite sure we wouldn't have been able to hit our aggressive deadlines without ni tools",
+            "count": 1
+        }
+    ]
+}

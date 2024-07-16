@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            36
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32"
+        ],
+        "label": "ws2"
+    },
+    "clusterList": [
+        {
+            "phrase": "ws2 32 wsagetlasterror",
+            "count": 11
+        },
+        {
+            "phrase": "ws2 32 wsacleanup",
+            "count": 5
+        },
+        {
+            "phrase": "ws2 32 inet ntoa",
+            "count": 3
+        },
+        {
+            "phrase": "wsaasyncselect indicated winsock error",
+            "count": 2
+        },
+        {
+            "phrase": "wsastartup indicated winsock error",
+            "count": 2
+        },
+        {
+            "phrase": "ws2 32 socket",
+            "count": 2
+        },
+        {
+            "phrase": "socket indicated winsock error",
+            "count": 2
+        },
+        {
+            "phrase": "ws2 32 htons",
+            "count": 2
+        },
+        {
+            "phrase": "ws2 32 recv",
+            "count": 2
+        },
+        {
+            "phrase": "recv indicated winsock error",
+            "count": 2
+        },
+        {
+            "phrase": "ws2 32 connect",
+            "count": 1
+        },
+        {
+            "phrase": "connect indicated winsock error",
+            "count": 1
+        },
+        {
+            "phrase": "ws2 32 accept",
+            "count": 1
+        },
+        {
+            "phrase": "ws2 32 bind",
+            "count": 1
+        },
+        {
+            "phrase": "listen indicated winsock error",
+            "count": 1
+        }
+    ]
+}

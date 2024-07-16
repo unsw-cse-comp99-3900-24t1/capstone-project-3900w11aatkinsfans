@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:23",
+            "02:24",
+            "03:51",
+            "04:10"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are writing to express our concern that you have used much of your record profits in recent years to buy back your own stock to enrich the value of your share price rather than invest in oil exploration or production here in the u s or in the research and development of alternative energy sources that are demanded by u s consumers",
+            "count": 2
+        },
+        {
+            "phrase": "i don't take money from oil companies",
+            "count": 1
+        },
+        {
+            "phrase": "are we talking exxon mobil chevron or shell here not a chance",
+            "count": 1
+        },
+        {
+            "phrase": "good operating performance combined with increased oil and gas prices offset the impact of weaker downstream conditions in the second quarter 2008 shell is making substantial targeted investments to grow the company for shareholders and help ensure that energy markets remain well supplied",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            2,
+            2,
+            2,
+            2,
+            3
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "00:48",
+            "01:09",
+            "01:10",
+            "01:30"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't say oh we don't want to do anything those games did it's all blizzard we're all a family wow pulled stuff from diablo ii if we think it's a smart choice we try to pull stuff from them we don't really worry about whether it's different what matters is does it make the gameplay better that always wins",
+            "count": 5
+        },
+        {
+            "phrase": "if we're actually making the game worse with no other reason than to be different from wow then it's a bad choice we don't think when people play that they'll have any problem telling that it's a different game",
+            "count": 5
+        },
+        {
+            "phrase": "activision's point of view is there's a lot of trust in blizzard and what we do activision's just trying to figure out how we work and try to learn from us",
+            "count": 2
+        },
+        {
+            "phrase": "if you want a mmo with a lot of players and new content go with wow if you want a mmo with not so many players and little new content with the only advantage being that it's not wow pick anything else",
+            "count": 1
+        },
+        {
+            "phrase": "there's no outside influence at all in the development of diablo 3 starcraft 2 or wow",
+            "count": 1
+        },
+        {
+            "phrase": "wow pulled stuff from diablo ii if we think it's a smart choice we try to pull stuff from them",
+            "count": 1
+        }
+    ]
+}

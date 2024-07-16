@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "corn"
+    },
+    "clusterList": [
+        {
+            "phrase": "corn i don't care we're takin it to em alright",
+            "count": 3
+        },
+        {
+            "phrase": "i don't give a shit about the corn dogs alright we play hard every second we run the offense everybody got that",
+            "count": 3
+        }
+    ]
+}

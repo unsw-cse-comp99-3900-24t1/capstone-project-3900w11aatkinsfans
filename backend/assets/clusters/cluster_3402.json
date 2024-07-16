@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:32",
+            "01:37",
+            "01:56",
+            "02:52",
+            "03:51"
+        ],
+        "label": "count"
+    },
+    "clusterList": [
+        {
+            "phrase": "count your blessings",
+            "count": 1
+        },
+        {
+            "phrase": "the only really happy and blessed life",
+            "count": 1
+        },
+        {
+            "phrase": "yes i'm precious and all that",
+            "count": 1
+        },
+        {
+            "phrase": "he always used to tell me you're blessed in the fact that you have a wife that supports you and what you're trying to do for god",
+            "count": 1
+        },
+        {
+            "phrase": "i think wow i am so blessed",
+            "count": 1
+        },
+        {
+            "phrase": "you know what i am a very blessed individual",
+            "count": 1
+        }
+    ]
+}

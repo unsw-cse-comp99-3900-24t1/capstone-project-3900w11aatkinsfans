@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "04:28",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we wanted this social network to help with that",
+            "count": 1
+        },
+        {
+            "phrase": "twitter is a service for friends family and co-workers to communicate and stay connected through the exchange of quick frequent answers to one simple question what are you doing",
+            "count": 1
+        },
+        {
+            "phrase": "most of the top bloggers i know are now using macs",
+            "count": 1
+        }
+    ]
+}

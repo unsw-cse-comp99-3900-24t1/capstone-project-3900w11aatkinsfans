@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "01:42",
+            "02:14",
+            "02:19",
+            "04:17"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we believe consumers shouldn't have to sacrifice performance for form or function",
+            "count": 4
+        },
+        {
+            "phrase": "clearly marketers need to market responsibly",
+            "count": 1
+        }
+    ]
+}

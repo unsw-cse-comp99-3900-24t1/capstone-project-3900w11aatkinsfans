@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:48",
+            "01:06",
+            "01:07",
+            "01:13",
+            "01:19",
+            "01:23",
+            "01:52",
+            "02:10",
+            "02:34",
+            "02:41",
+            "03:09",
+            "03:23",
+            "04:04",
+            "04:21",
+            "05:05"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's why i know this is going to work it's so easy to implement",
+            "count": 6
+        },
+        {
+            "phrase": "it s easy to use and it offers a lot of applications",
+            "count": 2
+        },
+        {
+            "phrase": "it's incredibly easy it comes at absolutely no cost",
+            "count": 2
+        },
+        {
+            "phrase": "man that thing's complicated to code for",
+            "count": 1
+        },
+        {
+            "phrase": "i used to make my own web sites and sell them but then i realised hey this is much easier than making them",
+            "count": 1
+        },
+        {
+            "phrase": "it's so easy to implement",
+            "count": 1
+        },
+        {
+            "phrase": "i found it easy to use and things work the way i expect",
+            "count": 1
+        },
+        {
+            "phrase": "on the cheap freeware",
+            "count": 1
+        },
+        {
+            "phrase": "it's simple easy to implement and cheap",
+            "count": 1
+        },
+        {
+            "phrase": "the principle is very simple but the cost is very high",
+            "count": 1
+        }
+    ]
+}

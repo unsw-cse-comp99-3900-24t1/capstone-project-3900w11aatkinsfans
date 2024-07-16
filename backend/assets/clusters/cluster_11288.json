@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "05:04"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's gone i can't see any more",
+            "count": 1
+        },
+        {
+            "phrase": "everything in there is about gone",
+            "count": 1
+        }
+    ]
+}

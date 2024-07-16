@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:45",
+            "03:18",
+            "03:42",
+            "04:33"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you might think the systems will stay up and running but they are major bits of software that rely on people to keep them working and it's normal to experience some issues that need experts to solve",
+            "count": 1
+        },
+        {
+            "phrase": "the major it vendors have also taken appropriate steps by introducing patches to counteract this problem so we will continue to monitor the environment for any anomalies",
+            "count": 1
+        },
+        {
+            "phrase": "may well have to rethink their data backup and recovery infrastructure",
+            "count": 1
+        },
+        {
+            "phrase": "once we get our new system they'll probably go out in a power outage too",
+            "count": 1
+        }
+    ]
+}

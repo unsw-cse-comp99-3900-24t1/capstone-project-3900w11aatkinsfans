@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:33",
+            "03:24",
+            "03:55",
+            "04:29"
+        ],
+        "label": "second"
+    },
+    "clusterList": [
+        {
+            "phrase": "second is not good",
+            "count": 3
+        },
+        {
+            "phrase": "a worst to first",
+            "count": 1
+        },
+        {
+            "phrase": "first the worst second the best third the nerd",
+            "count": 1
+        }
+    ]
+}

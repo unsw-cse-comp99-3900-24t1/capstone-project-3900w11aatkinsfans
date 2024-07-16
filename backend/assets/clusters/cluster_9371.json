@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "05:04"
+        ],
+        "label": "inside"
+    },
+    "clusterList": [
+        {
+            "phrase": "inside iphone 2 0",
+            "count": 1
+        },
+        {
+            "phrase": "inside iphone 2",
+            "count": 1
+        }
+    ]
+}

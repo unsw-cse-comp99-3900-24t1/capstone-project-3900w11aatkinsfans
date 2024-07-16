@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "03:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the provider requires sessionstate to be enabled",
+            "count": 1
+        }
+    ]
+}

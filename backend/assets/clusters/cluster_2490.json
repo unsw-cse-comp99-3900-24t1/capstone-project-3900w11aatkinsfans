@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "04:08",
+            "04:31",
+            "04:45",
+            "05:04"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is not frankly a technology issue",
+            "count": 4
+        },
+        {
+            "phrase": "when will it become a problem",
+            "count": 1
+        },
+        {
+            "phrase": "ignoring the problem is only going to make it worse",
+            "count": 1
+        },
+        {
+            "phrase": "people are becoming more tuned into this issue and we want to address this up-and-coming concern",
+            "count": 1
+        }
+    ]
+}

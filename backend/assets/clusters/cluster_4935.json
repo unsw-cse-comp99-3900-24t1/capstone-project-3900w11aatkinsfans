@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:19",
+            "03:27",
+            "03:34"
+        ],
+        "label": "dick"
+    },
+    "clusterList": [
+        {
+            "phrase": "pearly white hat",
+            "count": 2
+        },
+        {
+            "phrase": "dick wore a hat",
+            "count": 1
+        },
+        {
+            "phrase": "he was wearing hinters",
+            "count": 1
+        }
+    ]
+}

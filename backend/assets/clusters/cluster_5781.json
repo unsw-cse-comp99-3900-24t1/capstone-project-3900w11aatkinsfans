@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:49",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the thing about dolls",
+            "count": 1
+        },
+        {
+            "phrase": "she thought i'd used it in costumes",
+            "count": 1
+        },
+        {
+            "phrase": "she's played with them since she was old enough to pick up a bug",
+            "count": 1
+        }
+    ]
+}

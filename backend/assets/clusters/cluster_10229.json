@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:50"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just go when they tell me to go and stop when they tell me to stop",
+            "count": 1
+        },
+        {
+            "phrase": "one day i stopped by there for lunch and the line was so long i just kept going",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "03:02",
+            "03:42",
+            "03:52",
+            "03:55",
+            "04:01",
+            "04:15"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "cool for cats",
+            "count": 3
+        },
+        {
+            "phrase": "to all the squirrels i've loved before",
+            "count": 1
+        },
+        {
+            "phrase": "cats and dogs",
+            "count": 1
+        },
+        {
+            "phrase": "love for cats",
+            "count": 1
+        },
+        {
+            "phrase": "fa shiesty cats",
+            "count": 1
+        }
+    ]
+}

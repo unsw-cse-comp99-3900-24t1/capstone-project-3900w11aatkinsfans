@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:47",
+            "04:28",
+            "04:42"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a big deal for me",
+            "count": 2
+        },
+        {
+            "phrase": "oh i'm sick of this",
+            "count": 1
+        },
+        {
+            "phrase": "i'm really sick of this ya know",
+            "count": 1
+        }
+    ]
+}

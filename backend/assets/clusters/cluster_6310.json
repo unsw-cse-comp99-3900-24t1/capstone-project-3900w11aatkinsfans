@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:13"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now we have to figure out whether these motor neurons are able to mature",
+            "count": 1
+        },
+        {
+            "phrase": "for these to be useful for drug development we need mature motor neurons",
+            "count": 1
+        },
+        {
+            "phrase": "whether immature neurons really reflect the inherited damage that follows only after decades in the human",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:29",
+            "02:06",
+            "02:33",
+            "03:28",
+            "03:34"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm asking the minority to allow me to join in with them in this resolution to say this matter should be cleared up but there's no need even for mean-spirited people in the minority to say that i'm a discredit to the united states congress",
+            "count": 4
+        },
+        {
+            "phrase": "i'm asking the minority to allow me to join in with them in this resolution to say this matter should be cleared up but there's no need even for mean-spirited people in the minority to say that i'm a discredit to the",
+            "count": 1
+        },
+        {
+            "phrase": "you are free to air your opinions but do not force them onto others",
+            "count": 1
+        }
+    ]
+}

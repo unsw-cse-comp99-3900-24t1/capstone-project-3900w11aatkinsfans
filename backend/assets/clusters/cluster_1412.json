@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:41",
+            "02:19",
+            "03:18",
+            "04:13",
+            "04:21",
+            "04:24",
+            "04:46",
+            "04:55"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is a lot of hope",
+            "count": 3
+        },
+        {
+            "phrase": "there is a lot of hope here",
+            "count": 3
+        },
+        {
+            "phrase": "great white hope",
+            "count": 1
+        },
+        {
+            "phrase": "all hope is gone",
+            "count": 1
+        },
+        {
+            "phrase": "but i really feel so oooh there is real hope for me",
+            "count": 1
+        },
+        {
+            "phrase": "so much hope",
+            "count": 1
+        },
+        {
+            "phrase": "they're looking for some sort of hope",
+            "count": 1
+        },
+        {
+            "phrase": "you think there's hope for me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:19",
+            "00:43",
+            "01:02",
+            "01:03",
+            "01:07",
+            "01:18",
+            "01:50",
+            "01:51",
+            "01:57",
+            "02:24",
+            "02:34",
+            "02:57",
+            "03:14",
+            "03:18",
+            "03:37",
+            "03:42",
+            "03:43",
+            "03:46",
+            "04:38"
+        ],
+        "label": "nobody"
+    },
+    "clusterList": [
+        {
+            "phrase": "the doctors say he's brain dead",
+            "count": 4
+        },
+        {
+            "phrase": "the doctors have said he is brain dead",
+            "count": 4
+        },
+        {
+            "phrase": "nobody knows who this guy is he is a ghost",
+            "count": 2
+        },
+        {
+            "phrase": "it's a dead face",
+            "count": 1
+        },
+        {
+            "phrase": "the king is dead",
+            "count": 1
+        },
+        {
+            "phrase": "he is not dead",
+            "count": 1
+        },
+        {
+            "phrase": "he is not dead we cannot stay here",
+            "count": 1
+        },
+        {
+            "phrase": "he will not wake for sometime",
+            "count": 1
+        },
+        {
+            "phrase": "he says he's not going to be taken alive",
+            "count": 1
+        },
+        {
+            "phrase": "i want this guy dead",
+            "count": 1
+        },
+        {
+            "phrase": "is that guy still alive",
+            "count": 1
+        },
+        {
+            "phrase": "who buried him",
+            "count": 1
+        },
+        {
+            "phrase": "the hero doesn't really die",
+            "count": 1
+        },
+        {
+            "phrase": "it must be ziggy i'm thinkin of he's the only dead guy i know",
+            "count": 1
+        },
+        {
+            "phrase": "he's dead jim",
+            "count": 1
+        },
+        {
+            "phrase": "you mean since he's dead",
+            "count": 1
+        },
+        {
+            "phrase": "please don't say it he is dead isn't he",
+            "count": 1
+        }
+    ]
+}

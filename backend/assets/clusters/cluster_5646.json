@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:55",
+            "04:19"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as long as i am in my position",
+            "count": 1
+        },
+        {
+            "phrase": "as long as i remain in my post",
+            "count": 1
+        },
+        {
+            "phrase": "i'll triangulate your position",
+            "count": 1
+        }
+    ]
+}

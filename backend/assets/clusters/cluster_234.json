@@ -1,0 +1,91 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            24
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:28",
+            "00:53",
+            "00:59",
+            "01:05",
+            "01:09",
+            "01:18",
+            "01:29",
+            "01:38",
+            "01:56",
+            "02:26",
+            "03:01",
+            "03:41"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a couple of different companies",
+            "count": 13
+        },
+        {
+            "phrase": "warner bros television",
+            "count": 10
+        },
+        {
+            "phrase": "warner bros domestic television distribution",
+            "count": 3
+        },
+        {
+            "phrase": "a warner communications company",
+            "count": 2
+        },
+        {
+            "phrase": "a warner bros television production",
+            "count": 1
+        },
+        {
+            "phrase": "warner bros television distribution",
+            "count": 1
+        },
+        {
+            "phrase": "a wa rner communications company",
+            "count": 1
+        },
+        {
+            "phrase": "a time warner company",
+            "count": 1
+        },
+        {
+            "phrase": "a time warner entertainment company",
+            "count": 1
+        },
+        {
+            "phrase": "an aol time w arner company",
+            "count": 1
+        },
+        {
+            "phrase": "warner bros televisio n",
+            "count": 1
+        },
+        {
+            "phrase": "and is distributed by warner bros domestic television distribution",
+            "count": 1
+        },
+        {
+            "phrase": "telecommunications company ies one actually and there suppliers",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "03:15",
+            "05:00"
+        ],
+        "label": "nick"
+    },
+    "clusterList": [
+        {
+            "phrase": "nick and norah's infinite playlist",
+            "count": 3
+        },
+        {
+            "phrase": "trailer for nick and norah's infinite playlist",
+            "count": 1
+        }
+    ]
+}

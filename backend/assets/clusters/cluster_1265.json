@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:14",
+            "00:37",
+            "00:50",
+            "01:47",
+            "01:55",
+            "02:05",
+            "03:42"
+        ],
+        "label": "james"
+    },
+    "clusterList": [
+        {
+            "phrase": "i mean his was the open championship mine was the senior open championship but still when you have it in your grasp like that you have something a little bit in common",
+            "count": 5
+        },
+        {
+            "phrase": "he wasn't having his best year but he was just getting hot",
+            "count": 2
+        },
+        {
+            "phrase": "he's shown he's capable of doing that and he's had a nice career doing that",
+            "count": 2
+        },
+        {
+            "phrase": "james is a very rugged and crowd pleasing fighter he sells a lot of tickets and has a lot of enthusiastic fans he generates excitement",
+            "count": 1
+        },
+        {
+            "phrase": "there's no doubt that james can come back and be a world champion someday he's very strong-willed and has a ton of guts and determination i'll be rooting for him he's a dynamite fighter and a great guy",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sure he has goals that he's not sharing with anybody that will make him special but a step at a time",
+            "count": 1
+        },
+        {
+            "phrase": "oh yes everybody figured he'd get a full-ride scholarship to wherever he wanted to go but then he broke his ankle in the state game he never fully recovered from it never even went to college",
+            "count": 1
+        }
+    ]
+}

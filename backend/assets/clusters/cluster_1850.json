@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:02",
+            "02:25",
+            "03:15",
+            "04:23"
+        ],
+        "label": "suits"
+    },
+    "clusterList": [
+        {
+            "phrase": "experience excessive or unfair federal regulatory enforcement actions such as repetitive audits or investigations excessive fines penalties threats retaliation or other unfair enforcement action by a federal agency",
+            "count": 5
+        },
+        {
+            "phrase": "suits for wrongful termination in violation of public policy which courts have often allowed to be asserted against public entity employers are barred by government code section 815 which bars common-law causes of action against public entities",
+            "count": 1
+        },
+        {
+            "phrase": "johns hopkins hospital investigation of whistleblowers dismissal demand compliance accountability",
+            "count": 1
+        },
+        {
+            "phrase": "systematic violations of federal law",
+            "count": 1
+        },
+        {
+            "phrase": "by using e-verify employers are no longer expected to be document experts the liability of determining the legal status of an employee is placed on the government not the business owner",
+            "count": 1
+        }
+    ]
+}

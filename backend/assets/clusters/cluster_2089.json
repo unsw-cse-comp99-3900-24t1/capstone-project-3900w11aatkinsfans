@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:20",
+            "00:38",
+            "01:33",
+            "01:42"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i fly qantas economy i'm lucky to get three glasses of orange juice",
+            "count": 3
+        },
+        {
+            "phrase": "but if you're blonde and good-looking you get 20 glasses of champagne",
+            "count": 3
+        },
+        {
+            "phrase": "when i fly qantas economy i'm lucky to get three glasses of orange juice but if you're blonde and good looking you get 20 glasses of champagne",
+            "count": 2
+        }
+    ]
+}

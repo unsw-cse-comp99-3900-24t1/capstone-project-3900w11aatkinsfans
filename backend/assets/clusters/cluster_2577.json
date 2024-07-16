@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            4,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "03:06",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pegi ratings system is the only one that truly protects children understands the interactive nature of rating games and is the only system endorsed by the games industry",
+            "count": 3
+        },
+        {
+            "phrase": "it offers a strict classification system based on international standards and detailed criteria which is scalable and robust enough to cope with rating the explosion of gaming content",
+            "count": 3
+        },
+        {
+            "phrase": "mature 18 category is meant for games with",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "05:00"
+        ],
+        "label": "couldn't"
+    },
+    "clusterList": [
+        {
+            "phrase": "couldn't give a fuck",
+            "count": 1
+        },
+        {
+            "phrase": "i don't really give a fuck",
+            "count": 1
+        }
+    ]
+}

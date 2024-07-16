@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "04:08",
+            "04:45"
+        ],
+        "label": "bob"
+    },
+    "clusterList": [
+        {
+            "phrase": "bob really is a thieving little swine",
+            "count": 4
+        }
+    ]
+}

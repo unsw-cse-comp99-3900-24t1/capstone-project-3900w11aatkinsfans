@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:51",
+            "04:33",
+            "04:45"
+        ],
+        "label": "should"
+    },
+    "clusterList": [
+        {
+            "phrase": "should have been on our radar but wasn't",
+            "count": 1
+        },
+        {
+            "phrase": "but that's not on the radar now",
+            "count": 1
+        },
+        {
+            "phrase": "two or three years ago this wasn't even on the radar",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:01",
+            "03:01"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it seemed like it was something that wasn't widely understood or maybe that was just because i was talking to sean malinger",
+            "count": 1
+        },
+        {
+            "phrase": "as he was falling asleep he was talking about some mask that he wants for basketball he's just waking up and he's still talking about it do you know what he's referring to",
+            "count": 1
+        },
+        {
+            "phrase": "how would he know he's had to hear it from probably everybody who's ever played on both teams",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "04:16"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and crazy learner's permit girl gave me a ride to babbage's",
+            "count": 1
+        },
+        {
+            "phrase": "and crazy learner's permit girl gave me a ride",
+            "count": 1
+        },
+        {
+            "phrase": "and crazy learner's permit girl",
+            "count": 1
+        },
+        {
+            "phrase": "crazy learner's permit girl",
+            "count": 1
+        }
+    ]
+}

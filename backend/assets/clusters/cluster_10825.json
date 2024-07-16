@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:43"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you're part of an organized religion you're a terrible person",
+            "count": 1
+        },
+        {
+            "phrase": "my teacher commented that you are no good and you are a believer of an unorthodox religion",
+            "count": 1
+        }
+    ]
+}

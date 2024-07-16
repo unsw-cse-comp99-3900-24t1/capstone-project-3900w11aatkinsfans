@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:18",
+            "04:06"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is something you could use",
+            "count": 1
+        },
+        {
+            "phrase": "yes this will be very useful if i could only",
+            "count": 1
+        },
+        {
+            "phrase": "if you're not gonna use that can i have it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:27",
+            "00:48",
+            "00:51",
+            "00:57",
+            "01:07",
+            "01:47",
+            "02:10",
+            "02:18",
+            "03:10",
+            "03:44",
+            "03:51",
+            "04:04",
+            "04:13",
+            "04:19",
+            "04:32",
+            "04:46"
+        ],
+        "label": "caught"
+    },
+    "clusterList": [
+        {
+            "phrase": "inspiration to millions of americans",
+            "count": 7
+        },
+        {
+            "phrase": "images of america",
+            "count": 2
+        },
+        {
+            "phrase": "the post-american world",
+            "count": 2
+        },
+        {
+            "phrase": "caught in the middle america's heartland in the age of globalism",
+            "count": 1
+        },
+        {
+            "phrase": "the new world",
+            "count": 1
+        },
+        {
+            "phrase": "the united states and the summit of the americas",
+            "count": 1
+        },
+        {
+            "phrase": "a world without america is conceivable",
+            "count": 1
+        },
+        {
+            "phrase": "a new world",
+            "count": 1
+        },
+        {
+            "phrase": "tribute to america",
+            "count": 1
+        },
+        {
+            "phrase": "america new york",
+            "count": 1
+        },
+        {
+            "phrase": "america where americans come first",
+            "count": 1
+        }
+    ]
+}

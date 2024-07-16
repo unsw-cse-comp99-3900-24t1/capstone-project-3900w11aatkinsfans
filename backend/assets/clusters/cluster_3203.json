@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:10",
+            "01:50",
+            "02:02",
+            "03:11",
+            "04:09"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm still a fan but enough is enough",
+            "count": 1
+        },
+        {
+            "phrase": "there were lots of portuguese people and i think i made some new fans here",
+            "count": 1
+        },
+        {
+            "phrase": "i definitely think i made quite a few fans here",
+            "count": 1
+        },
+        {
+            "phrase": "we have some awesome fans and can't wait to try and get a few more",
+            "count": 1
+        },
+        {
+            "phrase": "there were lots of portuguese people here and i think i made some new fans here",
+            "count": 1
+        },
+        {
+            "phrase": "dude great site it's good to see some knowledgeable fans",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:47",
+            "02:06",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's going to happen on the field",
+            "count": 2
+        },
+        {
+            "phrase": "i hope we can find our goal-scoring touch by the time the games begin",
+            "count": 1
+        },
+        {
+            "phrase": "it depends what is happening in the sports we just wait for a dead space",
+            "count": 1
+        }
+    ]
+}

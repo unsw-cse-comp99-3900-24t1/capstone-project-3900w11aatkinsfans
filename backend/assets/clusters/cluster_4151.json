@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:15",
+            "00:39",
+            "02:42",
+            "03:02"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because we are not used to this kind of event just the gruesomeness of it is a bit like experiencing an earthquake the ground beneath you psychologically never feels quite secure again",
+            "count": 3
+        },
+        {
+            "phrase": "it seems strange that if you find humor in something that must be odd because of what you're suffering through",
+            "count": 1
+        },
+        {
+            "phrase": "everyone is fascinated with death and wants to know how and why",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:52",
+            "02:41",
+            "04:18",
+            "04:33"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are learning the biggest advances in the field",
+            "count": 1
+        },
+        {
+            "phrase": "it sounds almost too good to be true but chemists believe they have made a key breakthrough",
+            "count": 1
+        },
+        {
+            "phrase": "a key breakthrough",
+            "count": 1
+        },
+        {
+            "phrase": "it's incredibly exciting that technology cures what could never be cured before",
+            "count": 1
+        },
+        {
+            "phrase": "yes breakthrough research often takes time but that's never been a reason to not even try until george bush",
+            "count": 1
+        }
+    ]
+}

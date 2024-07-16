@@ -1,0 +1,103 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:27",
+            "00:29",
+            "00:56",
+            "01:40",
+            "02:33",
+            "02:47",
+            "03:14",
+            "03:31",
+            "03:55",
+            "04:07",
+            "04:15",
+            "04:18",
+            "04:29",
+            "05:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last five years",
+            "count": 4
+        },
+        {
+            "phrase": "back in the day",
+            "count": 2
+        },
+        {
+            "phrase": "a few months ago",
+            "count": 2
+        },
+        {
+            "phrase": "now or never",
+            "count": 1
+        },
+        {
+            "phrase": "in the past",
+            "count": 1
+        },
+        {
+            "phrase": "when i was younger",
+            "count": 1
+        },
+        {
+            "phrase": "many many times in the past",
+            "count": 1
+        },
+        {
+            "phrase": "at this point in time",
+            "count": 1
+        },
+        {
+            "phrase": "back in their day",
+            "count": 1
+        },
+        {
+            "phrase": "with the times",
+            "count": 1
+        },
+        {
+            "phrase": "a thing of the past",
+            "count": 1
+        },
+        {
+            "phrase": "back when i knew it all",
+            "count": 1
+        },
+        {
+            "phrase": "in the last days",
+            "count": 1
+        },
+        {
+            "phrase": "when and where",
+            "count": 1
+        },
+        {
+            "phrase": "in 1967 the",
+            "count": 1
+        }
+    ]
+}

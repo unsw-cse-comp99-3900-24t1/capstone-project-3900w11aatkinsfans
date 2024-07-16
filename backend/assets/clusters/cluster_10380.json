@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:41",
+            "04:36"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have to look a lot into the details and it's not an easy decision",
+            "count": 1
+        },
+        {
+            "phrase": "we decided against it because the flexibility it offered was very minor",
+            "count": 1
+        }
+    ]
+}

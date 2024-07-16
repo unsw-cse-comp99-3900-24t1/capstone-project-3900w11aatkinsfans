@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:52",
+            "03:34"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the situation has improved dramatically",
+            "count": 2
+        },
+        {
+            "phrase": "i think that the situation has improved dramatically",
+            "count": 1
+        }
+    ]
+}

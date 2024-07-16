@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:43",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the hard part for me was this derailed into a train wreck so quick so fast and so oddly",
+            "count": 2
+        },
+        {
+            "phrase": "i knew it was a train wreck",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "02:00",
+            "03:42"
+        ],
+        "label": "sioux"
+    },
+    "clusterList": [
+        {
+            "phrase": "sioux falls is my home town and i feel like sioux falls is ready for something like this i think people are very much ready for it",
+            "count": 1
+        },
+        {
+            "phrase": "make it easy on yourself this year and get off the gridlocked interstates take a state highway toward one of our thousands of peaceful small towns each small town is a gem packed with bizarre attractions important history and plenty of fun",
+            "count": 1
+        },
+        {
+            "phrase": "i am fully committed to biketopia to show new yorkers how excited i am about this i have a very special fireworks spectacular planned we will have a public reading of while everyone stands in the middle of their livable streets the fireworks will be timed to go off at the exact moment that our beautiful beloved bikeable-walkable city crumbles on its very foundations",
+            "count": 1
+        }
+    ]
+}

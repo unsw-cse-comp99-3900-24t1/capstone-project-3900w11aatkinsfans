@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "another"
+    },
+    "clusterList": [
+        {
+            "phrase": "bleep sandwich that hurts",
+            "count": 3
+        },
+        {
+            "phrase": "yeah it's a shit-bleepin sandwich dick",
+            "count": 3
+        },
+        {
+            "phrase": "another weird pb sandwich",
+            "count": 1
+        }
+    ]
+}

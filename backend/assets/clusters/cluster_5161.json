@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:51",
+            "02:02",
+            "03:32"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "the central coast is the obvious next target",
+            "count": 2
+        },
+        {
+            "phrase": "hey come on coast is clear",
+            "count": 1
+        },
+        {
+            "phrase": "ocean rising tide",
+            "count": 1
+        }
+    ]
+}

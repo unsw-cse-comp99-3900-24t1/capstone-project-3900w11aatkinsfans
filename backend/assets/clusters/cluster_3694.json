@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:33",
+            "00:52",
+            "02:57",
+            "05:05"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "when we are no longer able to change a situation we are challenged to change ourselves",
+            "count": 2
+        },
+        {
+            "phrase": "it's true that change is hard change isn't easy",
+            "count": 1
+        },
+        {
+            "phrase": "it's both really but i'm not going to change for anybody else",
+            "count": 1
+        },
+        {
+            "phrase": "if you don't like something change it if you can't change it change your attitude",
+            "count": 1
+        }
+    ]
+}

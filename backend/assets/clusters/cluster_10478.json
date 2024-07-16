@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "02:24"
+        ],
+        "label": "nanny"
+    },
+    "clusterList": [
+        {
+            "phrase": "nanny falls in love with the male employer",
+            "count": 1
+        },
+        {
+            "phrase": "a corporate nanny turns assertive",
+            "count": 1
+        }
+    ]
+}

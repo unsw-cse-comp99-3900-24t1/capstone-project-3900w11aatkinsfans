@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "02:39"
+        ],
+        "label": "should"
+    },
+    "clusterList": [
+        {
+            "phrase": "should i tell jake and erika and hightail it out of there",
+            "count": 1
+        },
+        {
+            "phrase": "but you're right i'm probably better off telling olivia and darryl i'll be seeing olivia this evening anyway see you around",
+            "count": 1
+        }
+    ]
+}

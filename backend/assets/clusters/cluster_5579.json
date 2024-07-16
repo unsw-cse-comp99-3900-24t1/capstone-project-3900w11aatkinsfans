@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "04:04",
+            "04:46",
+            "04:56"
+        ],
+        "label": "reply"
+    },
+    "clusterList": [
+        {
+            "phrase": "the moral center how progressives can unite america around our shared values",
+            "count": 2
+        },
+        {
+            "phrase": "reply to new york workingmen's democratic republican association",
+            "count": 1
+        },
+        {
+            "phrase": "new york liberal society",
+            "count": 1
+        }
+    ]
+}

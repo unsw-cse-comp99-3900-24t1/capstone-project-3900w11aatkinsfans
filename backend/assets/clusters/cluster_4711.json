@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:36",
+            "04:28",
+            "04:33",
+            "05:03"
+        ],
+        "label": "hotter"
+    },
+    "clusterList": [
+        {
+            "phrase": "beef and ox tripe in chilli sauce",
+            "count": 2
+        },
+        {
+            "phrase": "hotter than a pepper",
+            "count": 1
+        },
+        {
+            "phrase": "stir fried tiger meat with chilis",
+            "count": 1
+        }
+    ]
+}

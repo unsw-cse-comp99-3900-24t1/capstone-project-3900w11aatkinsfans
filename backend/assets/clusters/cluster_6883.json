@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "02:01",
+            "04:19"
+        ],
+        "label": "um"
+    },
+    "clusterList": [
+        {
+            "phrase": "um u don't need to metion this to anyone do u",
+            "count": 1
+        },
+        {
+            "phrase": "you're talking about me aren't you you shouldn't do that it's not nice",
+            "count": 1
+        },
+        {
+            "phrase": "no one can respect you or take care of your sh t better than you",
+            "count": 1
+        }
+    ]
+}

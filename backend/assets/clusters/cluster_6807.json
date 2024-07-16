@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:18",
+            "03:49"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is their anything in particular i can get you i think your good with jewelry unless you want more of course",
+            "count": 1
+        },
+        {
+            "phrase": "right i picked up a variety of stuff since i wasn't sure what might suit you feel free to try them on i can always return them tomorrow",
+            "count": 1
+        },
+        {
+            "phrase": "there's a range of things pendants a pin earrings and a bolo tie",
+            "count": 1
+        }
+    ]
+}

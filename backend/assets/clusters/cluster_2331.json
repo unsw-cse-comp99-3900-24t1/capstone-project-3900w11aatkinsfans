@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:06",
+            "01:10",
+            "03:42",
+            "04:13"
+        ],
+        "label": "epa's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is a devastating blow to tribal members who continually suffer from the large coal complex encroaching upon our land",
+            "count": 2
+        },
+        {
+            "phrase": "epa's irresponsible inappropriate decision has failed navajo communities and needlessly sacrificed our air land and water",
+            "count": 1
+        },
+        {
+            "phrase": "if the coal plant is built it will add to health problems already facing tribal members and residents of both new mexico and colorado",
+            "count": 1
+        },
+        {
+            "phrase": "the navajo nation has been waiting for this a long time it's a matter of economic opportunity and tribal sovereignty for the navajos",
+            "count": 1
+        },
+        {
+            "phrase": "accce is pleased that the epa has recognized the tangible environmental and economic benefits the desert rock project will provide for the four corners",
+            "count": 1
+        },
+        {
+            "phrase": "perhaps just as important desert rock will responsibly develop navajo resources in the most environmentally sensitive way and help turn these resources into tangible benefits for the navajo people",
+            "count": 1
+        },
+        {
+            "phrase": "the desert rock plant will provide more than 50 million in revenue and payments directly to the navajo nation accounting for roughly 30 percent of their entire budget",
+            "count": 1
+        }
+    ]
+}

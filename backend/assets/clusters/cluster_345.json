@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            24,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:16",
+            "03:18",
+            "03:23",
+            "03:54"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "have i the right",
+            "count": 24
+        },
+        {
+            "phrase": "you know who i am right",
+            "count": 2
+        },
+        {
+            "phrase": "it's not what you know it's who you know",
+            "count": 1
+        },
+        {
+            "phrase": "what who huh",
+            "count": 1
+        },
+        {
+            "phrase": "it's not who you know that counts it's who knows you",
+            "count": 1
+        }
+    ]
+}

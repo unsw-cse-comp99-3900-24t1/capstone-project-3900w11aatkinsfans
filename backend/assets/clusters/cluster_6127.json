@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "02:46",
+            "04:38"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because we always use this method",
+            "count": 1
+        },
+        {
+            "phrase": "because we know that needs sometimes change",
+            "count": 1
+        },
+        {
+            "phrase": "why do we have to learn this",
+            "count": 1
+        }
+    ]
+}

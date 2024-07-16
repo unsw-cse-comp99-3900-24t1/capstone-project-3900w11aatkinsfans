@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "01:47",
+            "01:56",
+            "03:00",
+            "03:06",
+            "03:18",
+            "04:23",
+            "04:27",
+            "04:51"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "thank you for contacting us",
+            "count": 3
+        },
+        {
+            "phrase": "i'll also send you an e-mail in case that is a better way for us to connect",
+            "count": 1
+        },
+        {
+            "phrase": "feel free to e-mail me at this address or i'll give you a call wednesday morning to discuss further",
+            "count": 1
+        },
+        {
+            "phrase": "gt how to contact us",
+            "count": 1
+        },
+        {
+            "phrase": "as the father has sent me so i send you",
+            "count": 1
+        },
+        {
+            "phrase": "thank you very much",
+            "count": 1
+        },
+        {
+            "phrase": "hey i sent you everything here's a tracking number good luck with that",
+            "count": 1
+        },
+        {
+            "phrase": "yes i am new here i come to offer my services to k rool",
+            "count": 1
+        },
+        {
+            "phrase": "thank you for calling client services my name is mike how may i help you",
+            "count": 1
+        },
+        {
+            "phrase": "thank you for calling may i take your order",
+            "count": 1
+        },
+        {
+            "phrase": "vantillian101 to your yahoo contacts",
+            "count": 1
+        },
+        {
+            "phrase": "vantillian101 to your yahoo message contacts",
+            "count": 1
+        }
+    ]
+}

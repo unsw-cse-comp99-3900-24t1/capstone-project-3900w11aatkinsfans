@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:03",
+            "03:47"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that was probably a big example of stupidity he said",
+            "count": 1
+        },
+        {
+            "phrase": "that was probably a big example of stupidity",
+            "count": 1
+        }
+    ]
+}

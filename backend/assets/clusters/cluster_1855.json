@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:23",
+            "00:56",
+            "01:16",
+            "03:19",
+            "04:01",
+            "04:05",
+            "04:10"
+        ],
+        "label": "pound"
+    },
+    "clusterList": [
+        {
+            "phrase": "pound of flesh",
+            "count": 1
+        },
+        {
+            "phrase": "the body's mechanics and mechanical parts",
+            "count": 1
+        },
+        {
+            "phrase": "beer and flesh meat",
+            "count": 1
+        },
+        {
+            "phrase": "flesh and bones",
+            "count": 1
+        },
+        {
+            "phrase": "for we are members of his body of his flesh and of his bones",
+            "count": 1
+        },
+        {
+            "phrase": "the human body",
+            "count": 1
+        },
+        {
+            "phrase": "the sacrificial lamb",
+            "count": 1
+        },
+        {
+            "phrase": "blood and iron",
+            "count": 1
+        },
+        {
+            "phrase": "flesh and blood",
+            "count": 1
+        }
+    ]
+}

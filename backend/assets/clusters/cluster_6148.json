@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:20",
+            "01:24"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we need to remember that the chief is doing this so he can see if there are areas to improve in",
+            "count": 2
+        },
+        {
+            "phrase": "it's wonderful that they are cognizant of the impact it would have on the local districts if they did make cuts",
+            "count": 1
+        }
+    ]
+}

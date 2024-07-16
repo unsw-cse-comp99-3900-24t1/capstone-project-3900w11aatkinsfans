@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:13",
+            "03:01",
+            "03:08",
+            "03:18",
+            "03:42",
+            "05:04"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "we got some positive news today",
+            "count": 2
+        },
+        {
+            "phrase": "it was great news for the event",
+            "count": 1
+        },
+        {
+            "phrase": "this is good news for us",
+            "count": 1
+        },
+        {
+            "phrase": "right so this news",
+            "count": 1
+        },
+        {
+            "phrase": "how did you hear about it",
+            "count": 1
+        },
+        {
+            "phrase": "wonderful that's excellent news",
+            "count": 1
+        }
+    ]
+}

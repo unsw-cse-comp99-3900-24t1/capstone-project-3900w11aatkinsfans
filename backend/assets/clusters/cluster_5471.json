@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "04:15",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i saw my parents hacked to death by a machete",
+            "count": 1
+        },
+        {
+            "phrase": "my parents were hacked to death by a machete",
+            "count": 1
+        },
+        {
+            "phrase": "what are you so worried about at least your parents haven't been hacked to death by a machete",
+            "count": 1
+        },
+        {
+            "phrase": "my daddy killed me with a butcher knife",
+            "count": 1
+        }
+    ]
+}

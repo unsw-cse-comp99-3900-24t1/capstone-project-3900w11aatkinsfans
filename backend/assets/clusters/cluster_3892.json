@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:24",
+            "01:57",
+            "02:38",
+            "04:00"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "the season is already over with so they need to go to next year this frees up a lot of money for next year you needed to do something",
+            "count": 2
+        },
+        {
+            "phrase": "we're only allowed to take wagers on sporting events that are settled on the field that's why there's no wagering on the heisman trophy winner that's voting",
+            "count": 1
+        },
+        {
+            "phrase": "with all of the money on the table two mls teams with a lot of character and class will be playing in the final guys could have laid down about the situation but we went out and played we're pro athletes we get paid to do this for a living you know nothing else but to go out to win the game",
+            "count": 1
+        },
+        {
+            "phrase": "i had spent a month's salary to come and support the team despite finding it difficult to make ends meet i'm disappointed that wealthy people do not have any regard for the emotions of us poorer people and use their wealth to influence our players",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "03:51"
+        ],
+        "label": "duty"
+    },
+    "clusterList": [
+        {
+            "phrase": "duty of remembrance",
+            "count": 1
+        },
+        {
+            "phrase": "victims of duty",
+            "count": 1
+        }
+    ]
+}

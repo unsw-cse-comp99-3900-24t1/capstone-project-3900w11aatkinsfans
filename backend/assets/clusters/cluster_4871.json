@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:06",
+            "01:30",
+            "01:32"
+        ],
+        "label": "hmm"
+    },
+    "clusterList": [
+        {
+            "phrase": "hmm well that is good news",
+            "count": 1
+        },
+        {
+            "phrase": "okay well thanks",
+            "count": 1
+        },
+        {
+            "phrase": "well that's good to hear",
+            "count": 1
+        },
+        {
+            "phrase": "phew that's not too bad",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:40",
+            "02:10",
+            "03:12",
+            "03:14",
+            "04:22"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an entirely different planet",
+            "count": 2
+        },
+        {
+            "phrase": "the real world",
+            "count": 2
+        },
+        {
+            "phrase": "a better world by design",
+            "count": 1
+        },
+        {
+            "phrase": "go into the world",
+            "count": 1
+        }
+    ]
+}

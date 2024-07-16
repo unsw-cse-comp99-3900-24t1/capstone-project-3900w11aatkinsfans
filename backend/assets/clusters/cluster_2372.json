@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:37",
+            "02:39",
+            "02:52",
+            "03:19",
+            "04:28",
+            "04:55"
+        ],
+        "label": "sure"
+    },
+    "clusterList": [
+        {
+            "phrase": "inflate your tires",
+            "count": 4
+        },
+        {
+            "phrase": "sure your tires are properly inflated",
+            "count": 1
+        },
+        {
+            "phrase": "low tire pressure",
+            "count": 1
+        },
+        {
+            "phrase": "the car is good but the tires are wearing out quick",
+            "count": 1
+        }
+    ]
+}

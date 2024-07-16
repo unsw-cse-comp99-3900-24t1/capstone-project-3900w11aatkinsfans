@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            3,
+            3,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "00:27",
+            "00:42",
+            "00:51",
+            "01:06",
+            "01:09",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:10",
+            "03:48",
+            "03:51",
+            "03:54",
+            "04:28",
+            "04:31"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's unfortunate that the democratic majority found a way to extend authorization for the federal aviation administration but given the chance to extend the current medicare fee levels they objected twice",
+            "count": 7
+        },
+        {
+            "phrase": "my commitment to doctors has always been to make certain they do not suffer pay cuts due to a faulty medicare reimbursement formula",
+            "count": 7
+        },
+        {
+            "phrase": "cutting one area of medicare to help pay for another is bad policy",
+            "count": 7
+        },
+        {
+            "phrase": "the court recognized the dramatic impacts the medi-cal cuts will have on medi-cal beneficiaries and the state's health care system but ruled on narrow procedural grounds that it could not grant relief to the millions of californians whose health care will be impacted adversely by these cuts",
+            "count": 1
+        },
+        {
+            "phrase": "the decision by the court to allow the medi-cal payment cuts to proceed puts all californians at risk these cuts are likely to result in more patients seeking care in already overcrowded and overburdened emergency rooms which will mean longer wait times and higher costs for everyone patients are the real losers in this decision",
+            "count": 1
+        },
+        {
+            "phrase": "the issue was that they had inflated prices for drugs that were purchased by the state and federal medicaid programs",
+            "count": 1
+        },
+        {
+            "phrase": "the range of the products benefited from the rebate increase is much smaller than those suffered from the rebate cuts a year ago",
+            "count": 1
+        }
+    ]
+}

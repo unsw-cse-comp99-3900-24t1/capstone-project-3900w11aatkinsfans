@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:56",
+            "03:06",
+            "03:09",
+            "03:14",
+            "04:23"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i put myself in excellent shape especially the first few holes and knocked it in fairly close on a couple of them with a few wedges",
+            "count": 4
+        },
+        {
+            "phrase": "i maybe hit it a little better in canada and it was one more birdie and no bogeys",
+            "count": 3
+        },
+        {
+            "phrase": "the last couple of holes i had to make a lot oftough par putts on the playoff hole i just couldn't make it",
+            "count": 1
+        }
+    ]
+}

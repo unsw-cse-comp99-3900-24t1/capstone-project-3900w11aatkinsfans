@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:46",
+            "01:20",
+            "02:09",
+            "02:51",
+            "03:05",
+            "03:11",
+            "03:38"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "visting the gym",
+            "count": 3
+        },
+        {
+            "phrase": "we walk into the gym",
+            "count": 1
+        },
+        {
+            "phrase": "to get some match fitness",
+            "count": 1
+        },
+        {
+            "phrase": "it's one thing to practice in gym trunks",
+            "count": 1
+        },
+        {
+            "phrase": "the workouts of course",
+            "count": 1
+        },
+        {
+            "phrase": "pretending to go to the gym shoe",
+            "count": 1
+        }
+    ]
+}

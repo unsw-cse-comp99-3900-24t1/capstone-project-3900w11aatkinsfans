@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "01:23",
+            "02:00"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "and we need credibility with the public on this issue",
+            "count": 2
+        },
+        {
+            "phrase": "it is clearly important that i and the public should have a fuller picture of the facts",
+            "count": 1
+        }
+    ]
+}

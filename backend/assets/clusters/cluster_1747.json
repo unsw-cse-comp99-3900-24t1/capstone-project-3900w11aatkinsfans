@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "01:09",
+            "01:33",
+            "02:24",
+            "02:28",
+            "03:25",
+            "03:27",
+            "04:21"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "we all know folks who seem to be naturally creative outrageously productive somehow able to do things we can't do",
+            "count": 3
+        },
+        {
+            "phrase": "collaboration operates through a process in which the successful intellectual achievements of one person arouse the intellectual passions and enthusiasms of others",
+            "count": 2
+        },
+        {
+            "phrase": "the secret to creativity is knowing how to hide your sources",
+            "count": 1
+        },
+        {
+            "phrase": "creativity is limited by the members reduced ability to contribute input due to the increasing hostility anger and the elimination of trust",
+            "count": 1
+        },
+        {
+            "phrase": "more consistently engaging in creative activities",
+            "count": 1
+        },
+        {
+            "phrase": "creativity is the ability to see or be aware and to respond",
+            "count": 1
+        },
+        {
+            "phrase": "we may distinguish between two types of imaginative process the one starts with the word and arrives at the visual image and the one starts with the visual image and arrives at its verbal expression",
+            "count": 1
+        }
+    ]
+}

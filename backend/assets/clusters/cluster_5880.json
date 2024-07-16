@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "02:19"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the health-check that we should have had a long time ago so that we know where we are what we need to do to improve things",
+            "count": 1
+        },
+        {
+            "phrase": "when you improve on our measures health outcomes will improve directly as a result",
+            "count": 1
+        },
+        {
+            "phrase": "we basically have found what appears to be the requirements the nutrients to support life",
+            "count": 1
+        }
+    ]
+}

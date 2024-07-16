@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:01",
+            "02:06",
+            "02:09",
+            "02:22",
+            "02:32",
+            "03:01",
+            "03:37",
+            "03:48",
+            "03:50",
+            "03:56",
+            "04:13",
+            "04:28",
+            "04:37"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's good for them",
+            "count": 9
+        },
+        {
+            "phrase": "some good thing",
+            "count": 2
+        },
+        {
+            "phrase": "i think it's a good thing",
+            "count": 1
+        },
+        {
+            "phrase": "that's generally a good thing",
+            "count": 1
+        },
+        {
+            "phrase": "it's a great cause",
+            "count": 1
+        },
+        {
+            "phrase": "it's probably a good thing",
+            "count": 1
+        }
+    ]
+}

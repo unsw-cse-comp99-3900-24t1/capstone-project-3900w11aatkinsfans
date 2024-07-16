@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "01:09",
+            "02:20",
+            "03:51",
+            "03:54",
+            "04:07"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have cause to be uneasy",
+            "count": 3
+        },
+        {
+            "phrase": "we're all on our way out act accordingly",
+            "count": 1
+        },
+        {
+            "phrase": "it's just a very sad day that we're moving in the opposite direction",
+            "count": 1
+        },
+        {
+            "phrase": "it appears we're experiencing some more movement",
+            "count": 1
+        },
+        {
+            "phrase": "we know why the earth moves",
+            "count": 1
+        }
+    ]
+}

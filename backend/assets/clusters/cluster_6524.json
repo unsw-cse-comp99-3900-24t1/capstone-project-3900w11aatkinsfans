@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "03:47",
+            "04:41"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you call that there again",
+            "count": 1
+        },
+        {
+            "phrase": "you know what they normally call that",
+            "count": 1
+        },
+        {
+            "phrase": "this is the thing i've never heard of",
+            "count": 1
+        }
+    ]
+}

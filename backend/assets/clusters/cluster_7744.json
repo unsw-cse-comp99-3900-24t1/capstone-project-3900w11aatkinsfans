@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:59",
+            "04:59"
+        ],
+        "label": "first"
+    },
+    "clusterList": [
+        {
+            "phrase": "first signs of aging",
+            "count": 1
+        },
+        {
+            "phrase": "there is so much variability in making a diagnosis that this initial step i",
+            "count": 1
+        },
+        {
+            "phrase": "when you're young and you get a symptom you look at the symptom",
+            "count": 1
+        }
+    ]
+}

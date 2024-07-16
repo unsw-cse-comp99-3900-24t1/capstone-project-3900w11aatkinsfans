@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "03:48"
+        ],
+        "label": "page"
+    },
+    "clusterList": [
+        {
+            "phrase": "page fault in nonpaged area",
+            "count": 1
+        }
+    ]
+}

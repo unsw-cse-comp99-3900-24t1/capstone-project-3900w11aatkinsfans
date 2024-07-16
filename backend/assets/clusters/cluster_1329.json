@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:45",
+            "01:47",
+            "03:10",
+            "03:24",
+            "03:38",
+            "03:51",
+            "03:59",
+            "04:13",
+            "04:15",
+            "04:32",
+            "04:45"
+        ],
+        "label": "forest"
+    },
+    "clusterList": [
+        {
+            "phrase": "the global forest",
+            "count": 4
+        },
+        {
+            "phrase": "forest of wonders",
+            "count": 1
+        },
+        {
+            "phrase": "landscapes and plant life",
+            "count": 1
+        },
+        {
+            "phrase": "the forest for the trees",
+            "count": 1
+        },
+        {
+            "phrase": "the tropical garden",
+            "count": 1
+        },
+        {
+            "phrase": "avenue of the redwoods pretty place big trees",
+            "count": 1
+        },
+        {
+            "phrase": "gardens of hope",
+            "count": 1
+        },
+        {
+            "phrase": "the great outdoors",
+            "count": 1
+        },
+        {
+            "phrase": "maps of the parks",
+            "count": 1
+        }
+    ]
+}

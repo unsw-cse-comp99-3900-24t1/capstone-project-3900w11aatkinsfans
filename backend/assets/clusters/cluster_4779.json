@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "04:07",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i used to be a browns fan",
+            "count": 1
+        },
+        {
+            "phrase": "i feel like the cincinnati fans have done griffey wrong over the years",
+            "count": 1
+        },
+        {
+            "phrase": "i always grew up being a steelers fan even when i was in detroit they were in the super bowl i was at the game going crazy like a no 1 steelers fan hopefully i can end my career here",
+            "count": 1
+        },
+        {
+            "phrase": "all browns team",
+            "count": 1
+        }
+    ]
+}

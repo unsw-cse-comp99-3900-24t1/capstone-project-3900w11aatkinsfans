@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:57",
+            "04:08",
+            "04:45"
+        ],
+        "label": "interview"
+    },
+    "clusterList": [
+        {
+            "phrase": "over in the wp's op-ed page david ignatius tells of his one-on-one interview with president bush where the two talked about iran",
+            "count": 4
+        },
+        {
+            "phrase": "interview with osama bin laden",
+            "count": 2
+        },
+        {
+            "phrase": "interview with majdi salim",
+            "count": 1
+        },
+        {
+            "phrase": "interview with ahmad husayn mustafa ujayzah",
+            "count": 1
+        },
+        {
+            "phrase": "interview with ayman al zawahiri",
+            "count": 1
+        }
+    ]
+}

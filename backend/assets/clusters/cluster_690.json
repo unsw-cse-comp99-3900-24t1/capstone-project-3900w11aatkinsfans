@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:27",
+            "00:38",
+            "01:02",
+            "01:06",
+            "01:07",
+            "01:33",
+            "01:37",
+            "02:52",
+            "03:10",
+            "03:18",
+            "03:19",
+            "03:34",
+            "03:51",
+            "04:05",
+            "04:28",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you look at what intel does with processors most deals and investments are with an eye to grow the market",
+            "count": 7
+        },
+        {
+            "phrase": "we saw cost reductions for silicon computer chips of 50 for every year and a half for the last 40 years",
+            "count": 5
+        },
+        {
+            "phrase": "the rate of growth is quite dramatic there",
+            "count": 1
+        },
+        {
+            "phrase": "despite the increase in unit demand asp pressures will mean the market for gaas devices will be effectively flat over 2008 and 2009",
+            "count": 1
+        },
+        {
+            "phrase": "we'll still sell intel because they're quite high-end but chenbro provides more specialty",
+            "count": 1
+        },
+        {
+            "phrase": "the hope of the industry is to double the number of cores every 18 months my prediction is by 2014 we will have 1 000-core architectures but the problem is current architectures don't scale",
+            "count": 1
+        },
+        {
+            "phrase": "meanwhile the market for digital gaas ics actually showed year-on-year growth for the first time in several years as a result of demand from the 10gbps gigabit per second fiber-optic markets",
+            "count": 1
+        },
+        {
+            "phrase": "it's a certain niche in the market that hasn't been touched yet",
+            "count": 1
+        },
+        {
+            "phrase": "we expect apple's stock to continue to outperform the broader tech market and despite possible near-term consumer spending challenges apple will demonstrate excellent growth",
+            "count": 1
+        }
+    ]
+}

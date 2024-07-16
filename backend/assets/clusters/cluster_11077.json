@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:01"
+        ],
+        "label": "science"
+    },
+    "clusterList": [
+        {
+            "phrase": "science leads you to killing people",
+            "count": 1
+        },
+        {
+            "phrase": "science leads to killing people",
+            "count": 1
+        }
+    ]
+}

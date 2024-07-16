@@ -1,0 +1,415 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            1,
+            3,
+            1,
+            9,
+            5,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            3,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            2,
+            2,
+            3,
+            3,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            6,
+            1,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            6,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            4,
+            2,
+            2,
+            7,
+            1,
+            2,
+            3,
+            4,
+            1,
+            5,
+            1,
+            3,
+            1,
+            1,
+            1,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:06",
+            "00:11",
+            "00:12",
+            "00:14",
+            "00:16",
+            "00:19",
+            "00:20",
+            "00:23",
+            "00:32",
+            "00:33",
+            "00:36",
+            "00:38",
+            "00:48",
+            "00:50",
+            "00:52",
+            "00:56",
+            "01:01",
+            "01:05",
+            "01:07",
+            "01:11",
+            "01:13",
+            "01:20",
+            "01:25",
+            "01:28",
+            "01:32",
+            "01:37",
+            "01:40",
+            "01:42",
+            "01:43",
+            "01:46",
+            "01:47",
+            "01:48",
+            "01:51",
+            "01:59",
+            "02:01",
+            "02:06",
+            "02:20",
+            "02:23",
+            "02:24",
+            "02:28",
+            "02:29",
+            "02:33",
+            "02:34",
+            "02:42",
+            "02:51",
+            "03:00",
+            "03:05",
+            "03:06",
+            "03:09",
+            "03:14",
+            "03:15",
+            "03:16",
+            "03:21",
+            "03:22",
+            "03:27",
+            "03:34",
+            "03:35",
+            "03:37",
+            "03:41",
+            "03:44",
+            "03:46",
+            "03:48",
+            "03:50",
+            "03:51",
+            "03:54",
+            "03:55",
+            "04:00",
+            "04:08",
+            "04:13",
+            "04:18",
+            "04:19",
+            "04:20",
+            "04:21",
+            "04:24",
+            "04:27",
+            "04:28",
+            "04:31",
+            "04:37",
+            "04:41",
+            "04:45",
+            "04:47",
+            "04:49",
+            "04:55",
+            "05:00",
+            "05:01",
+            "05:03",
+            "05:04",
+            "05:05"
+        ],
+        "label": "harry"
+    },
+    "clusterList": [
+        {
+            "phrase": "the dark knight",
+            "count": 75
+        },
+        {
+            "phrase": "lord of the rings",
+            "count": 9
+        },
+        {
+            "phrase": "harry potter and the deathly hallows",
+            "count": 6
+        },
+        {
+            "phrase": "lord of the seas",
+            "count": 5
+        },
+        {
+            "phrase": "harry potter and the half-blood prince",
+            "count": 4
+        },
+        {
+            "phrase": "the tale of the three brothers",
+            "count": 4
+        },
+        {
+            "phrase": "the wizard of oz",
+            "count": 4
+        },
+        {
+            "phrase": "indiana jones and the kingdom of the crystal skull",
+            "count": 4
+        },
+        {
+            "phrase": "the tales of the three brothers",
+            "count": 3
+        },
+        {
+            "phrase": "the knight's quest",
+            "count": 3
+        },
+        {
+            "phrase": "prince of persia",
+            "count": 3
+        },
+        {
+            "phrase": "the chronicles of narnia prince caspian",
+            "count": 2
+        },
+        {
+            "phrase": "the magic man",
+            "count": 2
+        },
+        {
+            "phrase": "batman and the monster men",
+            "count": 2
+        },
+        {
+            "phrase": "indiana jones and the last crusade",
+            "count": 2
+        },
+        {
+            "phrase": "knights of cydonia",
+            "count": 2
+        },
+        {
+            "phrase": "the lord of the rings",
+            "count": 2
+        },
+        {
+            "phrase": "harry potter and the goblet of fire",
+            "count": 2
+        },
+        {
+            "phrase": "king of the elves",
+            "count": 1
+        },
+        {
+            "phrase": "the order of the phoenix",
+            "count": 1
+        },
+        {
+            "phrase": "lord of misrule",
+            "count": 1
+        },
+        {
+            "phrase": "the chronicles of narnia",
+            "count": 1
+        },
+        {
+            "phrase": "beauty and the beast",
+            "count": 1
+        },
+        {
+            "phrase": "house of god",
+            "count": 1
+        },
+        {
+            "phrase": "lord of the rings books",
+            "count": 1
+        },
+        {
+            "phrase": "lord and giver of life",
+            "count": 1
+        },
+        {
+            "phrase": "the four horsemen",
+            "count": 1
+        },
+        {
+            "phrase": "rockin with the king",
+            "count": 1
+        },
+        {
+            "phrase": "brilliance of the moon tales of the otori book three",
+            "count": 1
+        },
+        {
+            "phrase": "the great gatsby",
+            "count": 1
+        },
+        {
+            "phrase": "lord of the dance",
+            "count": 1
+        },
+        {
+            "phrase": "the holy grail",
+            "count": 1
+        },
+        {
+            "phrase": "wrath of the lich king",
+            "count": 1
+        },
+        {
+            "phrase": "the golden man",
+            "count": 1
+        },
+        {
+            "phrase": "kingdom of heaven",
+            "count": 1
+        },
+        {
+            "phrase": "the king of comedy",
+            "count": 1
+        },
+        {
+            "phrase": "the tale of three brothers",
+            "count": 1
+        },
+        {
+            "phrase": "reign of the insane",
+            "count": 1
+        },
+        {
+            "phrase": "comic book movie",
+            "count": 1
+        },
+        {
+            "phrase": "lord of the last day",
+            "count": 1
+        },
+        {
+            "phrase": "jason and the argonauts",
+            "count": 1
+        },
+        {
+            "phrase": "the phantom menace",
+            "count": 1
+        },
+        {
+            "phrase": "prince of persia the sands of time",
+            "count": 1
+        },
+        {
+            "phrase": "king of the",
+            "count": 1
+        },
+        {
+            "phrase": "king of the ladies",
+            "count": 1
+        },
+        {
+            "phrase": "prince caspian chronicles of narnia",
+            "count": 1
+        },
+        {
+            "phrase": "king of the mountain",
+            "count": 1
+        },
+        {
+            "phrase": "the chronicles of narnia the lion the witch and the wardrobe",
+            "count": 1
+        },
+        {
+            "phrase": "the dukes of hazzard",
+            "count": 1
+        },
+        {
+            "phrase": "temple of doom",
+            "count": 1
+        },
+        {
+            "phrase": "son of the dragon",
+            "count": 1
+        },
+        {
+            "phrase": "book of the dead",
+            "count": 1
+        },
+        {
+            "phrase": "the lost ring",
+            "count": 1
+        },
+        {
+            "phrase": "harry potter and the order of the phoenix",
+            "count": 1
+        },
+        {
+            "phrase": "wizard of magicland",
+            "count": 1
+        },
+        {
+            "phrase": "the lion king",
+            "count": 1
+        }
+    ]
+}

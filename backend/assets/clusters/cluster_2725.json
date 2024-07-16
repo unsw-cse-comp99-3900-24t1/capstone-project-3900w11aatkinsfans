@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "02:29",
+            "02:42",
+            "03:29",
+            "03:38",
+            "04:28"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "about to get settled in and start working out",
+            "count": 2
+        },
+        {
+            "phrase": "it will be ok food and me always works out",
+            "count": 1
+        },
+        {
+            "phrase": "everything's working pretty well",
+            "count": 1
+        },
+        {
+            "phrase": "it's all worked out very well",
+            "count": 1
+        },
+        {
+            "phrase": "everything will work out",
+            "count": 1
+        },
+        {
+            "phrase": "how's that gonna work",
+            "count": 1
+        }
+    ]
+}

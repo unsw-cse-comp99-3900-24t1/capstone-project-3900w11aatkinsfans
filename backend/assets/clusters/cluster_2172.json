@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "01:57",
+            "02:10",
+            "02:14",
+            "04:04",
+            "04:46",
+            "04:51"
+        ],
+        "label": "must"
+    },
+    "clusterList": [
+        {
+            "phrase": "must be the moon",
+            "count": 2
+        },
+        {
+            "phrase": "shadows and sunlight",
+            "count": 2
+        },
+        {
+            "phrase": "once in a lew moon",
+            "count": 2
+        },
+        {
+            "phrase": "in the towers of no shadow",
+            "count": 1
+        },
+        {
+            "phrase": "the shadow over innsmouth",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:50",
+            "04:33"
+        ],
+        "label": "sorry"
+    },
+    "clusterList": [
+        {
+            "phrase": "sorry we cannot and do not take lawyers up here",
+            "count": 1
+        },
+        {
+            "phrase": "oh yes mr mendoza the solicitor has been expecting you he is in his office please follow me",
+            "count": 1
+        },
+        {
+            "phrase": "mr mendoza you do have some legal options but i would have to refer you to another solicitor if you wish to explore them",
+            "count": 1
+        }
+    ]
+}

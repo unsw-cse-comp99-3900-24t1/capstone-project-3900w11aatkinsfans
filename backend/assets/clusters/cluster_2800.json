@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:32",
+            "01:39",
+            "03:56",
+            "04:06",
+            "04:45"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "the slowly project",
+            "count": 2
+        },
+        {
+            "phrase": "that was a big project",
+            "count": 1
+        },
+        {
+            "phrase": "this project is very similar to the last project",
+            "count": 1
+        },
+        {
+            "phrase": "there are numerous pluses to this project",
+            "count": 1
+        },
+        {
+            "phrase": "with a few projects",
+            "count": 1
+        },
+        {
+            "phrase": "i think we need to look at one project and finish it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:04",
+            "00:21",
+            "00:50",
+            "01:07",
+            "01:20",
+            "01:29",
+            "02:39",
+            "03:05",
+            "03:08",
+            "03:10",
+            "03:14",
+            "04:00",
+            "04:06",
+            "04:12",
+            "04:22",
+            "04:32",
+            "05:05"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "tell me why",
+            "count": 2
+        },
+        {
+            "phrase": "why should he",
+            "count": 2
+        },
+        {
+            "phrase": "then why post it",
+            "count": 2
+        },
+        {
+            "phrase": "the right reasons",
+            "count": 2
+        },
+        {
+            "phrase": "why not both",
+            "count": 1
+        },
+        {
+            "phrase": "because of you",
+            "count": 1
+        },
+        {
+            "phrase": "why why should i",
+            "count": 1
+        },
+        {
+            "phrase": "haha really why",
+            "count": 1
+        },
+        {
+            "phrase": "of course why do you",
+            "count": 1
+        },
+        {
+            "phrase": "no good reason at all",
+            "count": 1
+        },
+        {
+            "phrase": "for personal reasons",
+            "count": 1
+        },
+        {
+            "phrase": "give me a reason",
+            "count": 1
+        },
+        {
+            "phrase": "should i or shouldn't i",
+            "count": 1
+        },
+        {
+            "phrase": "why me why me",
+            "count": 1
+        },
+        {
+            "phrase": "well why not",
+            "count": 1
+        },
+        {
+            "phrase": "really why should",
+            "count": 1
+        }
+    ]
+}

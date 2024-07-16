@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:06",
+            "02:40",
+            "04:41"
+        ],
+        "label": "suggest"
+    },
+    "clusterList": [
+        {
+            "phrase": "suggest that in the fiscal year starting in october 28 million people in the us will be using government food stamps to by essential groceries the highest level since the food assistance programme was introduced in the 1960s",
+            "count": 1
+        },
+        {
+            "phrase": "what we are seeing is a higher request for food because our agencies are serving more people",
+            "count": 1
+        },
+        {
+            "phrase": "that is why we need a second 50 billion stimulus package that both relieves the burden on middle-class families and helps to jump-start job creation",
+            "count": 1
+        },
+        {
+            "phrase": "the u s agriculture department said wednesday it expects u s food prices to climb an additional 4 to 5 in 2009 as high grain prices continue to squeeze their way into the american diet",
+            "count": 1
+        }
+    ]
+}

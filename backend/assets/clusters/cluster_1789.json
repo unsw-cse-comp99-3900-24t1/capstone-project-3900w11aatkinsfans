@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:00",
+            "01:07",
+            "01:14",
+            "03:10",
+            "03:51",
+            "04:14",
+            "04:18",
+            "04:32",
+            "05:04"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he took himself out of it",
+            "count": 5
+        },
+        {
+            "phrase": "he was at the back he didn't have a dance",
+            "count": 1
+        },
+        {
+            "phrase": "he's walking on his own again",
+            "count": 1
+        },
+        {
+            "phrase": "he was dancing around and acting really crazy",
+            "count": 1
+        },
+        {
+            "phrase": "in his eyes there was no movement or nothing",
+            "count": 1
+        },
+        {
+            "phrase": "he was gone wheels spinning",
+            "count": 1
+        }
+    ]
+}

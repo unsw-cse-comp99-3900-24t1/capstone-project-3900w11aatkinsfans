@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:48",
+            "01:01",
+            "02:20"
+        ],
+        "label": "growing"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've got a ton of trees in grant park and we're really maximizing those trees this year",
+            "count": 2
+        },
+        {
+            "phrase": "growing oaks for god's glory",
+            "count": 1
+        },
+        {
+            "phrase": "the oaks are just too greedy we will make them give us light",
+            "count": 1
+        }
+    ]
+}

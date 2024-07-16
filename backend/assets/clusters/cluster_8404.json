@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "03:50"
+        ],
+        "label": "proclamation"
+    },
+    "clusterList": [
+        {
+            "phrase": "proclamation of thanksgiving",
+            "count": 1
+        },
+        {
+            "phrase": "the family a proclamation to the world",
+            "count": 1
+        }
+    ]
+}

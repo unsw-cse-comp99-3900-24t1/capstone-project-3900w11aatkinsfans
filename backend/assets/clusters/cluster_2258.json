@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:11",
+            "02:55",
+            "04:37"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are bad laws and cruel laws and the people who enforce them are both bad and cruel",
+            "count": 6
+        },
+        {
+            "phrase": "whether they be criminal laws or whether they be the laws of local government",
+            "count": 1
+        },
+        {
+            "phrase": "produce law abiding and productive citizens within the community",
+            "count": 1
+        }
+    ]
+}

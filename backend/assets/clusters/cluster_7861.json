@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "03:52"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all we are is dust in the wind",
+            "count": 1
+        },
+        {
+            "phrase": "but outside of that we're pretty much here all the time",
+            "count": 1
+        }
+    ]
+}

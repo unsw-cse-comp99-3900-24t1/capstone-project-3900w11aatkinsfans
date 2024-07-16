@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "00:28",
+            "01:50",
+            "02:25",
+            "03:48",
+            "03:55",
+            "04:58"
+        ],
+        "label": "quotable"
+    },
+    "clusterList": [
+        {
+            "phrase": "start a business",
+            "count": 2
+        },
+        {
+            "phrase": "it's a supply and demand business",
+            "count": 2
+        },
+        {
+            "phrase": "quotable business the simple explanation",
+            "count": 1
+        },
+        {
+            "phrase": "it's all a question of business",
+            "count": 1
+        },
+        {
+            "phrase": "the business is the car",
+            "count": 1
+        },
+        {
+            "phrase": "unless you've got a real specialized business case in mind it's a real tough business",
+            "count": 1
+        },
+        {
+            "phrase": "well they are a business",
+            "count": 1
+        },
+        {
+            "phrase": "what's crazy is to open a business from scratch",
+            "count": 1
+        }
+    ]
+}

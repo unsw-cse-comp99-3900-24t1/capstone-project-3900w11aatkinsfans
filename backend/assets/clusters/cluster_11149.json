@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:05"
+        ],
+        "label": "copy"
+    },
+    "clusterList": [
+        {
+            "phrase": "copy sub-directory and file security permissions only valid for ntfs",
+            "count": 1
+        },
+        {
+            "phrase": "directory does not exist on destination and cannot be created access is denied",
+            "count": 1
+        }
+    ]
+}

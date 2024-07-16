@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:40",
+            "01:25",
+            "02:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "for the majority of people",
+            "count": 3
+        },
+        {
+            "phrase": "the people of the world to see",
+            "count": 1
+        }
+    ]
+}

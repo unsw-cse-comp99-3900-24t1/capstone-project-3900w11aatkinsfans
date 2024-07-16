@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:17",
+            "04:03"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you and i have made it growing up through the depression as children ourselves and as young adults through a world war our own parents certainly had cause to worry about us too",
+            "count": 1
+        },
+        {
+            "phrase": "as a child it took courage to survive the war that i was in",
+            "count": 1
+        },
+        {
+            "phrase": "you and i have made it growing up through the depression as children ourselves and as young adults through a world war",
+            "count": 1
+        }
+    ]
+}

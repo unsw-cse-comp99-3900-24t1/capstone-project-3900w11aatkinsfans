@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:15",
+            "03:18"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it takes the courage and strength of a warrior to ask for help",
+            "count": 1
+        },
+        {
+            "phrase": "i mean there is no reason for you to use your physical strength to open that door",
+            "count": 1
+        },
+        {
+            "phrase": "yeah he doesn't know his own strength he didn't mean to hurt me",
+            "count": 1
+        }
+    ]
+}

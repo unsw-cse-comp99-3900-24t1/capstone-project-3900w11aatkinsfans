@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            4,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:32",
+            "01:37",
+            "03:00",
+            "03:23",
+            "03:27",
+            "03:38",
+            "03:39",
+            "04:19",
+            "05:01"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "great photography is easy",
+            "count": 10
+        },
+        {
+            "phrase": "on-line learning for eos digital photographer",
+            "count": 2
+        },
+        {
+            "phrase": "i enjoy outdoor activities so many of my photographs consist of landscapes and aerials",
+            "count": 1
+        },
+        {
+            "phrase": "i'm an emi executive and a photographer",
+            "count": 1
+        },
+        {
+            "phrase": "photography is nothing it's life that interests me",
+            "count": 1
+        },
+        {
+            "phrase": "the questions a photographer raises may be more profound than the answers the medium permits",
+            "count": 1
+        },
+        {
+            "phrase": "knowing nothing about photography",
+            "count": 1
+        }
+    ]
+}

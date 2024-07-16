@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:00",
+            "01:43",
+            "02:05",
+            "03:37",
+            "04:28",
+            "05:01"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "are there legal remedies that alleviate not just existing racism but racism from the past",
+            "count": 2
+        },
+        {
+            "phrase": "is affirmative action justified under what circumstances",
+            "count": 1
+        },
+        {
+            "phrase": "it's basically reintroducing racial segregation",
+            "count": 1
+        },
+        {
+            "phrase": "oppose s all efforts to mix the races of mankind",
+            "count": 1
+        },
+        {
+            "phrase": "but we can deal with issues of race responsibly calmly respectfully and with understanding",
+            "count": 1
+        },
+        {
+            "phrase": "it's not that renquist had a blind spot concerning race he was an active proponent of discrimination",
+            "count": 1
+        },
+        {
+            "phrase": "this is not racism this is affirmation action",
+            "count": 1
+        }
+    ]
+}

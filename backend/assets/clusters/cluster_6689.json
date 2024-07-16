@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:42",
+            "04:36"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's an emerging trend and one that has not anywhere near peaked",
+            "count": 1
+        },
+        {
+            "phrase": "but it remains to be seen if this is a blip or the beginning of a positive trend",
+            "count": 1
+        },
+        {
+            "phrase": "our point is the trend",
+            "count": 1
+        }
+    ]
+}

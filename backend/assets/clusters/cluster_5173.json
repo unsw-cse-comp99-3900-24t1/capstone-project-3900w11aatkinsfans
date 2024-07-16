@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:56",
+            "03:33",
+            "03:46"
+        ],
+        "label": "could"
+    },
+    "clusterList": [
+        {
+            "phrase": "could we get some of them rice balls as an appetizer perhaps",
+            "count": 1
+        },
+        {
+            "phrase": "can these tiny grains truly be rice",
+            "count": 1
+        },
+        {
+            "phrase": "if you grew up thinking rice was only for dessert you might live in minnesota",
+            "count": 1
+        },
+        {
+            "phrase": "wow they have brown rice now",
+            "count": 1
+        }
+    ]
+}

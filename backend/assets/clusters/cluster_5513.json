@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:41",
+            "02:00",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i had never seen anything like it thousands of protestors in the streets confronting police and tear gas",
+            "count": 1
+        },
+        {
+            "phrase": "now i tell the protesters take a camera take a camera",
+            "count": 1
+        },
+        {
+            "phrase": "to the point where now a dozen years or so later it's very hard to find a protester without a camera and the police are very aware of that",
+            "count": 1
+        },
+        {
+            "phrase": "this generation of protesters tend to be much more restrained than their parents or grandparents maybe in part because they too want to look better on video tape",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:41",
+            "04:28"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are the times that try men's souls the summer soldier and sunshine patriot will in this crisis shrink from the service of his country but he that stands it now deserves the love and thank of man and woman",
+            "count": 2
+        },
+        {
+            "phrase": "these are the times that try mens souls the summer soldier and the sunshine patriot will in this crisis shrink from the service of their country but he that stands it now deserves the love and thanks of man and woman",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "00:50",
+            "02:19",
+            "03:34",
+            "03:59"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are confident that forrester plus jupiter research will generate ever-higher value for you and your company",
+            "count": 2
+        },
+        {
+            "phrase": "today my administration announced 36 million for new carbon capture projects in other words it's more than just research",
+            "count": 1
+        },
+        {
+            "phrase": "we've got this rich environment of research scientists who could be available for industries who could want to work in this area to enhance our natural resources",
+            "count": 1
+        },
+        {
+            "phrase": "jupiter's employees are also going to benefit from the combination with forrester forrester execs have enthusiastically expressed to me their respect for the quality of our staff and are eager for us to become part of the expanded company jupiter folks will reap the benefits of being part of a larger organization with its rich resources track record of effective execution and commitment to employee growth and career development",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "03:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the return programme has not been very successful as few afghans have used it and that is of course a result of the situation in afghanistan all such return programmes are completely dependent on developments in the home country",
+            "count": 1
+        },
+        {
+            "phrase": "the families of the afghans that come to norway may have used large portions of their savings on sending them here in the hope that for instance the only son in the family will establish himself here and send home money if he can't then it's a greatly humiliating defeat this cultural aspect is vital and related to this we also think it is important to ensure that the returns programme is improved so that the afghans have something positive to return to",
+            "count": 1
+        },
+        {
+            "phrase": "now 17 of the 34 provinces in afghanistan have electronic funds transfer and it's effective because it cuts down on the corruption of money changing hands",
+            "count": 1
+        }
+    ]
+}

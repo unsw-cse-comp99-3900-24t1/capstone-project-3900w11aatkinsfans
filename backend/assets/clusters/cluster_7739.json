@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "03:09",
+            "04:55"
+        ],
+        "label": "unhealthy"
+    },
+    "clusterList": [
+        {
+            "phrase": "unhealthy greasy bar food",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not anorexic i'm from texas are there people from texas that are anorexic i've never heard of one and that includes me",
+            "count": 1
+        },
+        {
+            "phrase": "ugh you dont like gross fatty oil salt laden fast food anorexic",
+            "count": 1
+        }
+    ]
+}

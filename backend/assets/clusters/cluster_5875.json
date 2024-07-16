@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "01:46",
+            "02:14"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "given the erratic behavior of microsoft with its constantly changing terms and scope of deal i wouldn't predict anything",
+            "count": 2
+        },
+        {
+            "phrase": "but i'm putting to bed the idea that we'll see a deal with microsoft anytime this year",
+            "count": 1
+        }
+    ]
+}

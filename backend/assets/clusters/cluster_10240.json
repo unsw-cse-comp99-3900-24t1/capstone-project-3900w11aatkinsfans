@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "02:14"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is no single factor that precipitated this event",
+            "count": 1
+        },
+        {
+            "phrase": "low probability high consequence event",
+            "count": 1
+        }
+    ]
+}

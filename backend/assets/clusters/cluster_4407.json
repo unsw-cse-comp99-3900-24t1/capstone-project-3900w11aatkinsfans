@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:14",
+            "03:46"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at a glance",
+            "count": 2
+        },
+        {
+            "phrase": "on the 2",
+            "count": 1
+        },
+        {
+            "phrase": "rate it all",
+            "count": 1
+        }
+    ]
+}

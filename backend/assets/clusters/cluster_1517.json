@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:27",
+            "00:56",
+            "01:09",
+            "01:47",
+            "02:28",
+            "03:10",
+            "03:51",
+            "04:31",
+            "04:35"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "whether i write that book remains to be seen",
+            "count": 7
+        },
+        {
+            "phrase": "you're going to write an after story aren't you",
+            "count": 2
+        },
+        {
+            "phrase": "oh god i want to desecrate literature with you",
+            "count": 1
+        },
+        {
+            "phrase": "every day i write the book",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:41",
+            "01:23",
+            "01:24",
+            "01:32",
+            "04:40",
+            "04:47",
+            "04:51",
+            "04:55"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm proud of this team's run",
+            "count": 1
+        },
+        {
+            "phrase": "it's good to have a team win one",
+            "count": 1
+        },
+        {
+            "phrase": "i love how we re appearing at a site that has welcomed team players throughout its history",
+            "count": 1
+        },
+        {
+            "phrase": "the rangers fans are the best in the world",
+            "count": 1
+        },
+        {
+            "phrase": "my relationship with the fans has been absolutely fantastic since the first game when i came on and no one knew who i was the affection cannot only be down to that one goal there has to be something else they liked about me",
+            "count": 1
+        },
+        {
+            "phrase": "my relationship with the fans has been absolutely fantastic since the first game i came on and no one knew who i was though the affection cannot only be down to that one goal there has to be something else they liked about me",
+            "count": 1
+        },
+        {
+            "phrase": "still a very good team",
+            "count": 1
+        },
+        {
+            "phrase": "it was an entertaining lively match our players took the initiative from the start and you've always got to be satisfied when you score four goals",
+            "count": 1
+        },
+        {
+            "phrase": "they are a terrific club they beat us about the same number of times we've beaten them",
+            "count": 1
+        }
+    ]
+}

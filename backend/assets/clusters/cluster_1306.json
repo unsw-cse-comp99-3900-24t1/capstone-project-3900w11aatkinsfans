@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:32",
+            "00:34",
+            "00:46",
+            "01:10",
+            "02:46",
+            "03:15",
+            "03:27",
+            "03:48",
+            "04:24"
+        ],
+        "label": "omg"
+    },
+    "clusterList": [
+        {
+            "phrase": "he did it first",
+            "count": 3
+        },
+        {
+            "phrase": "he started it",
+            "count": 3
+        },
+        {
+            "phrase": "i still don't know how he did it",
+            "count": 2
+        },
+        {
+            "phrase": "omg i can't believe he just fucking did that",
+            "count": 1
+        },
+        {
+            "phrase": "some other dude did it",
+            "count": 1
+        },
+        {
+            "phrase": "he did the wall",
+            "count": 1
+        },
+        {
+            "phrase": "how'd he do that",
+            "count": 1
+        }
+    ]
+}

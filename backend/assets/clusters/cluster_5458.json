@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:24",
+            "04:07",
+            "04:12"
+        ],
+        "label": "hopefully"
+    },
+    "clusterList": [
+        {
+            "phrase": "hopefully if you'll just listen it won't come to that",
+            "count": 1
+        },
+        {
+            "phrase": "this song sounds like this song",
+            "count": 1
+        },
+        {
+            "phrase": "nobody said to me listen to this it will do you good it wasn't like eating your vegetables to me it was ice cream",
+            "count": 1
+        },
+        {
+            "phrase": "listen to this it'll do you good",
+            "count": 1
+        }
+    ]
+}

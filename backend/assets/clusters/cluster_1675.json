@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            10
+        ],
+        "xLabels": [
+            "01:22"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select distinct cast year postdate as varchar 4 as year",
+            "count": 2
+        },
+        {
+            "phrase": "select distinct cast month postdate as varchar 2 as month",
+            "count": 2
+        },
+        {
+            "phrase": "where cast year postdate as varchar 4 year",
+            "count": 2
+        },
+        {
+            "phrase": "where cast year postdate as varchar 4 year and",
+            "count": 2
+        },
+        {
+            "phrase": "cast month postdate as varchar 2 month",
+            "count": 2
+        }
+    ]
+}

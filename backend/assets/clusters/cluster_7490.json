@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "04:03",
+            "04:28"
+        ],
+        "label": "families"
+    },
+    "clusterList": [
+        {
+            "phrase": "families need to communicate in order to stay strong but unfortunately economic-instigated depressions mean that silence is getting the better of people",
+            "count": 1
+        },
+        {
+            "phrase": "this causes social isolation and loneliness and quite often escalates the problems already being faced",
+            "count": 1
+        },
+        {
+            "phrase": "fixing social problems is too complicated",
+            "count": 1
+        }
+    ]
+}

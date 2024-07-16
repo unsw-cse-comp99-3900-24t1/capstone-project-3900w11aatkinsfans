@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:20",
+            "00:51",
+            "01:01",
+            "02:20",
+            "03:51",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "babbity rabbity and her cackling stump",
+            "count": 4
+        },
+        {
+            "phrase": "the mma chick",
+            "count": 1
+        },
+        {
+            "phrase": "the trapeze daughter",
+            "count": 1
+        },
+        {
+            "phrase": "she amp him is zooey deschanel and m ward",
+            "count": 1
+        }
+    ]
+}

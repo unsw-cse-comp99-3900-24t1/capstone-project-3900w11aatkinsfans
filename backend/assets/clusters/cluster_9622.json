@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "03:28"
+        ],
+        "label": "could"
+    },
+    "clusterList": [
+        {
+            "phrase": "could end up with one of the great american automotive brands in jeep",
+            "count": 1
+        },
+        {
+            "phrase": "what's good for the country is good for general motors and vice versa",
+            "count": 1
+        }
+    ]
+}

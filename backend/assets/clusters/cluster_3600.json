@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:20",
+            "00:59",
+            "01:01"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why don't they let us fall in love",
+            "count": 2
+        },
+        {
+            "phrase": "so we don't leave them on their own we tell them to be brave and we give them that extra bit of love",
+            "count": 2
+        },
+        {
+            "phrase": "gravitation is not responsible for people falling in love",
+            "count": 1
+        }
+    ]
+}

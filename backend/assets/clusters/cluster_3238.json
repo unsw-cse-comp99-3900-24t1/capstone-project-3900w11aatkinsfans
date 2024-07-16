@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:13",
+            "01:30",
+            "02:10",
+            "02:38",
+            "04:19"
+        ],
+        "label": "language"
+    },
+    "clusterList": [
+        {
+            "phrase": "people are haunted by the idea from the intellectual heights that life is in reality absurd",
+            "count": 2
+        },
+        {
+            "phrase": "language of thought",
+            "count": 1
+        },
+        {
+            "phrase": "we pass to the reality that corresponds to these words",
+            "count": 1
+        },
+        {
+            "phrase": "discourse of ideas",
+            "count": 1
+        },
+        {
+            "phrase": "anything the mind can conceive and believe it can achieve",
+            "count": 1
+        }
+    ]
+}

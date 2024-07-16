@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "04:03",
+            "04:31",
+            "04:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the great thing was it brought a lot of people into the downtown core restaurants coffee shots and stores all did really well",
+            "count": 1
+        },
+        {
+            "phrase": "in minneapolis the lunches weren't too terrible but they were bad enough",
+            "count": 1
+        },
+        {
+            "phrase": "we had a really great run and the staff of the downtown restaurant they've been an honor to work for",
+            "count": 1
+        },
+        {
+            "phrase": "my favorite place to eat was little pete's on st claude about four blocks from the industrial canal",
+            "count": 1
+        }
+    ]
+}

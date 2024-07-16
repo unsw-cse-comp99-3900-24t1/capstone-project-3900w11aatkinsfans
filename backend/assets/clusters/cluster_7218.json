@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:14",
+            "03:42",
+            "04:41"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is it a money maker absolutely",
+            "count": 1
+        },
+        {
+            "phrase": "you think cash is trying to compete with",
+            "count": 1
+        },
+        {
+            "phrase": "not something made in redmond that i can make money using my mcse off of",
+            "count": 1
+        }
+    ]
+}

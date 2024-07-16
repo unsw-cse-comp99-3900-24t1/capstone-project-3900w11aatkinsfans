@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "04:04",
+            "04:10",
+            "04:33",
+            "04:52"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "on more than a few occasions his name would surface as a potential trade candidate and everybody in the game would have to pay attention",
+            "count": 2
+        },
+        {
+            "phrase": "who'd they get for him anyway",
+            "count": 2
+        },
+        {
+            "phrase": "and it's human interest as well i'd hope they recognize him some of them will eric heitmann and those guys will know exactly who he is",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not sure there really is one guy that we target as the anchor of this trade",
+            "count": 1
+        }
+    ]
+}

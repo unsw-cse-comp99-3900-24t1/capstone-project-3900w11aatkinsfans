@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:32",
+            "03:19",
+            "04:12"
+        ],
+        "label": "mom"
+    },
+    "clusterList": [
+        {
+            "phrase": "mom this film speaks to today just as rocky horror spoke to your generation",
+            "count": 1
+        },
+        {
+            "phrase": "mystery science theater 3000 the movie",
+            "count": 1
+        },
+        {
+            "phrase": "the rocky horror pictureshow",
+            "count": 1
+        },
+        {
+            "phrase": "the rocky horror picureshow",
+            "count": 1
+        }
+    ]
+}

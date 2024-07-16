@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:19",
+            "02:55"
+        ],
+        "label": "goldman"
+    },
+    "clusterList": [
+        {
+            "phrase": "bill gates of bakersfield",
+            "count": 2
+        },
+        {
+            "phrase": "goldman is headed by a wealthy san francisco insurance magnate",
+            "count": 1
+        },
+        {
+            "phrase": "he was the bill gates of bakersfield",
+            "count": 1
+        },
+        {
+            "phrase": "someone said you're the one who called my dad the bill gates of bakersfield",
+            "count": 1
+        }
+    ]
+}

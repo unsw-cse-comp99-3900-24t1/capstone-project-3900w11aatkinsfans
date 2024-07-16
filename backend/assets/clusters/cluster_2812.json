@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:32",
+            "01:33",
+            "02:13",
+            "03:09",
+            "04:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's been kind of like the movie gladiator",
+            "count": 3
+        },
+        {
+            "phrase": "that's better than a movie",
+            "count": 1
+        },
+        {
+            "phrase": "not another one of those corny movies",
+            "count": 1
+        },
+        {
+            "phrase": "oh my god this movie is sooooooooo good you're going to love it",
+            "count": 1
+        },
+        {
+            "phrase": "i love big action movies",
+            "count": 1
+        }
+    ]
+}

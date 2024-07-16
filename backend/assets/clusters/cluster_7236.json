@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "02:01",
+            "04:17"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select employeeid lastname address from employees",
+            "count": 2
+        },
+        {
+            "phrase": "employee of the month",
+            "count": 1
+        }
+    ]
+}

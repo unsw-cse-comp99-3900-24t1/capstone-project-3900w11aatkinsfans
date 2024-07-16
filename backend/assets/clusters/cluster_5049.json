@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "02:07",
+            "02:11",
+            "02:23"
+        ],
+        "label": "journal"
+    },
+    "clusterList": [
+        {
+            "phrase": "journal of evolutionary psychology",
+            "count": 1
+        },
+        {
+            "phrase": "link the evolution",
+            "count": 1
+        },
+        {
+            "phrase": "published in the online edition of the journal evolutionary biology",
+            "count": 1
+        },
+        {
+            "phrase": "refuting evolution 2 book is based on responses to the excellent pbs series entitled",
+            "count": 1
+        }
+    ]
+}

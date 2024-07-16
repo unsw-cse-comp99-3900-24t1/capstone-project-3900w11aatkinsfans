@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "02:44",
+            "04:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will assess the remaining homes as and when we receive their claims",
+            "count": 2
+        },
+        {
+            "phrase": "we are awaiting full assessment reports but feedback from assessors to date has been very positive on the condition of the houses",
+            "count": 2
+        },
+        {
+            "phrase": "given the living conditions out there kind of a group housing if you will i have a question in my own mind as to how vigorous the inspections of those properties were from a safety point of view",
+            "count": 1
+        },
+        {
+            "phrase": "if a minority of the homeowners can't afford the assessments maybe those owners need to find another place to live",
+            "count": 1
+        }
+    ]
+}

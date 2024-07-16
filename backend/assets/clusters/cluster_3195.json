@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:46",
+            "01:56",
+            "02:04",
+            "04:04"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this will not attract art-lovers it will attract voyeurs which is not good for brisbane or women in general",
+            "count": 3
+        },
+        {
+            "phrase": "some of the other galleries have turned up their noses but we've been told brisbane is not doing anything lively this has more of a melbourne or new york feel",
+            "count": 2
+        },
+        {
+            "phrase": "we hope it appeals to local artists who want the opportunity to connect with an artist currently exhibiting in the international world of art",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "03:45",
+            "03:50",
+            "03:56",
+            "04:23"
+        ],
+        "label": "rather"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i got traded i got traded or if i had to wait the full 10 days and get released and then sign with another team that was the way i was going to go i just wanted the chance to pitch again this year",
+            "count": 2
+        },
+        {
+            "phrase": "rather make no trade than a bad trade",
+            "count": 1
+        },
+        {
+            "phrase": "we had teams come back to us with things we just could never get anything that was a good baseball trade for the minnesota twins we didn't get anything that could make us better",
+            "count": 1
+        },
+        {
+            "phrase": "i told my teammates in atlanta good luck but at the same time i have a chance to win a world series with the angels",
+            "count": 1
+        },
+        {
+            "phrase": "the most spectacular in-season acquisition in the 50-year history of the los angeles dodgers",
+            "count": 1
+        }
+    ]
+}

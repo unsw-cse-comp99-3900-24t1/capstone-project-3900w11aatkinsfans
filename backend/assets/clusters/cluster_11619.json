@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:46",
+            "04:36"
+        ],
+        "label": "charlotte"
+    },
+    "clusterList": [
+        {
+            "phrase": "charlotte is a boring smaller version of atlanta",
+            "count": 1
+        },
+        {
+            "phrase": "i think a lot of that has to do with the proximity to charlotte",
+            "count": 1
+        }
+    ]
+}

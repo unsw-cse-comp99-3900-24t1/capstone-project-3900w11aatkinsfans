@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:18",
+            "01:06",
+            "01:38",
+            "01:41",
+            "01:47",
+            "03:00",
+            "03:49",
+            "04:45"
+        ],
+        "label": "congress"
+    },
+    "clusterList": [
+        {
+            "phrase": "congress doesn't do anything",
+            "count": 2
+        },
+        {
+            "phrase": "do-nothing 80th congress",
+            "count": 1
+        },
+        {
+            "phrase": "the question before this congress is simple",
+            "count": 1
+        },
+        {
+            "phrase": "do-nothing congress may have done something on immigration",
+            "count": 1
+        },
+        {
+            "phrase": "the list of things that congress has tried to do and so far failed to do is quite long beginning with energy of course i t's no wonder the public is unhappy about the performance of congress because they have every right to be this has been a session characterized more by its failure to act than by its success in getting anything done",
+            "count": 1
+        },
+        {
+            "phrase": "there have been no major sweeping initiatives coming out of this democratic-controlled congress",
+            "count": 1
+        },
+        {
+            "phrase": "congressman's hulshof's washington answers don't work here",
+            "count": 1
+        },
+        {
+            "phrase": "the low approval rating for democratic leaders in congress is not likely to put the party's control of congress in jeopardy",
+            "count": 1
+        },
+        {
+            "phrase": "congress can fix it",
+            "count": 1
+        }
+    ]
+}

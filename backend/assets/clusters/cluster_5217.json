@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:00",
+            "02:22",
+            "03:10"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "the story that unfolded as i went i began to get a greater depth and understanding of just what this group of men had undertaken",
+            "count": 2
+        },
+        {
+            "phrase": "what is interesting about this is how it confirms some biblical ideas including man is designed to believe in god",
+            "count": 1
+        },
+        {
+            "phrase": "there is in their stories instruction for men endued with understanding it is not a tale invented but a confirmation of what went before it a detailed exposition of all things and a guide and a mercy to any such as believe",
+            "count": 1
+        }
+    ]
+}

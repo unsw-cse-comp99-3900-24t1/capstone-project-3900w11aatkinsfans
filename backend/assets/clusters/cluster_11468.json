@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:34"
+        ],
+        "label": "isapproved"
+    },
+    "clusterList": [
+        {
+            "phrase": "isapproved issubscriber customerid",
+            "count": 2
+        }
+    ]
+}

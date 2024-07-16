@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:27",
+            "00:28",
+            "00:37",
+            "00:41",
+            "00:46",
+            "00:55",
+            "01:10",
+            "02:39",
+            "03:19",
+            "03:43",
+            "04:19"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "the bill before the house treats pay discrimination as systemic",
+            "count": 6
+        },
+        {
+            "phrase": "employee free choice act",
+            "count": 3
+        },
+        {
+            "phrase": "we have to remember that the paycheck fairness act is about a lot more than fixing a couple of loopholes in a law that passed decades ago it's about strengthening families combating poverty and finally recognizing that equal work deserves equal pay",
+            "count": 1
+        },
+        {
+            "phrase": "paycheck fairness act and",
+            "count": 1
+        },
+        {
+            "phrase": "restoring fairness to the economy",
+            "count": 1
+        }
+    ]
+}

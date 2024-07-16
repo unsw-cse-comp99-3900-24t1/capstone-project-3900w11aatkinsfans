@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "04:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mothman prophecies",
+            "count": 2
+        },
+        {
+            "phrase": "the musings and prophecies of metstradamus",
+            "count": 1
+        }
+    ]
+}

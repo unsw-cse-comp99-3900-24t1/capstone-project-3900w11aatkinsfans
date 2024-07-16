@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:27",
+            "00:32",
+            "01:07",
+            "01:11",
+            "01:19",
+            "01:47",
+            "01:51",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your it people are saying we can do it",
+            "count": 5
+        },
+        {
+            "phrase": "of course there are those who will tell us this can't be done",
+            "count": 5
+        },
+        {
+            "phrase": "people said to me when we set out on this that it would never be done",
+            "count": 1
+        },
+        {
+            "phrase": "of course there are those who will tell us that this can't be done",
+            "count": 1
+        }
+    ]
+}

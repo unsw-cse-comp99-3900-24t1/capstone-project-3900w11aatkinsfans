@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "03:11",
+            "04:06"
+        ],
+        "label": "three"
+    },
+    "clusterList": [
+        {
+            "phrase": "three gods in one",
+            "count": 1
+        },
+        {
+            "phrase": "the god makers",
+            "count": 1
+        },
+        {
+            "phrase": "god goddess the all that is also",
+            "count": 1
+        }
+    ]
+}

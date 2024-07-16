@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:09",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the five dysfunctions of a team",
+            "count": 2
+        },
+        {
+            "phrase": "if there's a team that's struggling",
+            "count": 1
+        }
+    ]
+}

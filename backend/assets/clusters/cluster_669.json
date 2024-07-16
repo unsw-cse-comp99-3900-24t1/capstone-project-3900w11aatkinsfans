@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            3,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:29",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:34",
+            "03:46",
+            "03:48",
+            "03:51",
+            "04:28",
+            "04:59"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm a 26 year old military wife and mom of 2 stationed at aviano afb italy with my husband who proudly serves in the us air force",
+            "count": 14
+        },
+        {
+            "phrase": "the air force",
+            "count": 3
+        },
+        {
+            "phrase": "air force rappers",
+            "count": 1
+        },
+        {
+            "phrase": "air force mom",
+            "count": 1
+        },
+        {
+            "phrase": "air force one",
+            "count": 1
+        }
+    ]
+}

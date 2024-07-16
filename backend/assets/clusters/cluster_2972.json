@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:34",
+            "02:41",
+            "03:27",
+            "04:24"
+        ],
+        "label": "since"
+    },
+    "clusterList": [
+        {
+            "phrase": "since the earth has survived massive meteors like the one that created the gulf of mexico massive volcanic eruptions that spewed millions of tons of ash into the atmosphere and incredibly large fires that charred millions and millions of acres and spewed tons of carbon into the atmosphere is man really capable of destroying the planet by burning the oil and coal that is in the planet",
+            "count": 4
+        },
+        {
+            "phrase": "ships aircraft and industrial equipment burn huge quantities of fossil fuel and cause massive greenhouse gas pollution yet george bush the us president stalls with one bureaucratic dodge after another",
+            "count": 1
+        },
+        {
+            "phrase": "hydrocarbon fuels created america gave us the technologies and living standards we enjoy today enabled us to eradicate diseases that plagued earlier generations and boosted our life expectancy from 50 in 1900 to nearly 80 today",
+            "count": 1
+        }
+    ]
+}

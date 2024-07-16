@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:10",
+            "01:11",
+            "03:42",
+            "04:23",
+            "04:36"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "everything i do i do it for you",
+            "count": 2
+        },
+        {
+            "phrase": "i'm not messing with you you know everything i do is amazing",
+            "count": 2
+        },
+        {
+            "phrase": "do what please's thee that is all i care about",
+            "count": 1
+        },
+        {
+            "phrase": "all i wanna do is be with you and watch the day go by",
+            "count": 1
+        },
+        {
+            "phrase": "i'll do everything to keep y'all away from each other",
+            "count": 1
+        }
+    ]
+}

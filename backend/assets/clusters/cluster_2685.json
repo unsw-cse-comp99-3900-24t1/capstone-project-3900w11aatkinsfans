@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:24",
+            "01:38",
+            "01:39",
+            "01:48",
+            "03:14",
+            "03:27"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are excited to announce the broad availability of quarkxpress 8 this new version of our flagship product raises the bar once again for page-layout and design",
+            "count": 3
+        },
+        {
+            "phrase": "we aren't prepared to announce or discuss any features for bioshock 2 at this time in regards to the recent job posting for 2k boston and the speculation it has created i'll just remind everyone that in our earnings call on march 11 we announced that bioshock 2 would be developed at our 2k marin studio",
+            "count": 2
+        },
+        {
+            "phrase": "when does it come out so i can start building a new pc",
+            "count": 1
+        },
+        {
+            "phrase": "intel officially released quad-core chips at ces yesterday so here's hoping for an 8-core mac pro announcement",
+            "count": 1
+        }
+    ]
+}

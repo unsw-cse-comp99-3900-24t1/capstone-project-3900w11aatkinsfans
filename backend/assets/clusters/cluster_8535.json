@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "04:56"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's unthinkable that we would let this continue",
+            "count": 1
+        },
+        {
+            "phrase": "that's something that would not have been possible just a few months ago",
+            "count": 1
+        }
+    ]
+}

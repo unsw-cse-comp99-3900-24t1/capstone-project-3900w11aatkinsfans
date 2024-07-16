@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:51",
+            "04:29",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're literally acting in a pit",
+            "count": 2
+        },
+        {
+            "phrase": "the cherry pit",
+            "count": 1
+        },
+        {
+            "phrase": "we aren't anything like the cherry pit",
+            "count": 1
+        }
+    ]
+}

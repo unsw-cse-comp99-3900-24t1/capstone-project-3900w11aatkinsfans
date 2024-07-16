@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:29",
+            "02:01"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we hadn't anticipated that volume",
+            "count": 1
+        },
+        {
+            "phrase": "was so much higher than we had anticipated",
+            "count": 1
+        },
+        {
+            "phrase": "we thought we were going to die",
+            "count": 1
+        }
+    ]
+}

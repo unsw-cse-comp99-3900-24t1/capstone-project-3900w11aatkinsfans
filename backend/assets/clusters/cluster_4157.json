@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:30",
+            "01:56",
+            "04:28",
+            "04:32"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what a friend we have in jesus",
+            "count": 3
+        },
+        {
+            "phrase": "having therefore these promises dearly beloved let us cleanse ourselves from all filthiness of the flesh and spirit perfecting holiness in the fear of god",
+            "count": 1
+        },
+        {
+            "phrase": "judaism teaches that god reserves a blessed existence in the world to come for the truly virtuous",
+            "count": 1
+        }
+    ]
+}

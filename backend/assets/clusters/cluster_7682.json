@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:06",
+            "04:00"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one day that'll be you",
+            "count": 1
+        },
+        {
+            "phrase": "the only limits to the possibilities in your life tomorrow are the buts you use today",
+            "count": 1
+        },
+        {
+            "phrase": "live today to the fullest",
+            "count": 1
+        }
+    ]
+}

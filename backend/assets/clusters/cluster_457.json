@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            8,
+            12,
+            5
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "04:56"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i arrived in estonia last week",
+            "count": 25
+        }
+    ]
+}

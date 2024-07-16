@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "05:03"
+        ],
+        "label": "miss"
+    },
+    "clusterList": [
+        {
+            "phrase": "miss mr have i ever seen this material before",
+            "count": 1
+        },
+        {
+            "phrase": "mister lonely self-enclosed though it may be nonetheless demonstrates that mr",
+            "count": 1
+        }
+    ]
+}

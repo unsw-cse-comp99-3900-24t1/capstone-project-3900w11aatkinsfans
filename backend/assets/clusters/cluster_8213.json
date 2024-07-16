@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "03:18"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm praying for you my brother",
+            "count": 1
+        },
+        {
+            "phrase": "of course not sir i will protect you with my very life",
+            "count": 1
+        }
+    ]
+}

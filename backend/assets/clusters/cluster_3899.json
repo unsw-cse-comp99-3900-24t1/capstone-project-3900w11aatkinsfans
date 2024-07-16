@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "02:19",
+            "02:46",
+            "04:19",
+            "04:22"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know what i can't do this anymore",
+            "count": 1
+        },
+        {
+            "phrase": "i can't do it alone and that's why i'm asking for your support",
+            "count": 1
+        },
+        {
+            "phrase": "now i have to tell people i just can't do this for free anymore",
+            "count": 1
+        },
+        {
+            "phrase": "i am only one but still i am one i cannot do everything but still i can do something",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to do something that messes me up mentally",
+            "count": 1
+        }
+    ]
+}

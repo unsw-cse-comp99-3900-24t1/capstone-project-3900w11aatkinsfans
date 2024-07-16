@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:01"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's three weekends that the athletes get to shine",
+            "count": 1
+        },
+        {
+            "phrase": "both teams do the same thing it doesn't matter if you run a marathon every night",
+            "count": 1
+        }
+    ]
+}

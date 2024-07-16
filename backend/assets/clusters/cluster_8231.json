@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:38"
+        ],
+        "label": "embedded"
+    },
+    "clusterList": [
+        {
+            "phrase": "embedded disabled by request",
+            "count": 1
+        },
+        {
+            "phrase": "embedding disabled by request",
+            "count": 1
+        }
+    ]
+}

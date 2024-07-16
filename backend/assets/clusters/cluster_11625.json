@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:47",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i love the fair",
+            "count": 1
+        },
+        {
+            "phrase": "i went to the fair",
+            "count": 1
+        }
+    ]
+}

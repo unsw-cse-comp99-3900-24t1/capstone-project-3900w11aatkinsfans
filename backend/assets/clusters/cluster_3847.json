@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "01:23",
+            "02:42",
+            "03:36",
+            "04:38"
+        ],
+        "label": "priestly"
+    },
+    "clusterList": [
+        {
+            "phrase": "priestly ordination in the catholic church from the beginning has always been reserved to men alone",
+            "count": 2
+        },
+        {
+            "phrase": "the orthodox are divided up into nineteen traditions the roman catholics have sixteen and the protestants have twenty-one if we throw the anglicans in they account for another six far from bedlam this appears to be simply the cost of the gospel doing business in a fallen world but whichever door you choose you have lots of work for private judgment to do in following up that choice",
+            "count": 1
+        },
+        {
+            "phrase": "very few differences could be found between any group of christians and any group of non-christians",
+            "count": 1
+        },
+        {
+            "phrase": "christians who believe in and are baptized in the name of the triune god-father son and holy spirit-are conjoined in a deep supernatural union but they still fall short of the full visible unity that christ wills for his church",
+            "count": 1
+        }
+    ]
+}

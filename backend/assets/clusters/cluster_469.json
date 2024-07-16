@@ -1,0 +1,143 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "00:57",
+            "01:07",
+            "01:09",
+            "01:47",
+            "02:01",
+            "02:47",
+            "03:15",
+            "03:16",
+            "03:18",
+            "03:22",
+            "03:24",
+            "03:32",
+            "03:42",
+            "03:48",
+            "03:51",
+            "04:04",
+            "04:21",
+            "04:28",
+            "04:36",
+            "04:38"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what can you do for me",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know what to do",
+            "count": 2
+        },
+        {
+            "phrase": "i want to help you",
+            "count": 2
+        },
+        {
+            "phrase": "what else can i do for you",
+            "count": 1
+        },
+        {
+            "phrase": "why i can't help that your perrty",
+            "count": 1
+        },
+        {
+            "phrase": "this place i'm taking you to there's something gt that will help you something important",
+            "count": 1
+        },
+        {
+            "phrase": "i just wanted to help",
+            "count": 1
+        },
+        {
+            "phrase": "no one can help me",
+            "count": 1
+        },
+        {
+            "phrase": "what shall i do",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just here to help any way that i can",
+            "count": 1
+        },
+        {
+            "phrase": "what can i do for you",
+            "count": 1
+        },
+        {
+            "phrase": "what help can i offer you",
+            "count": 1
+        },
+        {
+            "phrase": "who are you do you need help",
+            "count": 1
+        },
+        {
+            "phrase": "i can't help it",
+            "count": 1
+        },
+        {
+            "phrase": "but what could i do",
+            "count": 1
+        },
+        {
+            "phrase": "what do i do",
+            "count": 1
+        },
+        {
+            "phrase": "i want to help",
+            "count": 1
+        },
+        {
+            "phrase": "you can't help me",
+            "count": 1
+        },
+        {
+            "phrase": "i'm so sorry i want to help hyrule",
+            "count": 1
+        },
+        {
+            "phrase": "what can you do to help me",
+            "count": 1
+        },
+        {
+            "phrase": "we're only trying to help you",
+            "count": 1
+        },
+        {
+            "phrase": "is there anything i can do for you dear is there anyone i could call",
+            "count": 1
+        }
+    ]
+}

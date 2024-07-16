@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:34"
+        ],
+        "label": "any"
+    },
+    "clusterList": [
+        {
+            "phrase": "any background as to why having another device plugged into the fw port of my fw drive would cause this",
+            "count": 1
+        },
+        {
+            "phrase": "it's mostly the isight it's bus-powered and gets into weird states where it starts causing the voltage on fw to go completely nuts which causes other devices to generate errors",
+            "count": 1
+        }
+    ]
+}

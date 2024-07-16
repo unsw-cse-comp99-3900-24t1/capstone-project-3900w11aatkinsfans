@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:40",
+            "02:01",
+            "02:26",
+            "03:15",
+            "03:34",
+            "04:08",
+            "04:38",
+            "04:45"
+        ],
+        "label": "voices"
+    },
+    "clusterList": [
+        {
+            "phrase": "voices of a people's history of the united states",
+            "count": 4
+        },
+        {
+            "phrase": "fifty years from now history will look back on our time with unforgiving clarity",
+            "count": 4
+        },
+        {
+            "phrase": "america is at the crossroads of history",
+            "count": 1
+        },
+        {
+            "phrase": "backstory with the american history guys",
+            "count": 1
+        },
+        {
+            "phrase": "the rise of american democracy jefferson to lincoln",
+            "count": 1
+        },
+        {
+            "phrase": "we are on the right side of history even if it is the wrong side of now",
+            "count": 1
+        }
+    ]
+}

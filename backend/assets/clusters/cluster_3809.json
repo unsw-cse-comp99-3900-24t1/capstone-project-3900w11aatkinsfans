@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:24",
+            "00:39",
+            "01:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have to ask my opponent is that the best you can come up with",
+            "count": 2
+        },
+        {
+            "phrase": "is this the best my opponent can come up with",
+            "count": 1
+        },
+        {
+            "phrase": "i do have to ask my opponent is that the best you can come up with",
+            "count": 1
+        },
+        {
+            "phrase": "i guess you could say i'm a skilful player whose strength is his technique",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:16",
+            "02:00"
+        ],
+        "label": "tourism"
+    },
+    "clusterList": [
+        {
+            "phrase": "tourism in this area will be seriously affected by council's decision to not protect their beaches just so it can maintain market share in an area where there is a viable non-council alternative",
+            "count": 1
+        },
+        {
+            "phrase": "the australian institute of police management has operated from the collins beach site since 1960 successfully managing its cultural and indigenous aspects heritage buildings and environment including the flora and fauna populations",
+            "count": 1
+        },
+        {
+            "phrase": "the redevelopment is subject to both nsw and commonwealth planning approval including environmental conservation regulations and the afp will adhere to these strict controls",
+            "count": 1
+        },
+        {
+            "phrase": "the city of sydney and the iemma government are working together to ensure locals businesses and tourists can enjoy a safe and peaceful environment",
+            "count": 1
+        }
+    ]
+}

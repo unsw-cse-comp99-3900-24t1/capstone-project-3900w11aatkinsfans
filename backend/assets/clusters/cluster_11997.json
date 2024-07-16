@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "04:23"
+        ],
+        "label": "broke"
+    },
+    "clusterList": [
+        {
+            "phrase": "broke back mountain",
+            "count": 1
+        },
+        {
+            "phrase": "the fool on the hill",
+            "count": 1
+        }
+    ]
+}

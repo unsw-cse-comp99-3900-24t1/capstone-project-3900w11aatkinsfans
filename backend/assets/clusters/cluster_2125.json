@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:34",
+            "02:01",
+            "02:05",
+            "03:15",
+            "03:23",
+            "03:24",
+            "03:52"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm extremely glad we've done it",
+            "count": 2
+        },
+        {
+            "phrase": "we want to make sure this won't happen again",
+            "count": 2
+        },
+        {
+            "phrase": "we'll definitely do it again",
+            "count": 1
+        },
+        {
+            "phrase": "we're willing to take that chance",
+            "count": 1
+        },
+        {
+            "phrase": "can we do it again",
+            "count": 1
+        },
+        {
+            "phrase": "ok we are going to do that one more time",
+            "count": 1
+        }
+    ]
+}

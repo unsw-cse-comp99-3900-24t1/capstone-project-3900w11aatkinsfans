@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:19",
+            "03:20"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not everybody who participate in those activities develop leadership skills",
+            "count": 1
+        },
+        {
+            "phrase": "in other words it is just not sufficient for leaders who manage the learning process in organizations to focus on measuring learning outcomes that remain course-centered meaningful learning outcomes are business-centered and require that level of measurement to remain relevant to the organization's objectives",
+            "count": 1
+        },
+        {
+            "phrase": "aristotle is credited with the concept that leadership requires character competency and concern for others",
+            "count": 1
+        }
+    ]
+}

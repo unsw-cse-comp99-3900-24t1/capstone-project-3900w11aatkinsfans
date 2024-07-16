@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:01",
+            "03:10",
+            "03:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i shall be released",
+            "count": 2
+        },
+        {
+            "phrase": "be present and release",
+            "count": 1
+        }
+    ]
+}

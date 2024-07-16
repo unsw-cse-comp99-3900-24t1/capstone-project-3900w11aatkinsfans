@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "02:43",
+            "04:04",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's always room to work on your fitness and i'm still doing that but i feel i'm capable of doing my job around the field i'm feeling quite fit",
+            "count": 2
+        },
+        {
+            "phrase": "i said gosh that's great thank you i just wanted an opportunity to continue playing the biggest obstacle i had going for myself at that point in time was the injury that i was trying to work through as it turned out that pretty much took me down that was the end of my career after i had that injury",
+            "count": 1
+        },
+        {
+            "phrase": "you can do what you love to do but you don't feel responsibility about meeting a quota or making someone else happy doing it on my time and doing what i enjoy is what makes it great",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "04:37"
+        ],
+        "label": "red"
+    },
+    "clusterList": [
+        {
+            "phrase": "red bull flugtag challenges teams of everyday people to build homemade human-powered flying machines and pilot them off a 30-foot high deck in hopes of achieving flight",
+            "count": 1
+        },
+        {
+            "phrase": "heavier-than-air flying machines are impossible",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:17",
+            "01:50"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's pure snobbery however good a horsewoman i may be i'm also a glamour model that embarrassed the organisers",
+            "count": 1
+        },
+        {
+            "phrase": "it's pure snobbery however good a horsewoman i am i'm also a glamour model that embarrassed them",
+            "count": 1
+        }
+    ]
+}

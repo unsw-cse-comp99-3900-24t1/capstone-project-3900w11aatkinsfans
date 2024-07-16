@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:00"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey it looks like this package is somehow attached to the dog",
+            "count": 1
+        },
+        {
+            "phrase": "this package that you dragged me out to see it has this weird filament attached to it and it is attached to the dog",
+            "count": 1
+        }
+    ]
+}

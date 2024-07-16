@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "02:42",
+            "03:56",
+            "04:44",
+            "05:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "this city has a diversity and integration that make this project possible without traveling",
+            "count": 2
+        },
+        {
+            "phrase": "the effort local businesses put in is tremendous",
+            "count": 1
+        },
+        {
+            "phrase": "finally this project is a great example of municipal and provincial co-operation not to mention the business community i encourage the city to take advantage of this spirit of co-operation today and as often as possible in the future",
+            "count": 1
+        },
+        {
+            "phrase": "challenging times will demand innovative solutions and i look forward to working with the excellent team at capital construction to get the job done",
+            "count": 1
+        }
+    ]
+}

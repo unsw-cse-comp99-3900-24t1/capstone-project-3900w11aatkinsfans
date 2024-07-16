@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:30",
+            "01:52",
+            "04:31",
+            "04:44",
+            "04:54"
+        ],
+        "label": "he'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "he'll be in his usual spot",
+            "count": 1
+        },
+        {
+            "phrase": "i am almost certain that he will at least back down a bit",
+            "count": 1
+        },
+        {
+            "phrase": "it's the old setback if he can avoid the setbacks i think we can continue to be optimistic that he's going to return and i would have to say relatively soon",
+            "count": 1
+        },
+        {
+            "phrase": "he's going to have to familiarize himself with the county but once he's got his feet on the ground i believe he's going to do a good job",
+            "count": 1
+        },
+        {
+            "phrase": "hopefully he will build from that one and keep going forward",
+            "count": 1
+        },
+        {
+            "phrase": "he'll agree to stay out of the tenderloin",
+            "count": 1
+        }
+    ]
+}

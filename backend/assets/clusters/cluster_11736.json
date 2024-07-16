@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the government of the united states shall preserve and enhance the role of english as the national language of the united states of america",
+            "count": 1
+        },
+        {
+            "phrase": "the government of the united states shall preserve and enhance the role of english as the common and unifying language of america",
+            "count": 1
+        }
+    ]
+}

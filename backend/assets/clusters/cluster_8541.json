@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:47"
+        ],
+        "label": "could"
+    },
+    "clusterList": [
+        {
+            "phrase": "could not co",
+            "count": 1
+        },
+        {
+            "phrase": "could not have survived",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:07",
+            "02:23",
+            "02:28",
+            "02:32",
+            "02:42"
+        ],
+        "label": "toys"
+    },
+    "clusterList": [
+        {
+            "phrase": "toys for tots train",
+            "count": 6
+        }
+    ]
+}

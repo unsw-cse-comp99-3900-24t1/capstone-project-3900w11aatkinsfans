@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:52",
+            "02:15",
+            "02:27",
+            "02:39",
+            "03:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "face to face",
+            "count": 2
+        },
+        {
+            "phrase": "the punch bowl",
+            "count": 1
+        },
+        {
+            "phrase": "a slap in the face",
+            "count": 1
+        },
+        {
+            "phrase": "i would rather get punched in the face than have my character called into question",
+            "count": 1
+        },
+        {
+            "phrase": "hearty slap on the back",
+            "count": 1
+        }
+    ]
+}

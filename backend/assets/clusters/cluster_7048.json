@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "02:33"
+        ],
+        "label": "weigh"
+    },
+    "clusterList": [
+        {
+            "phrase": "weigh in 02 07 07",
+            "count": 1
+        },
+        {
+            "phrase": "weigh in 03 09 07",
+            "count": 1
+        },
+        {
+            "phrase": "weigh in 09 07 07",
+            "count": 1
+        }
+    ]
+}

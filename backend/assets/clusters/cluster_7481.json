@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:49",
+            "03:09",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the biggest joke in the world",
+            "count": 1
+        },
+        {
+            "phrase": "what is this some kind of joke",
+            "count": 1
+        },
+        {
+            "phrase": "joke of the day",
+            "count": 1
+        }
+    ]
+}

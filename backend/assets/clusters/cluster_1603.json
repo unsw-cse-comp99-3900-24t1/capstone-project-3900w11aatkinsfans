@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:46",
+            "01:00",
+            "01:15",
+            "02:05",
+            "02:33",
+            "03:27",
+            "04:33",
+            "05:01"
+        ],
+        "label": "bottom"
+    },
+    "clusterList": [
+        {
+            "phrase": "bottom of the deck",
+            "count": 6
+        },
+        {
+            "phrase": "i'm afraid i still don't know where the bottom is",
+            "count": 1
+        },
+        {
+            "phrase": "in the garden all in the dirt",
+            "count": 1
+        },
+        {
+            "phrase": "hit the deck",
+            "count": 1
+        },
+        {
+            "phrase": "bottom of the pack",
+            "count": 1
+        }
+    ]
+}

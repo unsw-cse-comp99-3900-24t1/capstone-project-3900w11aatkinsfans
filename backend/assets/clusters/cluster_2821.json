@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:24",
+            "00:41"
+        ],
+        "label": "losing"
+    },
+    "clusterList": [
+        {
+            "phrase": "losing the bulge",
+            "count": 6
+        }
+    ]
+}

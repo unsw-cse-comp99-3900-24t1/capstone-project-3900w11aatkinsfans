@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "04:45"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you might be a redneck if",
+            "count": 1
+        },
+        {
+            "phrase": "how all you rednecks doin out there",
+            "count": 1
+        }
+    ]
+}

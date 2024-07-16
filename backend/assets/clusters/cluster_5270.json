@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "03:22",
+            "04:05",
+            "04:31"
+        ],
+        "label": "won't"
+    },
+    "clusterList": [
+        {
+            "phrase": "won't be long until summer comes now that the boys are here again",
+            "count": 1
+        },
+        {
+            "phrase": "oooh when are you due you hang in there this summer",
+            "count": 1
+        },
+        {
+            "phrase": "will summer ever arrive",
+            "count": 1
+        },
+        {
+            "phrase": "might be the best weekend of the summer",
+            "count": 1
+        }
+    ]
+}

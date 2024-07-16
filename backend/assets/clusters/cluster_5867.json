@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:46"
+        ],
+        "label": "come"
+    },
+    "clusterList": [
+        {
+            "phrase": "come on then show yourself",
+            "count": 1
+        },
+        {
+            "phrase": "only i haven't seen you before",
+            "count": 1
+        },
+        {
+            "phrase": "i'll see you this arvo babe",
+            "count": 1
+        }
+    ]
+}

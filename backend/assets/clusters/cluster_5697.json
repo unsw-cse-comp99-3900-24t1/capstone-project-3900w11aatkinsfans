@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:16",
+            "03:27"
+        ],
+        "label": "photography"
+    },
+    "clusterList": [
+        {
+            "phrase": "photography i think as far as other media are concerned is still undervalued in general primarily because it can only be as old as the invention of the camera",
+            "count": 2
+        },
+        {
+            "phrase": "by contrast almost all writing about photography in our times tends to begin with the alleged nature of the product rather than with its production and use",
+            "count": 1
+        }
+    ]
+}

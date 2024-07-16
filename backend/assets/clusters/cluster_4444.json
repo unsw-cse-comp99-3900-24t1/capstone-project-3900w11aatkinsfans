@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:49",
+            "03:27",
+            "03:34"
+        ],
+        "label": "where"
+    },
+    "clusterList": [
+        {
+            "phrase": "back away from the keyboard",
+            "count": 2
+        },
+        {
+            "phrase": "where does it go",
+            "count": 1
+        },
+        {
+            "phrase": "turning it in",
+            "count": 1
+        }
+    ]
+}

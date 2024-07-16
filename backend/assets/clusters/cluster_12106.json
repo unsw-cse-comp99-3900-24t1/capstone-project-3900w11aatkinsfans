@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:16"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a man's ethical behavior should be based effectually on sympathy education and social ties no religious basis is necessary man would indeeded be in a poor way if he had to be restrained by fear of punishment and hope of reward after death",
+            "count": 1
+        },
+        {
+            "phrase": "somehow lack of care is so extreme that it constitutes bad faith which is disloyal",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:19",
+            "01:51"
+        ],
+        "label": "switch"
+    },
+    "clusterList": [
+        {
+            "phrase": "switch to fusion",
+            "count": 2
+        },
+        {
+            "phrase": "fire and ice searching for the truth behind the cold fusion furor",
+            "count": 1
+        },
+        {
+            "phrase": "cold fusion mk2",
+            "count": 1
+        }
+    ]
+}

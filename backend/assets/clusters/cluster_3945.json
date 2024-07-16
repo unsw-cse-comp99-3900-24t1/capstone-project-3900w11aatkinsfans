@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "01:46",
+            "02:09",
+            "02:14",
+            "03:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the archbishop of canterbury has asked us to wait for each other but how is it possible when we are not travelling in the same direction",
+            "count": 5
+        }
+    ]
+}

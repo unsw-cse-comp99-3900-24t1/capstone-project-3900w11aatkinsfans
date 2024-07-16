@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:00",
+            "02:39",
+            "04:23"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am the walrus",
+            "count": 3
+        },
+        {
+            "phrase": "i'm the lion you're dead",
+            "count": 1
+        }
+    ]
+}

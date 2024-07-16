@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:22",
+            "03:45",
+            "04:03",
+            "04:13",
+            "04:21",
+            "04:46",
+            "04:50",
+            "04:55"
+        ],
+        "label": "potentially"
+    },
+    "clusterList": [
+        {
+            "phrase": "just the tip of the iceberg",
+            "count": 4
+        },
+        {
+            "phrase": "to stop the iceberg from melting",
+            "count": 3
+        },
+        {
+            "phrase": "potentially this is just the tip of the iceberg",
+            "count": 1
+        }
+    ]
+}

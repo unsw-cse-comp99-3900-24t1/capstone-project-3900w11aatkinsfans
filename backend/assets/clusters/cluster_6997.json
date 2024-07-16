@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:23",
+            "04:28"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it takes a village to raise a village",
+            "count": 1
+        },
+        {
+            "phrase": "people that have been born and raised or actually worked around the farms that's the people you need to help out it sets the farmer at ease",
+            "count": 1
+        },
+        {
+            "phrase": "the village people",
+            "count": 1
+        }
+    ]
+}

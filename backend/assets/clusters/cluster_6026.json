@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:48"
+        ],
+        "label": "leif"
+    },
+    "clusterList": [
+        {
+            "phrase": "leif could've been one of these guys who constantly told you about his playing days or bragged about what he did",
+            "count": 1
+        },
+        {
+            "phrase": "we all have an ego some ex-players have a huge ego and their exploits grow but i think leif's didn't",
+            "count": 1
+        },
+        {
+            "phrase": "he's had plenty of attention for a guy who's never played a down",
+            "count": 1
+        }
+    ]
+}

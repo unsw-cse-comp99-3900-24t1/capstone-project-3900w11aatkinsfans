@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:26",
+            "02:19",
+            "04:03"
+        ],
+        "label": "verdict"
+    },
+    "clusterList": [
+        {
+            "phrase": "verdict is still out",
+            "count": 1
+        },
+        {
+            "phrase": "i am saddened by today's verdict this isn't the tony rezko i knew",
+            "count": 1
+        },
+        {
+            "phrase": "very pleased with the verdict on count two but very disappointed with the verdict on count one",
+            "count": 1
+        }
+    ]
+}

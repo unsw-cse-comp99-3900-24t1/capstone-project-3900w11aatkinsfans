@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:04",
+            "01:32",
+            "01:58",
+            "04:36",
+            "05:00"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that is my committee",
+            "count": 1
+        },
+        {
+            "phrase": "i'm on more committees than anybody on this board",
+            "count": 1
+        },
+        {
+            "phrase": "and how many mericans do you have on your committee",
+            "count": 1
+        },
+        {
+            "phrase": "most beautiful committee",
+            "count": 1
+        },
+        {
+            "phrase": "just gotta do something committee",
+            "count": 1
+        },
+        {
+            "phrase": "research and committee section",
+            "count": 1
+        }
+    ]
+}

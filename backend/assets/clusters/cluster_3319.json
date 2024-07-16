@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:29",
+            "02:36",
+            "03:01",
+            "03:05",
+            "03:50"
+        ],
+        "label": "those"
+    },
+    "clusterList": [
+        {
+            "phrase": "those are lies i do not comment on any longer",
+            "count": 4
+        },
+        {
+            "phrase": "lies amp the lying liars that tell them",
+            "count": 1
+        },
+        {
+            "phrase": "these people are lying to you",
+            "count": 1
+        }
+    ]
+}

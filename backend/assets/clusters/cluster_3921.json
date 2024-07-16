@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            5
+        ],
+        "xLabels": [
+            "01:38"
+        ],
+        "label": "sneak"
+    },
+    "clusterList": [
+        {
+            "phrase": "sneak previews from our catalogue",
+            "count": 3
+        },
+        {
+            "phrase": "before the movie we would like to show you previews of some of our films",
+            "count": 1
+        },
+        {
+            "phrase": "sneak previews from our movies in brown and white",
+            "count": 1
+        }
+    ]
+}

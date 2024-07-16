@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:44",
+            "01:43",
+            "01:51",
+            "01:56",
+            "02:11",
+            "02:23",
+            "02:24",
+            "02:51",
+            "03:18",
+            "03:33",
+            "04:23",
+            "04:42"
+        ],
+        "label": "agree"
+    },
+    "clusterList": [
+        {
+            "phrase": "if verification must cover the three big issues that certainly makes it more difficult than if you only focus on plutonium",
+            "count": 9
+        },
+        {
+            "phrase": "agree to a verification protocol that included the plutonium program the highly enriched uranium activities and the proliferation efforts",
+            "count": 8
+        },
+        {
+            "phrase": "reaffirmed the basic and inalienable right of all states to develop research production and use of atomic energy for peaceful purposes",
+            "count": 4
+        },
+        {
+            "phrase": "agree to a verification protocol that included the plutonium programme the highly enriched uranium activities and the proliferation efforts",
+            "count": 1
+        }
+    ]
+}

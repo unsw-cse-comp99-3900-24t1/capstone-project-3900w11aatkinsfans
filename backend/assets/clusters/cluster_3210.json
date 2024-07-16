@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:14",
+            "02:01",
+            "03:59",
+            "04:03",
+            "04:13"
+        ],
+        "label": "beautifully"
+    },
+    "clusterList": [
+        {
+            "phrase": "best pictures from the outside in",
+            "count": 2
+        },
+        {
+            "phrase": "beautifully photographed and evenly paced",
+            "count": 1
+        },
+        {
+            "phrase": "things more excellent than every image are expressed through images",
+            "count": 1
+        },
+        {
+            "phrase": "wanted to keep it a clean look and a sharp look",
+            "count": 1
+        },
+        {
+            "phrase": "best cover art",
+            "count": 1
+        }
+    ]
+}

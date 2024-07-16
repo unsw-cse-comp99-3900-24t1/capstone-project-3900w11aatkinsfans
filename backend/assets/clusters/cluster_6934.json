@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:57",
+            "02:10"
+        ],
+        "label": "being"
+    },
+    "clusterList": [
+        {
+            "phrase": "being a champion opens lots of doors-i'd like to get a real estate license maybe sell insurance",
+            "count": 1
+        },
+        {
+            "phrase": "ummm so you're not gonna be our realtor any more",
+            "count": 1
+        },
+        {
+            "phrase": "oh i have to i have to meet a real estate agent",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "01:57",
+            "03:34"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the starfish and the spider",
+            "count": 1
+        },
+        {
+            "phrase": "the professor and the butterfly",
+            "count": 1
+        },
+        {
+            "phrase": "the spider and the tulip",
+            "count": 1
+        }
+    ]
+}

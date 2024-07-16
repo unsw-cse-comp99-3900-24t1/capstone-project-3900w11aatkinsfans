@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:11",
+            "02:51",
+            "03:51"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well everything was all right up til then",
+            "count": 1
+        },
+        {
+            "phrase": "oh i didn't know anything everything was normal",
+            "count": 1
+        },
+        {
+            "phrase": "was that all that had to be done to set things right",
+            "count": 1
+        }
+    ]
+}

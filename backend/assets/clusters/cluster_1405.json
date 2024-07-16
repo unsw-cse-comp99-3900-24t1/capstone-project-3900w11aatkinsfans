@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:32",
+            "00:48",
+            "01:01",
+            "01:02",
+            "01:10",
+            "01:43",
+            "02:10",
+            "02:46",
+            "03:53",
+            "04:18"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "increasing and spreading insecurity is jeopardising the delivery of essential humanitarian assistance to these people and threatening their lives and livelihoods",
+            "count": 5
+        },
+        {
+            "phrase": "we the 100 national and international ngo members of acbar express our grave concern about the deteriorating security situation in afghanistan and the serious impact on civilians",
+            "count": 4
+        },
+        {
+            "phrase": "there is an urgent need for full support for the people of afghanistan particularly in remote rural areas and this increasing insecurity is threatening the ability of aid agencies to reach out to those areas",
+            "count": 2
+        },
+        {
+            "phrase": "the troika has security obligations in the region and statements by mugabe threatening those who oppose the government are of concern to them for them this is starting to become a threat to regional security",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "03:18"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is it today a trainer get his pokemon stolen again",
+            "count": 1
+        },
+        {
+            "phrase": "b-but who stoled him stole stoled whatever i haven't seen any trainer yet",
+            "count": 1
+        }
+    ]
+}

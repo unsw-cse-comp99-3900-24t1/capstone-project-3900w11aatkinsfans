@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "03:46",
+            "03:51",
+            "03:59"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if a nation expects to be ignorant and free it expects what never was and never will be",
+            "count": 3
+        },
+        {
+            "phrase": "if a nation expects to be ignorant and free in a state of civilization it expects what never was and never will be",
+            "count": 1
+        }
+    ]
+}

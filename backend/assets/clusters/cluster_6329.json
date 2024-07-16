@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:14",
+            "00:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can't let corporate greed interfere with getting a fair contract",
+            "count": 1
+        },
+        {
+            "phrase": "we'd accept a decrease in salary just to have contracts",
+            "count": 1
+        },
+        {
+            "phrase": "i'd rather have the best product we can have but we'd have to take away guaranteed contracts and do a whole bunch of stuff to have that happen",
+            "count": 1
+        }
+    ]
+}

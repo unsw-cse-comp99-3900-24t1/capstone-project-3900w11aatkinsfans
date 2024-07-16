@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:12",
+            "00:38"
+        ],
+        "label": "am"
+    },
+    "clusterList": [
+        {
+            "phrase": "am i the same girl",
+            "count": 2
+        },
+        {
+            "phrase": "heather are you okay you've been single for longer than twenty minutes",
+            "count": 1
+        },
+        {
+            "phrase": "wow you've been single for awhile you're not a lesbian are you",
+            "count": 1
+        },
+        {
+            "phrase": "are you over 40 and single then let us match you",
+            "count": 1
+        }
+    ]
+}

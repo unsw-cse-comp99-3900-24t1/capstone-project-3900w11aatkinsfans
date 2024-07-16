@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:05",
+            "01:07",
+            "01:23",
+            "01:50"
+        ],
+        "label": "winnipeg"
+    },
+    "clusterList": [
+        {
+            "phrase": "winnipeg is only a few miles from the u s border",
+            "count": 6
+        }
+    ]
+}

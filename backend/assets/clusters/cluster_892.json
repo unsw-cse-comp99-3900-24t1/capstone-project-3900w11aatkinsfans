@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:24",
+            "00:31",
+            "00:48",
+            "01:02",
+            "01:43",
+            "01:51",
+            "02:04",
+            "03:01",
+            "03:58",
+            "04:06",
+            "04:22",
+            "04:28",
+            "04:46",
+            "05:05"
+        ],
+        "label": "be"
+    },
+    "clusterList": [
+        {
+            "phrase": "get out of jail free",
+            "count": 3
+        },
+        {
+            "phrase": "in belgrade i was arrested irregularly for three days i was kidnapped my rights were not told me i had no right to a telephone call or even an sms text message",
+            "count": 2
+        },
+        {
+            "phrase": "i was arrested irregularly for three days i was kidnapped i was kept in a place my rights were not read out to me i had no right to a telephone",
+            "count": 2
+        },
+        {
+            "phrase": "be committed to prison for a period of six months",
+            "count": 1
+        },
+        {
+            "phrase": "out of jail free pass",
+            "count": 1
+        },
+        {
+            "phrase": "get the oxbow jail open and put the criminals behind bars",
+            "count": 1
+        },
+        {
+            "phrase": "i don't get up every morning saying i'm going to send some young black person to jail",
+            "count": 1
+        },
+        {
+            "phrase": "life is too hard maybe i belong in jail",
+            "count": 1
+        },
+        {
+            "phrase": "well expletive take me to jail",
+            "count": 1
+        },
+        {
+            "phrase": "wait a minute i don't want to go to jail",
+            "count": 1
+        },
+        {
+            "phrase": "my god when did you get out of prison",
+            "count": 1
+        },
+        {
+            "phrase": "if you can come to terms with the reasons for committing this despicable crime you can free yourself from your anger and resentment long before you walk from jail",
+            "count": 1
+        }
+    ]
+}

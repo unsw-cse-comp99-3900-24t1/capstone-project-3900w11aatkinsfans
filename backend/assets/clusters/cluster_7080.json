@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:39",
+            "03:27",
+            "03:37"
+        ],
+        "label": "however"
+    },
+    "clusterList": [
+        {
+            "phrase": "however if all of you won't mind",
+            "count": 1
+        },
+        {
+            "phrase": "absolutly i don't mind",
+            "count": 1
+        },
+        {
+            "phrase": "wait what never mind",
+            "count": 1
+        }
+    ]
+}

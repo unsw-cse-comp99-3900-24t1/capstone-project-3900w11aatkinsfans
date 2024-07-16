@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:24",
+            "00:36",
+            "01:06",
+            "01:46",
+            "02:20",
+            "02:25",
+            "03:06",
+            "03:18",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "lover please do not fall to your knees it's not like i believe in everlasting love",
+            "count": 7
+        },
+        {
+            "phrase": "i want to marry you",
+            "count": 1
+        },
+        {
+            "phrase": "i promise to love you forever every single day of forever will you marry me",
+            "count": 1
+        },
+        {
+            "phrase": "if you loved me you'd know what i want",
+            "count": 1
+        },
+        {
+            "phrase": "i want to spend my lifetime lovin you if that is all in life i ever do",
+            "count": 1
+        },
+        {
+            "phrase": "duh you've always got my love",
+            "count": 1
+        }
+    ]
+}

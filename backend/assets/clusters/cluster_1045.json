@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:11",
+            "00:13",
+            "00:43",
+            "00:56",
+            "01:05",
+            "01:39",
+            "03:06",
+            "04:17",
+            "04:28",
+            "04:32",
+            "04:33"
+        ],
+        "label": "pure"
+    },
+    "clusterList": [
+        {
+            "phrase": "made in china",
+            "count": 6
+        },
+        {
+            "phrase": "produced in america",
+            "count": 2
+        },
+        {
+            "phrase": "made in italy",
+            "count": 2
+        },
+        {
+            "phrase": "pure products of america",
+            "count": 1
+        },
+        {
+            "phrase": "made in carnation",
+            "count": 1
+        },
+        {
+            "phrase": "made in beantown",
+            "count": 1
+        },
+        {
+            "phrase": "key ingredients america by food",
+            "count": 1
+        }
+    ]
+}

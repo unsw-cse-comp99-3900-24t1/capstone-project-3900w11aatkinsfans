@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:50",
+            "02:55",
+            "03:05",
+            "03:09",
+            "03:10",
+            "03:48",
+            "04:23",
+            "04:27",
+            "04:36"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "those results allow the country to look forward with optimism",
+            "count": 8
+        },
+        {
+            "phrase": "we are absolutely committed to disciplined economic management but we must also recognise the underlying strengths of the australian economy and the fact that our surplus gives us a buffer against international uncertainty",
+            "count": 3
+        },
+        {
+            "phrase": "but having said that from an optimistic point of view and australia's point of view which is important given its investment in the country they're making progress",
+            "count": 1
+        }
+    ]
+}

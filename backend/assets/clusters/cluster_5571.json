@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:07",
+            "02:19"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well that was rude",
+            "count": 1
+        },
+        {
+            "phrase": "told u ya was acting funny it's time",
+            "count": 1
+        },
+        {
+            "phrase": "haha that ok it was just haha your face",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry was i tickling you",
+            "count": 1
+        }
+    ]
+}

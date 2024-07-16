@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "04:29"
+        ],
+        "label": "ministers"
+    },
+    "clusterList": [
+        {
+            "phrase": "ministers go to regions and they make announcements and they ask their staff members whether there's anything important coming forward",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think anyone's surprised that the ministers will be working through the olympic games nor do i think anyone will be surprised that they make announcements when they go to the regions so you know it's a lost email and i really don't think it's newsworthy",
+            "count": 1
+        },
+        {
+            "phrase": "but in this case we will write to the minister in regards to the internal inquiry",
+            "count": 1
+        }
+    ]
+}

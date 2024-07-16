@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:04",
+            "00:09",
+            "03:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i really don't have any thoughts as far as mark murphy going to mississippi",
+            "count": 2
+        },
+        {
+            "phrase": "you're not going to let justin go to ohio state are you",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sure he was very surprised by this but for him this is a good situation he's going to new york city and they are in contention",
+            "count": 1
+        }
+    ]
+}

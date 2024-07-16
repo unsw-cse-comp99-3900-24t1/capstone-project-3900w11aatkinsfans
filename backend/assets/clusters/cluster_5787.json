@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:44",
+            "04:05"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "well they talked about it so they must have meant it",
+            "count": 2
+        },
+        {
+            "phrase": "who hath heard such a thing",
+            "count": 1
+        }
+    ]
+}

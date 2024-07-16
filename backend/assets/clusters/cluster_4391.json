@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:41",
+            "04:05",
+            "04:37"
+        ],
+        "label": "bangers"
+    },
+    "clusterList": [
+        {
+            "phrase": "bangers amp cash",
+            "count": 1
+        },
+        {
+            "phrase": "littlefield parsons amp co manufacturers of union cases patented oct 14 1856",
+            "count": 1
+        },
+        {
+            "phrase": "cook amp tell",
+            "count": 1
+        },
+        {
+            "phrase": "shop gas amp dine",
+            "count": 1
+        }
+    ]
+}

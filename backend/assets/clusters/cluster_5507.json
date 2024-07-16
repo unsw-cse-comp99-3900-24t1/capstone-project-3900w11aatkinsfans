@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:21",
+            "02:51",
+            "04:28"
+        ],
+        "label": "gee"
+    },
+    "clusterList": [
+        {
+            "phrase": "gee he just compared the obama campaign to a notorious double murderer",
+            "count": 1
+        },
+        {
+            "phrase": "good morning blonde-sided a controversial new john mccain ad compares barack obama with britney spears and paris hilton is it over the top top advisors for both campaigns square off this morning",
+            "count": 1
+        },
+        {
+            "phrase": "comparing him to britney spears and paris hilton i was like ok",
+            "count": 1
+        },
+        {
+            "phrase": "are you comparing barack obama to britney spears and paris hilton",
+            "count": 1
+        }
+    ]
+}

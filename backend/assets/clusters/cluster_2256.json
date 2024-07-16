@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:19",
+            "01:30",
+            "03:13",
+            "03:14",
+            "03:22"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "he mofaz urged the americans to set firm conditions such as a refusal to allow the iranians to enrich uranium on their turf and to be clear that the deadline must be preserved the iranians are simply looking for cracks to exploit",
+            "count": 5
+        },
+        {
+            "phrase": "the statements made by u s officials that iran must suspend its uranium enrichment program do not deserve any attention and only harm the constructive atmosphere reached during the talks",
+            "count": 1
+        },
+        {
+            "phrase": "iran no deadline agreed on nuke deal",
+            "count": 1
+        },
+        {
+            "phrase": "iran incentives include letter of assurance by us secretary of state uk official",
+            "count": 1
+        }
+    ]
+}

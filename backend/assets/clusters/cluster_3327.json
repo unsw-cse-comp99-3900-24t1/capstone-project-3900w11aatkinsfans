@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:43",
+            "03:48",
+            "03:55"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll be able to pull the vessel off friday morning hopefully",
+            "count": 3
+        },
+        {
+            "phrase": "we'll be able to pull the vessel off this morning hopefully",
+            "count": 3
+        }
+    ]
+}

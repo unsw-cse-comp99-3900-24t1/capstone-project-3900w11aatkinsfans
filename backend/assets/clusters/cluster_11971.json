@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:05",
+            "04:45"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people thought i was a first-time mom",
+            "count": 1
+        },
+        {
+            "phrase": "you feel scared you know like if you're going to lose your mom",
+            "count": 1
+        }
+    ]
+}

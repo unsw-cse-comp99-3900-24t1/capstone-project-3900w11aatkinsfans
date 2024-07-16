@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:20",
+            "00:32",
+            "01:05",
+            "01:33",
+            "01:50",
+            "03:05",
+            "03:27",
+            "03:50",
+            "04:18",
+            "04:21",
+            "04:55",
+            "05:00"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't think any governor wants to be in this situation",
+            "count": 5
+        },
+        {
+            "phrase": "it is a terrible situation to be in i don't think any governor wants to be in this situation",
+            "count": 2
+        },
+        {
+            "phrase": "we are disappointed by the judge's tentative decision",
+            "count": 2
+        },
+        {
+            "phrase": "the governor felt uncomfortable with it and directed that the proposed regulation be withdrawn",
+            "count": 2
+        },
+        {
+            "phrase": "i'm disappointed with the governor's decision",
+            "count": 1
+        },
+        {
+            "phrase": "we are disappointed that massachusetts filed this action",
+            "count": 1
+        }
+    ]
+}

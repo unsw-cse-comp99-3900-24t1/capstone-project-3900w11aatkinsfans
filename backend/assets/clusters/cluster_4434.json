@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "03:37",
+            "04:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the bank's refusal to provide funds has virtually endangered the practicability of the bhasha dam on whose feasibility and technical reports huge amounts have already been spent since 2006",
+            "count": 1
+        },
+        {
+            "phrase": "wapda raised the issue of financial resources for its mega projects which is a big challenge as the word bank has declined to finance the diamer-bhasha dam and other projects in the northern areas and the ajk",
+            "count": 1
+        },
+        {
+            "phrase": "however it is clear that the bangladesh government will not be in a position in the foreseeable future to grant the projects the natural gas commitment they would require consequently there is no prospect of taking these projects further",
+            "count": 1
+        },
+        {
+            "phrase": "but this potential for within forest water management to efficiently distribute this increasingly precious resource is largely untapped",
+            "count": 1
+        }
+    ]
+}

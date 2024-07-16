@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:15",
+            "04:28",
+            "04:36"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the surge worked",
+            "count": 2
+        },
+        {
+            "phrase": "the surge was too little too late",
+            "count": 1
+        },
+        {
+            "phrase": "because of the surge we were able to go out and protect that sheik and others",
+            "count": 1
+        }
+    ]
+}

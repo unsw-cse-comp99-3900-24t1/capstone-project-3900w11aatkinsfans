@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "00:43",
+            "01:37",
+            "02:18"
+        ],
+        "label": "warning"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't create a gamertag or motto that references controversial religious topics notorious people organizations or sensitive current or historical events that may also be considered inappropriate",
+            "count": 2
+        },
+        {
+            "phrase": "warning religious content",
+            "count": 1
+        },
+        {
+            "phrase": "does bad theology induce bad church website design",
+            "count": 1
+        }
+    ]
+}

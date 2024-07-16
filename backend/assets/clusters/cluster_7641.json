@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "03:18",
+            "04:28"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well next time don't tell anyone what you stole out of the house just keep it",
+            "count": 1
+        },
+        {
+            "phrase": "i-i heard that you were caught stealing and i i can't believe that it's true you're here for stealing",
+            "count": 1
+        },
+        {
+            "phrase": "you're a thief",
+            "count": 1
+        }
+    ]
+}

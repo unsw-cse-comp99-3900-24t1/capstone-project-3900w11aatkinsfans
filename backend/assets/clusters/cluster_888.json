@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:58",
+            "02:06",
+            "02:33",
+            "02:39",
+            "02:51",
+            "03:01",
+            "03:02",
+            "03:12",
+            "03:34",
+            "03:42",
+            "03:47",
+            "03:48",
+            "03:55",
+            "04:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "in christ alone",
+            "count": 3
+        },
+        {
+            "phrase": "livin on a prayer",
+            "count": 3
+        },
+        {
+            "phrase": "god be in this place",
+            "count": 2
+        },
+        {
+            "phrase": "living on a prayer",
+            "count": 2
+        },
+        {
+            "phrase": "the way of god",
+            "count": 1
+        },
+        {
+            "phrase": "living in sin",
+            "count": 1
+        },
+        {
+            "phrase": "a living prayer",
+            "count": 1
+        },
+        {
+            "phrase": "experiencing the depths of jesus christ",
+            "count": 1
+        },
+        {
+            "phrase": "for the greater glory of god",
+            "count": 1
+        },
+        {
+            "phrase": "buried with christ and raised to walk with him in newness of life",
+            "count": 1
+        }
+    ]
+}

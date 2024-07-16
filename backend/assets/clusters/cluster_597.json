@@ -1,0 +1,107 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:20",
+            "00:23",
+            "00:27",
+            "00:36",
+            "00:51",
+            "01:32",
+            "01:37",
+            "01:46",
+            "02:00",
+            "02:06",
+            "02:11",
+            "02:15",
+            "02:33",
+            "02:51",
+            "02:57",
+            "03:37",
+            "03:40",
+            "04:13",
+            "04:28"
+        ],
+        "label": "circular"
+    },
+    "clusterList": [
+        {
+            "phrase": "dollars are getting invested in the city",
+            "count": 6
+        },
+        {
+            "phrase": "where has all the money gone",
+            "count": 2
+        },
+        {
+            "phrase": "on the money",
+            "count": 2
+        },
+        {
+            "phrase": "circular flow of money",
+            "count": 1
+        },
+        {
+            "phrase": "where the money is going",
+            "count": 1
+        },
+        {
+            "phrase": "where the cash at",
+            "count": 1
+        },
+        {
+            "phrase": "money and politics",
+            "count": 1
+        },
+        {
+            "phrase": "when they have the money",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of money is being spent",
+            "count": 1
+        },
+        {
+            "phrase": "we're in the money",
+            "count": 1
+        },
+        {
+            "phrase": "out of money",
+            "count": 1
+        },
+        {
+            "phrase": "walking around money",
+            "count": 1
+        },
+        {
+            "phrase": "follow the money",
+            "count": 1
+        },
+        {
+            "phrase": "we're putting out money where our mouth is",
+            "count": 1
+        }
+    ]
+}

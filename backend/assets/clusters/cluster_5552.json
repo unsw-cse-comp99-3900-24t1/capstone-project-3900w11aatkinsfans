@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:00",
+            "04:41"
+        ],
+        "label": "company"
+    },
+    "clusterList": [
+        {
+            "phrase": "company x is too good at their job",
+            "count": 2
+        },
+        {
+            "phrase": "the complete failure of any other company to gain significant share against google",
+            "count": 1
+        },
+        {
+            "phrase": "company x bought company y what a bunch of idiots",
+            "count": 1
+        }
+    ]
+}

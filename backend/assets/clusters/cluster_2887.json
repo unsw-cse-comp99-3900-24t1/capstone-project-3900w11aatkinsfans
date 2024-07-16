@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:02",
+            "01:33",
+            "02:43",
+            "03:09",
+            "03:18"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you think this is healthy",
+            "count": 1
+        },
+        {
+            "phrase": "do you think it's made of health",
+            "count": 1
+        },
+        {
+            "phrase": "that's not healthy",
+            "count": 1
+        },
+        {
+            "phrase": "is that supposed to be healthy or something",
+            "count": 1
+        },
+        {
+            "phrase": "i think so and i think that is fine i think that is good i think that is healthy for us we will find a way somehow in our humble way to utilize all of that",
+            "count": 1
+        },
+        {
+            "phrase": "it's great you know supporting the healthy lifestyle the body the earth",
+            "count": 1
+        }
+    ]
+}

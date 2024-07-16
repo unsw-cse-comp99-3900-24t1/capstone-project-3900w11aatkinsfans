@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:15"
+        ],
+        "label": "john"
+    },
+    "clusterList": [
+        {
+            "phrase": "john gave me a good wedgie",
+            "count": 1
+        },
+        {
+            "phrase": "i have a wedgie",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            4,
+            3,
+            6,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:37",
+            "01:18",
+            "01:57",
+            "03:18",
+            "04:37",
+            "04:38"
+        ],
+        "label": "ate"
+    },
+    "clusterList": [
+        {
+            "phrase": "ate here last night check it out before it gets discovered",
+            "count": 23
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:09",
+            "04:24"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "caught in the act",
+            "count": 2
+        },
+        {
+            "phrase": "in an exceptional act",
+            "count": 1
+        }
+    ]
+}

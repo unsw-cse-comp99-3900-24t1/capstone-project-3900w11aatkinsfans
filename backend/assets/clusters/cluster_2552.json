@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:08",
+            "01:34",
+            "01:37",
+            "01:42",
+            "01:47",
+            "02:00",
+            "03:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the times are serious it calls for serious people",
+            "count": 7
+        }
+    ]
+}

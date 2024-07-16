@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32",
+            "02:11",
+            "02:51",
+            "04:13"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there will be guards at all intersections",
+            "count": 5
+        }
+    ]
+}

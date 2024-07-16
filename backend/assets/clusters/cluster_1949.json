@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:36",
+            "00:42",
+            "00:50",
+            "01:05",
+            "01:20",
+            "02:02",
+            "02:09",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a great play",
+            "count": 3
+        },
+        {
+            "phrase": "i think it's the greatest thing in the world",
+            "count": 1
+        },
+        {
+            "phrase": "yeah it's really cool",
+            "count": 1
+        },
+        {
+            "phrase": "i honestly think this whole program is great",
+            "count": 1
+        },
+        {
+            "phrase": "is it any good",
+            "count": 1
+        },
+        {
+            "phrase": "yeah that's what i like about it too",
+            "count": 1
+        },
+        {
+            "phrase": "it's turned out quite well for me",
+            "count": 1
+        }
+    ]
+}

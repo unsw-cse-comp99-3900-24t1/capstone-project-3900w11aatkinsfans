@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:05"
+        ],
+        "label": "wp-includes"
+    },
+    "clusterList": [
+        {
+            "phrase": "wp-includes directories to delete and the waiting for the new directories to upload via ftp",
+            "count": 1
+        },
+        {
+            "phrase": "copy sub-directory attributes and creation dates only when new directories are created",
+            "count": 1
+        }
+    ]
+}

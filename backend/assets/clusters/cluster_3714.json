@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "02:36",
+            "04:24",
+            "04:36",
+            "04:42"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is apledge",
+            "count": 1
+        },
+        {
+            "phrase": "is this kind",
+            "count": 1
+        },
+        {
+            "phrase": "what's the difference",
+            "count": 1
+        },
+        {
+            "phrase": "a very confusing one",
+            "count": 1
+        },
+        {
+            "phrase": "it is what it is",
+            "count": 1
+        }
+    ]
+}

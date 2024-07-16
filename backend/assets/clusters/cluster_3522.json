@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "02:27",
+            "02:45",
+            "03:17",
+            "03:29"
+        ],
+        "label": "looking"
+    },
+    "clusterList": [
+        {
+            "phrase": "looking forward there is little to be positive about",
+            "count": 1
+        },
+        {
+            "phrase": "if we can both do that it's going to be positive for everybody",
+            "count": 1
+        },
+        {
+            "phrase": "there's more positive here than negative",
+            "count": 1
+        },
+        {
+            "phrase": "it'd be lovely to have no positives but that's not likely to happen and even if there are less positives you wonder is it because we're doing a better job or because they've found something new",
+            "count": 1
+        },
+        {
+            "phrase": "always be positive",
+            "count": 1
+        }
+    ]
+}

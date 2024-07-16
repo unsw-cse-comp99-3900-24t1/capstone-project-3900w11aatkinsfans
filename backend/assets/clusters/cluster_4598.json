@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:29",
+            "03:51"
+        ],
+        "label": "bob"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pond builder's son",
+            "count": 3
+        },
+        {
+            "phrase": "bob the builder",
+            "count": 1
+        }
+    ]
+}

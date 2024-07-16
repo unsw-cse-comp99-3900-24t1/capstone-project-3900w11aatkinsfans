@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:20",
+            "00:51",
+            "01:00",
+            "01:01",
+            "01:38",
+            "01:51",
+            "02:20",
+            "02:49",
+            "03:48",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the daedalus variations",
+            "count": 4
+        },
+        {
+            "phrase": "dumbledore's commentary on the tales which was discovered among his papers after his death includes some historical notes personal reminiscences and insights into that most mysterious branch of magic wandlore",
+            "count": 3
+        },
+        {
+            "phrase": "the kingdom of the crystal skull",
+            "count": 2
+        },
+        {
+            "phrase": "ancient works of giants",
+            "count": 1
+        },
+        {
+            "phrase": "castle of otranto",
+            "count": 1
+        },
+        {
+            "phrase": "the tomb of ligeia",
+            "count": 1
+        },
+        {
+            "phrase": "grass for his pillow tales of the otori book two",
+            "count": 1
+        }
+    ]
+}

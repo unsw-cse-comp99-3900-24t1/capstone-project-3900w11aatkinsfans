@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:52",
+            "02:15",
+            "03:38",
+            "04:33"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "what the people say what the people say",
+            "count": 2
+        },
+        {
+            "phrase": "people will talk",
+            "count": 1
+        },
+        {
+            "phrase": "people will call up and say oh my god",
+            "count": 1
+        },
+        {
+            "phrase": "some people will say",
+            "count": 1
+        },
+        {
+            "phrase": "those who want to talk",
+            "count": 1
+        }
+    ]
+}

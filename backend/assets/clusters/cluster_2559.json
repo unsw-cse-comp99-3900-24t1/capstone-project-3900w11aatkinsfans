@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:15",
+            "02:24",
+            "02:52",
+            "03:34",
+            "03:37",
+            "04:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is a real possibility of some additional drawdowns",
+            "count": 2
+        },
+        {
+            "phrase": "real possibility of some additional drawdowns",
+            "count": 2
+        },
+        {
+            "phrase": "we are haven't completely ruled out the possibility but it is certainly looking less likely",
+            "count": 1
+        },
+        {
+            "phrase": "i personally believe that there is a real possibility of some additional draw-downs as we look forward",
+            "count": 1
+        },
+        {
+            "phrase": "there is a real possibility of some additional drawdowns as we look forward",
+            "count": 1
+        }
+    ]
+}

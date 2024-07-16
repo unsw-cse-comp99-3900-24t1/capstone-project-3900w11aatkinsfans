@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "04:28"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you're ill if you have diarrhea you should not be swimming in public pools",
+            "count": 1
+        },
+        {
+            "phrase": "gravely concerned about the potential for cholera typhoid and dehydrating diseases",
+            "count": 1
+        }
+    ]
+}

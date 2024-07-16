@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:56"
+        ],
+        "label": "come"
+    },
+    "clusterList": [
+        {
+            "phrase": "come with me we're going to golf",
+            "count": 1
+        },
+        {
+            "phrase": "i'm gonna kick my ball at the park",
+            "count": 1
+        }
+    ]
+}

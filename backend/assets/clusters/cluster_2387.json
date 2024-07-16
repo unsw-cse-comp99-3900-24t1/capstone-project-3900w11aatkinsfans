@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "03:04",
+            "03:19",
+            "03:51",
+            "04:41",
+            "05:03"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's something very appealing about the culture of the vampire",
+            "count": 2
+        },
+        {
+            "phrase": "are there vampires",
+            "count": 1
+        },
+        {
+            "phrase": "even though i'm not really into vampires i enjoy the books",
+            "count": 1
+        },
+        {
+            "phrase": "there are some really hardcore twilight fans out there",
+            "count": 1
+        },
+        {
+            "phrase": "yeah kind of at least i like this author i don't know why i've been reading this series since it came out three years ago there's something about the relationships of alexander harrington's characters i really like the one between sebastian and milo even though the author writes like milo is straight it seems in the interactions between those two characters there's something more you know",
+            "count": 1
+        },
+        {
+            "phrase": "i love how the books make you think that vampires are real",
+            "count": 1
+        }
+    ]
+}

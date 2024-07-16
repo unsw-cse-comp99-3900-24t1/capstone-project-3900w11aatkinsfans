@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:14",
+            "03:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the scottish government has provided record funding for local government despite an extremely tight financial climate",
+            "count": 1
+        },
+        {
+            "phrase": "i would like to thank ege fordham and carter for their first-rate performance in this financing particularly given the very difficult conditions in the capital markets",
+            "count": 1
+        },
+        {
+            "phrase": "this application to ansteel eliminates the need for gindalbie to raise equity funding in the current difficult period for financial markets",
+            "count": 1
+        }
+    ]
+}

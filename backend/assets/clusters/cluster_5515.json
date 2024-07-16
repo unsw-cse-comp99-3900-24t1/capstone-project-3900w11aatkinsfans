@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:28",
+            "03:09",
+            "04:29"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "in truth i don't think about it too much",
+            "count": 2
+        },
+        {
+            "phrase": "do not even think about it",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think about anything too much if i think too much it kind of freaks me out",
+            "count": 1
+        }
+    ]
+}

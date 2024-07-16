@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:29",
+            "02:34",
+            "03:10",
+            "03:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "center of attention",
+            "count": 4
+        },
+        {
+            "phrase": "attention person's name",
+            "count": 2
+        },
+        {
+            "phrase": "the attention game",
+            "count": 1
+        }
+    ]
+}

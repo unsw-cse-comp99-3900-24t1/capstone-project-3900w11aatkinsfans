@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:32",
+            "03:34",
+            "04:14",
+            "04:28"
+        ],
+        "label": "use"
+    },
+    "clusterList": [
+        {
+            "phrase": "all i have is my word",
+            "count": 3
+        },
+        {
+            "phrase": "the n word",
+            "count": 2
+        },
+        {
+            "phrase": "the i word",
+            "count": 2
+        },
+        {
+            "phrase": "use your words",
+            "count": 1
+        },
+        {
+            "phrase": "the l word",
+            "count": 1
+        }
+    ]
+}

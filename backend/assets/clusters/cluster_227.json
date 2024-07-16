@@ -1,0 +1,115 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:12",
+            "00:23",
+            "00:51",
+            "01:06",
+            "01:11",
+            "01:27",
+            "01:33",
+            "01:37",
+            "01:49",
+            "02:01",
+            "02:06",
+            "02:09",
+            "02:22",
+            "02:32",
+            "02:33",
+            "02:46",
+            "03:50",
+            "03:56",
+            "03:59",
+            "04:04",
+            "04:13",
+            "04:15",
+            "04:17",
+            "04:23",
+            "04:28",
+            "04:29",
+            "04:32",
+            "04:33",
+            "04:37",
+            "04:54",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "thrilled to be here",
+            "count": 15
+        },
+        {
+            "phrase": "i am as excited as i have ever been to lead this company",
+            "count": 13
+        },
+        {
+            "phrase": "i'm thrilled to be a part of it",
+            "count": 2
+        },
+        {
+            "phrase": "i was so happy",
+            "count": 1
+        },
+        {
+            "phrase": "thrilled to have the opportunity",
+            "count": 1
+        },
+        {
+            "phrase": "we got a great opportunity",
+            "count": 1
+        },
+        {
+            "phrase": "flattered and thrilled",
+            "count": 1
+        },
+        {
+            "phrase": "i'm very grateful for the opportunity",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just so happy to be here",
+            "count": 1
+        },
+        {
+            "phrase": "this is a fantastic opportunity",
+            "count": 1
+        }
+    ]
+}

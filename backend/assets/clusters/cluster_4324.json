@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:12",
+            "01:13",
+            "02:14",
+            "03:06",
+            "04:45"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if this were his first year thinking of retirement it would have been a different story",
+            "count": 3
+        },
+        {
+            "phrase": "i never said anything like i would retire at the end of next year",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't know he was going to retire",
+            "count": 1
+        }
+    ]
+}

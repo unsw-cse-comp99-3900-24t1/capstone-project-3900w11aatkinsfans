@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:20",
+            "01:38",
+            "03:06",
+            "03:10",
+            "03:29"
+        ],
+        "label": "media"
+    },
+    "clusterList": [
+        {
+            "phrase": "media reports and consumer advocates have called this bill the most important piece of consumer product safety legislation in a generation",
+            "count": 1
+        },
+        {
+            "phrase": "the campaign for safe cosmetics is essentially arguing that your products should be regulated like drugs and that pre-market approval just like drugs should be required in order for you to sell your products",
+            "count": 1
+        },
+        {
+            "phrase": "this is an ever-increasing problem and we're going to have to look at how to better regulate how this stuff is sold",
+            "count": 1
+        },
+        {
+            "phrase": "there is no scientific basis for congress to restrict phthalates from toys and children's products",
+            "count": 1
+        },
+        {
+            "phrase": "congress got a glimpse into how chemicals are regulated in this country and saw how broken the system is",
+            "count": 1
+        },
+        {
+            "phrase": "the phthalate ban is only the tip of the iceberg of what's needed to protect americans from unsafe chemical exposures",
+            "count": 1
+        },
+        {
+            "phrase": "consumers are saying that the products we buy must be safe period the phthalate ban is a great start and an indication that congress is ready to consider the kind of sweeping chemical policy reform that is needed",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:45",
+            "01:37",
+            "02:14",
+            "03:10"
+        ],
+        "label": "though"
+    },
+    "clusterList": [
+        {
+            "phrase": "though until i hear a confirmation of mit's findings from another university respected source i hold on to my severe doubts about this",
+            "count": 4
+        },
+        {
+            "phrase": "we don't know if this is the same mechanism in humans but i think all indications are there",
+            "count": 1
+        },
+        {
+            "phrase": "from both technical and medical viewpoints i am very surprised by this information and i question the validity of it",
+            "count": 1
+        },
+        {
+            "phrase": "it puts the responsibility on the companies to know that what they're pushing is benign and does not impact human health",
+            "count": 1
+        }
+    ]
+}

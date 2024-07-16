@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:19",
+            "01:47",
+            "02:13",
+            "02:23",
+            "02:33",
+            "02:51",
+            "03:05"
+        ],
+        "label": "plead"
+    },
+    "clusterList": [
+        {
+            "phrase": "we plead not guilty your honor",
+            "count": 6
+        },
+        {
+            "phrase": "plead guilty and pay it",
+            "count": 2
+        },
+        {
+            "phrase": "plead the fifth",
+            "count": 1
+        }
+    ]
+}

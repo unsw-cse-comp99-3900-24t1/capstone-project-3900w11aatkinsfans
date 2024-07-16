@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:51",
+            "03:09",
+            "03:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're trying to prevent people from going to places where there is bad content but at the moment there is nothing i can tell my mother that this is what you can do to be safe",
+            "count": 2
+        },
+        {
+            "phrase": "i don't want them in my neighborhood i don't want any accidental exposure or anything that would put my children at risk of seeing something",
+            "count": 1
+        },
+        {
+            "phrase": "i've got a young child i don't want it near my house",
+            "count": 1
+        }
+    ]
+}

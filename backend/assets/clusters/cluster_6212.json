@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "04:04",
+            "04:32"
+        ],
+        "label": "bistro"
+    },
+    "clusterList": [
+        {
+            "phrase": "rumble in the park",
+            "count": 2
+        },
+        {
+            "phrase": "bistro in the park",
+            "count": 1
+        }
+    ]
+}

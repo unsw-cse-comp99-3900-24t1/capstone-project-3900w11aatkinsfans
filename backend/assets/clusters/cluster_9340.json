@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the hunchback of notre dame",
+            "count": 1
+        },
+        {
+            "phrase": "notre dame victory march",
+            "count": 1
+        }
+    ]
+}

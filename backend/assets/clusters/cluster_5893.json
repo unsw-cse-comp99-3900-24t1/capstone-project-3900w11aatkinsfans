@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "04:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the menu is rife with awesome steak choices and the d cor is beautiful brand is a great addition to the monte carlo",
+            "count": 1
+        },
+        {
+            "phrase": "brand is all about big bold steaks and the ultimate steak really defines that menu philosophy",
+            "count": 1
+        },
+        {
+            "phrase": "rich bounty of knowledge and appreciation for authentic southern italian cuisine",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "04:23"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are the first cases we've seen since the reintroduction in the u s and approval in europe two years ago",
+            "count": 1
+        },
+        {
+            "phrase": "we've said ever since the reintroduction that we anticipate seeing additional cases",
+            "count": 1
+        }
+    ]
+}

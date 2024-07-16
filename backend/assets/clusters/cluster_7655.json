@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the whole vibe and spirit of vermont is very different from shanghai or other large cities i was looking at church street i was thinking wow i could stay here for several days and just relax",
+            "count": 1
+        },
+        {
+            "phrase": "sf is a city with one of the best urban-nature mix to me you're right in the middle of downtown and still you're surrounded by a breathtaking nature i cherish this duality a lot",
+            "count": 1
+        },
+        {
+            "phrase": "a city-lover who feels intimately linked to the natural environment that inspires her",
+            "count": 1
+        }
+    ]
+}

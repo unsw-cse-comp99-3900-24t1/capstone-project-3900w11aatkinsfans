@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:40",
+            "01:52",
+            "03:18",
+            "03:56",
+            "04:05",
+            "04:13"
+        ],
+        "label": "doesn't"
+    },
+    "clusterList": [
+        {
+            "phrase": "no is he anywhere near miguel cotto no is he anywhere near cory spinks no is he anywhere near micky ward no way",
+            "count": 2
+        },
+        {
+            "phrase": "doesn't know his place",
+            "count": 1
+        },
+        {
+            "phrase": "honestly ma'am i only came here to see him i've been tracking him for most of the evening and i've narrowed my search area down to this factory",
+            "count": 1
+        },
+        {
+            "phrase": "right now we strongly believe he is possibly in the phenix city or columbus area",
+            "count": 1
+        },
+        {
+            "phrase": "i had a lot of questions for him where had he been",
+            "count": 1
+        },
+        {
+            "phrase": "i wonder where connor is",
+            "count": 1
+        }
+    ]
+}

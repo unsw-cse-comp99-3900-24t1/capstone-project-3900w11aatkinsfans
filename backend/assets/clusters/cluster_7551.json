@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:06",
+            "04:13"
+        ],
+        "label": "first"
+    },
+    "clusterList": [
+        {
+            "phrase": "first come first served",
+            "count": 1
+        },
+        {
+            "phrase": "if it gets to that point he is ready to serve",
+            "count": 1
+        },
+        {
+            "phrase": "a time to serve",
+            "count": 1
+        }
+    ]
+}

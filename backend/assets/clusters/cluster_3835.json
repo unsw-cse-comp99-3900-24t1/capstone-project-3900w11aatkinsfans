@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:09",
+            "01:28",
+            "01:29",
+            "03:15"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want to be an active participant playing a role in how it should be done",
+            "count": 2
+        },
+        {
+            "phrase": "how to participate",
+            "count": 2
+        },
+        {
+            "phrase": "i also wanted to involve people to give them a chance to be part of it all",
+            "count": 1
+        }
+    ]
+}

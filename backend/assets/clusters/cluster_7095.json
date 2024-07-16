@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "03:50",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the reason we're not disappointed is that this is an ongoing process",
+            "count": 2
+        },
+        {
+            "phrase": "i come away with a sense that there's been significant progress in the 10 months since i was last here that we've made progress not only on the security front but that they've made progress in governing as well",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "02:55"
+        ],
+        "label": "cause"
+    },
+    "clusterList": [
+        {
+            "phrase": "cause that's when everyone's life begins again",
+            "count": 1
+        },
+        {
+            "phrase": "cause that's when everyone's life ends again",
+            "count": 1
+        },
+        {
+            "phrase": "it's the start of a new day of hope of life and that we have yet a new day to find a cure",
+            "count": 1
+        }
+    ]
+}

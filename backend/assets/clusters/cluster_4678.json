@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:09",
+            "04:10",
+            "04:52"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he said i was able to put on the same uniform my dad wore for nine years",
+            "count": 2
+        },
+        {
+            "phrase": "the last time i put on this uniform i was 8",
+            "count": 2
+        }
+    ]
+}

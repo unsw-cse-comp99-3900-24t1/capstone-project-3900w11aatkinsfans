@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "01:38",
+            "02:01",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know who i'd pick someone who's been here a long time i guess maybe name she hasn't seemed to be loving it lately",
+            "count": 1
+        },
+        {
+            "phrase": "maria hey come here",
+            "count": 1
+        },
+        {
+            "phrase": "ok she's ready time to push",
+            "count": 1
+        },
+        {
+            "phrase": "wait right there miss",
+            "count": 1
+        },
+        {
+            "phrase": "c'mon c'mon she's comin closer",
+            "count": 1
+        }
+    ]
+}

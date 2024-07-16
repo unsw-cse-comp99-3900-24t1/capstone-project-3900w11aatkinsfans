@@ -1,0 +1,149 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:10",
+            "00:11",
+            "00:14",
+            "00:27",
+            "00:29",
+            "00:52",
+            "01:06",
+            "01:07",
+            "01:25",
+            "01:31",
+            "01:41",
+            "01:47",
+            "02:18",
+            "02:29",
+            "02:33",
+            "02:36",
+            "03:01",
+            "03:02",
+            "03:05",
+            "03:06",
+            "03:10",
+            "03:23",
+            "03:30",
+            "03:46",
+            "03:51",
+            "04:05",
+            "04:19",
+            "04:24",
+            "04:31",
+            "04:42",
+            "04:45",
+            "04:46"
+        ],
+        "label": "world"
+    },
+    "clusterList": [
+        {
+            "phrase": "world of warcraft",
+            "count": 9
+        },
+        {
+            "phrase": "law and the long war",
+            "count": 6
+        },
+        {
+            "phrase": "at a time of war",
+            "count": 4
+        },
+        {
+            "phrase": "spoils of war",
+            "count": 2
+        },
+        {
+            "phrase": "against the world",
+            "count": 2
+        },
+        {
+            "phrase": "the war machine",
+            "count": 2
+        },
+        {
+            "phrase": "a war of ideas",
+            "count": 1
+        },
+        {
+            "phrase": "the korean air war",
+            "count": 1
+        },
+        {
+            "phrase": "war and american imperialism",
+            "count": 1
+        },
+        {
+            "phrase": "prisoners of war",
+            "count": 1
+        },
+        {
+            "phrase": "charlie wilson's war",
+            "count": 1
+        },
+        {
+            "phrase": "war of ideas",
+            "count": 1
+        },
+        {
+            "phrase": "war of the roses",
+            "count": 1
+        },
+        {
+            "phrase": "the trauma of the war",
+            "count": 1
+        },
+        {
+            "phrase": "during the war",
+            "count": 1
+        },
+        {
+            "phrase": "the first vietnamese war",
+            "count": 1
+        },
+        {
+            "phrase": "for the war effort",
+            "count": 1
+        },
+        {
+            "phrase": "suffering from the attacks of the empire's global capitalism",
+            "count": 1
+        }
+    ]
+}

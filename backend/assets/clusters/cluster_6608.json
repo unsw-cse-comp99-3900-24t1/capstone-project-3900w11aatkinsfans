@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:51",
+            "02:24"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "i looked at the depth chart i peeked at it one time just to see",
+            "count": 2
+        },
+        {
+            "phrase": "what you're doing is creating depth",
+            "count": 1
+        }
+    ]
+}

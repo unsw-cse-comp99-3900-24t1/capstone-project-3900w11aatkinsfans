@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:13",
+            "02:28",
+            "02:57",
+            "03:18",
+            "03:56",
+            "04:28",
+            "04:33",
+            "04:36"
+        ],
+        "label": "write"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't cut off your nose to spite your face",
+            "count": 2
+        },
+        {
+            "phrase": "concentrate on and cut",
+            "count": 2
+        },
+        {
+            "phrase": "write with your head down",
+            "count": 1
+        },
+        {
+            "phrase": "cut your head off",
+            "count": 1
+        },
+        {
+            "phrase": "leave us alone head",
+            "count": 1
+        },
+        {
+            "phrase": "hang the hat",
+            "count": 1
+        },
+        {
+            "phrase": "you can cut down on",
+            "count": 1
+        },
+        {
+            "phrase": "turn your head",
+            "count": 1
+        }
+    ]
+}

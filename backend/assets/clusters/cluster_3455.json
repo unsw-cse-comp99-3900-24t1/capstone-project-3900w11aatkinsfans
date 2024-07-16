@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "01:37",
+            "02:56",
+            "03:18",
+            "04:36"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think therefore i am",
+            "count": 2
+        },
+        {
+            "phrase": "are you sitting down",
+            "count": 1
+        },
+        {
+            "phrase": "i'm here is anyone listening",
+            "count": 1
+        },
+        {
+            "phrase": "are you new around here",
+            "count": 1
+        },
+        {
+            "phrase": "of course i am",
+            "count": 1
+        }
+    ]
+}

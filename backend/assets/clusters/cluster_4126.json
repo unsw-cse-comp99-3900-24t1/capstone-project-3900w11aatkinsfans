@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:51",
+            "03:08",
+            "03:18",
+            "04:24"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people are fighting all over the place and it is getting out of hand",
+            "count": 1
+        },
+        {
+            "phrase": "it's a battle between three guys",
+            "count": 1
+        },
+        {
+            "phrase": "they're done fighting done running tired of sleeping outside their houses and running the streets and they still don't have a job or any money",
+            "count": 1
+        },
+        {
+            "phrase": "why are they even fighting",
+            "count": 1
+        },
+        {
+            "phrase": "win their battles",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:50",
+            "02:33",
+            "04:31"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the station agent",
+            "count": 5
+        }
+    ]
+}

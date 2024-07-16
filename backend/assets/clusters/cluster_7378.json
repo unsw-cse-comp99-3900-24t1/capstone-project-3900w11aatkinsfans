@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "03:37",
+            "03:38"
+        ],
+        "label": "received"
+    },
+    "clusterList": [
+        {
+            "phrase": "received plenty of territory in other locations",
+            "count": 1
+        },
+        {
+            "phrase": "the map is not the territory",
+            "count": 1
+        },
+        {
+            "phrase": "its the math not the map",
+            "count": 1
+        }
+    ]
+}

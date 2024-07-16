@@ -1,0 +1,111 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "00:23",
+            "00:52",
+            "01:01",
+            "01:20",
+            "01:34",
+            "01:43",
+            "02:10",
+            "02:20",
+            "02:39",
+            "03:27",
+            "03:29",
+            "03:51",
+            "04:05",
+            "04:09",
+            "04:14",
+            "04:28",
+            "04:32",
+            "04:36"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "two years ago mr nader came to my high school",
+            "count": 7
+        },
+        {
+            "phrase": "a friend of mine named steve earle",
+            "count": 2
+        },
+        {
+            "phrase": "i'd known about him for a long time",
+            "count": 2
+        },
+        {
+            "phrase": "oh you know him dear boy",
+            "count": 1
+        },
+        {
+            "phrase": "he was always my handyman my helper",
+            "count": 1
+        },
+        {
+            "phrase": "i met him shortly before he died and he was a kindly father figure with an active fantasy life",
+            "count": 1
+        },
+        {
+            "phrase": "friends of his",
+            "count": 1
+        },
+        {
+            "phrase": "hey i know that guy",
+            "count": 1
+        },
+        {
+            "phrase": "dj tron was my best friend mentor brother and room mate",
+            "count": 1
+        },
+        {
+            "phrase": "who once was my brother-in-law",
+            "count": 1
+        },
+        {
+            "phrase": "i always remember the night he came to a dinner party at our house",
+            "count": 1
+        },
+        {
+            "phrase": "any friend of robin is a friend of mine",
+            "count": 1
+        },
+        {
+            "phrase": "he was a friend of mine",
+            "count": 1
+        },
+        {
+            "phrase": "he was a really nice coach and i was actually really close to him",
+            "count": 1
+        },
+        {
+            "phrase": "i considered him my personal mentor",
+            "count": 1
+        }
+    ]
+}

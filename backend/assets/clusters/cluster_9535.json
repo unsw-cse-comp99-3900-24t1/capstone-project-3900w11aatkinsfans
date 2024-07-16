@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:55"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey my cabbie told me about this place today",
+            "count": 1
+        },
+        {
+            "phrase": "why the hell didn't you just call another cab company by now",
+            "count": 1
+        }
+    ]
+}

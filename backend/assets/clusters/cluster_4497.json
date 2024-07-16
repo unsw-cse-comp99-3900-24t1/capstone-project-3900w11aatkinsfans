@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:33",
+            "05:03"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why i don't like monday's",
+            "count": 3
+        },
+        {
+            "phrase": "becuase i have truly loved my daily",
+            "count": 1
+        }
+    ]
+}

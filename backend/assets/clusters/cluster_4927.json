@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26"
+        ],
+        "label": "of"
+    },
+    "clusterList": [
+        {
+            "phrase": "of course i was on the bbc world service talking about gaza and the humanitarian situations there",
+            "count": 2
+        },
+        {
+            "phrase": "well i'm trying to get the message out i'm not seeking for their help i'm trying just to inform them about what's happening in gaza",
+            "count": 2
+        }
+    ]
+}

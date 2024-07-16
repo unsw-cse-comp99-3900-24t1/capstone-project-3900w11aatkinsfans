@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "03:05",
+            "03:58",
+            "04:03"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the issue that brought him a lot of trouble is essentially personal",
+            "count": 2
+        },
+        {
+            "phrase": "i actually think the key issue here is the ethics of what he's done and in terms of ethics he clearly does have a responsibility to answer some questions",
+            "count": 1
+        },
+        {
+            "phrase": "the issue in a number of ways is that he hasn't had the time to do the things he's capable of doing in a broader sense",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:24",
+            "01:01",
+            "02:26",
+            "02:27",
+            "02:28",
+            "03:24",
+            "04:50",
+            "04:52"
+        ],
+        "label": "end"
+    },
+    "clusterList": [
+        {
+            "phrase": "last comic standing",
+            "count": 9
+        },
+        {
+            "phrase": "the final cut",
+            "count": 4
+        },
+        {
+            "phrase": "end of history",
+            "count": 1
+        },
+        {
+            "phrase": "the final countdown",
+            "count": 1
+        },
+        {
+            "phrase": "the comics page",
+            "count": 1
+        }
+    ]
+}

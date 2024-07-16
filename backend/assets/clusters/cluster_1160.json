@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:20",
+            "00:39",
+            "02:05",
+            "02:32",
+            "02:42",
+            "03:18",
+            "04:29",
+            "04:37",
+            "04:49",
+            "04:54",
+            "04:59",
+            "05:04"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "it makes you feel very resentful",
+            "count": 5
+        },
+        {
+            "phrase": "people get so caught up in the memories of it it just affects who they are on a day-to-day basis",
+            "count": 3
+        },
+        {
+            "phrase": "little did i know that it would change my life",
+            "count": 2
+        },
+        {
+            "phrase": "it really changes your perspective on life",
+            "count": 1
+        },
+        {
+            "phrase": "amy before you go any further i have something to tell you it affects you too so hear me out",
+            "count": 1
+        },
+        {
+            "phrase": "no matter what i'm going to have to live with it every day i'm not sure how it's going to affect me throughout basically the rest of my life i'm sure i'll think about",
+            "count": 1
+        }
+    ]
+}

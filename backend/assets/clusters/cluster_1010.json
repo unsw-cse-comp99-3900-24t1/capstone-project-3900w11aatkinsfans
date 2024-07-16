@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:43",
+            "03:06",
+            "03:10",
+            "03:34",
+            "03:51",
+            "04:28",
+            "04:32"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "yep they really are",
+            "count": 6
+        },
+        {
+            "phrase": "and i'm enjoying them",
+            "count": 5
+        },
+        {
+            "phrase": "some of my best friends are",
+            "count": 1
+        },
+        {
+            "phrase": "and i'm real glad that they are",
+            "count": 1
+        },
+        {
+            "phrase": "they sure are",
+            "count": 1
+        },
+        {
+            "phrase": "i mean they're just absolutely beautiful",
+            "count": 1
+        }
+    ]
+}

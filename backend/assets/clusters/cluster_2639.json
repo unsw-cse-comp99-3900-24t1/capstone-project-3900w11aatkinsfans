@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:46",
+            "04:08",
+            "04:45"
+        ],
+        "label": "ready"
+    },
+    "clusterList": [
+        {
+            "phrase": "thankfully we didn't have to wait ten years between",
+            "count": 4
+        },
+        {
+            "phrase": "do i want another 4 years or do i want a different 4 years",
+            "count": 2
+        },
+        {
+            "phrase": "ready in ten years",
+            "count": 1
+        }
+    ]
+}

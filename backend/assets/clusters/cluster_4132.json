@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:42",
+            "01:56",
+            "02:46",
+            "02:55"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it legitimized our fundraising efforts and it allowed us to form relationships with businesses in the local area",
+            "count": 1
+        },
+        {
+            "phrase": "their willingness to put themselves out there is a benefit to the organisation and the community",
+            "count": 1
+        },
+        {
+            "phrase": "an incorporated organization which exists for educational or charitable reasons and",
+            "count": 1
+        },
+        {
+            "phrase": "a bedrock principle of well-managed nonprofit organizations is to honor the intentions of your donors",
+            "count": 1
+        },
+        {
+            "phrase": "this is a non profit organization and so we don't have a lot of money to put forth we're all god's children relying on god",
+            "count": 1
+        }
+    ]
+}

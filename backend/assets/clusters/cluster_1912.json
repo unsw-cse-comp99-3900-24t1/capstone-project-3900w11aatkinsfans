@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "01:55",
+            "02:09",
+            "02:15",
+            "02:16",
+            "02:17",
+            "03:15",
+            "04:07",
+            "05:00"
+        ],
+        "label": "sand"
+    },
+    "clusterList": [
+        {
+            "phrase": "hands in the air",
+            "count": 2
+        },
+        {
+            "phrase": "sand on my feet",
+            "count": 1
+        },
+        {
+            "phrase": "when i close my eyes",
+            "count": 1
+        },
+        {
+            "phrase": "i feel the air of another planet",
+            "count": 1
+        },
+        {
+            "phrase": "the air near my fingers",
+            "count": 1
+        },
+        {
+            "phrase": "blood on my hands",
+            "count": 1
+        },
+        {
+            "phrase": "touching the void",
+            "count": 1
+        },
+        {
+            "phrase": "the touch of my hand",
+            "count": 1
+        }
+    ]
+}

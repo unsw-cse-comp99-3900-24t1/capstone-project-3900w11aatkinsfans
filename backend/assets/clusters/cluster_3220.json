@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:36",
+            "01:59",
+            "02:00",
+            "04:09"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're hoping that when people see how successful we are that they will want to be a part of that",
+            "count": 4
+        },
+        {
+            "phrase": "you know it's been so long since we've been there that it's what everyone is hoping for and it's what everyone is working towards",
+            "count": 1
+        },
+        {
+            "phrase": "it is heartening to know that we are working towards getting back on track",
+            "count": 1
+        }
+    ]
+}

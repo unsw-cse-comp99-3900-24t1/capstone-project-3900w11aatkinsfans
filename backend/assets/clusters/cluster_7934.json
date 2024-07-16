@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "03:48"
+        ],
+        "label": "eat"
+    },
+    "clusterList": [
+        {
+            "phrase": "eat at that new thai place",
+            "count": 1
+        },
+        {
+            "phrase": "i know a place just off the strip that has the best thai",
+            "count": 1
+        }
+    ]
+}

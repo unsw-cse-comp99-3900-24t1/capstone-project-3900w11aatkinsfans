@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:27",
+            "02:50",
+            "02:55",
+            "03:03",
+            "03:18",
+            "03:28",
+            "03:37",
+            "04:27",
+            "04:29"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "exactly what he just said",
+            "count": 6
+        },
+        {
+            "phrase": "he said the same thing you said",
+            "count": 2
+        },
+        {
+            "phrase": "he went out of his way to say that he didn't say that and i think that you need to take him on face value",
+            "count": 2
+        },
+        {
+            "phrase": "he is wrong",
+            "count": 1
+        },
+        {
+            "phrase": "you're even worse than he said",
+            "count": 1
+        },
+        {
+            "phrase": "my game is completely different he said",
+            "count": 1
+        },
+        {
+            "phrase": "he said so that's when youse heisted it right",
+            "count": 1
+        },
+        {
+            "phrase": "i responded one time he hated that but it was true",
+            "count": 1
+        },
+        {
+            "phrase": "what he said",
+            "count": 1
+        }
+    ]
+}

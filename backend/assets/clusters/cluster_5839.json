@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:56",
+            "03:51"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not only fell short in terms of specific acts they failed to recognize systemic problems to address those problems or when beyond their authority to act to call the attention of superiors to those problems",
+            "count": 2
+        },
+        {
+            "phrase": "there were people who knew things were going wrong but they didn't have the skills to bring those issues to light",
+            "count": 1
+        }
+    ]
+}

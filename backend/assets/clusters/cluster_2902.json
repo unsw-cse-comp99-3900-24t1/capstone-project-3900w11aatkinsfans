@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:04",
+            "02:36",
+            "02:51",
+            "03:06",
+            "03:10"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things to do on my week off",
+            "count": 1
+        },
+        {
+            "phrase": "cool things we did on the weekend",
+            "count": 1
+        },
+        {
+            "phrase": "that is my busiest weekend of the year and i did 25 percent of what i normally do",
+            "count": 1
+        },
+        {
+            "phrase": "blah blah blah go eat ice cream and watch chick flicks",
+            "count": 1
+        },
+        {
+            "phrase": "spend everything you have day",
+            "count": 1
+        },
+        {
+            "phrase": "what i did on summer vacation",
+            "count": 1
+        }
+    ]
+}

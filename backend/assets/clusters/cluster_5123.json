@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:46",
+            "02:32",
+            "02:49"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well theres already a lot what will one more do",
+            "count": 1
+        },
+        {
+            "phrase": "there's a lot of ongoing work",
+            "count": 1
+        },
+        {
+            "phrase": "there is a lot more to be done",
+            "count": 1
+        },
+        {
+            "phrase": "a lot more work to do",
+            "count": 1
+        }
+    ]
+}

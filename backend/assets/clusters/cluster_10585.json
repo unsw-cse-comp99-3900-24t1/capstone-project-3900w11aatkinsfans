@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the editorial recommended aerial eradication",
+            "count": 1
+        },
+        {
+            "phrase": "we must switch from ground-based eradication to aerial spraying",
+            "count": 1
+        }
+    ]
+}

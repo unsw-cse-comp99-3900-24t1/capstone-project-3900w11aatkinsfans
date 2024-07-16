@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1
+        ],
+        "xLabels": [
+            "03:31",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "healthy grub bag",
+            "count": 3
+        },
+        {
+            "phrase": "the healthy grub bag",
+            "count": 1
+        },
+        {
+            "phrase": "a six pack to go",
+            "count": 1
+        }
+    ]
+}

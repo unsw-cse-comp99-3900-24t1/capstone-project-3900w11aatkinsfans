@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:10",
+            "01:15",
+            "03:38",
+            "04:28"
+        ],
+        "label": "journey"
+    },
+    "clusterList": [
+        {
+            "phrase": "journey to the center of design",
+            "count": 1
+        },
+        {
+            "phrase": "how users drive the design",
+            "count": 1
+        },
+        {
+            "phrase": "design has an equal place at the creative table as anything else here",
+            "count": 1
+        },
+        {
+            "phrase": "design for the real world",
+            "count": 1
+        },
+        {
+            "phrase": "design and the elastic mind",
+            "count": 1
+        }
+    ]
+}

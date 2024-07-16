@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:22"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select blogid posttitle",
+            "count": 2
+        }
+    ]
+}

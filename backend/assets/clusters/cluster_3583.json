@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:15",
+            "00:19",
+            "02:25",
+            "04:50"
+        ],
+        "label": "today"
+    },
+    "clusterList": [
+        {
+            "phrase": "today typical suburban homes sit in cul-de-sac subdivisions that empty out onto high volume roads",
+            "count": 1
+        },
+        {
+            "phrase": "moving to a subdivision in town",
+            "count": 1
+        },
+        {
+            "phrase": "realistic layouts 4 which includes plenty of information on building excellent looking roads",
+            "count": 1
+        },
+        {
+            "phrase": "strange days are upon the residents of many a suburban cul-de-sac",
+            "count": 1
+        },
+        {
+            "phrase": "once-tidy yards have become overgrown as the houses they front have gone vacant signs of physical and social disorder are spreading",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:29",
+            "01:00"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on that particular day he made that choice and felt that it wasn't necessary the reality in this particular instance chances are it wouldn't have made any difference",
+            "count": 1
+        },
+        {
+            "phrase": "but that didn't have any sway in this particular decision",
+            "count": 1
+        },
+        {
+            "phrase": "2 percent would have been a strong response",
+            "count": 1
+        }
+    ]
+}

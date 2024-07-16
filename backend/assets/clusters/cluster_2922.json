@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:36",
+            "00:56",
+            "02:43",
+            "02:51",
+            "04:59"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "no one is happy after a game like this",
+            "count": 2
+        },
+        {
+            "phrase": "you know outside of the fact that they lost four ballgames they've got to be happy",
+            "count": 1
+        },
+        {
+            "phrase": "most ball games are lost not won",
+            "count": 1
+        },
+        {
+            "phrase": "they obviously understand the pressure and the importance of winning it all after losing in 04",
+            "count": 1
+        },
+        {
+            "phrase": "nobody is happy after a game like this and i'd be upset if they were",
+            "count": 1
+        }
+    ]
+}

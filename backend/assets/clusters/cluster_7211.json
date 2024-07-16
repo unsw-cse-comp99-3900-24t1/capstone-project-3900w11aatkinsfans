@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:14",
+            "03:52",
+            "04:37"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've got a good look and feel and it works reasonably well for everyone",
+            "count": 2
+        },
+        {
+            "phrase": "i think i fit in well with what i've seen so far so hopefully we'll do well",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:43",
+            "03:18"
+        ],
+        "label": "various"
+    },
+    "clusterList": [
+        {
+            "phrase": "various knife blows",
+            "count": 1
+        },
+        {
+            "phrase": "i've got a picture in my mind of a knife a sharp curved knife which is stupid",
+            "count": 1
+        },
+        {
+            "phrase": "take a look at this blade it's the last thing you'll ever see",
+            "count": 1
+        }
+    ]
+}

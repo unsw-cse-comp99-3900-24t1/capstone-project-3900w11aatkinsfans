@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:10",
+            "00:16",
+            "01:55",
+            "02:11",
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:46",
+            "03:50",
+            "03:58"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "a piece of my family has been taken away",
+            "count": 4
+        },
+        {
+            "phrase": "for the families who have lost their loved ones or lost limbs or suffered severe injuries your statement and act has caused extreme emotional distress",
+            "count": 3
+        },
+        {
+            "phrase": "this is a serious offence you have taken advantage of a family's grief your action has caused them a lot of worry",
+            "count": 1
+        },
+        {
+            "phrase": "it was a close family that didn't deserve this end i don't have a blood relationship with this family but we have been close for years",
+            "count": 1
+        },
+        {
+            "phrase": "being taken from a parent is a very traumatic experience",
+            "count": 1
+        },
+        {
+            "phrase": "it is a very unfortunate set of circumstances it is one of ours",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are signs that he is potentially a danger to the community",
+            "count": 3
+        },
+        {
+            "phrase": "he wants to show that he is not a threatening another politically threatening african-american politician",
+            "count": 1
+        },
+        {
+            "phrase": "he wants to appeal to white guilt you appeal to white guilt not by coming on as black is beautiful black is powerful basically he's coming on as someone who is not going to threaten the white power structure whether it's corporate or whether it's simply oligarchic and they love it whites just eat it up",
+            "count": 1
+        },
+        {
+            "phrase": "basically he's coming on as someone who is not going to threaten the white power structure whether it's corporate or whether it's simply oligarchic and they love it whites just eat it up",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:42",
+            "02:00"
+        ],
+        "label": "about"
+    },
+    "clusterList": [
+        {
+            "phrase": "about them letting us on the buss like this",
+            "count": 1
+        },
+        {
+            "phrase": "don't mind me gentlemen we're taking this bus to fairyland",
+            "count": 1
+        },
+        {
+            "phrase": "i said to the bus driver what are we going to do",
+            "count": 1
+        }
+    ]
+}

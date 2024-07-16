@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:13",
+            "04:37"
+        ],
+        "label": "configuration"
+    },
+    "clusterList": [
+        {
+            "phrase": "configuration and preferences",
+            "count": 2
+        },
+        {
+            "phrase": "how do you look after different config settings for different boxes when using svn",
+            "count": 1
+        }
+    ]
+}

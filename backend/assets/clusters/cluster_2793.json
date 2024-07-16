@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:04",
+            "03:38",
+            "03:43",
+            "04:00",
+            "04:37",
+            "04:42"
+        ],
+        "label": "hehe"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never respect my opponents before i fight them i respect them only after i knock them out i help them wake up and help them to their corner",
+            "count": 2
+        },
+        {
+            "phrase": "hehe you can't fight silly horsie you can barely stand let me help you",
+            "count": 1
+        },
+        {
+            "phrase": "and i'm going to treat my opponents with respect and demand that they treat me with respect",
+            "count": 1
+        },
+        {
+            "phrase": "first they ignore you then they ridicule you then they fight you then you win",
+            "count": 1
+        },
+        {
+            "phrase": "i just don't understand how you can beat someone so badly when you don't even know them",
+            "count": 1
+        },
+        {
+            "phrase": "never argue with an idiot because they will only bring you down to their level and beat you by experience",
+            "count": 1
+        }
+    ]
+}

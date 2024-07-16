@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:47",
+            "02:38",
+            "04:09"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people like the fact that there's a building where kids can hang out",
+            "count": 1
+        },
+        {
+            "phrase": "as a residence nursery preschool elementary school secondary school nursery or day care center",
+            "count": 1
+        },
+        {
+            "phrase": "the enthusiasm of the place is infectious the community involvement is something to be copied by other school communities throughout victoria",
+            "count": 1
+        },
+        {
+            "phrase": "it's a caring place and a very spirited place where kids come to be educated inside the classroom and outside the classroom",
+            "count": 1
+        }
+    ]
+}

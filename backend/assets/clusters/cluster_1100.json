@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:20",
+            "01:06",
+            "01:15",
+            "01:32",
+            "01:38",
+            "02:35",
+            "02:52",
+            "03:18",
+            "03:33",
+            "03:50",
+            "03:53",
+            "04:08",
+            "04:29"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of women do that",
+            "count": 8
+        },
+        {
+            "phrase": "im a male stuck in a female body",
+            "count": 1
+        },
+        {
+            "phrase": "i am a woman and i am made to do this",
+            "count": 1
+        },
+        {
+            "phrase": "you are now a woman",
+            "count": 1
+        },
+        {
+            "phrase": "right females have their legs together i can do that oh why the hell did i decide to do this in the first place",
+            "count": 1
+        },
+        {
+            "phrase": "why are women allowed to do it and not men",
+            "count": 1
+        },
+        {
+            "phrase": "but i can honestly say a woman has never done that too me",
+            "count": 1
+        }
+    ]
+}

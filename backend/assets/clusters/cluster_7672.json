@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "02:33",
+            "04:35"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't sit too close",
+            "count": 1
+        },
+        {
+            "phrase": "don't stand still too long",
+            "count": 1
+        },
+        {
+            "phrase": "don't stand so close to me",
+            "count": 1
+        }
+    ]
+}

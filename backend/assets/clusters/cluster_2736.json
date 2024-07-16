@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:36",
+            "01:32",
+            "01:45",
+            "03:09",
+            "03:24",
+            "04:40"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "it changed my life in a way that all manchester people remind me of it which is nice in 30 years time people will remember me as a united player that is not the worst thing you can be remembered for it could have been as the guy who missed that great chance in the final",
+            "count": 2
+        },
+        {
+            "phrase": "cagney was my favourite actor and favourite person",
+            "count": 2
+        },
+        {
+            "phrase": "from there he was a different player",
+            "count": 1
+        },
+        {
+            "phrase": "that's because i had grown to hate pau",
+            "count": 1
+        },
+        {
+            "phrase": "i loved the goaltending coach at genoa",
+            "count": 1
+        }
+    ]
+}

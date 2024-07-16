@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "04:16"
+        ],
+        "label": "teamwork"
+    },
+    "clusterList": [
+        {
+            "phrase": "teamwork in the office",
+            "count": 1
+        },
+        {
+            "phrase": "human relations amp problems of work",
+            "count": 1
+        }
+    ]
+}

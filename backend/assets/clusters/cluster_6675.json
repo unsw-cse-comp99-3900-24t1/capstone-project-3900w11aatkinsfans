@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:35",
+            "04:17",
+            "04:51"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not a documentary filmmaker but if you think it is so interesting you make it",
+            "count": 1
+        },
+        {
+            "phrase": "one thing i want to say clearly and definitively is this is not a reality show it's very much a documentary",
+            "count": 1
+        },
+        {
+            "phrase": "dutch filmmaker ijsbrand van veelen stirred a lot of controversy last week at the when he premiered the documentary above the truth about wikipedia it has now been posted to youtube and is worth watching when you have a spare 45 minutes",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:09",
+            "02:06",
+            "03:50",
+            "04:23"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll meet with the staff friday and see how we introduce the younger kids and who has to take a backseat because of that",
+            "count": 2
+        },
+        {
+            "phrase": "hey mom do you think we could get him to go i think he's on the carside menu",
+            "count": 1
+        },
+        {
+            "phrase": "tonight is my son's first participation in our little holiday i was a bit hesitant as you can imagine but his mother insisted that it's time to pop his cherry i'm sure you all wish him good luck tonight my son joins the business",
+            "count": 1
+        },
+        {
+            "phrase": "they are having a parent's day thing at taylor's daycare center monday would you want to come",
+            "count": 1
+        }
+    ]
+}

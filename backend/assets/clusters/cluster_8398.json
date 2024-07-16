@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "02:00"
+        ],
+        "label": "letter"
+    },
+    "clusterList": [
+        {
+            "phrase": "letter to horace greeley",
+            "count": 1
+        },
+        {
+            "phrase": "the diary of horace wimp",
+            "count": 1
+        }
+    ]
+}

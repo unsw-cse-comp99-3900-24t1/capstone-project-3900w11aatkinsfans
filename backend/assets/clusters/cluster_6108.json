@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "01:02",
+            "01:24"
+        ],
+        "label": "message"
+    },
+    "clusterList": [
+        {
+            "phrase": "message icon not shown in ie6",
+            "count": 3
+        }
+    ]
+}

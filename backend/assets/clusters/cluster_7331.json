@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:27",
+            "04:13"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the saddle",
+            "count": 1
+        },
+        {
+            "phrase": "the shoulders your shoulders are here and this where the shoulders are on the blouse",
+            "count": 1
+        },
+        {
+            "phrase": "off the cuff",
+            "count": 1
+        }
+    ]
+}

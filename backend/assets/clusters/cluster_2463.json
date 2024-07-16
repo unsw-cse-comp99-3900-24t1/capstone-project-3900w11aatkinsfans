@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:37",
+            "03:51",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the real question is how to react to mr gore's increasingly bizarre utterings",
+            "count": 6
+        },
+        {
+            "phrase": "one leader who does seem to have got the message is former us vice-president al gore in a superb opening section denning takes gore's lousy presidential bid of 2000 apart showing how at each stage the man of destiny from tennessee blew his chances",
+            "count": 1
+        }
+    ]
+}

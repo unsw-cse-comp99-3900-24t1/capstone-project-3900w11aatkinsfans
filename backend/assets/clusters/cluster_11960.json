@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:23",
+            "04:29"
+        ],
+        "label": "letters"
+    },
+    "clusterList": [
+        {
+            "phrase": "letters of direction",
+            "count": 1
+        },
+        {
+            "phrase": "the letters and numbers reverse",
+            "count": 1
+        }
+    ]
+}

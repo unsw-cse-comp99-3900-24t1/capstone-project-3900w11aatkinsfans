@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:59",
+            "04:19"
+        ],
+        "label": "after"
+    },
+    "clusterList": [
+        {
+            "phrase": "after you made whatever announcements you made",
+            "count": 1
+        },
+        {
+            "phrase": "and now i have a word for you who brashly announce",
+            "count": 1
+        }
+    ]
+}

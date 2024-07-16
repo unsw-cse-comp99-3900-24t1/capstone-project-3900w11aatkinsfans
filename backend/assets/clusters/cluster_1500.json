@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:47",
+            "03:43",
+            "03:48",
+            "03:55",
+            "04:13",
+            "04:24",
+            "04:31",
+            "04:41",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it would just be bad bad policy to do that",
+            "count": 5
+        },
+        {
+            "phrase": "i think the consequences could be very dangerous",
+            "count": 2
+        },
+        {
+            "phrase": "the consequences could be deadly",
+            "count": 1
+        },
+        {
+            "phrase": "the effects will be violent and probably bloody",
+            "count": 1
+        },
+        {
+            "phrase": "something like that could cross the line into something more sinister or a potential criminal violation",
+            "count": 1
+        },
+        {
+            "phrase": "however it can be just as dangerous if not more so",
+            "count": 1
+        }
+    ]
+}

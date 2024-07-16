@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            5,
+            6,
+            6,
+            6
+        ],
+        "xLabels": [
+            "00:27",
+            "00:50",
+            "01:19",
+            "02:13",
+            "05:03"
+        ],
+        "label": "output"
+    },
+    "clusterList": [
+        {
+            "phrase": "output top field first stream",
+            "count": 25
+        },
+        {
+            "phrase": "output top filed first stream",
+            "count": 3
+        }
+    ]
+}

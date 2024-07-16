@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:42",
+            "01:50"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "community based mental health services have improved very considerably over the last 20-30 years",
+            "count": 2
+        },
+        {
+            "phrase": "as the recovery process continues some people will find that they are not able to meet all their needs",
+            "count": 1
+        }
+    ]
+}

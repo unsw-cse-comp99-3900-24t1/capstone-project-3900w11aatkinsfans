@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:23",
+            "03:59"
+        ],
+        "label": "going"
+    },
+    "clusterList": [
+        {
+            "phrase": "going to reveal the truth",
+            "count": 1
+        },
+        {
+            "phrase": "whos telling the truth and whos telling a lie",
+            "count": 1
+        },
+        {
+            "phrase": "exposed the lies",
+            "count": 1
+        }
+    ]
+}

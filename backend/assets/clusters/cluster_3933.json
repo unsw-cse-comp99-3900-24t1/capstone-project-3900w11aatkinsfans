@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:11",
+            "02:13",
+            "03:18",
+            "03:41"
+        ],
+        "label": "of"
+    },
+    "clusterList": [
+        {
+            "phrase": "of course i am keep your guard up mine will be",
+            "count": 1
+        },
+        {
+            "phrase": "no don't be afraid indeed i myself will take care of you",
+            "count": 1
+        },
+        {
+            "phrase": "i really don't have to worry am i going to come back today",
+            "count": 1
+        },
+        {
+            "phrase": "i am sorry but i cannot be too careful",
+            "count": 1
+        },
+        {
+            "phrase": "tonight i'm careful with you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:06",
+            "04:25"
+        ],
+        "label": "sunday"
+    },
+    "clusterList": [
+        {
+            "phrase": "sunday girl french version",
+            "count": 1
+        },
+        {
+            "phrase": "evan chan of shanghai son of nancy",
+            "count": 1
+        },
+        {
+            "phrase": "sabrina the teenage witch",
+            "count": 1
+        }
+    ]
+}

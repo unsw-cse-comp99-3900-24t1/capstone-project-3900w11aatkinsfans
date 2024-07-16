@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "03:06"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you do that too i think it's so you don't have to say something you can just recommend a book and be done with it",
+            "count": 1
+        },
+        {
+            "phrase": "so i've never been good at this whole letter-writing thing but i figured i'd write it all down while it was still fresh and made sense in my head",
+            "count": 1
+        }
+    ]
+}

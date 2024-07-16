@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:09",
+            "01:52",
+            "04:04"
+        ],
+        "label": "improper"
+    },
+    "clusterList": [
+        {
+            "phrase": "improper functioning of the delta subunit could impair the gaba system's ability to adapt to hormone fluctuations during the highly vulnerable post partum period",
+            "count": 3
+        },
+        {
+            "phrase": "investigating the impact of genetically replacing the estrogen receptor at the cellular synaptic and behavioral levels is a scientific tour de force which provides a strong foundation for the role of estrogen receptor alpha in mediating estrogen action in the hippocampus to restore select types of memory function",
+            "count": 1
+        },
+        {
+            "phrase": "again it's the same thing with the menstrual cycle the ebb and the flow of hormones can cause constipation and diarrhea",
+            "count": 1
+        }
+    ]
+}

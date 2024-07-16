@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:33",
+            "03:20",
+            "04:59"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "crying honey and bleeding oil and perfumes",
+            "count": 2
+        },
+        {
+            "phrase": "and reigh honey",
+            "count": 1
+        },
+        {
+            "phrase": "honey and sulphur",
+            "count": 1
+        }
+    ]
+}

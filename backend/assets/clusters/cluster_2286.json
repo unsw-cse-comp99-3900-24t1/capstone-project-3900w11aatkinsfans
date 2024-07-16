@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:11",
+            "01:20",
+            "01:43",
+            "02:02",
+            "03:24",
+            "04:28"
+        ],
+        "label": "out"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of the two years we've been married we spent 5 months together",
+            "count": 1
+        },
+        {
+            "phrase": "my husband's been retired five years i just decided it was time i was told several years ago when it was your time you'd know it",
+            "count": 1
+        },
+        {
+            "phrase": "how long were you married",
+            "count": 1
+        },
+        {
+            "phrase": "seven years chris replied how long have you been married",
+            "count": 1
+        },
+        {
+            "phrase": "how long do you think it takes to get a sense if someone might be right for you for a long term relationship",
+            "count": 1
+        },
+        {
+            "phrase": "the first five years were great but the second five years i didn't worry about him at all it was just me and my son the third five years we had to get to know each other again",
+            "count": 1
+        },
+        {
+            "phrase": "generally speaking within 5 years you are about back where you were so my husband and i decided we'll take the hit and live with it",
+            "count": 1
+        },
+        {
+            "phrase": "as of now i feel that i'm no longer in danger from my husband we were going through a lot last year and just needed to be apart",
+            "count": 1
+        }
+    ]
+}

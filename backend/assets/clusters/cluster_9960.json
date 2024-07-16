@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "02:00"
+        ],
+        "label": "then"
+    },
+    "clusterList": [
+        {
+            "phrase": "then take it with you",
+            "count": 1
+        },
+        {
+            "phrase": "take it on the run",
+            "count": 1
+        }
+    ]
+}

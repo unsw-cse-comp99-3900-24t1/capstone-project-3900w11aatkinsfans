@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "04:32"
+        ],
+        "label": "buster"
+    },
+    "clusterList": [
+        {
+            "phrase": "buster your name is buster",
+            "count": 1
+        },
+        {
+            "phrase": "who cares buster",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:01",
+            "02:09",
+            "02:16",
+            "02:56",
+            "03:23",
+            "03:32",
+            "04:05",
+            "04:06",
+            "04:08",
+            "04:32",
+            "04:47",
+            "04:50",
+            "04:56",
+            "05:01"
+        ],
+        "label": "death"
+    },
+    "clusterList": [
+        {
+            "phrase": "wake the dead",
+            "count": 4
+        },
+        {
+            "phrase": "this book killed me",
+            "count": 3
+        },
+        {
+            "phrase": "the killing room",
+            "count": 2
+        },
+        {
+            "phrase": "book of destiny",
+            "count": 2
+        },
+        {
+            "phrase": "death and the zombie",
+            "count": 1
+        },
+        {
+            "phrase": "frankenstein the true story",
+            "count": 1
+        },
+        {
+            "phrase": "the revenge of frankenstein",
+            "count": 1
+        },
+        {
+            "phrase": "the plague of the zombies",
+            "count": 1
+        },
+        {
+            "phrase": "orgy of the dead",
+            "count": 1
+        },
+        {
+            "phrase": "living fantasy of the immortal",
+            "count": 1
+        },
+        {
+            "phrase": "bridge of death",
+            "count": 1
+        },
+        {
+            "phrase": "death and the maiden",
+            "count": 1
+        },
+        {
+            "phrase": "the quick and the dead",
+            "count": 1
+        },
+        {
+            "phrase": "house of 1000 corpses",
+            "count": 1
+        },
+        {
+            "phrase": "dead poet's society",
+            "count": 1
+        },
+        {
+            "phrase": "the raiders of the lost art",
+            "count": 1
+        }
+    ]
+}

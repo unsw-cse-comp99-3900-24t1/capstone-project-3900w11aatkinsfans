@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:42"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not a supporter of the program because of the way it's running",
+            "count": 1
+        },
+        {
+            "phrase": "i am not a supporter of linux",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "03:15"
+        ],
+        "label": "every"
+    },
+    "clusterList": [
+        {
+            "phrase": "every person in a public position when they're leaving an organization is offered some amount of severance so it's not at all uncommon for this industry or quite rankly for any public industry",
+            "count": 1
+        },
+        {
+            "phrase": "some of the affected associates were offered positions at other stores and those few associates who could not be placed or chose to pursue other opportunities are being offered severance packages and outplacement assistance",
+            "count": 1
+        }
+    ]
+}

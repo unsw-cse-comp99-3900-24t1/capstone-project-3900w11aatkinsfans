@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "04:10",
+            "05:01"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i forget thee o jerusalem let my right hand forget her cunning if i do not remember thee let my tongue cleave to the roof of my mouth if i prefer not jerusalem above",
+            "count": 3
+        },
+        {
+            "phrase": "speak that i may see thee",
+            "count": 1
+        }
+    ]
+}

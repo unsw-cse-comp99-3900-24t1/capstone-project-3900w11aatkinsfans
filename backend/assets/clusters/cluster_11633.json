@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "04:23"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one sheriff offered to carry me down",
+            "count": 1
+        },
+        {
+            "phrase": "to be exact i'm the local sheriff",
+            "count": 1
+        }
+    ]
+}

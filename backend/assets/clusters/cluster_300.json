@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            27,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:43",
+            "01:40",
+            "01:51",
+            "02:26",
+            "02:32"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on the road to roswell amp burlington 2008 a discussion with jon kelly",
+            "count": 27
+        },
+        {
+            "phrase": "the at amp t convention in denver",
+            "count": 2
+        },
+        {
+            "phrase": "tm amp harrisburg television inc",
+            "count": 2
+        },
+        {
+            "phrase": "the arena is made amp",
+            "count": 1
+        }
+    ]
+}

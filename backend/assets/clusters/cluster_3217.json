@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:25",
+            "01:57",
+            "04:33",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the neighborhood has definitely changed",
+            "count": 1
+        },
+        {
+            "phrase": "people in your neighborhood",
+            "count": 1
+        },
+        {
+            "phrase": "here comes the neighborhood",
+            "count": 1
+        },
+        {
+            "phrase": "serves the neighborhood though",
+            "count": 1
+        },
+        {
+            "phrase": "where am i going to be if the neighborhood doesn't come back",
+            "count": 1
+        },
+        {
+            "phrase": "it's a beautiful day in the neighborhood",
+            "count": 1
+        }
+    ]
+}

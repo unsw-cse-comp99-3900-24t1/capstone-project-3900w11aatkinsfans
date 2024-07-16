@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "00:12",
+            "01:19",
+            "01:23"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you don't let him go to ohio state tell him where to go",
+            "count": 1
+        },
+        {
+            "phrase": "i think he should like finish high school and stuff",
+            "count": 1
+        },
+        {
+            "phrase": "my daughters told him they want to go america",
+            "count": 1
+        },
+        {
+            "phrase": "if i say anything it will be to discourage him from going somewhere he won't fit i've had tons of players go to byu and have good experiences there so i am not going to tell him not to go there obviously",
+            "count": 1
+        },
+        {
+            "phrase": "he would like to go to byu his mother wants him to go to byu he is not the type of kid to leave town too far he will probably want to play in front of his family and friends he has potentially an nba or european career ahead of him",
+            "count": 1
+        }
+    ]
+}

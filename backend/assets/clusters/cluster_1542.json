@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:32",
+            "00:53",
+            "01:13",
+            "01:19",
+            "03:35",
+            "04:46"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "up until now it's been impossible to get access to the neurons affected by als and although everyone was excited by the potential of the new technology it was uncertain that we would be able to obtain them from patients skin cells",
+            "count": 3
+        },
+        {
+            "phrase": "we don't at all fully understand als and it is our lack of understanding of that disease process which we believe is preventing us from developing more effective treatments",
+            "count": 1
+        },
+        {
+            "phrase": "because the disease process is happening in the spinal cord in the central nervous system of patients we don't at all have access to living examples of the neurons that are undergoing the disease process no way could we go to als patients and take samples of their motor neurons",
+            "count": 1
+        },
+        {
+            "phrase": "what we now have in the culture dish is cells that have the same genetic makeup as the als patient and they are the same cells that are affected by the disease",
+            "count": 1
+        },
+        {
+            "phrase": "decode the pathways through which mutations cause damage to motor neurons",
+            "count": 1
+        },
+        {
+            "phrase": "we don't know yet how similar they are to the motor neurons in als patients",
+            "count": 1
+        },
+        {
+            "phrase": "this approach would allow study of living motor neurons generated from als cases with unknown genetic lesions",
+            "count": 1
+        },
+        {
+            "phrase": "providing insight into their intrinsic survival properties their interactions with other cell types and their susceptibility to the environmental conditions that are considered to play an important role in als pathogenesis",
+            "count": 1
+        },
+        {
+            "phrase": "our paper now shows that we can generate hundreds of millions of motor neurons that are genetically identical to a patient's own neurons",
+            "count": 1
+        }
+    ]
+}

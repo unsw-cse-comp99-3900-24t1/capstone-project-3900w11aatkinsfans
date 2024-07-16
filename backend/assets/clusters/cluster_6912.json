@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:39",
+            "04:10"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe i am just having a bad year",
+            "count": 1
+        },
+        {
+            "phrase": "maybe you shouldn't give up so",
+            "count": 1
+        },
+        {
+            "phrase": "some years you don't have a good year or have a few struggles",
+            "count": 1
+        }
+    ]
+}

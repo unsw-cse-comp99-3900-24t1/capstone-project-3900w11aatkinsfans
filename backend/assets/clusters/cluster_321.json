@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            16,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:48",
+            "01:01",
+            "01:41",
+            "02:20",
+            "02:36",
+            "03:01",
+            "03:05",
+            "03:42",
+            "04:23",
+            "04:35",
+            "04:51",
+            "04:55",
+            "05:05"
+        ],
+        "label": "use"
+    },
+    "clusterList": [
+        {
+            "phrase": "n either the parties submissions nor the court's own research has revealed any case holding the mere owner of an internet account contributorily or vicariously liable for the infringing activities of third persons",
+            "count": 16
+        },
+        {
+            "phrase": "use of a p2p file-sharing application would constitute a material breach of contract for which the user's service could be terminated",
+            "count": 8
+        },
+        {
+            "phrase": "tackling online piracy",
+            "count": 3
+        },
+        {
+            "phrase": "develop a plan for offering alternatives to illegal downloading or peer-to-peer distribution of intellectual property as well as a plan to explore technology-based deterrents to prevent such illegal activity",
+            "count": 1
+        },
+        {
+            "phrase": "the support of efforts to establish pilot programs and initiatives to help college campuses reduce illegal downloading of copyrighted content in order to improve the security and integrity of campus computer networks and save bandwidth costs",
+            "count": 1
+        },
+        {
+            "phrase": "weak intellectual property rights enforcement",
+            "count": 1
+        },
+        {
+            "phrase": "the material in a teacher's file relating to allegations of sexual misconduct involving students is not information that is protected by the right of privacy",
+            "count": 1
+        }
+    ]
+}

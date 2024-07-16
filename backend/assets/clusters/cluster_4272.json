@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:14",
+            "04:24",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "so belushi and aykroyd went out and bought the best band money can buy and this phone call was about what do i think of this band",
+            "count": 2
+        },
+        {
+            "phrase": "the irresolvable severe erosion of the personal basis so urgently required to collaborate within a band so unique volatile and ambitious",
+            "count": 1
+        },
+        {
+            "phrase": "the reality is bands behave like family eventually",
+            "count": 1
+        },
+        {
+            "phrase": "it makes staying together as a band more of a guarantee",
+            "count": 1
+        }
+    ]
+}

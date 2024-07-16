@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:35",
+            "01:46",
+            "03:37",
+            "04:55"
+        ],
+        "label": "red"
+    },
+    "clusterList": [
+        {
+            "phrase": "beer for my horses",
+            "count": 2
+        },
+        {
+            "phrase": "red meat bacon and preserved meats",
+            "count": 1
+        },
+        {
+            "phrase": "food and beverage",
+            "count": 1
+        }
+    ]
+}

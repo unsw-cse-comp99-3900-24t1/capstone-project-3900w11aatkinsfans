@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:24",
+            "04:04",
+            "04:18"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think we are seeing a pullback on the caution seen in the oil market at the moment",
+            "count": 2
+        },
+        {
+            "phrase": "we think the recent pullback in oil should give lcc and other legacy carriers a chance to start hedging oil in case it retraces its 145-plus",
+            "count": 1
+        },
+        {
+            "phrase": "we did expect a marginal hike in atf prices and that's what it has been though the oil prices had cooled down in the last week or so the average price of oil still remained on the higher side and so this hike was natural however if the price holds at these levels we do expect atf price to come down next month",
+            "count": 1
+        }
+    ]
+}

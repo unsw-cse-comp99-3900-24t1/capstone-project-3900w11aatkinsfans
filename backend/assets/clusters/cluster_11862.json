@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:06",
+            "04:59"
+        ],
+        "label": "officer"
+    },
+    "clusterList": [
+        {
+            "phrase": "officer i know you have a job to do but i do not wish to make any statements in the absence of an attorney",
+            "count": 1
+        },
+        {
+            "phrase": "the social workers and sheriff's department are more trained at how to find the people than we are all the reports are filed the paperwork is done there is a standard process",
+            "count": 1
+        }
+    ]
+}

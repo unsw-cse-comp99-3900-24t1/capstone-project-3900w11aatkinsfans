@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "04:17"
+        ],
+        "label": "today"
+    },
+    "clusterList": [
+        {
+            "phrase": "today there are no uniform state-mandated minimum standards for the maintenance of bridges and roads",
+            "count": 1
+        },
+        {
+            "phrase": "the public understands the need to repair our roads and bridges we need to educate the public that we can't do that for free",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:38",
+            "02:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the future of non-sectarian politics in malaysia",
+            "count": 1
+        },
+        {
+            "phrase": "shalishi sabhas have been operating for several years in our state what else can i say",
+            "count": 1
+        },
+        {
+            "phrase": "in bengal the government is allowing shalishi sabhas as it wants the parallel system of customs and pre-modern society to continue",
+            "count": 1
+        },
+        {
+            "phrase": "village people care for others and believe that a shalishi sabha will render proper justice even courts had at times paid respect to decisions taken by such sabhas if an inter-caste marriage can be settled through a shalishi sabha what's the need of a poor family to spend money in court",
+            "count": 1
+        }
+    ]
+}

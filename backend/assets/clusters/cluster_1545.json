@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:10",
+            "03:10",
+            "03:19",
+            "03:43",
+            "03:51",
+            "04:32",
+            "04:36",
+            "04:38"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people are enthusiastic and committed",
+            "count": 5
+        },
+        {
+            "phrase": "people are waiting for a change",
+            "count": 2
+        },
+        {
+            "phrase": "the standing people",
+            "count": 1
+        },
+        {
+            "phrase": "people get ready",
+            "count": 1
+        },
+        {
+            "phrase": "they go about their business every day they're ready they're prepared just the look in their eyes i knew they were ready",
+            "count": 1
+        },
+        {
+            "phrase": "bringing people together",
+            "count": 1
+        }
+    ]
+}

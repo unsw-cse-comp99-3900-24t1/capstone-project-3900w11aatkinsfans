@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:39",
+            "04:51"
+        ],
+        "label": "strong"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll ensure that economic justice is served",
+            "count": 2
+        },
+        {
+            "phrase": "strong economy fair society sustainable world",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "01:29",
+            "03:42",
+            "04:55"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "something is different people are using trains more because of motoring costs and other factors such as congestion maybe we have gone through that tipping point",
+            "count": 2
+        },
+        {
+            "phrase": "if you add more train miles to a route for the railroad you'll make trucking more attractive than railroad service so if that's the case you'll have more trucks on the roads and people don't want to see that",
+            "count": 1
+        },
+        {
+            "phrase": "mta's trains were purchased because they couldn't cover their own operating costs but i recognize that this is a critical component of biketopia so i will immediately double fares so that we are no longer dependant on gas taxes to subsidize this system ridership won't really increase because i will have no more capital to expand the system so most people will switch from cars to bikes biketopia to get around because they are more flexible fun and good for the earth but i will use smoke and mirrors to keep mass transit riders happy i plan to sell ice cream in every third car since the ac doesn't work the train horns will be replaced with that cute jingle that the ice cream truck plays and i will paint them red and white stripes in a candy cane pattern",
+            "count": 1
+        },
+        {
+            "phrase": "when economically feasible we want to use rail",
+            "count": 1
+        }
+    ]
+}

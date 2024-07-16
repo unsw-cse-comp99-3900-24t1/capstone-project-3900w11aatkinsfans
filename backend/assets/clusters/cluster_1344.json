@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            4,
+            4
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "that that would be you coach you bought us those boots",
+            "count": 6
+        },
+        {
+            "phrase": "this is a mutiny you guys all in on this you motherbleepin bleepsuckers all of you i have dedicated my life to this team okay i have given you guys my soul i mean who bought you those boots last halloween",
+            "count": 3
+        },
+        {
+            "phrase": "i have dedicated my life to this team okay i have given you guys my soul i mean who bought you those boots last halloween",
+            "count": 3
+        }
+    ]
+}

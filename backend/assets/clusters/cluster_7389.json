@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:10",
+            "03:41"
+        ],
+        "label": "mom"
+    },
+    "clusterList": [
+        {
+            "phrase": "mom when can we get a wii",
+            "count": 1
+        },
+        {
+            "phrase": "well cousin how about we buy these games together then",
+            "count": 1
+        },
+        {
+            "phrase": "my cousin and i are here to buy the wii game one for each of us",
+            "count": 1
+        }
+    ]
+}

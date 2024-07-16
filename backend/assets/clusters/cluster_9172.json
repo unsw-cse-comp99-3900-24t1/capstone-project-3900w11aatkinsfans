@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "04:07"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a moustache would certainly make them look a lot older and more manly",
+            "count": 1
+        },
+        {
+            "phrase": "makes them look younger",
+            "count": 1
+        }
+    ]
+}

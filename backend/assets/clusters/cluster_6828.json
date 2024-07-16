@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:39",
+            "04:52"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he was a lawyer's lawyer",
+            "count": 1
+        },
+        {
+            "phrase": "oh that's right wolfie had told me that you were his lawyer and his sister's",
+            "count": 1
+        },
+        {
+            "phrase": "he was a great sheriff's deputy and i believe a homicide detective",
+            "count": 1
+        }
+    ]
+}

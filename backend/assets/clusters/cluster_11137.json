@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "04:09"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not a truck",
+            "count": 1
+        },
+        {
+            "phrase": "so is your truck stuck",
+            "count": 1
+        }
+    ]
+}

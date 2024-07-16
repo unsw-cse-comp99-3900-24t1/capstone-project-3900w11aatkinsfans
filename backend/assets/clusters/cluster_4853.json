@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "02:00",
+            "04:31",
+            "04:36"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that is the true couch-potato experiment",
+            "count": 3
+        },
+        {
+            "phrase": "the true couch potato experiment",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the government is quite happy to keep making money from cigarette taxes",
+            "count": 1
+        },
+        {
+            "phrase": "today's announcement sends a clear message that governments right across canada are united in their efforts to enforce canada's tobacco tax laws and fight contraband tobacco in this country",
+            "count": 1
+        }
+    ]
+}

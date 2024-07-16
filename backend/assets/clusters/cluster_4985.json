@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:49",
+            "02:32",
+            "02:34",
+            "02:37"
+        ],
+        "label": "three"
+    },
+    "clusterList": [
+        {
+            "phrase": "three strikes and you're off the internet",
+            "count": 4
+        }
+    ]
+}

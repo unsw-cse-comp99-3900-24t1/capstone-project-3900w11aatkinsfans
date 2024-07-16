@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:36",
+            "01:16",
+            "03:18",
+            "04:14"
+        ],
+        "label": "meeting"
+    },
+    "clusterList": [
+        {
+            "phrase": "meeting erica was a party by itself there's nothing like a meeting of the minds sometimes you feel more at home with someone you've never seen before than with people who have been in the background for years",
+            "count": 1
+        },
+        {
+            "phrase": "maybe she's at a party and you feel that immediate connection you both know it's there",
+            "count": 1
+        },
+        {
+            "phrase": "my girl wants to party all the time",
+            "count": 1
+        },
+        {
+            "phrase": "she came into my room and duh asked me to go with her or something i don't know i feel ow",
+            "count": 1
+        },
+        {
+            "phrase": "do you even know why she went home with you from that party that party where you met her",
+            "count": 1
+        },
+        {
+            "phrase": "or you witnessed her doin somethin with that guy at the pizza place and felt too guilty to tell me right away",
+            "count": 1
+        },
+        {
+            "phrase": "yeah she she she was havin a p-party and and she was with some guy i didn't actually hang around to see b-but",
+            "count": 1
+        },
+        {
+            "phrase": "she was the life and soul of the party",
+            "count": 1
+        }
+    ]
+}

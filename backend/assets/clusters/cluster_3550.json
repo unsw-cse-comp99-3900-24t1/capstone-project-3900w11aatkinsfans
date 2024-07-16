@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:11",
+            "00:51",
+            "01:07",
+            "02:51"
+        ],
+        "label": "here's"
+    },
+    "clusterList": [
+        {
+            "phrase": "here's what we're going to do to fix how we respond to vulnerabilities in the third-party products we use in mac os x to make sure this never happens again",
+            "count": 5
+        }
+    ]
+}

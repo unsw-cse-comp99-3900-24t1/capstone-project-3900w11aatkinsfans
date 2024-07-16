@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:32",
+            "01:43"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "how did the 747 remain in one piece",
+            "count": 2
+        },
+        {
+            "phrase": "there isn't much left of the plane just the wings and i mean it's pretty much nothing left of it laying in the ditch there",
+            "count": 1
+        }
+    ]
+}

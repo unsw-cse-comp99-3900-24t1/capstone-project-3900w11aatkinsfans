@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "04:41"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're not happy about it of course but we are prepared for it and expect there to be no data loss or any long-term reduction in service",
+            "count": 1
+        },
+        {
+            "phrase": "it's an inconvenience for us but i know a lot of areas where it's going to be dropped altogether at least that's the plan",
+            "count": 1
+        }
+    ]
+}

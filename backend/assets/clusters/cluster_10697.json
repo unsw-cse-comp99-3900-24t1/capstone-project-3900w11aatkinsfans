@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:24"
+        ],
+        "label": "senator"
+    },
+    "clusterList": [
+        {
+            "phrase": "senator takes on doj's thompson memo",
+            "count": 1
+        },
+        {
+            "phrase": "doj to overhaul the mcnulty memo",
+            "count": 1
+        }
+    ]
+}

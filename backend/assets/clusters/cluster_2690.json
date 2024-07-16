@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:19",
+            "03:15",
+            "04:15",
+            "04:55"
+        ],
+        "label": "learned"
+    },
+    "clusterList": [
+        {
+            "phrase": "learned so much",
+            "count": 1
+        },
+        {
+            "phrase": "really knew what we were doing",
+            "count": 1
+        },
+        {
+            "phrase": "now what did we learn",
+            "count": 1
+        },
+        {
+            "phrase": "what did we learn",
+            "count": 1
+        },
+        {
+            "phrase": "we just tried to get back to the basics",
+            "count": 1
+        },
+        {
+            "phrase": "i think we learned our lessons and it's helped us to mature",
+            "count": 1
+        },
+        {
+            "phrase": "we learn from our mistakes",
+            "count": 1
+        }
+    ]
+}

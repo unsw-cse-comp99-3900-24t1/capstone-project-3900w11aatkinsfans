@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:03",
+            "01:10",
+            "03:50"
+        ],
+        "label": "coach"
+    },
+    "clusterList": [
+        {
+            "phrase": "coach tressel is a total players coach",
+            "count": 1
+        },
+        {
+            "phrase": "total players coach",
+            "count": 1
+        },
+        {
+            "phrase": "tressel and his staff coach with class and emphasize education",
+            "count": 1
+        },
+        {
+            "phrase": "three premium players",
+            "count": 1
+        },
+        {
+            "phrase": "forever their coach",
+            "count": 1
+        },
+        {
+            "phrase": "one of the highest-paid players in the game",
+            "count": 1
+        }
+    ]
+}

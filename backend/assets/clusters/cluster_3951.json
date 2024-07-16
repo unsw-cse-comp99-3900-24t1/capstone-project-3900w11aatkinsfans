@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "01:33",
+            "01:47"
+        ],
+        "label": "copy"
+    },
+    "clusterList": [
+        {
+            "phrase": "says one producer who's had movies with large fan campaigns",
+            "count": 2
+        },
+        {
+            "phrase": "the total number of people in the blog world is probably only a few hundred thousand and as much as they might hate to hear it for most movies that's not going to make the difference between a success and a failure",
+            "count": 2
+        },
+        {
+            "phrase": "copy written even when the movie is about to debut is successful if the movie is and if you work hard for five months on it but the movie fails nobody pays attention to it",
+            "count": 1
+        }
+    ]
+}

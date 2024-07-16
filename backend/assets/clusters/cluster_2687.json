@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "03:11",
+            "03:14",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fact that i'm paranoid doesn't mean that somebody stalks me actually",
+            "count": 3
+        },
+        {
+            "phrase": "you're one of the many many paranoid people on usenet that should be confined most likely you sit there and refresh your screen endlessly you post the same nonsense over and over either you're a super troll or you're a super mess",
+            "count": 2
+        },
+        {
+            "phrase": "you're one of the many many paranoid people on",
+            "count": 2
+        }
+    ]
+}

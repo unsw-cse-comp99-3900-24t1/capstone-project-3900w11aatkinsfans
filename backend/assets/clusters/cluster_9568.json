@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:02",
+            "04:42"
+        ],
+        "label": "whatever"
+    },
+    "clusterList": [
+        {
+            "phrase": "whatever it takes",
+            "count": 1
+        },
+        {
+            "phrase": "emphasis on winning",
+            "count": 1
+        }
+    ]
+}

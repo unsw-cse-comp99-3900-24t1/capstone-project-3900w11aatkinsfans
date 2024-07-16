@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:33",
+            "01:04",
+            "01:15",
+            "01:33",
+            "01:51",
+            "02:44",
+            "03:56"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "go to washington",
+            "count": 2
+        },
+        {
+            "phrase": "don in boston",
+            "count": 2
+        },
+        {
+            "phrase": "and are you going somewhere",
+            "count": 1
+        },
+        {
+            "phrase": "we're shipping up to boston bat",
+            "count": 1
+        },
+        {
+            "phrase": "you're going to get traded to new york",
+            "count": 1
+        },
+        {
+            "phrase": "shipping up to boston",
+            "count": 1
+        },
+        {
+            "phrase": "you going to boston",
+            "count": 1
+        }
+    ]
+}

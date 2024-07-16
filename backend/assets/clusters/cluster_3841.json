@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:40",
+            "02:26",
+            "04:38",
+            "04:50"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "ok we're holding the line",
+            "count": 2
+        },
+        {
+            "phrase": "get a closer look",
+            "count": 1
+        },
+        {
+            "phrase": "but i'm gettin closer all the time",
+            "count": 1
+        },
+        {
+            "phrase": "he's closer and closer to moving here",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:00",
+            "02:02"
+        ],
+        "label": "ships"
+    },
+    "clusterList": [
+        {
+            "phrase": "ships aircraft and industrial equipment burn huge quantities of fossil fuel and cause massive greenhouse gas pollution yet president george w bush stalls with one bureaucratic dodge after another",
+            "count": 2
+        },
+        {
+            "phrase": "ships aircraft and industrial equipment burn huge quantities of fossil fuel and cause massive greenhouse gas pollution yet president bush stalls with one bureaucratic dodge after another because bush's environmental protection agency continues to wantonly ignore its duty to regulate pollution california is forced to seek judicial action",
+            "count": 1
+        }
+    ]
+}

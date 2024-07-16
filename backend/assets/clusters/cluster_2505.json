@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:43",
+            "01:23",
+            "02:24",
+            "03:41",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're actually buying two camcorders in one you can film in either standard or high-definition video on the same tape and you can play back either kind of video on either kind of tv set too standard or hdtv which makes these camcorders exceptionally versatile",
+            "count": 2
+        },
+        {
+            "phrase": "sony pictures television",
+            "count": 2
+        },
+        {
+            "phrase": "the high-definition multimedia interface is one of the more confusing and misunderstood features of hdtvs",
+            "count": 1
+        },
+        {
+            "phrase": "dish network to offer 1080p video on demand movies",
+            "count": 1
+        },
+        {
+            "phrase": "you've got panasonic showing forward facing video in the home entertainment environment instead of using a conventional remote control you hold up your hand and it recognises you have done that",
+            "count": 1
+        }
+    ]
+}

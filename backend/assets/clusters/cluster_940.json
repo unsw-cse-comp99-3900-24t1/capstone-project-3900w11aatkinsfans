@@ -1,0 +1,99 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:14",
+            "00:28",
+            "01:15",
+            "02:15",
+            "02:39",
+            "03:12",
+            "03:18",
+            "03:51",
+            "04:06",
+            "04:13",
+            "04:24",
+            "04:32",
+            "04:45"
+        ],
+        "label": "another"
+    },
+    "clusterList": [
+        {
+            "phrase": "he goes i really like your music",
+            "count": 2
+        },
+        {
+            "phrase": "another fine tune you've got me into",
+            "count": 1
+        },
+        {
+            "phrase": "music of dakar part 1 3",
+            "count": 1
+        },
+        {
+            "phrase": "i love this song",
+            "count": 1
+        },
+        {
+            "phrase": "that's why you hear it i was so funky",
+            "count": 1
+        },
+        {
+            "phrase": "thank you music for my life",
+            "count": 1
+        },
+        {
+            "phrase": "wow that's the best album i've heard in years",
+            "count": 1
+        },
+        {
+            "phrase": "this song soooo should've been here",
+            "count": 1
+        },
+        {
+            "phrase": "you know i prefer the musical much better",
+            "count": 1
+        },
+        {
+            "phrase": "never guess what song i'd just heard",
+            "count": 1
+        },
+        {
+            "phrase": "depending on the mood i'm in i've changed songs in the middle of the program",
+            "count": 1
+        },
+        {
+            "phrase": "i've hear this song before",
+            "count": 1
+        },
+        {
+            "phrase": "this is not your song",
+            "count": 1
+        },
+        {
+            "phrase": "i said i like this song when i was in",
+            "count": 1
+        },
+        {
+            "phrase": "play that funky music",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:43",
+            "01:58",
+            "03:51",
+            "04:16"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am an unyielding advocate for the well-being of children around the world and do not condone or endorse smoking",
+            "count": 4
+        },
+        {
+            "phrase": "nearly 14 percent of the pregnant women in wisconsin smoke compared to the national average of 10 percent",
+            "count": 1
+        }
+    ]
+}

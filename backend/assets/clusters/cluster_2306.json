@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:18",
+            "00:23",
+            "00:56",
+            "01:52",
+            "04:38",
+            "05:01"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "thinking of you",
+            "count": 2
+        },
+        {
+            "phrase": "it's a dream come true for me truthfully",
+            "count": 1
+        },
+        {
+            "phrase": "what i want you to imagine",
+            "count": 1
+        },
+        {
+            "phrase": "a taste of a perfect dream",
+            "count": 1
+        },
+        {
+            "phrase": "for a long time i had a dream of a beautiful baby boy and i would dream of him over and over and imagine us together",
+            "count": 1
+        },
+        {
+            "phrase": "dreaming wide awake",
+            "count": 1
+        },
+        {
+            "phrase": "i'm thinking of you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:52",
+            "02:24",
+            "02:44",
+            "03:03",
+            "03:38",
+            "04:05",
+            "04:28",
+            "04:39"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it works both ways",
+            "count": 2
+        },
+        {
+            "phrase": "it isn't that way now with the",
+            "count": 2
+        },
+        {
+            "phrase": "because i said so it just does thats the way it is",
+            "count": 1
+        },
+        {
+            "phrase": "there is no way it will work",
+            "count": 1
+        },
+        {
+            "phrase": "i don't see it that way",
+            "count": 1
+        },
+        {
+            "phrase": "oh so that's how",
+            "count": 1
+        },
+        {
+            "phrase": "that didn't work",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't work that way",
+            "count": 1
+        }
+    ]
+}

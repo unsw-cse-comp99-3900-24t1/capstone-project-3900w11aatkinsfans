@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:09",
+            "01:43",
+            "01:46",
+            "01:47",
+            "01:51",
+            "02:14",
+            "02:15",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:37"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "an anger management class",
+            "count": 6
+        },
+        {
+            "phrase": "rude and angry",
+            "count": 2
+        },
+        {
+            "phrase": "anger mad upset and nothing in your humanly power that you can do",
+            "count": 2
+        },
+        {
+            "phrase": "all right so i rage and sulk and throw things but i m quick to get over it",
+            "count": 1
+        },
+        {
+            "phrase": "frustration anger and criticism",
+            "count": 1
+        },
+        {
+            "phrase": "i have so much anger i feel like i've been raped in the face",
+            "count": 1
+        },
+        {
+            "phrase": "i get mad for so many reasons",
+            "count": 1
+        },
+        {
+            "phrase": "i wouldn't describe it as rage cause i wasn't angry in any way shape or form",
+            "count": 1
+        }
+    ]
+}

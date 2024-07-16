@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the deteriorating advertising environment",
+            "count": 1
+        },
+        {
+            "phrase": "we think of advertising as a way to remind people of products putting up more ads should increase sales but we should also think about linking products to the environment and let the environment do the work for us",
+            "count": 1
+        }
+    ]
+}

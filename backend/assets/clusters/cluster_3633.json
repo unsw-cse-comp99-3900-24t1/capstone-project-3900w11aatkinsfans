@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:21",
+            "00:39",
+            "00:48",
+            "01:33"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "we think that nintendo has a new handheld device ready for launch in japan before the end of the calendar year",
+            "count": 3
+        },
+        {
+            "phrase": "this has presented sony pictures consumer products with an opportunity to reevaluate the game release marketing strategy to potentially coincide with the 25th anniversary of the original film in 09",
+            "count": 1
+        },
+        {
+            "phrase": "has a new handheld device ready for launch in japan before the end of the calendar year",
+            "count": 1
+        }
+    ]
+}

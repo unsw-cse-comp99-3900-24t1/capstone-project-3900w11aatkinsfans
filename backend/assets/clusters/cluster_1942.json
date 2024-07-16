@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "00:48",
+            "00:50",
+            "02:51",
+            "04:10",
+            "04:19",
+            "04:52",
+            "04:53"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what the game is right now",
+            "count": 2
+        },
+        {
+            "phrase": "i intended to play hard to get for at least one day but lets go to bed",
+            "count": 1
+        },
+        {
+            "phrase": "i think today i'll play oh my bad i won't play because there are updates i guess it's psp ds then",
+            "count": 1
+        },
+        {
+            "phrase": "you made it this far so just be yourself play your game and you'll be fine",
+            "count": 1
+        },
+        {
+            "phrase": "i'm dying and i'm having fun and i'm going to keep having fun every day i have left because there's no other way to play it",
+            "count": 1
+        },
+        {
+            "phrase": "omg i can't play beta what i do",
+            "count": 1
+        },
+        {
+            "phrase": "it set up well for my game",
+            "count": 1
+        },
+        {
+            "phrase": "i'm struggling with my game right now",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:51",
+            "01:13",
+            "03:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the reverence the raptness the depth of concentration in his bravely deep poems",
+            "count": 2
+        },
+        {
+            "phrase": "chesterton's own history of his mind",
+            "count": 1
+        },
+        {
+            "phrase": "one of the great literary interviewers of our time listen for how often his subjects are struck by his discovery of an unknown-to-them pattern of imagery or tic of diction",
+            "count": 1
+        },
+        {
+            "phrase": "1 a story the origin of which is forgotten that ostensibly relates historical events which ace usually of such character as to serve to explain some practice belief institution",
+            "count": 1
+        }
+    ]
+}

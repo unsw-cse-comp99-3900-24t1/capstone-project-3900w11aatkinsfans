@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:14",
+            "02:22",
+            "03:00",
+            "04:24"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "you've never heard of that song",
+            "count": 2
+        },
+        {
+            "phrase": "never even heard of it",
+            "count": 1
+        },
+        {
+            "phrase": "i hadn't heard of it i didn't even know the name of it",
+            "count": 1
+        },
+        {
+            "phrase": "i had never heard about it",
+            "count": 1
+        }
+    ]
+}

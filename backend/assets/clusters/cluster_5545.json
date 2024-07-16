@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:05",
+            "03:28",
+            "04:09"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have not inherited the earth from our parents we have borrowed it from our children",
+            "count": 2
+        },
+        {
+            "phrase": "it is very difficult to know what we're going to be inheriting",
+            "count": 2
+        }
+    ]
+}

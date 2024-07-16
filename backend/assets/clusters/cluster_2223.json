@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:24",
+            "01:23",
+            "01:43",
+            "02:24",
+            "03:05",
+            "04:00"
+        ],
+        "label": "mr"
+    },
+    "clusterList": [
+        {
+            "phrase": "music to a businessman's ears",
+            "count": 5
+        },
+        {
+            "phrase": "mr radio historia-phila-dr ya-know could you just answer the question who is this guy",
+            "count": 1
+        },
+        {
+            "phrase": "the carlos santana of spanish guitar",
+            "count": 1
+        },
+        {
+            "phrase": "the music insider",
+            "count": 1
+        }
+    ]
+}

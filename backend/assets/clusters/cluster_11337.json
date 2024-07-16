@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:38"
+        ],
+        "label": "ah"
+    },
+    "clusterList": [
+        {
+            "phrase": "ah sabrina what a nice name so if you're lost may i escort you to your destination",
+            "count": 1
+        },
+        {
+            "phrase": "no and thank you please madam i ain't lost just wandering",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:14",
+            "03:37",
+            "04:23"
+        ],
+        "label": "crazy"
+    },
+    "clusterList": [
+        {
+            "phrase": "angry white male",
+            "count": 2
+        },
+        {
+            "phrase": "crazy white man's got a collander on his head",
+            "count": 1
+        },
+        {
+            "phrase": "white man's burden",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            5,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "03:28",
+            "03:34",
+            "04:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the social responsibility of business is to increase its profits",
+            "count": 3
+        },
+        {
+            "phrase": "the crime of corporate social responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "t here is one and only one social responsibility of business-to use its resources to increase its profits so long as it stays within the rules of the game which is to say engages in open and free competition without deception or fraud",
+            "count": 1
+        },
+        {
+            "phrase": "business is not concerned merely with profit but also with promoting desirable social ends that business has a social conscience and takes seriously its responsibilities for providing em ployment eliminating discrimination avoid ing pollution and whatever else may be the catchwords of the contemporary crop of re formers",
+            "count": 1
+        },
+        {
+            "phrase": "there is one and only one social responsibility of business-to use its resources and engage in activities designed to increase its profits so long as it stays within the rules of the game which is to say engages in open and free competition without deception or fraud",
+            "count": 1
+        },
+        {
+            "phrase": "socially responsible investing",
+            "count": 1
+        },
+        {
+            "phrase": "place social responsibility at the core of their business strategy",
+            "count": 1
+        },
+        {
+            "phrase": "thanks in part to the work of concerned investors thousands of companies worldwide are publishing corporate social responsibility reports that lay out their codes of conduct describe their progress on various issues and reveal where their products originate and who makes them",
+            "count": 1
+        },
+        {
+            "phrase": "to provide the enabling nurturing and invigorating environment within which private initiative and industry meaning people taking responsibility for their lives can grow and be properly rewarded",
+            "count": 1
+        }
+    ]
+}

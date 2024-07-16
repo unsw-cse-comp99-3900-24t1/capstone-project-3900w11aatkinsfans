@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:45",
+            "04:27",
+            "04:37"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i made an opinion about what i feel is a league's decision about players going to england",
+            "count": 2
+        },
+        {
+            "phrase": "i think for this year we made the right decisions and certainly for next year",
+            "count": 1
+        },
+        {
+            "phrase": "i think we made some good decisions regarding the kids on this team but unfortunately we lost a few early and in the last few days as well",
+            "count": 1
+        }
+    ]
+}

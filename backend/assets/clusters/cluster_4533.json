@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:33",
+            "01:03",
+            "03:34"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "will you sell me this article for the price shown on the tag",
+            "count": 2
+        },
+        {
+            "phrase": "are you also going to buy from us",
+            "count": 1
+        },
+        {
+            "phrase": "ok here's the deal we want to send you to ny whaddya say",
+            "count": 1
+        }
+    ]
+}

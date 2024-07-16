@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:04",
+            "03:08",
+            "03:13"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "it has nothing to do with gas it's the interaction you have with people",
+            "count": 2
+        },
+        {
+            "phrase": "you are the gasoline we make sure you have plenty of oil oil doesn't make your car go gasoline does that but lack of it can bring you to a screeching halt and even permanently damage your engine",
+            "count": 1
+        },
+        {
+            "phrase": "it's not just gas that's up everything's up",
+            "count": 1
+        }
+    ]
+}

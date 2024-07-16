@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:13",
+            "00:18",
+            "01:06",
+            "01:15",
+            "01:32",
+            "02:35",
+            "02:51",
+            "02:56",
+            "03:01",
+            "03:18",
+            "03:33",
+            "03:50",
+            "03:53",
+            "05:04"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's a personal matter between them",
+            "count": 8
+        },
+        {
+            "phrase": "it's who you stick it to that matters",
+            "count": 1
+        },
+        {
+            "phrase": "my thoughts don't matter",
+            "count": 1
+        },
+        {
+            "phrase": "and anyway it no longer matters",
+            "count": 1
+        },
+        {
+            "phrase": "it matters to me",
+            "count": 1
+        },
+        {
+            "phrase": "do you think it matters to me",
+            "count": 1
+        },
+        {
+            "phrase": "but isn't it a bit too important to you",
+            "count": 1
+        },
+        {
+            "phrase": "why does it matter what i think",
+            "count": 1
+        }
+    ]
+}

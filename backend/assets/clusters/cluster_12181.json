@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:46"
+        ],
+        "label": "error"
+    },
+    "clusterList": [
+        {
+            "phrase": "error internal archive error pax cpio file name in header is corrupted",
+            "count": 1
+        },
+        {
+            "phrase": "bomfatalerror cpio read error bad file format",
+            "count": 1
+        }
+    ]
+}

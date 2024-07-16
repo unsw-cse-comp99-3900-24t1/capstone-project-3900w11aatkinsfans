@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:37",
+            "02:24",
+            "03:10",
+            "04:33",
+            "04:43"
+        ],
+        "label": "give"
+    },
+    "clusterList": [
+        {
+            "phrase": "listen please don't mind but i don't want to sit with you its just that today my friend's absent today and she'll be here tomorrow so could you please change your seat and tell the teacher you did it",
+            "count": 2
+        },
+        {
+            "phrase": "give the teacher a little",
+            "count": 1
+        },
+        {
+            "phrase": "is the teacher a good teacher",
+            "count": 1
+        },
+        {
+            "phrase": "no such thing as bad student only bad teacher",
+            "count": 1
+        },
+        {
+            "phrase": "mom will you please let my teacher know that i am riding the bus home",
+            "count": 1
+        },
+        {
+            "phrase": "can we please take a picture with my teacher",
+            "count": 1
+        }
+    ]
+}

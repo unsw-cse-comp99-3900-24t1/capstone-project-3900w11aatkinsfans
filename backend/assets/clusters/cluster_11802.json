@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the flow in css is the logical way in which elements get placed on your screen",
+            "count": 1
+        },
+        {
+            "phrase": "normal flow is when each block level element is stacked on the next with inline elements flowing into the available space",
+            "count": 1
+        }
+    ]
+}

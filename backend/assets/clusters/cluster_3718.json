@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:46",
+            "03:19"
+        ],
+        "label": "none"
+    },
+    "clusterList": [
+        {
+            "phrase": "there were occasions when bishops actually booed and hissed what other bishops said in the gathering",
+            "count": 2
+        },
+        {
+            "phrase": "none of us was ever able to say why the clergy block experienced this catastrophe or to what it was due some people said that the pope had given a strong speech on the radio and that the german bishops issued a public protest",
+            "count": 1
+        },
+        {
+            "phrase": "there was a reason behind it the vatican radio station had broadcast a critical report about dachau and protested the mistreatment of priests",
+            "count": 1
+        },
+        {
+            "phrase": "throughout those years of horror when we listened to radio vatican and to the pope's messages we felt in communion with the pope in helping persecuted jews and in fighting nazi violence",
+            "count": 1
+        }
+    ]
+}

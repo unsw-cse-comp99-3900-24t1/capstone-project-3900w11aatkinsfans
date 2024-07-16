@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:24",
+            "01:02",
+            "04:15",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i kind of stopped and looked around to see if it was just me if i was the one shaking or if i was just positioned funny",
+            "count": 1
+        },
+        {
+            "phrase": "i was only watching the movement for a second before it's turned and come straight at me",
+            "count": 1
+        },
+        {
+            "phrase": "then it turned and made a beeline straight at me",
+            "count": 1
+        },
+        {
+            "phrase": "don't stop the movement",
+            "count": 1
+        },
+        {
+            "phrase": "i was only watching the movement for a second before it turned and came straight at me",
+            "count": 1
+        }
+    ]
+}

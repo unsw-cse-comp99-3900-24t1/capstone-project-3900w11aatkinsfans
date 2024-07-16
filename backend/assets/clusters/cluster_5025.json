@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:51",
+            "02:00",
+            "02:10"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "had better things to do than be drafted",
+            "count": 2
+        },
+        {
+            "phrase": "they had a big draft they took everybody",
+            "count": 1
+        },
+        {
+            "phrase": "being drafted was one highlight of my career and something very special but coming to training camp last year was also great and to have a chance to play world juniors was amazing",
+            "count": 1
+        }
+    ]
+}

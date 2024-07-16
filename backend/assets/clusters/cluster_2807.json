@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "01:14",
+            "01:38",
+            "02:57",
+            "03:02",
+            "03:43",
+            "04:23"
+        ],
+        "label": "anytime"
+    },
+    "clusterList": [
+        {
+            "phrase": "anytime something horrible like this happens it's a tragedy for everyone who is involved",
+            "count": 1
+        },
+        {
+            "phrase": "very very tragic",
+            "count": 1
+        },
+        {
+            "phrase": "it's just about the most horrible thing you could ever imagine happening",
+            "count": 1
+        },
+        {
+            "phrase": "was more horrific than most",
+            "count": 1
+        },
+        {
+            "phrase": "it all happened so much faster than you can say disaster",
+            "count": 1
+        },
+        {
+            "phrase": "let's call it what it was it was a street fight a chance encounter with a tragic outcome",
+            "count": 1
+        },
+        {
+            "phrase": "it shouldn't have happened and it shouldn't have happened to anybody",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:43",
+            "03:48",
+            "03:55"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's three ships in the port loading and two waiting to come in so we are attempting to refloat the vessel",
+            "count": 6
+        }
+    ]
+}

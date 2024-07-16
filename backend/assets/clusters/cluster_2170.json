@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:11",
+            "01:58",
+            "03:55",
+            "04:23",
+            "04:29",
+            "04:41",
+            "05:01"
+        ],
+        "label": "smoking"
+    },
+    "clusterList": [
+        {
+            "phrase": "second-hand smoke has very high levels of toxic gases and small particles",
+            "count": 3
+        },
+        {
+            "phrase": "smoking can cause cancer heart attacks impotence and harm pregnancy and foetal development",
+            "count": 1
+        },
+        {
+            "phrase": "smoking can cause lung cancer and other diseases",
+            "count": 1
+        },
+        {
+            "phrase": "plus secondhand smoke has been linked to sudden infant death syndrome",
+            "count": 1
+        },
+        {
+            "phrase": "approximately 35 percent of the population smokes and an estimated 200 000 deaths per year in indonesia are caused by tobacco-related illness",
+            "count": 1
+        },
+        {
+            "phrase": "may cause cancer in california",
+            "count": 1
+        }
+    ]
+}

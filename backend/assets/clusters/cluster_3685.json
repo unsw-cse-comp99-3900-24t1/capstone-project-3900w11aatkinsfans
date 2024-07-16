@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:11",
+            "01:51",
+            "02:20",
+            "04:33"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "w hat they're saying is well we know we're not very good but you can't risk electing obama the editorial board",
+            "count": 2
+        },
+        {
+            "phrase": "what they're saying is well we know we're not very good but you can't risk electing obama you know he's new he's he doesn't look like the other presidents on the currency he you know he's got a he's got a funny name i mean that's basically the argument he's too risky",
+            "count": 1
+        },
+        {
+            "phrase": "w hat they're saying is well we know we're not very good but you can't risk electing obama brad miskell",
+            "count": 1
+        },
+        {
+            "phrase": "so what they are trying to do is make you scared of me you know he's obama not patriotic enough he's got a funny name you know he doesn't look like all those other presidents on those dollar bills you know he's risky",
+            "count": 1
+        }
+    ]
+}

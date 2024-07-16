@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:26",
+            "01:06",
+            "01:46",
+            "02:25",
+            "03:06",
+            "03:37",
+            "03:48",
+            "04:28",
+            "04:32"
+        ],
+        "label": "nine"
+    },
+    "clusterList": [
+        {
+            "phrase": "nine first books that make a lasting impression",
+            "count": 7
+        },
+        {
+            "phrase": "lasting schlock the really good bad book cannot be written otherwise",
+            "count": 1
+        },
+        {
+            "phrase": "this new book represents a considerable advance on the earlier work",
+            "count": 1
+        },
+        {
+            "phrase": "many bookmen and some of the best among them",
+            "count": 1
+        }
+    ]
+}

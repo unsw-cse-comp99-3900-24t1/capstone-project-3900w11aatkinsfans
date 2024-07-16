@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:28",
+            "02:57",
+            "04:04"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "so it was a nice walk on tuesday with these guys and i got up and struck the ball nicely i said ok new week let's just go at it again",
+            "count": 6
+        },
+        {
+            "phrase": "we were here on tuesday so we know what's going on",
+            "count": 1
+        },
+        {
+            "phrase": "for the first day we did pretty well but you have to remember it's a long four days",
+            "count": 1
+        },
+        {
+            "phrase": "uh we went on tuesday",
+            "count": 1
+        }
+    ]
+}

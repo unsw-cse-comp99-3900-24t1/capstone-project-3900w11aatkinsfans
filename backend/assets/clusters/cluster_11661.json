@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:51",
+            "04:22"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it has a smokestack and sails so it's a hybrid",
+            "count": 1
+        },
+        {
+            "phrase": "it's a true hybrid",
+            "count": 1
+        }
+    ]
+}

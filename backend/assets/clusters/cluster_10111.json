@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "02:01"
+        ],
+        "label": "mulder"
+    },
+    "clusterList": [
+        {
+            "phrase": "mulder and scully are my best friends walter skinner saves the day",
+            "count": 1
+        },
+        {
+            "phrase": "mulder and scully",
+            "count": 1
+        }
+    ]
+}

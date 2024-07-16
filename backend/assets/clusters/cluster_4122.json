@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:16",
+            "01:37",
+            "03:09",
+            "03:18"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they are going to tell you i look different",
+            "count": 1
+        },
+        {
+            "phrase": "he's going to tell you i look different",
+            "count": 1
+        },
+        {
+            "phrase": "i wake up each morning and think what would letoto wear and i put on lots of flannel",
+            "count": 1
+        },
+        {
+            "phrase": "if my jeans could talk would i be embarrassed",
+            "count": 1
+        },
+        {
+            "phrase": "i see my name and like some preppy s t clothes and i'm like yo what the f k is going on",
+            "count": 1
+        }
+    ]
+}

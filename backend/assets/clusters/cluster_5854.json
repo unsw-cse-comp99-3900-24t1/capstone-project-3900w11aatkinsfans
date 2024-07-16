@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "00:15"
+        ],
+        "label": "coagulated"
+    },
+    "clusterList": [
+        {
+            "phrase": "coagulated you mean congregated coagulate is what blood does",
+            "count": 1
+        },
+        {
+            "phrase": "um you mean platelets",
+            "count": 1
+        },
+        {
+            "phrase": "platelets are the ones that actually coagulate",
+            "count": 1
+        }
+    ]
+}

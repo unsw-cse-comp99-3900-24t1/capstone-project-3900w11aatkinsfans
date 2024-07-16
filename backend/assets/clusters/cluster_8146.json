@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i get email like that all the time",
+            "count": 1
+        },
+        {
+            "phrase": "i am always amazed when someone sends me an email from microsoft outlook or another application and it gets inserted as a temporary event on my google calendar",
+            "count": 1
+        }
+    ]
+}

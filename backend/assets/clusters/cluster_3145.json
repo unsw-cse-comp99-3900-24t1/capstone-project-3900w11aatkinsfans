@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:28",
+            "01:51",
+            "02:22",
+            "03:35",
+            "03:51"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "every athlete the clean ones and the not clean ones should clearly know that we mean business",
+            "count": 3
+        },
+        {
+            "phrase": "i think a lot of times when guys are hitting 50 homers a year you kind of there's a special group of athletes who they have their own set of ways",
+            "count": 1
+        },
+        {
+            "phrase": "it's the same for these sportsmen",
+            "count": 1
+        },
+        {
+            "phrase": "these guys they're professionals",
+            "count": 1
+        }
+    ]
+}

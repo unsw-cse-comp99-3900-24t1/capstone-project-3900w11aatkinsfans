@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "01:52",
+            "02:22"
+        ],
+        "label": "raider"
+    },
+    "clusterList": [
+        {
+            "phrase": "raider nation breathe a sigh of relief oakland raiders starting qb ok",
+            "count": 1
+        },
+        {
+            "phrase": "oakland raider musings random thoughts from the dark side on the raiders training camp to date",
+            "count": 1
+        },
+        {
+            "phrase": "oakland raiders news today's camp a hit for jarrod cooper and a miss for jamarcus russell",
+            "count": 1
+        },
+        {
+            "phrase": "raiders camp thoughts news reactions and a correction",
+            "count": 1
+        }
+    ]
+}

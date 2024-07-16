@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "02:24"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not getting the tattoo",
+            "count": 1
+        },
+        {
+            "phrase": "unless the artist can tell you exactly what's in the tattoo don't get one",
+            "count": 1
+        }
+    ]
+}

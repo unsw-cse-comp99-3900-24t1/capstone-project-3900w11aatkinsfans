@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "03:00"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and on and on",
+            "count": 1
+        },
+        {
+            "phrase": "stay on message",
+            "count": 1
+        }
+    ]
+}

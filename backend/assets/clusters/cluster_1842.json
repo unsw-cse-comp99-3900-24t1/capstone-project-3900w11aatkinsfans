@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:11",
+            "01:19",
+            "02:20",
+            "02:36",
+            "03:48",
+            "04:03",
+            "04:15",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a first step towards changing medical practice",
+            "count": 4
+        },
+        {
+            "phrase": "we need to do something about transparency about eliminating inefficiencies in the health care system",
+            "count": 1
+        },
+        {
+            "phrase": "is proposing the most fundamental health-care reform",
+            "count": 1
+        },
+        {
+            "phrase": "health care benefits expansion amendment act of 2006",
+            "count": 1
+        },
+        {
+            "phrase": "weakening health care systems",
+            "count": 1
+        },
+        {
+            "phrase": "to elect a health care majority in congress",
+            "count": 1
+        }
+    ]
+}

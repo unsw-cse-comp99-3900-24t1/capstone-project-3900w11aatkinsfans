@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:13",
+            "02:15",
+            "04:29",
+            "04:49",
+            "04:54",
+            "04:59",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "but once you start looking for graffiti it's everywhere",
+            "count": 5
+        },
+        {
+            "phrase": "the graffiti's been here for weeks but it took less than an hour to clean it up",
+            "count": 2
+        }
+    ]
+}

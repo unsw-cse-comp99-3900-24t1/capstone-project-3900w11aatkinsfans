@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            2,
+            3,
+            4
+        ],
+        "xLabels": [
+            "01:53",
+            "02:05",
+            "02:06",
+            "02:23",
+            "02:42",
+            "04:29"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what many people may not realise is that if they just have uvb protection they are less likely to burn but they have no protection against the harmful and ageing effects of uva rays",
+            "count": 6
+        },
+        {
+            "phrase": "for a sunscreen to be as effective as possible it should really protect against both uvb and uva rays",
+            "count": 3
+        },
+        {
+            "phrase": "many people look for an spf in their sunscreen thinking that this offers them full protection against uv damage",
+            "count": 1
+        },
+        {
+            "phrase": "in fact the spf only shows protection against uvb which is the type of uv that causes sunburn and skin cancer",
+            "count": 1
+        },
+        {
+            "phrase": "it's uva that causes sun-induced skin ageing and also contributes towards skin cancer but the spf does not show protection against uva",
+            "count": 1
+        },
+        {
+            "phrase": "many people look for an spf in their sunscreen thinking that this offers them full protection against uv damage in fact the spf only shows protection against uvb which is the type of uv that causes sunburn and skin cancer",
+            "count": 1
+        },
+        {
+            "phrase": "it's uva that causes sun-induced skin ageing and also contributes towards skin cancer but the spf does not show protection against uva you need to look for specific uva filters indicated in the uk by stars or a circular uva symbol",
+            "count": 1
+        }
+    ]
+}

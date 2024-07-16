@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "00:28"
+        ],
+        "label": "okay"
+    },
+    "clusterList": [
+        {
+            "phrase": "okay the game's loaded up your mouse button doesn't do anything yet you don't need to click",
+            "count": 1
+        },
+        {
+            "phrase": "dad the mouse button doesn't do anything yet you interact with stuff with the e key",
+            "count": 1
+        },
+        {
+            "phrase": "dad you can't just click on stuff look see the little yellow box you can interact with stuff like this",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:20",
+            "03:37"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this album is about diversity",
+            "count": 2
+        },
+        {
+            "phrase": "diversity of opinion",
+            "count": 1
+        }
+    ]
+}

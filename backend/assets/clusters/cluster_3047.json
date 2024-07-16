@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:06",
+            "03:11",
+            "03:50",
+            "04:37",
+            "04:42",
+            "05:03"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am here to put on another exciting show for showtime i am going to fill up your highlight reel",
+            "count": 2
+        },
+        {
+            "phrase": "i'm excited for tim kaine i'm excited for all of us",
+            "count": 1
+        },
+        {
+            "phrase": "i hope that ourwholecommunity comes out to enjoy the wonderful show and show support",
+            "count": 1
+        },
+        {
+            "phrase": "i'm excited to see ken and seito again",
+            "count": 1
+        },
+        {
+            "phrase": "they are so excited even some of our staff are into it",
+            "count": 1
+        }
+    ]
+}

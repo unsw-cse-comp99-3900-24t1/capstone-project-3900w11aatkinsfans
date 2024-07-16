@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:32",
+            "04:46"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one thing i am not clear about is how long these purported results have been known",
+            "count": 1
+        },
+        {
+            "phrase": "the study mentions 1996 if the results have been known since that time then dow chemical and the practitioners in the study are highly irresponsible individuals to have waited till now to say something",
+            "count": 1
+        },
+        {
+            "phrase": "really at the heart of my concern is that we shouldn't wait for a definitive study to come out but err on the side of being safe rather than sorry later",
+            "count": 1
+        },
+        {
+            "phrase": "we should remain extremely cautious when proposing therapeutic intervention on the basis of observational studies that do not imply causation this is particularly true for a study with a number of important limitations such as that of singh-manoux et al",
+            "count": 1
+        }
+    ]
+}

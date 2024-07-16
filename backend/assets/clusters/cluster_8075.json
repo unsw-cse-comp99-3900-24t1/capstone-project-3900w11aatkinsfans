@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "04:50"
+        ],
+        "label": "life's"
+    },
+    "clusterList": [
+        {
+            "phrase": "life's short eat dessert first",
+            "count": 1
+        },
+        {
+            "phrase": "libbeth eat my apple",
+            "count": 1
+        }
+    ]
+}

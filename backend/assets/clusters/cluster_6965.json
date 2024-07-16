@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:47",
+            "04:23"
+        ],
+        "label": "saarc"
+    },
+    "clusterList": [
+        {
+            "phrase": "saarc economies have improved with time",
+            "count": 2
+        },
+        {
+            "phrase": "industrial disputation is at an all time low and days lost per thousand employees can be counted on one hand this decline has accompanied strong growth in revenues employment and productivity",
+            "count": 1
+        }
+    ]
+}

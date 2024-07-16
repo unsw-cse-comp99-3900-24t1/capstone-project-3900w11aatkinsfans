@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:05"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "most people don't realize the impact cattle has on the state economy",
+            "count": 1
+        },
+        {
+            "phrase": "it's the largest agricultural industry in the state and right now there's a rise in ranchers who feel they need to cut their losses",
+            "count": 1
+        },
+        {
+            "phrase": "this industry was due for a tremendous growing pain and i think this year is the first year of the effects of that it's due to the success of the crop farmers do jump on each others bandwagons when there's a successful crop",
+            "count": 1
+        }
+    ]
+}

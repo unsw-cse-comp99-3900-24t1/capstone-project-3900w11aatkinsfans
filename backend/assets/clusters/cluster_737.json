@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "01:43",
+            "02:14",
+            "02:20",
+            "03:01",
+            "03:05",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "fixes"
+    },
+    "clusterList": [
+        {
+            "phrase": "fixes to improve stability and performance",
+            "count": 9
+        },
+        {
+            "phrase": "includes fixes to improve stability and performance",
+            "count": 8
+        },
+        {
+            "phrase": "improve stability and performance",
+            "count": 1
+        }
+    ]
+}

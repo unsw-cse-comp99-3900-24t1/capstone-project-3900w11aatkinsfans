@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:42",
+            "03:41"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that hoax is unworthy of the serious debate we must have to relieve the pain of consumers at the pump and to promote energy independence",
+            "count": 5
+        },
+        {
+            "phrase": "but since harry mitchell went to congress the price of gas has increased 68 percent and what has harry mitchell done for arizonans struggling at the pump not much",
+            "count": 1
+        }
+    ]
+}

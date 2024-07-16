@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:45",
+            "01:11",
+            "01:28",
+            "01:33",
+            "02:51",
+            "03:38",
+            "03:39",
+            "04:05"
+        ],
+        "label": "happy"
+    },
+    "clusterList": [
+        {
+            "phrase": "happy warrior in the 2000 presidential campaign has turned sour in 2008 and the candor and straight talk that once made him such an attractive candidate are rapidly disappearing",
+            "count": 4
+        },
+        {
+            "phrase": "it's the democrats turn he's about change we need hope",
+            "count": 1
+        },
+        {
+            "phrase": "after o supposedly won the policy was to fall in behind the dem candidate but most of the commenters seem to hate him",
+            "count": 1
+        },
+        {
+            "phrase": "one of the things that he finds worrisome is that things may even be worse than i first thought which probably shows why he was not selected to be the republican presidential nominee he is inexperienced in catastrophe",
+            "count": 1
+        },
+        {
+            "phrase": "that a man who has ascended to the seat of vice president of the united states would openly display such contempt and astounding ignorance toward his own countrymen is an insult to all americans now that he or the administration he represents no longer needs their vote mr cheney apparently feels that he is now free to mock and belittle the people of west virginia",
+            "count": 1
+        }
+    ]
+}

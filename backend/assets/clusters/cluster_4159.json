@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:37",
+            "02:29",
+            "03:12",
+            "03:38"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "man that's some good shit",
+            "count": 2
+        },
+        {
+            "phrase": "what the fuck",
+            "count": 1
+        },
+        {
+            "phrase": "oh fucking shit",
+            "count": 1
+        },
+        {
+            "phrase": "shit dude what the fuck",
+            "count": 1
+        }
+    ]
+}

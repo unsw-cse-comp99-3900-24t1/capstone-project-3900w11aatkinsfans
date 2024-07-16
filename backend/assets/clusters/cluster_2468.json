@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "04:28"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a very aggressive bold comprehensive proposal and it's great to challenge the politicians to go where they need to go",
+            "count": 6
+        },
+        {
+            "phrase": "the plan is an extraordinary opportunity as well as an enormous challenge",
+            "count": 1
+        }
+    ]
+}

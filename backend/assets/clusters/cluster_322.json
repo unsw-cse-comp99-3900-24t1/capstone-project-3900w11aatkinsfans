@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            27,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:22",
+            "02:57",
+            "03:23",
+            "03:48"
+        ],
+        "label": "end"
+    },
+    "clusterList": [
+        {
+            "phrase": "end justifying the means",
+            "count": 27
+        },
+        {
+            "phrase": "money is a means to an end not the end itself",
+            "count": 2
+        },
+        {
+            "phrase": "is the means by",
+            "count": 1
+        },
+        {
+            "phrase": "an end to a means",
+            "count": 1
+        }
+    ]
+}

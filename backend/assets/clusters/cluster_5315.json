@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:53",
+            "02:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i definitely want to see a democrat in the white house",
+            "count": 1
+        },
+        {
+            "phrase": "i really don't care who he chooses as vice president because i'm not going to vote for him regardless",
+            "count": 1
+        },
+        {
+            "phrase": "if anyone thinks that picking a woman will simply placate hillary clinton's female supporters i think that's very patronizing to women and i don't think that that either governor sebelius or senator mccaskill would disagree",
+            "count": 1
+        },
+        {
+            "phrase": "stand up for democracy nominate hillary",
+            "count": 1
+        }
+    ]
+}

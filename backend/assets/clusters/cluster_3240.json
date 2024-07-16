@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:09",
+            "02:33",
+            "03:38",
+            "04:41",
+            "04:44"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "find out what vehicles they're driving",
+            "count": 2
+        },
+        {
+            "phrase": "a patrol car driver would have the additional difficulty of taking his eyes from the road to check vehicles which he passes",
+            "count": 1
+        },
+        {
+            "phrase": "they're the engine driving this thing",
+            "count": 1
+        },
+        {
+            "phrase": "operate motor vehicles",
+            "count": 1
+        },
+        {
+            "phrase": "their two or three cars",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:22",
+            "00:23",
+            "00:27",
+            "00:28",
+            "01:01",
+            "01:03",
+            "01:07",
+            "01:15",
+            "01:29",
+            "01:46",
+            "01:47",
+            "02:16",
+            "03:10",
+            "03:51",
+            "04:13",
+            "04:15",
+            "04:32",
+            "04:45",
+            "05:05"
+        ],
+        "label": "manufacturers"
+    },
+    "clusterList": [
+        {
+            "phrase": "manufacturers cited positive effects on activity from solid infrastructure and mining related demand",
+            "count": 8
+        },
+        {
+            "phrase": "coal is ruining our country",
+            "count": 6
+        },
+        {
+            "phrase": "coal allows us to keep our prices reasonable and it provides jobs",
+            "count": 2
+        },
+        {
+            "phrase": "a massive performance-based efficiency program for homes commercial buildings and new construction and a massive effort to boost the efficiency of heavy industry and expand the use of cogeneration c apture the co2 from 800 new large coal plants and store it underground b uild 1 million large wind turbines and b uild 700 new large nuclear power plants",
+            "count": 1
+        },
+        {
+            "phrase": "emit is an excellent addition to our contract operations business and highly complementary to our existing compression production and processing product lines we will continue to provide the quality service that emit s existing customers have relied upon in their coal bed methane operations in the western united states and will also seek to expand these advantageous water processing services into other applicable oil and gas markets throughout the world",
+            "count": 1
+        },
+        {
+            "phrase": "lithium-ion technology which has been proven in many different applications has allowed us to achieve exactly what we thought it would in terms of power range and efficiency",
+            "count": 1
+        },
+        {
+            "phrase": "emit is an excellent addition to our contract operations business and highly complementary to our existing compression production and processing product lines we will continue to provide the quality service that emit's existing customers have relied upon in their coal bed methane operations in the western united states and will also seek to expand these advantageous water processing services into other applicable oil and gas markets throughout the world",
+            "count": 1
+        },
+        {
+            "phrase": "accce recognizes coal will play a critical role in meeting america's growing energy demand therefore the organization is pleased when decisions are made that allow for the construction of coal-fueled power plants to provide affordable electricity for working families in an environmentally sensitive manner",
+            "count": 1
+        },
+        {
+            "phrase": "in order to be economically competitive we must have a reliable supply of electricity and there is no more reliable source of electricity than coal",
+            "count": 1
+        },
+        {
+            "phrase": "what we ought to tax is dirty energy like coal and to a lesser extent natural gas",
+            "count": 1
+        }
+    ]
+}

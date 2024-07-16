@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:43",
+            "04:46"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this swarthy beast consumed the whole lower broadway strip another boring-ass hotel i miss funland and all its classic",
+            "count": 2
+        },
+        {
+            "phrase": "this swarthy beast consumed the whole lower broadway strip another boring-ass hotel i miss funland and all its classic wooden pinball machines",
+            "count": 1
+        }
+    ]
+}

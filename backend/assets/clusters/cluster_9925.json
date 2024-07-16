@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "04:04"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's the best part of our beverage bar free refills",
+            "count": 1
+        },
+        {
+            "phrase": "i wanted coffee so bad up to the restaurant they have a propane stove",
+            "count": 1
+        }
+    ]
+}

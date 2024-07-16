@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:20",
+            "03:24",
+            "04:27"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what has suffered most is the credibility of the most sophisticated financial systems in the world",
+            "count": 1
+        },
+        {
+            "phrase": "financial armageddon protecting your future from four impending catastrophes",
+            "count": 1
+        },
+        {
+            "phrase": "the losses for the financial system from people walking away could be of the order of one trillion dollars when the entire capital of the us banking system is only 1 3 trillion",
+            "count": 1
+        },
+        {
+            "phrase": "i am saddened that the financial crisis has had such extensive a reach that financial institutions are not able to fund one of our nation's most valuable investments education",
+            "count": 1
+        }
+    ]
+}

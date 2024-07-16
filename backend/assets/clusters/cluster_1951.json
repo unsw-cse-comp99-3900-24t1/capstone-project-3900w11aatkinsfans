@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "01:33",
+            "02:09",
+            "02:23",
+            "02:28",
+            "02:32",
+            "02:55"
+        ],
+        "label": "federal"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't know what kind of jury these lawyers wanted but it wouldn't be a cinematic one",
+            "count": 3
+        },
+        {
+            "phrase": "there are no plea offers available at this time",
+            "count": 3
+        },
+        {
+            "phrase": "federal trials are not conducted in the dark",
+            "count": 2
+        },
+        {
+            "phrase": "trial by jury",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:20",
+            "02:42",
+            "03:27"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the idea that the world we see is so totally corrupt that it is beyond improvement and that accordingly the world that will follow will bring plenitude perfection and ultimate liberation is one of the most monstrous aberrations of the human spirit of course this aberration is not an invention of our own time but we should recognize that religious thought which opposes all temporal values to the force of supernatural grace is much less abominable than doctrines that tell us we can assure our salvation by jumping from the edge of the abyss to the glorious heights of the heavens",
+            "count": 1
+        },
+        {
+            "phrase": "the eternal mystery of the world is its comprehensibility",
+            "count": 1
+        },
+        {
+            "phrase": "the most incomprehensible thing about the world is that it is comprehensible",
+            "count": 1
+        },
+        {
+            "phrase": "the mystery of godliness",
+            "count": 1
+        },
+        {
+            "phrase": "a limited imagination defends itself against recognizing the world as a system of connected vessels it also is incapable of moving beyond the familiar",
+            "count": 1
+        }
+    ]
+}

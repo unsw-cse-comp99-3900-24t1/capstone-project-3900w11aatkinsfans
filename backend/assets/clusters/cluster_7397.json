@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:28",
+            "03:42"
+        ],
+        "label": "life"
+    },
+    "clusterList": [
+        {
+            "phrase": "life is not defined by the breaths you take but by your breathless moments",
+            "count": 1
+        },
+        {
+            "phrase": "breathing space to survive",
+            "count": 1
+        },
+        {
+            "phrase": "breath is life",
+            "count": 1
+        }
+    ]
+}

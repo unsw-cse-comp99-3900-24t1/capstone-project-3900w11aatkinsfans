@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:52"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you think with the power back on this thing will still run",
+            "count": 1
+        },
+        {
+            "phrase": "what if i run out of power",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:10",
+            "01:15",
+            "01:24",
+            "01:42",
+            "02:10",
+            "02:22",
+            "02:24",
+            "03:18",
+            "04:03",
+            "04:04",
+            "04:46"
+        ],
+        "label": "hi"
+    },
+    "clusterList": [
+        {
+            "phrase": "who i'd like to meet",
+            "count": 3
+        },
+        {
+            "phrase": "my name is bruce",
+            "count": 2
+        },
+        {
+            "phrase": "my name is rachel corrie",
+            "count": 2
+        },
+        {
+            "phrase": "hi my name is carlos",
+            "count": 1
+        },
+        {
+            "phrase": "tell me whom you love and i will tell you who you are",
+            "count": 1
+        },
+        {
+            "phrase": "okay i guess i'm home after all if you guys are going to name me maybe you'll keep me and be nicer than the last people who had me",
+            "count": 1
+        },
+        {
+            "phrase": "i want them to know who i am",
+            "count": 1
+        },
+        {
+            "phrase": "may i be so bold as to ask for your name",
+            "count": 1
+        }
+    ]
+}

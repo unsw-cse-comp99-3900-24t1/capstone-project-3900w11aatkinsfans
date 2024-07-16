@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:23",
+            "02:10",
+            "02:52",
+            "03:05",
+            "03:10",
+            "04:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fastest easiest way to upload watch and share your favorite video clips",
+            "count": 2
+        },
+        {
+            "phrase": "record my video",
+            "count": 2
+        },
+        {
+            "phrase": "i turn my camera on",
+            "count": 1
+        },
+        {
+            "phrase": "video showing some of the studio recording",
+            "count": 1
+        },
+        {
+            "phrase": "what is the best place to find video",
+            "count": 1
+        },
+        {
+            "phrase": "whoops wrong footage",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "03:00",
+            "04:18"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you really think now is a good time for a child and you seriously think you can handle it",
+            "count": 1
+        },
+        {
+            "phrase": "there is always a bit of an eew factor but once moms are aware of the benefits they like the idea",
+            "count": 1
+        },
+        {
+            "phrase": "best parenting advice",
+            "count": 1
+        }
+    ]
+}

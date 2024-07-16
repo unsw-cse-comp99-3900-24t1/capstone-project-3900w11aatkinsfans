@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:37",
+            "03:59",
+            "04:27",
+            "04:54",
+            "05:05"
+        ],
+        "label": "getting"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't know who's responsible of course that's our main focus right now to find out who did this",
+            "count": 2
+        },
+        {
+            "phrase": "i'll tell you we made great progress in the investigation",
+            "count": 2
+        },
+        {
+            "phrase": "getting us closer to the truth of the serious matters we have been investigating",
+            "count": 1
+        },
+        {
+            "phrase": "yeah a little surprised i thought people would be a little more anxious than that and upset but as we've tried to assure people at this point they are allegations and it's a criminal investigation and that's all we know",
+            "count": 1
+        }
+    ]
+}

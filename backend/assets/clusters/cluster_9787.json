@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "02:00"
+        ],
+        "label": "about"
+    },
+    "clusterList": [
+        {
+            "phrase": "about to occur",
+            "count": 1
+        },
+        {
+            "phrase": "bound to happen",
+            "count": 1
+        }
+    ]
+}

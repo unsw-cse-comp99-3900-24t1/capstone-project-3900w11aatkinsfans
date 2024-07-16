@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "03:32",
+            "04:24"
+        ],
+        "label": "beloved"
+    },
+    "clusterList": [
+        {
+            "phrase": "although it is a cliche to which we are so familiar that we don't even notice it implies very interesting thoughts in the way it expresses some kind of deeply heartfelt desire doesn't it",
+            "count": 2
+        },
+        {
+            "phrase": "beloved s plot is constructed to mirror the way that memories unfold",
+            "count": 1
+        },
+        {
+            "phrase": "the plot emerges in nonlinear fragments as different characters remember their experiences and share them with the reader and or each other",
+            "count": 1
+        },
+        {
+            "phrase": "and i've realized that this grief will always be a part of my story because like all seasons it has its time and place",
+            "count": 1
+        }
+    ]
+}

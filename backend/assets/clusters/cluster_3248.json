@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:13",
+            "02:22",
+            "03:06",
+            "04:45"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "check for updates",
+            "count": 2
+        },
+        {
+            "phrase": "new updates have been installed click here to see these updates",
+            "count": 1
+        },
+        {
+            "phrase": "its been a whole 2 days where's the update",
+            "count": 1
+        },
+        {
+            "phrase": "monthly rapid update",
+            "count": 1
+        },
+        {
+            "phrase": "we're updating our site",
+            "count": 1
+        }
+    ]
+}

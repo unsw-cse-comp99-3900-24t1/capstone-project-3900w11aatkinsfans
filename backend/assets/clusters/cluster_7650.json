@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:29",
+            "04:33",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the four fundraisers we had went very well and we're still getting contributions sent in the mail",
+            "count": 2
+        },
+        {
+            "phrase": "of the 8 000 oregonians on this email list only 40 have made contributions toward our efforts totaling 4 385 00 that is not enough",
+            "count": 1
+        }
+    ]
+}

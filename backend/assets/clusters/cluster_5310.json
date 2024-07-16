@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "03:38",
+            "04:04",
+            "05:00"
+        ],
+        "label": "neither"
+    },
+    "clusterList": [
+        {
+            "phrase": "neither do they have political rights within the local community",
+            "count": 1
+        },
+        {
+            "phrase": "the township doesn't have the authority",
+            "count": 1
+        },
+        {
+            "phrase": "the county commissioners did not go looking for that project",
+            "count": 1
+        },
+        {
+            "phrase": "this is a deliberate violation of a township ordinance passed back in april of 2000 that prohibits any political fundraising in all township buildings",
+            "count": 1
+        }
+    ]
+}

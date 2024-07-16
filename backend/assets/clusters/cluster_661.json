@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:43",
+            "01:06",
+            "01:24",
+            "01:47",
+            "02:28",
+            "02:32",
+            "03:09",
+            "03:42",
+            "03:48",
+            "04:04",
+            "04:28",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am a stay at home mom who needs a break from the 17 month old that i call my son he is very active and keeps me very busy my husband and i recently relocated with his job",
+            "count": 14
+        },
+        {
+            "phrase": "you just wait until your father comes home",
+            "count": 1
+        },
+        {
+            "phrase": "want s to come and live with me all the time and that he can see mom every other weekend",
+            "count": 1
+        },
+        {
+            "phrase": "reminders he is lavished with love and praise when he gets where i want him because i want him to associate coming back to home base with happy feelings with alpha dog mom",
+            "count": 1
+        },
+        {
+            "phrase": "he can't come back until your father lets him",
+            "count": 1
+        },
+        {
+            "phrase": "he didn't want to leave we turned on light and my dad came outside but he didn't want to go anywhere",
+            "count": 1
+        },
+        {
+            "phrase": "you take him home get yourself home and then i don't want to see you driving this car again in this condition",
+            "count": 1
+        }
+    ]
+}

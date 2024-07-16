@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:45",
+            "03:01",
+            "03:03",
+            "03:47",
+            "04:40",
+            "04:58"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "he knows how to read the greens if i get confused or get into a problem he knows my game",
+            "count": 2
+        },
+        {
+            "phrase": "my attitude was always right i'll show him he's wrong he'd shout everything he could think of as loudly as he could telling you how badly you'd played and you'd never play for the club again dropping you was as bad as it could get",
+            "count": 1
+        },
+        {
+            "phrase": "he has a way of explaining things and he wants the best for you and to see you improve",
+            "count": 1
+        },
+        {
+            "phrase": "i think he was understanding of what i was trying to say i wasn't misquoted but it was kind of the wrong context he understands how hard i want to make the team",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes things go well in a game and on other occasions i struggle to get involved he said",
+            "count": 1
+        },
+        {
+            "phrase": "we have been playing or competing against each other for most of our lives and he knows my game and he understands me i don't know what more you can get out of a caddie than that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:16",
+            "01:52",
+            "02:22",
+            "02:57"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "this historic decisive showdown",
+            "count": 2
+        },
+        {
+            "phrase": "that fight got cancelled but this time i'm in against a more respected ex-champ in vernon forrest a future hall of famer and our fight is the co-feature so it's an even bigger fight",
+            "count": 1
+        },
+        {
+            "phrase": "definite rematch fight of the century",
+            "count": 1
+        },
+        {
+            "phrase": "while it will hardly be the showdown it could have been the drama will still be palpable",
+            "count": 1
+        },
+        {
+            "phrase": "the rematch of the year",
+            "count": 1
+        },
+        {
+            "phrase": "the unquestionable choice for fight of the year",
+            "count": 1
+        }
+    ]
+}

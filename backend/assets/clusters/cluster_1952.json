@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:21",
+            "00:25",
+            "01:47",
+            "02:39",
+            "03:15",
+            "03:18"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why did you come here",
+            "count": 1
+        },
+        {
+            "phrase": "oh my gosh why your here",
+            "count": 1
+        },
+        {
+            "phrase": "because you're here",
+            "count": 1
+        },
+        {
+            "phrase": "so why are you here inside my office",
+            "count": 1
+        },
+        {
+            "phrase": "why are you here",
+            "count": 1
+        },
+        {
+            "phrase": "why are you down here pri khris",
+            "count": 1
+        },
+        {
+            "phrase": "duh hi what brings you here",
+            "count": 1
+        },
+        {
+            "phrase": "why are you still here",
+            "count": 1
+        },
+        {
+            "phrase": "hey why are ya on my side in all this",
+            "count": 1
+        }
+    ]
+}

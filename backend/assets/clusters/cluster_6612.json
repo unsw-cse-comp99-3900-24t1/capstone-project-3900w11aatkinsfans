@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "03:11",
+            "04:45"
+        ],
+        "label": "triumph"
+    },
+    "clusterList": [
+        {
+            "phrase": "triumph of the underdogs",
+            "count": 1
+        },
+        {
+            "phrase": "it's good winning three out of four",
+            "count": 1
+        },
+        {
+            "phrase": "it's good to finally win one",
+            "count": 1
+        }
+    ]
+}

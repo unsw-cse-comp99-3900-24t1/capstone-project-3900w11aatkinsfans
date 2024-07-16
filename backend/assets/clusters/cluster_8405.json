@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "03:46"
+        ],
+        "label": "letter"
+    },
+    "clusterList": [
+        {
+            "phrase": "letter to mrs lydia bixby",
+            "count": 1
+        },
+        {
+            "phrase": "anything to declare mrs martell",
+            "count": 1
+        }
+    ]
+}

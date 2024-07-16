@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:25",
+            "00:27",
+            "01:33",
+            "01:48",
+            "03:13",
+            "04:18",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "today's landmark ruling is a ringing reaffirmation of the fundamental principle of checks and balances and the basic american idea that no person is above the law",
+            "count": 3
+        },
+        {
+            "phrase": "i am hopeful that the sentences imposed today will serve as a reminder that the right to disagree with the government does not permit anyone to jeopardize the lives of our brave law enforcement officers",
+            "count": 2
+        },
+        {
+            "phrase": "as public officials we take an oath of office to uphold the constitution seriously and today's landmark ruling by the u s district court is a great victory for the american people the rule of law and balance of power we must restore our nation's fundamental system of checks and balances and today's ruling begins to restore that balance",
+            "count": 1
+        },
+        {
+            "phrase": "pelosi said the ruling could give congress a new impetus to hold rove in contempt rove refused to respond to a subpoena requiring his appearance at a judiciary hearing earlier this month on allegations of improper white house influence over the justice department",
+            "count": 1
+        },
+        {
+            "phrase": "very good news for anyone who believes in the constitution of the united states and the separation of powers and checks and balances",
+            "count": 1
+        },
+        {
+            "phrase": "that is very good news for anyone who believes in the constitution of the united states the separation of powers and the system of checks and balances so we will look forward to reading that ruling more closely and of course it has ramifications for other contempt initiatives that we are considering in the house",
+            "count": 1
+        }
+    ]
+}

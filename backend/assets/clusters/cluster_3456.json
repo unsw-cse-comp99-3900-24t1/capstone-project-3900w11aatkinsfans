@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:11",
+            "03:18",
+            "03:47",
+            "04:24",
+            "04:41"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i go like hi what he goes my name's john belushi i go yeah nice to meet you i was kind of cocky you know i don't care i've got other things to do and i don't know who he is",
+            "count": 2
+        },
+        {
+            "phrase": "he means so much to me",
+            "count": 1
+        },
+        {
+            "phrase": "he's an ol pal o mine what'cha wanna know",
+            "count": 1
+        },
+        {
+            "phrase": "i who speak to you am he",
+            "count": 1
+        },
+        {
+            "phrase": "he meant everything to me my dad",
+            "count": 1
+        }
+    ]
+}

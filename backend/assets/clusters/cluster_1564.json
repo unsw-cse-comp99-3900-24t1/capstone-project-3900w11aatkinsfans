@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:04",
+            "00:20",
+            "00:23",
+            "00:37",
+            "00:43",
+            "01:24",
+            "01:47",
+            "04:32",
+            "04:33"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he must have stabbed him 50 times or 60 times",
+            "count": 5
+        },
+        {
+            "phrase": "the facts of this case to me are quite clear he knew what he was doing he intended to kill a human being and he knew that it was wrong",
+            "count": 2
+        },
+        {
+            "phrase": "he's one of the greatest mass murderers of the world and he's putting this out in order to defend himself it's an invented story and no one ought to believe it",
+            "count": 1
+        },
+        {
+            "phrase": "but in a very short time he was doing the same behaviors again drinking and driving i thought that killing somebody would sober him up but it didn't",
+            "count": 1
+        },
+        {
+            "phrase": "the thing that distinguishes aggravated assault from attempted homicide is the mens rea guilty mind we have to have an intent to kill that what this defendant was doing was trying to kill the person they're attacking",
+            "count": 1
+        },
+        {
+            "phrase": "not murder but something inappropriate and then not tell the truth about it and then expect to get away with that but since he didn't kill anybody then life in prison isn't the right answer",
+            "count": 1
+        }
+    ]
+}

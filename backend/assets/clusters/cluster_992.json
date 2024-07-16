@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            5,
+            5
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "okay alright you're being well jackie jackie you don't bite yourself come on",
+            "count": 6
+        },
+        {
+            "phrase": "a clip of jackie singing along to",
+            "count": 3
+        },
+        {
+            "phrase": "come on jackie you walked",
+            "count": 3
+        },
+        {
+            "phrase": "what the hell are you doin jackie",
+            "count": 3
+        }
+    ]
+}

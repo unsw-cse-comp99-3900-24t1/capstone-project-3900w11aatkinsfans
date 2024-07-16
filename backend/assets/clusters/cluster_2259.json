@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:15",
+            "02:56",
+            "03:28",
+            "04:09",
+            "04:18",
+            "04:41",
+            "04:55"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "pearl of wisdom",
+            "count": 2
+        },
+        {
+            "phrase": "my freshman year 25 words of wisdom",
+            "count": 1
+        },
+        {
+            "phrase": "i'll take the wisdom",
+            "count": 1
+        },
+        {
+            "phrase": "words of wisdom",
+            "count": 1
+        },
+        {
+            "phrase": "and the wisdom to know the difference",
+            "count": 1
+        },
+        {
+            "phrase": "quote of the day",
+            "count": 1
+        },
+        {
+            "phrase": "read and be wise",
+            "count": 1
+        }
+    ]
+}

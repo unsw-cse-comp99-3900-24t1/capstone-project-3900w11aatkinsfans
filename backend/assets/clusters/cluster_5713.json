@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:00",
+            "01:58"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "new residential supply",
+            "count": 1
+        },
+        {
+            "phrase": "the supply station",
+            "count": 1
+        },
+        {
+            "phrase": "department of housing economic development amp commerce",
+            "count": 1
+        }
+    ]
+}

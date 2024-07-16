@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:44"
+        ],
+        "label": "needs"
+    },
+    "clusterList": [
+        {
+            "phrase": "needs a root canal",
+            "count": 1
+        },
+        {
+            "phrase": "we also need to do some gum surgery to get at the cavity",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think we can save this tooth",
+            "count": 1
+        },
+        {
+            "phrase": "fang we have to take the nerve out of your tooth",
+            "count": 1
+        }
+    ]
+}

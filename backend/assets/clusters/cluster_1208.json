@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "00:56",
+            "02:01",
+            "02:14",
+            "03:14",
+            "03:18",
+            "03:29",
+            "03:42",
+            "04:21",
+            "05:01"
+        ],
+        "label": "show"
+    },
+    "clusterList": [
+        {
+            "phrase": "show and tell",
+            "count": 2
+        },
+        {
+            "phrase": "only time will tell",
+            "count": 2
+        },
+        {
+            "phrase": "you are a lying bitch",
+            "count": 2
+        },
+        {
+            "phrase": "but i'll share it with you",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not a fool",
+            "count": 1
+        },
+        {
+            "phrase": "but you told me to",
+            "count": 1
+        },
+        {
+            "phrase": "i've already told you several times",
+            "count": 1
+        },
+        {
+            "phrase": "tell me then",
+            "count": 1
+        },
+        {
+            "phrase": "i'm telling the truth",
+            "count": 1
+        },
+        {
+            "phrase": "well yeah but i know you'll keep it a secret",
+            "count": 1
+        }
+    ]
+}

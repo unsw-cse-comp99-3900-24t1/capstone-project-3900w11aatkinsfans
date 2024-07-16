@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "00:09",
+            "00:12",
+            "00:15",
+            "00:24",
+            "01:11",
+            "01:40",
+            "01:51",
+            "02:25",
+            "02:32",
+            "02:55",
+            "03:01",
+            "03:14",
+            "03:15",
+            "03:24",
+            "03:34",
+            "03:48",
+            "04:06",
+            "04:18"
+        ],
+        "label": "ok"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's an ideal pond to swim in clean beautiful",
+            "count": 6
+        },
+        {
+            "phrase": "across the pond",
+            "count": 4
+        },
+        {
+            "phrase": "ok lets start testing this water where the hell is it",
+            "count": 3
+        },
+        {
+            "phrase": "the everglades rivers of grass",
+            "count": 2
+        },
+        {
+            "phrase": "the old mill pond",
+            "count": 1
+        },
+        {
+            "phrase": "upper pond water",
+            "count": 1
+        },
+        {
+            "phrase": "i want to have that waterclope",
+            "count": 1
+        },
+        {
+            "phrase": "water under the bridge",
+            "count": 1
+        },
+        {
+            "phrase": "a turbid and briny river",
+            "count": 1
+        },
+        {
+            "phrase": "but the main problem at pier park pond is nutrients from waterfowl",
+            "count": 1
+        },
+        {
+            "phrase": "northern pike waters",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:04",
+            "00:51",
+            "01:04",
+            "01:14"
+        ],
+        "label": "hi"
+    },
+    "clusterList": [
+        {
+            "phrase": "hi i'm a witness",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't believe much of your testimony and i didn't believe much of your testimony because of your claimed lack of memory",
+            "count": 1
+        },
+        {
+            "phrase": "i wanted to testify to tell the truth about myself and my time",
+            "count": 1
+        },
+        {
+            "phrase": "you shell not bear false witness against your neighbor",
+            "count": 1
+        },
+        {
+            "phrase": "if i testify about myself my testimony is not true",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:46",
+            "04:12",
+            "04:41"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they called me and told me that they had reviewed my old application",
+            "count": 2
+        },
+        {
+            "phrase": "he got the application that you just sent in",
+            "count": 1
+        }
+    ]
+}

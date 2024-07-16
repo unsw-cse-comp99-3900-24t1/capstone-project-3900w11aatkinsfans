@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:52",
+            "02:25",
+            "03:10",
+            "04:23",
+            "04:28"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "the gameplay style in europe is more casual more collaborative and social",
+            "count": 3
+        },
+        {
+            "phrase": "it's more a european style of game and that is different from the australian and nba game and we have to get used to that",
+            "count": 2
+        },
+        {
+            "phrase": "the national matches are the world series of competitive shooting as far as the conventional shooting community is concerned",
+            "count": 1
+        },
+        {
+            "phrase": "the national matches are important because they display the importance of the competitive shooting discipline in the way that builds citizenship especially in young shooters",
+            "count": 1
+        }
+    ]
+}

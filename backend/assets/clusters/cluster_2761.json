@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:03",
+            "01:51",
+            "03:46",
+            "04:09",
+            "04:28",
+            "04:45"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are so ashamed for what happened this is not what we are",
+            "count": 4
+        },
+        {
+            "phrase": "you should be ashamed of yourselves",
+            "count": 1
+        },
+        {
+            "phrase": "shame on you",
+            "count": 1
+        },
+        {
+            "phrase": "i'll be the first one to admit it i'm not ashamed",
+            "count": 1
+        }
+    ]
+}

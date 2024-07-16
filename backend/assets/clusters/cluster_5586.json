@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:41",
+            "02:57",
+            "03:18"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i could describe the new national defense strategy in one word it would be balance",
+            "count": 2
+        },
+        {
+            "phrase": "terrorism is the best political weapon for nothing drives people harder than a fear of sudden death",
+            "count": 1
+        },
+        {
+            "phrase": "in planning implementing and selecting the target take care to secure a kill in the enemy",
+            "count": 1
+        }
+    ]
+}

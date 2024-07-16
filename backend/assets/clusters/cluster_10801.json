@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:24"
+        ],
+        "label": "life"
+    },
+    "clusterList": [
+        {
+            "phrase": "life must be pretty easy if you can turn up to work looking that every day",
+            "count": 1
+        },
+        {
+            "phrase": "it's a struggle just to make a living",
+            "count": 1
+        }
+    ]
+}

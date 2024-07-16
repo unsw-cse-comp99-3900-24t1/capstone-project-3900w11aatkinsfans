@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "02:37",
+            "04:41"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who have a great personality",
+            "count": 1
+        },
+        {
+            "phrase": "everybody can be great",
+            "count": 1
+        },
+        {
+            "phrase": "for every person who dislikes a personality there are certainly others who like them",
+            "count": 1
+        }
+    ]
+}

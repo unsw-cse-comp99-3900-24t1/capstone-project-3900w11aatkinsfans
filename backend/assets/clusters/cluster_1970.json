@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:09",
+            "01:15",
+            "01:47",
+            "02:28",
+            "03:10",
+            "03:43",
+            "03:51",
+            "04:31"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from castro's cuba to the u s senate one man's pursuit of the american dream",
+            "count": 7
+        },
+        {
+            "phrase": "i know that his naivete and lack of experience is on display when he talks about sitting down opposite hugo chavez or raul castro or ahmadinejad",
+            "count": 1
+        },
+        {
+            "phrase": "fidel castro thinks he is the most advanced candidate",
+            "count": 1
+        }
+    ]
+}

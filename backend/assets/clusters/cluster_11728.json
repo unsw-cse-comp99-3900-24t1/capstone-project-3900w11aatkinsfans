@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:59",
+            "04:21"
+        ],
+        "label": "corporations"
+    },
+    "clusterList": [
+        {
+            "phrase": "corporations are bad",
+            "count": 1
+        },
+        {
+            "phrase": "it's the most selfish group of companies that i've ever seen and the most hypocritical",
+            "count": 1
+        }
+    ]
+}

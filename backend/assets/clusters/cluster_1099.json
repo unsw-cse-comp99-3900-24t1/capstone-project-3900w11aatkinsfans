@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:24",
+            "00:29",
+            "01:25",
+            "01:38",
+            "01:42",
+            "01:53",
+            "01:56",
+            "02:05",
+            "03:34",
+            "03:55",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is a shocking indictment that after 100 years of the state pension we still have millions of older people living in poverty and many more struggling to make ends meet",
+            "count": 5
+        },
+        {
+            "phrase": "at the end of the day that is certainly a very local government type issue",
+            "count": 2
+        },
+        {
+            "phrase": "the removal of rate pegging and a greater share of federal taxation are part solutions but the state government also needs to stop cost shifting and start supporting local councils and their ratepayers",
+            "count": 1
+        },
+        {
+            "phrase": "the state pension is an essential part of modern life in britain our plan is to restore the earnings link and improve the level of payments to our pensioners",
+            "count": 1
+        },
+        {
+            "phrase": "we have amended the current pensions bill to allow secure data-sharing with energy suppliers to help reduce the bills of older people receiving pension credit and in winter 2008-09 there will be an extra 50 on top of the winter fuel payment for households with someone over 60 and an extra 100 for over-80s households",
+            "count": 1
+        },
+        {
+            "phrase": "more public services including social security will gradually benefit the whole community",
+            "count": 1
+        },
+        {
+            "phrase": "this issue affects every level of local government across the state we're going to make sure taxpayers aren't stuck paying for pensions for people who shouldn't receive them",
+            "count": 1
+        },
+        {
+            "phrase": "if they want to withhold the vouchers they need to go to the legislature and get an exception passed",
+            "count": 1
+        },
+        {
+            "phrase": "at a time when the city and state are in dire financial straits it's very hard to ask people to tighten their belts or to pay more in taxes when government is paying for empty offices",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            5
+        ],
+        "xLabels": [
+            "00:05",
+            "00:29",
+            "00:36",
+            "01:05",
+            "01:39",
+            "01:47",
+            "02:29",
+            "03:18",
+            "03:42",
+            "03:54",
+            "04:08",
+            "04:33",
+            "04:38",
+            "04:45"
+        ],
+        "label": "elephant"
+    },
+    "clusterList": [
+        {
+            "phrase": "high school musical",
+            "count": 7
+        },
+        {
+            "phrase": "together with elvis and johnny cash wills is in both the country music and rock n roll halls of fame",
+            "count": 4
+        },
+        {
+            "phrase": "legally blonde the musical",
+            "count": 4
+        },
+        {
+            "phrase": "elephant man the musical",
+            "count": 1
+        },
+        {
+            "phrase": "elvis presley tribute",
+            "count": 1
+        },
+        {
+            "phrase": "a century of elvis",
+            "count": 1
+        },
+        {
+            "phrase": "keating the musical",
+            "count": 1
+        },
+        {
+            "phrase": "duh what were you singing",
+            "count": 1
+        },
+        {
+            "phrase": "jonas brothers 3-d concert movie",
+            "count": 1
+        }
+    ]
+}

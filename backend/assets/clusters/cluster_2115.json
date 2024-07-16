@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "00:29",
+            "02:25",
+            "02:46",
+            "02:57",
+            "03:23",
+            "04:08"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's why you're so fuckin lucky",
+            "count": 2
+        },
+        {
+            "phrase": "so were you once",
+            "count": 1
+        },
+        {
+            "phrase": "i was lucky enough to have",
+            "count": 1
+        },
+        {
+            "phrase": "nice to have",
+            "count": 1
+        },
+        {
+            "phrase": "i was blessed the situation turned around so quickly",
+            "count": 1
+        },
+        {
+            "phrase": "i was lucky because god allowed that i be released",
+            "count": 1
+        },
+        {
+            "phrase": "no you couldn't have",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:37",
+            "01:47",
+            "02:15",
+            "04:32",
+            "04:42"
+        ],
+        "label": "reading"
+    },
+    "clusterList": [
+        {
+            "phrase": "reading between the lines",
+            "count": 1
+        },
+        {
+            "phrase": "a bottom line",
+            "count": 1
+        },
+        {
+            "phrase": "can read between the lines",
+            "count": 1
+        },
+        {
+            "phrase": "in line with",
+            "count": 1
+        },
+        {
+            "phrase": "the end is near",
+            "count": 1
+        },
+        {
+            "phrase": "we're trying to piece together a line from there",
+            "count": 1
+        }
+    ]
+}

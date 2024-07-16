@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "03:28",
+            "04:41"
+        ],
+        "label": "live"
+    },
+    "clusterList": [
+        {
+            "phrase": "live with me",
+            "count": 1
+        },
+        {
+            "phrase": "you and me against the world",
+            "count": 1
+        },
+        {
+            "phrase": "me and andrew",
+            "count": 1
+        }
+    ]
+}

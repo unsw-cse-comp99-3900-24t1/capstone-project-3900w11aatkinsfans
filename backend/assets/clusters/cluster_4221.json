@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "04:08",
+            "04:45",
+            "04:54"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's why one must always be hospitable to everyone even little nerds",
+            "count": 4
+        },
+        {
+            "phrase": "be nice to nerds",
+            "count": 1
+        }
+    ]
+}

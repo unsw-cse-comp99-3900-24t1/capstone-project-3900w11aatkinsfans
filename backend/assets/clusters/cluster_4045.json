@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:00",
+            "01:57",
+            "02:36",
+            "04:33"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with our new business development office we are going the extra mile to help relieve small business owners of the many roles they have to juggle ceo cfo operations new business development personnel manager logistics payroll accounting specialist etc at the end of the day small business owners want to make money make it well and make it fast",
+            "count": 1
+        },
+        {
+            "phrase": "as providers of executive search our clients are asking us to find seasoned executives who know how to cut payrolls spin off divisions and outsource services no one is seeking executives who know how to grow sales they are looking for people who know how to make do with soft sales and terminate expensive personnel that is those with 15 years of experience who are operations oriented and not part of the revenue generating process",
+            "count": 1
+        },
+        {
+            "phrase": "business guys on business trips",
+            "count": 1
+        },
+        {
+            "phrase": "we're on the road with their sales staff a lot they also provide a lot of leads for us in the way of group business as well as leisure sales they are the natural go-to for most meeting planners",
+            "count": 1
+        },
+        {
+            "phrase": "mr dolan is one of our biggest clients as for the business circle that is optional of course",
+            "count": 1
+        }
+    ]
+}

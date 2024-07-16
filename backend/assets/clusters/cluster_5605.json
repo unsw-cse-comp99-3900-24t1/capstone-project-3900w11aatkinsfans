@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:28"
+        ],
+        "label": "power"
+    },
+    "clusterList": [
+        {
+            "phrase": "power of plenty",
+            "count": 2
+        },
+        {
+            "phrase": "you have a lot of power",
+            "count": 1
+        }
+    ]
+}

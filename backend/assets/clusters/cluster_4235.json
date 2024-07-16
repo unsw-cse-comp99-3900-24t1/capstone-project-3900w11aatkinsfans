@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:32",
+            "02:52",
+            "04:13"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "best state for business",
+            "count": 2
+        },
+        {
+            "phrase": "there is a great opportunity for your business in the new england states",
+            "count": 1
+        },
+        {
+            "phrase": "this will give us an opportunity to have companies stay in the state",
+            "count": 1
+        },
+        {
+            "phrase": "let them know colorado is the best state in america to do business",
+            "count": 1
+        }
+    ]
+}

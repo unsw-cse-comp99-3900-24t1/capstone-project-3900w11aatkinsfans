@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "01:23",
+            "01:34",
+            "03:22"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've gone on to other things",
+            "count": 3
+        },
+        {
+            "phrase": "i go gather my things",
+            "count": 1
+        }
+    ]
+}

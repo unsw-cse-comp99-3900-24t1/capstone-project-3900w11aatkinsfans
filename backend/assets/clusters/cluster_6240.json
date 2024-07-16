@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:28",
+            "03:18"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no she knows more than everything",
+            "count": 1
+        },
+        {
+            "phrase": "sandra simply doesn't know what she's talking about",
+            "count": 1
+        },
+        {
+            "phrase": "it's okay she's just a little confused right now",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's part of the small intestine",
+            "count": 6
+        },
+        {
+            "phrase": "i think it's bile",
+            "count": 1
+        },
+        {
+            "phrase": "it's sort of like a mulligan",
+            "count": 1
+        }
+    ]
+}

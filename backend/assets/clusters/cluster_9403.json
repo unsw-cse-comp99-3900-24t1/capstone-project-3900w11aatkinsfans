@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:57"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she has to submit these document herself",
+            "count": 1
+        },
+        {
+            "phrase": "however other documents in her possession including the",
+            "count": 1
+        }
+    ]
+}

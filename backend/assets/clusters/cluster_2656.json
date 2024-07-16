@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:47",
+            "01:10",
+            "02:29",
+            "04:24"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an american carol",
+            "count": 2
+        },
+        {
+            "phrase": "its a redwork christmas",
+            "count": 1
+        },
+        {
+            "phrase": "it's a redwork christmas",
+            "count": 1
+        },
+        {
+            "phrase": "rockin around the christmas tree",
+            "count": 1
+        },
+        {
+            "phrase": "a shari lewis christmas",
+            "count": 1
+        },
+        {
+            "phrase": "a christmas carol",
+            "count": 1
+        }
+    ]
+}

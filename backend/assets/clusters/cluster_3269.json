@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:34",
+            "00:51",
+            "02:09",
+            "04:13",
+            "04:36"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's very good for employees just because it's very convenient her prices are reasonable where people can afford to eat there a lot of people regularly come in from local businesses on this block",
+            "count": 1
+        },
+        {
+            "phrase": "we're urging residents to shop locally this weekend",
+            "count": 1
+        },
+        {
+            "phrase": "we are excited about our expansion into the minnesota market because we know that busy health-conscious shoppers in this area are looking for delicious easy meal ideas",
+            "count": 1
+        },
+        {
+            "phrase": "the intent of the farmer's market has always been to have a market for locally grown produce and vegetables that can be sold at the downtown park",
+            "count": 1
+        },
+        {
+            "phrase": "i live a quarter mile down the road and if i know my housekeeper there's more than enough food for both of us all we have around here are small privately owned shops i guarantee they're all closed by now you're not going to get anything done tonight",
+            "count": 1
+        },
+        {
+            "phrase": "rock hill is a huge used-car market",
+            "count": 1
+        }
+    ]
+}

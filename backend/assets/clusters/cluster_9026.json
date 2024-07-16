@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "04:32"
+        ],
+        "label": "slit"
+    },
+    "clusterList": [
+        {
+            "phrase": "slit my wrists",
+            "count": 1
+        },
+        {
+            "phrase": "slit my wrists and fall in front of a taxi cab",
+            "count": 1
+        }
+    ]
+}

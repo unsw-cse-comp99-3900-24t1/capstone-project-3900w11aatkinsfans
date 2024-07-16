@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "04:36"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've been on a calendar but never on time",
+            "count": 1
+        },
+        {
+            "phrase": "you want to limit access to certain times such as before working hours during the lunch time or after five",
+            "count": 1
+        }
+    ]
+}

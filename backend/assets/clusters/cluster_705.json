@@ -1,0 +1,97 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:18",
+            "00:29",
+            "00:58",
+            "01:01",
+            "01:38",
+            "02:11",
+            "02:19",
+            "03:00",
+            "03:41",
+            "03:51",
+            "03:59",
+            "04:12",
+            "04:23",
+            "04:24",
+            "04:28",
+            "05:01"
+        ],
+        "label": "used"
+    },
+    "clusterList": [
+        {
+            "phrase": "let's find someplace with karaoke",
+            "count": 7
+        },
+        {
+            "phrase": "used music 6-9pm",
+            "count": 1
+        },
+        {
+            "phrase": "a little night music filipino show",
+            "count": 1
+        },
+        {
+            "phrase": "what is this a ballad",
+            "count": 1
+        },
+        {
+            "phrase": "lullaby of birdland",
+            "count": 1
+        },
+        {
+            "phrase": "seven early songs",
+            "count": 1
+        },
+        {
+            "phrase": "set the night to music",
+            "count": 1
+        },
+        {
+            "phrase": "the perfect soundtrack for sitting back and daydreaming your day away",
+            "count": 1
+        },
+        {
+            "phrase": "musical of the month club",
+            "count": 1
+        },
+        {
+            "phrase": "now what was that piece that symphonic piece you had that was playing between 11 00 and 11 30",
+            "count": 1
+        },
+        {
+            "phrase": "the sounds of christmas",
+            "count": 1
+        },
+        {
+            "phrase": "talladega nights the ballad of ricky bobby",
+            "count": 1
+        },
+        {
+            "phrase": "upbeat nine lives of a musical cat",
+            "count": 1
+        }
+    ]
+}

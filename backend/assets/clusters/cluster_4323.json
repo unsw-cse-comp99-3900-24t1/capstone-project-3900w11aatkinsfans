@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "03:23",
+            "03:51"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "we would be happy to submit a report to epa that air quality has been improved and the side effect is that people feel hungrier",
+            "count": 2
+        },
+        {
+            "phrase": "it allows activists to file lawsuits more easily based on claims that industrial activity will harm the species",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to need to establish the link between our claim and the actual impacts",
+            "count": 1
+        },
+        {
+            "phrase": "alternative seven does have a few significant environmental impacts",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:02",
+            "02:24",
+            "02:32",
+            "04:42"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we just can't get ourselves into predictable passing situations because that's when teams can take things away from us",
+            "count": 2
+        },
+        {
+            "phrase": "we need to execute better on offense",
+            "count": 1
+        },
+        {
+            "phrase": "every day after practice we were doing extra work just to get our legs right and also lose a couple of pounds our offense we're not sitting there powering people it's all misdirection like anybody in the country knows you've got to be able to run be able to move be able to cut",
+            "count": 1
+        },
+        {
+            "phrase": "the second quarter we did a much better job of locking in and taking those away",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            13,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "01:55",
+            "02:11",
+            "03:24",
+            "03:27",
+            "03:45",
+            "04:22"
+        ],
+        "label": "developing"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not the camera that takes the photo it's the photographer",
+            "count": 15
+        },
+        {
+            "phrase": "developing the photographer in you",
+            "count": 1
+        },
+        {
+            "phrase": "artful photo look",
+            "count": 1
+        },
+        {
+            "phrase": "objective relationship with the camera",
+            "count": 1
+        },
+        {
+            "phrase": "what is a photograph",
+            "count": 1
+        },
+        {
+            "phrase": "the first question must always be who is using this photograph and to what end",
+            "count": 1
+        },
+        {
+            "phrase": "because you know the photographs are more a question than a reply",
+            "count": 1
+        }
+    ]
+}

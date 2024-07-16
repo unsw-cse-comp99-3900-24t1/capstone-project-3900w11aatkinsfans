@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "01:34",
+            "03:18"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no actually i was having a very necessary conversation with the girls downstairs about the new girl i'll be living with",
+            "count": 1
+        },
+        {
+            "phrase": "oh year i talked to your wife on the phone",
+            "count": 1
+        },
+        {
+            "phrase": "the last thing i remember i wanted to be with amy after my bath",
+            "count": 1
+        }
+    ]
+}

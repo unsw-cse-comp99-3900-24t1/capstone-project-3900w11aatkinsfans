@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:50",
+            "00:51",
+            "00:53",
+            "01:02",
+            "01:05",
+            "01:06",
+            "01:15",
+            "01:18",
+            "01:42",
+            "01:43",
+            "02:20",
+            "02:43",
+            "03:06",
+            "03:46",
+            "04:06"
+        ],
+        "label": "polls"
+    },
+    "clusterList": [
+        {
+            "phrase": "polls show the public overwhelmingly doesn't want to be subjected to people talking on their cell phones on increasingly over-packed airplanes",
+            "count": 7
+        },
+        {
+            "phrase": "voice communications using communications devices on scheduled flights",
+            "count": 7
+        },
+        {
+            "phrase": "polls show the public overwhelmingly doesn't want to be subjected to people talking on their cell phones on increasingly over-packed airplanes however with internet access just around the corner on u s flights it won't be long before the ban on voice communications on in-flight planes is lifted",
+            "count": 5
+        },
+        {
+            "phrase": "public safety could be threatened because schools use voip",
+            "count": 2
+        },
+        {
+            "phrase": "washington cell phone calls on airplanes in flight are not only unsafe they're obnoxious and they should be permanently banned according to some members of congress",
+            "count": 1
+        },
+        {
+            "phrase": "and some lawmakers worry that domestic airlines might try to get the cell phone ban lifted so they can charge passengers extra to sit in no-phone sections",
+            "count": 1
+        }
+    ]
+}

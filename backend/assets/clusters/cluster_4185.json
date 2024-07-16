@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "03:29",
+            "03:50",
+            "04:04",
+            "04:31"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this campaign has been designed to raise awareness of the effects volunteers and their work has within local communities the creative approach used targets people with the message that you don't have to possess a superpower to really make a difference and that everyone has the ability to help",
+            "count": 1
+        },
+        {
+            "phrase": "public awareness is at an all-time high",
+            "count": 1
+        },
+        {
+            "phrase": "public awareness campaign",
+            "count": 1
+        },
+        {
+            "phrase": "public service announcements",
+            "count": 1
+        },
+        {
+            "phrase": "we want to increase citizen awareness for what to do all over the county",
+            "count": 1
+        }
+    ]
+}

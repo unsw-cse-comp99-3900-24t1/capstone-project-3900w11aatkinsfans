@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:51",
+            "01:33",
+            "01:41",
+            "02:19",
+            "03:12",
+            "03:18",
+            "03:50",
+            "04:27",
+            "04:45",
+            "05:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we met at the first wizard world texas quite some time ago",
+            "count": 2
+        },
+        {
+            "phrase": "how i met your mother",
+            "count": 2
+        },
+        {
+            "phrase": "who are you and where and when would you like to meet",
+            "count": 1
+        },
+        {
+            "phrase": "we were both kind of in the same situation",
+            "count": 1
+        },
+        {
+            "phrase": "so how did you two meet",
+            "count": 1
+        },
+        {
+            "phrase": "you were supposed to meet me in the bar",
+            "count": 1
+        },
+        {
+            "phrase": "dat was where i met up wit yvette delacroix dr carter watney little and some egyptian guy boy i had fun i met da countess dere too",
+            "count": 1
+        },
+        {
+            "phrase": "he met her out there they were not a couple they had only known each other for a short time",
+            "count": 1
+        },
+        {
+            "phrase": "i was the only guy until we got back to ohio and there i had a guy meet us in zanesville",
+            "count": 1
+        },
+        {
+            "phrase": "we met once before remember i'm miss applebomb",
+            "count": 1
+        }
+    ]
+}

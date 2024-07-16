@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:32",
+            "03:48",
+            "04:41"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's apple's purpose in running itunes",
+            "count": 1
+        },
+        {
+            "phrase": "we did itunes because we all love music we made what we thought was the best jukebox in itunes the team worked really hard and the reason that they worked so hard is because we all wanted one i mean the first few hundred customers were us it's not about fooling people and it's not about convincing people that they want something they don't when we created the itunes music store we did that because we thought it would be great to be able to buy music electronically not because we had plans to redefine the music industry",
+            "count": 1
+        },
+        {
+            "phrase": "so what does this have to do with the iphone",
+            "count": 1
+        }
+    ]
+}

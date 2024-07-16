@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:08",
+            "02:14",
+            "04:19",
+            "04:54"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "they'll fix it search is an iterative process but what the surge of interest in cuil showed is that there's a huge pent-up demand for an alternative to google",
+            "count": 3
+        },
+        {
+            "phrase": "the trend is to access more and more applications in the cloud not call them locally",
+            "count": 2
+        },
+        {
+            "phrase": "the integration and functionality of google apps just keeps getting better",
+            "count": 1
+        },
+        {
+            "phrase": "we're big google fans and look forward to even bigger and better enhancements to google apps",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:20",
+            "00:34",
+            "00:47",
+            "02:59",
+            "03:06",
+            "04:03",
+            "04:23",
+            "05:00"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "little pretense of balance",
+            "count": 4
+        },
+        {
+            "phrase": "you gradually get worse and worse at balancing",
+            "count": 3
+        },
+        {
+            "phrase": "it was something that has kind of been on my mind in general and once i started looking at balance it became very clear it would have applications in that direction",
+            "count": 3
+        },
+        {
+            "phrase": "poor balance isn't something you have to accept you can help yourself you can improve balance",
+            "count": 2
+        },
+        {
+            "phrase": "you have to adjust adapt and overcome",
+            "count": 1
+        }
+    ]
+}

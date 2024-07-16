@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:10",
+            "03:05"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that wasn't what i'd imagined exactly",
+            "count": 2
+        },
+        {
+            "phrase": "i can only imagine",
+            "count": 1
+        }
+    ]
+}

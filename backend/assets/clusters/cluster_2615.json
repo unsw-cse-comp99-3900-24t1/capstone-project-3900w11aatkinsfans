@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "03:47",
+            "04:18",
+            "04:53",
+            "05:01",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the god delusion",
+            "count": 3
+        },
+        {
+            "phrase": "god is wearing black",
+            "count": 2
+        },
+        {
+            "phrase": "are you the son of god then",
+            "count": 1
+        },
+        {
+            "phrase": "could it be satan",
+            "count": 1
+        }
+    ]
+}

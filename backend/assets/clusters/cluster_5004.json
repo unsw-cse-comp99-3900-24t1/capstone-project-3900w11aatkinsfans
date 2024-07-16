@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "05:01"
+        ],
+        "label": "ge"
+    },
+    "clusterList": [
+        {
+            "phrase": "ge has resolved its environmental coverage claims with the vast majority of its insurers",
+            "count": 1
+        },
+        {
+            "phrase": "against the few remaining insurers and ge expects to recover insurance proceeds from those remaining defendants",
+            "count": 1
+        },
+        {
+            "phrase": "rather this dispute concerns the extent to which ge or the insurers must bear the cost of the environmental cleanup",
+            "count": 1
+        },
+        {
+            "phrase": "insurers are increasingly under pressure because of the significant payments being made as a consequence of climate-related events as well as the cost of repairs",
+            "count": 1
+        }
+    ]
+}

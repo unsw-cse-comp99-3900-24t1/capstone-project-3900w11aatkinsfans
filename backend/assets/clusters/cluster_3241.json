@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:13",
+            "02:06",
+            "02:10",
+            "02:11",
+            "04:24"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "every waterfall starts with a drop",
+            "count": 2
+        },
+        {
+            "phrase": "a rock in the rapids",
+            "count": 1
+        },
+        {
+            "phrase": "by a waterfall",
+            "count": 1
+        },
+        {
+            "phrase": "drops in the river",
+            "count": 1
+        },
+        {
+            "phrase": "river of possibilities",
+            "count": 1
+        }
+    ]
+}

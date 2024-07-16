@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "03:18"
+        ],
+        "label": "dad"
+    },
+    "clusterList": [
+        {
+            "phrase": "dad you can't go that way you'll have to try something else",
+            "count": 1
+        },
+        {
+            "phrase": "i'd never do anything to hurt your father please i want out i want out and i want it now",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:43",
+            "02:43",
+            "03:34",
+            "04:15"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was such a senseless stupid thing",
+            "count": 1
+        },
+        {
+            "phrase": "it was like he didn't care",
+            "count": 1
+        },
+        {
+            "phrase": "he didn't deserve that",
+            "count": 1
+        },
+        {
+            "phrase": "he didn't deserve that at all",
+            "count": 1
+        },
+        {
+            "phrase": "i know he was very upset about it",
+            "count": 1
+        },
+        {
+            "phrase": "he took his punishment just like a man and didn't try to get out of it or make any excuses",
+            "count": 1
+        }
+    ]
+}

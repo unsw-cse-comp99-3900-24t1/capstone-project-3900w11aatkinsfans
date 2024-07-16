@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "03:19",
+            "03:24"
+        ],
+        "label": "windows"
+    },
+    "clusterList": [
+        {
+            "phrase": "windows installer is an engine for performing transactional installations but when upgrading or patching a product most often those files are replaced so copies must be kept if an error occurs and the installation needs to roll back",
+            "count": 3
+        }
+    ]
+}

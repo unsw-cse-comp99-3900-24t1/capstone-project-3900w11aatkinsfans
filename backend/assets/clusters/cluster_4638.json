@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:42",
+            "02:57"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "honour of the patriarch of constantinople",
+            "count": 2
+        },
+        {
+            "phrase": "what i would like to say to the holy father is that at present damascus is the capital of arab culture and at the same time the capital of the year of st paul",
+            "count": 1
+        },
+        {
+            "phrase": "the road to jerusalem passes through cairo",
+            "count": 1
+        }
+    ]
+}

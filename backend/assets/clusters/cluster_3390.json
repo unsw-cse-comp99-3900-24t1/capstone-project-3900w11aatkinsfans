@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "02:49",
+            "03:18",
+            "03:46",
+            "04:06"
+        ],
+        "label": "another"
+    },
+    "clusterList": [
+        {
+            "phrase": "another terrible threat",
+            "count": 2
+        },
+        {
+            "phrase": "the threat is real to some extent if it's not real today it will be real someday",
+            "count": 2
+        },
+        {
+            "phrase": "the threat is still out there",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:23",
+            "03:50"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is in for me",
+            "count": 1
+        },
+        {
+            "phrase": "do you want a story or a song",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the reality is that kbr's actions were not the cause of any of these terrible accidents",
+            "count": 1
+        },
+        {
+            "phrase": "there is no evidence that alcohol and or drugs were factors in the crash",
+            "count": 1
+        }
+    ]
+}

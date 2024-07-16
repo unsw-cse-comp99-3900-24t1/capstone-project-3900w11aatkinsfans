@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "03:11"
+        ],
+        "label": "bureaucrats"
+    },
+    "clusterList": [
+        {
+            "phrase": "bureaucrats believe that being in the country doesn't make any difference however we know the country schools are having trouble attracting qualified staff",
+            "count": 2
+        },
+        {
+            "phrase": "education is all about the relationship between students and teachers so staffing positions must be protected despite budget shortages",
+            "count": 1
+        }
+    ]
+}

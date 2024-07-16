@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:22",
+            "02:51"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not all about negative reinforcement",
+            "count": 1
+        },
+        {
+            "phrase": "you try to want to balance between being optimistic and aggressive and not going into things that are just quackery",
+            "count": 1
+        },
+        {
+            "phrase": "for psychologists and sociologists in contrast rewards and punishments are often counterproductive because they undermine intrinsic motivation",
+            "count": 1
+        }
+    ]
+}

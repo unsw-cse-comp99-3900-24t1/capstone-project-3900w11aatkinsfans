@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:11",
+            "04:21",
+            "04:22"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but can he lead",
+            "count": 1
+        },
+        {
+            "phrase": "obviously you can't replace the type of leadership the experience he has and the things of that nature we have some guys in there that are going for that position that are going in to do their jobs as well",
+            "count": 1
+        },
+        {
+            "phrase": "it's hard for him to really become the leader",
+            "count": 1
+        },
+        {
+            "phrase": "continue to lead the way as a national leader",
+            "count": 1
+        }
+    ]
+}

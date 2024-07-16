@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:10",
+            "00:56",
+            "01:47",
+            "02:43",
+            "03:12",
+            "03:18",
+            "03:43",
+            "04:09"
+        ],
+        "label": "web"
+    },
+    "clusterList": [
+        {
+            "phrase": "he who is not with me is against me",
+            "count": 3
+        },
+        {
+            "phrase": "web 2 0 ways to break up with your boyfriend",
+            "count": 1
+        },
+        {
+            "phrase": "like you so much that he can't stop being around you",
+            "count": 1
+        },
+        {
+            "phrase": "he's going to break up with me and it's your fault",
+            "count": 1
+        },
+        {
+            "phrase": "get the fuck away from him",
+            "count": 1
+        },
+        {
+            "phrase": "just follow him",
+            "count": 1
+        },
+        {
+            "phrase": "amy i don't know what you've been saying to him but when klump comes back tell him to stay the hell away from me",
+            "count": 1
+        },
+        {
+            "phrase": "talk him into more",
+            "count": 1
+        },
+        {
+            "phrase": "you love him you really love him",
+            "count": 1
+        }
+    ]
+}

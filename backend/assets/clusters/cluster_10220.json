@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:48",
+            "02:02"
+        ],
+        "label": "watch"
+    },
+    "clusterList": [
+        {
+            "phrase": "watch closely see the white car passing by quick did you catch that plate probably not but with new technology cops will automatically scan plates of all cars driving by and even save them to a database",
+            "count": 1
+        },
+        {
+            "phrase": "big white p on a yellow license plate that says the driver works for an accredited photo agency",
+            "count": 1
+        }
+    ]
+}

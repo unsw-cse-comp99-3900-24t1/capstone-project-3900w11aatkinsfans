@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            3,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:00",
+            "01:09",
+            "01:41",
+            "02:20",
+            "03:18",
+            "03:42",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i called you a creeper because you wouldn't just tell me your address",
+            "count": 9
+        },
+        {
+            "phrase": "creep me out",
+            "count": 1
+        },
+        {
+            "phrase": "get the heck out you creep",
+            "count": 1
+        },
+        {
+            "phrase": "he was a creep",
+            "count": 1
+        }
+    ]
+}

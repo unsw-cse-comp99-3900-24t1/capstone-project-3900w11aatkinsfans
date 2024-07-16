@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "02:04",
+            "02:22",
+            "04:03"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had some really good talks with seattle i'd say they were pretty intense and pretty in depth we thought at one point there was a possibility to get something done there but it just didn't come to fruition we were ready to go forward both parties worked hard at the end of the day they probably weren't as comfortable making the trade as we were that happens",
+            "count": 1
+        },
+        {
+            "phrase": "i think at the end of the day they didn't feel as comfortable maybe going forward to finish off the trade",
+            "count": 1
+        },
+        {
+            "phrase": "i think at the end of the day they just didn't feel as comfortable going forward to finish off the trade",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know what the situation was obviously both sides weren't too happy for me there's more impact of seeing hansen and moss go with him that opens up some spots and you'll probably see a trickle-down effect of guys getting moved up",
+            "count": 1
+        }
+    ]
+}

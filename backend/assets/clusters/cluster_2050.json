@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:22",
+            "02:09",
+            "02:23",
+            "02:24",
+            "02:28",
+            "02:38",
+            "03:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a tough trip we've got up in front of us now going back to china and coming back to the open",
+            "count": 8
+        }
+    ]
+}

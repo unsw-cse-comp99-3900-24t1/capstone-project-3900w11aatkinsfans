@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:22",
+            "01:43",
+            "03:08",
+            "04:18"
+        ],
+        "label": "needed"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of control",
+            "count": 3
+        },
+        {
+            "phrase": "needed to be in control",
+            "count": 1
+        },
+        {
+            "phrase": "beyond the control",
+            "count": 1
+        }
+    ]
+}

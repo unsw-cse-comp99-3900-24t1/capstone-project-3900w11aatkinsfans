@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wish that you remain healthy",
+            "count": 1
+        },
+        {
+            "phrase": "i want to be health because i am not now",
+            "count": 1
+        }
+    ]
+}

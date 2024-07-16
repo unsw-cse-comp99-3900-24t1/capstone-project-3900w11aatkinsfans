@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:08",
+            "00:09",
+            "01:15",
+            "02:00",
+            "02:05",
+            "02:07",
+            "02:08",
+            "02:38",
+            "04:09",
+            "04:23",
+            "04:47"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the winds were medium to strong 12 18 knots and later in the afternoon the waters got rather rough",
+            "count": 1
+        },
+        {
+            "phrase": "a gust of wind",
+            "count": 1
+        },
+        {
+            "phrase": "extremely unfavourable weather conditions",
+            "count": 1
+        },
+        {
+            "phrase": "no significant winds and it's not too hot and the humidity has come up a little bit",
+            "count": 1
+        },
+        {
+            "phrase": "bermuda-azores high and northeast winds",
+            "count": 1
+        },
+        {
+            "phrase": "light to moderate winds blowing from the southwest to west will prevail over southern luzon visayas and mindanao and coming from the east to northeast over the rest of luzon the coastal waters throughout the archipelago will be slight to moderate except during thunderstorms",
+            "count": 1
+        },
+        {
+            "phrase": "wind is dying down for two hours",
+            "count": 1
+        },
+        {
+            "phrase": "dust in the wind pemberton 08",
+            "count": 1
+        },
+        {
+            "phrase": "last weekend was very warm but quite dry in the afternoons",
+            "count": 1
+        },
+        {
+            "phrase": "july has also been cold with most overnight and daytime temperatures averaging about half a degree below normal",
+            "count": 1
+        },
+        {
+            "phrase": "it was blowin a little bit and raining a little bit but it was just kind of a drizzle or light rain",
+            "count": 1
+        },
+        {
+            "phrase": "the weather's been perfect it's a little bit of a vacation",
+            "count": 1
+        },
+        {
+            "phrase": "a little wind and the humidity here really helped this was 10 times better than the last time in toronto",
+            "count": 1
+        }
+    ]
+}

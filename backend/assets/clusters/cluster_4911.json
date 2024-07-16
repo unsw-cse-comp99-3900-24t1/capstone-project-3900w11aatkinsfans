@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:38",
+            "01:41"
+        ],
+        "label": "those"
+    },
+    "clusterList": [
+        {
+            "phrase": "those two worked together man now it's just david",
+            "count": 1
+        },
+        {
+            "phrase": "that was their hub",
+            "count": 1
+        },
+        {
+            "phrase": "they had to work together",
+            "count": 1
+        },
+        {
+            "phrase": "they decided to go their separate ways",
+            "count": 1
+        }
+    ]
+}

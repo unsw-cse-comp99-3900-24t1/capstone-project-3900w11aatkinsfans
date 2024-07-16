@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "04:28"
+        ],
+        "label": "alice"
+    },
+    "clusterList": [
+        {
+            "phrase": "alice max its time to go",
+            "count": 1
+        },
+        {
+            "phrase": "who the f ck is alice",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:24",
+            "02:26",
+            "04:12"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this decision means the president can pick up any person in the country-citizen or legal resident-and lock them up for years without the most basic safeguard in the constitution the right to a criminal trial",
+            "count": 2
+        },
+        {
+            "phrase": "it is undisputed that appellee's interest in the right to continue to serve as president of the bank and to participate in the conduct of its affairs is a property right protected by the fifth amendment due process clause",
+            "count": 1
+        },
+        {
+            "phrase": "the us decision to abstain is clearly a vote against giving president al-bashir a get-out-of-jail-free card",
+            "count": 1
+        }
+    ]
+}

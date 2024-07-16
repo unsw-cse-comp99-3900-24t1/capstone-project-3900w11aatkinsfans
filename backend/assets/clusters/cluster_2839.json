@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:06",
+            "00:09",
+            "00:47",
+            "02:45",
+            "03:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the difference between the american system and our own is not perhaps so stark as the appellant's argument suggests",
+            "count": 5
+        },
+        {
+            "phrase": "fundamentally as americans",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:33"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we think tomotherapy is the most advanced image-guided system for radiotherapy with an integrated functionality for imaging and localisation of the target volume it also produces the most advantageous dose distributions for imrt",
+            "count": 1
+        },
+        {
+            "phrase": "with the hi-art system we see obvious clinical advantages for treating complex radiation target volumes multiple targets and targets requiring a high radiation dose with close proximity to healthy organs conventional 3d conformal radiation or imrt can treat some but not all of these case types if the cases can be attempted we believe the results would be less conformal less accurate and with much longer treatment times than with tomotherapy",
+            "count": 1
+        }
+    ]
+}

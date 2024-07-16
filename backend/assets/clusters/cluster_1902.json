@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "01:41",
+            "01:50",
+            "02:14",
+            "02:19",
+            "03:33",
+            "03:57"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she took a wrong tablet",
+            "count": 6
+        },
+        {
+            "phrase": "he hit her again and again there was blood i saw it all mum was still she didn't move",
+            "count": 1
+        },
+        {
+            "phrase": "her death was apparent",
+            "count": 1
+        },
+        {
+            "phrase": "she would have lost her hand",
+            "count": 1
+        }
+    ]
+}

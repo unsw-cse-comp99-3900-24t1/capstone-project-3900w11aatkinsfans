@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "02:20",
+            "02:28",
+            "04:07"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why remix it at all",
+            "count": 3
+        },
+        {
+            "phrase": "their youtube remixer was slow and somewhat feature-weak when it was released and it was later removed",
+            "count": 1
+        },
+        {
+            "phrase": "why in the hell does he like that album",
+            "count": 1
+        }
+    ]
+}

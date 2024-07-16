@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "03:18",
+            "03:43",
+            "04:08",
+            "04:38"
+        ],
+        "label": "rudy"
+    },
+    "clusterList": [
+        {
+            "phrase": "rudy the rock",
+            "count": 1
+        },
+        {
+            "phrase": "ruck was that his name ruck the rock one with black hair",
+            "count": 1
+        },
+        {
+            "phrase": "he's a rock star he's bono",
+            "count": 1
+        },
+        {
+            "phrase": "the legend of billie jean",
+            "count": 1
+        },
+        {
+            "phrase": "shawn of the living",
+            "count": 1
+        }
+    ]
+}

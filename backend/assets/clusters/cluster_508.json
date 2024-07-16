@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            22,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "04:37"
+        ],
+        "label": "effective"
+    },
+    "clusterList": [
+        {
+            "phrase": "effective manager week",
+            "count": 21
+        },
+        {
+            "phrase": "the effective manager's week",
+            "count": 1
+        },
+        {
+            "phrase": "manager of the century",
+            "count": 1
+        }
+    ]
+}

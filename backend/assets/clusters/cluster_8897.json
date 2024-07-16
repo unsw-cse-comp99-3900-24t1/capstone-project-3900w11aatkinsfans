@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "00:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the german people gave the power to the nazis and now they are paying for it",
+            "count": 1
+        },
+        {
+            "phrase": "not only did the nazi regime make slavery pay but it paid on a truly colossal scale",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:39",
+            "04:15",
+            "04:49"
+        ],
+        "label": "getting"
+    },
+    "clusterList": [
+        {
+            "phrase": "getting the government out of the way",
+            "count": 1
+        },
+        {
+            "phrase": "look s to the government as the",
+            "count": 1
+        },
+        {
+            "phrase": "the government needs to reach out to them",
+            "count": 1
+        }
+    ]
+}

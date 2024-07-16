@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:08",
+            "04:00"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my own sympathies were with pan-arabism",
+            "count": 1
+        },
+        {
+            "phrase": "the jordanians egyptians uzbeks moroccans and algerians always understood what we were talking about it was ironic that pre-9 11 we had more success in getting help within the islamic world than elsewhere",
+            "count": 1
+        },
+        {
+            "phrase": "notwithstanding the continuous presence of islam on the continent before there even was an american polity these are the pioneers of the american muslim community we are part of today they could hardly have been a more miscellaneous lot",
+            "count": 1
+        }
+    ]
+}

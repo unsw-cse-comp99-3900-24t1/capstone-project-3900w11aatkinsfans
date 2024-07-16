@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:38",
+            "01:43",
+            "03:47",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:13",
+            "04:19",
+            "04:23",
+            "04:28",
+            "04:29",
+            "04:45",
+            "04:47"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it was a slip i understood what he said i didn't take the double meaning in it i understand why people might",
+            "count": 9
+        },
+        {
+            "phrase": "i think he was just a little bit surprised maybe but i think he thought about it and said he wanted to talk to his family about it",
+            "count": 3
+        },
+        {
+            "phrase": "he thought about it and said he wanted to talk to his family about it i think it's a very good opportunity for him they obviously wanted him pursued him and came after him that's got to be a good feeling for him i guess",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think the guy knew him at all i think he was really crazy the poor guy he didn't see it coming",
+            "count": 2
+        },
+        {
+            "phrase": "i just think it was probably one of those things where he had that talk because of how we were playing",
+            "count": 1
+        }
+    ]
+}

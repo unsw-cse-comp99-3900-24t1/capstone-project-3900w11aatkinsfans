@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:11",
+            "02:33",
+            "04:51"
+        ],
+        "label": "happy"
+    },
+    "clusterList": [
+        {
+            "phrase": "happy days are here again",
+            "count": 1
+        },
+        {
+            "phrase": "for the good times",
+            "count": 1
+        },
+        {
+            "phrase": "good times are over",
+            "count": 1
+        }
+    ]
+}

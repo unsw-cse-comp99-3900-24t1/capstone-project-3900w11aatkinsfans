@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:09",
+            "03:18",
+            "05:00"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "really smart for a smokin hot girl who is stupid",
+            "count": 2
+        },
+        {
+            "phrase": "one of the sweetest most intelligent and perceptive ladies i have never met",
+            "count": 1
+        },
+        {
+            "phrase": "since when are you an expert on her",
+            "count": 1
+        }
+    ]
+}

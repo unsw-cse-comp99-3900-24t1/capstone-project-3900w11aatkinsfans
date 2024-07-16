@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:07",
+            "00:09",
+            "00:23",
+            "00:25",
+            "01:00",
+            "01:47",
+            "02:01",
+            "02:18",
+            "02:28",
+            "02:29",
+            "03:06",
+            "04:35"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was risky but it paid off",
+            "count": 12
+        },
+        {
+            "phrase": "i got a good break and turned it into a par almost made birdie you sure don't want to give one back on that hole particularly when you have a good round going",
+            "count": 3
+        },
+        {
+            "phrase": "so it was risky but it paid off because i was able to not only salvage par but i ended up making a birdie",
+            "count": 2
+        },
+        {
+            "phrase": "so i had a couple of nice par saves and a couple of nice birdies",
+            "count": 1
+        }
+    ]
+}

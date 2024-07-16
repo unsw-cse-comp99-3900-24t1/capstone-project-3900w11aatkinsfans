@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:11",
+            "02:55"
+        ],
+        "label": "celebrating"
+    },
+    "clusterList": [
+        {
+            "phrase": "celebrating our survivors remembering those we lost and fighting back against cancer",
+            "count": 1
+        },
+        {
+            "phrase": "the american cancer society",
+            "count": 1
+        },
+        {
+            "phrase": "the amount of survivors i see reinforces my commitment to the american cancer society",
+            "count": 1
+        },
+        {
+            "phrase": "stand up to cancer",
+            "count": 1
+        }
+    ]
+}

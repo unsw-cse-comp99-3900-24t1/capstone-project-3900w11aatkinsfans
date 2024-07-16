@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:07",
+            "01:09",
+            "03:04",
+            "04:41"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "has a crush on me",
+            "count": 2
+        },
+        {
+            "phrase": "just captures that feeling of having such a crush on some boy that if he ever even brushed against you you would shiver",
+            "count": 2
+        },
+        {
+            "phrase": "you know i always had a crush on you",
+            "count": 1
+        },
+        {
+            "phrase": "i go on dates and have crushes and stuff",
+            "count": 1
+        }
+    ]
+}

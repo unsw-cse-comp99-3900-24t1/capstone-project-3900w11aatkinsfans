@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:06",
+            "01:07",
+            "01:19",
+            "01:46",
+            "02:25",
+            "02:27",
+            "03:06",
+            "03:48",
+            "04:11",
+            "04:21",
+            "04:28",
+            "04:36"
+        ],
+        "label": "alas"
+    },
+    "clusterList": [
+        {
+            "phrase": "alas i cannot swim",
+            "count": 7
+        },
+        {
+            "phrase": "you're going faster than you could ever swim",
+            "count": 2
+        },
+        {
+            "phrase": "hey you very wet",
+            "count": 1
+        },
+        {
+            "phrase": "oh just an early morning swim",
+            "count": 1
+        },
+        {
+            "phrase": "you can be the best swimmer in the world but you can cramp up and not make it",
+            "count": 1
+        },
+        {
+            "phrase": "no hold up you can do better yet keep on swimming keep on swimming",
+            "count": 1
+        },
+        {
+            "phrase": "what kind of future do you have in swimming",
+            "count": 1
+        },
+        {
+            "phrase": "alright shorty time to go for a little swim",
+            "count": 1
+        },
+        {
+            "phrase": "i had a great swim in the qualifiers and i came out of the water 25th",
+            "count": 1
+        },
+        {
+            "phrase": "how's your swim wait are you swimming",
+            "count": 1
+        }
+    ]
+}

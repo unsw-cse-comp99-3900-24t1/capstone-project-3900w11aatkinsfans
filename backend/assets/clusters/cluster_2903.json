@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:12",
+            "02:24",
+            "02:33",
+            "02:47"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're trying to come to an agreement that's not only for this year but for years to come",
+            "count": 3
+        },
+        {
+            "phrase": "we've had agreements in place up until about 18 months ago we're still happy with the original deal and we've been paying as if we were working with the new agreement",
+            "count": 1
+        },
+        {
+            "phrase": "it's certainly not a done deal but we're further along than we've ever been",
+            "count": 1
+        },
+        {
+            "phrase": "in my opinion we've complied with the contract done everything we said we'd do and we still intend to build the hotel",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:01",
+            "03:18",
+            "04:29",
+            "04:50"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you mean its over come back to me i need you",
+            "count": 1
+        },
+        {
+            "phrase": "sorry not your fault my bro left already",
+            "count": 1
+        },
+        {
+            "phrase": "cough thankyou krusha but you can let go now",
+            "count": 1
+        },
+        {
+            "phrase": "whew i gave it my all now let's take a break",
+            "count": 1
+        },
+        {
+            "phrase": "well i have done that i can go now",
+            "count": 1
+        }
+    ]
+}

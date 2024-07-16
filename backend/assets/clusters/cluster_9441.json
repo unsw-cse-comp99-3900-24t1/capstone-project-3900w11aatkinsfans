@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "01:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the level of technical and medical sophistication",
+            "count": 1
+        },
+        {
+            "phrase": "more of a technicality than anything else",
+            "count": 1
+        }
+    ]
+}

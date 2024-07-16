@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:51"
+        ],
+        "label": "reinsurance"
+    },
+    "clusterList": [
+        {
+            "phrase": "reinsurance will pay the remaining amount of money",
+            "count": 1
+        },
+        {
+            "phrase": "in addition conagra has paid more than 30 665 293 to retailers to compensate them for refunds they issued to consumers or for product they had in their possession at the time of the recall",
+            "count": 1
+        }
+    ]
+}

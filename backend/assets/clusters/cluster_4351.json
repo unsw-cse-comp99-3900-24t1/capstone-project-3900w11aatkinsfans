@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "00:23",
+            "03:15",
+            "04:28",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't stay here when i'm sick i need to be alone i'm sorry it's not your fault",
+            "count": 1
+        },
+        {
+            "phrase": "it's so humbling to spend time with the kids at the hospital",
+            "count": 1
+        },
+        {
+            "phrase": "ever since i got out of the hospital i've been unable to work my wife can't work because she has to take care of me and the kids",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry i haven't gotten back to you i'm still waiting to find out if mom can get off of work i'm sorry you have to take care of our yard and our cat still i hope i don't get you into trouble for not having the paperwork filled out saying i'd be gone this long",
+            "count": 1
+        },
+        {
+            "phrase": "feel free to walk around i'm letting the kids be on their own schedule today i'm afraid though i'm not going to be able to stay i have to go down to the hospital to see my mother poor dear she fell amp broke her ankle",
+            "count": 1
+        }
+    ]
+}

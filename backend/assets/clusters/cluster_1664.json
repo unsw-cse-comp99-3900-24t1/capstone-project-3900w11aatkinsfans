@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:40",
+            "02:26",
+            "03:02",
+            "03:42",
+            "03:55",
+            "04:33",
+            "04:43"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know what",
+            "count": 5
+        },
+        {
+            "phrase": "you oughta know",
+            "count": 3
+        },
+        {
+            "phrase": "you know what fuck means",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:46",
+            "04:06"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you have a life-threatening situation with a student you might not be able to call 911",
+            "count": 2
+        },
+        {
+            "phrase": "we're more aware of the fact that students are stronger and faster you hear about stress fractures so you want to make sure that you're taken care of from the standpoint of safety first",
+            "count": 1
+        }
+    ]
+}

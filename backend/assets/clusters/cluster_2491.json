@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:40",
+            "02:19",
+            "02:26",
+            "04:36"
+        ],
+        "label": "safe"
+    },
+    "clusterList": [
+        {
+            "phrase": "safe in sound",
+            "count": 3
+        },
+        {
+            "phrase": "the question is do you want to play russian roulette with your brain i don't know that cell phones are dangerous but i don't know that they are safe",
+            "count": 2
+        },
+        {
+            "phrase": "always loud and dangerous",
+            "count": 1
+        },
+        {
+            "phrase": "safe sound and green streets",
+            "count": 1
+        }
+    ]
+}

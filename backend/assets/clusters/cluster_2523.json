@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:36",
+            "01:52",
+            "03:22",
+            "03:24",
+            "04:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "pretty soon he sat in with us",
+            "count": 2
+        },
+        {
+            "phrase": "i know he's excited to be here",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know why he would be here",
+            "count": 1
+        },
+        {
+            "phrase": "he would come here whenever that moment is",
+            "count": 1
+        },
+        {
+            "phrase": "he'll be surfing next weekend i can't wait to get him out there",
+            "count": 1
+        },
+        {
+            "phrase": "as a whole we are very excited to have him over here",
+            "count": 1
+        }
+    ]
+}

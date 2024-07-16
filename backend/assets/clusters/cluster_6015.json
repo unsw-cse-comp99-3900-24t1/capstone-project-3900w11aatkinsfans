@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:47",
+            "01:03"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the coast guard recommends taking all safety precautions necessary to remain safe while diving and to always have a dive partner",
+            "count": 1
+        },
+        {
+            "phrase": "children in particular need advice on how best to stay safe in and around water especially during warm weather",
+            "count": 1
+        },
+        {
+            "phrase": "learn the rules and regulations of personal watercraft watch your surroundings be aware of what's around you and what's ahead of you and just watch out be safe",
+            "count": 1
+        }
+    ]
+}

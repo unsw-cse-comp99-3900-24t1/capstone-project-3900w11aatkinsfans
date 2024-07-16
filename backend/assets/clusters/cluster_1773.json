@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:23",
+            "01:34",
+            "01:46",
+            "01:47",
+            "01:52",
+            "03:42",
+            "04:15",
+            "04:19",
+            "04:28"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're on our schedule and no one else's we've been leading the way on this you want to see more go out and do your own reporting",
+            "count": 1
+        },
+        {
+            "phrase": "we feel like it's a wonderful alternative to our current schedule",
+            "count": 1
+        },
+        {
+            "phrase": "a busy schedule",
+            "count": 1
+        },
+        {
+            "phrase": "there's no schedule here because i don't have the ability to demand a schedule",
+            "count": 1
+        },
+        {
+            "phrase": "we're pretty busy",
+            "count": 1
+        },
+        {
+            "phrase": "yeah that was part of us changing the schedule",
+            "count": 1
+        },
+        {
+            "phrase": "no i'm scheduled for friday afternoon-as usual",
+            "count": 1
+        },
+        {
+            "phrase": "if you look at us our future lies ahead we're got three sec weekends left and we're playing three teams on our side of the conference that are right with us or ahead of us so these are a big three weeks and we kind of hold our own fate as far as we're concerned",
+            "count": 1
+        },
+        {
+            "phrase": "i mean it's one of the weekends that we definitely look forward to every year",
+            "count": 1
+        },
+        {
+            "phrase": "we are pretty much on schedule",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "02:28",
+            "03:34"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a full-service law firm uniquely positioned to provide strategic intellectual property corporate financing and litigation services",
+            "count": 1
+        },
+        {
+            "phrase": "33 5 of in-house counsel reported that law firm services are a commodity",
+            "count": 1
+        },
+        {
+            "phrase": "in-house counsel reported that 33 5 of law firm services are a commodity",
+            "count": 1
+        },
+        {
+            "phrase": "the return of d amp o litigation trends driving increasing costs and frequency of litigation against corporate directors and officers",
+            "count": 1
+        }
+    ]
+}

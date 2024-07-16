@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "02:27",
+            "03:05",
+            "03:28",
+            "03:43",
+            "04:01"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "light up america",
+            "count": 7
+        },
+        {
+            "phrase": "and beneath our country's flag",
+            "count": 1
+        },
+        {
+            "phrase": "the american people giving a mandate",
+            "count": 1
+        }
+    ]
+}

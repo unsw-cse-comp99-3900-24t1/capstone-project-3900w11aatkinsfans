@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "01:59",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i regret that it now appears bocog has announced that there will be limitations on website access during games time",
+            "count": 2
+        },
+        {
+            "phrase": "i regret that it now appears that bocog has announced that there will be limitations on website access during games time",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:59",
+            "04:53"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of people always say to me well you're already naturally talented to be fast and athletic",
+            "count": 1
+        },
+        {
+            "phrase": "i think every athlete would like to finish their career on their own terms and not have it dictated to them by injury so i'm thankful to have the opportunity to give it my best shot",
+            "count": 1
+        },
+        {
+            "phrase": "i don't believe in taking steroids i don't believe in taking anything that enhances my ability to play golf i've never done that i've always played fairly and i think i should be rewarded for that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "00:33",
+            "00:34",
+            "00:41",
+            "00:56"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it has dented my reputation quite seriously people take me at my word so i expect the information i am giving to be consistent",
+            "count": 3
+        },
+        {
+            "phrase": "it has dented my reputation quite seriously",
+            "count": 2
+        }
+    ]
+}

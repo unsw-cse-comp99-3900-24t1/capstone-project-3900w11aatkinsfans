@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:52",
+            "02:06",
+            "04:28"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a great thing for springfield because he's a historic person",
+            "count": 3
+        },
+        {
+            "phrase": "he knows firsthand how the judicial branch can profoundly affect the future course of a state and a nation i greatly admired his leadership in massachusetts in the way that he responded to the activist court's ruling legalizing same-sex marriage his leadership on the issue has served as a model to the nation on how to respect all of our citizens while respecting the rule of law at the same time",
+            "count": 1
+        },
+        {
+            "phrase": "he is a very bright but very ambitious person who has always had his eyes on the prize and it wasn't springfield if he deserves to be president it is not because he was a great legislator",
+            "count": 1
+        }
+    ]
+}

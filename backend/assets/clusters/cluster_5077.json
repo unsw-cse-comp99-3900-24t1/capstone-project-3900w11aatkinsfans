@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "02:04",
+            "02:15",
+            "02:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "more dead than even",
+            "count": 2
+        },
+        {
+            "phrase": "i see dead people they are everywhere they don't know they are dead",
+            "count": 1
+        },
+        {
+            "phrase": "mostly dead is slightly alive",
+            "count": 1
+        }
+    ]
+}

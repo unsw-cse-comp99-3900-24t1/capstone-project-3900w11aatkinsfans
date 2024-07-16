@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:28",
+            "03:27",
+            "04:06"
+        ],
+        "label": "which"
+    },
+    "clusterList": [
+        {
+            "phrase": "vengeance is mine",
+            "count": 4
+        },
+        {
+            "phrase": "which one's mine again",
+            "count": 1
+        },
+        {
+            "phrase": "one is mine and i borrowed the other two",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:42",
+            "04:36"
+        ],
+        "label": "likely"
+    },
+    "clusterList": [
+        {
+            "phrase": "likely be able to determine the viewing and video uploading habits of youtube's users",
+            "count": 2
+        },
+        {
+            "phrase": "the exchange of information is much freer and easier on social networking sites but it doesn't take a large hole to let a lot of bad code into any environment",
+            "count": 1
+        },
+        {
+            "phrase": "if you don't have a web filtering solution this is difficult to enforce",
+            "count": 1
+        }
+    ]
+}

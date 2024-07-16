@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:46"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we exchanged proposals in a couple of instances but nothing to the point were i was calling owner tom hicks for the final signoff",
+            "count": 2
+        },
+        {
+            "phrase": "we exchanged proposals in a couple of instances but nothing to the point where i was calling owner tom hicks for the final sign-off",
+            "count": 1
+        }
+    ]
+}

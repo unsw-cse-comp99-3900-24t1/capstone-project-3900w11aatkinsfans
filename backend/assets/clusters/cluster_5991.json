@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:18",
+            "03:55"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is he trying to learn",
+            "count": 1
+        },
+        {
+            "phrase": "why what has he done",
+            "count": 1
+        },
+        {
+            "phrase": "he's doing grown up tricks",
+            "count": 1
+        }
+    ]
+}

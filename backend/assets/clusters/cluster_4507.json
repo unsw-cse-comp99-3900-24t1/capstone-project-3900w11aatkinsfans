@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:52"
+        ],
+        "label": "speech"
+    },
+    "clusterList": [
+        {
+            "phrase": "speech at chicago illinois",
+            "count": 1
+        },
+        {
+            "phrase": "speech at cleveland ohio",
+            "count": 1
+        },
+        {
+            "phrase": "speech at peoria illinois",
+            "count": 1
+        },
+        {
+            "phrase": "podcast expo speech this week",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:09",
+            "01:47",
+            "01:52",
+            "02:28",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "florida"
+    },
+    "clusterList": [
+        {
+            "phrase": "florida is proud to be the home to the 4th fleet i commend the navy's decision to re-establish the 4th fleet in jacksonville which demonstrates mayport's strategic importance to the region and national security",
+            "count": 7
+        },
+        {
+            "phrase": "the fleet's location in jacksonville will provide tremendous support to the u",
+            "count": 7
+        },
+        {
+            "phrase": "the fourth fleet will send a strong signal to all navies operating in the region",
+            "count": 1
+        }
+    ]
+}

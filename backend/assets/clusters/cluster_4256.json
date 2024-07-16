@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:13",
+            "00:50",
+            "01:32",
+            "01:42",
+            "04:32"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "the two-party system has neglected the needs of the working poor",
+            "count": 2
+        },
+        {
+            "phrase": "we the dems care about the poor",
+            "count": 1
+        },
+        {
+            "phrase": "the party system has neglected the needs of the working poor",
+            "count": 1
+        },
+        {
+            "phrase": "finally a sensible way to measure poverty",
+            "count": 1
+        }
+    ]
+}

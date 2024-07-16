@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:36",
+            "00:53",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:33",
+            "04:40",
+            "04:49"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "typically we don't see wildland fires of this magnitude until much later in the season",
+            "count": 5
+        },
+        {
+            "phrase": "benefitting from changing weather patterns",
+            "count": 3
+        },
+        {
+            "phrase": "the weather is supposed to be perfect firefighting weather today",
+            "count": 1
+        },
+        {
+            "phrase": "animals get skittish before a storm because they can feel the barometric pressure changing or they can smell the ozone or even hear the distant thunder",
+            "count": 1
+        }
+    ]
+}

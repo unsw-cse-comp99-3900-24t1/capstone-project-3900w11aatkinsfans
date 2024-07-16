@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:37",
+            "01:38",
+            "02:01",
+            "02:46",
+            "03:24",
+            "03:51",
+            "03:54",
+            "04:06",
+            "04:12",
+            "04:15",
+            "04:33",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the one that got away",
+            "count": 4
+        },
+        {
+            "phrase": "the big cheese",
+            "count": 2
+        },
+        {
+            "phrase": "please god don't let this one be the big one",
+            "count": 2
+        },
+        {
+            "phrase": "the fourth bear",
+            "count": 1
+        },
+        {
+            "phrase": "the smaller one",
+            "count": 1
+        },
+        {
+            "phrase": "the pink one or the blue one",
+            "count": 1
+        },
+        {
+            "phrase": "the big o",
+            "count": 1
+        },
+        {
+            "phrase": "the dirty one",
+            "count": 1
+        },
+        {
+            "phrase": "the happy one",
+            "count": 1
+        },
+        {
+            "phrase": "the fat one",
+            "count": 1
+        },
+        {
+            "phrase": "the right one",
+            "count": 1
+        }
+    ]
+}

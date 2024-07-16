@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "03:28"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've never not recognized an officer shot in the line of duty",
+            "count": 1
+        },
+        {
+            "phrase": "we're not passing judgment today on the rest of what happened there but those officers were shot in the line of duty and there isn't an appropriate level of award for that",
+            "count": 1
+        },
+        {
+            "phrase": "your honor the people's officer has indeed failed in conducting their duty in this case",
+            "count": 1
+        }
+    ]
+}

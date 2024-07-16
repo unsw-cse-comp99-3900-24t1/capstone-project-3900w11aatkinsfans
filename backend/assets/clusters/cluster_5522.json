@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "03:43",
+            "04:32"
+        ],
+        "label": "its"
+    },
+    "clusterList": [
+        {
+            "phrase": "its a small itty bitty bug with realyl long legs",
+            "count": 1
+        },
+        {
+            "phrase": "well darling i don't know what it is it must be a mutant bug that hitched a ride with you from slidell who would have thought it wanted to come to the coast of mississipi maybe it was trying to get to the beach there's only one thing to do we better take this fellow to the public library they'll be able to tell us what it is",
+            "count": 1
+        },
+        {
+            "phrase": "miss jane i've got this mutant bug can you tell me what it is",
+            "count": 1
+        },
+        {
+            "phrase": "wow we thought he was a mutant bug from louisiana",
+            "count": 1
+        }
+    ]
+}

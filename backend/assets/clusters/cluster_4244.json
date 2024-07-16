@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:26",
+            "04:06",
+            "04:28",
+            "04:33"
+        ],
+        "label": "continually"
+    },
+    "clusterList": [
+        {
+            "phrase": "what can you do when a man's got a knife the size of you know it's a big knife so we just tried to stay out of the way",
+            "count": 2
+        },
+        {
+            "phrase": "continually stabbing him in the chest area",
+            "count": 1
+        },
+        {
+            "phrase": "you're killing an innocent man",
+            "count": 1
+        },
+        {
+            "phrase": "so how do we kill superman",
+            "count": 1
+        }
+    ]
+}

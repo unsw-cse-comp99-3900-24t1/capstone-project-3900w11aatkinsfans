@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:32",
+            "02:15",
+            "04:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i want to try to figure out what i need to do there might be some kind of miracle a glimmer of hope what if i go out there to throw and don't feel anything for whatever reason if that's the case i wouldn't have the surgery",
+            "count": 2
+        },
+        {
+            "phrase": "i don't want to die in the hospital",
+            "count": 1
+        },
+        {
+            "phrase": "i am going to fucking die choking on my own vomit surrounded by doctors",
+            "count": 1
+        }
+    ]
+}

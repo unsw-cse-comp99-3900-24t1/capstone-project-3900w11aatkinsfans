@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:36"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the incognito brothers",
+            "count": 1
+        },
+        {
+            "phrase": "jonas brothers living the dream",
+            "count": 1
+        }
+    ]
+}

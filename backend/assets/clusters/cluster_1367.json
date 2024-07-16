@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:06",
+            "01:38",
+            "01:47",
+            "02:06",
+            "02:10",
+            "02:28",
+            "02:39",
+            "03:09",
+            "03:48",
+            "03:50",
+            "04:28"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not just what 10 of us think we can do it's also what's going to be possible with the white house and or with the leadership",
+            "count": 7
+        },
+        {
+            "phrase": "will not be an impediment to what we need to do",
+            "count": 2
+        },
+        {
+            "phrase": "i was worried that it would sort of trivialize what we do",
+            "count": 1
+        },
+        {
+            "phrase": "we can do anything we want to if we stick to it long enough",
+            "count": 1
+        },
+        {
+            "phrase": "we are not spending enough on research and development",
+            "count": 1
+        }
+    ]
+}

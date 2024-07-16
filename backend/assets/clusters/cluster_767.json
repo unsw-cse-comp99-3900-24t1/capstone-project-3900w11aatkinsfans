@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:25",
+            "01:11",
+            "02:43",
+            "02:46",
+            "02:55",
+            "02:56",
+            "03:26",
+            "03:35",
+            "03:43",
+            "04:06",
+            "04:13",
+            "04:16",
+            "04:18",
+            "04:19",
+            "04:32",
+            "04:55"
+        ],
+        "label": "whatever"
+    },
+    "clusterList": [
+        {
+            "phrase": "whatever you're hearing i'm not hearing",
+            "count": 7
+        },
+        {
+            "phrase": "he just told me where he was going i told him where i was going",
+            "count": 2
+        },
+        {
+            "phrase": "no i don't want to hear that",
+            "count": 1
+        },
+        {
+            "phrase": "that's what i think it's like wht god if you want to know what he has to say you just follow him yolu stay close you ask and keep asking and you listen he'll make it clear the closer you are to him the easier it wis to hear what he is saying",
+            "count": 1
+        },
+        {
+            "phrase": "why is he hear",
+            "count": 1
+        },
+        {
+            "phrase": "did he just say what i thought he said",
+            "count": 1
+        },
+        {
+            "phrase": "if you had something of substance to say he would talk about it",
+            "count": 1
+        },
+        {
+            "phrase": "he that heareth my word and",
+            "count": 1
+        },
+        {
+            "phrase": "i said i don't care if he talks back just as long as he has the right answers",
+            "count": 1
+        },
+        {
+            "phrase": "who has ears to hear let him hear",
+            "count": 1
+        },
+        {
+            "phrase": "it's his voice but i'm going inside his head to speak some psychological truth about him",
+            "count": 1
+        }
+    ]
+}

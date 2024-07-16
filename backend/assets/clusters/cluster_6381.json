@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:02",
+            "02:57"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "though little is known about how directly he leads fighters on the ground",
+            "count": 2
+        },
+        {
+            "phrase": "he's either going to fight or flight when weapons are involved it can be deadly",
+            "count": 1
+        }
+    ]
+}

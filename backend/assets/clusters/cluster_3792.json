@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "00:53",
+            "01:25"
+        ],
+        "label": "hillary"
+    },
+    "clusterList": [
+        {
+            "phrase": "hillary clinton in not a political lego block easily replaced by another woman candidate",
+            "count": 2
+        },
+        {
+            "phrase": "hillary is not interchangeable",
+            "count": 1
+        },
+        {
+            "phrase": "the selection of either one of those instead of senator clinton i would find completely incomprehensible",
+            "count": 1
+        },
+        {
+            "phrase": "would howard dean and nancy pelosi have kept his name off the ballot",
+            "count": 1
+        }
+    ]
+}

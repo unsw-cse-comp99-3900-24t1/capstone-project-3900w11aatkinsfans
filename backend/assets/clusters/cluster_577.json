@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:23",
+            "00:28",
+            "00:41",
+            "00:44",
+            "00:48",
+            "00:53",
+            "01:01",
+            "01:40",
+            "01:46",
+            "01:47",
+            "02:06",
+            "02:46",
+            "03:08",
+            "03:09",
+            "03:24",
+            "03:38",
+            "03:49",
+            "03:57"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never turned down anything and never argued with any producer or director",
+            "count": 19
+        },
+        {
+            "phrase": "i never bothered with the directors who did the dramatic parts of the pictures most of the times i'd never even see them",
+            "count": 1
+        },
+        {
+            "phrase": "pretty one you may remember from such films as la confidential i think that seeing these actors in these roles adds to the visual absurdity of the film along with the colorful outlandish costumes",
+            "count": 1
+        },
+        {
+            "phrase": "i had in the back of my mind scenes from plays that i'd never written that i'd never direct that were unstageable",
+            "count": 1
+        }
+    ]
+}

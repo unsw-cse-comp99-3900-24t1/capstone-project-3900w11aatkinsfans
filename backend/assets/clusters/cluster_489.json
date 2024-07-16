@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:27",
+            "00:34",
+            "01:00",
+            "01:07",
+            "01:40",
+            "01:47",
+            "01:51",
+            "02:00",
+            "02:26",
+            "02:49",
+            "03:10",
+            "03:18",
+            "03:51",
+            "03:53",
+            "04:14",
+            "04:22",
+            "04:32",
+            "04:49",
+            "05:00"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "government is not the solution to our problem government is the problem",
+            "count": 6
+        },
+        {
+            "phrase": "it's important to make a government that tackles reforms with the goal of improving and encouraging people's lives but remains gentle for the less privileged in society",
+            "count": 4
+        },
+        {
+            "phrase": "government is not a solution to our problem s",
+            "count": 2
+        },
+        {
+            "phrase": "mandates and bans whenever there is a problem people are suffering then we want the government to intervene and impose a requirement",
+            "count": 2
+        },
+        {
+            "phrase": "government should do more to solve problems and help meet the needs of people",
+            "count": 2
+        },
+        {
+            "phrase": "government is doing too many things better left to businesses and individuals",
+            "count": 2
+        },
+        {
+            "phrase": "we need to track the problem not the people",
+            "count": 2
+        },
+        {
+            "phrase": "there shouldn't be any greater priority for government than to take care of elderly australians those who have contributed so much to the development of the nation",
+            "count": 1
+        },
+        {
+            "phrase": "the problem is in order for that change in government to get done people need to stop worrying so much about themselves",
+            "count": 1
+        },
+        {
+            "phrase": "politicians should help poor people",
+            "count": 1
+        },
+        {
+            "phrase": "they really should be doing something to help the american people there's only so much the average person can do and the government is not going to be doing anything",
+            "count": 1
+        }
+    ]
+}

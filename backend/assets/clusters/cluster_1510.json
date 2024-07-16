@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:11",
+            "01:20",
+            "01:24",
+            "01:29",
+            "01:32",
+            "02:11",
+            "03:06",
+            "03:27",
+            "04:15"
+        ],
+        "label": "john"
+    },
+    "clusterList": [
+        {
+            "phrase": "john came up to me and said mike if the season started today where do you see me",
+            "count": 8
+        },
+        {
+            "phrase": "i spoke to john after our last ota day and after our last ota day john came up to me and said mike if the season started today where do you see me",
+            "count": 2
+        },
+        {
+            "phrase": "coach corbin met with us monday and told us to put that series behind us",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "00:42",
+            "00:53",
+            "01:20",
+            "01:23",
+            "01:32",
+            "03:09",
+            "03:23",
+            "04:55",
+            "05:05"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm ready to rock n roll if we could match up with somebody we just couldn't match value for value in the marketplace",
+            "count": 10
+        },
+        {
+            "phrase": "i'm ready to rock and roll if we could match up with somebody we just couldn't match value for value in the marketplace",
+            "count": 2
+        }
+    ]
+}

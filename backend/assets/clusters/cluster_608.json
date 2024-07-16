@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:33",
+            "01:13",
+            "01:15",
+            "01:20",
+            "01:38",
+            "02:02",
+            "02:06",
+            "02:09",
+            "02:19",
+            "02:46",
+            "03:18",
+            "03:27",
+            "03:38",
+            "03:55",
+            "04:03",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "our bank told us we have to do it",
+            "count": 4
+        },
+        {
+            "phrase": "i am sure there are troubled banks trying to tap the window",
+            "count": 3
+        },
+        {
+            "phrase": "look i don't know what your bank is telling you this is a real check i signed it myself",
+            "count": 3
+        },
+        {
+            "phrase": "maybe you should try a different bank a big bank",
+            "count": 3
+        },
+        {
+            "phrase": "the the banking system is sound this is a very manageable situation",
+            "count": 2
+        },
+        {
+            "phrase": "there's a problem with your financing",
+            "count": 1
+        },
+        {
+            "phrase": "i tried a loan modification but they didn't agree",
+            "count": 1
+        },
+        {
+            "phrase": "hopefully i can get a fixed rate are make sure my payments won't go up period",
+            "count": 1
+        },
+        {
+            "phrase": "it's a double whammy borrowing funds is difficult and there are delays in refunds",
+            "count": 1
+        },
+        {
+            "phrase": "this can easily happen if you have a bank that closes or you just forget about something and lose track of it",
+            "count": 1
+        },
+        {
+            "phrase": "if you want a mortgage or other loan go to a bank if they say no you can't afford it listen to them",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "03:22"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we wish him the best of luck at castleford",
+            "count": 1
+        },
+        {
+            "phrase": "my hope is to show him the good side of staten island",
+            "count": 1
+        }
+    ]
+}

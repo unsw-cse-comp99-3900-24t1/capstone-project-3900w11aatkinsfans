@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:43",
+            "02:51"
+        ],
+        "label": "too"
+    },
+    "clusterList": [
+        {
+            "phrase": "too many secrets",
+            "count": 1
+        },
+        {
+            "phrase": "dirty little secrets",
+            "count": 1
+        },
+        {
+            "phrase": "12 secrets to a newer you",
+            "count": 1
+        }
+    ]
+}

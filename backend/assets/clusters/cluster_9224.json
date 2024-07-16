@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:01"
+        ],
+        "label": "poo"
+    },
+    "clusterList": [
+        {
+            "phrase": "poo poo on the potty chair",
+            "count": 1
+        },
+        {
+            "phrase": "poopy by people standards",
+            "count": 1
+        }
+    ]
+}

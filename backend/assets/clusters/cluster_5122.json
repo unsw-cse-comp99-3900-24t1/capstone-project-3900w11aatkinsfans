@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:32",
+            "03:50",
+            "04:37"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she was bigger so she was able to do stuff no she wasn't big-boned she was hispanic",
+            "count": 1
+        },
+        {
+            "phrase": "how was she different",
+            "count": 1
+        },
+        {
+            "phrase": "she mixed with the wrong people and was easily led",
+            "count": 1
+        },
+        {
+            "phrase": "she was not partying any harder or less than anybody else would but she was at the medium",
+            "count": 1
+        }
+    ]
+}

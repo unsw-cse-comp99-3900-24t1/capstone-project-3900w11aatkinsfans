@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:46",
+            "01:04",
+            "01:07",
+            "01:11",
+            "01:51",
+            "02:11",
+            "02:22",
+            "02:34",
+            "02:40",
+            "02:49",
+            "02:57",
+            "03:37",
+            "03:59",
+            "04:22",
+            "04:28",
+            "05:02"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have become a symbol of the possibility of america returning to our best traditions",
+            "count": 9
+        },
+        {
+            "phrase": "in this springtime of hope some lights seem eternal america's is",
+            "count": 2
+        },
+        {
+            "phrase": "this is the moment the world is waiting for i have become a symbol of the possibility of america returning to our best traditions",
+            "count": 2
+        },
+        {
+            "phrase": "a symbol of the possibility of america returning to our best traditions",
+            "count": 2
+        },
+        {
+            "phrase": "has become a symbol of the possibility of america returning to our best traditions",
+            "count": 1
+        },
+        {
+            "phrase": "this is a moment a world is waiting for i have become a symbol of a possibility of america returning to our best traditions",
+            "count": 1
+        },
+        {
+            "phrase": "when the lord calls me home i will leave with the greatest love for this country of ours and eternal optimism for its future i know that for america there will always be a bright dawn ahead",
+            "count": 1
+        }
+    ]
+}

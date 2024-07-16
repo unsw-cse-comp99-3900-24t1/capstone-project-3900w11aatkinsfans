@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:38",
+            "01:33",
+            "03:09",
+            "03:24"
+        ],
+        "label": "experiences"
+    },
+    "clusterList": [
+        {
+            "phrase": "experiences threat modeling at microsoft",
+            "count": 5
+        }
+    ]
+}

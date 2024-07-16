@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "03:14",
+            "03:18",
+            "04:05",
+            "04:15"
+        ],
+        "label": "take"
+    },
+    "clusterList": [
+        {
+            "phrase": "take it where you can get it",
+            "count": 1
+        },
+        {
+            "phrase": "how much you wanna give away just to feel loved",
+            "count": 1
+        },
+        {
+            "phrase": "really i didn't want to steal it",
+            "count": 1
+        },
+        {
+            "phrase": "given it away",
+            "count": 1
+        },
+        {
+            "phrase": "you threw it away why would you do that",
+            "count": 1
+        }
+    ]
+}

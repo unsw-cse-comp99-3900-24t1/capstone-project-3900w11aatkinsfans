@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "02:06",
+            "02:55",
+            "03:19",
+            "04:10",
+            "04:24",
+            "04:45"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "congratulations you survived your first biopsy",
+            "count": 2
+        },
+        {
+            "phrase": "why wasn't my cancer caught earlier",
+            "count": 1
+        },
+        {
+            "phrase": "it caused me to refocus my priorities and on 1 june 2002 one year earlier than i had planned i retired",
+            "count": 1
+        },
+        {
+            "phrase": "my mom died when i was one year old when i was three years old i made my dad so angry he died i grew up crawling around in the forest eating twigs",
+            "count": 1
+        },
+        {
+            "phrase": "it was cancer and i had eight months to live",
+            "count": 1
+        },
+        {
+            "phrase": "i had eight months in a miracle i got the liver out in seven",
+            "count": 1
+        },
+        {
+            "phrase": "and little by little i got worse i had cirrhosis and i was on a transplant list by the time i got to dallas i was already at the top of the list i was really really bad",
+            "count": 1
+        }
+    ]
+}

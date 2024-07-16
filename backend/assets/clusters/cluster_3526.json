@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:43",
+            "03:18",
+            "04:54"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you going to give me a ticket or a warning",
+            "count": 2
+        },
+        {
+            "phrase": "hey i'll be glad to take you over to the bus terminal and buy you a ticket",
+            "count": 1
+        },
+        {
+            "phrase": "toots i already booked my ticket outta here i'm gonna hafta go",
+            "count": 1
+        },
+        {
+            "phrase": "i'm giving you a warning",
+            "count": 1
+        }
+    ]
+}

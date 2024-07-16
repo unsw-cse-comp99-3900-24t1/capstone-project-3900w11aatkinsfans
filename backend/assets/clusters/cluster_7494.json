@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:47",
+            "04:04"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we never came within the state of michigan",
+            "count": 1
+        },
+        {
+            "phrase": "it is a populated area with cleveland canton akron and youngstown however there are other populated areas like dayton and columbus",
+            "count": 1
+        },
+        {
+            "phrase": "dayton of course was historically the no 1 parts city in the country outside of michigan",
+            "count": 1
+        }
+    ]
+}

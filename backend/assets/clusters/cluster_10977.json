@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "03:56"
+        ],
+        "label": "appreciate"
+    },
+    "clusterList": [
+        {
+            "phrase": "appreciate the time you have",
+            "count": 1
+        },
+        {
+            "phrase": "couldn't give me any hours",
+            "count": 1
+        }
+    ]
+}

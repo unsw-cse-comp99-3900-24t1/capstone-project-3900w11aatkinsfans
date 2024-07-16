@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:15"
+        ],
+        "label": "street"
+    },
+    "clusterList": [
+        {
+            "phrase": "street corner preacher",
+            "count": 1
+        },
+        {
+            "phrase": "the crime fighting preacher",
+            "count": 1
+        }
+    ]
+}

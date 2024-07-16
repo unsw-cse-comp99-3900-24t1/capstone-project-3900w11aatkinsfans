@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "03:50",
+            "04:18",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't say enough how sorry we are and it's our responsibility being nascar that we don't go through this situation again",
+            "count": 2
+        },
+        {
+            "phrase": "i can't say enough how sorry we are",
+            "count": 1
+        },
+        {
+            "phrase": "and it's our responsibility being nascar that we don't go through this situation again",
+            "count": 1
+        },
+        {
+            "phrase": "i can't say enough how sorry we are it's our responsibility being nascar that we don't go through this situation again i don't feel real good about it right now i think if you had talked to anybody that's been around me the last 48 hours they'll probably back me up on that it's difficult it's hard we do beat ourselves up",
+            "count": 1
+        }
+    ]
+}

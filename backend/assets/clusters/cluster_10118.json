@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "04:13"
+        ],
+        "label": "wont"
+    },
+    "clusterList": [
+        {
+            "phrase": "wont get fooled again",
+            "count": 1
+        },
+        {
+            "phrase": "won't get fooled again",
+            "count": 1
+        }
+    ]
+}

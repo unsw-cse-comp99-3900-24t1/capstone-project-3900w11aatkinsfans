@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:48",
+            "00:51",
+            "01:49",
+            "02:32",
+            "02:34",
+            "02:37",
+            "04:18",
+            "04:21"
+        ],
+        "label": "beyond"
+    },
+    "clusterList": [
+        {
+            "phrase": "intellectual property and trade advisory group",
+            "count": 4
+        },
+        {
+            "phrase": "these companies prefer open standards over the restrictions of legacy proprietary technology for their long-term collaboration investments",
+            "count": 2
+        },
+        {
+            "phrase": "beyond tariffs into important practical areas that affect services and investment like standards and intellectual property",
+            "count": 1
+        },
+        {
+            "phrase": "import restrictions service market access restrictions some high tariffs burdensome and non-transparent sanitary measures cumbersome bureaucracy and non transparent regulations weak enforcement of intellectual property rights and non-transparent customs administration add to the cost of trade",
+            "count": 1
+        },
+        {
+            "phrase": "removing exemptions in the financial and other sectors would raise revenue for the government cut compliance and administration costs and reduce distortions to competition and trade that are likely to become increasingly problematic",
+            "count": 1
+        },
+        {
+            "phrase": "effectively one company has a monopoly and can use it to price-gouge",
+            "count": 1
+        }
+    ]
+}

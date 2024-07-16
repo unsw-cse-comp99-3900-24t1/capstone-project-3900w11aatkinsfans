@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "03:30"
+        ],
+        "label": "fighting"
+    },
+    "clusterList": [
+        {
+            "phrase": "fighting against the military-industrial complex",
+            "count": 1
+        },
+        {
+            "phrase": "a larger information war",
+            "count": 1
+        }
+    ]
+}

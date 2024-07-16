@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:51",
+            "03:17"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "look the other way",
+            "count": 2
+        },
+        {
+            "phrase": "the way you look tonight",
+            "count": 1
+        }
+    ]
+}

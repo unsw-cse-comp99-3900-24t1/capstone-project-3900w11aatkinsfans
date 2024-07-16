@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "01:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the strategy of acting on technical issues in an incremental bureaucratic way and keeping the issues away from public view has generated more suspicion than accomplishments",
+            "count": 1
+        },
+        {
+            "phrase": "work hard to increase the production of publicized decisions in a timely way",
+            "count": 1
+        }
+    ]
+}

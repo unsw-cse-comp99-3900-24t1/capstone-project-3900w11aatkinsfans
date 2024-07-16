@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "02:00"
+        ],
+        "label": "east"
+    },
+    "clusterList": [
+        {
+            "phrase": "east end of london circa 1885",
+            "count": 1
+        },
+        {
+            "phrase": "last train to london",
+            "count": 1
+        }
+    ]
+}

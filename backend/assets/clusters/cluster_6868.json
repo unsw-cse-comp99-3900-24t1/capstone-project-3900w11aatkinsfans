@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "02:00",
+            "02:51"
+        ],
+        "label": "katie's"
+    },
+    "clusterList": [
+        {
+            "phrase": "katie's coming home katie's coming home hi ho the dairy-o katie's coming home",
+            "count": 1
+        },
+        {
+            "phrase": "as soon as she leaves they always ask when's katie coming back",
+            "count": 1
+        },
+        {
+            "phrase": "it's about time for tom and katie to live alone",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "02:01",
+            "03:51",
+            "04:06"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a bit chilly in here let's start a fire",
+            "count": 1
+        },
+        {
+            "phrase": "i'm freezing are you guys freezing",
+            "count": 1
+        },
+        {
+            "phrase": "my head is cold i think my brother lied to me about the weather just to get me to move out here",
+            "count": 1
+        },
+        {
+            "phrase": "what the hell where am this isn't my room did i just give myself a ruf why am i so cold",
+            "count": 1
+        }
+    ]
+}

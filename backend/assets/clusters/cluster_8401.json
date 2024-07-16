@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:18"
+        ],
+        "label": "speech"
+    },
+    "clusterList": [
+        {
+            "phrase": "speech to one hundred fortieth indiana regiment",
+            "count": 1
+        },
+        {
+            "phrase": "speech to one hundred sixty-sixth ohio regiment august 22 1864 p 512",
+            "count": 1
+        }
+    ]
+}

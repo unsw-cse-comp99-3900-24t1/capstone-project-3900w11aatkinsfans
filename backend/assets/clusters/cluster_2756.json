@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "02:14",
+            "02:39",
+            "03:00",
+            "04:05"
+        ],
+        "label": "common"
+    },
+    "clusterList": [
+        {
+            "phrase": "common infant feeding problems",
+            "count": 2
+        },
+        {
+            "phrase": "the promotion of breast-feeding must not be seen as an excuse to exclude women from the labor force the burden should no longer fall on women to choose between breast-feeding and work the burden is on society to facilitate breast-feeding and indeed child care",
+            "count": 1
+        },
+        {
+            "phrase": "if you are pregnant or breast-feeding consult your doctor about how this medication can affect your infant",
+            "count": 1
+        },
+        {
+            "phrase": "human breast milk is species-specific",
+            "count": 1
+        },
+        {
+            "phrase": "some babies reject cow's milk",
+            "count": 1
+        },
+        {
+            "phrase": "breast feeding is unnatural",
+            "count": 1
+        }
+    ]
+}

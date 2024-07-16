@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "03:01",
+            "03:18",
+            "04:55"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what are you going to do when the wind is not blowing your lights will go out",
+            "count": 1
+        },
+        {
+            "phrase": "turn off the lights",
+            "count": 1
+        },
+        {
+            "phrase": "i guess i'd better turn this light off",
+            "count": 1
+        },
+        {
+            "phrase": "turn down the lights turn down the bed",
+            "count": 1
+        }
+    ]
+}

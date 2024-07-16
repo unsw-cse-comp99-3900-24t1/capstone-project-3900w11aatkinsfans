@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "00:51",
+            "00:57",
+            "01:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the entire world is looking for a way to sucker punch us",
+            "count": 4
+        }
+    ]
+}

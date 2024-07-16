@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:50",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just wanted to work out and make strides",
+            "count": 2
+        },
+        {
+            "phrase": "the knee is great",
+            "count": 1
+        }
+    ]
+}

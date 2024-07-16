@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "02:01",
+            "04:51"
+        ],
+        "label": "borgin"
+    },
+    "clusterList": [
+        {
+            "phrase": "borgin and burkes",
+            "count": 1
+        },
+        {
+            "phrase": "moore and smith",
+            "count": 1
+        },
+        {
+            "phrase": "shields and brooks",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:55",
+            "02:28",
+            "02:55",
+            "04:53"
+        ],
+        "label": "generally"
+    },
+    "clusterList": [
+        {
+            "phrase": "generally speaking voters care about them when they are asked but they are not top-of-the-mind issues these days the economy transportation and education always top the list in washington state it's always one of those three",
+            "count": 2
+        },
+        {
+            "phrase": "why are the political figures in johnson county so interested in the shawnee county district attorney's office",
+            "count": 1
+        },
+        {
+            "phrase": "most voters probably they care a lot more about their county commissioner their sheriff or their school board than they do about the united states senate quite frankly",
+            "count": 1
+        }
+    ]
+}

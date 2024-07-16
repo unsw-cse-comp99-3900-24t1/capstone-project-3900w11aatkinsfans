@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "03:26"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the declaration of independence july 4 1776",
+            "count": 1
+        },
+        {
+            "phrase": "america land of the free home of the imprisoned",
+            "count": 1
+        }
+    ]
+}

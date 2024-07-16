@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:51",
+            "04:29",
+            "04:41",
+            "04:49",
+            "04:54",
+            "05:04"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've lost a lot of sleep over this",
+            "count": 4
+        },
+        {
+            "phrase": "my arms are tired",
+            "count": 1
+        },
+        {
+            "phrase": "getting a bit tired",
+            "count": 1
+        },
+        {
+            "phrase": "you get tired this part of the year",
+            "count": 1
+        }
+    ]
+}

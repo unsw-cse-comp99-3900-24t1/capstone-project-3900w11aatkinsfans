@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "04:14",
+            "04:36"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all things are due to your weight",
+            "count": 1
+        },
+        {
+            "phrase": "is a real issue for the millions of americans who are trying to control their weight",
+            "count": 1
+        },
+        {
+            "phrase": "weight is an ongoing issue",
+            "count": 1
+        }
+    ]
+}

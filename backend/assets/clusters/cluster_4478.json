@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:00",
+            "02:34",
+            "04:05"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what shall we do jesus is dead we thought he was going to redeem israel now everything is lost",
+            "count": 1
+        },
+        {
+            "phrase": "this day a great man has fallen in israel",
+            "count": 1
+        },
+        {
+            "phrase": "at katamon we killed him last night by mistake he wouldn't retreat with the rest of our boys so when the jews chased him to our lines we took him for a jew and killed him",
+            "count": 1
+        },
+        {
+            "phrase": "we will settle accounts with the murderer israel",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "03:26",
+            "03:49",
+            "05:01"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will senate republicans vote against the troops",
+            "count": 3
+        },
+        {
+            "phrase": "there is no indication in any poll taken by any organization that voters want to see the gop regain control of congress and all generic ballot questions show a wide lead for democratic congressional candidates",
+            "count": 1
+        }
+    ]
+}

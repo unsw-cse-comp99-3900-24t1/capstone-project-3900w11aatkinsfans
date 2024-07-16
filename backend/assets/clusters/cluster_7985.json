@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "03:42"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is too much loose rock",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes there're are just aren't enough rocks",
+            "count": 1
+        }
+    ]
+}

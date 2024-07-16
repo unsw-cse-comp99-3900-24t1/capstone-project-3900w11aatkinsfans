@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:22",
+            "02:09",
+            "02:23",
+            "02:24",
+            "02:28",
+            "02:38",
+            "03:33",
+            "04:15"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's disappointing losing without getting broken but it's not the first player it has happened to especially to a guy like ivo",
+            "count": 9
+        },
+        {
+            "phrase": "there's always danger in tough matches against ivo i knew that from the start",
+            "count": 8
+        }
+    ]
+}

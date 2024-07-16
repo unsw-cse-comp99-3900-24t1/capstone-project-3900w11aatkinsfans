@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            15,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:00",
+            "04:38"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this world has been connected tied to the darkness soon to be completely eclipsed",
+            "count": 18
+        },
+        {
+            "phrase": "i never think of the future it comes soon enough",
+            "count": 1
+        },
+        {
+            "phrase": "you could tell yourself that yes the world does advance",
+            "count": 1
+        }
+    ]
+}

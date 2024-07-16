@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:13"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's less risky and more healthy if we shut up about it",
+            "count": 1
+        },
+        {
+            "phrase": "failure to communicate this issue is possibly misleading and a threat to public health",
+            "count": 1
+        }
+    ]
+}

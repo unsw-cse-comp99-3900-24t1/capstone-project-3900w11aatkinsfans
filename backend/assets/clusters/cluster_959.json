@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "00:09",
+            "00:12",
+            "00:23",
+            "01:23",
+            "02:24",
+            "02:36",
+            "02:38",
+            "03:05",
+            "03:10",
+            "03:12",
+            "03:23",
+            "04:28"
+        ],
+        "label": "reduce"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is the trash",
+            "count": 5
+        },
+        {
+            "phrase": "reduce reuse recycle",
+            "count": 2
+        },
+        {
+            "phrase": "ironically as we become more successful at recycling generally what's left in the bin tends to be just the plastic so more and more people are looking in their bins and saying there's just bits of plastic here why can't i recycle them",
+            "count": 2
+        },
+        {
+            "phrase": "next generation recycle",
+            "count": 1
+        },
+        {
+            "phrase": "don't be a trash monster recycle",
+            "count": 1
+        },
+        {
+            "phrase": "take out the recycling",
+            "count": 1
+        },
+        {
+            "phrase": "we used to live in ohio and recycling was big and in prairieville we kept a green box and brought it out and we've been out here four years we haven't because there's nowhere nearby to recycle",
+            "count": 1
+        },
+        {
+            "phrase": "operation clear the trash",
+            "count": 1
+        },
+        {
+            "phrase": "we will now look at our options of how best to dispose of it",
+            "count": 1
+        }
+    ]
+}

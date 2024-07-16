@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:01"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you friggin kidding me you want me to do what",
+            "count": 1
+        },
+        {
+            "phrase": "are you f-ing serious i could f-ing kill you do you know how many times i asked you to",
+            "count": 1
+        }
+    ]
+}

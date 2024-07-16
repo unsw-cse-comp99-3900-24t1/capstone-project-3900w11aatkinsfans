@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:52",
+            "03:23",
+            "03:41",
+            "04:08"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "the presentation is high end",
+            "count": 2
+        },
+        {
+            "phrase": "it may not be time for the big presentation",
+            "count": 1
+        },
+        {
+            "phrase": "an objective of the series is to get the findings out quickly even if the presentations are less than fully polished",
+            "count": 1
+        },
+        {
+            "phrase": "a scholastic productions presentation",
+            "count": 1
+        },
+        {
+            "phrase": "dress to the level of presentation that looks credible and respectable",
+            "count": 1
+        }
+    ]
+}

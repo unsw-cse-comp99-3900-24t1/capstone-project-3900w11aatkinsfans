@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:51",
+            "04:28"
+        ],
+        "label": "go"
+    },
+    "clusterList": [
+        {
+            "phrase": "go ahead brian kick the ducks",
+            "count": 1
+        },
+        {
+            "phrase": "it's time to drop the puck let's play hockey",
+            "count": 1
+        }
+    ]
+}

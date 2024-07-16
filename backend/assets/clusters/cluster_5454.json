@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:11",
+            "03:22",
+            "04:08"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "reparation for the sacrilegious desecration of the holy eucharist",
+            "count": 2
+        },
+        {
+            "phrase": "some simple ritual to perform that all the people take part in which reclaims this as sacred space",
+            "count": 1
+        },
+        {
+            "phrase": "we are not in front of a political figure or a personage of modern society but before god when the presence of eternal god descends on the altar we must place ourselves in a posture more apt for adoring it in my culture in sri lanka we ought to prostrate ourselves with head to the pavement as the buddhists and muslims do in prayer",
+            "count": 1
+        }
+    ]
+}

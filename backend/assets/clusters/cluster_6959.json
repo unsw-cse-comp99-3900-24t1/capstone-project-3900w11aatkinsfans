@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:18",
+            "04:23",
+            "04:31"
+        ],
+        "label": "goodnight"
+    },
+    "clusterList": [
+        {
+            "phrase": "goodnight mrs calabash wherever you are",
+            "count": 1
+        },
+        {
+            "phrase": "yes miss ava now what do you say we get on home well my home",
+            "count": 1
+        },
+        {
+            "phrase": "if you want your mother alive bring me the blue stone before 9pm tonight",
+            "count": 1
+        }
+    ]
+}

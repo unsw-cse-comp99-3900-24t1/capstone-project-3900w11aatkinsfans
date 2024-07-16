@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the satellite dish",
+            "count": 1
+        },
+        {
+            "phrase": "what a dish",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "03:01",
+            "03:09",
+            "03:24",
+            "04:27",
+            "04:45"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "how many guys you have been with",
+            "count": 2
+        },
+        {
+            "phrase": "how many you slept with",
+            "count": 2
+        },
+        {
+            "phrase": "most of the guys i dated were captivated by my heart",
+            "count": 1
+        },
+        {
+            "phrase": "i don't care if you've slept with hundreds of men",
+            "count": 1
+        },
+        {
+            "phrase": "never had another man",
+            "count": 1
+        },
+        {
+            "phrase": "it's not that i had a lot of lovers",
+            "count": 1
+        },
+        {
+            "phrase": "had a lot of women",
+            "count": 1
+        }
+    ]
+}

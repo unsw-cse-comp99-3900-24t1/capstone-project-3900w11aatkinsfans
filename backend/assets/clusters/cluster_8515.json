@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:48",
+            "04:18"
+        ],
+        "label": "after"
+    },
+    "clusterList": [
+        {
+            "phrase": "after me therefor because of me",
+            "count": 1
+        },
+        {
+            "phrase": "i wonder if you will be able to tell me why later on",
+            "count": 1
+        }
+    ]
+}

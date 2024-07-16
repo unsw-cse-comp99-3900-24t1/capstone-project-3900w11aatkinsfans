@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:38",
+            "00:48",
+            "01:37",
+            "03:11",
+            "03:18",
+            "03:47",
+            "04:04",
+            "04:45"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "since 1990 a lot of work has happened the facilities are there in many cities",
+            "count": 2
+        },
+        {
+            "phrase": "it's an important expansion of the facilities here",
+            "count": 1
+        },
+        {
+            "phrase": "but a city like dubbo which services quite a large population should be able to offer more than just a service to sydney which as good as it is probably isn't enough",
+            "count": 1
+        },
+        {
+            "phrase": "there are so many things that can be done between the city and schools to reduce costs and enhance operations",
+            "count": 1
+        },
+        {
+            "phrase": "i think this place could be put to a lot more use",
+            "count": 1
+        },
+        {
+            "phrase": "we want this to be a place that our employees like to go to",
+            "count": 1
+        },
+        {
+            "phrase": "this will be the first facility of its type in the nation",
+            "count": 1
+        },
+        {
+            "phrase": "if we can turn it into a base where homeless people can have a shower get some fresh clothes and also leave their things during the day i think that would be great just as a place where they can feel safe",
+            "count": 1
+        },
+        {
+            "phrase": "if we can use this as a base we can really improve the facilities that are available to people in need locally",
+            "count": 1
+        },
+        {
+            "phrase": "rather than piece-meal and do some things at some buildings we think it might be better to address the needs of one building and do a complete project",
+            "count": 1
+        }
+    ]
+}

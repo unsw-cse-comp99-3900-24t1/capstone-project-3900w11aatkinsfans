@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            3,
+            2,
+            1,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:27",
+            "01:09",
+            "01:47",
+            "02:28",
+            "02:29",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our bill will give cms and hhs the tools to stop fraud at the front end rather than having the department of justice get involved at the back end after the fraud has occurred from pay and chase to detect and prevent",
+            "count": 7
+        },
+        {
+            "phrase": "our bill will give agencies the tools to stop fraud at the front end rather than having the department of justice get involved at the back end after the fraud has occurred",
+            "count": 7
+        },
+        {
+            "phrase": "instead of continuing the current practice of pay and chase the federal government needs to shift to a policy of detect and prevent",
+            "count": 7
+        }
+    ]
+}

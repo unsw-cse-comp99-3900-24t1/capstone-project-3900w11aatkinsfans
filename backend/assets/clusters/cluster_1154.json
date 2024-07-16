@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:32",
+            "00:41",
+            "01:10",
+            "01:19",
+            "01:32",
+            "03:29",
+            "03:41",
+            "04:28",
+            "04:29",
+            "04:50",
+            "04:54",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had an illness outbreak that resulted in the premature euthanasia of about 56 animals",
+            "count": 4
+        },
+        {
+            "phrase": "the mouse doctors and cell biologists are of course quite enthusiastic about these things but the human doctors are a little more reticent",
+            "count": 3
+        },
+        {
+            "phrase": "we have sick and diseased animals",
+            "count": 2
+        },
+        {
+            "phrase": "the time is nearing when science will imperiously address normal people and say would you like all diseases handicaps imperfections senility and premature death of the organism to be studied minutely and precisely such study cannot be carried out solely with experiments on dogs rabbits and guinea pigs experiments on human beings are indispensable for what must be studied are the human mechanisms of the functioning of the organism intracellular processes hematopoiesis neurochemistry and all the processes that go on inside the organism hundreds of human guinea pigs are required this will be a true service to humanity which will be far more important and useful than the extermination of tens of millions of healthy beings for the comfort of a miserable physically psychologically and morally degenerate class of predators and parasites",
+            "count": 1
+        },
+        {
+            "phrase": "the other hope and one that's much closer upon us is if you could produce the cell types that become sick in that person you might be able to use them in the laboratory to come to understand basic aspects of the disease and take the study of disease out of patients where it's very difficult and put it into the petri dish",
+            "count": 1
+        },
+        {
+            "phrase": "in our experiments we wanted to see if biochemical actors would emerge in the infective process that might be inoperative in the usual in vitro setting",
+            "count": 1
+        },
+        {
+            "phrase": "we need to keep in mind that animal models are not a complete reflection of what happens in human disease so we can't extrapolate too far down the road",
+            "count": 1
+        }
+    ]
+}

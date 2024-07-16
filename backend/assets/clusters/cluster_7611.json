@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:10",
+            "04:22"
+        ],
+        "label": "three"
+    },
+    "clusterList": [
+        {
+            "phrase": "three of them plus the prisoner they took with them",
+            "count": 1
+        },
+        {
+            "phrase": "a man was walking downtown when he fell into the hands of robbers",
+            "count": 1
+        },
+        {
+            "phrase": "which of these three do you think was a saviour to the man who fell into the hands of robbers",
+            "count": 1
+        }
+    ]
+}

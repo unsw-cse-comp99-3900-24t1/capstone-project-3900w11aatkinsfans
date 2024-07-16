@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:01",
+            "03:19",
+            "03:23",
+            "04:45",
+            "04:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the space is so large",
+            "count": 1
+        },
+        {
+            "phrase": "the spirit of space",
+            "count": 1
+        },
+        {
+            "phrase": "the space between us",
+            "count": 1
+        },
+        {
+            "phrase": "space is the place",
+            "count": 1
+        },
+        {
+            "phrase": "living in game space",
+            "count": 1
+        },
+        {
+            "phrase": "explore the space",
+            "count": 1
+        },
+        {
+            "phrase": "sense of place",
+            "count": 1
+        }
+    ]
+}

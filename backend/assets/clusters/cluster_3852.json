@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:01",
+            "01:07",
+            "01:14",
+            "03:06"
+        ],
+        "label": "furthermore"
+    },
+    "clusterList": [
+        {
+            "phrase": "an ounce of prevention is better than tons of cure",
+            "count": 2
+        },
+        {
+            "phrase": "furthermore we can now give absolute assurance that all patients are now following the correct course of treatment",
+            "count": 1
+        },
+        {
+            "phrase": "spreading the disease",
+            "count": 1
+        },
+        {
+            "phrase": "gains in saving lives by preventing new infections and providing treatment to people living with hiv must be sustained over the long term short-term gains should serve as a platform for reinvigorating combination hiv prevention and treatment efforts and not spur complacency",
+            "count": 1
+        }
+    ]
+}

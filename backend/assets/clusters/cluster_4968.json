@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "02:56",
+            "04:41"
+        ],
+        "label": "put"
+    },
+    "clusterList": [
+        {
+            "phrase": "put more simply usage of 64-bit windows vista is growing much more rapidly than 32-bit",
+            "count": 1
+        },
+        {
+            "phrase": "it's nice to see 64-bit use tracking this way",
+            "count": 1
+        },
+        {
+            "phrase": "computer capacity rises dramatically",
+            "count": 1
+        },
+        {
+            "phrase": "well if this is vista how come it's so fast",
+            "count": 1
+        }
+    ]
+}

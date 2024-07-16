@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:32",
+            "04:28"
+        ],
+        "label": "declaration"
+    },
+    "clusterList": [
+        {
+            "phrase": "declaration of paternity",
+            "count": 2
+        },
+        {
+            "phrase": "mothers are being treated differently under the law because they are assumed to be the child's natural protector father's rarely are charged",
+            "count": 1
+        }
+    ]
+}

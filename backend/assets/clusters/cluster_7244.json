@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:18",
+            "03:44"
+        ],
+        "label": "wore"
+    },
+    "clusterList": [
+        {
+            "phrase": "wore her emotions on her sleeve",
+            "count": 1
+        },
+        {
+            "phrase": "did she like cats",
+            "count": 1
+        },
+        {
+            "phrase": "good news tita anabelle and i hugged each other",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "01:09",
+            "01:30"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people remember the act i dungeons but they kind of conveniently forget the green fields of act i and all of act ii and it's palaces its bright deserts",
+            "count": 5
+        },
+        {
+            "phrase": "the green fields and all of act ii",
+            "count": 1
+        },
+        {
+            "phrase": "the green fields of act i and all of act ii",
+            "count": 1
+        }
+    ]
+}

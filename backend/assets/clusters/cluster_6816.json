@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "03:01",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a high ideal of greek sport which has been stylised throughout european intellectual history but this in many respects doesn't correspond with the reality of the ancient olympics",
+            "count": 1
+        },
+        {
+            "phrase": "the most important thing in the olympic games is not to win but to take part just as the most important thing in life is not the triumph but the struggle the essential thing is not to have conquered but to have fought well",
+            "count": 1
+        },
+        {
+            "phrase": "the olympic countdown broken promises",
+            "count": 1
+        }
+    ]
+}

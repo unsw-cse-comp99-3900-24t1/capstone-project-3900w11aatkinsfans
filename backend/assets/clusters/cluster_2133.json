@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:48",
+            "01:32",
+            "04:44"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they brought out a line of books that was pretty lame so i stopped buying those",
+            "count": 2
+        },
+        {
+            "phrase": "they'll be collecting new and gently used books for school-age children",
+            "count": 2
+        },
+        {
+            "phrase": "she had finally reached 1 000 books in her personal classroom library",
+            "count": 2
+        },
+        {
+            "phrase": "having had her as a teacher the girls really wanted to start replacing some of those books",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:58",
+            "02:15",
+            "02:55",
+            "03:05",
+            "03:37",
+            "04:13"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "i won't allow the commission to take my dogs from me",
+            "count": 5
+        },
+        {
+            "phrase": "it's the commission's choice financing is not my responsibility i have to have money to run the department but they are the ones under the law who have to make the decisions how it is dispersed",
+            "count": 1
+        },
+        {
+            "phrase": "what do i care if the broker gets paid a commission by the lender it's not coming out of my pocket",
+            "count": 1
+        }
+    ]
+}

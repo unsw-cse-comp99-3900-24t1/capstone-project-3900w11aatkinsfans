@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:37",
+            "03:54"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a good situation for me to be a part of",
+            "count": 2
+        },
+        {
+            "phrase": "i know that everything happens for a reason and i'm just going to try to make the most out of this situation",
+            "count": 1
+        }
+    ]
+}

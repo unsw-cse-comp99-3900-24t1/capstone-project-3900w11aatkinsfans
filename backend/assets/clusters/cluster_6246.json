@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "02:42"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "always believed everwhere and by all",
+            "count": 2
+        },
+        {
+            "phrase": "you seriously believed me",
+            "count": 1
+        }
+    ]
+}

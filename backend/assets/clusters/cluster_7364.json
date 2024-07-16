@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:05",
+            "03:35"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do i get another run",
+            "count": 1
+        },
+        {
+            "phrase": "now i want to return the favor by being a good runner",
+            "count": 1
+        },
+        {
+            "phrase": "you should go for your run now",
+            "count": 1
+        }
+    ]
+}

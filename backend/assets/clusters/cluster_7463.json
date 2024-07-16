@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:57",
+            "03:55"
+        ],
+        "label": "content"
+    },
+    "clusterList": [
+        {
+            "phrase": "content that is not permitted",
+            "count": 1
+        },
+        {
+            "phrase": "the strict conditions",
+            "count": 1
+        },
+        {
+            "phrase": "everything is permissible for me",
+            "count": 1
+        }
+    ]
+}

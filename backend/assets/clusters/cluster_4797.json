@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:09",
+            "01:38",
+            "02:41"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it must connect one to his cultural natural and agricultural heritage",
+            "count": 2
+        },
+        {
+            "phrase": "deeper awareness and understanding of cultural heritage",
+            "count": 1
+        },
+        {
+            "phrase": "what we need to do now is to discover how this art relates to other prehistoric features in the landscape",
+            "count": 1
+        }
+    ]
+}

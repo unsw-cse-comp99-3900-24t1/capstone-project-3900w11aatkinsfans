@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:54",
+            "02:20",
+            "03:01",
+            "03:02",
+            "03:42",
+            "03:55",
+            "04:04",
+            "04:23"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think they're gonna win",
+            "count": 4
+        },
+        {
+            "phrase": "we got the beat",
+            "count": 3
+        },
+        {
+            "phrase": "the team to beat now",
+            "count": 2
+        },
+        {
+            "phrase": "beat the heat",
+            "count": 1
+        }
+    ]
+}

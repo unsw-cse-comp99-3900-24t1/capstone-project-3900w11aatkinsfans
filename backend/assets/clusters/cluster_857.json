@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:06",
+            "00:09",
+            "00:47",
+            "00:48",
+            "00:59",
+            "01:02",
+            "01:06",
+            "01:07",
+            "01:33",
+            "01:37",
+            "01:40",
+            "02:26",
+            "03:34",
+            "03:50",
+            "04:27"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "the attack is going to work best wherever you leave yourself logged in for long periods of time",
+            "count": 7
+        },
+        {
+            "phrase": "your security is really crap",
+            "count": 5
+        },
+        {
+            "phrase": "i'm not going to take it off because this is a humiliation you're trying to humiliate me it's not security checking because i went through the security system like anyone else and you are treating me differently",
+            "count": 2
+        },
+        {
+            "phrase": "it's ur virus protection interfering with our stuff",
+            "count": 1
+        },
+        {
+            "phrase": "my intention was never to disrupt security the fact that i logged on there and there were no passwords means that there was no security",
+            "count": 1
+        }
+    ]
+}

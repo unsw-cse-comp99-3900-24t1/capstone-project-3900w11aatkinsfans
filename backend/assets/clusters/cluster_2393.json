@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:37",
+            "03:48",
+            "04:13",
+            "04:15",
+            "04:24",
+            "04:28"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can contribute our new understanding of calmodulin to the design of next-generation drugs with greater potency and fewer side effects",
+            "count": 3
+        },
+        {
+            "phrase": "our pharmacists have reported many instances when patients have been confused by their medicines",
+            "count": 1
+        },
+        {
+            "phrase": "it gives you a tool to start screening drugs",
+            "count": 1
+        },
+        {
+            "phrase": "part of a new approach to dosage",
+            "count": 1
+        },
+        {
+            "phrase": "this is the idea behind personalized medicine",
+            "count": 1
+        }
+    ]
+}

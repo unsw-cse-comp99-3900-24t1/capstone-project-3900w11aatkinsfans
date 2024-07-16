@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "04:03",
+            "04:10",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mad bull",
+            "count": 2
+        },
+        {
+            "phrase": "the sleepy bear",
+            "count": 1
+        },
+        {
+            "phrase": "a wounded bull",
+            "count": 1
+        },
+        {
+            "phrase": "take the bull by the horns",
+            "count": 1
+        }
+    ]
+}

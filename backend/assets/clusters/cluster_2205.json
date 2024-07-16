@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "gore"
+    },
+    "clusterList": [
+        {
+            "phrase": "gore boasted about his efforts in congress 20 years ago to publicize the dangers of toxic waste",
+            "count": 6
+        },
+        {
+            "phrase": "if only al gore had stopped with the invention of the internet instead of going on to invent global warming",
+            "count": 2
+        }
+    ]
+}

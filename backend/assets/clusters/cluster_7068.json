@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:38",
+            "03:01"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our staff went out and looked at the site on tuesday afternoon and they found what they believed to be a small amount of asbestos sheeting",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to investigate and take a look at the rest of the lake to see whether there is asbestos in other areas",
+            "count": 1
+        },
+        {
+            "phrase": "instead of having the opportunity of removing what might have been there they have to treat the whole pile as if it's all asbestos",
+            "count": 1
+        }
+    ]
+}

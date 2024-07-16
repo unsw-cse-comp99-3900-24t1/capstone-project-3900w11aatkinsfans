@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "02:05",
+            "03:01"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "no simulation has ever gotten to the point of identifying this important stage in the birth of a star",
+            "count": 2
+        },
+        {
+            "phrase": "this general picture of star formation and the ability to compare how stellar objects form in different time periods and regions of the universe will eventually allow investigation into the origins of life and planets",
+            "count": 1
+        },
+        {
+            "phrase": "dr yoshida has taken the study of primordial star formation to a new level with this simulation but it still gets us only to the halfway point towards our final goal it is like laying the foundation of a skyscraper",
+            "count": 1
+        },
+        {
+            "phrase": "we must continue our studies in this area to understand how the initially tiny protostar grows layer by layer to eventually form a massive star but here the physics become much more complicated and even more computational resources are needed",
+            "count": 1
+        }
+    ]
+}

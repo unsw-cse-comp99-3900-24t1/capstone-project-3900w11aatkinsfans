@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:12",
+            "00:27",
+            "01:07",
+            "01:49",
+            "02:33",
+            "03:10",
+            "03:51",
+            "04:27",
+            "04:32"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "the bill is still under consideration here",
+            "count": 5
+        },
+        {
+            "phrase": "we still have a few concerns but not enough that would keep us from signing the bill",
+            "count": 3
+        },
+        {
+            "phrase": "we certainly have concerns",
+            "count": 2
+        }
+    ]
+}

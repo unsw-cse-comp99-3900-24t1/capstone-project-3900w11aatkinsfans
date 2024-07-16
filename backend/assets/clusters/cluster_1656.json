@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            3
+        ],
+        "xLabels": [
+            "00:12",
+            "00:16",
+            "00:56",
+            "02:14",
+            "03:46",
+            "04:18"
+        ],
+        "label": "dancing"
+    },
+    "clusterList": [
+        {
+            "phrase": "breathtaking flips and flops",
+            "count": 5
+        },
+        {
+            "phrase": "dancing is more than just a way of moving it's a different expression of music that's what i want to focus on with this show",
+            "count": 1
+        },
+        {
+            "phrase": "advancing wall of dancers",
+            "count": 1
+        },
+        {
+            "phrase": "they're all dance music i don't think it's ever been a secret because of the titles of the movements were all dance titles that's very important for me when playing bach is to remember what dances they are where the metric stresses are and to keep them rhythmic enough that people could dance to them it's like a metric discipline in a poem the discipline behind each movement is a dance",
+            "count": 1
+        },
+        {
+            "phrase": "all of the movements in english suites and in the partitas are essentially dance movements my fast tempi in the faster movements as anyone would hear on my recording they tend to be pretty feisty and pretty fast which i like as long as they don't feel frenetic or breathless they should have some flexibility but really they just need to dance",
+            "count": 1
+        },
+        {
+            "phrase": "the crane dance",
+            "count": 1
+        }
+    ]
+}

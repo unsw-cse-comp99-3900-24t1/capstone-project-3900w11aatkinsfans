@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:32",
+            "00:42",
+            "01:10",
+            "02:31",
+            "02:50",
+            "02:55",
+            "02:57",
+            "03:09",
+            "03:17",
+            "03:22",
+            "03:27",
+            "03:29",
+            "03:31",
+            "03:36",
+            "03:41",
+            "03:50",
+            "04:08"
+        ],
+        "label": "agony"
+    },
+    "clusterList": [
+        {
+            "phrase": "tragedy amp triumph",
+            "count": 14
+        },
+        {
+            "phrase": "triumph of the will",
+            "count": 2
+        },
+        {
+            "phrase": "either victory or martyrdom",
+            "count": 2
+        },
+        {
+            "phrase": "agony of defeat",
+            "count": 1
+        },
+        {
+            "phrase": "it was a tragic chain of events that occurred",
+            "count": 1
+        },
+        {
+            "phrase": "to rejoice over victory by violence is to rejoice over slaughter the wise ruler sees a military triumph as a funeral",
+            "count": 1
+        },
+        {
+            "phrase": "tragedy and triumph",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest tragedy is the premature and violent death of laura milne",
+            "count": 1
+        }
+    ]
+}

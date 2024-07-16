@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "02:39",
+            "04:47"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never two without three",
+            "count": 1
+        },
+        {
+            "phrase": "only nine forty-three",
+            "count": 1
+        },
+        {
+            "phrase": "one without god",
+            "count": 1
+        }
+    ]
+}

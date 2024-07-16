@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:06",
+            "03:22",
+            "03:35",
+            "03:43",
+            "03:46",
+            "03:47",
+            "03:51",
+            "04:05",
+            "04:54"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the united states abstained from the vote because language added to the resolution would send the wrong signal to sudanese president bashir and undermine efforts to bring him and others to justice",
+            "count": 5
+        },
+        {
+            "phrase": "the united states abstained in the vote because language added to the resolution would send the wrong signal to sudanese president beshir and undermine efforts to bring him and others to justice",
+            "count": 4
+        }
+    ]
+}

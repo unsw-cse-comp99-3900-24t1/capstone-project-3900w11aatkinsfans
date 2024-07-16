@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:19",
+            "03:48",
+            "04:05"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and i don't know how to do it like a gentleman i don't know how to have one drink",
+            "count": 2
+        },
+        {
+            "phrase": "i'm male 34 australian and pretty well-travelled and educated i'm mainly into history culture and hiking i also like to drink beer",
+            "count": 1
+        },
+        {
+            "phrase": "it's not something that is conducive to being a role model and i don't know how to do it like a gentleman i don't know how to have one drink",
+            "count": 1
+        }
+    ]
+}

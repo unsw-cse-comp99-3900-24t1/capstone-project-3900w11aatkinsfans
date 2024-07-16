@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:43",
+            "02:46"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not like our players aren't going to get through waivers",
+            "count": 2
+        },
+        {
+            "phrase": "some guys who will clear waivers",
+            "count": 1
+        }
+    ]
+}

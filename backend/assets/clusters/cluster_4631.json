@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:51",
+            "02:27",
+            "03:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i understand she was very particular about everything",
+            "count": 1
+        },
+        {
+            "phrase": "much of the darker themes that she found distasteful",
+            "count": 1
+        },
+        {
+            "phrase": "that gave christine a much clearer view of what she was capable of",
+            "count": 1
+        },
+        {
+            "phrase": "she paid attention to stuff that the rest of us geeks just weren't that inclined to pay attention to",
+            "count": 1
+        }
+    ]
+}

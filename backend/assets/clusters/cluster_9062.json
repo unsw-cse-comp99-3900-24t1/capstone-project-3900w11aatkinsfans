@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "04:37"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my mother didn't want me to ride it because she didn't think it was safe",
+            "count": 1
+        },
+        {
+            "phrase": "she kept it a few years she and her sister used ride in it in parades",
+            "count": 1
+        }
+    ]
+}

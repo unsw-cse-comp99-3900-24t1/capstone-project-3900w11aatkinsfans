@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:05",
+            "01:24",
+            "01:50",
+            "03:51"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't look now but i think that kid's the avatar",
+            "count": 2
+        },
+        {
+            "phrase": "well maybe next time it'll be a boy",
+            "count": 1
+        },
+        {
+            "phrase": "it's obviously a griffin",
+            "count": 1
+        },
+        {
+            "phrase": "definitely a girl",
+            "count": 1
+        }
+    ]
+}

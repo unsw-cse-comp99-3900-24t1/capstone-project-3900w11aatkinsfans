@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:10",
+            "03:34",
+            "03:51",
+            "03:59",
+            "04:18",
+            "04:32"
+        ],
+        "label": "does"
+    },
+    "clusterList": [
+        {
+            "phrase": "does anyone have any reliable information from knowledgeable sources regarding how much oil is out there",
+            "count": 4
+        },
+        {
+            "phrase": "there were 124 offshore spills during katrina and rita with 743 700 gallons of oil lost six spills were more than a thousand barrels with the largest 80 miles off the coast of louisiana",
+            "count": 1
+        },
+        {
+            "phrase": "the amount represents about 20 percent of the value of the total production in different sectors",
+            "count": 1
+        },
+        {
+            "phrase": "how much oil does it take to make one gallon of gas",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the only possible conclusion",
+            "count": 1
+        },
+        {
+            "phrase": "yes that can be concluded",
+            "count": 1
+        }
+    ]
+}

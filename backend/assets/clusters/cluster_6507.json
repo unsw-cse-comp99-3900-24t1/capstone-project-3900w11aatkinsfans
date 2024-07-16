@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:18",
+            "04:28"
+        ],
+        "label": "or"
+    },
+    "clusterList": [
+        {
+            "phrase": "or are we talking about other agendas",
+            "count": 1
+        },
+        {
+            "phrase": "well we all have different agendas in life",
+            "count": 1
+        },
+        {
+            "phrase": "what we are talking about is who has an agenda for the future of america",
+            "count": 1
+        }
+    ]
+}

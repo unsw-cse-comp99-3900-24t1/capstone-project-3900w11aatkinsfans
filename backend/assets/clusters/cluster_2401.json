@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:12",
+            "00:14",
+            "00:28",
+            "01:18",
+            "02:38"
+        ],
+        "label": "revel"
+    },
+    "clusterList": [
+        {
+            "phrase": "revel is mourning the loss of several of its team members",
+            "count": 5
+        },
+        {
+            "phrase": "is crying over the loss",
+            "count": 1
+        },
+        {
+            "phrase": "that was a difficult loss all the way around",
+            "count": 1
+        }
+    ]
+}

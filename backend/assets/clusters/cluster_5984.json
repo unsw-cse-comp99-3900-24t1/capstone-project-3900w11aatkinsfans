@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:47",
+            "03:51"
+        ],
+        "label": "fine"
+    },
+    "clusterList": [
+        {
+            "phrase": "fine if you want money i will give you money",
+            "count": 1
+        },
+        {
+            "phrase": "if you can send me 3 000 i can make your internet problems go away",
+            "count": 1
+        },
+        {
+            "phrase": "i can get you 100 000 000 000 tomorrow",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "02:23",
+            "03:29"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "great talents and great businessmen",
+            "count": 3
+        },
+        {
+            "phrase": "most admired company",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:22",
+            "03:34",
+            "04:07",
+            "04:14"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't work buildroot to give me gcc",
+            "count": 2
+        },
+        {
+            "phrase": "and compile it",
+            "count": 1
+        },
+        {
+            "phrase": "an open-source community initiative to design an easy-to-use system for compiling installing and upgrading either command-line",
+            "count": 1
+        },
+        {
+            "phrase": "want to build a compiler",
+            "count": 1
+        }
+    ]
+}

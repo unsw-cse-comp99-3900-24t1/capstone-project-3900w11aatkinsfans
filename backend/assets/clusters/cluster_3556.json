@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:01",
+            "01:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pursuit of the class struggle by other means",
+            "count": 1
+        },
+        {
+            "phrase": "that the rage and wrath of the masses must be inflamed against them they must be destroyed as a class because they are accursed",
+            "count": 1
+        },
+        {
+            "phrase": "class hatred should be cultivated by an organic revulsion as far as the enemy is concerned enemies must be seen as inferior i believe quite profoundly that the enemy is our inferior and is a degenerate not only on the physical plane but also in the moral sense",
+            "count": 1
+        },
+        {
+            "phrase": "respect through fear will always end in revolt unless it is cleverly disguised as religion",
+            "count": 1
+        },
+        {
+            "phrase": "defend what is good in society",
+            "count": 1
+        }
+    ]
+}

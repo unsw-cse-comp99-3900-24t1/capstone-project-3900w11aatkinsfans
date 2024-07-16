@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:32",
+            "03:14",
+            "04:54"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is from the middle of the 7th",
+            "count": 2
+        },
+        {
+            "phrase": "i'm going to guess 21 for the king of the east",
+            "count": 1
+        }
+    ]
+}

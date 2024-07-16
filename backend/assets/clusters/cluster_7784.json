@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the staff are very excited about going in as are the residents and the families",
+            "count": 1
+        },
+        {
+            "phrase": "we're very excited to have them as out first tenants",
+            "count": 1
+        }
+    ]
+}

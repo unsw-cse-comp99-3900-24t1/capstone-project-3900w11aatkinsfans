@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:33",
+            "03:59",
+            "04:50"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this was a lucky turn of events for the candy company but what does it mean for understanding consumer choice",
+            "count": 1
+        },
+        {
+            "phrase": "any food supplements already in existence containing them can no longer remain on the market or be placed on the market",
+            "count": 1
+        },
+        {
+            "phrase": "what consumers are going to get is one-month-old information for a range of goods that may only be a small part of their shopping basket",
+            "count": 1
+        },
+        {
+            "phrase": "we wanted to create a sense in our stores that there is an event going on as customers pass through and see the brand everywhere",
+            "count": 1
+        }
+    ]
+}

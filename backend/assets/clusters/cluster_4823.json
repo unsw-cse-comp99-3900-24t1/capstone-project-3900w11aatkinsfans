@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:12",
+            "01:13",
+            "02:14",
+            "04:59"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "most people like brett and think he gives us the best chance to win",
+            "count": 3
+        },
+        {
+            "phrase": "we feel tommy gives us the best chance to win",
+            "count": 1
+        }
+    ]
+}

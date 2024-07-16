@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:38",
+            "03:16"
+        ],
+        "label": "today's"
+    },
+    "clusterList": [
+        {
+            "phrase": "today's decision is a huge win in protecting new york state's great lakes from invasive species and pollution that for too long have threatened our local ecosystems economies and our health",
+            "count": 1
+        },
+        {
+            "phrase": "i've been fizzing fish on erie for about 20 years",
+            "count": 1
+        },
+        {
+            "phrase": "the one thing people might not know about lake erie is how big the smallmouth can get",
+            "count": 1
+        }
+    ]
+}

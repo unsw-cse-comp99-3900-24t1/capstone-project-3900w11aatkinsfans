@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:42",
+            "03:27",
+            "03:29"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is another example of hateful sexist language being used on the campaign trail and now is our moment to make it clear not on our watch",
+            "count": 2
+        },
+        {
+            "phrase": "this is about beginning the grinding and painful process of rooting out this kind of hate language and behavior whenever and wherever it exists the democratic leadership have pledged to unhinge our nation from gender-bias hate-language and misogyny and we are taking them at their word",
+            "count": 2
+        },
+        {
+            "phrase": "what we're seeing is the democratization of hate crimes",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:28",
+            "01:01",
+            "02:01",
+            "03:10",
+            "03:43",
+            "03:51",
+            "03:59"
+        ],
+        "label": "financial"
+    },
+    "clusterList": [
+        {
+            "phrase": "central bank of nigeria",
+            "count": 4
+        },
+        {
+            "phrase": "what we should not do is have the central bank involved in its balance sheet",
+            "count": 2
+        },
+        {
+            "phrase": "financial companies are calling for greater coordination among central banks stronger industry risk-management practices and beefed-up market monitoring as ways to restore confidence in the stuggling markets and prevent future crises",
+            "count": 1
+        },
+        {
+            "phrase": "calling for the federal reserve board to loosen the purse strings",
+            "count": 1
+        },
+        {
+            "phrase": "interfering with the central bank's affairs",
+            "count": 1
+        }
+    ]
+}

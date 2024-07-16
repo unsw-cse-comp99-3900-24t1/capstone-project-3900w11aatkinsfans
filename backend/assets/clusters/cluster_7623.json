@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:19",
+            "03:09"
+        ],
+        "label": "had"
+    },
+    "clusterList": [
+        {
+            "phrase": "had it all wrong",
+            "count": 1
+        },
+        {
+            "phrase": "of course om's answer is completely wrong",
+            "count": 1
+        },
+        {
+            "phrase": "to be right",
+            "count": 1
+        }
+    ]
+}

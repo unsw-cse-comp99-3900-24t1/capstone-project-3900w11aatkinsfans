@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "02:33",
+            "03:05"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are constantly reviewing our approaches given changing methods of bullying such as cyber bullying",
+            "count": 2
+        },
+        {
+            "phrase": "how to talk to your kids about school violence",
+            "count": 1
+        },
+        {
+            "phrase": "it was a big step because many people believe it's best not to draw attention to the bullying in case it gets worse",
+            "count": 1
+        },
+        {
+            "phrase": "bullying is a big issue that affects people of all ages from every walk of life",
+            "count": 1
+        },
+        {
+            "phrase": "my heart goes out to other families who are still caught up in bullying it's a silent epidemic spreading like a toxic cloud of smog",
+            "count": 1
+        }
+    ]
+}

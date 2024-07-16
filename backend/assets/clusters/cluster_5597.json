@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:51",
+            "04:33",
+            "04:43"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know the principal sent me here",
+            "count": 2
+        },
+        {
+            "phrase": "at the whim of school districts",
+            "count": 1
+        },
+        {
+            "phrase": "hot for teacher",
+            "count": 1
+        }
+    ]
+}

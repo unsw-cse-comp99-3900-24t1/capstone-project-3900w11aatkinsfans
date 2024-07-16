@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:38"
+        ],
+        "label": "everybody's"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody's car is a motor vehicle",
+            "count": 1
+        },
+        {
+            "phrase": "operating motor vehicles without grant of driving privilege",
+            "count": 1
+        }
+    ]
+}

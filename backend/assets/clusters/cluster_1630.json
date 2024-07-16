@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            6
+        ],
+        "xLabels": [
+            "00:10",
+            "00:28",
+            "00:42",
+            "00:56",
+            "02:11"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "man stands alone in the universe a unique product of a long unconcious impersonal material process with unique understanding and potentialities these he owes to no one but himself and it is to himself that he is responsible he is not the creature of uncontrollable and undeterminable forces but his own master he can and must decide and manage his own destiny",
+            "count": 6
+        },
+        {
+            "phrase": "this fiercely independent man",
+            "count": 2
+        },
+        {
+            "phrase": "a man who is already lost he has no particular interest no private business no feelings no personal attachments and no property he does not even have a name everything in him is absorbed by one interest to the exclusion of all others by a single thought a single passion revolution in the depths of his being not simply in words but in his actions as well he has broken all links with society and the world of civilization with its laws and conventions with its social etiquette and its moral code the revolutionary is an implacable enemy and he carries on living only so that he can ensure the destruction of society",
+            "count": 1
+        },
+        {
+            "phrase": "the ultimate measure of a man is not where he stands in moments of comfort and convenience but where he stands at times of challenge and controversy",
+            "count": 1
+        }
+    ]
+}

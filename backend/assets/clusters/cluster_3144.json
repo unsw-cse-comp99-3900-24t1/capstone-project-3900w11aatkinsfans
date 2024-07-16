@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:23",
+            "01:20",
+            "01:27",
+            "05:01"
+        ],
+        "label": "fda's"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pharmacy america trusts",
+            "count": 3
+        },
+        {
+            "phrase": "fda's oversight has not prevented some pharmaceutical companies from repeatedly disseminating misleading advertisements for the same drug and some pharmaceutical companies have failed to submit all newly disseminated advertisements to fda for review",
+            "count": 1
+        },
+        {
+            "phrase": "american consumers are entitled to have safe and effective drugs",
+            "count": 1
+        },
+        {
+            "phrase": "federal agents seize more than 24 million in unapproved new drugs products made after the fda required an end to production",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:15",
+            "02:28"
+        ],
+        "label": "resolve"
+    },
+    "clusterList": [
+        {
+            "phrase": "resolve to look uncertainty in the face",
+            "count": 2
+        },
+        {
+            "phrase": "at times visually incoherent",
+            "count": 1
+        }
+    ]
+}

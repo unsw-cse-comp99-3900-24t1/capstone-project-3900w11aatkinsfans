@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:24",
+            "00:37",
+            "01:24",
+            "03:48",
+            "03:52",
+            "04:17",
+            "04:18",
+            "04:32",
+            "05:04"
+        ],
+        "label": "brothers"
+    },
+    "clusterList": [
+        {
+            "phrase": "dawn johnson amp off the chain",
+            "count": 2
+        },
+        {
+            "phrase": "the banana splits amp friends",
+            "count": 2
+        },
+        {
+            "phrase": "rick amp steve",
+            "count": 2
+        },
+        {
+            "phrase": "brothers and sisters",
+            "count": 1
+        },
+        {
+            "phrase": "billy thompson amp company",
+            "count": 1
+        },
+        {
+            "phrase": "the space boating amp oliver",
+            "count": 1
+        },
+        {
+            "phrase": "my wife amp kids",
+            "count": 1
+        },
+        {
+            "phrase": "will amp grace",
+            "count": 1
+        },
+        {
+            "phrase": "stitch amp bitch",
+            "count": 1
+        },
+        {
+            "phrase": "q amp a with the quad moms",
+            "count": 1
+        },
+        {
+            "phrase": "love amp relationships",
+            "count": 1
+        }
+    ]
+}

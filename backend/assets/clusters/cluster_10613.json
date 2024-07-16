@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "04:33"
+        ],
+        "label": "learn"
+    },
+    "clusterList": [
+        {
+            "phrase": "learn to draw clone wars",
+            "count": 1
+        },
+        {
+            "phrase": "battle of los angeles",
+            "count": 1
+        }
+    ]
+}

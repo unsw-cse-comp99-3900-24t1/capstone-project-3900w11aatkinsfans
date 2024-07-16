@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:51",
+            "02:14",
+            "02:19",
+            "02:43"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have been exporting meat for a long time and there has been a growing demand for all organic produce in horticulture it has been the fastest-growing sector",
+            "count": 2
+        },
+        {
+            "phrase": "one of various oilseed crops being studied for its potential value in biofuel production the resultant",
+            "count": 1
+        },
+        {
+            "phrase": "the diesel engine can be fed with vegetable oils and would help considerably in the development of agriculture of the countries which use it",
+            "count": 1
+        },
+        {
+            "phrase": "the project is pakistan's first sugarcane biogas power plant",
+            "count": 1
+        },
+        {
+            "phrase": "the chemist has aided in conserving natural resources by developing synthetic products to supplement or wholly replace natural products",
+            "count": 1
+        }
+    ]
+}

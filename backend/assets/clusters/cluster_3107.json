@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:55",
+            "03:34",
+            "04:07",
+            "04:28",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are some outstanding individuals who have expressed interest in running for the senate seat",
+            "count": 3
+        },
+        {
+            "phrase": "i would also like to recognize several senators who were not conferees for their contributions to the original senate amendment and for working with the conference committee on the provisions they championed in the senate",
+            "count": 1
+        },
+        {
+            "phrase": "e-mail your senator or representative",
+            "count": 1
+        },
+        {
+            "phrase": "we regularly consulted congress",
+            "count": 1
+        }
+    ]
+}

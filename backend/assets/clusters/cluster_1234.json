@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:23",
+            "01:37",
+            "01:45",
+            "01:48",
+            "02:49",
+            "03:01",
+            "03:14",
+            "03:18",
+            "03:24",
+            "03:55",
+            "04:59",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "why are you looking at my back",
+            "count": 3
+        },
+        {
+            "phrase": "i see a reflection harvey",
+            "count": 1
+        },
+        {
+            "phrase": "if only you could see what i've seen with your eyes",
+            "count": 1
+        },
+        {
+            "phrase": "from this angle i can see everything",
+            "count": 1
+        },
+        {
+            "phrase": "what you see is what you don't",
+            "count": 1
+        },
+        {
+            "phrase": "i'm looking in my rearview mirror and all i could see was red",
+            "count": 1
+        },
+        {
+            "phrase": "you can see a whole lot of things just by looking",
+            "count": 1
+        },
+        {
+            "phrase": "you know what i see when i look at my reflection",
+            "count": 1
+        },
+        {
+            "phrase": "does this statement actually reflect how you see yourself or is it something that someone is reflecting on you",
+            "count": 1
+        },
+        {
+            "phrase": "if only you could see what i have seen with your eyes",
+            "count": 1
+        },
+        {
+            "phrase": "you are looking through a mirror darkly",
+            "count": 1
+        }
+    ]
+}

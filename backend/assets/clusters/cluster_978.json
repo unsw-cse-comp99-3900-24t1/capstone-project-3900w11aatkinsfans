@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            13
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32"
+        ],
+        "label": "ray"
+    },
+    "clusterList": [
+        {
+            "phrase": "ray gordon creator of the",
+            "count": 8
+        },
+        {
+            "phrase": "ray gordon creator of absolutely nothing",
+            "count": 5
+        },
+        {
+            "phrase": "ray gordon creator of the absolutely nothing",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:14",
+            "01:18",
+            "02:28",
+            "03:09",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the way to get out of it is to swim parallel to the beach",
+            "count": 2
+        },
+        {
+            "phrase": "beaches of rural route one",
+            "count": 1
+        },
+        {
+            "phrase": "why do we always have to go to the beach",
+            "count": 1
+        },
+        {
+            "phrase": "this is a beach for nudists",
+            "count": 1
+        },
+        {
+            "phrase": "how did you guys run so slowly in that opening baywatch scene you know where you're running down the beach",
+            "count": 1
+        },
+        {
+            "phrase": "good for the beach",
+            "count": 1
+        }
+    ]
+}

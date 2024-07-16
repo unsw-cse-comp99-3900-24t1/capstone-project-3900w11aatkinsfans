@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:33",
+            "00:41",
+            "02:48",
+            "03:19",
+            "03:34"
+        ],
+        "label": "bed"
+    },
+    "clusterList": [
+        {
+            "phrase": "tooth and nail",
+            "count": 2
+        },
+        {
+            "phrase": "bed of nails",
+            "count": 1
+        },
+        {
+            "phrase": "scratch and dent-free",
+            "count": 1
+        },
+        {
+            "phrase": "the nail that sticks out gets hammered in",
+            "count": 1
+        },
+        {
+            "phrase": "red of tooth and claw",
+            "count": 1
+        }
+    ]
+}

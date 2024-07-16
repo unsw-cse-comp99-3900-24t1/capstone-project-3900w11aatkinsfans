@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "04:33"
+        ],
+        "label": "high"
+    },
+    "clusterList": [
+        {
+            "phrase": "high blood pressure",
+            "count": 1
+        },
+        {
+            "phrase": "is your blood pressure high enough yet",
+            "count": 1
+        }
+    ]
+}

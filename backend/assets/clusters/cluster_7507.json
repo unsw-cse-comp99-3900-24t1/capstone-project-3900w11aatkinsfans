@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "04:05",
+            "05:01"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you shouldn't date someone that young",
+            "count": 1
+        },
+        {
+            "phrase": "are you sure you shouldn't just be dating a guy sounds like you want a daddy",
+            "count": 1
+        },
+        {
+            "phrase": "well you know most of the guys want women under 30 so what ya gonna do",
+            "count": 1
+        }
+    ]
+}

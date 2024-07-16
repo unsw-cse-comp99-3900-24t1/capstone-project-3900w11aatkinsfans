@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:06",
+            "01:07",
+            "01:39",
+            "02:32",
+            "03:18",
+            "03:50",
+            "04:07",
+            "04:31"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll eat the wings",
+            "count": 2
+        },
+        {
+            "phrase": "we'll wait till you are done with your sushi and miso soup bon appetite",
+            "count": 1
+        },
+        {
+            "phrase": "after you eat lunch do you want me to come pick you up",
+            "count": 1
+        },
+        {
+            "phrase": "good now im seriously hungry",
+            "count": 1
+        },
+        {
+            "phrase": "uhm how about we start to eat now",
+            "count": 1
+        },
+        {
+            "phrase": "aww come on im really hungry here",
+            "count": 1
+        },
+        {
+            "phrase": "oh goddess you are so beautiful yes i will do anything you tell me of course i want to serve you",
+            "count": 1
+        },
+        {
+            "phrase": "fine maybe i'll just slice you in two",
+            "count": 1
+        },
+        {
+            "phrase": "and maybe i could get you some nicer clothes",
+            "count": 1
+        },
+        {
+            "phrase": "klump if you're not doing anything this lunchtime do you want to go out for a pizza with krusha and i",
+            "count": 1
+        },
+        {
+            "phrase": "okay whatever i'm going to be making some toast so do you want anything english breakfast i can get one together for you",
+            "count": 1
+        },
+        {
+            "phrase": "here to-chan i know you're pretty hungry so i asked him to get you something heavy",
+            "count": 1
+        },
+        {
+            "phrase": "hey i think that sounds good",
+            "count": 1
+        }
+    ]
+}

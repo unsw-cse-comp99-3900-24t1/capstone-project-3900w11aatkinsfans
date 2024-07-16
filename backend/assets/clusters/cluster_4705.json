@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:15",
+            "02:51",
+            "03:56"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so who cares what we did to get here we won",
+            "count": 1
+        },
+        {
+            "phrase": "i was pushing hard at the spoon curve and suddenly the front wheel tucked i am very disappointed for the team and myself we were third and i wanted to get on the podium desperately",
+            "count": 1
+        },
+        {
+            "phrase": "i cannot say that this was the best we could have done but i would like to remind you that our goal to reach the final round of the qualifiers was accomplished and this is the most important thing",
+            "count": 1
+        },
+        {
+            "phrase": "this was a big win",
+            "count": 1
+        }
+    ]
+}

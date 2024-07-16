@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            6
+        ],
+        "xLabels": [
+            "02:28"
+        ],
+        "label": "s"
+    },
+    "clusterList": [
+        {
+            "phrase": "s setenv cincl ccp4 1 ccp4 share ccp4 include g",
+            "count": 1
+        },
+        {
+            "phrase": "s setenv cincl ccp4 1 share ccp4 include g",
+            "count": 1
+        },
+        {
+            "phrase": "s setenv ccp4 browser 1 firefox g",
+            "count": 1
+        },
+        {
+            "phrase": "in usr share ccp4 include ccp4 setup to modify this",
+            "count": 1
+        },
+        {
+            "phrase": "one of the ccp4 setup files in root usr share ccp4 include",
+            "count": 1
+        },
+        {
+            "phrase": "ccp4 will not work without this",
+            "count": 1
+        }
+    ]
+}

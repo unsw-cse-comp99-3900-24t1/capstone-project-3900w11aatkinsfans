@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:05",
+            "04:28",
+            "05:03"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and then they came back and said would you help us find somebody",
+            "count": 1
+        },
+        {
+            "phrase": "i bumped into a couple and they were looking for the exit they had that kind of dazed look in their eyes they weren't sure which way to go",
+            "count": 1
+        },
+        {
+            "phrase": "they were calling out to see if they could find anyone they saw bodies",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "03:16"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but no one knows how",
+            "count": 1
+        },
+        {
+            "phrase": "everybody knows how to do it now",
+            "count": 1
+        }
+    ]
+}

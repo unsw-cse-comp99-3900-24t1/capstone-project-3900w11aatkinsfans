@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:49",
+            "02:24",
+            "03:54",
+            "04:05",
+            "04:12"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the national interest",
+            "count": 2
+        },
+        {
+            "phrase": "absolutely the government fronting the money and then collecting no interest",
+            "count": 2
+        },
+        {
+            "phrase": "narrowly tailored to a compelling state interest",
+            "count": 1
+        },
+        {
+            "phrase": "rationally related to a legitimate government interest",
+            "count": 1
+        },
+        {
+            "phrase": "no legitimate interest is served when oil and gas become tools of intimidation or blackmail either by supply manipulation or attempts to monopolize transportation and no one can justify actions that undermine the territorial integrity of a neighbor or interfere with democratic movements",
+            "count": 1
+        }
+    ]
+}

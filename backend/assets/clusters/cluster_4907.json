@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "03:59",
+            "04:06"
+        ],
+        "label": "married"
+    },
+    "clusterList": [
+        {
+            "phrase": "married mass couple still separated by immigration laws",
+            "count": 1
+        },
+        {
+            "phrase": "same-sex marriages do not provide a basis for obtaining immigration benefits",
+            "count": 1
+        },
+        {
+            "phrase": "has ruled that non-eu nationals married to eu citizens are entitled to live in their spouse's country",
+            "count": 1
+        },
+        {
+            "phrase": "new york couple won't get married in massachusetts",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:48",
+            "02:57",
+            "04:00",
+            "04:24",
+            "04:26"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this too shall pass",
+            "count": 5
+        }
+    ]
+}

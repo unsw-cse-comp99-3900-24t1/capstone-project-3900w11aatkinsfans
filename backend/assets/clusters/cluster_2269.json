@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            4
+        ],
+        "xLabels": [
+            "03:09",
+            "03:18",
+            "03:23"
+        ],
+        "label": "erring"
+    },
+    "clusterList": [
+        {
+            "phrase": "never throw caution to the wind",
+            "count": 4
+        },
+        {
+            "phrase": "erring on the side of caution",
+            "count": 1
+        },
+        {
+            "phrase": "erring on the side of danger",
+            "count": 1
+        },
+        {
+            "phrase": "err on the side of caution",
+            "count": 1
+        },
+        {
+            "phrase": "proceed with extreme caution",
+            "count": 1
+        }
+    ]
+}

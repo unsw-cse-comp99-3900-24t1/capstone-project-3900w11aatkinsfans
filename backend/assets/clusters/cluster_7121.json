@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "02:51",
+            "04:13"
+        ],
+        "label": "stretch"
+    },
+    "clusterList": [
+        {
+            "phrase": "stretch your check",
+            "count": 1
+        },
+        {
+            "phrase": "divide up the check",
+            "count": 1
+        },
+        {
+            "phrase": "fewest number of checks",
+            "count": 1
+        }
+    ]
+}

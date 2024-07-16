@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:33",
+            "01:38",
+            "01:41"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "the manufacturer's website contains a document which clearly illustrates their business model and how the company successfully capitalizes on the immensely profitable worldwide vaccination market",
+            "count": 2
+        },
+        {
+            "phrase": "a more robust cancer company",
+            "count": 1
+        },
+        {
+            "phrase": "a more sellable company itself by making bristol a more robust cancer company",
+            "count": 1
+        }
+    ]
+}

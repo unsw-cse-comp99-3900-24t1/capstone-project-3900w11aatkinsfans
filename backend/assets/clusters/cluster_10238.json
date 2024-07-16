@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "02:15"
+        ],
+        "label": "friday"
+    },
+    "clusterList": [
+        {
+            "phrase": "friday night lights streetball",
+            "count": 1
+        },
+        {
+            "phrase": "lives for monday nights",
+            "count": 1
+        }
+    ]
+}

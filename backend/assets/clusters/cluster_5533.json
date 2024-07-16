@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "01:55",
+            "03:22",
+            "04:24"
+        ],
+        "label": "pulled"
+    },
+    "clusterList": [
+        {
+            "phrase": "pulled into within",
+            "count": 1
+        },
+        {
+            "phrase": "take the long way home",
+            "count": 1
+        },
+        {
+            "phrase": "walk to the bed lw",
+            "count": 1
+        },
+        {
+            "phrase": "how you get through",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:15",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the internet isn't a radical-free zone where you can hurt people but on the other hand we can't have everyone rushing to the court because the court is a blunt tool",
+            "count": 1
+        },
+        {
+            "phrase": "make sure people have access to the court system and make sure everyone can have their day in court",
+            "count": 1
+        },
+        {
+            "phrase": "in the hopstock matter if the io does find reasonable grounds the case will progress to a general court-martial",
+            "count": 1
+        }
+    ]
+}

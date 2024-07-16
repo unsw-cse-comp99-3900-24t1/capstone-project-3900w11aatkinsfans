@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "01:29",
+            "03:50",
+            "04:13",
+            "04:15",
+            "04:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the labor union",
+            "count": 2
+        },
+        {
+            "phrase": "the north american union matrix",
+            "count": 1
+        },
+        {
+            "phrase": "north american union",
+            "count": 1
+        },
+        {
+            "phrase": "crisis of labour",
+            "count": 1
+        },
+        {
+            "phrase": "one-stop shop for unions looking to contract out labor activities",
+            "count": 1
+        },
+        {
+            "phrase": "great army of free labor",
+            "count": 1
+        },
+        {
+            "phrase": "fair labor practices",
+            "count": 1
+        }
+    ]
+}

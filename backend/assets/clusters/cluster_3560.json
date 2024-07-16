@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:59",
+            "02:00",
+            "04:21",
+            "04:27"
+        ],
+        "label": "everything"
+    },
+    "clusterList": [
+        {
+            "phrase": "think of all the problems that disappear overnight we don't have to think about family leave or after-school or the day-to-day grind or the tough challenges of work and family",
+            "count": 2
+        },
+        {
+            "phrase": "everything revolved around the school now both parents have to work and they're going in a hundred different directions i see it as a hardship for the families but they've had to because of the economy",
+            "count": 1
+        },
+        {
+            "phrase": "re-education through labor",
+            "count": 1
+        },
+        {
+            "phrase": "people are now unemployed their sons are leaving university because they can't afford tuition",
+            "count": 1
+        }
+    ]
+}

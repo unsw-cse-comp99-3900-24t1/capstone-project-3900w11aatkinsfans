@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:51"
+        ],
+        "label": "db"
+    },
+    "clusterList": [
+        {
+            "phrase": "the excellent rf spectral quality of our twt amplifiers enable such capabilities we are honored that well-respected global mapping companies such as intermap have chosen to integrate our products",
+            "count": 2
+        },
+        {
+            "phrase": "db control's reliable twt amplifiers enable intermap to collect high-quality low-cost 3d-radar mapping data with a higher level of reliability over our previous power sources while meeting our stringent accuracy specifications",
+            "count": 1
+        }
+    ]
+}

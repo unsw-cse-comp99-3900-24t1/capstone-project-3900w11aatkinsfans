@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:48",
+            "01:10",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last four or five days obviously we've been in a lot of discussions and a lot of meetings and talked over a lot of different scenarios",
+            "count": 2
+        },
+        {
+            "phrase": "the confusion of the dates was what concerned me and the board the most",
+            "count": 1
+        },
+        {
+            "phrase": "dated within a reasonable time frame",
+            "count": 1
+        },
+        {
+            "phrase": "we will continue to talk to the irl about the handling of the dates so at this stage i am not even going to get into what the dates could have been would have been or maybe possibly will be",
+            "count": 1
+        }
+    ]
+}

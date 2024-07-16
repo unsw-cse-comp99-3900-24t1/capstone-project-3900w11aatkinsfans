@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:05"
+        ],
+        "label": "themes"
+    },
+    "clusterList": [
+        {
+            "phrase": "themes default languages",
+            "count": 1
+        },
+        {
+            "phrase": "language of the document changed",
+            "count": 1
+        }
+    ]
+}

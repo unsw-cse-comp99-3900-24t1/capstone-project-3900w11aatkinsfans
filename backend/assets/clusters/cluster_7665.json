@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "04:33"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good morning am here to see mr mcmillan about a will",
+            "count": 1
+        },
+        {
+            "phrase": "we are here to read the last will and testament of mr antonio miguel mendoza acosta",
+            "count": 1
+        },
+        {
+            "phrase": "mr mendoza please i must finish with the formal reading of the will before i can answer any questions",
+            "count": 1
+        }
+    ]
+}

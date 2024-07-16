@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:36",
+            "01:32",
+            "02:29",
+            "03:50",
+            "04:10"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is good-looking enough and has enough of a high-profile job that she would get plenty of interviews and attention even if she showed up in a burlap sack",
+            "count": 1
+        },
+        {
+            "phrase": "good for her",
+            "count": 1
+        },
+        {
+            "phrase": "that person is good he she is trying to do somthing about her proublem what a good person",
+            "count": 1
+        },
+        {
+            "phrase": "she's very confident",
+            "count": 1
+        },
+        {
+            "phrase": "she's well put-together she's a good-looking horse",
+            "count": 1
+        },
+        {
+            "phrase": "she has tough competitors",
+            "count": 1
+        },
+        {
+            "phrase": "she's a little aggressive at times but overall a nice filly very ladylike",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:27",
+            "03:42",
+            "03:56"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it gives an insight on what the team is doing and it informs you of some things that you didn't know where going on",
+            "count": 1
+        },
+        {
+            "phrase": "to retain our competitive edge",
+            "count": 1
+        },
+        {
+            "phrase": "it is so we can have as much information as possible for the competitors when they start our in the morning",
+            "count": 1
+        },
+        {
+            "phrase": "it really put me in a different position as a player and also for other players to see my level of golf",
+            "count": 1
+        }
+    ]
+}

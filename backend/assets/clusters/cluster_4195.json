@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:55",
+            "04:08",
+            "04:45"
+        ],
+        "label": "old"
+    },
+    "clusterList": [
+        {
+            "phrase": "who cares what you think punk you don't even have a name",
+            "count": 4
+        },
+        {
+            "phrase": "old school goth",
+            "count": 1
+        }
+    ]
+}

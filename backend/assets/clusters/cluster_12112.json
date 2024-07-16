@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:37",
+            "05:00"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll see if that holds true",
+            "count": 1
+        },
+        {
+            "phrase": "that's your claim we'll see for ourselves",
+            "count": 1
+        }
+    ]
+}

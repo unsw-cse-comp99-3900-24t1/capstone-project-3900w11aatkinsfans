@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:05",
+            "03:17",
+            "03:47",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:13",
+            "04:23",
+            "04:28"
+        ],
+        "label": "sam"
+    },
+    "clusterList": [
+        {
+            "phrase": "sam newman was simply suggesting ms wriedt should be a guest on the program given the news of tasmania's backing",
+            "count": 9
+        },
+        {
+            "phrase": "sam newman was simply suggesting ms wriedt should be a guest on the",
+            "count": 2
+        }
+    ]
+}

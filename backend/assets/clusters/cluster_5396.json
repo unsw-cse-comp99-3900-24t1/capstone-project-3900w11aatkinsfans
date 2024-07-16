@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:10",
+            "01:20",
+            "04:03"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i were chief of police in san jose and i heard my officers never used deadly force once it would be a headline",
+            "count": 2
+        },
+        {
+            "phrase": "why yes officer i'm just fine",
+            "count": 1
+        },
+        {
+            "phrase": "i you know i seen well i seen you on the news for what for shooting an officer oh hell no come on an officer really",
+            "count": 1
+        }
+    ]
+}

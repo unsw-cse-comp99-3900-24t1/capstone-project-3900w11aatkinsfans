@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:14",
+            "02:23",
+            "03:05",
+            "04:19",
+            "04:23",
+            "04:38",
+            "04:45",
+            "04:46"
+        ],
+        "label": "encouraging"
+    },
+    "clusterList": [
+        {
+            "phrase": "encouraging or persuading voters to vote or not to vote for one or more specified parties or one or more candidates",
+            "count": 4
+        },
+        {
+            "phrase": "governor mitt romney is your best choice for v p slot",
+            "count": 1
+        },
+        {
+            "phrase": "you may vote for a person who is pro-choice if you feel you have a moral reason to support the candidate for his stand on other issues",
+            "count": 1
+        },
+        {
+            "phrase": "but what are the other options for someone like me should i vote for a third-party candidate while this year's election doesn't appear to be providing one big third-party candidate who will approach 20 percent of the vote like ross perot it might be the broadest collection of candidates in quite a long time in case you're having trouble keeping track here's a primer there's the ever-present ralph nader who is usually good for a percent and a laugh or two bob barr the former republican congressman will likely get more votes than any libertarian in history",
+            "count": 1
+        },
+        {
+            "phrase": "the other candidates i've seen so far are all veon or sen gerald lavalle loyalists i'm not sure any of them can win in this district",
+            "count": 1
+        },
+        {
+            "phrase": "i'm a conservative who's open-minded on taxes and a republican who isn't afraid to vote for a democrat e g i voted to re-elect gov janet napolitano",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:42",
+            "03:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the most upsetting symbol of hatred",
+            "count": 1
+        },
+        {
+            "phrase": "increasingly inflammatory rhetoric",
+            "count": 1
+        },
+        {
+            "phrase": "provocations from the anarchists",
+            "count": 1
+        }
+    ]
+}

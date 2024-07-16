@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:47",
+            "04:28"
+        ],
+        "label": "officer"
+    },
+    "clusterList": [
+        {
+            "phrase": "officer it was the strangest thing",
+            "count": 1
+        },
+        {
+            "phrase": "don't remember anything strange officer sorry",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't recognize them as any officers i worked with",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:43"
+        ],
+        "label": "easy"
+    },
+    "clusterList": [
+        {
+            "phrase": "easy in easy out",
+            "count": 1
+        },
+        {
+            "phrase": "easy for you to say",
+            "count": 1
+        }
+    ]
+}

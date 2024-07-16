@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:51",
+            "01:25",
+            "01:57",
+            "04:13"
+        ],
+        "label": "transformation"
+    },
+    "clusterList": [
+        {
+            "phrase": "transformation of the imperialist war into civil war",
+            "count": 1
+        },
+        {
+            "phrase": "a nation of great history and civilisation",
+            "count": 1
+        },
+        {
+            "phrase": "today's echoes of civil wars in ancient rome",
+            "count": 1
+        },
+        {
+            "phrase": "war of the jessie wall",
+            "count": 1
+        },
+        {
+            "phrase": "this bitter and sanguinary war",
+            "count": 1
+        }
+    ]
+}

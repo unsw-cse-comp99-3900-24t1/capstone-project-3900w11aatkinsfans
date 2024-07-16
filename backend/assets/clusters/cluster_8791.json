@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:30"
+        ],
+        "label": "killing"
+    },
+    "clusterList": [
+        {
+            "phrase": "killing two birds with one stone",
+            "count": 1
+        },
+        {
+            "phrase": "kill 15 turkeys in three minutes",
+            "count": 1
+        }
+    ]
+}

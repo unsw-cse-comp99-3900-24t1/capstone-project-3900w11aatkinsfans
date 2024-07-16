@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "02:18"
+        ],
+        "label": "explorer"
+    },
+    "clusterList": [
+        {
+            "phrase": "explorer exe filename shell",
+            "count": 1
+        },
+        {
+            "phrase": "explorerps x window system version 7",
+            "count": 1
+        }
+    ]
+}

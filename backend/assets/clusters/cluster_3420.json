@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:18",
+            "03:34",
+            "04:08",
+            "04:45"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am not averse to making cuts",
+            "count": 4
+        },
+        {
+            "phrase": "oh i cut myself i should really be more careful with scissors",
+            "count": 1
+        },
+        {
+            "phrase": "going to make these cuts as soon as they need to be made",
+            "count": 1
+        }
+    ]
+}

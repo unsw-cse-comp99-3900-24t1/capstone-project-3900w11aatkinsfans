@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "04:55"
+        ],
+        "label": "panera"
+    },
+    "clusterList": [
+        {
+            "phrase": "panera bread understands the importance of supporting the communities it serves",
+            "count": 1
+        },
+        {
+            "phrase": "local organic produce healthy local food vegan and vegetarian selections green home materials and education massage fine art sustainable and functional crafts educational speakers live local music handmade clothes and kid's educational activities",
+            "count": 1
+        }
+    ]
+}

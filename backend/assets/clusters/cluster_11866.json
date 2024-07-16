@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:13"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you see the light start to flash you shouldn't cross",
+            "count": 1
+        },
+        {
+            "phrase": "cross the tiber",
+            "count": 1
+        }
+    ]
+}

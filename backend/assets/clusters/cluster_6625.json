@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:25",
+            "01:29"
+        ],
+        "label": "putting"
+    },
+    "clusterList": [
+        {
+            "phrase": "putting probationers right next to a school is like putting a rehab center next to a liquor store",
+            "count": 1
+        },
+        {
+            "phrase": "probation in the last 25 years has changed from putting people back in jail as parole violators right away to trying to help them with their problems our goal is to keep them out of jail if possible for misdemeanors",
+            "count": 1
+        },
+        {
+            "phrase": "post during the probationary period",
+            "count": 1
+        }
+    ]
+}

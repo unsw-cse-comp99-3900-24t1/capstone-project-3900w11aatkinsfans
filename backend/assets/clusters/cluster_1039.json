@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "00:23",
+            "00:27",
+            "00:39",
+            "00:42",
+            "01:38",
+            "01:41",
+            "02:57",
+            "03:51",
+            "04:04",
+            "04:28",
+            "04:46"
+        ],
+        "label": "australia"
+    },
+    "clusterList": [
+        {
+            "phrase": "the poorest countries and most vulnerable citizens will suffer the most damaging setbacks even though they have contributed least to the problem",
+            "count": 3
+        },
+        {
+            "phrase": "big event with global consequences",
+            "count": 2
+        },
+        {
+            "phrase": "the shock doctrine the rise of disaster capitalism",
+            "count": 2
+        },
+        {
+            "phrase": "australia faces worse crisis than america",
+            "count": 1
+        },
+        {
+            "phrase": "another catastrophe befalls the country",
+            "count": 1
+        },
+        {
+            "phrase": "upon the earth distress of nations with perplexity",
+            "count": 1
+        },
+        {
+            "phrase": "this is a very painful failure and a real setback for the global economy when we really needed some good news",
+            "count": 1
+        },
+        {
+            "phrase": "under no conditions should we minimize these developments which could have such tragic ends",
+            "count": 1
+        },
+        {
+            "phrase": "the crisis is as undeniable as it is dangerous",
+            "count": 1
+        },
+        {
+            "phrase": "near catastrophic event",
+            "count": 1
+        }
+    ]
+}

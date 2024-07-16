@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:02",
+            "00:08",
+            "00:09",
+            "00:12",
+            "00:27",
+            "01:06",
+            "01:30",
+            "01:33",
+            "02:13",
+            "02:28",
+            "03:14",
+            "03:34",
+            "04:15",
+            "04:17",
+            "04:23",
+            "04:28",
+            "04:29",
+            "04:32",
+            "04:54"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the microsoft negotiations were just the latest example of the negligence by this board",
+            "count": 15
+        },
+        {
+            "phrase": "microsoft has an open intellectual property licensing policy but in situations such as this in which a reasonable licensing agreement cannot be reached despite our best efforts we have no choice but to pursue legal action to protect our innovations",
+            "count": 4
+        },
+        {
+            "phrase": "primax's practice of using our innovations without taking a patent license is unfair to the many companies that have already licensed our technology so we are taking action to protect both our partners and our innovations",
+            "count": 3
+        },
+        {
+            "phrase": "microsoft has filed an action today with the itc international trade commission after making repeated attempts during the past several years to engage in meaningful licensing discussions with primax",
+            "count": 1
+        },
+        {
+            "phrase": "we are pleased with the court's decision and believe it will clear the path for interdigital to proceed in the action involving nokia before the u s international trade commission",
+            "count": 1
+        },
+        {
+            "phrase": "the microsoft negotiations were just the latest example of the negligence by this board said eric jackson a yahoo shareholder who plans to confront yang during friday's meeting",
+            "count": 1
+        },
+        {
+            "phrase": "this decision combined with the positive decision from the second circuit regarding nokia reported earlier today and what we believe was a very successful evidentiary hearing before the u s international trade commission regarding samsung's infringement of interdigital's 3g patents earlier this month continue to provide the appropriate incentives to all parties to find an amicable resolution to the current patent licensing disputes",
+            "count": 1
+        }
+    ]
+}

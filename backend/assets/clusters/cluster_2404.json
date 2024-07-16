@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:24",
+            "00:49",
+            "01:04",
+            "01:47",
+            "02:16",
+            "04:40"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if an owner wants to service his car in that way it is his choice i'm not surprised thankfully the age of excess in some areas continues",
+            "count": 2
+        },
+        {
+            "phrase": "lease prices are going to go up if you see lease prices advertised for really cheap payments i would look at leasing one of those cars right now before they realize that they've priced them way too low",
+            "count": 1
+        },
+        {
+            "phrase": "if an owner wants to service his car in that way it is his choice i'm not surprised thankfully an age of excess in some areas continues",
+            "count": 1
+        },
+        {
+            "phrase": "it's a declining revenue source as people cut down on their driving",
+            "count": 1
+        },
+        {
+            "phrase": "it didn't make sense to sell a car that couldn't go 90 miles on a charge you'd spend more time charging the old evs than driving them",
+            "count": 1
+        },
+        {
+            "phrase": "riding the bus has always been a good deal but given how gas prices have soared recently it's a better bargain than ever",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "04:32",
+            "04:56"
+        ],
+        "label": "excellent"
+    },
+    "clusterList": [
+        {
+            "phrase": "excellent would highly recommend",
+            "count": 1
+        },
+        {
+            "phrase": "is that good or bad",
+            "count": 1
+        },
+        {
+            "phrase": "it is a bit slow but not too bad",
+            "count": 1
+        }
+    ]
+}

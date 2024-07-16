@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:40",
+            "00:56"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people from all over the world come to play in the nba this is a chance to really impact this situation",
+            "count": 1
+        },
+        {
+            "phrase": "some nba fans might be a little worried that if the league continues to lose players to europe then the quality might dip a little bit",
+            "count": 1
+        }
+    ]
+}

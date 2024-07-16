@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "04:20"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the party's one-sided approach to the human fertilisation and embryology bill",
+            "count": 1
+        },
+        {
+            "phrase": "a basic human right to determine freely and responsibly the number and timing of one's children",
+            "count": 1
+        }
+    ]
+}

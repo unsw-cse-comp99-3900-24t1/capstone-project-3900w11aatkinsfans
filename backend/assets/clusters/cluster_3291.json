@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:07",
+            "01:01",
+            "02:27",
+            "02:28",
+            "02:40"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she has failed the rakyat she has proven she is unfit to serve the people",
+            "count": 1
+        },
+        {
+            "phrase": "yeah her communication skills were alright",
+            "count": 1
+        },
+        {
+            "phrase": "she got the job because she blitzed her screen test i had no idea she was so good she was brilliant",
+            "count": 1
+        },
+        {
+            "phrase": "her swims at trials were good but not great",
+            "count": 1
+        },
+        {
+            "phrase": "she got the job because she blitzed her screen test i mean i had no idea she was so good",
+            "count": 1
+        },
+        {
+            "phrase": "she didn't make many errors and served really well",
+            "count": 1
+        }
+    ]
+}

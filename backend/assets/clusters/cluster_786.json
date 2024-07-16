@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            7,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:32",
+            "01:47",
+            "02:46",
+            "02:50",
+            "03:05",
+            "03:09",
+            "04:37"
+        ],
+        "label": "dirty"
+    },
+    "clusterList": [
+        {
+            "phrase": "las vegas of gay marriage",
+            "count": 13
+        },
+        {
+            "phrase": "sexless in the city",
+            "count": 2
+        },
+        {
+            "phrase": "dirty new yorker",
+            "count": 1
+        },
+        {
+            "phrase": "sex and murder",
+            "count": 1
+        }
+    ]
+}

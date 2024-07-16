@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "01:30",
+            "01:41",
+            "01:47",
+            "02:46",
+            "03:05",
+            "03:51",
+            "04:29"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not making choices based upon being different but making choices based upon what's good for your game",
+            "count": 4
+        },
+        {
+            "phrase": "if you think you can do a thing or you think you can't do a thing you're always right",
+            "count": 2
+        },
+        {
+            "phrase": "i haven't told a lot of people about what i'm doing simply because i just think it's what you do",
+            "count": 1
+        },
+        {
+            "phrase": "whatever i do is going to be wrong or lacking so i might as just pick one way to be wrong and just do it or i can choose to do nothing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:56",
+            "01:37",
+            "01:45",
+            "02:11",
+            "02:15",
+            "02:46",
+            "02:47",
+            "02:51",
+            "03:00",
+            "03:34",
+            "04:18",
+            "04:46",
+            "05:00"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "please see the fund's prospectus for information regarding fee waivers reimbursements and expense caps that may be in effect",
+            "count": 5
+        },
+        {
+            "phrase": "but i never find any notes about expense caps on those in the prospectus",
+            "count": 5
+        },
+        {
+            "phrase": "i would like to request that epa either re-program 5 million out of existing funds or earmark the amount from an appropriate account",
+            "count": 5
+        },
+        {
+            "phrase": "these funds are un-transparent",
+            "count": 1
+        },
+        {
+            "phrase": "when you receive restricted funds that is the only way you can use the money",
+            "count": 1
+        },
+        {
+            "phrase": "it had placed the mirvac aqua high income fund mirvac aqua enhanced income fund and the mirvac aqua income fund as on hold following notification yesterday from mirvac aqua that it had suspended processing of application and redemptions relating to each of the funds for a period of six months effective july 25 2008 in line with the constitution the product disclosure statement has been withdrawn from the market effective today",
+            "count": 1
+        },
+        {
+            "phrase": "we're not saying that we want to cut the general fund transfer",
+            "count": 1
+        }
+    ]
+}

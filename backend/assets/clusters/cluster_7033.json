@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "03:55",
+            "04:03"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the elixir of medici",
+            "count": 1
+        },
+        {
+            "phrase": "the english patient",
+            "count": 1
+        },
+        {
+            "phrase": "taking our medicine",
+            "count": 1
+        }
+    ]
+}

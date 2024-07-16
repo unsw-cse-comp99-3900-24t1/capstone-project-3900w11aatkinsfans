@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:42",
+            "04:19",
+            "04:38",
+            "04:50",
+            "04:59"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is from its catholic identity that the school derives its original characteristics and its",
+            "count": 2
+        },
+        {
+            "phrase": "classical lutheran education",
+            "count": 1
+        },
+        {
+            "phrase": "the reason this is important is no candidate this year and few candidates historically have perfectly lined up with catholic social teaching",
+            "count": 1
+        },
+        {
+            "phrase": "catholic schools as well as welfare and charitable institutions but insists that",
+            "count": 1
+        },
+        {
+            "phrase": "our whole school for christ",
+            "count": 1
+        },
+        {
+            "phrase": "the girls went to holy angels academy the boys went to holy cross if you weren't catholic you went to nicholls",
+            "count": 1
+        }
+    ]
+}

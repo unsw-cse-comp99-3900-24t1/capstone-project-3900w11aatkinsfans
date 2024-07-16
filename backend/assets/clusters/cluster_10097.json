@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "04:29"
+        ],
+        "label": "read"
+    },
+    "clusterList": [
+        {
+            "phrase": "read the rest of this entry",
+            "count": 1
+        },
+        {
+            "phrase": "just read the last entry",
+            "count": 1
+        }
+    ]
+}

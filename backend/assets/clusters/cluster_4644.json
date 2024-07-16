@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "00:34"
+        ],
+        "label": "unknown"
+    },
+    "clusterList": [
+        {
+            "phrase": "unknown event opcode",
+            "count": 3
+        },
+        {
+            "phrase": "unknown event opcode 8",
+            "count": 1
+        }
+    ]
+}

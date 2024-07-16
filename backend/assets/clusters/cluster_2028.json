@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:13",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:17",
+            "03:17",
+            "03:50",
+            "05:00"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "this fella scares me",
+            "count": 3
+        },
+        {
+            "phrase": "you scared me i thought you were going to keel over",
+            "count": 2
+        },
+        {
+            "phrase": "are you scared you fucking rat cock",
+            "count": 1
+        },
+        {
+            "phrase": "fear not it is i",
+            "count": 1
+        },
+        {
+            "phrase": "no i am sorry i wasn't able to protect you from your fears",
+            "count": 1
+        },
+        {
+            "phrase": "you scared me",
+            "count": 1
+        }
+    ]
+}

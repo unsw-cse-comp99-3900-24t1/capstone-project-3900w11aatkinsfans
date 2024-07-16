@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the trophy's 12 feet high and it's glorious i've seen it oh yeah and when we win the game that big gun's gonna shoot off",
+            "count": 3
+        },
+        {
+            "phrase": "the trophy's 12 feet high and it's glorious i've seen it",
+            "count": 3
+        }
+    ]
+}

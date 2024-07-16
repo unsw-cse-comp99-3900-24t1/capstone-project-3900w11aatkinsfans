@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "alright"
+    },
+    "clusterList": [
+        {
+            "phrase": "alright dukes dukes where are you from",
+            "count": 3
+        },
+        {
+            "phrase": "dukes is homegrown i think you're on a little somethin that's homegrown maybe huh",
+            "count": 3
+        },
+        {
+            "phrase": "we're havin fun dukes what do you do far a livin",
+            "count": 3
+        }
+    ]
+}

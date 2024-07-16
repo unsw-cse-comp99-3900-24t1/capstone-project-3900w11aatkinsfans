@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:15",
+            "00:42",
+            "01:10",
+            "01:23",
+            "02:05",
+            "02:43",
+            "03:23",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't see how the leadership can adjourn when the folks back home are looking to us to help them with their gas prices and grocery prices they are struggling to meet their family's needs and congress should be helping them",
+            "count": 7
+        },
+        {
+            "phrase": "i want to thank my friends chairman miller and congresswoman delauro for all of their work on this issue",
+            "count": 1
+        },
+        {
+            "phrase": "this decision should send a clear signal to the that it must cooperate fully with congress and that former administration officials and karl rove must testify before congress",
+            "count": 1
+        }
+    ]
+}

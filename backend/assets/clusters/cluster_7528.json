@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:09",
+            "04:12",
+            "04:36"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it shows you what can happen if people actually do something themselves",
+            "count": 2
+        },
+        {
+            "phrase": "it showcases what people are doing and why they are doing it",
+            "count": 1
+        }
+    ]
+}

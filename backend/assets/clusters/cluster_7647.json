@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "04:19",
+            "04:28"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but it seems to me they're not off the mark at all and compared to the hate speech so easily and routinely heard on clearchannel programs the columnist's comments are pretty mild",
+            "count": 1
+        },
+        {
+            "phrase": "there are some that think being conservative is being anti-government i don't think that could be further from the truth",
+            "count": 1
+        },
+        {
+            "phrase": "i never meant to say that the conservatives are generally stupid i meant to say that conservatives are generally stupid",
+            "count": 1
+        }
+    ]
+}

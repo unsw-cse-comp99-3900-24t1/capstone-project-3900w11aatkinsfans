@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:24",
+            "01:30",
+            "01:42",
+            "01:58",
+            "02:00",
+            "03:39",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the government has known about this for a very long time but has just refused to face up to it",
+            "count": 2
+        },
+        {
+            "phrase": "i wouldn't be surprised if more states enact laws much like california's new law",
+            "count": 2
+        },
+        {
+            "phrase": "but i would be somewhat skeptical that they can do that without some effect on the counties",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know of any state that has gone to this extent",
+            "count": 1
+        },
+        {
+            "phrase": "they can do this to any state",
+            "count": 1
+        },
+        {
+            "phrase": "very few states have done anything like this",
+            "count": 1
+        }
+    ]
+}

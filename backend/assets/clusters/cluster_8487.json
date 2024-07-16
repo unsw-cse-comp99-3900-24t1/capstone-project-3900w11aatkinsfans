@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:10"
+        ],
+        "label": "imagination"
+    },
+    "clusterList": [
+        {
+            "phrase": "imagination is more important than knowledge",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:28",
+            "02:28"
+        ],
+        "label": "internet"
+    },
+    "clusterList": [
+        {
+            "phrase": "internet connection test failed the proxy server that you use to connect to the internet requires a username and password",
+            "count": 1
+        },
+        {
+            "phrase": "brad what's the address of your proxy server",
+            "count": 1
+        },
+        {
+            "phrase": "uh brad i just loaded google through your webproxy it would seem that your proxy server is open to the whole internet",
+            "count": 1
+        }
+    ]
+}

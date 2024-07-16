@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:12",
+            "00:53",
+            "01:09",
+            "01:20",
+            "02:01",
+            "02:10",
+            "03:18",
+            "03:26",
+            "04:05",
+            "04:06"
+        ],
+        "label": "been"
+    },
+    "clusterList": [
+        {
+            "phrase": "but during the season i wasn't sick at all",
+            "count": 2
+        },
+        {
+            "phrase": "you got up early in the morning and cleaned house and there was a doctor and his wife",
+            "count": 2
+        },
+        {
+            "phrase": "i got sick after i saw the head thing",
+            "count": 2
+        },
+        {
+            "phrase": "been horrible all day long",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't sleep well at all last night i kept tossing and turning my mind was full of unpleasant dreams",
+            "count": 1
+        },
+        {
+            "phrase": "did you take more medicine go back to sleep",
+            "count": 1
+        },
+        {
+            "phrase": "gawd i'm not fine i saw somethin last night and i can't take it",
+            "count": 1
+        },
+        {
+            "phrase": "i was up early",
+            "count": 1
+        }
+    ]
+}

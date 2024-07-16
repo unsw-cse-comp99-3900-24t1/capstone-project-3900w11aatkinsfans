@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:41",
+            "05:00"
+        ],
+        "label": "tracy"
+    },
+    "clusterList": [
+        {
+            "phrase": "tracy the plastics",
+            "count": 1
+        },
+        {
+            "phrase": "jack this is leslie",
+            "count": 1
+        },
+        {
+            "phrase": "jack this is tracy",
+            "count": 1
+        }
+    ]
+}

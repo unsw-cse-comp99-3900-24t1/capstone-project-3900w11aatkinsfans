@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:54",
+            "04:08",
+            "04:50",
+            "05:04"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "the threshold for inclusion in wikipedia is",
+            "count": 3
+        },
+        {
+            "phrase": "because anything anything can be put on wikipedia",
+            "count": 1
+        }
+    ]
+}

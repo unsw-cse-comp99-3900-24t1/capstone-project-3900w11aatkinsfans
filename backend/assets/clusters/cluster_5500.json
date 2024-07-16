@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "01:40",
+            "02:26",
+            "04:24"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe that's a way of killing them",
+            "count": 2
+        },
+        {
+            "phrase": "get away from them captured sticks and come here",
+            "count": 1
+        },
+        {
+            "phrase": "don't kill them capture them",
+            "count": 1
+        }
+    ]
+}

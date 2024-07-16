@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:30"
+        ],
+        "label": "delicious"
+    },
+    "clusterList": [
+        {
+            "phrase": "delicious is social bookmarking all your bookmarks in one place bookmark things for yourself and friends check out what other people are bookmarking",
+            "count": 1
+        },
+        {
+            "phrase": "www delicious com",
+            "count": 1
+        }
+    ]
+}

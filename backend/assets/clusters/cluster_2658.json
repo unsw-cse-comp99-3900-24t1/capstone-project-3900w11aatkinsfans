@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:33",
+            "03:18",
+            "03:23",
+            "04:05",
+            "04:47"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "totally replaced my left nut",
+            "count": 3
+        },
+        {
+            "phrase": "i wasn't using my left hand as much as i could have",
+            "count": 1
+        },
+        {
+            "phrase": "my left hand i didn't realize how much i used it until the second day after i broke it",
+            "count": 1
+        },
+        {
+            "phrase": "don't worry it's only your right arm you lost you still have your left one",
+            "count": 1
+        },
+        {
+            "phrase": "do not worry about your arm my raven i shall heal it for you",
+            "count": 1
+        }
+    ]
+}

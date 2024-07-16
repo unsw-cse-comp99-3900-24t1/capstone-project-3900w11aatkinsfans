@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:28",
+            "03:56",
+            "05:01"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you take the internet away now economies would collapse countries would fail",
+            "count": 1
+        },
+        {
+            "phrase": "we've got around a billion people in the world using pcs right now",
+            "count": 1
+        },
+        {
+            "phrase": "iphone is obviously significant but it's not going to take over the world there's not going to be a billion iphones going out there in china and india and all that the other carriers and the other platforms are still important when you look at the numbers there there could wind up being more people playing games on the mobile phone platforms than on all the other platforms put together when you do wind up finding a good commercial infrastructure and hand-me-down hardware going into massive markets like china and india so we still care about a lot of things there",
+            "count": 1
+        },
+        {
+            "phrase": "in austria they are saying that mobile broadband will pass fixed broadband this year it's already growing faster and in sweden the most popular phone is a usb modem",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:15",
+            "02:14",
+            "02:31",
+            "03:41",
+            "04:35",
+            "04:51",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the venue hypothesis suggests that even when the price approaches zero all other things being equal people are more likely to act habitually say using the pirate bay than to break their habit say visiting www inrainbows com",
+            "count": 3
+        },
+        {
+            "phrase": "the pirate bay is a powerful brand with a sterling reputation in the minds of millions of young music fans",
+            "count": 3
+        },
+        {
+            "phrase": "frequently music industry professionals suggest that an increase in legitimate sales must necessarily coincide with a commensurate reduction in piracy as if this were a fact",
+            "count": 3
+        },
+        {
+            "phrase": "tackling online piracy is essential to the industry's fortunes",
+            "count": 3
+        },
+        {
+            "phrase": "the music industry has come to believe that their industry will be smaller",
+            "count": 1
+        },
+        {
+            "phrase": "profit from massive copyright infringement",
+            "count": 1
+        }
+    ]
+}

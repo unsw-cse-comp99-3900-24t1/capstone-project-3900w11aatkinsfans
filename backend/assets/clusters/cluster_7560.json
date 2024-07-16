@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "03:17",
+            "04:15"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we took a blow to the belly and kept on going forward",
+            "count": 1
+        },
+        {
+            "phrase": "our hands were tied we couldn't do anything until that happened",
+            "count": 1
+        },
+        {
+            "phrase": "we kept pecking away then when we won and i thought this could turn us around",
+            "count": 1
+        }
+    ]
+}

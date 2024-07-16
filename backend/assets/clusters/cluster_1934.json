@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            6
+        ],
+        "xLabels": [
+            "00:46",
+            "01:42",
+            "01:47",
+            "02:56"
+        ],
+        "label": "clinton"
+    },
+    "clusterList": [
+        {
+            "phrase": "if your candidate is going to stage enormous rallies in front of tens of thousands of chanting germans with monuments to prussian military might in the background in the middle of his presidential campaign it isn't the gop's fault if the footage comes out looking a little like hitler at nuremberg",
+            "count": 2
+        },
+        {
+            "phrase": "here's a tip for liberals if your candidate is going to stage enormous rallies in front of tens of thousands of chanting germans with monuments to prussian military might in the background in the middle of his presidential campaign it isn't the gop's fault if the footage comes out looking a little like hitler at nuremberg",
+            "count": 2
+        },
+        {
+            "phrase": "it isn't the gop's fault if the footage comes out looking a little like hitler at nuremberg",
+            "count": 2
+        },
+        {
+            "phrase": "clinton supporters are still shaking their heads in disbelief when recalling the several occasions when the obama campaign or its supporters accused bill and or hillary clinton of racism",
+            "count": 1
+        },
+        {
+            "phrase": "portray barack obama as unpatriotic john mccain and his surrogates are accusing him in a tv commercial and elsewhere of canceling a visit to wounded troops at the landstuhl regional medical center a military hospital in germany because he was not allowed to take reporters and camera crews with him",
+            "count": 1
+        },
+        {
+            "phrase": "but it is the gop who used the footage in an ad attacking obama's popularity and if you're conceding that the images are redolent of a nazi rally you're admitting that perlstein's right",
+            "count": 1
+        }
+    ]
+}

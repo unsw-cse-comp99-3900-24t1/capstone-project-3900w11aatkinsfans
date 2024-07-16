@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:01",
+            "04:04",
+            "04:15",
+            "04:28",
+            "04:41"
+        ],
+        "label": "better"
+    },
+    "clusterList": [
+        {
+            "phrase": "any kind of comparison",
+            "count": 4
+        },
+        {
+            "phrase": "better than ever",
+            "count": 2
+        },
+        {
+            "phrase": "better than some worse than others",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:10"
+        ],
+        "label": "elvis"
+    },
+    "clusterList": [
+        {
+            "phrase": "elvis is alive bea bere in cuba",
+            "count": 1
+        },
+        {
+            "phrase": "elvis died when he went in the army",
+            "count": 1
+        }
+    ]
+}

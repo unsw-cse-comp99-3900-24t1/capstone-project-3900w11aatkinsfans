@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:36",
+            "04:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the sound of madness",
+            "count": 2
+        },
+        {
+            "phrase": "at the mountains of madness",
+            "count": 1
+        }
+    ]
+}

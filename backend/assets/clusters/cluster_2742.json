@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "00:27",
+            "00:53",
+            "02:36",
+            "03:04",
+            "03:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the olympiad cycle was a very simple four-year cycle and you don't need a sophisticated instrument like this to calculate it it took us by huge surprise when we saw this",
+            "count": 2
+        },
+        {
+            "phrase": "from this it is possible to construct an artificial mathematical calendar that keeps in synchronization with both the sun and the moon",
+            "count": 1
+        },
+        {
+            "phrase": "it really surprised us to discover that it also showed the four-year cycle of ancient greek games including the olympic games",
+            "count": 1
+        },
+        {
+            "phrase": "astrolabe quadrants are among the most sophisticated calculation tools ever made before the invention of the modern computer",
+            "count": 1
+        },
+        {
+            "phrase": "we knew that this 2 100 year-old ancient greek mechanism calculated complex cycles of mathematical astronomy it really surprised us to discover that it also showed the four-year cycle of ancient greek games",
+            "count": 1
+        },
+        {
+            "phrase": "it tells us of a revolution in human thought in ancient greece the earliest known example of a machine for making calculations of a machine for predicting the future",
+            "count": 1
+        }
+    ]
+}

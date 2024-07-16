@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            2
+        ],
+        "xLabels": [
+            "01:00",
+            "02:57"
+        ],
+        "label": "sinestro"
+    },
+    "clusterList": [
+        {
+            "phrase": "sinestro corps war",
+            "count": 3
+        },
+        {
+            "phrase": "the holy battle",
+            "count": 2
+        },
+        {
+            "phrase": "green lantern the sinestro corps war",
+            "count": 1
+        },
+        {
+            "phrase": "the sinestro corps war",
+            "count": 1
+        }
+    ]
+}

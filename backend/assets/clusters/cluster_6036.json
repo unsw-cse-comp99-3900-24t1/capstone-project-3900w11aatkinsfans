@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:32",
+            "02:57"
+        ],
+        "label": "snoop"
+    },
+    "clusterList": [
+        {
+            "phrase": "snoop continues to enjoy touring with 311 on the unity tour",
+            "count": 2
+        },
+        {
+            "phrase": "snoop was not arrested snoop continues to enjoy touring with 311 on the unity tour",
+            "count": 1
+        }
+    ]
+}

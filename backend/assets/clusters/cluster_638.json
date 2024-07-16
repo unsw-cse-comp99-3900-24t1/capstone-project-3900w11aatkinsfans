@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:09",
+            "00:10",
+            "00:27",
+            "00:52",
+            "01:30",
+            "02:15",
+            "02:24",
+            "03:23",
+            "03:51",
+            "03:56",
+            "04:04",
+            "04:15",
+            "05:05"
+        ],
+        "label": "act"
+    },
+    "clusterList": [
+        {
+            "phrase": "act appropriately when necessary",
+            "count": 5
+        },
+        {
+            "phrase": "the right thing to do",
+            "count": 3
+        },
+        {
+            "phrase": "a statement of responsibility",
+            "count": 2
+        },
+        {
+            "phrase": "a proper and responsible decision made at the right time",
+            "count": 1
+        },
+        {
+            "phrase": "what is right",
+            "count": 1
+        },
+        {
+            "phrase": "right and obligation",
+            "count": 1
+        },
+        {
+            "phrase": "the right to life to bodily integrity and to the necessary means of existence the right to pursue one's ultimate goal in the path marked out for him by god the right of association and the right to possess and use property",
+            "count": 1
+        },
+        {
+            "phrase": "rights of children and responsibilities of parents",
+            "count": 1
+        },
+        {
+            "phrase": "equality of rights",
+            "count": 1
+        },
+        {
+            "phrase": "a theory of the moral rightness of actions",
+            "count": 1
+        },
+        {
+            "phrase": "a basic human right",
+            "count": 1
+        },
+        {
+            "phrase": "all about taking personal responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "legal and moral obligation",
+            "count": 1
+        }
+    ]
+}

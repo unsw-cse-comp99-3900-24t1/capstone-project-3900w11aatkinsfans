@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:25",
+            "00:48",
+            "01:10",
+            "01:52",
+            "03:18",
+            "04:37",
+            "04:50",
+            "04:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "i liked the food for the soul probably the best",
+            "count": 2
+        },
+        {
+            "phrase": "the food's very good",
+            "count": 1
+        },
+        {
+            "phrase": "their hamburgers are good too",
+            "count": 1
+        },
+        {
+            "phrase": "what's important are the flavours it doesn't matter where a person is from if you use the best products good food is good food regardless",
+            "count": 1
+        },
+        {
+            "phrase": "great food is like great sex the more you have the more you want",
+            "count": 1
+        },
+        {
+            "phrase": "have you eaten there",
+            "count": 1
+        },
+        {
+            "phrase": "for me the most important thing is the freshness and the flavour of the food we generally don't mess with it too much letting it stand on its own so it will work in combination with other things",
+            "count": 1
+        },
+        {
+            "phrase": "yeah very very good pizza you should have some",
+            "count": 1
+        },
+        {
+            "phrase": "i had many a good meal there they were kind and generous",
+            "count": 1
+        }
+    ]
+}

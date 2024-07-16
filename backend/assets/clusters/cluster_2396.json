@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "00:16",
+            "02:00",
+            "03:59"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as we continue to refine our search algorithms to deliver more relevant results we strive to be as open as possible about how we use data to improve your search experience",
+            "count": 3
+        },
+        {
+            "phrase": "this new feature doesn't change anything at all about how you search on google and the results you get it just gives you more of a behind-the-scenes look at how we customize your search experience",
+            "count": 3
+        },
+        {
+            "phrase": "it's a daunting number and great technical achievement but it's not a game changer for your typical searcher instead they need to focus much more on the quality of their results both from a relevancy and freshness perspective this is the only way to win users attention and ultimately their loyalty",
+            "count": 1
+        }
+    ]
+}

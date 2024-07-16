@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5,
+            8,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:19",
+            "03:41",
+            "04:31"
+        ],
+        "label": "while"
+    },
+    "clusterList": [
+        {
+            "phrase": "mccrea said he found big joe within half an hour of the attack but it took another 2 hours to kill and land the big reptile cut it open and retrieve the arm",
+            "count": 13
+        },
+        {
+            "phrase": "while we were waiting on the side of the road the attacker was taunting the police with the head in his hand",
+            "count": 1
+        },
+        {
+            "phrase": "robby manages to get the knife in the fight that continues the victim is stabbed multiple times by robby",
+            "count": 1
+        }
+    ]
+}

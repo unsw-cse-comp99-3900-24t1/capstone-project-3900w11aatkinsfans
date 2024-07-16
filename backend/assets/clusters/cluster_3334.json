@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:25",
+            "02:14",
+            "02:51",
+            "03:08"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have been able to provide insight into some things we might have missed had i not been in on those discussions",
+            "count": 1
+        },
+        {
+            "phrase": "i checked in with theo a couple of days ago and we did talk about some things",
+            "count": 1
+        },
+        {
+            "phrase": "boy i hope i remember all these things we're discussing",
+            "count": 1
+        },
+        {
+            "phrase": "we did talk to them a little bit about that",
+            "count": 1
+        },
+        {
+            "phrase": "we talked this morning",
+            "count": 1
+        },
+        {
+            "phrase": "i think we've talked about everything",
+            "count": 1
+        }
+    ]
+}

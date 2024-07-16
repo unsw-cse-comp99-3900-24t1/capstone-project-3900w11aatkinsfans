@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:08",
+            "02:13",
+            "02:24",
+            "03:22",
+            "03:35",
+            "03:43",
+            "03:45",
+            "04:03",
+            "04:13",
+            "04:50",
+            "05:05"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "is a violation of u k law as well as of the bi-lateral agreement governing the island",
+            "count": 8
+        },
+        {
+            "phrase": "the uk did not believe it was right to consider such an issue as part of unamid's mandate",
+            "count": 3
+        },
+        {
+            "phrase": "it must be recognised however that any sanctions for a failure to comply with the agreed terms of mediation would be drawn from the laws of england and wales",
+            "count": 2
+        }
+    ]
+}

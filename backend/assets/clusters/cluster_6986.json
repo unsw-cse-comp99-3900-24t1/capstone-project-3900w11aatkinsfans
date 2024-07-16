@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:22",
+            "03:18"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's absolutely nothing about me on there",
+            "count": 1
+        },
+        {
+            "phrase": "not about me at all",
+            "count": 1
+        },
+        {
+            "phrase": "but what about you",
+            "count": 1
+        }
+    ]
+}

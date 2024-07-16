@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:28",
+            "02:06",
+            "02:11",
+            "03:01",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the gang dances their assess off",
+            "count": 2
+        },
+        {
+            "phrase": "the golden girls",
+            "count": 1
+        },
+        {
+            "phrase": "the gang's all here",
+            "count": 1
+        },
+        {
+            "phrase": "the bad guys",
+            "count": 1
+        },
+        {
+            "phrase": "the white stripes",
+            "count": 1
+        },
+        {
+            "phrase": "the pussycat dolls",
+            "count": 1
+        }
+    ]
+}

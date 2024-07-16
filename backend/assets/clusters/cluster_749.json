@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:48",
+            "00:56",
+            "00:57",
+            "01:07",
+            "01:20",
+            "01:47",
+            "02:02",
+            "02:09",
+            "02:18",
+            "02:39",
+            "02:56",
+            "02:57"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the closet",
+            "count": 4
+        },
+        {
+            "phrase": "in a trap",
+            "count": 4
+        },
+        {
+            "phrase": "not in my house",
+            "count": 3
+        },
+        {
+            "phrase": "to the men's room",
+            "count": 3
+        },
+        {
+            "phrase": "in a cave",
+            "count": 1
+        },
+        {
+            "phrase": "bitch in the house",
+            "count": 1
+        },
+        {
+            "phrase": "in his office",
+            "count": 1
+        },
+        {
+            "phrase": "in the fridge",
+            "count": 1
+        }
+    ]
+}

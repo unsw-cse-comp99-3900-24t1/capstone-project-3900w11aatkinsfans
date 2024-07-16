@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a fairly affluent group",
+            "count": 1
+        },
+        {
+            "phrase": "there's a huge proportion of impoverished people in wellington",
+            "count": 1
+        }
+    ]
+}

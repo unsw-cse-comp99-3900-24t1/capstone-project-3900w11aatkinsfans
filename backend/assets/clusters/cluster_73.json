@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            36,
+            33,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:13",
+            "01:52",
+            "03:01",
+            "04:58"
+        ],
+        "label": "dad"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the days leading up to and following my testimony my friends told me amazing and poetic basketball stories about their fathers sons and jump shots these were love stories",
+            "count": 69
+        },
+        {
+            "phrase": "dad coached me in junior and it was nice to have him behind the bench with me for the super series it was a good experience in terms of having him as a coach as compared to a parent at home it's obviously two different stories at the rink it's business and it's intense but i kind of knew that and expected that i think he was a great coach and mentor for me when i was 16 17 years old",
+            "count": 1
+        },
+        {
+            "phrase": "i have very fond memories of when i was my son's age of just sitting around and listening to my dad talk to other coaches talk about hockey",
+            "count": 1
+        },
+        {
+            "phrase": "my dreams were pretty big for hockey and i have to tell you most of them were fulfilled",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:47",
+            "02:28",
+            "03:10",
+            "03:51",
+            "04:13",
+            "04:21",
+            "04:31",
+            "04:33",
+            "04:38",
+            "04:46",
+            "04:55"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a bit patronizing for us 21-year-olds to try to start to change the world",
+            "count": 5
+        },
+        {
+            "phrase": "you don't appreciate it at the time but now as adults with our own families you see the value of a strong family upbringing like that",
+            "count": 3
+        },
+        {
+            "phrase": "we try to teach each generation coming to appreciate what we've done to improve it and to make it their own but frankly we're a little disappointed like most parents in their children that they haven't fully taken up our ideals",
+            "count": 1
+        },
+        {
+            "phrase": "we want to get kids to take that first step look outside the box and broaden their horizons",
+            "count": 1
+        },
+        {
+            "phrase": "it's not just something that happens to previous generations we never know what's next to unfold the new ways people are going to do things",
+            "count": 1
+        },
+        {
+            "phrase": "we pick our parents to teach us what we need to know so that in the next world we'll be better off",
+            "count": 1
+        }
+    ]
+}

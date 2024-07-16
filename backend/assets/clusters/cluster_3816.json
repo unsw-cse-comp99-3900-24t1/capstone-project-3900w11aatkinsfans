@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:14",
+            "01:04",
+            "03:42",
+            "04:33"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what they've done already is a heck of an accomplishment at this point we're just along for the ride",
+            "count": 1
+        },
+        {
+            "phrase": "now that we've done so much of the journey we realise what an amazing accomplishment it was",
+            "count": 1
+        },
+        {
+            "phrase": "we're so pleased about what we've been able to achieve we've had to come a long way in a very short time",
+            "count": 1
+        },
+        {
+            "phrase": "we've pleased with the progress we've made operationally in q2",
+            "count": 1
+        },
+        {
+            "phrase": "but with the depth we got in the whole package this is an exciting step as we move forward",
+            "count": 1
+        }
+    ]
+}

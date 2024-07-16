@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:23",
+            "02:02",
+            "05:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this dosing allows consumers to feel satisfied that they are boosting their health without being inconvenienced by spending large amounts of time planning and preparing nutritious meals",
+            "count": 1
+        },
+        {
+            "phrase": "we have stacked up health risks by increasing the volume and the frequency of processed foods",
+            "count": 1
+        },
+        {
+            "phrase": "processed meats appear to have carcinogenic properties or agents that can indeed cause cancer it's a real issue",
+            "count": 1
+        },
+        {
+            "phrase": "processed meats are safe and nutritious",
+            "count": 1
+        },
+        {
+            "phrase": "if the consumers are eating them i'd be more worried about that than the below-level endosulfan",
+            "count": 1
+        },
+        {
+            "phrase": "indicated raw tomatoes were the most commonly consumed food item reported by 84 percent of ill persons leading to the hypothesis that they were a possible source of the illnesses",
+            "count": 1
+        }
+    ]
+}

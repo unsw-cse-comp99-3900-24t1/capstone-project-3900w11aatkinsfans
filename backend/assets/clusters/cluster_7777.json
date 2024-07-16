@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "04:06"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not true i had nothing on i had the radio on",
+            "count": 1
+        },
+        {
+            "phrase": "why don't you turn on the radio",
+            "count": 1
+        }
+    ]
+}

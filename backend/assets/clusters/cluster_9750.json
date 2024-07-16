@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:23"
+        ],
+        "label": "prestigious"
+    },
+    "clusterList": [
+        {
+            "phrase": "prestigious chef's council",
+            "count": 1
+        },
+        {
+            "phrase": "iron chef america",
+            "count": 1
+        }
+    ]
+}

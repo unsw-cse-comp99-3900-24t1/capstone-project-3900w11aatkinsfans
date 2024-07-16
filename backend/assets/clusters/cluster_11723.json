@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the culture of musical theater is optimistic and joyful",
+            "count": 1
+        },
+        {
+            "phrase": "the attention we have now we didn't even aim for we just wanted to have fun onstage and try to be fresh for that we're always thankful for our fans",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:43",
+            "00:57",
+            "04:19"
+        ],
+        "label": "comprehensive"
+    },
+    "clusterList": [
+        {
+            "phrase": "comprehensive border enforcement",
+            "count": 1
+        },
+        {
+            "phrase": "stricter law enforcement",
+            "count": 1
+        },
+        {
+            "phrase": "welcome border control",
+            "count": 1
+        },
+        {
+            "phrase": "specifics of secure and smart border action plan",
+            "count": 1
+        },
+        {
+            "phrase": "running the border",
+            "count": 1
+        }
+    ]
+}

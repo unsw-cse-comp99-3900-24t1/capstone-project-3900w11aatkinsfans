@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:01",
+            "01:32",
+            "02:20"
+        ],
+        "label": "clubs"
+    },
+    "clusterList": [
+        {
+            "phrase": "radiohead sold out first and their production is just incredible",
+            "count": 2
+        },
+        {
+            "phrase": "clubs and pubs have dropped right off they are booking a lot less bands or have cancelled their program entirely",
+            "count": 1
+        },
+        {
+            "phrase": "bands are loosing money they are taking a cut to try and get bookings",
+            "count": 1
+        },
+        {
+            "phrase": "you need to go to our other spot blues etc that's where the white bands work customers come in here and expect the real deal",
+            "count": 1
+        }
+    ]
+}

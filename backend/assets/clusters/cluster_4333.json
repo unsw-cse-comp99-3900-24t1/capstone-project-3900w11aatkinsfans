@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:51",
+            "03:06",
+            "04:07",
+            "04:50"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "her actions completely undermine the credibility of her claim",
+            "count": 2
+        },
+        {
+            "phrase": "they have not brought anything forward that is factual",
+            "count": 1
+        },
+        {
+            "phrase": "rove didn't deny the central allegations against him",
+            "count": 1
+        },
+        {
+            "phrase": "none of these allegations are supported by the facts",
+            "count": 1
+        }
+    ]
+}

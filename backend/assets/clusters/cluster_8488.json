@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:25"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can't solve problems by using the same kind of thinking we used when we created them",
+            "count": 1
+        },
+        {
+            "phrase": "you have to think in abstract ways and make ordinary situations much more interesting",
+            "count": 1
+        }
+    ]
+}

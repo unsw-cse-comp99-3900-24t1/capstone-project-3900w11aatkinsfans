@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:20",
+            "03:10",
+            "03:22",
+            "04:31"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have been downsizing for a while this used to be a six-person office",
+            "count": 1
+        },
+        {
+            "phrase": "with these changes we feel that with an employee base in the 30s we are sized appropriately as a small focused organization",
+            "count": 1
+        },
+        {
+            "phrase": "home office for individuals",
+            "count": 1
+        },
+        {
+            "phrase": "we decided to start manufacturing here in 2006 we added on 22 000 square feet and so in that time from 2004 till now we've grown from 12 staff members to 41 employees",
+            "count": 1
+        },
+        {
+            "phrase": "i'm looking forward to working in the area smaller isn't bad and it's still a nice-sized department",
+            "count": 1
+        }
+    ]
+}

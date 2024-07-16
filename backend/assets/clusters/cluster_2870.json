@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "00:51",
+            "00:56",
+            "04:04",
+            "04:45"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's anxious to get going",
+            "count": 2
+        },
+        {
+            "phrase": "he was afraid of looking like an eccentric",
+            "count": 1
+        },
+        {
+            "phrase": "he lightened up a bit",
+            "count": 1
+        },
+        {
+            "phrase": "he was just dumbfounded",
+            "count": 1
+        },
+        {
+            "phrase": "he kept his composure all game",
+            "count": 1
+        }
+    ]
+}

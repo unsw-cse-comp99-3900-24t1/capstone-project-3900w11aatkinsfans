@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "03:39",
+            "03:43",
+            "04:29",
+            "05:03"
+        ],
+        "label": "operation"
+    },
+    "clusterList": [
+        {
+            "phrase": "operation scheduled departure",
+            "count": 4
+        },
+        {
+            "phrase": "a 1time aircraft departed from cape town international airport about 7 05pm on its way to oliver tambo international it returned to cape town international airport at 8pm",
+            "count": 1
+        }
+    ]
+}

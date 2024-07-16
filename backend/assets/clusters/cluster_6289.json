@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:57",
+            "02:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the content is filtered so this service is for legitimate use",
+            "count": 3
+        }
+    ]
+}

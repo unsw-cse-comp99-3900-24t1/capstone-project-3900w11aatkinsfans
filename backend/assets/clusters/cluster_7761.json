@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:24",
+            "04:15"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he said he can do it",
+            "count": 1
+        },
+        {
+            "phrase": "yep i told him it wouldn't work",
+            "count": 1
+        },
+        {
+            "phrase": "so i let him rock it by himself",
+            "count": 1
+        }
+    ]
+}

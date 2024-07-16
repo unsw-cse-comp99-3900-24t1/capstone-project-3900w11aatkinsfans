@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:53",
+            "03:18",
+            "03:34",
+            "03:42",
+            "05:05"
+        ],
+        "label": "come"
+    },
+    "clusterList": [
+        {
+            "phrase": "come on in boy",
+            "count": 1
+        },
+        {
+            "phrase": "you i don't know you you snuck in here",
+            "count": 1
+        },
+        {
+            "phrase": "come in my dear",
+            "count": 1
+        },
+        {
+            "phrase": "not while i'm in here you can't",
+            "count": 1
+        },
+        {
+            "phrase": "i know you don't can i come in",
+            "count": 1
+        },
+        {
+            "phrase": "oh just come here",
+            "count": 1
+        },
+        {
+            "phrase": "come on out with it",
+            "count": 1
+        },
+        {
+            "phrase": "i'll see you out sir now this way",
+            "count": 1
+        },
+        {
+            "phrase": "hey ginger come on in",
+            "count": 1
+        },
+        {
+            "phrase": "oh i'm right here",
+            "count": 1
+        }
+    ]
+}

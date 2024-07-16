@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:11",
+            "03:43",
+            "04:13"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "get to know us",
+            "count": 1
+        },
+        {
+            "phrase": "found us out",
+            "count": 1
+        },
+        {
+            "phrase": "getting to know",
+            "count": 1
+        }
+    ]
+}

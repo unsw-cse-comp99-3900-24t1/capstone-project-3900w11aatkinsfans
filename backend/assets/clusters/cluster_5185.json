@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:59",
+            "04:38"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all things were made by him and without him was not anything made that was made",
+            "count": 1
+        },
+        {
+            "phrase": "all things were made",
+            "count": 1
+        },
+        {
+            "phrase": "god made the world",
+            "count": 1
+        },
+        {
+            "phrase": "everything i'm not made me everything i am",
+            "count": 1
+        }
+    ]
+}

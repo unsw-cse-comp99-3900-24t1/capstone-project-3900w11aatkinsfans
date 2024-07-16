@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:32",
+            "00:46",
+            "01:02",
+            "02:00",
+            "02:57",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm a great believer in luck and i find the harder i work the more i have of it",
+            "count": 2
+        },
+        {
+            "phrase": "it isn't luck you know how i spell luck w-o-r-k you may have talent and a great idea but you need to work to make that great script",
+            "count": 1
+        },
+        {
+            "phrase": "hope and experience are nice now back it up what have you done what are your success what are your failures what did you learn",
+            "count": 1
+        },
+        {
+            "phrase": "where do i draw the line i do feel like my luck has changed overnight",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of it is luck",
+            "count": 1
+        },
+        {
+            "phrase": "but it can't be all luck",
+            "count": 1
+        }
+    ]
+}

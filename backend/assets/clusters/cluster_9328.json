@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:37"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with one person",
+            "count": 1
+        },
+        {
+            "phrase": "with or without you",
+            "count": 1
+        }
+    ]
+}

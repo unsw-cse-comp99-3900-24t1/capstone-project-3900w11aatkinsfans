@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:57",
+            "04:38"
+        ],
+        "label": "tool"
+    },
+    "clusterList": [
+        {
+            "phrase": "tool for the people",
+            "count": 1
+        },
+        {
+            "phrase": "mere tools in the",
+            "count": 1
+        },
+        {
+            "phrase": "tools are huge",
+            "count": 1
+        }
+    ]
+}

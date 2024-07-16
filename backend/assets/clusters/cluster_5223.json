@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:19",
+            "03:24"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "in principle this car is too fast for my thoughts",
+            "count": 2
+        },
+        {
+            "phrase": "no you're driving my car like a maniac it's like riding with your mother",
+            "count": 1
+        },
+        {
+            "phrase": "stop this car",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the queensland lung fish the mary river cod and the mary river turtle are in real danger of extinction the construction of this dam will i think put these species in the same category as the cassowary",
+            "count": 1
+        },
+        {
+            "phrase": "there's been no genetic information from the kimberley so they may be a separate species again",
+            "count": 1
+        }
+    ]
+}

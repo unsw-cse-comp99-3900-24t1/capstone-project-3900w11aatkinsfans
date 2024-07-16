@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:18",
+            "01:00",
+            "01:30",
+            "01:34",
+            "01:56",
+            "02:33",
+            "03:05",
+            "03:06",
+            "03:47",
+            "04:00",
+            "04:01",
+            "04:07"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't forget the lyrics",
+            "count": 4
+        },
+        {
+            "phrase": "songs of the bushmen",
+            "count": 3
+        },
+        {
+            "phrase": "the anvil chorus",
+            "count": 1
+        },
+        {
+            "phrase": "devil on my trail the complete songbook",
+            "count": 1
+        },
+        {
+            "phrase": "10 best new songwriters",
+            "count": 1
+        },
+        {
+            "phrase": "dont forget the lyrics",
+            "count": 1
+        },
+        {
+            "phrase": "uncle go by rocher lah maybe no jam",
+            "count": 1
+        },
+        {
+            "phrase": "songs of innocence",
+            "count": 1
+        },
+        {
+            "phrase": "all summer long album version",
+            "count": 1
+        }
+    ]
+}

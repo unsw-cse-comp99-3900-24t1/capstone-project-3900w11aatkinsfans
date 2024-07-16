@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:19",
+            "04:36",
+            "05:00"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is a talented indvidual but he should be ashamed of these lyrics",
+            "count": 1
+        },
+        {
+            "phrase": "he should be ashamed of these lyrics",
+            "count": 1
+        },
+        {
+            "phrase": "do we even need to write the lyrics here",
+            "count": 1
+        }
+    ]
+}

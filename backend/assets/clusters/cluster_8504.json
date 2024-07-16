@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:13"
+        ],
+        "label": "first"
+    },
+    "clusterList": [
+        {
+            "phrase": "first things first",
+            "count": 2
+        }
+    ]
+}

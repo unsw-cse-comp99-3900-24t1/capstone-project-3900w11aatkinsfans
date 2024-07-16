@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "02:24"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a pipeline that brings all the character geometry into side effects houdini once it was in houdini our effects lead brian gazdik worked on all the cracking and shattering a simulation was created on the surface of the character's face it was an interesting technique because based upon the deforming geometry the animation was driving the surface simulation the director wanted to have something that would crack and re-seal but still reveal the subtleties of the animation happening underneath so our effects people would take this deforming geometry-the animation coming from maya-and calculate stress maps to determine how much of an area of the face was moving during a particular length of time through that they would run the simulation so that we'd have areas that were fully intact only when they hit a certain threshold of stress or flex would it crack along a seam it was a physically based simulation that had artistic user input on where events would happen it was a mix of articulate hand animation and some meticulous procedural work procedural work only goes so far-there was a lot of hand tweaking",
+            "count": 1
+        }
+    ]
+}

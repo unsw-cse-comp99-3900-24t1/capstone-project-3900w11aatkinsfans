@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:52",
+            "01:06",
+            "01:45",
+            "03:39"
+        ],
+        "label": "guess"
+    },
+    "clusterList": [
+        {
+            "phrase": "guess who's coming to america",
+            "count": 1
+        },
+        {
+            "phrase": "we need to send a very strong message to people that if you're going to immigrate to america you'd better be ready to play by the rules otherwise you're not welcome",
+            "count": 1
+        },
+        {
+            "phrase": "let's get out to the country",
+            "count": 1
+        },
+        {
+            "phrase": "oh this better come to america",
+            "count": 1
+        },
+        {
+            "phrase": "no god bless america it should be god damn america",
+            "count": 1
+        }
+    ]
+}

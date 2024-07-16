@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:04",
+            "03:50",
+            "04:18"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "proposed or pending",
+            "count": 2
+        },
+        {
+            "phrase": "we look forward to meeting with the joint oversight committee to review the results of the investigation and any subsequent recommendations and we thank them once again for their support",
+            "count": 1
+        },
+        {
+            "phrase": "approved this message",
+            "count": 1
+        },
+        {
+            "phrase": "review and reconsideration",
+            "count": 1
+        }
+    ]
+}

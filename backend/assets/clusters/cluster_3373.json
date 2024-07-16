@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:05",
+            "01:10",
+            "03:34",
+            "03:55",
+            "05:00"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this has already become a habit for the beijing citizens",
+            "count": 1
+        },
+        {
+            "phrase": "in preparation for china coming on strong we want to try to keep their fruit in their own country",
+            "count": 1
+        },
+        {
+            "phrase": "help the children of china",
+            "count": 1
+        },
+        {
+            "phrase": "we need a modern china and it should respect individual rights",
+            "count": 1
+        },
+        {
+            "phrase": "as china works to clear the air in beijing it must also use its time in the spotlight to push for an end to violence in darfur and central africa",
+            "count": 1
+        },
+        {
+            "phrase": "we applaud china's attempt to clean things up we really do",
+            "count": 1
+        }
+    ]
+}

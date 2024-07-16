@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:11",
+            "03:17",
+            "04:23",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't say enough good things about the people there that i spent a lot of time with",
+            "count": 2
+        },
+        {
+            "phrase": "i haven't got a bad word to say about the place",
+            "count": 2
+        },
+        {
+            "phrase": "i have nothing but great things to say about the people i worked with in vancouver",
+            "count": 1
+        }
+    ]
+}

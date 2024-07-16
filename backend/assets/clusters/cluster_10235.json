@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:04",
+            "04:59"
+        ],
+        "label": "red"
+    },
+    "clusterList": [
+        {
+            "phrase": "red carpet club",
+            "count": 1
+        },
+        {
+            "phrase": "the heroin hotel",
+            "count": 1
+        }
+    ]
+}

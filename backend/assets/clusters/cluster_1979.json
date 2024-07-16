@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "03:39",
+            "03:52",
+            "04:24",
+            "04:31",
+            "04:37"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "senator's why won't you step up and end backdoor borrowing",
+            "count": 2
+        },
+        {
+            "phrase": "it is better to give than lend and costs about the same",
+            "count": 1
+        },
+        {
+            "phrase": "borrow and spend",
+            "count": 1
+        },
+        {
+            "phrase": "what about the borrower",
+            "count": 1
+        },
+        {
+            "phrase": "do i inform the borrower",
+            "count": 1
+        },
+        {
+            "phrase": "do we let the borrower become a bidder",
+            "count": 1
+        },
+        {
+            "phrase": "do we allow the potential buyer speak with the borrower",
+            "count": 1
+        },
+        {
+            "phrase": "the money has been loaned to him throughout all of this and he certainly does owe a great deal of debt",
+            "count": 1
+        }
+    ]
+}

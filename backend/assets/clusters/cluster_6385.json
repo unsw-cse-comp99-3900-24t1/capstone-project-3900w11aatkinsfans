@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "02:01",
+            "03:10"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an act of goodwill",
+            "count": 2
+        },
+        {
+            "phrase": "men of goodwill",
+            "count": 1
+        }
+    ]
+}

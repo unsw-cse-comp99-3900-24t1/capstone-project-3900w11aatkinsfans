@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "03:18"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will be so jealous",
+            "count": 1
+        },
+        {
+            "phrase": "it's very bad news i've been told that you are going to have all your friends mad at you",
+            "count": 1
+        },
+        {
+            "phrase": "they are going to be so jealous of you",
+            "count": 1
+        }
+    ]
+}

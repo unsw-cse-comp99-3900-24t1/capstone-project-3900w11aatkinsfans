@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:32",
+            "01:01",
+            "02:20"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've been doing the character background the victimization of jason since he was abused as a child he was always the outcast",
+            "count": 3
+        },
+        {
+            "phrase": "jason is a young man in a great deal of emotional pain",
+            "count": 1
+        }
+    ]
+}

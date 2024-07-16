@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:00",
+            "01:04",
+            "01:38",
+            "02:10",
+            "02:19",
+            "03:23",
+            "03:51",
+            "04:00",
+            "05:04"
+        ],
+        "label": "song"
+    },
+    "clusterList": [
+        {
+            "phrase": "song lyrics visual puns",
+            "count": 5
+        },
+        {
+            "phrase": "the ballad of jim jones",
+            "count": 1
+        },
+        {
+            "phrase": "do you know the story of the song",
+            "count": 1
+        },
+        {
+            "phrase": "our songs capture the spirit of traditional bluegrass",
+            "count": 1
+        },
+        {
+            "phrase": "battle hymn of the republic",
+            "count": 1
+        },
+        {
+            "phrase": "it expresses a longing an underlying sadness for something or someone that's been missing in your life and never quite sure if it will ever return in this case for us it's rock and roll saudades de rock",
+            "count": 1
+        }
+    ]
+}

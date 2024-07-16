@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:43",
+            "03:11",
+            "03:13"
+        ],
+        "label": "many"
+    },
+    "clusterList": [
+        {
+            "phrase": "many areas of witness and service in which we can stand together",
+            "count": 1
+        },
+        {
+            "phrase": "holy spirit thou art welcome in this place",
+            "count": 1
+        },
+        {
+            "phrase": "as our reputation for creation care grows so has our congregation which now attracts members from a 20-mile radius",
+            "count": 1
+        },
+        {
+            "phrase": "the service provides the opportunity for the congregation to celebrate the gifts and contributions of older adults and it is loved by the entire congregation",
+            "count": 1
+        }
+    ]
+}

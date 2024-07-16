@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "02:23",
+            "02:28",
+            "03:48"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "just short of the official declaration of a recession",
+            "count": 1
+        },
+        {
+            "phrase": "stops just short of the official declaration of a recession",
+            "count": 1
+        },
+        {
+            "phrase": "the coming collapse of the middle class",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to have a long period of stagnation well into 2009",
+            "count": 1
+        }
+    ]
+}

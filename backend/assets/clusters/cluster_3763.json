@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:51",
+            "02:01"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's had a storied career with the el salvadoran national team and mls he's going to add an element that's been missing",
+            "count": 3
+        },
+        {
+            "phrase": "he was very highly rated at the draft last year and he fell because of the russian factor",
+            "count": 1
+        },
+        {
+            "phrase": "he's coming over now to adapt to north america the rink's a different size in europe the bigger ice and the angles are different so he's going to have to get used to the angles the changes in the way shooters shoot over here there's a lot more shots over here",
+            "count": 1
+        }
+    ]
+}

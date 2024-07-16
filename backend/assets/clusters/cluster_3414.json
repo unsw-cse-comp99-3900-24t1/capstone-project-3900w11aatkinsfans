@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "04:04",
+            "04:14",
+            "04:41"
+        ],
+        "label": "countdown"
+    },
+    "clusterList": [
+        {
+            "phrase": "countdown with keith olbermann",
+            "count": 5
+        },
+        {
+            "phrase": "can you see cheney countdown w keith olbermann july 29 2008 olbywatch recap",
+            "count": 1
+        }
+    ]
+}

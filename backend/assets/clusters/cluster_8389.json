@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "02:32"
+        ],
+        "label": "make"
+    },
+    "clusterList": [
+        {
+            "phrase": "make the ad better",
+            "count": 1
+        },
+        {
+            "phrase": "algorithm to improve the fit of the ads served to the end user",
+            "count": 1
+        }
+    ]
+}

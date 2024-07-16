@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "04:29",
+            "04:32",
+            "04:37"
+        ],
+        "label": "cloud"
+    },
+    "clusterList": [
+        {
+            "phrase": "cloud computing is fundamentally about re-engineering the world's computing infrastructure to enable game-changing even life changing applications",
+            "count": 3
+        },
+        {
+            "phrase": "cloud computing is fundamentally about re-engineering the world's computing infrastructure to enable game-changing even life-changing applications",
+            "count": 2
+        }
+    ]
+}

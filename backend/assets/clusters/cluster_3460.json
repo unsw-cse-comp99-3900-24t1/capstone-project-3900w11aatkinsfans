@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:21",
+            "04:29",
+            "04:32",
+            "04:37"
+        ],
+        "label": "sun"
+    },
+    "clusterList": [
+        {
+            "phrase": "to develop high skilled human resources in it field it is necessary to create latest it environment in education place",
+            "count": 3
+        },
+        {
+            "phrase": "to develop high skilled human resources in the it field it is necessary to create the latest it environment for the education space",
+            "count": 2
+        },
+        {
+            "phrase": "sun virtual desktop solution connecting the campus",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:16",
+            "00:29",
+            "02:16",
+            "02:24",
+            "03:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we cannot say there is no benefit but we can no longer say there is a 20 to 30 lower risk of pneumonia it could more like 5 or 10",
+            "count": 1
+        },
+        {
+            "phrase": "there could still be benefits that are on the order of 5 or 10 reductions in the risk of pneumonia or pneumonia hospitalization",
+            "count": 1
+        },
+        {
+            "phrase": "if these guidelines weren't in place we'd already have many stem cell lines and be much closer to a treatment for devastating illnesses for which these are so well suited",
+            "count": 1
+        },
+        {
+            "phrase": "so that everyone can find a doctor they trust",
+            "count": 1
+        },
+        {
+            "phrase": "but there's some desire on the part of the framers of this list to not cover treatments that are futile or where the potential benefit to the patient is minimal in relation to the expense of providing the care",
+            "count": 1
+        },
+        {
+            "phrase": "prospective clinical utility",
+            "count": 1
+        }
+    ]
+}

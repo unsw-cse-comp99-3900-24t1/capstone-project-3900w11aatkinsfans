@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:29",
+            "04:13"
+        ],
+        "label": "company"
+    },
+    "clusterList": [
+        {
+            "phrase": "company news major grocery wholesaler cutting 220 jobs",
+            "count": 1
+        },
+        {
+            "phrase": "it would increase to 13 000 the number of jobs to be cut by the company as part of a shake-up launced in january",
+            "count": 1
+        },
+        {
+            "phrase": "citigroup's job cuts could reach 30 000 or more over the next year and a half because of increasing writedowns from subprime-related debt cnbc has learned",
+            "count": 1
+        },
+        {
+            "phrase": "it's going to mean anywhere between ten to twelve new jobs by the time the taxes are paid back it's probably going to increase the tax base probably another 70 000 per year plus we'll also recoup hotel motel tax off of the rooms as well",
+            "count": 1
+        },
+        {
+            "phrase": "the construction phase of the project will produce 1 000 jobs over four years and 400 permanent jobs thereafter",
+            "count": 1
+        }
+    ]
+}

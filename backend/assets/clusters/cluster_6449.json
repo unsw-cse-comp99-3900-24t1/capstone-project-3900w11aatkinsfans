@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:24"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's plenty of time if you push the button for pedestrians to get across",
+            "count": 1
+        },
+        {
+            "phrase": "thirty seconds is a very substantial amount of time for a pedestrian",
+            "count": 1
+        },
+        {
+            "phrase": "the intent for that is to make for safe area for pedestrians crossing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:20",
+            "02:00"
+        ],
+        "label": "yah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yah that could be up on the northshore",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to build right on that shore",
+            "count": 1
+        },
+        {
+            "phrase": "an active front is likely to cross the north island on saturday evening",
+            "count": 1
+        }
+    ]
+}

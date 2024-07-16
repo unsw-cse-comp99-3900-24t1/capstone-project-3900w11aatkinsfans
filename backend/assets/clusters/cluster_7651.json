@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "02:55",
+            "04:29"
+        ],
+        "label": "every"
+    },
+    "clusterList": [
+        {
+            "phrase": "every major organisation asked what experience have you",
+            "count": 1
+        },
+        {
+            "phrase": "i have the experience necessary to get the job done",
+            "count": 1
+        },
+        {
+            "phrase": "first job experience",
+            "count": 1
+        }
+    ]
+}

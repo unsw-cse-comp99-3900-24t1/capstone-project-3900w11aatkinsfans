@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:06",
+            "03:37"
+        ],
+        "label": "starbucks"
+    },
+    "clusterList": [
+        {
+            "phrase": "starbucks corp said tuesday it will close 600 company operated stores in the next year up dramatically from its previous plan for 100 closures a sign the coffee shop operator continues to struggle with the faltering u s economy and its own rapid expansion",
+            "count": 1
+        },
+        {
+            "phrase": "starbucks outlets serve as key draws for other retailers making the loss of one a blow to the surrounding area",
+            "count": 1
+        },
+        {
+            "phrase": "estimates are for 15 cents a share starbucks will miss that",
+            "count": 1
+        }
+    ]
+}

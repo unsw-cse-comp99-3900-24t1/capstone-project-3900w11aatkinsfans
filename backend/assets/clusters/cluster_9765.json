@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "04:35"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow i thought you were toast when you went up against him",
+            "count": 1
+        },
+        {
+            "phrase": "there was no way he could have given me a red card for what i did if he'd heard what i said he wouldn't have given it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:51",
+            "01:13",
+            "01:14",
+            "02:08",
+            "03:05"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you used to be fun you now act like a fascist",
+            "count": 1
+        },
+        {
+            "phrase": "one of the huge contrasts between the republican leaders and myself",
+            "count": 1
+        },
+        {
+            "phrase": "i almost registered as a democrat to be rebellious but i registered as an independent instead",
+            "count": 1
+        },
+        {
+            "phrase": "i used to be a republican but this administration is really doing a doozey and so i'm a democrat now but i'm still anti-abortion",
+            "count": 1
+        },
+        {
+            "phrase": "so you used to be a republican",
+            "count": 1
+        },
+        {
+            "phrase": "i was forced into politics",
+            "count": 1
+        },
+        {
+            "phrase": "why it is so cool to be a college republican in 2008",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:21",
+            "04:18",
+            "04:22",
+            "04:28",
+            "04:47"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you use cash back credit cards",
+            "count": 8
+        },
+        {
+            "phrase": "our debit card spending on the other hand has continued to grow and is very robust",
+            "count": 1
+        },
+        {
+            "phrase": "it is time for new york and other governments to cut up our credit cards the era of buy now pay later and later is over",
+            "count": 1
+        },
+        {
+            "phrase": "credit-card spending in general is much softer",
+            "count": 1
+        },
+        {
+            "phrase": "repair your credit",
+            "count": 1
+        }
+    ]
+}

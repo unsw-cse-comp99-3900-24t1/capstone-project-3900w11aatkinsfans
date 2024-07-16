@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:07",
+            "01:46",
+            "02:24",
+            "04:07",
+            "04:14",
+            "04:24",
+            "04:28",
+            "04:45",
+            "04:55"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will obama be indicted next",
+            "count": 3
+        },
+        {
+            "phrase": "but how great an opportunity this is for republicans remains to be seen the republican situation is clearly better now than it was when sean ramaley was in the race and was not under indictment",
+            "count": 3
+        },
+        {
+            "phrase": "any attempts to delay the by-election which must be held within 60 days after the election commission is notified or to arrest him or charge him in court will be seen by his supporters as a form of victimisation",
+            "count": 2
+        },
+        {
+            "phrase": "karl rove will in fact be indicted",
+            "count": 1
+        },
+        {
+            "phrase": "we don't know whether he'll be indicted or escape prosecution all of this is to make a case to win the election and maintain power",
+            "count": 1
+        }
+    ]
+}

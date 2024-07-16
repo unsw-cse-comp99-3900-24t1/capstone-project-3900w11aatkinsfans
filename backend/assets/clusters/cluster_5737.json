@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:32",
+            "01:42"
+        ],
+        "label": "mr"
+    },
+    "clusterList": [
+        {
+            "phrase": "mr smith goes to washington",
+            "count": 3
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:46",
+            "02:59",
+            "03:06",
+            "03:09",
+            "04:03",
+            "04:08",
+            "04:17",
+            "04:23",
+            "04:37"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "is an historic occasion",
+            "count": 3
+        },
+        {
+            "phrase": "this will be a day of celebration and education for anyone who doesn't believe in a god",
+            "count": 1
+        },
+        {
+            "phrase": "in celebration of a renewed spirit",
+            "count": 1
+        },
+        {
+            "phrase": "in celebration of a new spirit",
+            "count": 1
+        },
+        {
+            "phrase": "tradition spirit and honor",
+            "count": 1
+        },
+        {
+            "phrase": "is a historic occasion",
+            "count": 1
+        },
+        {
+            "phrase": "prepare themselves well for eucharistic celebration and adoration",
+            "count": 1
+        },
+        {
+            "phrase": "hekhsher tzedek is a holistic celebration of jewish tradition uniting ethical practice with ritual observance in the production of jewish food",
+            "count": 1
+        },
+        {
+            "phrase": "is a time of celebration of various religious traditions",
+            "count": 1
+        },
+        {
+            "phrase": "that's something that appeals to people the sameness the tradition",
+            "count": 1
+        }
+    ]
+}

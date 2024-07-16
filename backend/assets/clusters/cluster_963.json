@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "01:09",
+            "01:30",
+            "02:23",
+            "03:09",
+            "04:21",
+            "04:53",
+            "04:54"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's a philosophy that goes across all of our games and that philosophy stays true from game to game so it probably draws some comparisons",
+            "count": 5
+        },
+        {
+            "phrase": "we definitely learn from all our games",
+            "count": 5
+        },
+        {
+            "phrase": "every game i still believe we go out there with an intention to win the game",
+            "count": 1
+        },
+        {
+            "phrase": "we understand that there were some great players that came before us",
+            "count": 1
+        },
+        {
+            "phrase": "we won't know until we get to the games and we see how things shake out there",
+            "count": 1
+        },
+        {
+            "phrase": "this is definitely the best we've played all season",
+            "count": 1
+        },
+        {
+            "phrase": "that's what the spirit of the games is all about",
+            "count": 1
+        }
+    ]
+}

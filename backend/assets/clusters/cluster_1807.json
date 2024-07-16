@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:28",
+            "01:23",
+            "02:06",
+            "02:46",
+            "02:56",
+            "04:05",
+            "04:19",
+            "04:33"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you never have enough talent",
+            "count": 3
+        },
+        {
+            "phrase": "we have so much talent and everybody is so young",
+            "count": 2
+        },
+        {
+            "phrase": "we can never have enough talent",
+            "count": 2
+        },
+        {
+            "phrase": "he is talented very talented but has no brains",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i am that good and it's okay to be talented",
+            "count": 1
+        }
+    ]
+}

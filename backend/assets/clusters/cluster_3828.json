@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:42",
+            "04:46",
+            "04:55",
+            "05:04"
+        ],
+        "label": "ah"
+    },
+    "clusterList": [
+        {
+            "phrase": "ah yes but it is very nutritious and i'll tell you something else that's nutritious pinkies",
+            "count": 1
+        },
+        {
+            "phrase": "i had a customer early this morning who told me she tried one he's only got one kind apparently she said it wasn't bad it was just kinda bland",
+            "count": 1
+        },
+        {
+            "phrase": "at three bucks a bottle it must be good",
+            "count": 1
+        },
+        {
+            "phrase": "try this new absinthe it's 80 a bottle and doesn't taste like anything it's very versatile great in cocktails",
+            "count": 1
+        },
+        {
+            "phrase": "try it it good",
+            "count": 1
+        }
+    ]
+}

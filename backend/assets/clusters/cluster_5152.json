@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:20",
+            "02:47"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if the facts are against you argue the law if the law is against you argue the facts if both are against you attack your opponent",
+            "count": 1
+        },
+        {
+            "phrase": "as far as the laws of mathematics refer to reality they are not certain as far as they are certain they do not refer to reality",
+            "count": 1
+        },
+        {
+            "phrase": "t he applicable standard of review depends upon whether the question presented is one of fact one of law or a mixed question of fact and law",
+            "count": 1
+        },
+        {
+            "phrase": "are questions in which the historical facts are admitted or established the rule of law is undisputed and the issue is whether the facts satisfy the statutory standard or to put it another way whether the rule of law as applied to the established facts is or is not violated",
+            "count": 1
+        }
+    ]
+}

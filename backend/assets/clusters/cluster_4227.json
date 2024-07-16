@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:05",
+            "01:46",
+            "02:38",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't think it'll be today as some of the newspapers are speculating",
+            "count": 2
+        },
+        {
+            "phrase": "my guess is some interesting things will happen when the rest of the media gets here",
+            "count": 1
+        },
+        {
+            "phrase": "this could happen as soon as november this year",
+            "count": 1
+        },
+        {
+            "phrase": "there will be a lot happening and we are hoping people will come especially for the demonstrations",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:12",
+            "01:13",
+            "01:29",
+            "02:00",
+            "02:38",
+            "02:44",
+            "05:03"
+        ],
+        "label": "did"
+    },
+    "clusterList": [
+        {
+            "phrase": "did not want to go into his own home without having someone else accompanying him",
+            "count": 1
+        },
+        {
+            "phrase": "he was told to put it out immediately or leave",
+            "count": 1
+        },
+        {
+            "phrase": "he saw a flicker and then the roof significantly on fire and rushed back to the house",
+            "count": 1
+        },
+        {
+            "phrase": "we knew he was staying at the hotel ibis before the fight but he refused to come downstairs and with privacy laws the hotel quite rightly wouldn't say what room he was in",
+            "count": 1
+        },
+        {
+            "phrase": "all entry has been via balconies or insecure windows this person has no concern whether anyone is home however has shown no propensity to violence when he has been interrupted he fled from the scene",
+            "count": 1
+        },
+        {
+            "phrase": "to his placement in unsafe premises where he died",
+            "count": 1
+        },
+        {
+            "phrase": "but the home was clear he may have escaped through the back door",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "04:28",
+            "04:51"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are fully ready to provide security and a location or anything that will facilitate the presence of an egyptian ambassador in iraq to enhance bilateral relations",
+            "count": 1
+        },
+        {
+            "phrase": "you bet i wanted to make sure that we protected ourselves at home but that's the same sentiment other people have secondly our foreign policy has been robust in the far east",
+            "count": 1
+        },
+        {
+            "phrase": "upbeat assessment of security in iraq today from joint chiefs chairman admiral michael mullen",
+            "count": 1
+        }
+    ]
+}

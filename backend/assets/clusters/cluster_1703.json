@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:43",
+            "01:34",
+            "02:05",
+            "03:27",
+            "03:34",
+            "04:07",
+            "04:14",
+            "04:55"
+        ],
+        "label": "full"
+    },
+    "clusterList": [
+        {
+            "phrase": "full of crap",
+            "count": 4
+        },
+        {
+            "phrase": "piece of me",
+            "count": 3
+        },
+        {
+            "phrase": "piece of shit3",
+            "count": 1
+        },
+        {
+            "phrase": "piece of crap",
+            "count": 1
+        },
+        {
+            "phrase": "that's a piece of crap",
+            "count": 1
+        }
+    ]
+}

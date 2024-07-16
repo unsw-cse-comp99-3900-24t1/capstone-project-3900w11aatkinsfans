@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:03",
+            "03:47",
+            "04:02",
+            "04:23",
+            "04:28"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think i under-clubbed 10 half a club and it cost me three shots from the middle of the fairway and you just can't do that out here",
+            "count": 2
+        },
+        {
+            "phrase": "golf capital of the world",
+            "count": 2
+        },
+        {
+            "phrase": "you know this golf course is going to give you some and going to take a lot away",
+            "count": 1
+        },
+        {
+            "phrase": "it really is one of the great golf meccas in the states",
+            "count": 1
+        },
+        {
+            "phrase": "an awful lot happens on the golf course",
+            "count": 1
+        }
+    ]
+}

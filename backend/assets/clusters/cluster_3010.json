@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:47",
+            "01:23",
+            "03:22"
+        ],
+        "label": "rough"
+    },
+    "clusterList": [
+        {
+            "phrase": "rough play and violence within the norms is permitted",
+            "count": 3
+        },
+        {
+            "phrase": "but the crown is saying this level of violence is considered reprehensible and prohibited on or off the ice and there are norms that shouldn't be surpassed",
+            "count": 3
+        }
+    ]
+}

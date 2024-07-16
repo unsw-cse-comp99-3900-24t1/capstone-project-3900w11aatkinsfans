@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "01:07",
+            "01:17",
+            "02:39",
+            "03:06",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:51"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's the crucial election of our time",
+            "count": 5
+        },
+        {
+            "phrase": "that's what this election is about",
+            "count": 2
+        },
+        {
+            "phrase": "this is one of the most significant elections of our lifetime we must get out there and make our voices heard by voting it's negligent to sit around and watch an election pass by and not have an influence whatsoever on the outcome that ain't sexy",
+            "count": 1
+        },
+        {
+            "phrase": "either we govern or we go to an election",
+            "count": 1
+        },
+        {
+            "phrase": "part of me would say it's a historic time and it's a historic election and there's some fundamental forks in the road that we're going to be taking",
+            "count": 1
+        }
+    ]
+}

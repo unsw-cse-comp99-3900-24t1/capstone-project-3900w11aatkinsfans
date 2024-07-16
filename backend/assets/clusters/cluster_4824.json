@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "01:29",
+            "04:05",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the chinese government will continue its reform and opening-up policy and support hp and other foreign companies to expand investment and cooperation in china",
+            "count": 1
+        },
+        {
+            "phrase": "the sharp drop in imports this year coupled with improving demand prospects is expected to deplete the chinese pipeline by year end as a result we project that china will report near-record volumes next year",
+            "count": 1
+        },
+        {
+            "phrase": "quite remarkable progress in the areas of development and prosperity",
+            "count": 1
+        },
+        {
+            "phrase": "the cng technology suits an archipelago country like indonesia as it is not necessary to roll out pipe infrastructure for distribution",
+            "count": 1
+        }
+    ]
+}

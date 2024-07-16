@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:28",
+            "03:47",
+            "03:48",
+            "04:09"
+        ],
+        "label": "worst"
+    },
+    "clusterList": [
+        {
+            "phrase": "both teams suck",
+            "count": 2
+        },
+        {
+            "phrase": "ncaa football 09 because of ncaa restrictions use that game franchise to keep their competitive edge",
+            "count": 2
+        },
+        {
+            "phrase": "worst college football uniforms",
+            "count": 1
+        },
+        {
+            "phrase": "worst football team in ncaa history",
+            "count": 1
+        }
+    ]
+}

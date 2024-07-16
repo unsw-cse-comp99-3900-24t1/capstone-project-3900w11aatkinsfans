@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:20",
+            "03:10",
+            "04:31"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "learn how to make thousands of these online sitehere",
+            "count": 2
+        },
+        {
+            "phrase": "the most important web site on the planet",
+            "count": 1
+        },
+        {
+            "phrase": "we're looking for large sites with lots of content",
+            "count": 1
+        },
+        {
+            "phrase": "lots of links and charts and stuff",
+            "count": 1
+        }
+    ]
+}

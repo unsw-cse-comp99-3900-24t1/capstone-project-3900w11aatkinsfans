@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "03:23",
+            "05:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a proxy for the principal location of the insured risk",
+            "count": 1
+        },
+        {
+            "phrase": "the principal location of the insured risk",
+            "count": 1
+        },
+        {
+            "phrase": "but i am not sure whether this will help agents be more vigilant in their representation as they now know they have insurance",
+            "count": 1
+        },
+        {
+            "phrase": "it's an insurance policy the employer buys",
+            "count": 1
+        }
+    ]
+}

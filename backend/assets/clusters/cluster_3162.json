@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:11",
+            "01:34",
+            "02:43"
+        ],
+        "label": "nearly"
+    },
+    "clusterList": [
+        {
+            "phrase": "nearly all men can stand adversity but if you want to test a man's character give him power",
+            "count": 4
+        },
+        {
+            "phrase": "yes you are a man you have shown your strength and you have led warriors you are a man",
+            "count": 1
+        },
+        {
+            "phrase": "you can't be soft because everyone will beat you up you have to fight every day to prove that you're a man",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "01:47",
+            "02:51",
+            "04:15",
+            "04:54"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it seems that while i can log in to mobileme and view my calendar contacts i continue to not be able to see mail as mail comes up as a completely blank page",
+            "count": 2
+        },
+        {
+            "phrase": "me hello my mails are still missing in mobileme",
+            "count": 1
+        },
+        {
+            "phrase": "john i'm sorry according to our records you were not one of the members affected by the email outage that began on july 18th mobileme mail 24-hour chat support is a temporary measure designed specifically for users whose accounts were affected by that outage",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry according to our records you were not one of the members affected by the email outage that began on july 18th mobileme mail 24-hour chat support is a temporary measure designed specifically for users whose accounts were affected by that outage for help please visit for access to all of our support resources i apologize for any inconvenience",
+            "count": 1
+        },
+        {
+            "phrase": "1 of mobileme customers are unable to access mail",
+            "count": 1
+        }
+    ]
+}

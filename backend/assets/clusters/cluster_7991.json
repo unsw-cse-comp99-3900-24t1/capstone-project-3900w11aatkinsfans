@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:21"
+        ],
+        "label": "alright"
+    },
+    "clusterList": [
+        {
+            "phrase": "alright let's go introduce ourselves boys",
+            "count": 1
+        },
+        {
+            "phrase": "boys will be boys",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:01",
+            "02:51",
+            "03:00",
+            "03:10",
+            "03:18",
+            "03:46",
+            "03:51",
+            "04:22",
+            "04:32"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "my business is my life and i'm ok with that",
+            "count": 6
+        },
+        {
+            "phrase": "this business is too nice",
+            "count": 2
+        },
+        {
+            "phrase": "what do you think of my going into business with you",
+            "count": 1
+        },
+        {
+            "phrase": "getting out of the business",
+            "count": 1
+        },
+        {
+            "phrase": "i own my own business",
+            "count": 1
+        },
+        {
+            "phrase": "my business with your king is none of your business",
+            "count": 1
+        },
+        {
+            "phrase": "fuck you very much pleasure doing business with you",
+            "count": 1
+        },
+        {
+            "phrase": "we're a family business",
+            "count": 1
+        }
+    ]
+}

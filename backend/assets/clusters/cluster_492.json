@@ -1,0 +1,105 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:32",
+            "00:41",
+            "00:48",
+            "00:50",
+            "01:06",
+            "02:14",
+            "02:28",
+            "02:32",
+            "02:42",
+            "02:56",
+            "03:19",
+            "03:23",
+            "03:51",
+            "04:06",
+            "04:28",
+            "04:38",
+            "04:59",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "back to school",
+            "count": 10
+        },
+        {
+            "phrase": "back to basics",
+            "count": 2
+        },
+        {
+            "phrase": "i wish i could go back to college",
+            "count": 1
+        },
+        {
+            "phrase": "school just wasn't for me",
+            "count": 1
+        },
+        {
+            "phrase": "i lost so many years now i will study",
+            "count": 1
+        },
+        {
+            "phrase": "i went to a two-year college a junior college",
+            "count": 1
+        },
+        {
+            "phrase": "going back to school",
+            "count": 1
+        },
+        {
+            "phrase": "when you were a freshman in college what did you want to grow up to be",
+            "count": 1
+        },
+        {
+            "phrase": "i'm graduating this year",
+            "count": 1
+        },
+        {
+            "phrase": "i can't wait to get out of school",
+            "count": 1
+        },
+        {
+            "phrase": "what did you do in school today",
+            "count": 1
+        },
+        {
+            "phrase": "yes you did all the way to school what did you do at school",
+            "count": 1
+        },
+        {
+            "phrase": "why do i have to go to school",
+            "count": 1
+        },
+        {
+            "phrase": "then i'm going back to get my masters then my ph d",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "02:43",
+            "03:46",
+            "05:04"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is full documentation",
+            "count": 2
+        },
+        {
+            "phrase": "this update provides developers with a single document they can rely upon for all of their application needs",
+            "count": 1
+        },
+        {
+            "phrase": "all papers and other written documentation",
+            "count": 1
+        }
+    ]
+}

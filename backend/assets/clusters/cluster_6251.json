@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:22",
+            "04:15"
+        ],
+        "label": "hail"
+    },
+    "clusterList": [
+        {
+            "phrase": "hail to the chief",
+            "count": 2
+        },
+        {
+            "phrase": "hail on the flukepions",
+            "count": 1
+        }
+    ]
+}

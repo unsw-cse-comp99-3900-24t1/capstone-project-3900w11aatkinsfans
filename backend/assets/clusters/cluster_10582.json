@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "03:06"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i'm just a general pracitioner for a problem like that you need to see a psychiatrist",
+            "count": 1
+        },
+        {
+            "phrase": "you have to be extremely mentally ill",
+            "count": 1
+        }
+    ]
+}

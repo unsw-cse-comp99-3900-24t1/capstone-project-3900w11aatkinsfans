@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "02:06"
+        ],
+        "label": "black"
+    },
+    "clusterList": [
+        {
+            "phrase": "black people everywhere should vote for me",
+            "count": 1
+        },
+        {
+            "phrase": "are you an american white male",
+            "count": 1
+        }
+    ]
+}

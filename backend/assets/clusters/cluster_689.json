@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:24",
+            "00:33",
+            "01:06",
+            "01:15",
+            "01:33",
+            "01:42",
+            "01:43",
+            "01:46",
+            "01:52",
+            "02:33",
+            "02:38",
+            "03:58"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people have said to me from the day that i took this job they said look it's the worst job in australia in politics",
+            "count": 16
+        },
+        {
+            "phrase": "people have said to me from the day i took this job that it's the worst job in australian politics",
+            "count": 2
+        },
+        {
+            "phrase": "people have said to me from the day that i took this job they said look it amp squo s the worst job in australia in politics",
+            "count": 1
+        }
+    ]
+}

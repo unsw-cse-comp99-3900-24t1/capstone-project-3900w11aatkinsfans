@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "04:28",
+            "04:45",
+            "04:55"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's probably a closed chapter for me",
+            "count": 2
+        },
+        {
+            "phrase": "is there something wrong with my chapter 5 and 6 outline because i still do not have a grade",
+            "count": 1
+        },
+        {
+            "phrase": "that's why i started the chapter",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:23"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i need a new frying pan badly but prices are too high today i shall wait until they drop again",
+            "count": 1
+        },
+        {
+            "phrase": "i don't need a new frying pan today i may needone in a year or two but i'll buy it today because it will be much more expensive later",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "02:15",
+            "02:28",
+            "03:55",
+            "04:18",
+            "04:23",
+            "04:42",
+            "05:01"
+        ],
+        "label": "surgery"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was an extremely difficult decision you know you never want to abandon patients",
+            "count": 3
+        },
+        {
+            "phrase": "surgery is always the last option",
+            "count": 2
+        },
+        {
+            "phrase": "we don't want to lose any surgeon for any reason",
+            "count": 1
+        },
+        {
+            "phrase": "doctor i'm just dreading this i almost think i'd rather have a baby again than have a tooth pulled",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't want just any doctor who could and would perform the surgery",
+            "count": 1
+        },
+        {
+            "phrase": "if you or a loved one needed a doctor in your specialty and you couldn't treat them yourself to whom would you refer them",
+            "count": 1
+        }
+    ]
+}

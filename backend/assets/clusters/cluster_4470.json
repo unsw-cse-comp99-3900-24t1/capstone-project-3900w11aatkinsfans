@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:12",
+            "01:13",
+            "04:33"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "for me it's a celebration of the start of it all",
+            "count": 2
+        },
+        {
+            "phrase": "people are going to say what they say but what would be the purpose i guess other people do those things for a purpose but i don't know i'm ecstatic so be ecstatic with me be happy with me can we celebrate",
+            "count": 1
+        },
+        {
+            "phrase": "to celebrate what can't be taken away from us by an irrational act",
+            "count": 1
+        }
+    ]
+}

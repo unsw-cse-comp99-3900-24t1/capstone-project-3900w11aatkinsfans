@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:24",
+            "02:01",
+            "03:45",
+            "04:23"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are looking forward to working closely with esri ireland to address the data requirements of the irish gis community",
+            "count": 1
+        },
+        {
+            "phrase": "we've already begun our project so we have the approval we need but now there is a glut of capital projects that need approval and the funnel through the state has gotten pretty narrow",
+            "count": 1
+        },
+        {
+            "phrase": "we'll be doing a feasibility study some time within the next year to look at things we can do to the palestra",
+            "count": 1
+        },
+        {
+            "phrase": "i think we're faced with such an enormous problem that we need to do all the research we can to see if there are any geo-engineering proposals which work through to the marketplace",
+            "count": 1
+        },
+        {
+            "phrase": "we are now doing feasibility studies and hope to get approvals from the regional governments soon",
+            "count": 1
+        }
+    ]
+}

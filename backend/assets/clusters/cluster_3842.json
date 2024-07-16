@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:11",
+            "03:34",
+            "03:50"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've done a year's worth of work in the first couple weeks",
+            "count": 2
+        },
+        {
+            "phrase": "when workers in government departments get laid off they continue to get their salary until retirement but we were not treated like this by our bosses they did not care they dumped us on the scrapheap giving us a pitiful subsidy of 200 yuan to 300 yuan per month",
+            "count": 1
+        },
+        {
+            "phrase": "i'm living so far beyond my income that we may almost be said to be living apart",
+            "count": 1
+        },
+        {
+            "phrase": "you have about 70 more years in business than we do",
+            "count": 1
+        }
+    ]
+}

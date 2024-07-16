@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:48"
+        ],
+        "label": "careless"
+    },
+    "clusterList": [
+        {
+            "phrase": "careless dangerous and selfish person",
+            "count": 1
+        },
+        {
+            "phrase": "reckless or depraved heart",
+            "count": 1
+        }
+    ]
+}

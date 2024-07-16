@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:00"
+        ],
+        "label": "azima"
+    },
+    "clusterList": [
+        {
+            "phrase": "azima offered us a unique combination of enterprise software remote diagnostics and high-level expertise",
+            "count": 1
+        },
+        {
+            "phrase": "we are confident that azima's solutions will demonstrate their business value to air liquide and we are excited about moving forward with a nationwide rollout air liquide's customers benefiting from our best-in-class reliability",
+            "count": 1
+        },
+        {
+            "phrase": "enovia matrixone is one of our most strategic applications because it helps ensure that we design and develop the right product on schedule for the market",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:55",
+            "03:56",
+            "04:13",
+            "04:23",
+            "04:28",
+            "04:29"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they want to be very much certain that a rate cut is warranted",
+            "count": 7
+        }
+    ]
+}

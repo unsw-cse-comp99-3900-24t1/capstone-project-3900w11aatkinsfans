@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "00:09",
+            "00:43",
+            "00:52",
+            "02:14",
+            "03:18",
+            "03:47",
+            "04:46",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "worth the fighting for",
+            "count": 4
+        },
+        {
+            "phrase": "i continued to fight",
+            "count": 1
+        },
+        {
+            "phrase": "fight your way in and fight your way out",
+            "count": 1
+        },
+        {
+            "phrase": "you want to fight back",
+            "count": 1
+        },
+        {
+            "phrase": "i want to punch you in the face",
+            "count": 1
+        },
+        {
+            "phrase": "i wouldn't mind fighting for them again right now first things first is just to find another fight-hopefully in a major organization-and get back out there",
+            "count": 1
+        },
+        {
+            "phrase": "krusha fight back you have to",
+            "count": 1
+        },
+        {
+            "phrase": "that's right big boy try to fight back i'm telling you to",
+            "count": 1
+        },
+        {
+            "phrase": "yeah fight back you idiot",
+            "count": 1
+        },
+        {
+            "phrase": "and i know i'll never fight again",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:15",
+            "03:11",
+            "04:13",
+            "04:50"
+        ],
+        "label": "communist"
+    },
+    "clusterList": [
+        {
+            "phrase": "communist cuban terror campaign in the miami area in other florida cities and even in washington",
+            "count": 3
+        },
+        {
+            "phrase": "these steps would send the worst possible signal to cuba's dictators there is no need to undertake fundamental reforms they can simply wait for a unilateral change in u s policy",
+            "count": 1
+        },
+        {
+            "phrase": "nothing in cuba presents a threat to the u s",
+            "count": 1
+        }
+    ]
+}

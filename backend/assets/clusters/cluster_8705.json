@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:13"
+        ],
+        "label": "romeo"
+    },
+    "clusterList": [
+        {
+            "phrase": "romeo romeo wherefore art thou",
+            "count": 1
+        },
+        {
+            "phrase": "wherefore bart thou",
+            "count": 1
+        }
+    ]
+}

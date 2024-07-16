@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "01:43",
+            "03:05",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the armed forces capability is being threatened by missed recruitment and staff retention targets mps warn",
+            "count": 1
+        },
+        {
+            "phrase": "truth in recruitment",
+            "count": 1
+        },
+        {
+            "phrase": "that's not what happened in terms of recruiting",
+            "count": 1
+        },
+        {
+            "phrase": "the recruiters office",
+            "count": 1
+        }
+    ]
+}

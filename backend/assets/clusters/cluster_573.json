@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            4,
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:41",
+            "01:47",
+            "02:24",
+            "02:25",
+            "02:28",
+            "03:09",
+            "03:38",
+            "03:48",
+            "04:13",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was born and raised a redneck from the south in my home town of wichita kansas but i now live in michigan i enjoy football camping occasionally visiting the casino and playing pogo games",
+            "count": 14
+        },
+        {
+            "phrase": "are you from wisconsin",
+            "count": 2
+        },
+        {
+            "phrase": "are you from chicago",
+            "count": 2
+        },
+        {
+            "phrase": "where are you from",
+            "count": 2
+        },
+        {
+            "phrase": "so where are you from",
+            "count": 1
+        },
+        {
+            "phrase": "are you from around here",
+            "count": 1
+        }
+    ]
+}

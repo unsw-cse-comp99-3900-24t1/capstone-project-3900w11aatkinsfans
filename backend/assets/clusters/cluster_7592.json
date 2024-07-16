@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:38",
+            "03:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the abuse aspect was quite appalling enough without children dying",
+            "count": 1
+        },
+        {
+            "phrase": "people especially children can only take so much hate and abuse is it any wonder that some resort to suicide",
+            "count": 1
+        },
+        {
+            "phrase": "getting justice dignity and compensation for survivors of childhood sexual abuse is what matters",
+            "count": 1
+        }
+    ]
+}

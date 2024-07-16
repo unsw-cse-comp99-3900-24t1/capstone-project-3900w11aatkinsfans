@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:00",
+            "03:59"
+        ],
+        "label": "survival"
+    },
+    "clusterList": [
+        {
+            "phrase": "survival of the fittest",
+            "count": 2
+        },
+        {
+            "phrase": "survival of the fittest is code for kill the weak",
+            "count": 1
+        }
+    ]
+}

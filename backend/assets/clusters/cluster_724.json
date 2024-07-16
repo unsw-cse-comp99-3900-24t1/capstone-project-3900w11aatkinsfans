@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "00:28",
+            "00:41",
+            "00:46",
+            "00:55",
+            "01:10",
+            "01:38",
+            "02:29",
+            "02:46",
+            "02:50",
+            "02:51",
+            "02:55",
+            "02:56",
+            "03:05",
+            "03:09"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "what we can do is tend our own garden and make sure that it's weeded and i think we've weeded out a discriminatory law",
+            "count": 7
+        },
+        {
+            "phrase": "isn't needed to protect women from wage discrimination such protection is already found in the law",
+            "count": 6
+        },
+        {
+            "phrase": "we're calling out against the law that the legislative assembly is considering to allow for homosexual civil unions",
+            "count": 1
+        },
+        {
+            "phrase": "in paraguay we have a law that allows discriminatory practices",
+            "count": 1
+        },
+        {
+            "phrase": "the discrimination was very clear",
+            "count": 1
+        },
+        {
+            "phrase": "we applaud governor patrick and the state legislature massequality and glad for repealing this antiquated and discriminatory law",
+            "count": 1
+        },
+        {
+            "phrase": "blatant violation of human rights",
+            "count": 1
+        },
+        {
+            "phrase": "there should be no discrimination",
+            "count": 1
+        }
+    ]
+}

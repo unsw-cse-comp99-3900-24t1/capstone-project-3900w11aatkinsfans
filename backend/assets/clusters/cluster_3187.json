@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:42",
+            "01:52",
+            "02:20",
+            "03:02"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and is subject to early termination",
+            "count": 3
+        },
+        {
+            "phrase": "early termination fee",
+            "count": 1
+        },
+        {
+            "phrase": "the touchstone will be fairness which in relation to establishment early termination prepayment and default fees will be linked to cost or loss",
+            "count": 1
+        },
+        {
+            "phrase": "suspend terminate or apply additional charges",
+            "count": 1
+        }
+    ]
+}

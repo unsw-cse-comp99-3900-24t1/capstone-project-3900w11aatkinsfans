@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "04:33"
+        ],
+        "label": "crab-free"
+    },
+    "clusterList": [
+        {
+            "phrase": "crab-free crab cakes",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know what to call them but don't call them cakes because they're not",
+            "count": 1
+        }
+    ]
+}

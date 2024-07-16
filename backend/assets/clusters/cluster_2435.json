@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:06",
+            "01:46",
+            "02:25",
+            "03:06",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm like a nail stuck in the wrist of their christmas",
+            "count": 7
+        }
+    ]
+}

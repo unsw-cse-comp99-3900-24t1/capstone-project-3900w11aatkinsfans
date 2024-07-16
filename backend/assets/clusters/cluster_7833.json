@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:13"
+        ],
+        "label": "staunchest"
+    },
+    "clusterList": [
+        {
+            "phrase": "staunchest hillary supporters",
+            "count": 1
+        },
+        {
+            "phrase": "liked by clinton supporters",
+            "count": 1
+        }
+    ]
+}

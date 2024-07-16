@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "03:34"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this event is an opportunity to connect directly with central american air chiefs while discussing issues affecting our air forces in this region of u s southern command's area of responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "on the flip side the air force has more experience with ground operations since they work more with the army and special operations",
+            "count": 1
+        },
+        {
+            "phrase": "the air force has an extremely disciplined targeting process and strict rules of engagement",
+            "count": 1
+        }
+    ]
+}

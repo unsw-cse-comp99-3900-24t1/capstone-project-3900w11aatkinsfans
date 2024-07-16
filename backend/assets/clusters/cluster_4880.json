@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:52"
+        ],
+        "label": "tomotherapy"
+    },
+    "clusterList": [
+        {
+            "phrase": "tomotherapy is extremely pleased to partner with lund university hospital this marks our entry into the swedish market with a prestigious institution that pioneered the use of many technological advances in scandinavia and europe we look forward to delivering the advanced hi-art system to continue that tradition",
+            "count": 1
+        },
+        {
+            "phrase": "this was a great team effort working with the lund medical and physics experts to bring this advanced technology to our swedish patients tomotherapy was clearly the best choice from both a high technology and economic standpoint",
+            "count": 1
+        },
+        {
+            "phrase": "as a large center treating 2500 new patients yearly we are dependent on high up-time and clinical reliability the established and clinically well-implemented tomotherapy hi-art was the only system that could meet the demands of our clinic",
+            "count": 1
+        },
+        {
+            "phrase": "the advanced technology will support our skilled neurosurgery team to help ensure the safest most positive outcomes possible for our patients during the most delicate of procedures",
+            "count": 1
+        }
+    ]
+}

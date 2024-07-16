@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "04:09"
+        ],
+        "label": "deeply"
+    },
+    "clusterList": [
+        {
+            "phrase": "deeply ironic in its simplicity",
+            "count": 1
+        },
+        {
+            "phrase": "the common thread is deeply ironic in its simplicity",
+            "count": 1
+        },
+        {
+            "phrase": "there is some argument about what is or is not ironic but all the different senses of irony revolve around the perceived notion of an incongruity between what is said and what is meant or between an understanding of reality or an expectation of a reality and what actually happens",
+            "count": 1
+        }
+    ]
+}

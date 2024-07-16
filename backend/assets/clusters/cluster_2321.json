@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:29",
+            "01:14",
+            "02:39",
+            "02:52",
+            "03:34",
+            "04:14",
+            "05:05"
+        ],
+        "label": "ready"
+    },
+    "clusterList": [
+        {
+            "phrase": "waiting to connect",
+            "count": 2
+        },
+        {
+            "phrase": "ready to roll heads",
+            "count": 1
+        },
+        {
+            "phrase": "i am ready to party to-night",
+            "count": 1
+        },
+        {
+            "phrase": "ready to test",
+            "count": 1
+        },
+        {
+            "phrase": "are you sure that you're ready for this",
+            "count": 1
+        },
+        {
+            "phrase": "ready waiting and unused",
+            "count": 1
+        },
+        {
+            "phrase": "ready to poke your eyes out me too",
+            "count": 1
+        }
+    ]
+}

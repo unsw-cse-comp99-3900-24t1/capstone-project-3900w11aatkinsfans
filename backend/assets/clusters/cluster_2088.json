@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            3,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "04:23",
+            "05:05"
+        ],
+        "label": "authorized"
+    },
+    "clusterList": [
+        {
+            "phrase": "authorized account holder",
+            "count": 8
+        }
+    ]
+}

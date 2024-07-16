@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:48",
+            "02:56",
+            "04:14"
+        ],
+        "label": "special"
+    },
+    "clusterList": [
+        {
+            "phrase": "special safeguard mechanism",
+            "count": 2
+        },
+        {
+            "phrase": "we want to make sure this is in accordance with law",
+            "count": 1
+        },
+        {
+            "phrase": "this is a safeguards agreement for india",
+            "count": 1
+        },
+        {
+            "phrase": "i think pakistan will argue that the secretariat should include similar provisions in any safeguards agreement it negotiates with them",
+            "count": 1
+        },
+        {
+            "phrase": "india is offering its facilities for safeguards and the decision is its own",
+            "count": 1
+        },
+        {
+            "phrase": "i am not saying the indians are going back on that offer but then why have a safeguards agreement which is structured in such a way as to give them a way to back out should they so desire",
+            "count": 1
+        }
+    ]
+}

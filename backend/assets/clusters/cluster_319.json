@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            3,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "00:18",
+            "00:42",
+            "00:43",
+            "00:45",
+            "00:58",
+            "01:10",
+            "01:13",
+            "01:37",
+            "01:47",
+            "02:00",
+            "02:02",
+            "02:05",
+            "02:13",
+            "02:14",
+            "02:44"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with our catalyst almost 100 percent of the current used for electrolysis goes into making oxygen and hydrogen",
+            "count": 8
+        },
+        {
+            "phrase": "the key component in nocera and kanan's new process is a new catalyst that produces oxygen gas from water another catalyst produces valuable hydrogen gas",
+            "count": 6
+        },
+        {
+            "phrase": "i'm using cheap earth-abundant materials that you can mass-manufacture as long as you can charge the surface you can create the catalyst and it doesn't get any cheaper than that",
+            "count": 4
+        },
+        {
+            "phrase": "so i've made your house a gas station and a power station it's all enabled because we can use light plus water to make a chemical fuel which is hydrogen and oxygen",
+            "count": 3
+        },
+        {
+            "phrase": "nocera's catalyst is made from cobalt phosphate and an electrode that produces oxygen from water by using 90 percent less electricity than current methods which use the costly metal platinum",
+            "count": 2
+        },
+        {
+            "phrase": "the hard part of getting water to split is not the hydrogen platinum as a catalyst works fine for the hydrogen but platinum works very poorly for oxygen making you use much more energy",
+            "count": 2
+        },
+        {
+            "phrase": "what we have done is made a catalyst work for the oxygen part without any extra energy in fact with our catalyst almost 100 percent of the current used for electrolysis goes into making oxygen and hydrogen",
+            "count": 2
+        },
+        {
+            "phrase": "but our catalyst uses abundant materials that don't react with environment",
+            "count": 2
+        },
+        {
+            "phrase": "electrode lights the way to artificial photosynthesis",
+            "count": 2
+        }
+    ]
+}

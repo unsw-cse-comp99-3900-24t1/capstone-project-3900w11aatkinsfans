@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:33",
+            "03:02",
+            "04:53"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you titrate insulin weekly you can get to goal a1c",
+            "count": 2
+        },
+        {
+            "phrase": "you can't just do it every three or four months",
+            "count": 1
+        },
+        {
+            "phrase": "how should i take once weekly fosamax",
+            "count": 1
+        },
+        {
+            "phrase": "what is the most important information i should know about once weekly fosamax",
+            "count": 1
+        },
+        {
+            "phrase": "i do chemotherapy on mondays and radiation five days a week",
+            "count": 1
+        },
+        {
+            "phrase": "i stop taking it on friday the week before a tournament so it's out of my system by monday",
+            "count": 1
+        }
+    ]
+}

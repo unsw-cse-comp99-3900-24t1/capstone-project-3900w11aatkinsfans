@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "03:55"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you've seen me you've seen the father",
+            "count": 1
+        },
+        {
+            "phrase": "can you see your dad ever doing something like this with you",
+            "count": 1
+        }
+    ]
+}

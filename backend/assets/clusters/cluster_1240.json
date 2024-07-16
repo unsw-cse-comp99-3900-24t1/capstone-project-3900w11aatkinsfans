@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:28",
+            "00:30",
+            "00:38",
+            "00:51",
+            "01:19",
+            "02:50",
+            "03:20",
+            "03:24",
+            "03:34",
+            "04:03",
+            "04:22",
+            "05:00"
+        ],
+        "label": "which"
+    },
+    "clusterList": [
+        {
+            "phrase": "which one do i like the most both",
+            "count": 5
+        },
+        {
+            "phrase": "know any of them",
+            "count": 3
+        },
+        {
+            "phrase": "one is good many is better",
+            "count": 1
+        },
+        {
+            "phrase": "can i pick two please",
+            "count": 1
+        },
+        {
+            "phrase": "the following five",
+            "count": 1
+        },
+        {
+            "phrase": "that many i don't know which one i should pick",
+            "count": 1
+        },
+        {
+            "phrase": "only the ones i'm going to keep",
+            "count": 1
+        }
+    ]
+}

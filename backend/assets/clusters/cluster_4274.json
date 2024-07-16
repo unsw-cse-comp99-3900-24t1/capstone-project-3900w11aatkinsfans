@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:50",
+            "02:19",
+            "04:05",
+            "04:28"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look out for a big deal hangover",
+            "count": 1
+        },
+        {
+            "phrase": "what is wrong in my life i must get drunk every night",
+            "count": 1
+        },
+        {
+            "phrase": "i'm so tired man you know i wouldn't spend it on booze man",
+            "count": 1
+        },
+        {
+            "phrase": "take lots with alcohol",
+            "count": 1
+        },
+        {
+            "phrase": "hey it's past midnight and i'm drinking alone this can't be good for my health",
+            "count": 1
+        }
+    ]
+}

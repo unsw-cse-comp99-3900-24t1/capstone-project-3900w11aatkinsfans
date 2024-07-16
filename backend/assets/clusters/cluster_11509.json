@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the moderate voice",
+            "count": 1
+        },
+        {
+            "phrase": "to be moderated",
+            "count": 1
+        }
+    ]
+}

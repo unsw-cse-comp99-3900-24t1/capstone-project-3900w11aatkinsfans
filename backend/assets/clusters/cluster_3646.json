@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "00:42",
+            "01:25",
+            "02:01",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the main challenges that face barrick and i think i may as well speak for the industry at large are the cost factors",
+            "count": 4
+        },
+        {
+            "phrase": "we haven't heard any data-driven reason yet to make us think that this is not a good choice",
+            "count": 1
+        }
+    ]
+}

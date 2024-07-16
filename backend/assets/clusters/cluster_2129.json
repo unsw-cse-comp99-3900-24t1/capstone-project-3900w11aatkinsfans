@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:46",
+            "01:40",
+            "01:56",
+            "02:26",
+            "05:04"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have secret laws governing secret agencies that are engaging in secret spying against americans and they're using our own tax dollars to do it this isn't keeping us safer it's only making all americans suspects in the eyes of the government",
+            "count": 2
+        },
+        {
+            "phrase": "well look we are not going to be spying on people who engage in lawful activities",
+            "count": 2
+        },
+        {
+            "phrase": "a federal judge in california said wednesday that the wiretapping law established by congress was the exclusive means for the president to eavesdrop on americans and he rejected the government's claim that the president's constitutional authority as commander in chief trumped that law",
+            "count": 2
+        },
+        {
+            "phrase": "can't warrantless wiretaps eavesdropping on our citizens earmarks runaway spending on our watch",
+            "count": 1
+        },
+        {
+            "phrase": "do not infringe on americans privacy",
+            "count": 1
+        }
+    ]
+}

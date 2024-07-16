@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "04:04"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's just scenery",
+            "count": 1
+        },
+        {
+            "phrase": "you can't get any more scenic than that",
+            "count": 1
+        }
+    ]
+}

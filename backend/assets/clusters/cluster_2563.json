@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:28",
+            "01:01",
+            "01:14",
+            "01:15",
+            "03:35",
+            "04:13"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our mission is to get health on the table when building decisions are being made",
+            "count": 1
+        },
+        {
+            "phrase": "we want to modify it so that people living with hiv don't lose their jobs and are not barred from schools because of the disease",
+            "count": 1
+        },
+        {
+            "phrase": "we're trying to get a picture of the health of the industry overall",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not sure we will ever get to a point where we can say this is not a public health problem",
+            "count": 1
+        },
+        {
+            "phrase": "we're on top of this problem and are working in the interest of public health",
+            "count": 1
+        },
+        {
+            "phrase": "we need to find the right investments and regulations to encourage people to adopt a healthy lifestyle or we risk facing higher rates of death disease and disability and the related costs",
+            "count": 1
+        },
+        {
+            "phrase": "people's lives are being affected it needs to be covered",
+            "count": 1
+        }
+    ]
+}

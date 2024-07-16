@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:11",
+            "02:05",
+            "04:33"
+        ],
+        "label": "family"
+    },
+    "clusterList": [
+        {
+            "phrase": "family finances i do it the old fashioned way and leave it to my husband",
+            "count": 1
+        },
+        {
+            "phrase": "i have a child at university tuition and living expenses there come to 15 000 a year",
+            "count": 1
+        },
+        {
+            "phrase": "our income comes exclusively from my wife the kids mother",
+            "count": 1
+        },
+        {
+            "phrase": "well the good news is for the qwest program which is funded by the state and federal governments that the grandparents can apply for the grandchildren who are living in their homes they do not count the grandparents income",
+            "count": 1
+        }
+    ]
+}

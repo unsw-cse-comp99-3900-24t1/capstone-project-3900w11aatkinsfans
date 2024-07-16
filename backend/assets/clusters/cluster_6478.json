@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:13",
+            "03:11"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "the star-spangled banner",
+            "count": 2
+        },
+        {
+            "phrase": "as i listened to the star spangled banner i was proud i'd made it",
+            "count": 1
+        }
+    ]
+}

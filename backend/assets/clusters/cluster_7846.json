@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:50"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "even the performance of the penang government since the elections is an issue",
+            "count": 1
+        },
+        {
+            "phrase": "this is proof that what we talked about scandals and misappropriation by the previous administration did happen and this is why the people of penang voted us in on march 8",
+            "count": 1
+        }
+    ]
+}

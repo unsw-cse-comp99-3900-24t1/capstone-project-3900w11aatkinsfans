@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "04:42",
+            "04:45"
+        ],
+        "label": "pocono"
+    },
+    "clusterList": [
+        {
+            "phrase": "pocono is a very demanding track patrick has had some ups and downs there but we are confident we can bounce back from our performance there in june and have a good afternoon there will be some stiff competition there but we are ready for anything that is presented to us look for our camouflage no 60 dodge charger up front",
+            "count": 1
+        },
+        {
+            "phrase": "i'm planning on winning the brickyard in the 8 car",
+            "count": 1
+        },
+        {
+            "phrase": "we've got the stuff we've got the team the cars are awesome on flat tracks i have never planned on anything any more than my plan is for the brickyard that's the crown jewel",
+            "count": 1
+        },
+        {
+            "phrase": "we might pick something before the north-south race we had three guys in the shop fixing all of their stuff because they are all tore up right now we are just going to take it easy",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:33"
+        ],
+        "label": "go"
+    },
+    "clusterList": [
+        {
+            "phrase": "go to the beach with him go to chuck e cheese's and busch gardens",
+            "count": 1
+        },
+        {
+            "phrase": "my 20-year-old son says there's nothing to do except go to the pub and drink",
+            "count": 1
+        }
+    ]
+}

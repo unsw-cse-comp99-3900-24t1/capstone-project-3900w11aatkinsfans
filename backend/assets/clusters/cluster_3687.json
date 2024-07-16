@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "01:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the vast amount of human activity ought to be none of the government's business",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think it is the government's business to tell you how to spend your leisure time",
+            "count": 2
+        },
+        {
+            "phrase": "the vast amount of human activity ought to be none of the government's business i don't think it is the government's business to tell you how to spend your leisure time",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:11",
+            "00:12",
+            "01:02",
+            "02:15",
+            "02:43",
+            "03:18",
+            "03:43",
+            "04:13",
+            "04:38",
+            "04:51"
+        ],
+        "label": "help"
+    },
+    "clusterList": [
+        {
+            "phrase": "help me to find you",
+            "count": 2
+        },
+        {
+            "phrase": "is anybody there",
+            "count": 1
+        },
+        {
+            "phrase": "have you found someone yet",
+            "count": 1
+        },
+        {
+            "phrase": "i won't be found",
+            "count": 1
+        },
+        {
+            "phrase": "but can you help me i promised to meet a friend an hour ago but i don't know where i am",
+            "count": 1
+        },
+        {
+            "phrase": "i'll meet you somewhere in the store you'll just have to find me",
+            "count": 1
+        },
+        {
+            "phrase": "would you get lonely here if i went looking for him",
+            "count": 1
+        },
+        {
+            "phrase": "took you long enough to find me",
+            "count": 1
+        },
+        {
+            "phrase": "i'm a detective from chandler massachusetts",
+            "count": 1
+        },
+        {
+            "phrase": "do you want to know me",
+            "count": 1
+        },
+        {
+            "phrase": "yes i am where is tommy",
+            "count": 1
+        },
+        {
+            "phrase": "search for friends",
+            "count": 1
+        },
+        {
+            "phrase": "looking for a man",
+            "count": 1
+        }
+    ]
+}

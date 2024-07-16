@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "03:12",
+            "03:22",
+            "04:04"
+        ],
+        "label": "completeness"
+    },
+    "clusterList": [
+        {
+            "phrase": "completeness of vision",
+            "count": 2
+        },
+        {
+            "phrase": "expressions of completeness",
+            "count": 2
+        },
+        {
+            "phrase": "what's we're talking about is essentially completing the original vision",
+            "count": 1
+        }
+    ]
+}

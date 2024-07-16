@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "02:05",
+            "03:19",
+            "03:24"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "you've ever wondered what it's like to work at microsoft i'm pleased to be able to point you to microspotting a blog about the people who work here it's not just about the people at office it's about people throughout the company",
+            "count": 3
+        },
+        {
+            "phrase": "people are blown away by the information you can get on moma our intranet because there is so much information shared across the company employees have insight into what's happening with the business and what's important we also have people do things like snippets every monday all the employees write an email that has five to seven bullet points on what you did the previous week being a search company we take all the emails and make a giant web page and index them if you're wondering who's working on maps you can find out it allows us to share what we know across the whole company and it reduces duplication",
+            "count": 1
+        }
+    ]
+}

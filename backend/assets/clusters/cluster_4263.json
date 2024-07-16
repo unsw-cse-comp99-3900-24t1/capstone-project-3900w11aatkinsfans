@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:42",
+            "01:52",
+            "02:39",
+            "05:01"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is understood and agreed that notwithstanding any other provision of this agreement licensee's breach of sections 2",
+            "count": 1
+        },
+        {
+            "phrase": "i accept terms of service",
+            "count": 1
+        },
+        {
+            "phrase": "a contractual term which has not been individually negotiated shall be regarded as unfair if contrary to the requirement of good faith it causes a significant imbalance in the parties rights and obligations arising under the contract to the detriment of the consumer",
+            "count": 1
+        },
+        {
+            "phrase": "this cooperation includes providing the oig full and unrestricted access to epa documents records and personnel",
+            "count": 1
+        },
+        {
+            "phrase": "the same having been settled parties can now execute the subscription agreement",
+            "count": 1
+        }
+    ]
+}

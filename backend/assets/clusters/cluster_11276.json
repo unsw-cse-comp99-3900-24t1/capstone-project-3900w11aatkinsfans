@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:17"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select distinct email from breakingnews",
+            "count": 2
+        }
+    ]
+}

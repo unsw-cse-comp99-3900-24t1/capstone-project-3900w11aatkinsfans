@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:42",
+            "02:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "body cleansing programs",
+            "count": 2
+        },
+        {
+            "phrase": "the master cleanse diet",
+            "count": 1
+        }
+    ]
+}

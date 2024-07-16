@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:50",
+            "01:52"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it wasn't in the dictionary",
+            "count": 2
+        },
+        {
+            "phrase": "then it probably isn't a word",
+            "count": 2
+        }
+    ]
+}

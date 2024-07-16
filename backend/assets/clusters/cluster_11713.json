@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:57",
+            "04:50"
+        ],
+        "label": "rollin"
+    },
+    "clusterList": [
+        {
+            "phrase": "rollin in dough",
+            "count": 1
+        },
+        {
+            "phrase": "the height is right for rolling out dough but it's too narrow",
+            "count": 1
+        }
+    ]
+}

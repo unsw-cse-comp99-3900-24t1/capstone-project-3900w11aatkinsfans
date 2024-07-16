@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:15"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who suffered most under saddam",
+            "count": 1
+        },
+        {
+            "phrase": "who has suffered most since saddam's fall",
+            "count": 1
+        }
+    ]
+}

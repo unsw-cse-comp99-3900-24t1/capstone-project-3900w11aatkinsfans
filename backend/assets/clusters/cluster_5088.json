@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:20",
+            "03:51",
+            "04:42"
+        ],
+        "label": "website"
+    },
+    "clusterList": [
+        {
+            "phrase": "website passwords are annoyin this patch is a hyperlink",
+            "count": 1
+        },
+        {
+            "phrase": "hacking myspace password",
+            "count": 1
+        },
+        {
+            "phrase": "crack admin password",
+            "count": 1
+        },
+        {
+            "phrase": "hack on web related stuff",
+            "count": 1
+        }
+    ]
+}

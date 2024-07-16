@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:01"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have a good safety history",
+            "count": 1
+        },
+        {
+            "phrase": "has a very good safety record been around along time",
+            "count": 1
+        },
+        {
+            "phrase": "has a very good safety record and has been around along time",
+            "count": 1
+        }
+    ]
+}

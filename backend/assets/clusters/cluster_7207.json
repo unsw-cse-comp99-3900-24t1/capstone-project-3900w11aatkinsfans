@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "03:11"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the problem with the bible is that it's had too many wikipedia edits",
+            "count": 1
+        },
+        {
+            "phrase": "well-documented answers to criticisms of lds mormon doctrine belief and practice",
+            "count": 1
+        },
+        {
+            "phrase": "the old testament does not lose value in our eyes when we are introduced to the new testament and the new testament is only enhanced when we read the book of mormon",
+            "count": 1
+        }
+    ]
+}

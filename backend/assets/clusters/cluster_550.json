@@ -1,0 +1,105 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "00:29",
+            "00:36",
+            "01:38",
+            "02:00",
+            "02:11",
+            "02:39",
+            "02:46",
+            "03:05",
+            "03:22",
+            "03:36",
+            "03:41",
+            "03:50",
+            "04:18",
+            "04:28",
+            "04:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mouthpiece wrestling show",
+            "count": 7
+        },
+        {
+            "phrase": "the merv griffin show",
+            "count": 2
+        },
+        {
+            "phrase": "the greatest show on earth",
+            "count": 2
+        },
+        {
+            "phrase": "the bob amp tom show",
+            "count": 1
+        },
+        {
+            "phrase": "best for the show",
+            "count": 1
+        },
+        {
+            "phrase": "mac king comedy magic show",
+            "count": 1
+        },
+        {
+            "phrase": "one man show",
+            "count": 1
+        },
+        {
+            "phrase": "chris moyles show",
+            "count": 1
+        },
+        {
+            "phrase": "the donkey show",
+            "count": 1
+        },
+        {
+            "phrase": "our very first show",
+            "count": 1
+        },
+        {
+            "phrase": "mouthpiece wrestling show",
+            "count": 1
+        },
+        {
+            "phrase": "the chris moyles show",
+            "count": 1
+        },
+        {
+            "phrase": "the andy griffith show",
+            "count": 1
+        },
+        {
+            "phrase": "the red skelton show",
+            "count": 1
+        },
+        {
+            "phrase": "that 70's show",
+            "count": 1
+        }
+    ]
+}

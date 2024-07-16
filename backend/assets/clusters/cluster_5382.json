@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "04:03",
+            "04:23",
+            "04:42"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "coming in and not having the anxiety of not being a rookie and knowing what to expect helps a lot",
+            "count": 2
+        },
+        {
+            "phrase": "i've said for quite some time i've been playing quite well and not getting anything out of it",
+            "count": 1
+        },
+        {
+            "phrase": "it's disappointing because i played really well today but i really didn't think i was going to get into a playoff today anyways",
+            "count": 1
+        }
+    ]
+}

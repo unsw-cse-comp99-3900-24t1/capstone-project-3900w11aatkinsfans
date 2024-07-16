@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:25",
+            "02:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the ship now not quite so menacing morphs back into the little boat it really is",
+            "count": 1
+        },
+        {
+            "phrase": "a real and typical swordfishing trip from leaving the dock to returning",
+            "count": 1
+        },
+        {
+            "phrase": "fishermen bring the creatures ashore with their flippers pierced and tied with straw they are routinely dragged on to boat ramps and turned on their backs and left to suffer for days in the hot sun",
+            "count": 1
+        }
+    ]
+}

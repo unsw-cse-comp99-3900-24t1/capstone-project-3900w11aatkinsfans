@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "01:09",
+            "01:43",
+            "03:43"
+        ],
+        "label": "invites"
+    },
+    "clusterList": [
+        {
+            "phrase": "the turkish republic as a democratic secular state governed by the rule of law will continue without stopping on its path toward modernity that ataturk guided it on",
+            "count": 4
+        },
+        {
+            "phrase": "invites all those involved in turkish politics to resolve their differences in a spirit of dialogue and compromise while respecting the rule of law and fundamental freedoms",
+            "count": 1
+        }
+    ]
+}

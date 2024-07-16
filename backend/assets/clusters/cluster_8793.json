@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "04:18"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you come to my house you will find a lot of semiotic pollution",
+            "count": 1
+        },
+        {
+            "phrase": "i've been here long enough to know it's fog not pollution",
+            "count": 1
+        }
+    ]
+}

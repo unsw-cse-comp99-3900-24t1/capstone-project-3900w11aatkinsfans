@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "04:00",
+            "04:05"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's nice to know the dncc sees what we see in trauner",
+            "count": 1
+        },
+        {
+            "phrase": "why would protesters go to denver if they were not going to have access to the site of the dnc",
+            "count": 1
+        },
+        {
+            "phrase": "people are coming to denver in order to be seen at the site of the dnc",
+            "count": 1
+        },
+        {
+            "phrase": "they're coming to denver in order to be seen at the site of the dnc",
+            "count": 1
+        }
+    ]
+}

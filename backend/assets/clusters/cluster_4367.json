@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "02:09"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "suddenly it's real",
+            "count": 3
+        },
+        {
+            "phrase": "no it can't be real i was in my flat last moment i remember no it can't be true how can i",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:29",
+            "01:18",
+            "01:55"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will get back at",
+            "count": 1
+        },
+        {
+            "phrase": "no you're not in the system come back later",
+            "count": 1
+        },
+        {
+            "phrase": "officially missing you",
+            "count": 1
+        },
+        {
+            "phrase": "you go and odds are you come back",
+            "count": 1
+        }
+    ]
+}

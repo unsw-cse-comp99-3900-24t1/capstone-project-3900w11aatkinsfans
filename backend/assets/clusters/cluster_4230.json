@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:15",
+            "03:18",
+            "04:04",
+            "05:05"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why me why so much why again",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know why",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know why though",
+            "count": 1
+        },
+        {
+            "phrase": "why do yo like that",
+            "count": 1
+        },
+        {
+            "phrase": "all because of you",
+            "count": 1
+        }
+    ]
+}

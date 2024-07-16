@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:23",
+            "01:07",
+            "01:20",
+            "02:19",
+            "02:46",
+            "03:19",
+            "04:24"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as we continue",
+            "count": 2
+        },
+        {
+            "phrase": "it's got to continue",
+            "count": 2
+        },
+        {
+            "phrase": "obviously this is going to come to an end",
+            "count": 1
+        },
+        {
+            "phrase": "we need to end this",
+            "count": 1
+        },
+        {
+            "phrase": "work will continue",
+            "count": 1
+        },
+        {
+            "phrase": "well we'll have to continue it later",
+            "count": 1
+        },
+        {
+            "phrase": "it's not the end yet let's stay with it",
+            "count": 1
+        }
+    ]
+}

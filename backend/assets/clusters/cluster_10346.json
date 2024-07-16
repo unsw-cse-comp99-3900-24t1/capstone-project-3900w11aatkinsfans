@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:57",
+            "04:52"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is a second life-based photo",
+            "count": 1
+        },
+        {
+            "phrase": "post a photo of something that either lives or is a product of life",
+            "count": 1
+        }
+    ]
+}

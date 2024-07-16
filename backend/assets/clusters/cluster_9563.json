@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "04:28"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have let fugitives go",
+            "count": 1
+        },
+        {
+            "phrase": "those criminals are on the run and we will chase the rest of them we will",
+            "count": 1
+        }
+    ]
+}

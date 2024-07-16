@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the process of obtaining divorce is very difficult",
+            "count": 1
+        },
+        {
+            "phrase": "unless your parents support you financially and psychologically or unless you are capable of supporting yourself and your children and own your own flat don't even think of getting divorced or life can be very hard especially when there are children",
+            "count": 1
+        },
+        {
+            "phrase": "divorce amounts to a certificate of failure for a couple though both the husband and wife most likely believe they have exerted all the possible efforts to pass the exam it is the most important exam in life because it means the collapse of a family",
+            "count": 1
+        },
+        {
+            "phrase": "has divorce become such an easy word",
+            "count": 1
+        }
+    ]
+}

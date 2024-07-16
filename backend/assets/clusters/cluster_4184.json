@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "03:50",
+            "03:56",
+            "04:46"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i mean i want to get back out there obviously because my last outing wasn't what i was hoping for",
+            "count": 2
+        },
+        {
+            "phrase": "it was one of those things where if i ever got the chance to play for the yankees i certainly didn't want to pass up on that opportunity",
+            "count": 2
+        },
+        {
+            "phrase": "wow playing for torre was great maybe i should have been a yankee all those years",
+            "count": 1
+        }
+    ]
+}

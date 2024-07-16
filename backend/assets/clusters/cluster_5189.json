@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:01",
+            "03:05",
+            "03:18",
+            "03:23"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't mess with me",
+            "count": 2
+        },
+        {
+            "phrase": "if you mess with me you're a deadmeat",
+            "count": 1
+        },
+        {
+            "phrase": "don't toy with me",
+            "count": 1
+        }
+    ]
+}

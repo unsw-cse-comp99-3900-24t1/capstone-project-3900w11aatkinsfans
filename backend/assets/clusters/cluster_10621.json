@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "03:55"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we found his mobile phone in his pocket retrieved the sim and called his family",
+            "count": 1
+        },
+        {
+            "phrase": "pull my information up on his computer",
+            "count": 1
+        }
+    ]
+}

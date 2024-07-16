@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:27",
+            "04:45"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my sister is smaller than me much smaller then me",
+            "count": 1
+        },
+        {
+            "phrase": "fine mom where did you say it was big i cannot see it being big",
+            "count": 1
+        },
+        {
+            "phrase": "when your baby has been that sick and that tiny it's huge",
+            "count": 1
+        }
+    ]
+}

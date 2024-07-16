@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "00:59",
+            "02:14",
+            "02:46",
+            "02:57",
+            "03:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the practical issues included world poverty the wars in iraq and afghanistan the situation in palestine and israel the danger of further wars and the freedom of religion",
+            "count": 4
+        },
+        {
+            "phrase": "the practical issues included world poverty the wars in afghanistan the situation in palestine and israel the danger of further wars and the freedom of religion",
+            "count": 1
+        },
+        {
+            "phrase": "we want to show that people who come and profit from palestinian suffering will lose",
+            "count": 1
+        },
+        {
+            "phrase": "it is about time that we in the arab world and beyond understand more fully this reality",
+            "count": 1
+        },
+        {
+            "phrase": "the arab summit was a sad scene it was a reflection of the arab realities",
+            "count": 1
+        },
+        {
+            "phrase": "the lebanese crisis is a microcosm of what is going on in the wider arab world",
+            "count": 1
+        },
+        {
+            "phrase": "the rupture between hamas and fatah is yet another example of the splits and spats within the arab world",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:55",
+            "03:34"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was a totally ridiculous overreaction",
+            "count": 2
+        },
+        {
+            "phrase": "they must be overreacting",
+            "count": 1
+        },
+        {
+            "phrase": "this is an overreach on somebody's part",
+            "count": 1
+        }
+    ]
+}

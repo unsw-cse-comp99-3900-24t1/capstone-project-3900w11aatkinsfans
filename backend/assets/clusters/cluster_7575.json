@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "04:18",
+            "05:00"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our voices will ring together until the twelfth of never we all will love forever as one",
+            "count": 1
+        },
+        {
+            "phrase": "we became lovers forever eternally",
+            "count": 1
+        },
+        {
+            "phrase": "if you promised me that we'd still be lovers afterwards just like before sure",
+            "count": 1
+        }
+    ]
+}

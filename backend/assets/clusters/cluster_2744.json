@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "03:18",
+            "03:55",
+            "04:13",
+            "04:27",
+            "04:37"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is my evidence",
+            "count": 2
+        },
+        {
+            "phrase": "oh no not again any evidence this time",
+            "count": 1
+        },
+        {
+            "phrase": "there's no greater piece of evidence than what you faced",
+            "count": 1
+        },
+        {
+            "phrase": "i see i can't imagine it's easy piecing old evidence together",
+            "count": 1
+        },
+        {
+            "phrase": "there isn't a shred of evidence",
+            "count": 1
+        },
+        {
+            "phrase": "if the evidence is there why are you going to try to fight something stretch it out so it's more painful for everybody",
+            "count": 1
+        }
+    ]
+}

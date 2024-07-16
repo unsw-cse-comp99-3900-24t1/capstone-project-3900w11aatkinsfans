@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:32",
+            "04:31"
+        ],
+        "label": "obama's"
+    },
+    "clusterList": [
+        {
+            "phrase": "only celebrities like barack obama go to the gym three times a day",
+            "count": 2
+        },
+        {
+            "phrase": "obama's a celebrity without portfolio",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:09",
+            "00:47"
+        ],
+        "label": "passive"
+    },
+    "clusterList": [
+        {
+            "phrase": "passive device that needs no batteries",
+            "count": 3
+        }
+    ]
+}

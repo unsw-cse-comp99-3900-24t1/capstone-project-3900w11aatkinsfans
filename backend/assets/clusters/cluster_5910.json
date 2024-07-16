@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "02:24",
+            "04:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wanted a place nearby to get some hill work so i looked around for hills in the neighborhood",
+            "count": 1
+        },
+        {
+            "phrase": "the county is going to grow and you need extensions",
+            "count": 1
+        },
+        {
+            "phrase": "new digs downtown",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:16",
+            "00:56",
+            "04:18"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two american elites",
+            "count": 5
+        }
+    ]
+}

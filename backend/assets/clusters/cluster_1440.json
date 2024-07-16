@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:07",
+            "00:16",
+            "00:29",
+            "01:38",
+            "02:42",
+            "04:27",
+            "04:49",
+            "04:56",
+            "05:03"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will not be able to pay my rent buy food or put gas in my car to transport my children",
+            "count": 5
+        },
+        {
+            "phrase": "i'm moving off the island because i can't afford the cost of commuting after 12 years of living here i have to pull my son out of school because i can't afford it",
+            "count": 2
+        },
+        {
+            "phrase": "we have gone through hard times when there was no food at home i don't want my children to beg for food from relatives again",
+            "count": 1
+        },
+        {
+            "phrase": "i came to this place when my child got sick because we did not have enough food at home",
+            "count": 1
+        },
+        {
+            "phrase": "help to pay my rent to eat it will help",
+            "count": 1
+        },
+        {
+            "phrase": "we need to go to your parents right this minute i need my money they can't do this to my money",
+            "count": 1
+        }
+    ]
+}

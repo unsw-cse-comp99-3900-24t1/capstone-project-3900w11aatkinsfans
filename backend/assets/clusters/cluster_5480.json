@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "03:05",
+            "04:18",
+            "04:33"
+        ],
+        "label": "http"
+    },
+    "clusterList": [
+        {
+            "phrase": "http thestar com my news story asp file 2007 3 29 nation 17225671 amp sec nation amp focus 1",
+            "count": 1
+        },
+        {
+            "phrase": "oww daily news amp notes",
+            "count": 1
+        },
+        {
+            "phrase": "history amp references",
+            "count": 1
+        },
+        {
+            "phrase": "sen james inhofe r okla said to the business amp media institute",
+            "count": 1
+        }
+    ]
+}

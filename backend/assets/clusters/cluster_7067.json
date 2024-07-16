@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:38",
+            "03:29"
+        ],
+        "label": "war"
+    },
+    "clusterList": [
+        {
+            "phrase": "war is not in our vocabulary unless eritrea invades our territory",
+            "count": 1
+        },
+        {
+            "phrase": "in ethiopia's view war is not an option at all unless eritrea violates the territorial integrity of ethiopia",
+            "count": 1
+        },
+        {
+            "phrase": "the border dispute between ethiopia and eritrea remains total and the united nations is withdrawing without having been able to assist the two countries in finding a common ground in spite of having tried all to achieve it",
+            "count": 1
+        }
+    ]
+}

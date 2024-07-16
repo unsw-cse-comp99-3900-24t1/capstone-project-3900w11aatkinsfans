@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:50",
+            "01:06",
+            "01:40",
+            "02:19",
+            "02:26",
+            "03:18",
+            "04:21"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "well you're now able to stay",
+            "count": 2
+        },
+        {
+            "phrase": "oh you won't be staying here",
+            "count": 1
+        },
+        {
+            "phrase": "it's up to me i need to prove that i belong here this is where i want to be",
+            "count": 1
+        },
+        {
+            "phrase": "so you knew i was going to ask you to stay",
+            "count": 1
+        },
+        {
+            "phrase": "you can't do that i'm staying i need to be admitted",
+            "count": 1
+        },
+        {
+            "phrase": "this time i'm staying i'm staying for good i'll be back where i was born to be with one look i'll be me",
+            "count": 1
+        },
+        {
+            "phrase": "tj you're staying here",
+            "count": 1
+        },
+        {
+            "phrase": "if you want to you can continue from here",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:47"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the obama iraq documentary",
+            "count": 1
+        },
+        {
+            "phrase": "demands coincided with the democrat's highly publicized trip to iraq",
+            "count": 1
+        }
+    ]
+}

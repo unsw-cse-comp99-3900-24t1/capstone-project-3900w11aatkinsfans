@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:18",
+            "02:02",
+            "02:33",
+            "02:36",
+            "03:14",
+            "03:57"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "from a safe distance",
+            "count": 2
+        },
+        {
+            "phrase": "but you're not going to be able to get it up there",
+            "count": 1
+        },
+        {
+            "phrase": "the safety zone is six feet i think it's completely unenforceable",
+            "count": 1
+        },
+        {
+            "phrase": "oh no that is dangerous",
+            "count": 1
+        },
+        {
+            "phrase": "you're in an enclosed space turning it on here will just kill you",
+            "count": 1
+        },
+        {
+            "phrase": "you can't just reach in there it's not safe",
+            "count": 1
+        }
+    ]
+}

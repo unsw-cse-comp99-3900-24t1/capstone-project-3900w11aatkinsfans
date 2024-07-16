@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:51"
+        ],
+        "label": "therefore"
+    },
+    "clusterList": [
+        {
+            "phrase": "therefore they have never",
+            "count": 1
+        },
+        {
+            "phrase": "they never have before",
+            "count": 1
+        }
+    ]
+}

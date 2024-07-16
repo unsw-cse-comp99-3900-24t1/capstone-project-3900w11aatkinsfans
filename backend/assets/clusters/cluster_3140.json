@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:23",
+            "02:47",
+            "03:27",
+            "03:34",
+            "04:46"
+        ],
+        "label": "ipod"
+    },
+    "clusterList": [
+        {
+            "phrase": "ipod touch freezes at apple screen",
+            "count": 1
+        },
+        {
+            "phrase": "itunes has encountered a problem and needs to close",
+            "count": 1
+        },
+        {
+            "phrase": "itunes cannot run because some of its required files are missing please reinstall itunes",
+            "count": 1
+        },
+        {
+            "phrase": "the itunes quicktime installer requires windows xp service pack 2 or later to install windows xp service pack use windows update",
+            "count": 1
+        },
+        {
+            "phrase": "another failed ipod",
+            "count": 1
+        },
+        {
+            "phrase": "look for appletvs checkbox is checked i've done the power down trick and reinstalled itunes fresh and have gone to add the computer library to get the pin number except there's no place to enter it when i get into itunes",
+            "count": 1
+        }
+    ]
+}

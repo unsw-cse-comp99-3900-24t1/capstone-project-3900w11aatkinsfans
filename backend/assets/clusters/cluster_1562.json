@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:26",
+            "01:02",
+            "01:09",
+            "01:34",
+            "02:42",
+            "03:24",
+            "03:38",
+            "03:48",
+            "03:51"
+        ],
+        "label": "crazy"
+    },
+    "clusterList": [
+        {
+            "phrase": "crazy frog song",
+            "count": 2
+        },
+        {
+            "phrase": "paradise by the dashboard light",
+            "count": 1
+        },
+        {
+            "phrase": "the derriere song",
+            "count": 1
+        },
+        {
+            "phrase": "song for clay disappear here",
+            "count": 1
+        },
+        {
+            "phrase": "it's the new nepa song",
+            "count": 1
+        },
+        {
+            "phrase": "no country music",
+            "count": 1
+        },
+        {
+            "phrase": "song for the dumped",
+            "count": 1
+        },
+        {
+            "phrase": "thom pain based on nothing",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes a song the music of dan fogelberg",
+            "count": 1
+        },
+        {
+            "phrase": "the last waltz",
+            "count": 1
+        }
+    ]
+}

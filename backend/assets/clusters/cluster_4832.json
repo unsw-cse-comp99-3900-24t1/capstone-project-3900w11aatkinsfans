@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:51",
+            "04:21",
+            "04:28"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now with just the two of us we don't need as much space as this home offers",
+            "count": 1
+        },
+        {
+            "phrase": "most of the bedrooms have two beds in them so they're kind of made to be shared",
+            "count": 1
+        },
+        {
+            "phrase": "we've been looking for a starter home here for years",
+            "count": 1
+        },
+        {
+            "phrase": "we should move to that house that would be a good",
+            "count": 1
+        }
+    ]
+}

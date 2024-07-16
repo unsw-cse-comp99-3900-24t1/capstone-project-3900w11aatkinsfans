@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:42",
+            "02:43",
+            "03:18"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are many examples including water pollution dumping of toxic waste air pollution deforestation irresponsible dumping of garbage",
+            "count": 2
+        },
+        {
+            "phrase": "it's a combination of dumping of litter and just the misuse of the area here",
+            "count": 1
+        },
+        {
+            "phrase": "we are not dealing with a typical landfill problem",
+            "count": 1
+        }
+    ]
+}

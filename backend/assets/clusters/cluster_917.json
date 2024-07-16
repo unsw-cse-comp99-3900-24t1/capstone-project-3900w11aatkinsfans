@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "00:33",
+            "00:41",
+            "01:00",
+            "01:33",
+            "02:01",
+            "02:39",
+            "02:43",
+            "03:09",
+            "03:29",
+            "03:51",
+            "03:55",
+            "04:08"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're the band with the two old guys and the two young guys",
+            "count": 2
+        },
+        {
+            "phrase": "boys of steel",
+            "count": 2
+        },
+        {
+            "phrase": "one of the boys",
+            "count": 1
+        },
+        {
+            "phrase": "20th century boys",
+            "count": 1
+        },
+        {
+            "phrase": "the boys have sorta shaken that off",
+            "count": 1
+        },
+        {
+            "phrase": "who are these boys",
+            "count": 1
+        },
+        {
+            "phrase": "attack on the pin-up boys",
+            "count": 1
+        },
+        {
+            "phrase": "trailer park boys",
+            "count": 1
+        },
+        {
+            "phrase": "attack on pinup boys",
+            "count": 1
+        },
+        {
+            "phrase": "the pink gang",
+            "count": 1
+        },
+        {
+            "phrase": "the dope boys",
+            "count": 1
+        },
+        {
+            "phrase": "allman brothers band",
+            "count": 1
+        },
+        {
+            "phrase": "who the fuck are those guys",
+            "count": 1
+        },
+        {
+            "phrase": "what are they doin over there they're filmin somethin they're filmin midgets",
+            "count": 1
+        }
+    ]
+}

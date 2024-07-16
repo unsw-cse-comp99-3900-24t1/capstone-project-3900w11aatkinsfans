@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:10",
+            "00:12",
+            "00:41",
+            "00:50",
+            "04:06"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your children got no business going to the street for love there's no love out there",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "03:18"
+        ],
+        "label": "three"
+    },
+    "clusterList": [
+        {
+            "phrase": "three long years and your favourite man is that any way to say hello",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think we've formerly met",
+            "count": 1
+        }
+    ]
+}

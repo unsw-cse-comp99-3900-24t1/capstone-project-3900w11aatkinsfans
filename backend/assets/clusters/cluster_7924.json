@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:15",
+            "04:28"
+        ],
+        "label": "world"
+    },
+    "clusterList": [
+        {
+            "phrase": "world press briefing",
+            "count": 1
+        },
+        {
+            "phrase": "not just pontificating through the press",
+            "count": 1
+        }
+    ]
+}

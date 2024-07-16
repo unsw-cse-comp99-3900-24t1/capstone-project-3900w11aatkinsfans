@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:22",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the house of blue leaves",
+            "count": 1
+        },
+        {
+            "phrase": "the most haunted house in america",
+            "count": 1
+        },
+        {
+            "phrase": "house of the rising sun but heavier",
+            "count": 1
+        }
+    ]
+}

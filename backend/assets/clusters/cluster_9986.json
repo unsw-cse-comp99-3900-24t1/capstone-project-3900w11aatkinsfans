@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:15"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look honey-it's made in china",
+            "count": 1
+        },
+        {
+            "phrase": "made in downtown la",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:10",
+            "00:53",
+            "01:09",
+            "02:05",
+            "02:55",
+            "03:35",
+            "04:13",
+            "04:16",
+            "04:18",
+            "04:21",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "if he was given his release there's no guarantee he'd go anywhere to play",
+            "count": 8
+        },
+        {
+            "phrase": "however he'd have the freedom to choose if he should decide to play",
+            "count": 8
+        },
+        {
+            "phrase": "i like him yet he marches to his own drummer i had him in the all-star game it doesn't make sense to me that he would be available",
+            "count": 2
+        },
+        {
+            "phrase": "barring anything unknown there's no reason he won't go out and set records i think",
+            "count": 2
+        },
+        {
+            "phrase": "it doesn't make sense to me that he would be available",
+            "count": 1
+        }
+    ]
+}

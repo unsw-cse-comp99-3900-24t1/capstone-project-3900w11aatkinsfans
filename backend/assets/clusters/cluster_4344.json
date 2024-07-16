@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:10",
+            "01:47",
+            "05:01",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody prefers bilateral deals because it's easier to agree on what can be imported and exported",
+            "count": 2
+        },
+        {
+            "phrase": "the confusion that this creates in the market is called semiotic pollution",
+            "count": 1
+        },
+        {
+            "phrase": "for the export of goods that are not of a controversial nature",
+            "count": 1
+        },
+        {
+            "phrase": "we should maintain the principles of fair trade and oppose amonopoly market which would have a negative impact on consumers",
+            "count": 1
+        }
+    ]
+}

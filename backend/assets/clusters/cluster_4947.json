@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:06"
+        ],
+        "label": "stigma"
+    },
+    "clusterList": [
+        {
+            "phrase": "stigma of desperation",
+            "count": 3
+        },
+        {
+            "phrase": "there's a real stigma attached to unemployment",
+            "count": 1
+        }
+    ]
+}

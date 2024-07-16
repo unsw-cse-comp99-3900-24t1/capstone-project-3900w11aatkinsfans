@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:48",
+            "03:50",
+            "04:05"
+        ],
+        "label": "life's"
+    },
+    "clusterList": [
+        {
+            "phrase": "life's too short to not screw around all the time",
+            "count": 1
+        },
+        {
+            "phrase": "life's too short to",
+            "count": 1
+        },
+        {
+            "phrase": "throw me a lifeline mine's too short",
+            "count": 1
+        },
+        {
+            "phrase": "life's too fun",
+            "count": 1
+        },
+        {
+            "phrase": "life is too short",
+            "count": 1
+        }
+    ]
+}

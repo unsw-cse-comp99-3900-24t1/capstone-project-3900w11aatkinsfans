@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:28",
+            "00:32",
+            "00:41",
+            "00:46",
+            "00:55",
+            "01:10",
+            "02:05",
+            "02:25",
+            "02:33",
+            "03:08",
+            "04:21"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some will have you believe that the wage gap for women is a myth that we already have laws in place to make pay discrimination on the basis of gender illegal",
+            "count": 6
+        },
+        {
+            "phrase": "that's certainly been the case in other states of australia",
+            "count": 2
+        },
+        {
+            "phrase": "the part time worker move could be a false economy if they're in prisons and hospitals",
+            "count": 1
+        },
+        {
+            "phrase": "many people work at minimum wage jobs",
+            "count": 1
+        },
+        {
+            "phrase": "hours cut is a big deal people still have a job but they are losing income",
+            "count": 1
+        },
+        {
+            "phrase": "that's a typical scenario in these wage-and-hour cases which are kind of prevalent now across the country",
+            "count": 1
+        }
+    ]
+}

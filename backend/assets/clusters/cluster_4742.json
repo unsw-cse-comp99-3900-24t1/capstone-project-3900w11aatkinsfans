@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:56",
+            "01:30"
+        ],
+        "label": "reinforcements"
+    },
+    "clusterList": [
+        {
+            "phrase": "reinforcements are here",
+            "count": 1
+        },
+        {
+            "phrase": "i am calling on more reinforcements from the surrounding areas",
+            "count": 1
+        },
+        {
+            "phrase": "everyone we have reinforcements on the way jaina is calling in everyone from around the area to come help us in this fight",
+            "count": 1
+        },
+        {
+            "phrase": "continue on to the next cruiser we still have plenty of time before reinforcements arrive",
+            "count": 1
+        }
+    ]
+}

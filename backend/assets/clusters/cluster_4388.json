@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:39",
+            "02:10"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "the rest of now",
+            "count": 2
+        },
+        {
+            "phrase": "all that's left",
+            "count": 1
+        },
+        {
+            "phrase": "this is all that's left",
+            "count": 1
+        }
+    ]
+}

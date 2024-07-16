@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are runnin this until we puke",
+            "count": 3
+        },
+        {
+            "phrase": "until we puke is not a figure of speach we are literally going to puke",
+            "count": 3
+        }
+    ]
+}

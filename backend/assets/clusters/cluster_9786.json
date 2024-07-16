@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:25"
+        ],
+        "label": "attempting"
+    },
+    "clusterList": [
+        {
+            "phrase": "attempting to destroy the government of the republic of turkey",
+            "count": 1
+        },
+        {
+            "phrase": "inciting people to rebel against the republic of turkey",
+            "count": 1
+        }
+    ]
+}

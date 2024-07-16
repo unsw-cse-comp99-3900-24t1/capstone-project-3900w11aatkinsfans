@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:43",
+            "03:18",
+            "04:08"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well just think you coulda married him if you had where would you be now",
+            "count": 1
+        },
+        {
+            "phrase": "no i'd rather not not think about it the things him and i did together we were almost married what if that had gone ahead and and the other stuff we did it makes me feel ill",
+            "count": 1
+        },
+        {
+            "phrase": "you obliterated his memory but everyone knows we were married you and i can't be together until he and i are separated",
+            "count": 1
+        },
+        {
+            "phrase": "even if he doesn't remember me he will still be the same as he always was",
+            "count": 1
+        }
+    ]
+}

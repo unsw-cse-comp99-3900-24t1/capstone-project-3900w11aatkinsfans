@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:24",
+            "03:16",
+            "04:00",
+            "04:07"
+        ],
+        "label": "love"
+    },
+    "clusterList": [
+        {
+            "phrase": "love in this club",
+            "count": 2
+        },
+        {
+            "phrase": "the club that's out of this world",
+            "count": 1
+        },
+        {
+            "phrase": "my dad's in the club",
+            "count": 1
+        },
+        {
+            "phrase": "love in the club",
+            "count": 1
+        }
+    ]
+}

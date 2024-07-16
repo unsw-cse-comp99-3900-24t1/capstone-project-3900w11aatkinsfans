@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            12,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "01:29",
+            "02:10",
+            "02:36",
+            "03:54",
+            "03:55",
+            "04:08",
+            "04:13",
+            "04:45",
+            "04:51"
+        ],
+        "label": "glory"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll find whichever vala wrote pain into the great music",
+            "count": 12
+        },
+        {
+            "phrase": "glory by honor vi n2",
+            "count": 4
+        },
+        {
+            "phrase": "the legends of country music",
+            "count": 4
+        },
+        {
+            "phrase": "white winter hymnal",
+            "count": 2
+        },
+        {
+            "phrase": "ray bryant's blues opus from 1978",
+            "count": 1
+        },
+        {
+            "phrase": "songs from the soul of service serves to capture some of this history",
+            "count": 1
+        }
+    ]
+}

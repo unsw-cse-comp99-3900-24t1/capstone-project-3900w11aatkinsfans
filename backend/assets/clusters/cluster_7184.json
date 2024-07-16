@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:06",
+            "04:33"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we oughta have a",
+            "count": 1
+        },
+        {
+            "phrase": "we already have warriors",
+            "count": 1
+        },
+        {
+            "phrase": "let's have another",
+            "count": 1
+        }
+    ]
+}

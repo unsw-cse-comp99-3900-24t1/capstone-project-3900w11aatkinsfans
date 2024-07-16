@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:58",
+            "02:01",
+            "03:10",
+            "03:24",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i find television to be very educating every time somebody turns on the set i go in the other room and read a book",
+            "count": 6
+        },
+        {
+            "phrase": "television will rot your brain",
+            "count": 1
+        },
+        {
+            "phrase": "with children spending an average of four hours in front of the tv everyday it's critical that parents try to make that time as constructive as possible through educational and inspiring programming",
+            "count": 1
+        },
+        {
+            "phrase": "but at least my kids are reading instead of watching tv",
+            "count": 1
+        },
+        {
+            "phrase": "everthing i know i learned from tv philosophy for the unrepentant couch potato",
+            "count": 1
+        }
+    ]
+}

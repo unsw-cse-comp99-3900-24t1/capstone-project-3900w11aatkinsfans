@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "01:19"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we might be hit by an asteroid",
+            "count": 2
+        },
+        {
+            "phrase": "within the next 50 years there's an x probability of an impact by an asteroid of diameter greater than ykm",
+            "count": 2
+        }
+    ]
+}

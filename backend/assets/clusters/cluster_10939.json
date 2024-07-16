@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:44",
+            "03:40"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will not comment on this",
+            "count": 1
+        },
+        {
+            "phrase": "i will decline comment beyond that",
+            "count": 1
+        }
+    ]
+}

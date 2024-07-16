@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:19",
+            "02:25",
+            "02:57",
+            "03:12",
+            "04:24",
+            "05:00"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your mother was my first sunday school teacher",
+            "count": 1
+        },
+        {
+            "phrase": "i knew she was religious just not level 4 religious",
+            "count": 1
+        },
+        {
+            "phrase": "oh your wife just prayed for me on the phone",
+            "count": 1
+        },
+        {
+            "phrase": "and you just prayed that prayer mom",
+            "count": 1
+        },
+        {
+            "phrase": "i put in my time until one day calling myself puppy's mom was no longer an exercise in faith",
+            "count": 1
+        },
+        {
+            "phrase": "but didn't president hinckely tell us not to pray to mother in heaven",
+            "count": 1
+        },
+        {
+            "phrase": "in light of the instruction we have received from the lord himself i regard it as inappropriate for anyone in the church to pray to our mother in heaven",
+            "count": 1
+        }
+    ]
+}

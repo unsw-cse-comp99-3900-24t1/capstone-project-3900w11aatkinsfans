@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            3,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:20",
+            "01:43",
+            "02:02",
+            "02:09",
+            "02:29",
+            "02:43",
+            "04:38"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "i bought em",
+            "count": 6
+        },
+        {
+            "phrase": "how much are they",
+            "count": 2
+        },
+        {
+            "phrase": "what do they look like",
+            "count": 2
+        },
+        {
+            "phrase": "hey what are your rates do you have any deluxe package price",
+            "count": 1
+        },
+        {
+            "phrase": "one dollar each",
+            "count": 1
+        },
+        {
+            "phrase": "that is the price",
+            "count": 1
+        }
+    ]
+}

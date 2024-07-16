@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "02:43",
+            "03:41",
+            "04:10",
+            "04:18",
+            "04:28",
+            "04:44",
+            "04:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "improved security across the country has helped reduce attacks on oil pipelines and the electricity sector's expanded operations and maintenance programs have helped increase production",
+            "count": 2
+        },
+        {
+            "phrase": "collaboratively on strong strategic areas security areas one area will be there's a great opportunity for all of us to cooperate on the environment",
+            "count": 2
+        },
+        {
+            "phrase": "the mission will raise the profile of australia's clean energy capabilities promote australian innovation and connect australian companies to key chinese energy sector representatives and local customers",
+            "count": 1
+        },
+        {
+            "phrase": "water supplies like energy supplies must be secured if the united states is to maintain its current economic and military power in the world and the united states is exerting pressure to access canadian water despite canada's own shortages",
+            "count": 1
+        },
+        {
+            "phrase": "aggressive strategy to diversify our energy portfolio",
+            "count": 1
+        },
+        {
+            "phrase": "threats to u s energy security and the international energy network have never been higher title vii fails to consider even simple solutions to counter real and emerging threats the energy security of the united states requires a bill based on better vision discernment of threats and economics",
+            "count": 1
+        },
+        {
+            "phrase": "support and complete understanding of india's quest for energy security",
+            "count": 1
+        }
+    ]
+}

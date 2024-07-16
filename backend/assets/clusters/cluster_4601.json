@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "02:48",
+            "04:13",
+            "04:28"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's not as tall as his dad but they're similar in that they have big legs a big trunk",
+            "count": 1
+        },
+        {
+            "phrase": "i once saw a midget that was 6 feet tall",
+            "count": 1
+        },
+        {
+            "phrase": "larger than himself",
+            "count": 1
+        },
+        {
+            "phrase": "we really love you but the guy we cast opposite is 5'8",
+            "count": 1
+        }
+    ]
+}

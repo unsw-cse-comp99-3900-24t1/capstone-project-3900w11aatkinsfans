@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:21",
+            "01:39",
+            "02:00",
+            "02:24",
+            "03:34",
+            "03:54",
+            "04:56"
+        ],
+        "label": "years"
+    },
+    "clusterList": [
+        {
+            "phrase": "years without a summer",
+            "count": 1
+        },
+        {
+            "phrase": "pocket full of sunshine",
+            "count": 1
+        },
+        {
+            "phrase": "hazy lazy days of summer",
+            "count": 1
+        },
+        {
+            "phrase": "folks are anxious to have a relaxing inexpensive summer vacation under the warm sun",
+            "count": 1
+        },
+        {
+            "phrase": "american life in the summertime",
+            "count": 1
+        },
+        {
+            "phrase": "these are the dog days of summer",
+            "count": 1
+        },
+        {
+            "phrase": "the so-called summer of 08",
+            "count": 1
+        },
+        {
+            "phrase": "shrugging off the winter blahs",
+            "count": 1
+        }
+    ]
+}

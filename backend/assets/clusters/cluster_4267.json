@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "03:06",
+            "03:43",
+            "03:56",
+            "04:24"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to make a long story short he could not have been better",
+            "count": 1
+        },
+        {
+            "phrase": "because he has a funny name because he is black",
+            "count": 1
+        },
+        {
+            "phrase": "they didn't know him well enough",
+            "count": 1
+        },
+        {
+            "phrase": "it makes it easier to know that so many other people loved him so much and that they would love him enough to do something like this",
+            "count": 1
+        },
+        {
+            "phrase": "because of his name and because that's just how he was",
+            "count": 1
+        }
+    ]
+}

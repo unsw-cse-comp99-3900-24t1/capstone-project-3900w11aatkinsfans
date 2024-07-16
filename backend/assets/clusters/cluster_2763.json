@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:28",
+            "01:10",
+            "01:32",
+            "03:10",
+            "04:13"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a preferred women's health center",
+            "count": 2
+        },
+        {
+            "phrase": "walkin clinic to help shave health care costs",
+            "count": 1
+        },
+        {
+            "phrase": "women of sexual minorities access to health services",
+            "count": 1
+        },
+        {
+            "phrase": "i want to be a female dr",
+            "count": 1
+        },
+        {
+            "phrase": "women's health clinics",
+            "count": 1
+        },
+        {
+            "phrase": "women's health service",
+            "count": 1
+        }
+    ]
+}

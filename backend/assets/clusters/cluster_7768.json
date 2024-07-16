@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:00"
+        ],
+        "label": "videoplayer"
+    },
+    "clusterList": [
+        {
+            "phrase": "videoplayer silverlight controls videoplayer videoplayer silverlight controls version 1 0 0 0 culture neutral publickeytoken null",
+            "count": 1
+        },
+        {
+            "phrase": "videoplayer controls videoplayer videoplayer controls",
+            "count": 1
+        }
+    ]
+}

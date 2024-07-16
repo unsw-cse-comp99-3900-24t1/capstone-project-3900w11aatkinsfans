@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "00:50",
+            "02:28",
+            "03:56",
+            "04:09",
+            "04:45",
+            "05:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have an integration team in place who will sort out the details in due course",
+            "count": 2
+        },
+        {
+            "phrase": "this is a balancing act and we work with multiple agencies to determine what type of support they need from us",
+            "count": 1
+        },
+        {
+            "phrase": "the company is providing resources and support-including severance packages and outplacement assistance-to these individuals",
+            "count": 1
+        },
+        {
+            "phrase": "whether i support government funding for them or not i don't know",
+            "count": 1
+        },
+        {
+            "phrase": "this grant is the result of dollar general corp s commitment to supporting literacy initiatives and terri's staff reaching out to support the uhrichs-ville dennison community",
+            "count": 1
+        },
+        {
+            "phrase": "we need to be able to work together under these circumstances which is why the support group has been created",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:32",
+            "04:38"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what my father brought home so a lot of the values that you talk about as inculcating from our service really had their earliest roots in the love of our family and the love of this great nation",
+            "count": 2
+        },
+        {
+            "phrase": "whether your family is generations deep or you're a relative newcomer",
+            "count": 1
+        }
+    ]
+}

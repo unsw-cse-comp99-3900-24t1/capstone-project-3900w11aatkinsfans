@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "00:12"
+        ],
+        "label": "verona"
+    },
+    "clusterList": [
+        {
+            "phrase": "verona was a place that you could raise a family",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know where they're bringing them from but they are not from verona",
+            "count": 1
+        },
+        {
+            "phrase": "the kids had to be from outside verona",
+            "count": 1
+        },
+        {
+            "phrase": "did you call each one of those kids to verify that they were from verona how do you know they weren't lying",
+            "count": 1
+        }
+    ]
+}

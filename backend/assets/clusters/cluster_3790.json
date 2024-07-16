@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:30",
+            "04:33",
+            "04:40",
+            "04:49"
+        ],
+        "label": "they've"
+    },
+    "clusterList": [
+        {
+            "phrase": "they've really been bombing it",
+            "count": 4
+        },
+        {
+            "phrase": "we are starting the bombing gollda",
+            "count": 1
+        }
+    ]
+}

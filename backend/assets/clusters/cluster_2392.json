@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:27",
+            "00:37",
+            "01:51",
+            "02:05",
+            "02:55",
+            "04:49"
+        ],
+        "label": "pay"
+    },
+    "clusterList": [
+        {
+            "phrase": "pay for performance",
+            "count": 7
+        }
+    ]
+}

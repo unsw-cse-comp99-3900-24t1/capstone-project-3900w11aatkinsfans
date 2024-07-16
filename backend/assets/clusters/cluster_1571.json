@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:24",
+            "00:59",
+            "01:40",
+            "02:25",
+            "02:32",
+            "02:55",
+            "03:14",
+            "04:13",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was all together but it was a blueish color",
+            "count": 5
+        },
+        {
+            "phrase": "it was all together but it was a blueish colour",
+            "count": 1
+        },
+        {
+            "phrase": "it was just a wall of rain",
+            "count": 1
+        },
+        {
+            "phrase": "it was kind of smoking",
+            "count": 1
+        },
+        {
+            "phrase": "lost in the fog",
+            "count": 1
+        },
+        {
+            "phrase": "and one morning all that was burning",
+            "count": 1
+        },
+        {
+            "phrase": "it was all a fog",
+            "count": 1
+        }
+    ]
+}

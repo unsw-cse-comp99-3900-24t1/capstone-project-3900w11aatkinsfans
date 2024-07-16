@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "01:47",
+            "01:51",
+            "02:09",
+            "03:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the prime minister asked us for our cooperation in the reshuffle",
+            "count": 6
+        }
+    ]
+}

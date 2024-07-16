@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "03:50",
+            "04:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the momentum continues",
+            "count": 1
+        },
+        {
+            "phrase": "swept up in a group momentum",
+            "count": 1
+        },
+        {
+            "phrase": "momentum is still to the downside",
+            "count": 1
+        }
+    ]
+}

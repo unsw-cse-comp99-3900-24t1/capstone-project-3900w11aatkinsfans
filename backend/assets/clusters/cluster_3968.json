@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "01:52",
+            "02:01",
+            "03:27"
+        ],
+        "label": "widowhood"
+    },
+    "clusterList": [
+        {
+            "phrase": "widowhood is a more important factor among the low-income than among the poverty-level elderly",
+            "count": 2
+        },
+        {
+            "phrase": "husbands do not care about insurance only widows do",
+            "count": 1
+        },
+        {
+            "phrase": "taking care of the husband after surgery",
+            "count": 1
+        },
+        {
+            "phrase": "since my husband is sick he's the one who always takes care of everything",
+            "count": 1
+        }
+    ]
+}

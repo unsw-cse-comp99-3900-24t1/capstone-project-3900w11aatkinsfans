@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:43",
+            "00:57",
+            "01:07",
+            "01:32",
+            "02:10",
+            "03:09"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "spirit of st louis",
+            "count": 2
+        },
+        {
+            "phrase": "it's been compared to the blues in the past",
+            "count": 1
+        },
+        {
+            "phrase": "i got the blues",
+            "count": 1
+        },
+        {
+            "phrase": "motley crue saints of los angeles day",
+            "count": 1
+        },
+        {
+            "phrase": "the blues is the music of the down and out",
+            "count": 1
+        },
+        {
+            "phrase": "joset of nazareth's blues",
+            "count": 1
+        },
+        {
+            "phrase": "new york blues",
+            "count": 1
+        }
+    ]
+}

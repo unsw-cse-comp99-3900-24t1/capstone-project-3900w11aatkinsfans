@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:15",
+            "02:33"
+        ],
+        "label": "bringing"
+    },
+    "clusterList": [
+        {
+            "phrase": "bringing on board an experienced hollywood writer actor and producer like freddie prinze jr will only increase the level of entertainment to millions of viewers and passionate wwe fans every monday on usa",
+            "count": 2
+        },
+        {
+            "phrase": "freddie prinze jr s passion energy and creativity make him an excellent fit for wwe",
+            "count": 1
+        },
+        {
+            "phrase": "so much better than any other superstar",
+            "count": 1
+        }
+    ]
+}

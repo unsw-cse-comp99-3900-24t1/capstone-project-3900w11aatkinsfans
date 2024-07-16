@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "03:00"
+        ],
+        "label": "amount"
+    },
+    "clusterList": [
+        {
+            "phrase": "amount sent to cars",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:24",
+            "02:30",
+            "03:34",
+            "04:38"
+        ],
+        "label": "peeling"
+    },
+    "clusterList": [
+        {
+            "phrase": "red eye removal",
+            "count": 2
+        },
+        {
+            "phrase": "peeling off piece by piece before my eyes",
+            "count": 1
+        },
+        {
+            "phrase": "in resealing the face",
+            "count": 1
+        },
+        {
+            "phrase": "made a large incision with a bronze lance and cured a free man or has opened the abscess in the eye with the lance and saved the eye of the man",
+            "count": 1
+        },
+        {
+            "phrase": "this can lead to severe ophthalmic complications including retinal blindness",
+            "count": 1
+        }
+    ]
+}

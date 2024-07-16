@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:13",
+            "00:15",
+            "01:51",
+            "03:38",
+            "03:59"
+        ],
+        "label": "right"
+    },
+    "clusterList": [
+        {
+            "phrase": "right now i have a song with madonna that i didn't put on her album i saved it in case i wanna do one for me of course i'mma i will do one with beyonce of course i'mma do one with jordin sparks rihanna it's a lot of people i'mma do one with jonas brothers i'mma try to have 10 major ones",
+            "count": 1
+        },
+        {
+            "phrase": "you should do an album",
+            "count": 1
+        },
+        {
+            "phrase": "i haven't stopped writing songs or getting into trouble since",
+            "count": 1
+        },
+        {
+            "phrase": "i write the songs",
+            "count": 1
+        },
+        {
+            "phrase": "and the song",
+            "count": 1
+        },
+        {
+            "phrase": "the boys come up with the music and i write the lyrics to almost all the songs",
+            "count": 1
+        }
+    ]
+}

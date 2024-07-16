@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:33",
+            "00:51"
+        ],
+        "label": "manage"
+    },
+    "clusterList": [
+        {
+            "phrase": "manage your lists of groceries gifts to dos wines music movies and more track prices and locations",
+            "count": 1
+        },
+        {
+            "phrase": "shop-smart shopping-tips save money",
+            "count": 1
+        },
+        {
+            "phrase": "frugal things to do in",
+            "count": 1
+        }
+    ]
+}

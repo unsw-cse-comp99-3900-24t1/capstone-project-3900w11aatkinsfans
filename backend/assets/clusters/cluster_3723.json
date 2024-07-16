@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:07",
+            "03:14",
+            "03:24",
+            "04:55"
+        ],
+        "label": "alright"
+    },
+    "clusterList": [
+        {
+            "phrase": "alright everyone into the car",
+            "count": 1
+        },
+        {
+            "phrase": "i'll race u if that's what u want",
+            "count": 1
+        },
+        {
+            "phrase": "you're actually driving this car",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to run a marathon",
+            "count": 1
+        },
+        {
+            "phrase": "go down to my car for a minute",
+            "count": 1
+        }
+    ]
+}

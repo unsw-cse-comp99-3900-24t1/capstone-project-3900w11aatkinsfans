@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:09",
+            "02:23",
+            "02:24",
+            "04:41"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "pull the plug",
+            "count": 2
+        },
+        {
+            "phrase": "how to put on",
+            "count": 1
+        },
+        {
+            "phrase": "turnin on the screw",
+            "count": 1
+        },
+        {
+            "phrase": "screw you lets see if you can do it better",
+            "count": 1
+        }
+    ]
+}

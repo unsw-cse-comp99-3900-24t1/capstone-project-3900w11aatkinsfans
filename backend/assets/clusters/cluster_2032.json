@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:12",
+            "01:43",
+            "02:04",
+            "02:24",
+            "03:28",
+            "04:06",
+            "04:09"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our main reason for doing this is we're trying to cut down on the black population",
+            "count": 4
+        },
+        {
+            "phrase": "we cannot build enough prisons to solve this problem and the idea that we can keep incarcerating and keep incarcerating pretty soon we're not going to have a young african-american male population in america they're all going to be in prison or dead one of the two",
+            "count": 2
+        },
+        {
+            "phrase": "protect and serve white people they're just doing what the community wants to be done",
+            "count": 1
+        },
+        {
+            "phrase": "it sounds like we're targeting the black population and we're certainly not",
+            "count": 1
+        }
+    ]
+}

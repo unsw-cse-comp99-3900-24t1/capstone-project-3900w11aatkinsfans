@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "00:51",
+            "01:00"
+        ],
+        "label": "mexico"
+    },
+    "clusterList": [
+        {
+            "phrase": "universal aids action now",
+            "count": 3
+        },
+        {
+            "phrase": "mexico has good laws on hiv aids",
+            "count": 1
+        },
+        {
+            "phrase": "but until they act to end such abuses even the best-planned policies to treat hiv and stop the spread of aids will fail",
+            "count": 1
+        },
+        {
+            "phrase": "i'm glad we were able to remove the statutory ban and pass this bill less than three before the international aids conference in mexico city",
+            "count": 1
+        }
+    ]
+}

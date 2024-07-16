@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "00:29",
+            "02:14",
+            "03:27",
+            "03:55",
+            "04:49"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "make rock history",
+            "count": 2
+        },
+        {
+            "phrase": "the san francisco tape music center 1960s counterculture and the avant-garde",
+            "count": 1
+        },
+        {
+            "phrase": "the bridges of time cultures and colour the bridges of hip hop funk pop rock jazz punk disco and r amp b",
+            "count": 1
+        },
+        {
+            "phrase": "rock around the clock show",
+            "count": 1
+        },
+        {
+            "phrase": "oldtimers day was part of it",
+            "count": 1
+        },
+        {
+            "phrase": "rocko's modern life",
+            "count": 1
+        },
+        {
+            "phrase": "deathrock punk old school goth",
+            "count": 1
+        },
+        {
+            "phrase": "old school punk",
+            "count": 1
+        }
+    ]
+}

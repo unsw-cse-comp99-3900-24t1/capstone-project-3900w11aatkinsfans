@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:42",
+            "05:04"
+        ],
+        "label": "spurred"
+    },
+    "clusterList": [
+        {
+            "phrase": "spurred by high-profile crime problems last year and lax enforcement standards that rarely punish fare evaders officials say the time has come to study whether more secure platforms can lead to a better system",
+            "count": 1
+        },
+        {
+            "phrase": "researchers concluded that the ban will reduce traffic deaths by about 300 a year but only in adverse conditions such as on wet or icy roads",
+            "count": 1
+        },
+        {
+            "phrase": "yet legislation locking in a particular standard for searches would have a dangerous chilling effect as officers often split-second assessments are second-guessed",
+            "count": 1
+        }
+    ]
+}

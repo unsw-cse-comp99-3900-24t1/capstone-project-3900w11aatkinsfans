@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:49",
+            "03:03",
+            "03:22",
+            "03:24",
+            "03:48",
+            "03:51",
+            "04:21",
+            "04:33"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not going to think about what other people think about me all i'm going to think about is how i'm going to shoot a better score tomorrow and how i'm going to shoot a low number and i think a low number will take care of everything",
+            "count": 7
+        },
+        {
+            "phrase": "when you're on the field you keep your head in the game and don't make mental mistakes",
+            "count": 1
+        },
+        {
+            "phrase": "i'm thinking you know you should have been better you can improve you can improve and hopefully i'm going to do that this week",
+            "count": 1
+        },
+        {
+            "phrase": "i'm used more so as a deep threat everyone would say but at the same time i think my opportunity will come to become the leader of the team",
+            "count": 1
+        }
+    ]
+}

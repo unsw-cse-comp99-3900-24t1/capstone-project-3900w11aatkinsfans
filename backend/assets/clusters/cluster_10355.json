@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:48"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is someone there",
+            "count": 1
+        },
+        {
+            "phrase": "anyone male or female between about 25 and 40 is alright by me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:08",
+            "03:17",
+            "04:42"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for a fraudulent substitution of urine",
+            "count": 1
+        },
+        {
+            "phrase": "for a fraudulent substitution of urine which is both a prohibited method and also a form of tampering with the doping control process",
+            "count": 1
+        },
+        {
+            "phrase": "how could the samples be substituted if the dope testing procedure was strictly regulated",
+            "count": 1
+        },
+        {
+            "phrase": "fraudulent substitution of urine which is a form of tampering with the doping control process",
+            "count": 1
+        },
+        {
+            "phrase": "fraudulent substitution of urine which is both a prohibited method and also a form of tampering with the doping control process",
+            "count": 1
+        }
+    ]
+}

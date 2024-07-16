@@ -1,0 +1,111 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:27",
+            "00:37",
+            "00:52",
+            "01:07",
+            "01:19",
+            "01:29",
+            "01:33",
+            "01:47",
+            "01:51",
+            "01:52",
+            "02:10",
+            "02:19",
+            "02:39",
+            "03:10",
+            "03:11",
+            "03:19",
+            "03:45",
+            "03:51",
+            "04:18",
+            "04:21",
+            "04:24",
+            "04:32",
+            "04:51"
+        ],
+        "label": "only"
+    },
+    "clusterList": [
+        {
+            "phrase": "put in the work",
+            "count": 7
+        },
+        {
+            "phrase": "right to work",
+            "count": 6
+        },
+        {
+            "phrase": "up to the job",
+            "count": 4
+        },
+        {
+            "phrase": "only a job",
+            "count": 1
+        },
+        {
+            "phrase": "finish the job",
+            "count": 1
+        },
+        {
+            "phrase": "real job and a",
+            "count": 1
+        },
+        {
+            "phrase": "you're perfect for this job",
+            "count": 1
+        },
+        {
+            "phrase": "what do you do for work",
+            "count": 1
+        },
+        {
+            "phrase": "right tool for the job",
+            "count": 1
+        },
+        {
+            "phrase": "does the person make the job or does the job make the person",
+            "count": 1
+        },
+        {
+            "phrase": "would you like a job with more responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "on the job",
+            "count": 1
+        },
+        {
+            "phrase": "do the job",
+            "count": 1
+        }
+    ]
+}

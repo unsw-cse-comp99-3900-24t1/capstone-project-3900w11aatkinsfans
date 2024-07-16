@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:26",
+            "04:28",
+            "04:31"
+        ],
+        "label": "anecdotal"
+    },
+    "clusterList": [
+        {
+            "phrase": "methadone kills sensitive leukemia cells and also breaks treatment resistance but without any toxic effects on non-leukemic blood cells",
+            "count": 3
+        },
+        {
+            "phrase": "anecdotal reports from patients that cannabis reduces the frequency of their ms attacks",
+            "count": 1
+        },
+        {
+            "phrase": "turning cb1 back on and then treating with a cannabinoid agonist could provide a new approach to colorectal cancer treatment or prevention",
+            "count": 1
+        },
+        {
+            "phrase": "just increasing the levels of cannabinoids to treat colorectal cancer won't work if the cb1 receptor is not present",
+            "count": 1
+        }
+    ]
+}

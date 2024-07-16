@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "04:18",
+            "04:28"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this movie seemed so ripe for a remake",
+            "count": 1
+        },
+        {
+            "phrase": "you know there's a reason they remade it",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't help that lucas's quasi horror sci-fi premise appears to be stolen from some hokey 1950s b-movie",
+            "count": 1
+        }
+    ]
+}

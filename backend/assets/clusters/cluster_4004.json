@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:50",
+            "02:11",
+            "03:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i feel like i've got a good game to play against him because he obviously likes guys who give him some rhythm and i obviously try not to",
+            "count": 1
+        },
+        {
+            "phrase": "he played really well so i kind of played second to him and i was fine with that i just got him the puck and he scored some goals",
+            "count": 1
+        },
+        {
+            "phrase": "he was my biggest fan so that was hard but he would want me to come in here do my best and play for him",
+            "count": 1
+        },
+        {
+            "phrase": "he just gave me so much room and i was able to really really start to play",
+            "count": 1
+        },
+        {
+            "phrase": "he just played the game with so much intensity i can remember times getting my own sack and he'd be so excited he'd slap me on the head three or four times",
+            "count": 1
+        }
+    ]
+}

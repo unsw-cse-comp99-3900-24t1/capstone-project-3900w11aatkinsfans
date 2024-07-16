@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:10",
+            "03:48"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how it's going to end",
+            "count": 1
+        },
+        {
+            "phrase": "i hope these two make it to the end",
+            "count": 1
+        },
+        {
+            "phrase": "okay this is the end eh",
+            "count": 1
+        }
+    ]
+}

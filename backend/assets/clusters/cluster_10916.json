@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "02:56"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look who's a big name hipster now",
+            "count": 1
+        },
+        {
+            "phrase": "but they are all kind of hipsters i just thought clay was one too since that's how they're all dressing this summer",
+            "count": 1
+        }
+    ]
+}

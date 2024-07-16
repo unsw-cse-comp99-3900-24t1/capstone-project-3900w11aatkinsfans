@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:02",
+            "02:05",
+            "02:44",
+            "04:37"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "the cause of the conflict fixing blame",
+            "count": 2
+        },
+        {
+            "phrase": "their regional wars",
+            "count": 2
+        },
+        {
+            "phrase": "there were conflicts",
+            "count": 1
+        },
+        {
+            "phrase": "there was a mutual mistrust between them which affected all aspects of their interaction",
+            "count": 1
+        }
+    ]
+}

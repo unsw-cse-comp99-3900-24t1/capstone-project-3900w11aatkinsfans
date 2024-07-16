@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "00:52",
+            "01:07",
+            "01:20",
+            "01:43",
+            "02:18",
+            "04:45"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some of that i do recall right out of the fox playbook which is in complete favor of republicans lies and more lies they also feed into the depths of hatred and prejudice unfortunately that is out there",
+            "count": 1
+        },
+        {
+            "phrase": "it's politics at its worst and hypocrisy at its highest level",
+            "count": 1
+        },
+        {
+            "phrase": "we have never had such a way to lie and distort facts about people to spread lies and distortions in a way that is attached to them",
+            "count": 1
+        },
+        {
+            "phrase": "maybe truth is scandalous",
+            "count": 1
+        },
+        {
+            "phrase": "well head over to truth in politics",
+            "count": 1
+        },
+        {
+            "phrase": "politicians are lying bastards",
+            "count": 1
+        },
+        {
+            "phrase": "unfortunately in politics perception not truth is reality",
+            "count": 1
+        }
+    ]
+}

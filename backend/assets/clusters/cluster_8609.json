@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:41"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you're not comfortable in giving your social security number don't do that",
+            "count": 1
+        },
+        {
+            "phrase": "this bill protects not just social security numbers but any personal information",
+            "count": 1
+        }
+    ]
+}

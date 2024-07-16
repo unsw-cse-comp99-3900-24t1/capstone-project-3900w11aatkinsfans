@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:14",
+            "04:23"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's my lawn mower and my yard so i can shoot it if i want",
+            "count": 1
+        },
+        {
+            "phrase": "i can do that it's my lawn mower an my yard so i can do what i want",
+            "count": 1
+        }
+    ]
+}

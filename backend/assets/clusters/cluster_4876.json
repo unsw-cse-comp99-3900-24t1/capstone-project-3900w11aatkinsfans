@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:32",
+            "02:14"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people want to see some sort of contriteness",
+            "count": 1
+        },
+        {
+            "phrase": "the general public wants to know what is going on they want people to know what is said we have to be more open",
+            "count": 1
+        },
+        {
+            "phrase": "they want people to know what is said we have to be more open",
+            "count": 1
+        },
+        {
+            "phrase": "they are speaking loudly saying we want what content we want when we want it and we want flexibility in how we get it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:06",
+            "02:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the top management of the atp are always thinking about playing more and more tournaments on this kind of surface",
+            "count": 1
+        },
+        {
+            "phrase": "the top management of atp are always thinking about playing more and more tournaments on this kind of surface i think it's not a good way",
+            "count": 1
+        },
+        {
+            "phrase": "there appears to be an inherent bias in the atp's plan in favor of certain events",
+            "count": 1
+        }
+    ]
+}

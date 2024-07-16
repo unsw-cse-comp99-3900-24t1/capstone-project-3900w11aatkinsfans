@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "02:24",
+            "04:28"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is your bread and butter kid",
+            "count": 1
+        },
+        {
+            "phrase": "you're one of the family when you walk in to yummy",
+            "count": 1
+        },
+        {
+            "phrase": "mommy it's pizza and i can always eat pizza and you know it",
+            "count": 1
+        }
+    ]
+}

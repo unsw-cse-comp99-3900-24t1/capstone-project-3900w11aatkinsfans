@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "02:39",
+            "02:57",
+            "04:00"
+        ],
+        "label": "sheikh"
+    },
+    "clusterList": [
+        {
+            "phrase": "sheikh doesn't know",
+            "count": 3
+        },
+        {
+            "phrase": "o allah this is what i can control and you know about what i cannot control",
+            "count": 1
+        },
+        {
+            "phrase": "allah knows while you do not know",
+            "count": 1
+        },
+        {
+            "phrase": "according to what allaah has revealed",
+            "count": 1
+        }
+    ]
+}

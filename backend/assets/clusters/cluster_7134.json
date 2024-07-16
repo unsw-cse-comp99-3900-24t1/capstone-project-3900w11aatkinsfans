@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:27",
+            "04:05"
+        ],
+        "label": "van"
+    },
+    "clusterList": [
+        {
+            "phrase": "van houten's reputation as an ideal prisoner should not affect the decision of the parole board",
+            "count": 1
+        },
+        {
+            "phrase": "those who have been convicted by a court of competent jurisdiction may benefit from a grant of amnesty by the restoration of applicants civil or political rights",
+            "count": 1
+        },
+        {
+            "phrase": "it disappoints me that prosecutors sought for james to serve 20 years in prison",
+            "count": 1
+        }
+    ]
+}

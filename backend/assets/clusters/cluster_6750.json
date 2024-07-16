@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "02:10",
+            "03:06"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no beast so fierce",
+            "count": 1
+        },
+        {
+            "phrase": "the beast the dragon adored",
+            "count": 1
+        },
+        {
+            "phrase": "still a sexy beast",
+            "count": 1
+        }
+    ]
+}

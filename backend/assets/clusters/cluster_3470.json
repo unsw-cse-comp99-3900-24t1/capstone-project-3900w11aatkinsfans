@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:42",
+            "02:04",
+            "02:05",
+            "04:43"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from of old their condemnation has not been idle and their destruction has not been asleep",
+            "count": 1
+        },
+        {
+            "phrase": "from of old their condemnation has not been idle and their destruction is not sleeping",
+            "count": 1
+        },
+        {
+            "phrase": "being out and about extending the works of the kingdom",
+            "count": 1
+        },
+        {
+            "phrase": "that they may rest from their labors for their deeds shall follow them",
+            "count": 1
+        },
+        {
+            "phrase": "they shall rest",
+            "count": 1
+        },
+        {
+            "phrase": "they shall rest a while from the burden of kings and princes",
+            "count": 1
+        }
+    ]
+}

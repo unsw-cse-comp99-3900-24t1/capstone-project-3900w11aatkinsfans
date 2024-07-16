@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:37",
+            "03:29",
+            "03:38"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "definitely playing with tracy i've got a guy that can take over a game",
+            "count": 2
+        },
+        {
+            "phrase": "i would love to see him play for stew of course every player i have had i wanted them to play for stew",
+            "count": 1
+        },
+        {
+            "phrase": "jason is one of my real close mates and i would love to play footy with him again",
+            "count": 1
+        }
+    ]
+}

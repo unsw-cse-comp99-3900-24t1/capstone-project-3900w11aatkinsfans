@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:15",
+            "02:15",
+            "04:18",
+            "04:29"
+        ],
+        "label": "scratch"
+    },
+    "clusterList": [
+        {
+            "phrase": "did i scratch the car",
+            "count": 2
+        },
+        {
+            "phrase": "scratch an itch",
+            "count": 2
+        },
+        {
+            "phrase": "scratch the car",
+            "count": 1
+        },
+        {
+            "phrase": "now you can't use the car cause you didn't work a lick",
+            "count": 1
+        },
+        {
+            "phrase": "stop the car",
+            "count": 1
+        },
+        {
+            "phrase": "puts scratches on it",
+            "count": 1
+        }
+    ]
+}

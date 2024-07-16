@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:38",
+            "02:51",
+            "03:06",
+            "04:19",
+            "04:55",
+            "05:05"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i find something a week from now or a month from now i'm ready to go if we're comfortable with it",
+            "count": 2
+        },
+        {
+            "phrase": "there's a lot of learning stuff going on we're looking forward to the week where we get to pad it up and really start getting after it",
+            "count": 1
+        },
+        {
+            "phrase": "i am the one responsible for preparing my team for our first match against korea dpr in september and i am convinced that we have enough time to be ready for this game",
+            "count": 1
+        },
+        {
+            "phrase": "it's likely to be a little while before we're on the upswing again i think we have to be very cautious but we have to fund the requirements",
+            "count": 1
+        },
+        {
+            "phrase": "we've been preparing for it actually for the last two or three weeks making sure that we've got everything in and in place",
+            "count": 1
+        }
+    ]
+}

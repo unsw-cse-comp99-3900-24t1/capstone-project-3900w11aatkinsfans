@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "02:12",
+            "02:14",
+            "02:33"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "so you have to understand how the defense is going to attack you in different ways and we didn't understand that last year",
+            "count": 2
+        },
+        {
+            "phrase": "even from then to now this is a different football team a stronger football team i see something special in this team",
+            "count": 1
+        },
+        {
+            "phrase": "we weren't at full strength then but certainly the players are thinking about it",
+            "count": 1
+        }
+    ]
+}

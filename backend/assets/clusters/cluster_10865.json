@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:39",
+            "04:05"
+        ],
+        "label": "white"
+    },
+    "clusterList": [
+        {
+            "phrase": "white house interference",
+            "count": 1
+        },
+        {
+            "phrase": "we got a call from the white house",
+            "count": 1
+        }
+    ]
+}

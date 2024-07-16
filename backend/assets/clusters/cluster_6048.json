@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "04:18",
+            "04:21"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no no really i wanted to",
+            "count": 1
+        },
+        {
+            "phrase": "and now i'd like you to fuck me",
+            "count": 1
+        },
+        {
+            "phrase": "you wanted me to run away",
+            "count": 1
+        }
+    ]
+}

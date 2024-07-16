@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "04:19"
+        ],
+        "label": "according"
+    },
+    "clusterList": [
+        {
+            "phrase": "according to local tradition the word",
+            "count": 1
+        },
+        {
+            "phrase": "from our perspective it's a traditional historical name given by the folks who lived there",
+            "count": 1
+        }
+    ]
+}

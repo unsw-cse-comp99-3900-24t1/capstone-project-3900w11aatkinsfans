@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "03:05"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so how's your love life after all that running",
+            "count": 1
+        },
+        {
+            "phrase": "how do you do how's life how's your sister and brother are you ok",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:23",
+            "02:02",
+            "02:16",
+            "02:57",
+            "04:00"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "for even demons believe and they tremble in fear",
+            "count": 2
+        },
+        {
+            "phrase": "how can a good god allow this horror",
+            "count": 1
+        },
+        {
+            "phrase": "another manifestation of satanism",
+            "count": 1
+        },
+        {
+            "phrase": "reincarnation appeals to me even though it runs against the teachings of my church",
+            "count": 1
+        },
+        {
+            "phrase": "what made you decide to convert to this religion",
+            "count": 1
+        },
+        {
+            "phrase": "set-aside authentic spiritual programs",
+            "count": 1
+        }
+    ]
+}

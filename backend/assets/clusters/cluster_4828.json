@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "01:15",
+            "01:50",
+            "03:15"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are very very impressed with the local support i was surprised",
+            "count": 2
+        },
+        {
+            "phrase": "we are so pleased with the support we've received from the city of joliet and will county",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of people showed a lot of their support there are actually quite a few portuguese people here that came and watched my matches which was really nice i think i've left a mark here in montreal",
+            "count": 1
+        }
+    ]
+}

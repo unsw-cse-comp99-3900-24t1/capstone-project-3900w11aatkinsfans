@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:48",
+            "01:10",
+            "01:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know it was the new yorker's attempt at satire",
+            "count": 4
+        }
+    ]
+}

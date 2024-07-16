@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:03",
+            "01:46",
+            "01:52",
+            "02:11",
+            "02:23",
+            "02:27",
+            "02:28",
+            "02:33",
+            "02:37",
+            "03:06",
+            "04:28",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the monetary policy deliberations from the rba board next tuesday will be a tug-of-war between these recessionary indicators and the still high rate of inflation as shown in the inflation gauge for july",
+            "count": 12
+        },
+        {
+            "phrase": "the monetary policy deliberations from the rba board next tuesday will be a tug-of-war between these recessionary indicators and the still high rate of inflation",
+            "count": 1
+        }
+    ]
+}

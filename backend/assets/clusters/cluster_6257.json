@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:49",
+            "02:32"
+        ],
+        "label": "playing"
+    },
+    "clusterList": [
+        {
+            "phrase": "quite frankly when we worked together with team canada i never envisioned this happening",
+            "count": 2
+        },
+        {
+            "phrase": "playing in ottawa would be awesome and a great experience",
+            "count": 1
+        }
+    ]
+}

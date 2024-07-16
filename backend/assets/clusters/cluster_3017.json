@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "03:18",
+            "04:32",
+            "04:36"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know you'll have to forgive katara it's not her fault and you'll have to forgive zuko too",
+            "count": 1
+        },
+        {
+            "phrase": "this time it's different katara broke my heart when she left me then ripped it to shreds when i saw her with zuko",
+            "count": 1
+        },
+        {
+            "phrase": "if you hadn't told me to fight back i wouldn't have broken her arm in the first place",
+            "count": 1
+        },
+        {
+            "phrase": "but really since you and her are related you can't be together like you used to be family relations are nice it's not like she broke up with you because of something you did",
+            "count": 1
+        },
+        {
+            "phrase": "i have still not really made peace with losing her so young",
+            "count": 1
+        },
+        {
+            "phrase": "remember to let her into your heart and then you can start to make it better",
+            "count": 1
+        }
+    ]
+}

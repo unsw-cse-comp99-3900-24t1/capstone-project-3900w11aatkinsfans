@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "04:28"
+        ],
+        "label": "mellon"
+    },
+    "clusterList": [
+        {
+            "phrase": "mellon collie and the infinite sadness",
+            "count": 2
+        },
+        {
+            "phrase": "the lonely lab of broken hearts",
+            "count": 1
+        }
+    ]
+}

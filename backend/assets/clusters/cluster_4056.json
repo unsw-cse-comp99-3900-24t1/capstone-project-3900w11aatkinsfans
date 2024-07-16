@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "02:46",
+            "04:22",
+            "04:29"
+        ],
+        "label": "step"
+    },
+    "clusterList": [
+        {
+            "phrase": "step up and give us the prospect package the padres want",
+            "count": 2
+        },
+        {
+            "phrase": "our position a week from now is going to be what it is today unless they're going to step up and give us the prospect package we want",
+            "count": 1
+        },
+        {
+            "phrase": "the prospect seems good",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not in a position to tell the mariners what they should or shouldn't do but i'd like to see him in the game to be honest",
+            "count": 1
+        }
+    ]
+}

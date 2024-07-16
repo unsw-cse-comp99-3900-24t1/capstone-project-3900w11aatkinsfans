@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:29",
+            "02:43"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you say that icke is not an anti-semite",
+            "count": 2
+        },
+        {
+            "phrase": "noam chomsky is jewish secondly noam chomsky is not mad thirdly noam chomsky is in fact an intellectual and finally noam chomsky is not an anti-semite",
+            "count": 2
+        }
+    ]
+}

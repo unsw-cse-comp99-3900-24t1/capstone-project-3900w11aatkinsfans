@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:38",
+            "01:02",
+            "01:09",
+            "01:10",
+            "01:43",
+            "02:10",
+            "02:46",
+            "03:01",
+            "03:10",
+            "04:28",
+            "04:38"
+        ],
+        "label": "department"
+    },
+    "clusterList": [
+        {
+            "phrase": "the established international laws of armed conflict",
+            "count": 6
+        },
+        {
+            "phrase": "department of peace",
+            "count": 4
+        },
+        {
+            "phrase": "freedom of action in the global commons and strategic access to important regions of the world to meet our national security needs",
+            "count": 1
+        },
+        {
+            "phrase": "peace is patriotic",
+            "count": 1
+        },
+        {
+            "phrase": "please keep the crosswalks clear and be the peace you want in the world many among us will be making signs with positive messages reflecting our hopes or our concerns for the future our goal is to support the united nations in promoting peace encourage people to consider effective alternatives to war empower people to express their views to their elected officials",
+            "count": 1
+        },
+        {
+            "phrase": "the recent clashes between the security forces and the taliban in swat revealed the real nature of the so-called peace deal between the nwfp government and the taliban",
+            "count": 1
+        },
+        {
+            "phrase": "significant armed conflict",
+            "count": 1
+        },
+        {
+            "phrase": "get us out of the united nations",
+            "count": 1
+        },
+        {
+            "phrase": "this is the moment to secure the peace of the world without nuclear weapons",
+            "count": 1
+        }
+    ]
+}

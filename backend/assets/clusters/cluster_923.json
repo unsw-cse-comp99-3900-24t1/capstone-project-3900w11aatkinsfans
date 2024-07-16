@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:01",
+            "01:29",
+            "01:55",
+            "02:15",
+            "03:01",
+            "03:12",
+            "03:18",
+            "03:48",
+            "04:10",
+            "04:24",
+            "04:32",
+            "04:52"
+        ],
+        "label": "nothing"
+    },
+    "clusterList": [
+        {
+            "phrase": "not very much",
+            "count": 4
+        },
+        {
+            "phrase": "nothing at all",
+            "count": 3
+        },
+        {
+            "phrase": "nothing else matters",
+            "count": 2
+        },
+        {
+            "phrase": "not anything to it",
+            "count": 2
+        },
+        {
+            "phrase": "nothing really nothing",
+            "count": 1
+        },
+        {
+            "phrase": "absolutely nothing to fix",
+            "count": 1
+        },
+        {
+            "phrase": "nothing much happens",
+            "count": 1
+        },
+        {
+            "phrase": "no it's probably nothing",
+            "count": 1
+        },
+        {
+            "phrase": "nothing at all yet",
+            "count": 1
+        }
+    ]
+}

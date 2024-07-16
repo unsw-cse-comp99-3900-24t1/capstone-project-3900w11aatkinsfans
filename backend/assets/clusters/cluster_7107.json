@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "03:34",
+            "04:46"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i got this today",
+            "count": 1
+        },
+        {
+            "phrase": "if you came yesterday you could get it",
+            "count": 1
+        },
+        {
+            "phrase": "just received this",
+            "count": 1
+        }
+    ]
+}

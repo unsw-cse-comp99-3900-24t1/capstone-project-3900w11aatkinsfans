@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:54",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the georgia peach",
+            "count": 1
+        },
+        {
+            "phrase": "new york's girl caricaturist",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "03:35"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no you weren't going to say it but you thought it",
+            "count": 1
+        },
+        {
+            "phrase": "it was almost too good to be true",
+            "count": 1
+        }
+    ]
+}

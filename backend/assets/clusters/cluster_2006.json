@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:04",
+            "04:13",
+            "04:21",
+            "04:28",
+            "04:46",
+            "04:55"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're confident that because walton street stepped in on this this now looks like a very good investment",
+            "count": 4
+        },
+        {
+            "phrase": "we're very excited about the potential benefits of the williams real estate plans they will change the look of the community",
+            "count": 3
+        },
+        {
+            "phrase": "it hasn't been the immediate success that i'd hoped for and the investors had hoped for when we opened",
+            "count": 1
+        },
+        {
+            "phrase": "we're investing now to position the new jameson to be able to take advantage of the turnaround in the real estate industry when it comes",
+            "count": 1
+        }
+    ]
+}

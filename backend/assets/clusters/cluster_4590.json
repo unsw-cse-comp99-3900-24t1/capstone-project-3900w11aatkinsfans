@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:57"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our results show that at least for urinary tract infections cranberry juice targets the right bacteria those that cause disease but has no effect on non-pathogenic organisms suggesting that cranberry juice will not disrupt bacteria that are part of the normal flora in the gut",
+            "count": 1
+        },
+        {
+            "phrase": "we have also shown that this effect occurs at concentrations of cranberry juice that are comparable to levels we would expect to find in the urinary tract",
+            "count": 1
+        },
+        {
+            "phrase": "this suggests that to realize the antibacterial benefits of cranberry one must consume cranberry juice regularly perhaps daily",
+            "count": 1
+        },
+        {
+            "phrase": "what i need to know about urinary tract infections",
+            "count": 1
+        }
+    ]
+}

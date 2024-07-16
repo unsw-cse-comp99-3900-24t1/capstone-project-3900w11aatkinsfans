@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:07",
+            "03:18",
+            "03:42"
+        ],
+        "label": "then"
+    },
+    "clusterList": [
+        {
+            "phrase": "then or now",
+            "count": 1
+        },
+        {
+            "phrase": "why didnt you say so earlier",
+            "count": 1
+        },
+        {
+            "phrase": "no course not why",
+            "count": 1
+        },
+        {
+            "phrase": "so instead of",
+            "count": 1
+        }
+    ]
+}

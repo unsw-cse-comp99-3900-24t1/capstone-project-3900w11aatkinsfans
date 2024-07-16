@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "bleepdamnit"
+    },
+    "clusterList": [
+        {
+            "phrase": "bleepdamnit bob i'm about to reach over there and tear you a new bleephole",
+            "count": 3
+        },
+        {
+            "phrase": "suck my bleep i'll murder your family",
+            "count": 2
+        }
+    ]
+}

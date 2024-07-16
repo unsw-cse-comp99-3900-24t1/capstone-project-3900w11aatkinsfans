@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:42",
+            "04:09",
+            "04:23",
+            "05:05"
+        ],
+        "label": "show"
+    },
+    "clusterList": [
+        {
+            "phrase": "show input menu in menu",
+            "count": 3
+        },
+        {
+            "phrase": "try applying renderer to menu",
+            "count": 1
+        }
+    ]
+}

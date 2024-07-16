@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:06",
+            "04:49"
+        ],
+        "label": "laying"
+    },
+    "clusterList": [
+        {
+            "phrase": "laying the wood and putting together a sturdy flawless structure takes patience and fine craftsmanship",
+            "count": 1
+        },
+        {
+            "phrase": "the shelves look very well put together",
+            "count": 1
+        },
+        {
+            "phrase": "we put a lot of effort into designing them well and building them well and insuring that we have inspection processes and very tight materials control",
+            "count": 1
+        }
+    ]
+}

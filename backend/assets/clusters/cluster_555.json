@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            1,
+            2,
+            1,
+            6,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "01:47",
+            "02:43",
+            "03:01",
+            "03:18",
+            "03:42",
+            "03:50",
+            "04:23",
+            "04:32",
+            "05:05"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's this midori thing i keep hearing about",
+            "count": 7
+        },
+        {
+            "phrase": "what is it",
+            "count": 7
+        },
+        {
+            "phrase": "yes but what is it",
+            "count": 3
+        },
+        {
+            "phrase": "oh that's nice what is it",
+            "count": 2
+        },
+        {
+            "phrase": "have you any idea what this item is",
+            "count": 1
+        },
+        {
+            "phrase": "duh what's that thing",
+            "count": 1
+        },
+        {
+            "phrase": "what kind of thing",
+            "count": 1
+        },
+        {
+            "phrase": "what in the world is that thing",
+            "count": 1
+        }
+    ]
+}

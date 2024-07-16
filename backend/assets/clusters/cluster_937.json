@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:27",
+            "00:28",
+            "00:41",
+            "00:46",
+            "00:52",
+            "00:55",
+            "01:10",
+            "02:26",
+            "03:01",
+            "03:15",
+            "03:28",
+            "03:33",
+            "04:15",
+            "04:19",
+            "04:22"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "but just because something is illegal does not mean that it does not continue to happen",
+            "count": 6
+        },
+        {
+            "phrase": "ignorance of the law is no excuse",
+            "count": 2
+        },
+        {
+            "phrase": "it's a state law",
+            "count": 1
+        },
+        {
+            "phrase": "they have to be legal you don't teach people the right thing to do by having no consequences",
+            "count": 1
+        },
+        {
+            "phrase": "it's the law it's regulation",
+            "count": 1
+        },
+        {
+            "phrase": "yeah well it's illegal",
+            "count": 1
+        },
+        {
+            "phrase": "i don't believe in the law",
+            "count": 1
+        },
+        {
+            "phrase": "under the law",
+            "count": 1
+        },
+        {
+            "phrase": "and nobody in this country should be above the law",
+            "count": 1
+        },
+        {
+            "phrase": "but it is still the law",
+            "count": 1
+        }
+    ]
+}

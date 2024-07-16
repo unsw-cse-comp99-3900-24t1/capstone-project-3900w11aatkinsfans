@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:09",
+            "00:20",
+            "00:25",
+            "00:29",
+            "00:57",
+            "01:33",
+            "02:20",
+            "02:24",
+            "03:48",
+            "04:19",
+            "04:28",
+            "04:29",
+            "04:44",
+            "04:51",
+            "04:54"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people want ubiquitous cell service on their wireless phones everywhere they go and that includes their home and offices",
+            "count": 3
+        },
+        {
+            "phrase": "come into the new landscape of the smart phone arena",
+            "count": 3
+        },
+        {
+            "phrase": "the apple iphone is there to experience the internet and we're the best carrier to do that with",
+            "count": 3
+        },
+        {
+            "phrase": "you hear a lot about touchscreens because of the iphone effect but gps and wi-fi are very cool applications that are making peoples lives easier",
+            "count": 1
+        },
+        {
+            "phrase": "android is an enabler of what we do",
+            "count": 1
+        },
+        {
+            "phrase": "the future of smartphones",
+            "count": 1
+        },
+        {
+            "phrase": "google apps is incredibly robust and can handle a large volume of emails and at 50 per user we're saving tens of thousands each year in both hard and soft costs",
+            "count": 1
+        },
+        {
+            "phrase": "making mobile devices work better and do more things for companies that's an area we have a sweet spot in seattle",
+            "count": 1
+        },
+        {
+            "phrase": "local residents students businesses and visitors will have direct access to the benefits of verizon wireless",
+            "count": 1
+        },
+        {
+            "phrase": "in the same way that southeast asia quickly dropped wired telephone technologies and moved directly to wireless connectivity we're seeing businesses and governments jump to next-generation solutions that consolidate multiple functions deliver real-time visibility and thrive in difficult connectivity environments",
+            "count": 1
+        }
+    ]
+}

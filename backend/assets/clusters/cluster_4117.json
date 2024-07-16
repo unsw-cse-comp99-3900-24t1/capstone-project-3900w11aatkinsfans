@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2
+        ],
+        "xLabels": [
+            "03:18",
+            "03:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't believe it's actually amy she's never been like that before",
+            "count": 1
+        },
+        {
+            "phrase": "what's with the dawg amy",
+            "count": 1
+        },
+        {
+            "phrase": "amy maybe you should sit down for a moment",
+            "count": 1
+        },
+        {
+            "phrase": "reinna what's wrong are you ok",
+            "count": 1
+        },
+        {
+            "phrase": "honey what's wrong",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:05",
+            "00:09",
+            "00:20",
+            "01:01",
+            "01:41",
+            "02:20",
+            "02:28",
+            "02:37",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "6"
+    },
+    "clusterList": [
+        {
+            "phrase": "filed under business microsoft microsoft is funding one of the biggest open-source organisations to the tune of 100 000",
+            "count": 8
+        },
+        {
+            "phrase": "6 customer support in india is the best thing that has ever happened to norton symantec they take 1 million calls a month prior to outsourcing the most calls per month was less than 100k you may hate the accent but they do great work",
+            "count": 4
+        },
+        {
+            "phrase": "with the pending acquisition of reconnex mcafee expects to redefine the entire data protection market by bringing together a leader in the hottest segment with our comprehensive portfolio of data protection technologies we expect that this will enable us to leapfrog other data protection vendors and to reinforce our position as the largest dedicated security company",
+            "count": 1
+        },
+        {
+            "phrase": "pc tools is a global leader in innovative software products designed to protect the privacy and security of windows computer users",
+            "count": 1
+        },
+        {
+            "phrase": "these government visionary award recipients have successfully implemented symantec solutions to meet these dual requirements while lowering the total cost of ownership of their information systems they can serve not only as role models for other government agencies but also for the business sector",
+            "count": 1
+        }
+    ]
+}

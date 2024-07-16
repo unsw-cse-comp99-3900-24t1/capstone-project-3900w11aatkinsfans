@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "02:10",
+            "04:00"
+        ],
+        "label": "working"
+    },
+    "clusterList": [
+        {
+            "phrase": "working through pain",
+            "count": 1
+        },
+        {
+            "phrase": "feeling too much",
+            "count": 1
+        },
+        {
+            "phrase": "feels like the first",
+            "count": 1
+        }
+    ]
+}

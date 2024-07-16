@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "03:00"
+        ],
+        "label": "continuity"
+    },
+    "clusterList": [
+        {
+            "phrase": "continuity of care",
+            "count": 1
+        },
+        {
+            "phrase": "this is becoming a standard of care",
+            "count": 1
+        }
+    ]
+}

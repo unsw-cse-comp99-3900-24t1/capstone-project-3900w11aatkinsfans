@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "00:54",
+            "01:07",
+            "01:24",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:21",
+            "04:31"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "the ovation problem",
+            "count": 6
+        },
+        {
+            "phrase": "that was not a result of this hearing",
+            "count": 2
+        },
+        {
+            "phrase": "as far as i know from the outcome of that hearing and the discussions at the end of last summer whatever we had to do we cooperated fully and very much in an expedient way",
+            "count": 1
+        },
+        {
+            "phrase": "we invited ovation to take part in this hearing and they declined to come",
+            "count": 1
+        }
+    ]
+}

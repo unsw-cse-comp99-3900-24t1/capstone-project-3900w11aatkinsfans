@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:20",
+            "01:09",
+            "01:11",
+            "01:20",
+            "02:01",
+            "03:24",
+            "03:42",
+            "04:08",
+            "04:10",
+            "04:15",
+            "04:21",
+            "04:45"
+        ],
+        "label": "forget"
+    },
+    "clusterList": [
+        {
+            "phrase": "you never even called me by my name",
+            "count": 4
+        },
+        {
+            "phrase": "don't ever try to talk to me again",
+            "count": 2
+        },
+        {
+            "phrase": "forget all that just talk to me",
+            "count": 1
+        },
+        {
+            "phrase": "don't talk too much",
+            "count": 1
+        },
+        {
+            "phrase": "can't talk now",
+            "count": 1
+        },
+        {
+            "phrase": "who are you oh your name i havent done much with you",
+            "count": 1
+        },
+        {
+            "phrase": "you will never speak to me that way again",
+            "count": 1
+        },
+        {
+            "phrase": "please don't talk back to me young lady",
+            "count": 1
+        },
+        {
+            "phrase": "look me in my face and tell me you don't like me anymore before you walk out that door",
+            "count": 1
+        },
+        {
+            "phrase": "why can't you talk to me while you're here",
+            "count": 1
+        },
+        {
+            "phrase": "don't talk to anyone about me",
+            "count": 1
+        },
+        {
+            "phrase": "do you want to know something i have been very nice to you for a very long time ever since i met you i have been sick of trying to cope with you",
+            "count": 1
+        }
+    ]
+}

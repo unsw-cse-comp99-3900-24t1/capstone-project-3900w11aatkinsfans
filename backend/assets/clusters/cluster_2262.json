@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:28",
+            "00:41",
+            "00:46",
+            "00:55",
+            "01:09",
+            "01:10",
+            "03:00"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this bill does little more than dole out favors to the democrats trial lawyer allies with no new benefit to protect workers",
+            "count": 6
+        },
+        {
+            "phrase": "unctious labor lawyer",
+            "count": 1
+        },
+        {
+            "phrase": "the only republican to back labor unions for state employees the only republican to side with trial lawyers on frivilous lawsuits",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:33",
+            "03:50",
+            "03:58",
+            "04:27",
+            "04:28"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "i negotiated a very tough deal he had to step down immediately from both his posts as president of the serb part of bosnia and as head of his party and he did so",
+            "count": 4
+        },
+        {
+            "phrase": "to negotiate an agreement with milosevic and two of karadzic's henchmen that karadzic would quit as president of the serbian portion of bosnia and as head of his political party immediately and disappear from public life",
+            "count": 1
+        },
+        {
+            "phrase": "in june of 1996 i went to belgrade and negotiated an agreement with milosevic and two of karadzic's henchmen that he would quit as president of the serb portion of bosnia and as head of his political party immediately and disappear from public life",
+            "count": 1
+        }
+    ]
+}

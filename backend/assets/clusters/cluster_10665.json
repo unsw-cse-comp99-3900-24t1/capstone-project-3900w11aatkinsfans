@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "03:11"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's been a tough few weeks with everything that's happened with graham",
+            "count": 1
+        },
+        {
+            "phrase": "ben is just out of a boot",
+            "count": 1
+        }
+    ]
+}

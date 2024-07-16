@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:22",
+            "02:23",
+            "02:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i came back from there and i was still playing well no top-10s but still good showings",
+            "count": 2
+        },
+        {
+            "phrase": "hitting fourth the past couple of years and fifth before that and being in that spot the more i get up there the more comfortable i feel",
+            "count": 2
+        },
+        {
+            "phrase": "i haven't had top 10s lately but still good showings",
+            "count": 1
+        },
+        {
+            "phrase": "the last couple weeks i got a little shaky the swing was out of kilter but i got it back on track and felt good going into today",
+            "count": 1
+        }
+    ]
+}

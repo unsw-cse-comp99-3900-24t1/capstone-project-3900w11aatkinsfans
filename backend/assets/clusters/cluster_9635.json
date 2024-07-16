@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "01:50"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have no need of spoil",
+            "count": 1
+        },
+        {
+            "phrase": "there are spoilers in x location",
+            "count": 1
+        }
+    ]
+}

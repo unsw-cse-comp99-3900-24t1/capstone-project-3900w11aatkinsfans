@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "04:03"
+        ],
+        "label": "mountaintop"
+    },
+    "clusterList": [
+        {
+            "phrase": "mountaintop mining flattens the mountain",
+            "count": 1
+        },
+        {
+            "phrase": "mountains and valleys alternating",
+            "count": 1
+        }
+    ]
+}

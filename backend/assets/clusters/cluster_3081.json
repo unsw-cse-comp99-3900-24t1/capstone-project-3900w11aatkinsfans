@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:07",
+            "01:18",
+            "03:01",
+            "03:18",
+            "04:18"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey let's catch up and talk about old times",
+            "count": 1
+        },
+        {
+            "phrase": "now now you still owe me a kiss remember",
+            "count": 1
+        },
+        {
+            "phrase": "i lost my cool",
+            "count": 1
+        },
+        {
+            "phrase": "please remember me",
+            "count": 1
+        },
+        {
+            "phrase": "okay i'll always remember",
+            "count": 1
+        },
+        {
+            "phrase": "thanks for the memories",
+            "count": 1
+        }
+    ]
+}

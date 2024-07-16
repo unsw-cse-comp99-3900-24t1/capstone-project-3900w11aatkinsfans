@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:09",
+            "01:38",
+            "01:47",
+            "02:10",
+            "02:19",
+            "04:13"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "purchased for my son",
+            "count": 2
+        },
+        {
+            "phrase": "but when i read these right finger i always carefully consider the good price because i can always get the s ads and the retailer's descriptions",
+            "count": 1
+        },
+        {
+            "phrase": "i'm used to this price",
+            "count": 1
+        },
+        {
+            "phrase": "a price to be set exactly",
+            "count": 1
+        },
+        {
+            "phrase": "got beat on price",
+            "count": 1
+        },
+        {
+            "phrase": "hey wait i'm doubling the price",
+            "count": 1
+        },
+        {
+            "phrase": "is worth the price",
+            "count": 1
+        }
+    ]
+}

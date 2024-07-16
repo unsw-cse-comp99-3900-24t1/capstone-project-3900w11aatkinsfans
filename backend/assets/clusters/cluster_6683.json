@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "02:56",
+            "03:46"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i'm not going to ring her up to go for a coffee or to go to a party i couldn't think of anything worse",
+            "count": 2
+        },
+        {
+            "phrase": "i knew the burgers there weren't organic or anything but i didn't want to be that person on a first date so i didn't say anything",
+            "count": 1
+        }
+    ]
+}

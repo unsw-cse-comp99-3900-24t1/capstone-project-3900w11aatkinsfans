@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "03:10",
+            "03:12",
+            "04:13"
+        ],
+        "label": "orange"
+    },
+    "clusterList": [
+        {
+            "phrase": "modified atmosphere packaging",
+            "count": 2
+        },
+        {
+            "phrase": "orange a package has just arrived",
+            "count": 1
+        },
+        {
+            "phrase": "sealed orange and white box",
+            "count": 1
+        },
+        {
+            "phrase": "no actual knowledge of what was in the sealed box",
+            "count": 1
+        }
+    ]
+}

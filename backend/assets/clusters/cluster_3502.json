@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "02:06",
+            "03:15",
+            "03:48"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are matters which have arisen which would have caused anybody very considerable concern",
+            "count": 3
+        },
+        {
+            "phrase": "may have been influenced in part based on political considerations",
+            "count": 1
+        },
+        {
+            "phrase": "where the consequences may not be foreseen but should have been",
+            "count": 1
+        }
+    ]
+}

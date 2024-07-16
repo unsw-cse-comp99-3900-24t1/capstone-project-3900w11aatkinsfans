@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:56",
+            "01:09",
+            "01:51",
+            "02:22",
+            "03:05",
+            "03:10",
+            "03:18",
+            "04:36",
+            "05:05"
+        ],
+        "label": "test"
+    },
+    "clusterList": [
+        {
+            "phrase": "test your strength",
+            "count": 1
+        },
+        {
+            "phrase": "dude you're stronger than look",
+            "count": 1
+        },
+        {
+            "phrase": "oh do you want me to lower the strength",
+            "count": 1
+        },
+        {
+            "phrase": "confront the true strength",
+            "count": 1
+        },
+        {
+            "phrase": "this early i'm more concerned with gaining arm strength",
+            "count": 1
+        },
+        {
+            "phrase": "position of strength",
+            "count": 1
+        },
+        {
+            "phrase": "asking for help is a strength not a weakness",
+            "count": 1
+        },
+        {
+            "phrase": "make sure you're strong enough",
+            "count": 1
+        },
+        {
+            "phrase": "ah yes toby i see what you're doing you're using your physical strength what there is of it to try to win over me is that right didn't the magic book tell you that you cannot rely on your physical strength",
+            "count": 1
+        },
+        {
+            "phrase": "but look at me i have little physical strength but i have speed and intelligence toby remember that",
+            "count": 1
+        },
+        {
+            "phrase": "you've got to be more physical you need to toughen yourself up",
+            "count": 1
+        },
+        {
+            "phrase": "i feel much stronger and more powerful at this weight",
+            "count": 1
+        }
+    ]
+}

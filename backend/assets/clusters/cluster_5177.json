@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "03:36"
+        ],
+        "label": "contacts"
+    },
+    "clusterList": [
+        {
+            "phrase": "contacts between you and the americans",
+            "count": 2
+        },
+        {
+            "phrase": "direct or indirect contact with official u s authorities",
+            "count": 1
+        },
+        {
+            "phrase": "people of the us and many other countries offered us valuable support and assistance and we are deeply touched by their friendship",
+            "count": 1
+        }
+    ]
+}

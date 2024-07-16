@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "04:05",
+            "04:33",
+            "05:05"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our government makes no sense unless it is founded in a deeply felt religious faith-and i don't care what it is",
+            "count": 1
+        },
+        {
+            "phrase": "without exception their core beliefs are totally contrary to the notion that they are a traditional nation-state",
+            "count": 1
+        },
+        {
+            "phrase": "every american has the constitutional right not to be taxed or have his tax money expended for the establishment of religion",
+            "count": 1
+        },
+        {
+            "phrase": "that the united states of america is in fact a christian nation by the term a christian nation i do not mean that this is a nations of only christians or that everything about this nation is christian it is a nation specifically created by god to declare christ to the world the only other nation created for this purpose is the nation of israel",
+            "count": 1
+        }
+    ]
+}

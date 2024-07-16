@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:02",
+            "01:42",
+            "01:50",
+            "02:20",
+            "02:28",
+            "03:14"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "but when it comes to the statistics provided by the abs australian bureau of statistics it is not appropriate for politicians or prime ministers to speculate on future data",
+            "count": 3
+        },
+        {
+            "phrase": "it's good news if the number is coming down but i would have strong reservations about the way statistics are collected",
+            "count": 2
+        },
+        {
+            "phrase": "their guidance is quite conservative and we think that number could be almost 15 percent higher than that",
+            "count": 1
+        },
+        {
+            "phrase": "india's attitude has been no census no statistics no problem",
+            "count": 1
+        }
+    ]
+}

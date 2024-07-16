@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "04:06"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh no chris sweetie i am fine",
+            "count": 1
+        },
+        {
+            "phrase": "chris i must say you're overwhelming me with conversation",
+            "count": 1
+        }
+    ]
+}

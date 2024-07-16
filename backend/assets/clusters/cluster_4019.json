@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:20",
+            "02:57",
+            "04:13"
+        ],
+        "label": "should"
+    },
+    "clusterList": [
+        {
+            "phrase": "declaration of independence",
+            "count": 2
+        },
+        {
+            "phrase": "should every group that thinks of itself as a nation have a right to its own state",
+            "count": 1
+        },
+        {
+            "phrase": "have a right to rebel against every unjust and despotic ruler",
+            "count": 1
+        },
+        {
+            "phrase": "the foundation of our national policy will be laid in the pure and immutable principles of private morality",
+            "count": 1
+        }
+    ]
+}

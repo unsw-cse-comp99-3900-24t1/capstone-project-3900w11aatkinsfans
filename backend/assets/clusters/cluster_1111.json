@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:10",
+            "01:56",
+            "02:22",
+            "02:44",
+            "03:01",
+            "04:08",
+            "04:13",
+            "04:28",
+            "04:36",
+            "04:54"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was the ideal family i mean the children were so respectful just so easygoing",
+            "count": 6
+        },
+        {
+            "phrase": "they're the nicest people in the world",
+            "count": 2
+        },
+        {
+            "phrase": "they're family part of the neighborhood family",
+            "count": 2
+        },
+        {
+            "phrase": "we are very compassionate towards the families",
+            "count": 1
+        },
+        {
+            "phrase": "they are like the kindest family",
+            "count": 1
+        },
+        {
+            "phrase": "one of ye profanest families amongst them",
+            "count": 1
+        },
+        {
+            "phrase": "their way of life",
+            "count": 1
+        }
+    ]
+}

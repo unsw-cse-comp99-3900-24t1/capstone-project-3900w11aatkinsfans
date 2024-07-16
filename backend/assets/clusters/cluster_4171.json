@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:43",
+            "03:46",
+            "03:59",
+            "05:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the impact in africa will likely be the same as in iraq perpetual occupation instability and growing anti-americanism",
+            "count": 1
+        },
+        {
+            "phrase": "no one will be immune from its catastrophic consequences the whole of sudan and the entire region",
+            "count": 1
+        },
+        {
+            "phrase": "no one will be immune from its catastrophic consequences the whole of",
+            "count": 1
+        },
+        {
+            "phrase": "there is a disease in this region called the state of israel which we refer to as the plundering entity if we do not put an end to this disease it will follow us even if we flee to the end of the world so it's better to get rid of it",
+            "count": 1
+        },
+        {
+            "phrase": "outside interference in sudan might damage the darfur peace process",
+            "count": 1
+        }
+    ]
+}

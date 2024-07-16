@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "02:15",
+            "03:51"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is it i am blind",
+            "count": 1
+        },
+        {
+            "phrase": "is this my eye",
+            "count": 1
+        },
+        {
+            "phrase": "is this my ear",
+            "count": 1
+        },
+        {
+            "phrase": "is this my brain",
+            "count": 1
+        },
+        {
+            "phrase": "is that the head",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:16",
+            "00:47",
+            "01:23",
+            "01:25",
+            "01:39",
+            "03:14",
+            "04:05",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "chef in concerto",
+            "count": 3
+        },
+        {
+            "phrase": "the complete library of cooking",
+            "count": 2
+        },
+        {
+            "phrase": "please give me the recipe",
+            "count": 1
+        },
+        {
+            "phrase": "best chef mid-atlantic",
+            "count": 1
+        },
+        {
+            "phrase": "the french chef",
+            "count": 1
+        },
+        {
+            "phrase": "baking bread with my mentor",
+            "count": 1
+        },
+        {
+            "phrase": "hey if you give me 20 mins of your time i will personally teach you how to read and use this step-by-step recipe book to make delicious dishes for your family",
+            "count": 1
+        },
+        {
+            "phrase": "cooking the books",
+            "count": 1
+        }
+    ]
+}

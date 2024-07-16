@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:48",
+            "01:32",
+            "02:15",
+            "03:18"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and that's how ken became the trainer",
+            "count": 3
+        },
+        {
+            "phrase": "shawn was just trained that way but i let him know that we do things differently",
+            "count": 1
+        },
+        {
+            "phrase": "i wonder what kinda trainer could've put up such a great battle",
+            "count": 1
+        }
+    ]
+}

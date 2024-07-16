@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "02:20",
+            "03:38",
+            "04:36",
+            "04:45"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's fully committed",
+            "count": 3
+        },
+        {
+            "phrase": "this guy is going to be the next big thing he is it",
+            "count": 1
+        },
+        {
+            "phrase": "this continued until he reached step",
+            "count": 1
+        },
+        {
+            "phrase": "he was looking forward to that",
+            "count": 1
+        },
+        {
+            "phrase": "he's got to hurry up to catch up",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:46",
+            "02:43",
+            "03:00",
+            "03:22"
+        ],
+        "label": "raw"
+    },
+    "clusterList": [
+        {
+            "phrase": "raw milk right to choose",
+            "count": 1
+        },
+        {
+            "phrase": "the other white milk",
+            "count": 1
+        },
+        {
+            "phrase": "soy milk or cow's milk with my bowl of cereal",
+            "count": 1
+        },
+        {
+            "phrase": "it's a good choice if you can't give milk yourself",
+            "count": 1
+        },
+        {
+            "phrase": "i love spicy food in coconut milk since it's my mom's specialty",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:31",
+            "00:38",
+            "00:51",
+            "01:19",
+            "01:43",
+            "01:47",
+            "01:56",
+            "03:10",
+            "03:34",
+            "03:50",
+            "03:51",
+            "04:28",
+            "04:32",
+            "04:33"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "axis of evil nations",
+            "count": 4
+        },
+        {
+            "phrase": "part of a geopolitical design",
+            "count": 3
+        },
+        {
+            "phrase": "in the name of a state practicing a policy of ideological hegemony",
+            "count": 1
+        },
+        {
+            "phrase": "for the foreseeable future the strategic environment will be defined by a global struggle against a violent extremist ideology that seeks to overturn the international state system",
+            "count": 1
+        },
+        {
+            "phrase": "those who make peaceful revolution impossible make violent revolution inevitable",
+            "count": 1
+        },
+        {
+            "phrase": "non-violent solutions to world problems and stands for peace and social justice",
+            "count": 1
+        },
+        {
+            "phrase": "only a coalition of marxists and islamists can destroy the united states",
+            "count": 1
+        },
+        {
+            "phrase": "oppressive war mongering regime",
+            "count": 1
+        },
+        {
+            "phrase": "the question is how to stand up to the extremists",
+            "count": 1
+        },
+        {
+            "phrase": "it is overstating the case to say that extremist islamic ideology is going to define the next 20 or 30 years",
+            "count": 1
+        }
+    ]
+}

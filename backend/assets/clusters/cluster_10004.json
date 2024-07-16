@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the goal is to strike the right balance between the family s needs and wishes which always are our top priority and the interest of the press",
+            "count": 1
+        },
+        {
+            "phrase": "the goal is to strike the right balance between the family's needs and wishes which always are our top priority and the interest of the press",
+            "count": 1
+        }
+    ]
+}

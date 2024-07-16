@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:56",
+            "03:51"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm trusting you to make sure my son doesn't get hurt",
+            "count": 1
+        },
+        {
+            "phrase": "god i want to trust that you are big enough to handle this situation",
+            "count": 1
+        },
+        {
+            "phrase": "you've got to be careful with daddy right now",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            14
+        ],
+        "xLabels": [
+            "02:32",
+            "03:51"
+        ],
+        "label": "usr"
+    },
+    "clusterList": [
+        {
+            "phrase": "usr lib python2 5 site-packages django db models loading py",
+            "count": 6
+        },
+        {
+            "phrase": "usr lib python2 5 site-packages django utils maxlength py",
+            "count": 6
+        },
+        {
+            "phrase": "usr lib python2 5 site-packages django core handlers base py",
+            "count": 2
+        },
+        {
+            "phrase": "usr lib python2 5 site-packages django db models fields init py",
+            "count": 2
+        }
+    ]
+}

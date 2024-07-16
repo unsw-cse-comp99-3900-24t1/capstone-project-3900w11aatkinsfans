@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:05",
+            "05:01"
+        ],
+        "label": "watergate"
+    },
+    "clusterList": [
+        {
+            "phrase": "watergate the new millennium",
+            "count": 1
+        },
+        {
+            "phrase": "you can have watergate",
+            "count": 1
+        }
+    ]
+}

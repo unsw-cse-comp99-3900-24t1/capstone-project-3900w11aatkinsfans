@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:50"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my mates in oasis left this here",
+            "count": 1
+        },
+        {
+            "phrase": "oasis are still around",
+            "count": 1
+        }
+    ]
+}

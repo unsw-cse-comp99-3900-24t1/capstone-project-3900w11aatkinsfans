@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:39",
+            "04:28"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things you only know about if you are canadian",
+            "count": 1
+        },
+        {
+            "phrase": "without knowing much about canada",
+            "count": 1
+        },
+        {
+            "phrase": "canada's really big",
+            "count": 1
+        }
+    ]
+}

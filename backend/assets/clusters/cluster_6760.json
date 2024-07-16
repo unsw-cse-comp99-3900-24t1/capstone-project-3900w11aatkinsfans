@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "02:32",
+            "03:41"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things have slowed down for me a lot this year",
+            "count": 2
+        },
+        {
+            "phrase": "i know i've cut back somewhat i'm just glad i got into this last year and really budgeted for it",
+            "count": 1
+        }
+    ]
+}

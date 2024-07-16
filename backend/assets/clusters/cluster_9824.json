@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:38"
+        ],
+        "label": "opinion"
+    },
+    "clusterList": [
+        {
+            "phrase": "opinion was challenged",
+            "count": 1
+        },
+        {
+            "phrase": "case or controversy",
+            "count": 1
+        }
+    ]
+}

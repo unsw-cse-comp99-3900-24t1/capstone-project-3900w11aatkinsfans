@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:13"
+        ],
+        "label": "network"
+    },
+    "clusterList": [
+        {
+            "phrase": "network http proxy pipelining",
+            "count": 1
+        },
+        {
+            "phrase": "network http pipelining maxrequests",
+            "count": 1
+        }
+    ]
+}

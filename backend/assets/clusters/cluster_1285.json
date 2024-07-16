@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:52",
+            "01:02",
+            "01:04",
+            "01:29",
+            "02:18",
+            "03:09",
+            "03:43",
+            "03:50"
+        ],
+        "label": "client"
+    },
+    "clusterList": [
+        {
+            "phrase": "client server news",
+            "count": 8
+        },
+        {
+            "phrase": "all of newsvine",
+            "count": 2
+        },
+        {
+            "phrase": "actual newsworthy topics",
+            "count": 2
+        }
+    ]
+}

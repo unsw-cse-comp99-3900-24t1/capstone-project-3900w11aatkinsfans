@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:09",
+            "01:42",
+            "02:33",
+            "04:41"
+        ],
+        "label": "yourcompany"
+    },
+    "clusterList": [
+        {
+            "phrase": "yourcompany com paid me to hold this sign",
+            "count": 1
+        },
+        {
+            "phrase": "thank you for your cooperation the money has already been transferred to your bank account enjoy",
+            "count": 1
+        },
+        {
+            "phrase": "if it wasn't for the instant payday loan info that i got from your website i don't know what",
+            "count": 1
+        },
+        {
+            "phrase": "your name was on your credit card slip",
+            "count": 1
+        },
+        {
+            "phrase": "well the signature's real but it's been copied on there and i can't comment either way on the typed text it's not my field",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "00:51"
+        ],
+        "label": "having"
+    },
+    "clusterList": [
+        {
+            "phrase": "having expected ismail to be convicted we were deeply shocked when the court acquitted him",
+            "count": 1
+        },
+        {
+            "phrase": "the prosecutor-general's evidence that ismail was largely to blame for failing to save the victims of the ill-fated ferry was inconclusive",
+            "count": 1
+        },
+        {
+            "phrase": "the charges brought were ill-judged and the prosecution ignored many of the details provided by the parliamentary fact-finding report they opted not to mention the fact that ismail's company systematically violated safety measures and that the ferry in order to increase company profits was carrying more passengers than allowed by the maritime authorities",
+            "count": 1
+        },
+        {
+            "phrase": "the arrests were carried out without the governor's knowledge the decision came from ramallah the governor has nothing to do with it",
+            "count": 1
+        }
+    ]
+}

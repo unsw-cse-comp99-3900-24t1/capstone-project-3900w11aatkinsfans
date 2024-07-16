@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:19",
+            "01:47",
+            "02:07",
+            "03:50",
+            "04:21",
+            "04:33",
+            "04:36",
+            "04:55"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pleasure of his company",
+            "count": 5
+        },
+        {
+            "phrase": "he was so very proud of his home and family and his friends and neighbors",
+            "count": 3
+        },
+        {
+            "phrase": "a dedicated athlete",
+            "count": 1
+        },
+        {
+            "phrase": "respect for his individualism and",
+            "count": 1
+        },
+        {
+            "phrase": "he just loved living life and having a good time",
+            "count": 1
+        },
+        {
+            "phrase": "dedicated his life",
+            "count": 1
+        },
+        {
+            "phrase": "his own personal sacrifice",
+            "count": 1
+        }
+    ]
+}

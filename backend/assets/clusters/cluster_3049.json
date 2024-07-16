@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:18",
+            "03:59",
+            "04:13"
+        ],
+        "label": "owes"
+    },
+    "clusterList": [
+        {
+            "phrase": "but actually who paid their fine last time wa",
+            "count": 4
+        },
+        {
+            "phrase": "owes it to bay county residents",
+            "count": 1
+        },
+        {
+            "phrase": "owes money to",
+            "count": 1
+        }
+    ]
+}

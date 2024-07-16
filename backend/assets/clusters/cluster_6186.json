@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:24",
+            "01:27"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've been a gardener for 40 years and all i've got is a bare spot",
+            "count": 1
+        },
+        {
+            "phrase": "i say what are you doing in the garden my love",
+            "count": 1
+        },
+        {
+            "phrase": "if you're going to have a garden like this you have to love working on it",
+            "count": 1
+        }
+    ]
+}

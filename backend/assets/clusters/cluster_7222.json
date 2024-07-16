@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:27",
+            "05:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a few positions per store were affected",
+            "count": 1
+        },
+        {
+            "phrase": "we're known as a high-end prepress shop",
+            "count": 1
+        },
+        {
+            "phrase": "compliance is a big issue it's always been a big issue to our customers an area like this really needs to be sold from the top down",
+            "count": 1
+        }
+    ]
+}

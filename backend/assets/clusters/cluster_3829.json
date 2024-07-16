@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:07",
+            "01:15",
+            "03:38"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will provide financing to the purchaser for approximately 75 of the purchase price",
+            "count": 1
+        },
+        {
+            "phrase": "the buyer rules",
+            "count": 1
+        },
+        {
+            "phrase": "it was sold at market value a sale by owner without an agent",
+            "count": 1
+        },
+        {
+            "phrase": "the final value should be representative of value between a ready buyer and seller in a normal market with the property exposed to normal marketing times",
+            "count": 1
+        },
+        {
+            "phrase": "upon request of an owner",
+            "count": 1
+        }
+    ]
+}

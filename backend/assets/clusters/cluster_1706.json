@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:18",
+            "01:20",
+            "01:29",
+            "01:52",
+            "02:15",
+            "02:25",
+            "03:14",
+            "04:46",
+            "05:01"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's got a long way to go lots of surgery he'll need prosthesis",
+            "count": 3
+        },
+        {
+            "phrase": "he was one of the most capable plastic surgeons britain has ever produced",
+            "count": 2
+        },
+        {
+            "phrase": "he a doctor may be a physician but he is not the great physician",
+            "count": 1
+        },
+        {
+            "phrase": "how come this patient is doing so good the surgery was so big i can't believe he looks this good when does something bad happen",
+            "count": 1
+        },
+        {
+            "phrase": "he's very professional",
+            "count": 1
+        },
+        {
+            "phrase": "he's an excellent really caring physician",
+            "count": 1
+        },
+        {
+            "phrase": "he's a talented surgeon",
+            "count": 1
+        }
+    ]
+}

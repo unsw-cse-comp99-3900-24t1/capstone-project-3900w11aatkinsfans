@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:00",
+            "03:05",
+            "03:51",
+            "04:31"
+        ],
+        "label": "trick"
+    },
+    "clusterList": [
+        {
+            "phrase": "tales of mere existence",
+            "count": 2
+        },
+        {
+            "phrase": "trick in the book",
+            "count": 1
+        },
+        {
+            "phrase": "the fairy godmother of relationships",
+            "count": 1
+        },
+        {
+            "phrase": "the faerie queene",
+            "count": 1
+        },
+        {
+            "phrase": "the order of myths",
+            "count": 1
+        }
+    ]
+}

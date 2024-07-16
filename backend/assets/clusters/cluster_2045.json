@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:24",
+            "00:31",
+            "00:51",
+            "00:57",
+            "01:06",
+            "02:32",
+            "02:55"
+        ],
+        "label": "was"
+    },
+    "clusterList": [
+        {
+            "phrase": "he was physically tortured for years and yet he gets out of bed every day and serves our country for decades",
+            "count": 5
+        },
+        {
+            "phrase": "was forced to defend himself from ceaseless attacks by the self-appointed soldiers of justice who sought to oust him from his position",
+            "count": 1
+        },
+        {
+            "phrase": "t he practice of arbitrary imprisonments have been in all ages the favorite and most formidable instruments of tyranny",
+            "count": 1
+        },
+        {
+            "phrase": "was especially eager for his charges to understand the horrors of the past students say",
+            "count": 1
+        }
+    ]
+}

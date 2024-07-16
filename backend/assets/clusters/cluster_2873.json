@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:56",
+            "01:08",
+            "01:18",
+            "01:52",
+            "03:46"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but he has never been in a jam like this",
+            "count": 6
+        }
+    ]
+}

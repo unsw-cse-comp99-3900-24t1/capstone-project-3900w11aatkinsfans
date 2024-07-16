@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            6,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:23",
+            "01:20",
+            "02:57",
+            "04:06"
+        ],
+        "label": "show"
+    },
+    "clusterList": [
+        {
+            "phrase": "show them your weapon and look menacing",
+            "count": 3
+        },
+        {
+            "phrase": "your weapon is your life so take care to keep it always ready and away from the eyes of the enemy and its spies",
+            "count": 2
+        },
+        {
+            "phrase": "noting that the enemy is hunting you at all times so keep discreet disguised and vigilant",
+            "count": 2
+        },
+        {
+            "phrase": "expand the circle of monitoring following up and hunting the enemy so it doesn't surprise us",
+            "count": 2
+        },
+        {
+            "phrase": "i have a duty to protect the public from predators because that's what you are such as you",
+            "count": 1
+        }
+    ]
+}

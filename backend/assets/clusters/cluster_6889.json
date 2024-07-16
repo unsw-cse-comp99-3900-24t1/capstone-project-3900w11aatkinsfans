@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:24",
+            "02:56"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's another very important test obviously when you lose a couple it's puts an extra emphasis on this particular test and i think that's pretty obvious",
+            "count": 2
+        },
+        {
+            "phrase": "when you lose a couple it puts extra emphasis on a particular test i think that's pretty obvious",
+            "count": 1
+        }
+    ]
+}

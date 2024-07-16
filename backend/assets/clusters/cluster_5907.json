@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "02:01",
+            "03:46"
+        ],
+        "label": "email"
+    },
+    "clusterList": [
+        {
+            "phrase": "email and browser-based in the cloud applications play a major part in day-to-day business transactions so a security breach of this kind could have catastrophic business and personal implications",
+            "count": 1
+        },
+        {
+            "phrase": "breaking in through the front door the impact of web applications and application service provision on traditional security models",
+            "count": 1
+        },
+        {
+            "phrase": "with all the scams and stuff it does make you wonder i mean with computer frauds and everything else i know i got it with my bank accounts and stuff it's scary with all the stuff that's going through right now",
+            "count": 1
+        }
+    ]
+}

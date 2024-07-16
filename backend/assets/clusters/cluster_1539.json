@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:23",
+            "01:43",
+            "03:08",
+            "03:33",
+            "03:46",
+            "04:08",
+            "04:41",
+            "04:45"
+        ],
+        "label": "itunes"
+    },
+    "clusterList": [
+        {
+            "phrase": "available as a 21 track single disc or a 2 cd version with a disc of rare and unreleased tracks this chronicles r",
+            "count": 4
+        },
+        {
+            "phrase": "itunes library itl",
+            "count": 2
+        },
+        {
+            "phrase": "for free download at this location here's the track list",
+            "count": 1
+        },
+        {
+            "phrase": "sony nwz-s616 mp3 player",
+            "count": 1
+        },
+        {
+            "phrase": "this is the first time the entire catalog is available in drm-free mp3 format",
+            "count": 1
+        },
+        {
+            "phrase": "ad-supported music has some bright spots and some low points i'm not sure where trueanthem ranks but i like its business model the startup raised 2 million and added adidas as a sponsor unlike most free ad-supported music songs from trueanthem are available as mp3 files the ones i downloaded were 128kbps and begin with brief audio advertisements there is also an ad at the bottom of each widget from which songs are streamed and downloaded the press release says ad-free tracks can be purchased for 0 99 apiece but i have not found a widget with this option",
+            "count": 1
+        },
+        {
+            "phrase": "you can't tell the difference between mp3s and cds",
+            "count": 1
+        }
+    ]
+}

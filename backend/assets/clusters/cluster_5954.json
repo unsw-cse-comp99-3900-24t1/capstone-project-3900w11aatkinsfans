@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:19",
+            "04:23"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all the information is required",
+            "count": 1
+        },
+        {
+            "phrase": "all the necessary contacts",
+            "count": 1
+        },
+        {
+            "phrase": "this is provided for information only",
+            "count": 1
+        }
+    ]
+}

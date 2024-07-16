@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "03:12"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i told you to clean up before we came there's a mess on the table and on the kitchen floor and you could have at least had clean forks",
+            "count": 1
+        },
+        {
+            "phrase": "there wasn't any forks to clean",
+            "count": 1
+        },
+        {
+            "phrase": "let's just get the table cleared and dishwasher loaded okay",
+            "count": 1
+        }
+    ]
+}

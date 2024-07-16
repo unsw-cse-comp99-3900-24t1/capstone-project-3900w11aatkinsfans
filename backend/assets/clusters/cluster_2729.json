@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "02:18",
+            "03:01",
+            "03:03",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "wonderful"
+    },
+    "clusterList": [
+        {
+            "phrase": "this situation has really ripped apart this family",
+            "count": 3
+        },
+        {
+            "phrase": "wonderful time with your family",
+            "count": 1
+        },
+        {
+            "phrase": "stay together for the kids",
+            "count": 1
+        },
+        {
+            "phrase": "this is an exciting time for our family",
+            "count": 1
+        },
+        {
+            "phrase": "family life today",
+            "count": 1
+        }
+    ]
+}

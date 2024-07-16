@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "02:49",
+            "03:56"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there would have been 150 people around him trying to ask him questions",
+            "count": 1
+        },
+        {
+            "phrase": "he had a lot of enemies",
+            "count": 1
+        },
+        {
+            "phrase": "he put up some good numbers when he had people around him",
+            "count": 1
+        }
+    ]
+}

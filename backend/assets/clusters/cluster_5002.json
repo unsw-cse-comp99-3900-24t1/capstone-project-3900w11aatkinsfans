@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "04:23",
+            "04:45",
+            "04:54"
+        ],
+        "label": "thaksin"
+    },
+    "clusterList": [
+        {
+            "phrase": "thaksin is not disheartened they respect the court ruling but it is not the end we will fight until the end",
+            "count": 1
+        },
+        {
+            "phrase": "officer of the court",
+            "count": 1
+        },
+        {
+            "phrase": "friend of the court",
+            "count": 1
+        },
+        {
+            "phrase": "most of the court",
+            "count": 1
+        }
+    ]
+}

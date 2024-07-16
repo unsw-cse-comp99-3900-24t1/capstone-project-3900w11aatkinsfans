@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "01:20",
+            "01:29"
+        ],
+        "label": "proud"
+    },
+    "clusterList": [
+        {
+            "phrase": "where have you been you are the sort of person we need as prime minister",
+            "count": 2
+        },
+        {
+            "phrase": "we already have a great prime minister",
+            "count": 2
+        },
+        {
+            "phrase": "proud to be a citizen of a country in which a prime minister can be investigated like any other citizen",
+            "count": 1
+        }
+    ]
+}

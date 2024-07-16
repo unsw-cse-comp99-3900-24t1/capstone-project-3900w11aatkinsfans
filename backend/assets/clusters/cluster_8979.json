@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:44",
+            "00:47"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now congressmen it is your time and i hear there is not enough time",
+            "count": 1
+        },
+        {
+            "phrase": "the closing days of congress are very tedious",
+            "count": 1
+        }
+    ]
+}

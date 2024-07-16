@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:06"
+        ],
+        "label": "motor"
+    },
+    "clusterList": [
+        {
+            "phrase": "motor cars will probably have passed their zenith of popularity a century later they will only be used for shopping picnics and the amusement of youth they will in fact sink to the level now occupied by the bicycle",
+            "count": 1
+        },
+        {
+            "phrase": "the invention of the bicycle ushered in a new spirit of freedom during the late 19th century the golden age of cycling reached its pinnacle in 1895 that same year french painter g massias created one of the great parisian art posters advertising a fashionable new bicycle cycles gladiator",
+            "count": 1
+        }
+    ]
+}

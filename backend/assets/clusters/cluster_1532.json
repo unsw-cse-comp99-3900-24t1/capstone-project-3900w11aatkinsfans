@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:32",
+            "00:36",
+            "00:48",
+            "00:55",
+            "00:56",
+            "01:10",
+            "02:00",
+            "04:33",
+            "04:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last guy",
+            "count": 4
+        },
+        {
+            "phrase": "the toy man",
+            "count": 1
+        },
+        {
+            "phrase": "oh now what's wrong with the little guy",
+            "count": 1
+        },
+        {
+            "phrase": "the nature boy",
+            "count": 1
+        },
+        {
+            "phrase": "legend of the worst boy in the world",
+            "count": 1
+        },
+        {
+            "phrase": "the little firework boy",
+            "count": 1
+        },
+        {
+            "phrase": "little guy but very aggressive",
+            "count": 1
+        },
+        {
+            "phrase": "the man that got away",
+            "count": 1
+        }
+    ]
+}

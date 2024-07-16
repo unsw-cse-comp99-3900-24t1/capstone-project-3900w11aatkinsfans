@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:20",
+            "03:00"
+        ],
+        "label": "immediately"
+    },
+    "clusterList": [
+        {
+            "phrase": "immediately cease substantially all its operations",
+            "count": 1
+        },
+        {
+            "phrase": "cease and desist",
+            "count": 1
+        }
+    ]
+}

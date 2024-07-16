@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:06",
+            "03:59",
+            "04:05",
+            "04:09",
+            "04:23",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's tough not taking part yeah definitely",
+            "count": 2
+        },
+        {
+            "phrase": "i guess until you face the challenge and you've come up short is when you really have to think deeply about what is going on there",
+            "count": 1
+        },
+        {
+            "phrase": "it's easy to get involved but it's still a challenging cause",
+            "count": 1
+        },
+        {
+            "phrase": "if it's a challenge it's a challenge i look forward to it",
+            "count": 1
+        },
+        {
+            "phrase": "it's a very challenging climb",
+            "count": 1
+        },
+        {
+            "phrase": "it's just a great challenge and a great way to test your mettle",
+            "count": 1
+        },
+        {
+            "phrase": "it's been tough one of the toughest things i've ever had to go through",
+            "count": 1
+        }
+    ]
+}

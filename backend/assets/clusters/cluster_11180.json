@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:10"
+        ],
+        "label": "lost"
+    },
+    "clusterList": [
+        {
+            "phrase": "lost for words",
+            "count": 1
+        },
+        {
+            "phrase": "at a loss for words",
+            "count": 1
+        }
+    ]
+}

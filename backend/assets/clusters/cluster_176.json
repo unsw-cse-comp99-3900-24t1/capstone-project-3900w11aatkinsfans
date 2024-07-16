@@ -1,0 +1,209 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "00:11",
+            "00:14",
+            "00:27",
+            "00:28",
+            "00:48",
+            "00:56",
+            "01:04",
+            "01:06",
+            "01:09",
+            "01:10",
+            "01:11",
+            "01:18",
+            "01:20",
+            "01:34",
+            "01:48",
+            "02:01",
+            "02:02",
+            "02:09",
+            "02:15",
+            "02:29",
+            "02:39",
+            "03:12",
+            "03:18",
+            "03:29",
+            "03:36",
+            "03:38",
+            "04:06",
+            "04:13",
+            "04:14",
+            "04:28",
+            "04:32",
+            "04:51",
+            "04:55",
+            "05:04"
+        ],
+        "label": "demand"
+    },
+    "clusterList": [
+        {
+            "phrase": "who am i",
+            "count": 5
+        },
+        {
+            "phrase": "alright tell everybody what's your name",
+            "count": 3
+        },
+        {
+            "phrase": "who are you",
+            "count": 3
+        },
+        {
+            "phrase": "demand answers to what about me",
+            "count": 2
+        },
+        {
+            "phrase": "you and me",
+            "count": 2
+        },
+        {
+            "phrase": "what's your sign",
+            "count": 2
+        },
+        {
+            "phrase": "i want each of you to state your name so i'll know who you are",
+            "count": 2
+        },
+        {
+            "phrase": "my breast friend",
+            "count": 1
+        },
+        {
+            "phrase": "this is who i am",
+            "count": 1
+        },
+        {
+            "phrase": "who are you again and why should i care",
+            "count": 1
+        },
+        {
+            "phrase": "what's your name",
+            "count": 1
+        },
+        {
+            "phrase": "wtf where am i who are you",
+            "count": 1
+        },
+        {
+            "phrase": "tell me who's your role model and i'll tell you who you are",
+            "count": 1
+        },
+        {
+            "phrase": "who are you and what do ya want",
+            "count": 1
+        },
+        {
+            "phrase": "share what i am",
+            "count": 1
+        },
+        {
+            "phrase": "whose children are you",
+            "count": 1
+        },
+        {
+            "phrase": "what are you talking about me",
+            "count": 1
+        },
+        {
+            "phrase": "me and you",
+            "count": 1
+        },
+        {
+            "phrase": "what is your name",
+            "count": 1
+        },
+        {
+            "phrase": "your name is",
+            "count": 1
+        },
+        {
+            "phrase": "and who are you",
+            "count": 1
+        },
+        {
+            "phrase": "who are you talking to",
+            "count": 1
+        },
+        {
+            "phrase": "you and i",
+            "count": 1
+        },
+        {
+            "phrase": "i dont know who i am",
+            "count": 1
+        },
+        {
+            "phrase": "who we are",
+            "count": 1
+        },
+        {
+            "phrase": "here am i",
+            "count": 1
+        },
+        {
+            "phrase": "wh-who are you",
+            "count": 1
+        },
+        {
+            "phrase": "something about me",
+            "count": 1
+        },
+        {
+            "phrase": "who the heck are you",
+            "count": 1
+        },
+        {
+            "phrase": "i want people to know who i really am",
+            "count": 1
+        },
+        {
+            "phrase": "who were you",
+            "count": 1
+        },
+        {
+            "phrase": "who was i",
+            "count": 1
+        }
+    ]
+}

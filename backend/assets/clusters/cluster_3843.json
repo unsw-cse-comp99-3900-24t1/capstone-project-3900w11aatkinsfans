@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:07",
+            "03:11",
+            "04:04",
+            "04:19"
+        ],
+        "label": "need"
+    },
+    "clusterList": [
+        {
+            "phrase": "need open communication",
+            "count": 2
+        },
+        {
+            "phrase": "communication and coordination are key to this whole thing",
+            "count": 1
+        },
+        {
+            "phrase": "so we want to get as much information out to people as possible",
+            "count": 1
+        },
+        {
+            "phrase": "google apps gives us a structured integrated way to stay connected and collaborate",
+            "count": 1
+        }
+    ]
+}

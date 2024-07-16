@@ -1,0 +1,97 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:04",
+            "00:26",
+            "00:56",
+            "01:07",
+            "01:50",
+            "02:09",
+            "02:15",
+            "02:19",
+            "03:18",
+            "03:28",
+            "04:09",
+            "04:41"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey just a",
+            "count": 2
+        },
+        {
+            "phrase": "hey hey hey look at this",
+            "count": 1
+        },
+        {
+            "phrase": "alright is everyone here",
+            "count": 1
+        },
+        {
+            "phrase": "hey s er",
+            "count": 1
+        },
+        {
+            "phrase": "hey i recognize you",
+            "count": 1
+        },
+        {
+            "phrase": "hey you comin or what",
+            "count": 1
+        },
+        {
+            "phrase": "hey guess what",
+            "count": 1
+        },
+        {
+            "phrase": "hey i needed that",
+            "count": 1
+        },
+        {
+            "phrase": "thanks for talking with me once again hucka d",
+            "count": 1
+        },
+        {
+            "phrase": "hey you're a pickle what are you doin in here",
+            "count": 1
+        },
+        {
+            "phrase": "hey mike would you like to hang out with us for awhile",
+            "count": 1
+        },
+        {
+            "phrase": "are youse talkin to me toots",
+            "count": 1
+        },
+        {
+            "phrase": "very well i've decided you're comin with me",
+            "count": 1
+        },
+        {
+            "phrase": "hey krusha come here for a sec",
+            "count": 1
+        },
+        {
+            "phrase": "oh yeah and hey",
+            "count": 1
+        }
+    ]
+}

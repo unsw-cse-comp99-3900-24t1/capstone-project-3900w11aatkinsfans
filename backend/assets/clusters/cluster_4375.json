@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:07",
+            "02:08",
+            "04:24"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not surprised if anwar can increase the number for the constituents they know they are going to vote for a prime minister",
+            "count": 2
+        },
+        {
+            "phrase": "we fully support anwar and the party will mobilise its machinery to ensure his victory",
+            "count": 1
+        },
+        {
+            "phrase": "i said when i stood for elections that i also will vacate my seat when the need arises to allow anwar to be in parliament",
+            "count": 1
+        }
+    ]
+}

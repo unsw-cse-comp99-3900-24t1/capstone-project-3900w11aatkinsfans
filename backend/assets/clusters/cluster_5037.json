@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:32",
+            "03:38",
+            "05:01"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some say the path we take is guided by fate or unseen forces",
+            "count": 2
+        },
+        {
+            "phrase": "the direction in which to steer the human destiny",
+            "count": 1
+        },
+        {
+            "phrase": "nothing moves without a prior mover this leads us to a regress from which the only escape is god something had to make the first move and that something we call god",
+            "count": 1
+        }
+    ]
+}

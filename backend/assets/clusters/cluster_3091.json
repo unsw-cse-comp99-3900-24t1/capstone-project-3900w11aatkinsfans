@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:06",
+            "01:11",
+            "01:51",
+            "03:01",
+            "03:10"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we left corporate america which is a lot of what we're asking young people to do",
+            "count": 3
+        },
+        {
+            "phrase": "we have become the go-to company for many of the pop culture properties that are not 100 per cent for kids",
+            "count": 2
+        },
+        {
+            "phrase": "may well be the biggest influence in the youth culture market",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "00:51",
+            "00:56",
+            "01:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the only building that was ready was half the size of the one we had in slidell",
+            "count": 1
+        },
+        {
+            "phrase": "in that building existed little more than a bunch of",
+            "count": 1
+        },
+        {
+            "phrase": "the eatery was a tiny matchbox of a building little more than a single room 15 by 15 feet",
+            "count": 1
+        },
+        {
+            "phrase": "i think most everything in the building was replaceable",
+            "count": 1
+        }
+    ]
+}

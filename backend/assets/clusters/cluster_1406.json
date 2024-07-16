@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:27",
+            "00:51",
+            "01:32",
+            "01:40",
+            "02:11",
+            "02:26",
+            "02:51",
+            "03:55",
+            "04:13",
+            "04:49"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's easy to look at last year's budget and see what should have been done the hard part is not the amendment process but the upcoming budget",
+            "count": 5
+        },
+        {
+            "phrase": "now the bush administration's new policy is to wait another ten years",
+            "count": 2
+        },
+        {
+            "phrase": "we believe that people will see that as nothing more than the same old politics and the same old policies of the last eight years",
+            "count": 1
+        },
+        {
+            "phrase": "after more than a decade of operation for both programs it is time to evaluate these policies and make the necessary adjustments",
+            "count": 1
+        },
+        {
+            "phrase": "a shift of policy",
+            "count": 1
+        },
+        {
+            "phrase": "this is without a doubt the most significant policy change in the federal government in at least 25 years",
+            "count": 1
+        },
+        {
+            "phrase": "what people really want is a fundamental political change a change in policies something more substantial",
+            "count": 1
+        }
+    ]
+}

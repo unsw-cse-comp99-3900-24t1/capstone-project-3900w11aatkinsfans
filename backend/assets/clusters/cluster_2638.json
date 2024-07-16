@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:15",
+            "02:55",
+            "04:15",
+            "04:28",
+            "04:33"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you are looking for interventions to prevent alzheimer's one way may be to identify people who have been divorced or widowed and who haven't adapted or gotten back into the social circle and give them support with the aim of giving them new structure and social networks in their lives",
+            "count": 2
+        },
+        {
+            "phrase": "the researchers were able to illuminate why drug related memories are so stable",
+            "count": 2
+        },
+        {
+            "phrase": "if an individual finds out that they are at risk for developing alzheimer's disease and are not taking much care of their health that's already a good reason to start immediately",
+            "count": 1
+        },
+        {
+            "phrase": "one could collect the children of mothers with alzheimer's disease divide them into a placebo group and a drug-test group and follow them with neuropsych tests and brain scans to see whether the group receiving the drug had delayed onset or prevention",
+            "count": 1
+        },
+        {
+            "phrase": "when i started this group there were three drugs available now there are so many i'm hoping we find a cure so our children and grandchildren don't have to go through this",
+            "count": 1
+        }
+    ]
+}

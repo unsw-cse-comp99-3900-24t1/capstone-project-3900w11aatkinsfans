@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:05"
+        ],
+        "label": "elevate"
+    },
+    "clusterList": [
+        {
+            "phrase": "elevate four-year college degrees above everything else",
+            "count": 1
+        },
+        {
+            "phrase": "we've got to think differently about what higher education means",
+            "count": 1
+        },
+        {
+            "phrase": "america's lead over its economic rivals has been entirely forfeited with many nations surging ahead in school attainment",
+            "count": 1
+        }
+    ]
+}

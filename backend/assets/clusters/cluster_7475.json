@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:41",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the main emphasis of this project is to satisfy student demand for retail and entertainment within walking distance",
+            "count": 1
+        },
+        {
+            "phrase": "well how did the other students do it faster",
+            "count": 1
+        },
+        {
+            "phrase": "we touch a larger audience through the students",
+            "count": 1
+        }
+    ]
+}

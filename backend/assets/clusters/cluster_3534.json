@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:13",
+            "00:24",
+            "00:39",
+            "03:35",
+            "05:05"
+        ],
+        "label": "pointing"
+    },
+    "clusterList": [
+        {
+            "phrase": "pointing out your opponent's worldwide celebrity is not the low road and neither is pointing out that he opposes oil drilling and supports higher taxes",
+            "count": 2
+        },
+        {
+            "phrase": "his goal is to make his electric car so cheap so trivial that you won't even think of buying a gasoline car",
+            "count": 1
+        },
+        {
+            "phrase": "these negative ads spending all this time talking about me instead of talking about what he's going to do is not going to lower gas prices",
+            "count": 1
+        },
+        {
+            "phrase": "that doesn't do much to help american families who need relief from high gas prices today or answer the question of whether he's ready to lead",
+            "count": 1
+        }
+    ]
+}

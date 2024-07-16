@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "01:01",
+            "02:08",
+            "02:20",
+            "02:26",
+            "02:32",
+            "02:39",
+            "02:46",
+            "03:01",
+            "03:18",
+            "04:06",
+            "04:13",
+            "04:23",
+            "04:29",
+            "04:36",
+            "05:05"
+        ],
+        "label": "anytime"
+    },
+    "clusterList": [
+        {
+            "phrase": "finally it's here",
+            "count": 4
+        },
+        {
+            "phrase": "there's no place for it",
+            "count": 3
+        },
+        {
+            "phrase": "found here and nowhere else",
+            "count": 2
+        },
+        {
+            "phrase": "where is it",
+            "count": 2
+        },
+        {
+            "phrase": "looks like we search here",
+            "count": 2
+        },
+        {
+            "phrase": "there's a place",
+            "count": 2
+        },
+        {
+            "phrase": "anytime any place",
+            "count": 1
+        },
+        {
+            "phrase": "ok well where is it",
+            "count": 1
+        },
+        {
+            "phrase": "i can show where it is",
+            "count": 1
+        },
+        {
+            "phrase": "i need it very much right about now i'm so lonely",
+            "count": 1
+        },
+        {
+            "phrase": "it has to be here somewhere",
+            "count": 1
+        }
+    ]
+}

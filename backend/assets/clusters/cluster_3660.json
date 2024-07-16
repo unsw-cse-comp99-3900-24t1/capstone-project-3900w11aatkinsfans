@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:40",
+            "02:26",
+            "04:33",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "certainly certainly it wasn't necessarily something i was doing but it was something that we at the white house yes were doing and getting them talking points and making sure they knew where we were coming from",
+            "count": 3
+        },
+        {
+            "phrase": "i was puzzled by this notion that somehow what we were doing was in any way different from what or a lot of presidential candidates have done in the past",
+            "count": 1
+        },
+        {
+            "phrase": "as it developed though we had no control over the change in days the tickets to the american presidential experience were available",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "04:18"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "has already made up his mind",
+            "count": 1
+        },
+        {
+            "phrase": "already made up his mind",
+            "count": 1
+        },
+        {
+            "phrase": "not in his right mind",
+            "count": 1
+        }
+    ]
+}

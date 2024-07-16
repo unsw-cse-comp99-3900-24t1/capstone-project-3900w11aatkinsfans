@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:24",
+            "00:32",
+            "01:11",
+            "01:51"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is a personal experience but it moves away from being centered on the one machine",
+            "count": 6
+        }
+    ]
+}

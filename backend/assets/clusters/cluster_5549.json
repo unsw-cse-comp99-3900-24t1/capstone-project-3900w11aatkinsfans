@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:46",
+            "04:36",
+            "04:39"
+        ],
+        "label": "contract"
+    },
+    "clusterList": [
+        {
+            "phrase": "contract signing of luol deng",
+            "count": 1
+        },
+        {
+            "phrase": "i more or less signed the paper trying to get rid of him",
+            "count": 1
+        },
+        {
+            "phrase": "i wasn't going to sign him",
+            "count": 1
+        },
+        {
+            "phrase": "i want to sign him",
+            "count": 1
+        }
+    ]
+}

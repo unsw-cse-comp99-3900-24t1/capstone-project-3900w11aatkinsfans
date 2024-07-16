@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:52",
+            "01:01",
+            "01:07",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's also a more traditional crack which allows apps to be stripped of drm and shared",
+            "count": 8
+        },
+        {
+            "phrase": "windows media plugin",
+            "count": 1
+        },
+        {
+            "phrase": "from our viewpoint any drm-incompatible video related mechanism is a non-starter with the content industry hollywood there is in our opinion no need to make drm support mandatory though",
+            "count": 1
+        },
+        {
+            "phrase": "any drm-incompatible video related mechanism is a non-starter with the content industry",
+            "count": 1
+        }
+    ]
+}

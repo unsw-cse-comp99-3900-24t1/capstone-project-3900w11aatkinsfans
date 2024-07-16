@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:05"
+        ],
+        "label": "air"
+    },
+    "clusterList": [
+        {
+            "phrase": "air force air force wake up",
+            "count": 1
+        },
+        {
+            "phrase": "minot air force base",
+            "count": 1
+        }
+    ]
+}

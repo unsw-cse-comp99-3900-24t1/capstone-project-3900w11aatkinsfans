@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:42",
+            "03:50"
+        ],
+        "label": "within"
+    },
+    "clusterList": [
+        {
+            "phrase": "within the outer perimeter",
+            "count": 1
+        },
+        {
+            "phrase": "in the second dimension below you",
+            "count": 1
+        }
+    ]
+}

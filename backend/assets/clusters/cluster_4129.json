@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:11",
+            "03:20",
+            "03:35",
+            "04:31"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as lay people in a very secular culture",
+            "count": 2
+        },
+        {
+            "phrase": "hearing the sacred from the middle ages to the 21st century",
+            "count": 1
+        },
+        {
+            "phrase": "under the veil of religion",
+            "count": 1
+        },
+        {
+            "phrase": "the painted veil",
+            "count": 1
+        }
+    ]
+}

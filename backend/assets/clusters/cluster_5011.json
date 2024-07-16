@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:53",
+            "03:01",
+            "03:18",
+            "04:45"
+        ],
+        "label": "four"
+    },
+    "clusterList": [
+        {
+            "phrase": "four for friday",
+            "count": 1
+        },
+        {
+            "phrase": "yes four exactly",
+            "count": 1
+        },
+        {
+            "phrase": "three more just last night",
+            "count": 1
+        },
+        {
+            "phrase": "he had two wednesday",
+            "count": 1
+        }
+    ]
+}

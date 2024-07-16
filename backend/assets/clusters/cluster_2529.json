@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:56",
+            "02:22",
+            "04:08",
+            "04:13",
+            "04:59"
+        ],
+        "label": "home"
+    },
+    "clusterList": [
+        {
+            "phrase": "home schooling under this situation removes almost any chances of us catching up with these kinds of things until there is a catastrophe",
+            "count": 6
+        },
+        {
+            "phrase": "typical well-adjusted teenagers will run away from home and some of our residents are vastly more prone to do that",
+            "count": 1
+        }
+    ]
+}

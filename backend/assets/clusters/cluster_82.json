@@ -1,0 +1,205 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            6,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            3,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:04",
+            "00:06",
+            "00:12",
+            "00:23",
+            "00:27",
+            "00:38",
+            "00:56",
+            "01:06",
+            "01:07",
+            "01:11",
+            "01:13",
+            "01:14",
+            "01:20",
+            "01:30",
+            "01:33",
+            "01:34",
+            "01:42",
+            "01:43",
+            "01:56",
+            "02:02",
+            "02:05",
+            "02:09",
+            "02:14",
+            "02:34",
+            "02:51",
+            "02:52",
+            "02:56",
+            "03:06",
+            "03:10",
+            "03:15",
+            "03:18",
+            "03:37",
+            "03:42",
+            "03:43",
+            "03:51",
+            "03:56",
+            "04:08",
+            "04:13",
+            "04:24",
+            "04:28",
+            "04:32",
+            "04:33",
+            "04:36",
+            "04:51"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know",
+            "count": 25
+        },
+        {
+            "phrase": "i don't think so",
+            "count": 15
+        },
+        {
+            "phrase": "i think so",
+            "count": 2
+        },
+        {
+            "phrase": "oh yah right i'm not sure",
+            "count": 1
+        },
+        {
+            "phrase": "oh i don't know",
+            "count": 1
+        },
+        {
+            "phrase": "don't be too sure",
+            "count": 1
+        },
+        {
+            "phrase": "er um uh not really maybe",
+            "count": 1
+        },
+        {
+            "phrase": "i on't think so",
+            "count": 1
+        },
+        {
+            "phrase": "ah is that so",
+            "count": 1
+        },
+        {
+            "phrase": "oh no i dnt think so",
+            "count": 1
+        },
+        {
+            "phrase": "since i don't really know",
+            "count": 1
+        },
+        {
+            "phrase": "no that's silly",
+            "count": 1
+        },
+        {
+            "phrase": "well i think",
+            "count": 1
+        },
+        {
+            "phrase": "yes in a sense",
+            "count": 1
+        },
+        {
+            "phrase": "don't you think so",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think so no",
+            "count": 1
+        },
+        {
+            "phrase": "i really don't know",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know i don't know i don't know",
+            "count": 1
+        },
+        {
+            "phrase": "oh that explains it then",
+            "count": 1
+        },
+        {
+            "phrase": "um i don't think so",
+            "count": 1
+        },
+        {
+            "phrase": "i would think so",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know i guess so",
+            "count": 1
+        },
+        {
+            "phrase": "uh i'm not sure about that",
+            "count": 1
+        },
+        {
+            "phrase": "you think so",
+            "count": 1
+        },
+        {
+            "phrase": "i would think not",
+            "count": 1
+        },
+        {
+            "phrase": "yes i think so",
+            "count": 1
+        }
+    ]
+}

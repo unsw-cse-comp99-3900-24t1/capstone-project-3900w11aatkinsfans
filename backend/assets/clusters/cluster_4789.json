@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "01:24",
+            "04:35",
+            "04:40"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if the players treat the match as just another game instead of taking it as the semi-final there will be no pressure at all",
+            "count": 1
+        },
+        {
+            "phrase": "this whole thing has not been handled properly to have last night go like it did it's just a microcosm of the whole situation everyone's just frustrated we've been against it from the beginning it could be a great tournament",
+            "count": 1
+        },
+        {
+            "phrase": "this whole tournament has not been handled properly to have last night go like it did it's just a microcosm of the whole situation",
+            "count": 1
+        },
+        {
+            "phrase": "all players feel the pressure when they do not score but it's part and parcel of the game kosmina said",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            32,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:25",
+            "00:48",
+            "00:52",
+            "01:01",
+            "01:41",
+            "01:50",
+            "02:20",
+            "02:45",
+            "03:01",
+            "03:28",
+            "03:42",
+            "04:23",
+            "05:00"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "to the public",
+            "count": 32
+        },
+        {
+            "phrase": "we respect copyright",
+            "count": 7
+        },
+        {
+            "phrase": "we respect the public",
+            "count": 1
+        },
+        {
+            "phrase": "we honor ourselves when we respect others",
+            "count": 1
+        },
+        {
+            "phrase": "we respect those who are concerned and disagree",
+            "count": 1
+        },
+        {
+            "phrase": "the public good",
+            "count": 1
+        },
+        {
+            "phrase": "the public be damned",
+            "count": 1
+        },
+        {
+            "phrase": "we the society",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:28",
+            "03:03",
+            "03:47",
+            "04:23",
+            "04:28"
+        ],
+        "label": "obviously"
+    },
+    "clusterList": [
+        {
+            "phrase": "obviously i got off to a ridiculously good start",
+            "count": 7
+        },
+        {
+            "phrase": "i got off to a ridiculously good start",
+            "count": 2
+        }
+    ]
+}

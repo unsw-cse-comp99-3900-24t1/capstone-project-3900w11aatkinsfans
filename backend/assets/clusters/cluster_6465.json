@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "01:12",
+            "01:13"
+        ],
+        "label": "thought"
+    },
+    "clusterList": [
+        {
+            "phrase": "this new event is good",
+            "count": 2
+        },
+        {
+            "phrase": "thought it would be a good event early in the year",
+            "count": 1
+        }
+    ]
+}

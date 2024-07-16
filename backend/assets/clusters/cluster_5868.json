@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "03:56",
+            "04:24"
+        ],
+        "label": "running"
+    },
+    "clusterList": [
+        {
+            "phrase": "running down the stairs",
+            "count": 1
+        },
+        {
+            "phrase": "does he climb stairs taking one foot per stair",
+            "count": 1
+        },
+        {
+            "phrase": "quick to the stairs",
+            "count": 1
+        }
+    ]
+}

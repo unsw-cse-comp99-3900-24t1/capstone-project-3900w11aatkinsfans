@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "03:11",
+            "04:04"
+        ],
+        "label": "75"
+    },
+    "clusterList": [
+        {
+            "phrase": "75 pounds of meat a day man",
+            "count": 1
+        },
+        {
+            "phrase": "for better health it's important for pregnant and nursing mums and all of us to eat a wide variety of fruits vegetables whole grains nuts eggs and fish while minimizing consumption of processed and prepared foods",
+            "count": 1
+        },
+        {
+            "phrase": "all you could eat was bread or cereal",
+            "count": 1
+        }
+    ]
+}

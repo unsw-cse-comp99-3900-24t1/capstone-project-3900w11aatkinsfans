@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "01:52",
+            "03:23",
+            "03:38",
+            "04:50",
+            "04:52"
+        ],
+        "label": "god"
+    },
+    "clusterList": [
+        {
+            "phrase": "the sewerage tank was full",
+            "count": 4
+        },
+        {
+            "phrase": "god forbid i had a full tank of gas what would have happened",
+            "count": 2
+        }
+    ]
+}

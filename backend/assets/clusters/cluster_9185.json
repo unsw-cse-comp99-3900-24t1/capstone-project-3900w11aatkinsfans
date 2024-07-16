@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "03:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the whistle was correct in all details",
+            "count": 1
+        },
+        {
+            "phrase": "yeah he laid a good one on him i didn't blow the whistle fast enough and the poor guy got it",
+            "count": 1
+        }
+    ]
+}

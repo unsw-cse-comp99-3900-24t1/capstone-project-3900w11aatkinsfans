@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            5,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:09",
+            "02:11",
+            "03:35",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the new research also points to a specific potential new target in the brain for medications to treat this disorder that affects 15 percent of women after they give birth",
+            "count": 3
+        },
+        {
+            "phrase": "targeting this subunit might be a promising strategy in developing new treatments for postpartum depression",
+            "count": 3
+        },
+        {
+            "phrase": "after pregnancy when hormone levels drop off you need more receptors to maintain that level if you cannot maintain that level after pregnancy that's when the disorders manifest",
+            "count": 1
+        },
+        {
+            "phrase": "the women that are affected by the disorder the hormone levels are not changed they are not different than in unaffected women so we are confident that it must be the receptor trafficking mechanism that is affected because the changes in hormone levels are pretty normal",
+            "count": 1
+        },
+        {
+            "phrase": "we discovered that you can affect the estrogen receptor directly in the hippocampus right where it's needed to address memory and spatial learning",
+            "count": 1
+        },
+        {
+            "phrase": "estrogen may act as a growth agent for cancer but in the brain it appears to maintain health and counteract stress",
+            "count": 1
+        },
+        {
+            "phrase": "we wanted to come back and enhance the signaling pathway that makes estrogen functional we used a gene therapy technique that enables us to target the brain but ultimately there could be a pharmaceutical that enhances the signaling pathway solely in the brain",
+            "count": 1
+        },
+        {
+            "phrase": "this is good news for moving forward to develop clinical interventions and therapeutics because it appears critical damage was not done to brain circuitry during early development there has also been debate about which of at least two estrogen receptors is key to synaptic health clearly estrogen receptor-alpha plays a critically important role in hippocampal organization and function",
+            "count": 1
+        },
+        {
+            "phrase": "from a technology perspective their technique to transfect the estrogen receptor is an exciting advance for researching steroid receptors in the brain",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to overstate the implications but this is clearly a very exciting time for all of us involved in the research we plan to focus our efforts in expanding this research to pregnant women",
+            "count": 1
+        },
+        {
+            "phrase": "it is particularly encouraging that neither the advanced age nor the severely disabling disease of the patient prevented us from reprogramming her fibroblasts",
+            "count": 1
+        }
+    ]
+}

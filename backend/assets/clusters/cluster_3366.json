@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:27",
+            "03:51",
+            "04:13",
+            "04:14",
+            "04:32",
+            "04:38"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who enlisted in the army in 2001 when he was 18",
+            "count": 4
+        },
+        {
+            "phrase": "a conscription of the whole youthful male population to form for a certain number of years a part of the army enlisted against",
+            "count": 1
+        },
+        {
+            "phrase": "my daddy was in the army i think i saw him two weeks out of every year usually at christmas time my momma said that sometimes she felt like a widow",
+            "count": 1
+        }
+    ]
+}

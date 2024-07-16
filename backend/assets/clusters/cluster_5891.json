@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "04:28",
+            "04:55"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you have a wonderfully beautiful face mr gray don't frown you have",
+            "count": 1
+        },
+        {
+            "phrase": "but my dear sweet child why would you want me to don't you want to be beautiful",
+            "count": 1
+        },
+        {
+            "phrase": "i do not love people because they are beautiful but they seem beautiful to me because i love them",
+            "count": 1
+        }
+    ]
+}

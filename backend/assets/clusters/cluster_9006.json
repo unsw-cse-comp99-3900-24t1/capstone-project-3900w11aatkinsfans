@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "04:05"
+        ],
+        "label": "read"
+    },
+    "clusterList": [
+        {
+            "phrase": "read my lips candidate no new taxes no matter what",
+            "count": 1
+        },
+        {
+            "phrase": "everything except payroll taxes",
+            "count": 1
+        }
+    ]
+}

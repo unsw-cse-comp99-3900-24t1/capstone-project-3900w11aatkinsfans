@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:46"
+        ],
+        "label": "detection"
+    },
+    "clusterList": [
+        {
+            "phrase": "detection of liquid ethane in ontario lacus confirms a long-held idea that lakes and seas filled with methane and ethane exist on titan",
+            "count": 1
+        },
+        {
+            "phrase": "over and over again boynton also said that water was positively identified after the lander's robotic arm delivered a soil sample on wednesday to an instrument that identifies vapors produced by heating",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:40",
+            "02:26"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "well what's the usual you're in iraq",
+            "count": 2
+        },
+        {
+            "phrase": "the first time i was here i ran the roads so i didn't get to interact a whole lot with the people of iraq",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "02:27",
+            "03:15",
+            "03:23",
+            "04:56"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well we should have a lot more what western europe has",
+            "count": 3
+        },
+        {
+            "phrase": "beware with the eastern europeans",
+            "count": 1
+        },
+        {
+            "phrase": "asia and europe",
+            "count": 1
+        },
+        {
+            "phrase": "at the crossroads of europe asia and africa where east meets west",
+            "count": 1
+        }
+    ]
+}

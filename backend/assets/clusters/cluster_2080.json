@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the vast majority of editors are incorruptible",
+            "count": 8
+        }
+    ]
+}

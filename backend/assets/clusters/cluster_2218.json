@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:05",
+            "01:29",
+            "01:32",
+            "02:05",
+            "02:14",
+            "03:36",
+            "04:41"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for discussion purposes",
+            "count": 2
+        },
+        {
+            "phrase": "i hope that this debate will be closed and we will move on to serious things",
+            "count": 1
+        },
+        {
+            "phrase": "i know it's up for debate but they're wrong",
+            "count": 1
+        },
+        {
+            "phrase": "we want to have a serious debate",
+            "count": 1
+        },
+        {
+            "phrase": "you'd think we'd be having a serious debate",
+            "count": 1
+        },
+        {
+            "phrase": "discussion about that controversial",
+            "count": 1
+        },
+        {
+            "phrase": "you'd think that we'd be having a serious debate",
+            "count": 1
+        }
+    ]
+}

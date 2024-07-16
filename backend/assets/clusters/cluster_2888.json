@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "03:00",
+            "04:22"
+        ],
+        "label": "base"
+    },
+    "clusterList": [
+        {
+            "phrase": "base f torso lngslvshirtvest",
+            "count": 3
+        },
+        {
+            "phrase": "base f ac neckchain",
+            "count": 3
+        }
+    ]
+}

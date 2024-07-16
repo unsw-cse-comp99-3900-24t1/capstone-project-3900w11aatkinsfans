@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:24",
+            "01:06",
+            "01:47",
+            "04:31"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think if it wasn't for him i wouldn't be here",
+            "count": 1
+        },
+        {
+            "phrase": "just wouldn't be the same without you",
+            "count": 1
+        },
+        {
+            "phrase": "well then let's just go have fun without him",
+            "count": 1
+        },
+        {
+            "phrase": "him at some point likely not too much afterward you will discover he is not",
+            "count": 1
+        },
+        {
+            "phrase": "i couldn't do this without him",
+            "count": 1
+        }
+    ]
+}

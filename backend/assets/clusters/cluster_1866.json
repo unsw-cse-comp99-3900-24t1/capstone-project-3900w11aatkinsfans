@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:10",
+            "02:24",
+            "02:40",
+            "03:01",
+            "03:15",
+            "03:55",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't want to compromise the investigation",
+            "count": 4
+        },
+        {
+            "phrase": "i ve never felt more secure that i ve violated no law and no spirit of the law but in order to make certain to make certain that there is no cloud over my conduct in new york i ask the ethics committee to look into it",
+            "count": 1
+        },
+        {
+            "phrase": "i simply refuse to allow the public record to indicate that i have engaged in any unethical behavior",
+            "count": 1
+        },
+        {
+            "phrase": "i simply refuse to allow the public record to indicate i have engaged in any unethical behavior",
+            "count": 1
+        },
+        {
+            "phrase": "you have to get proof of these things and it's very very difficult you get cases where you can't tell who's telling the truth you get a garda saying i wasn't discourteous and the member of the public saying he or she was we can't decide in that and we generally find no breach of discipline",
+            "count": 1
+        },
+        {
+            "phrase": "i believe my behavior has been honorable and appropriate i'm confident authorities will view it in the same vein",
+            "count": 1
+        }
+    ]
+}

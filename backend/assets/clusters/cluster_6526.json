@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:51",
+            "04:14"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i had not heard those numbers with respect to african american women i was not aware that it was that severe an epidemic there",
+            "count": 1
+        },
+        {
+            "phrase": "in places like where i grew up and where i worked there are incredibly high hiv and std rates",
+            "count": 1
+        },
+        {
+            "phrase": "when we have conferences for people living with hiv we see very high levels of sexual activity among the participants",
+            "count": 1
+        }
+    ]
+}

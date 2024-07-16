@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:00",
+            "04:28",
+            "04:51",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last supper",
+            "count": 1
+        },
+        {
+            "phrase": "the last crusade",
+            "count": 1
+        },
+        {
+            "phrase": "the battle of evermore",
+            "count": 1
+        },
+        {
+            "phrase": "in the war of good versus evil based loosely on the biblical book of revelation a player tries to recruit others in order to fight the enemy of non-believers prayer after killing the opposition will essentially redeem you",
+            "count": 1
+        }
+    ]
+}

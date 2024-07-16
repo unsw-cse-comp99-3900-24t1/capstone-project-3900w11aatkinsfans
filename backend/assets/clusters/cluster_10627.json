@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "04:13"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's a long way to drive to work",
+            "count": 1
+        },
+        {
+            "phrase": "it's not more than a forty minute drive from here",
+            "count": 1
+        }
+    ]
+}

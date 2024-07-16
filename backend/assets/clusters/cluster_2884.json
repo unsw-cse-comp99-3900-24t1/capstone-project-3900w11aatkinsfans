@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:20",
+            "00:36",
+            "01:47",
+            "02:52",
+            "03:35"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the take-home pay of the majority of our employees is unaffected by this legislative change",
+            "count": 3
+        },
+        {
+            "phrase": "we're just completely upset with having your salary completely abolished because of the inaction of the legislature and the political inaction here",
+            "count": 2
+        },
+        {
+            "phrase": "the scale is different we have 19 million people they have 40 million people i think the legislature has spoken out with both houses and both parties that they'd rather see anything but layoffs i don't see people dropping down to minimum wage",
+            "count": 1
+        }
+    ]
+}

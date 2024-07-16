@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:38",
+            "03:48",
+            "04:03",
+            "04:49"
+        ],
+        "label": "hand"
+    },
+    "clusterList": [
+        {
+            "phrase": "hand in his pocket",
+            "count": 1
+        },
+        {
+            "phrase": "he said he had some work at the office",
+            "count": 1
+        },
+        {
+            "phrase": "sending him to his room",
+            "count": 1
+        },
+        {
+            "phrase": "in his sights",
+            "count": 1
+        }
+    ]
+}

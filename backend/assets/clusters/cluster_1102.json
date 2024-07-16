@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "02:25",
+            "02:32",
+            "03:06",
+            "03:18",
+            "03:48",
+            "04:15",
+            "04:24",
+            "04:28"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "why does this white cat have an orange tabby's tail",
+            "count": 4
+        },
+        {
+            "phrase": "in photos there appeared to be a beak it was just a tricky angle it's a dead raccoon that's what it is it's undoubtedly a raccoon the same teeth paws the right size",
+            "count": 2
+        },
+        {
+            "phrase": "this is an actual monster some sort of rodent-like creature with a dinosaur beak a government animal-testing facility is close by",
+            "count": 1
+        },
+        {
+            "phrase": "no other animal has a body like that",
+            "count": 1
+        },
+        {
+            "phrase": "he said the jaw was broken and that's why it looks like a beak with long fingers it's more like a raccoon",
+            "count": 1
+        },
+        {
+            "phrase": "it is shaped like a velociraptor's claw",
+            "count": 1
+        },
+        {
+            "phrase": "we think it's a mutant from usda animal disease research center plum island it had a beak and it looked like a reptile in a dog's body",
+            "count": 1
+        },
+        {
+            "phrase": "rodents have two huge curved incisor teeth in front of their mouths",
+            "count": 1
+        },
+        {
+            "phrase": "it is impossible to accurately identify the species of animal from the photo there is no scale from which to judge its size additionally when a body has had prolonged exposure to water and predators it can be altered or appear different from its normal form if we had the actual body we could tell you what it is however from viewing a canine tooth in the picture we could guess it may be a cat or raccoon",
+            "count": 1
+        },
+        {
+            "phrase": "if it looks like a duck walks like a duck quacks like a duck then it most likely is a duck",
+            "count": 1
+        }
+    ]
+}

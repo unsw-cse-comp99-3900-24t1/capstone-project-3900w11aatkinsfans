@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            3,
+            1,
+            3,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:31",
+            "01:30",
+            "01:41",
+            "01:46",
+            "01:47",
+            "03:48",
+            "03:56",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i completely believe that a game could come out and be more successful than wow i'm hoping that we're working on it right now",
+            "count": 4
+        },
+        {
+            "phrase": "i think a lot of other companies have had great opportunities to do what wow has done usually for whatever reason they miss the mark",
+            "count": 4
+        },
+        {
+            "phrase": "the same challenge is on us are we going to make the right decisions i don't believe that just because we made wow we're guaranteed on the next mmo that we make to have the same success",
+            "count": 4
+        },
+        {
+            "phrase": "any massively multiplayer online game that launches today isn't just competing with the amount and breadth of content that we launched with back in 2004",
+            "count": 2
+        },
+        {
+            "phrase": "game development is hard enough as it is in the mmo space you're talking an even bigger investment basically double so it does add that layer of complexity we just haven't found that right mix",
+            "count": 1
+        },
+        {
+            "phrase": "there are no plans currently to bring world of warcraft to any consoles",
+            "count": 1
+        },
+        {
+            "phrase": "it's almost good to take some of these little moments of humility where we were thinking it was going to be a six-month development project and the gaming side of it really was but the hubris of game developers we were like ah this web development stuff can't be all that tough and that was the thing that really has been the driving factor on the project making sure of all the crap that web developers know about like making it work on all the different platforms and os versions we're working our way through that and have brought in some people with that experience",
+            "count": 1
+        }
+    ]
+}

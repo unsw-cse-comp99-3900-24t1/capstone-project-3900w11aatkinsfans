@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "02:01",
+            "03:46",
+            "03:59",
+            "04:29",
+            "05:04"
+        ],
+        "label": "james"
+    },
+    "clusterList": [
+        {
+            "phrase": "james bond story",
+            "count": 1
+        },
+        {
+            "phrase": "but stranger things have happened",
+            "count": 1
+        },
+        {
+            "phrase": "the bourne identity",
+            "count": 1
+        },
+        {
+            "phrase": "stranger at the door",
+            "count": 1
+        },
+        {
+            "phrase": "robert kolker a cinema of loneliness",
+            "count": 1
+        },
+        {
+            "phrase": "the book with no name by anonymous",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "02:01"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want to give all we can leally to the media to give the glory to jesus",
+            "count": 1
+        },
+        {
+            "phrase": "can we give jesus all the glory tonight",
+            "count": 1
+        },
+        {
+            "phrase": "we want something more than mere preaching now",
+            "count": 1
+        }
+    ]
+}

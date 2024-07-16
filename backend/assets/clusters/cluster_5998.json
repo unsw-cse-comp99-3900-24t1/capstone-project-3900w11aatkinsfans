@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:20",
+            "03:37"
+        ],
+        "label": "poor"
+    },
+    "clusterList": [
+        {
+            "phrase": "poor thing it gets no respect",
+            "count": 1
+        },
+        {
+            "phrase": "the title doesn't deserve to be treated with respect because the title is like a woman it's like love it doesn't care about anything but itself",
+            "count": 1
+        },
+        {
+            "phrase": "whatever the hell happened to respect",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "04:18",
+            "04:22"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the akp had been convicted for committing a crime against secularism by the 10 of the 11 members of the constitutional court",
+            "count": 1
+        },
+        {
+            "phrase": "i think frankly it keeps a lot of sinners off the street watching law and order",
+            "count": 1
+        },
+        {
+            "phrase": "cling to guns or religion",
+            "count": 1
+        }
+    ]
+}

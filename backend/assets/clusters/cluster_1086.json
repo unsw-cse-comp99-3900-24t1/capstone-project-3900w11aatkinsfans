@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:24",
+            "01:47",
+            "02:00",
+            "02:08",
+            "02:41",
+            "02:57",
+            "03:04",
+            "03:09",
+            "04:36"
+        ],
+        "label": "tasogare"
+    },
+    "clusterList": [
+        {
+            "phrase": "our long road home",
+            "count": 5
+        },
+        {
+            "phrase": "tasogare highway high",
+            "count": 1
+        },
+        {
+            "phrase": "something about 30 metres away",
+            "count": 1
+        },
+        {
+            "phrase": "long way from l a",
+            "count": 1
+        },
+        {
+            "phrase": "across the border",
+            "count": 1
+        },
+        {
+            "phrase": "from grand avenue to adams no signal stops so it's about six blocks they drive really fast",
+            "count": 1
+        },
+        {
+            "phrase": "turn left in 500m on to george street",
+            "count": 1
+        },
+        {
+            "phrase": "possibly crossing low-lying roads",
+            "count": 1
+        },
+        {
+            "phrase": "on east 10th street in greenwich village in new york",
+            "count": 1
+        },
+        {
+            "phrase": "gt bicycle boulevards",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:34"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you got your robot in my helicopter",
+            "count": 1
+        },
+        {
+            "phrase": "no you got your helicopter on my robot",
+            "count": 1
+        },
+        {
+            "phrase": "just make it with the robot if you want",
+            "count": 1
+        }
+    ]
+}

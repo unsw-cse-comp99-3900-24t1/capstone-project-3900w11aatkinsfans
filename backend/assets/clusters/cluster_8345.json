@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:29"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what are the best things that i can do with my life since i can't have kids",
+            "count": 1
+        },
+        {
+            "phrase": "no kids no wife i haven't done anything with my life",
+            "count": 1
+        }
+    ]
+}

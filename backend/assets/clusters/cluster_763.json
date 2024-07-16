@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "00:53",
+            "00:56",
+            "01:02",
+            "01:06",
+            "01:07",
+            "01:37",
+            "01:47",
+            "02:08",
+            "02:18",
+            "03:15",
+            "03:46",
+            "04:15",
+            "04:21",
+            "04:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the meeting will be an opportunity for us to speak up and make our voices heard if you're in the bay area i encourage you to come out hopefully we'll have a lively set of questions posed to the yahoo board in a true direct fashion",
+            "count": 7
+        },
+        {
+            "phrase": "town hall meeting",
+            "count": 3
+        },
+        {
+            "phrase": "for a good time call mr met 718-577-tixx",
+            "count": 1
+        },
+        {
+            "phrase": "do you have everything ready for the meeting",
+            "count": 1
+        },
+        {
+            "phrase": "this meeting is for men",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know of any such meeting mr chairman",
+            "count": 1
+        },
+        {
+            "phrase": "i would go to the meeting for you",
+            "count": 1
+        },
+        {
+            "phrase": "how you conduct the meeting and how you react to the reported numbers is tremendously important in the past the person reporting an unfavorable number was lonely and isolated now i want people to admit to shortfalls and have everyone else respond how can we help this is an entirely new management model for the company we're sharing information and working together as a team to improve operations and fix problems this monthly meeting has become so interesting people started to ask me if they could attend i could sell tickets to it",
+            "count": 1
+        },
+        {
+            "phrase": "i had no idea you were going to be here at this meeting",
+            "count": 1
+        },
+        {
+            "phrase": "sir you have a meeting with mr dolan on tuesday and you received an invitation to the attend the monthly business circle meeting at the town hall",
+            "count": 1
+        }
+    ]
+}

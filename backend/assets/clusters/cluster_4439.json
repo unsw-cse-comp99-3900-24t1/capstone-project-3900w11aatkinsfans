@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "03:56"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a point of distinction for the island to have anne",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of islanders quite frankly are anned to death",
+            "count": 1
+        },
+        {
+            "phrase": "many islanders have had it up to here with anne",
+            "count": 1
+        },
+        {
+            "phrase": "you represent the stories of islanders she said",
+            "count": 1
+        }
+    ]
+}

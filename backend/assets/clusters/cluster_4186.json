@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "03:06",
+            "03:11",
+            "03:43",
+            "04:28"
+        ],
+        "label": "part"
+    },
+    "clusterList": [
+        {
+            "phrase": "part of the problem",
+            "count": 1
+        },
+        {
+            "phrase": "anybody want to point out the obvious freaking solution to this problem then",
+            "count": 1
+        },
+        {
+            "phrase": "this is a real problem",
+            "count": 1
+        },
+        {
+            "phrase": "that was the problem",
+            "count": 1
+        },
+        {
+            "phrase": "that's his problem",
+            "count": 1
+        }
+    ]
+}

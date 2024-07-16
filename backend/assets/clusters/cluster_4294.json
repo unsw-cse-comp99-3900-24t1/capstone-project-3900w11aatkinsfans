@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:47",
+            "02:51",
+            "04:10",
+            "04:33",
+            "04:52"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i couldn't believe everyone stood up like that",
+            "count": 2
+        },
+        {
+            "phrase": "i hope no one was in the middle of their backswing when it happened",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't get hit but i know where that came from",
+            "count": 1
+        },
+        {
+            "phrase": "i could not believe it everybody got hit in the head",
+            "count": 1
+        }
+    ]
+}

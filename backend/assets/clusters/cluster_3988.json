@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:56",
+            "03:19",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the great mcginty",
+            "count": 2
+        },
+        {
+            "phrase": "the wreck of the edmund fitzgerald",
+            "count": 1
+        },
+        {
+            "phrase": "barrel of monkeys",
+            "count": 1
+        },
+        {
+            "phrase": "captain fantastic and the brown dirt cowboy",
+            "count": 1
+        }
+    ]
+}

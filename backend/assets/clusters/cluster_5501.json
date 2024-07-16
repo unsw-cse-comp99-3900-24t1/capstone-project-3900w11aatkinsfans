@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:25",
+            "04:28",
+            "04:41"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey i know who and where that picture was taken",
+            "count": 1
+        },
+        {
+            "phrase": "somebody knows who did this",
+            "count": 1
+        },
+        {
+            "phrase": "hopefully we'll find who did this",
+            "count": 1
+        },
+        {
+            "phrase": "i just want somebody to come forward and tell me who did this to my dad",
+            "count": 1
+        }
+    ]
+}

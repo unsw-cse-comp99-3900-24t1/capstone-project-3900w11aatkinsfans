@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "03:18"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm just set in my ways",
+            "count": 1
+        },
+        {
+            "phrase": "i have my ways around everything",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:28"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm uncomfortable with your fortune-telling and future-predicting",
+            "count": 1
+        },
+        {
+            "phrase": "you will be making an investment in the future at a time when there is uncertainty",
+            "count": 1
+        }
+    ]
+}

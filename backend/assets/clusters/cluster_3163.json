@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:35",
+            "01:42",
+            "02:10",
+            "02:20"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't wait till the next date",
+            "count": 4
+        },
+        {
+            "phrase": "i can't wait til the 28th i'm gonna make you my girlfriend",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sooooo going to the next one",
+            "count": 1
+        }
+    ]
+}

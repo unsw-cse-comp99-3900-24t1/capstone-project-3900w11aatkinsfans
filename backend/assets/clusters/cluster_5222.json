@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:48",
+            "03:13",
+            "03:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the displays are entertaining informative and allow students to talk with local and regional tradespeople",
+            "count": 1
+        },
+        {
+            "phrase": "we have a very active community re sponsible for education with lectures that are of interest to our synagogue",
+            "count": 1
+        },
+        {
+            "phrase": "we survey them once a year and ask what types of programs and speakers are of interest",
+            "count": 1
+        },
+        {
+            "phrase": "lectures to my students",
+            "count": 1
+        }
+    ]
+}

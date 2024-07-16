@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:36",
+            "04:09",
+            "04:18"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of my 19-year-old patients ended up having a very bad car accident and she ended up with a significant traumatic brain injury",
+            "count": 1
+        },
+        {
+            "phrase": "i had one case was referred to companion animal surgeon warwick bruce and was able to scrub in he made it look so simple fixing the fracture on a dog with precision and smoothness of the surgery i thought i am so far from this but i would like to get there",
+            "count": 1
+        },
+        {
+            "phrase": "dr lutz committed malpractice and caused damages to my client",
+            "count": 1
+        },
+        {
+            "phrase": "failed to inform the plaintiff that blood tests including mean corpuscular volume mean corpuscular hemoglobin and platelet levels were abnormal as a result of the malpractice of dr lutz the plaintiff has been placed at an increased risk of thrombosis stroke heart attack leukemia hemorrhage myelofibrosis and other diseases and conditions",
+            "count": 1
+        }
+    ]
+}

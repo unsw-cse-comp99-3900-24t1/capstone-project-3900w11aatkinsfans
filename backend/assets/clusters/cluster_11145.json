@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:01"
+        ],
+        "label": "i'd"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'd love to have more we just gotta make the time",
+            "count": 1
+        },
+        {
+            "phrase": "we've done nothing but set more records it's pretty exciting to see if we can outdo ourselves again",
+            "count": 1
+        }
+    ]
+}

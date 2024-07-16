@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:30",
+            "01:32",
+            "01:41",
+            "02:09",
+            "03:11",
+            "04:09",
+            "04:13",
+            "04:18",
+            "05:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the u s was thinking of flying u2 reconnaissance aircraft with fighter cover over iraq painted in u n colours",
+            "count": 9
+        },
+        {
+            "phrase": "when iranian divers courageously carve the iranian emblem on the sides of the american warships it is a message to the americans namely that we can just as easily bomb and destroy these warships p when iranian uavs hover for hours over the american aircraft carriers sending back images and footage with the americans trying to hit them but failing due to the compactness and maneuverability of the uavs this also sends a message to the americans namely that these uavs can be loaded with explosives and used to destroy the carriers",
+            "count": 1
+        },
+        {
+            "phrase": "newly painted boeing 757 aircraft sprayed with of course the obama campaign slogan",
+            "count": 1
+        }
+    ]
+}

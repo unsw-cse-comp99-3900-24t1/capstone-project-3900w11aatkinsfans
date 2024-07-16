@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:19",
+            "03:34",
+            "04:45"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have shown a growing interest",
+            "count": 1
+        },
+        {
+            "phrase": "now people have taken a significant interest",
+            "count": 1
+        },
+        {
+            "phrase": "a growing interest",
+            "count": 1
+        },
+        {
+            "phrase": "several spots of interest",
+            "count": 1
+        }
+    ]
+}

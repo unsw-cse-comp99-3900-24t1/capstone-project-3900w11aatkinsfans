@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1
+        ],
+        "xLabels": [
+            "04:13",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the description of the fema director and dhs secretary's responsibilities conflicts with requirements of the post katrina reform act",
+            "count": 1
+        },
+        {
+            "phrase": "shifting nrf implementation to the dhs secretary is not consistent with the intent of congress as described in the post katrina reform act the head of fema and not the dhs secretary should be in charge of coordinating federal emergency response",
+            "count": 1
+        },
+        {
+            "phrase": "the latest report confirms that homeland security and fema are dysfunctional there have been countless reports since katrina and many make the same recommendations over and over instead of hearing from homeland security's top brass congress ought to hear from whistleblowers within the department",
+            "count": 1
+        },
+        {
+            "phrase": "we are in the middle of a hurricane season that produced two category five storms in as many weeks homeland security's leadership should be investigated",
+            "count": 1
+        },
+        {
+            "phrase": "hurricane katrina is the first real test of the plan and has exposed its strengths and weaknesses but quite honestly at the federal level the response was quite robust",
+            "count": 1
+        }
+    ]
+}

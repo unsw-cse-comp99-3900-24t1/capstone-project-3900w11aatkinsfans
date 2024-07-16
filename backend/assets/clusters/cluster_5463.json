@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "01:01",
+            "04:13"
+        ],
+        "label": "archives"
+    },
+    "clusterList": [
+        {
+            "phrase": "archives of general psychiatry",
+            "count": 1
+        },
+        {
+            "phrase": "introductory lectures on psychoanalysis",
+            "count": 1
+        },
+        {
+            "phrase": "oxford textbook of psychiatry",
+            "count": 1
+        },
+        {
+            "phrase": "review of general psychiatry",
+            "count": 1
+        }
+    ]
+}

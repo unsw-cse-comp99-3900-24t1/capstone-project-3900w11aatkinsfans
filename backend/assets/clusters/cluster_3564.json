@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:16",
+            "00:36",
+            "02:24",
+            "04:19"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it ends sometime and this could be the last i should really hear you sing again and i should really watch you dance",
+            "count": 1
+        },
+        {
+            "phrase": "b-side this is a song about summertime may it never end may it never end",
+            "count": 1
+        },
+        {
+            "phrase": "nick sings this song every night and it brings people to tears it's amazing",
+            "count": 1
+        },
+        {
+            "phrase": "stacie wait a moment you were listening so well can i finish",
+            "count": 1
+        },
+        {
+            "phrase": "do you want me to sing to you i'll sing all night if it will keep the bad dreams away",
+            "count": 1
+        }
+    ]
+}

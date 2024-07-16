@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "01:47",
+            "04:18",
+            "05:03"
+        ],
+        "label": "eight"
+    },
+    "clusterList": [
+        {
+            "phrase": "eight pounds and five ounces doesn't sound necessarily big but it felt big",
+            "count": 2
+        },
+        {
+            "phrase": "it was about seven kilo in weight and smelled pretty bad",
+            "count": 1
+        },
+        {
+            "phrase": "there was lots of parts everywhere it was shredded",
+            "count": 1
+        }
+    ]
+}

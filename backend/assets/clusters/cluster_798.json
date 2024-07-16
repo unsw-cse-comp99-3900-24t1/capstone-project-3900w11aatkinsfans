@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:29",
+            "01:50",
+            "02:02",
+            "02:04",
+            "02:05",
+            "02:09",
+            "02:11",
+            "02:14",
+            "02:26",
+            "02:27",
+            "02:28",
+            "02:29",
+            "02:42",
+            "03:24",
+            "04:56"
+        ],
+        "label": "stop"
+    },
+    "clusterList": [
+        {
+            "phrase": "without know who is following you you do not know why you are being followed which brings about a very really possibility of suffering harm",
+            "count": 15
+        },
+        {
+            "phrase": "stop following me around",
+            "count": 1
+        },
+        {
+            "phrase": "why aren't you following",
+            "count": 1
+        }
+    ]
+}

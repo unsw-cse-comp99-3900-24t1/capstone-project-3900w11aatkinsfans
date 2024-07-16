@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "04:17"
+        ],
+        "label": "museums"
+    },
+    "clusterList": [
+        {
+            "phrase": "museums collections management information systems cataloguing and standards in north america",
+            "count": 1
+        },
+        {
+            "phrase": "their house is a museum where people come to see em",
+            "count": 1
+        }
+    ]
+}

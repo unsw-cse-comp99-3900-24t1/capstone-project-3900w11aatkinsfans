@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:32",
+            "03:27",
+            "03:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are very excited to have heather return to rutgers",
+            "count": 2
+        },
+        {
+            "phrase": "we welcome stacy and are delighted she will be playing a couple of events with us competing against her peers",
+            "count": 1
+        },
+        {
+            "phrase": "hooray for melinda and i'm so excited to know the date that the new dwts contestants will be announced",
+            "count": 1
+        }
+    ]
+}

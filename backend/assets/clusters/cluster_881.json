@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:55",
+            "02:20",
+            "02:29",
+            "02:46",
+            "02:50",
+            "02:51",
+            "02:55",
+            "03:05",
+            "03:09",
+            "04:28",
+            "04:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "now new yorkers can drive across the border to a neighboring state and get a marriage license that will be recognized as fully legal and valid here at home",
+            "count": 9
+        },
+        {
+            "phrase": "sense of the council on opposing a federal marriage amendment resolution of 2004",
+            "count": 2
+        },
+        {
+            "phrase": "we have had conversations on marriage for two and a half years and with the gains happening across the country nh winning civil unions ca winning marriage ma repealing 1913 the debate on marriage in maine is ramping up",
+            "count": 1
+        },
+        {
+            "phrase": "but if you ask directly about gay marriage abortion and those types of things washington has historically been on the liberal side of the question",
+            "count": 1
+        },
+        {
+            "phrase": "in the district of columbia for all legal purposes marriage means the union of one man and one woman",
+            "count": 1
+        },
+        {
+            "phrase": "only marriage between a man and a woman is valid or recognized in california",
+            "count": 1
+        },
+        {
+            "phrase": "are doing terrible harm to marriage laws across the country",
+            "count": 1
+        }
+    ]
+}

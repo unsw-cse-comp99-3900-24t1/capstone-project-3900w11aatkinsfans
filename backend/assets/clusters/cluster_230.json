@@ -1,0 +1,161 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:11",
+            "00:14",
+            "00:28",
+            "00:29",
+            "00:53",
+            "01:07",
+            "01:09",
+            "01:19",
+            "01:20",
+            "01:33",
+            "02:00",
+            "02:01",
+            "02:02",
+            "02:09",
+            "02:52",
+            "03:14",
+            "03:18",
+            "03:27",
+            "03:35",
+            "03:42",
+            "03:57",
+            "04:03",
+            "04:21",
+            "04:23",
+            "04:28",
+            "04:29",
+            "04:37",
+            "04:44"
+        ],
+        "label": "came"
+    },
+    "clusterList": [
+        {
+            "phrase": "came back fine",
+            "count": 6
+        },
+        {
+            "phrase": "i'm sorry i don't know what just happened",
+            "count": 6
+        },
+        {
+            "phrase": "what just happened",
+            "count": 3
+        },
+        {
+            "phrase": "i don't know what happened",
+            "count": 2
+        },
+        {
+            "phrase": "did that really just happen",
+            "count": 2
+        },
+        {
+            "phrase": "the question is is that really what happened",
+            "count": 1
+        },
+        {
+            "phrase": "what happened what was i supposed to do",
+            "count": 1
+        },
+        {
+            "phrase": "don't know what happened",
+            "count": 1
+        },
+        {
+            "phrase": "uhm yes what happened",
+            "count": 1
+        },
+        {
+            "phrase": "relax we now know what happened of course it could have been something else",
+            "count": 1
+        },
+        {
+            "phrase": "why what happened",
+            "count": 1
+        },
+        {
+            "phrase": "yo what happened",
+            "count": 1
+        },
+        {
+            "phrase": "no but something did happen",
+            "count": 1
+        },
+        {
+            "phrase": "are you sure that's what happened",
+            "count": 1
+        },
+        {
+            "phrase": "krusha what happened",
+            "count": 1
+        },
+        {
+            "phrase": "well it kinda happened a few days ago",
+            "count": 1
+        },
+        {
+            "phrase": "duh hi what's happened",
+            "count": 1
+        },
+        {
+            "phrase": "so what happened",
+            "count": 1
+        },
+        {
+            "phrase": "did that really happen i think i remember that",
+            "count": 1
+        },
+        {
+            "phrase": "all of a sudden",
+            "count": 1
+        },
+        {
+            "phrase": "it happened so quick",
+            "count": 1
+        },
+        {
+            "phrase": "well something might have happened",
+            "count": 1
+        },
+        {
+            "phrase": "how did that happen if you are talking to me",
+            "count": 1
+        }
+    ]
+}

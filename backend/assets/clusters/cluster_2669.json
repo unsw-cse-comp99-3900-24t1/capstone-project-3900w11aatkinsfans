@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:51",
+            "04:05",
+            "04:19",
+            "04:23"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is happening to the middle ages",
+            "count": 1
+        },
+        {
+            "phrase": "the scholastic period",
+            "count": 1
+        },
+        {
+            "phrase": "typical of the 16th century",
+            "count": 1
+        },
+        {
+            "phrase": "put the word lebensraum on to the scholarly map of the nineteenth century",
+            "count": 1
+        },
+        {
+            "phrase": "some are more medievalist than others",
+            "count": 1
+        },
+        {
+            "phrase": "in its horror and system the acts recalled the worst epochs of the middle ages",
+            "count": 1
+        },
+        {
+            "phrase": "18th 19th century there would be portraits of some aristocrats or landscapes scenes with peasants etc",
+            "count": 1
+        }
+    ]
+}

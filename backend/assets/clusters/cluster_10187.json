@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "04:23"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not in my court room and i don't have my robe so i'm not judging i'm just telling you",
+            "count": 1
+        },
+        {
+            "phrase": "the judge gave you a lot of room",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:14",
+            "01:16",
+            "01:19",
+            "01:34",
+            "02:10",
+            "02:15",
+            "02:28",
+            "03:18",
+            "03:50",
+            "04:06",
+            "04:07",
+            "04:18",
+            "04:24"
+        ],
+        "label": "send"
+    },
+    "clusterList": [
+        {
+            "phrase": "send me an email",
+            "count": 4
+        },
+        {
+            "phrase": "call my name",
+            "count": 3
+        },
+        {
+            "phrase": "you do you and i'll do me and later for the rest of this",
+            "count": 1
+        },
+        {
+            "phrase": "hey hey baby can i turn you on",
+            "count": 1
+        },
+        {
+            "phrase": "please take me off your call list",
+            "count": 1
+        },
+        {
+            "phrase": "don't call me for the next two days",
+            "count": 1
+        },
+        {
+            "phrase": "hit me back",
+            "count": 1
+        },
+        {
+            "phrase": "i was just going to call you on that",
+            "count": 1
+        },
+        {
+            "phrase": "hey someone there can you lend me a hand",
+            "count": 1
+        },
+        {
+            "phrase": "i'll just drop you a missed call so you won't have to write mine down",
+            "count": 1
+        },
+        {
+            "phrase": "hello please respond",
+            "count": 1
+        },
+        {
+            "phrase": "stop bitchin an call me i need to talk to you now",
+            "count": 1
+        },
+        {
+            "phrase": "before we go any further i want to talk to you",
+            "count": 1
+        },
+        {
+            "phrase": "please take care of me too all i can do is beg you not to let me down this time",
+            "count": 1
+        }
+    ]
+}

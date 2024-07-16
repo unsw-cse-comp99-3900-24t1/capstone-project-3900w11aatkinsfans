@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "04:00",
+            "04:28"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's all right that's all right that's all right now mama and it should be great fun",
+            "count": 1
+        },
+        {
+            "phrase": "but i need to have a playdate with my friends just like you have playdates with your friends",
+            "count": 1
+        },
+        {
+            "phrase": "have fun on your playdate mama",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5,
+            1,
+            5,
+            5,
+            5,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:31",
+            "00:47",
+            "00:50",
+            "01:08",
+            "01:27",
+            "01:33",
+            "02:14",
+            "03:22"
+        ],
+        "label": "everyone"
+    },
+    "clusterList": [
+        {
+            "phrase": "cursed with cancer blessed with friends",
+            "count": 20
+        },
+        {
+            "phrase": "if you knew someone that survived or even died from breast cancer you'd think differently",
+            "count": 2
+        },
+        {
+            "phrase": "everyone i have talked to has had cancer affect their lives",
+            "count": 1
+        },
+        {
+            "phrase": "cancer is just about the worst word a mother and father can ever hear you learn a lot you didn't know about prayer and you learn that it works",
+            "count": 1
+        },
+        {
+            "phrase": "this really hits home with me i lost my mom at 22 to cancer it affected our family so there in itself is a reason",
+            "count": 1
+        }
+    ]
+}

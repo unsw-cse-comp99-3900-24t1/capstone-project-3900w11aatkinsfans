@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "04:13",
+            "04:31"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is pretty cool knowing there's all that wilderness so close that's one thing i may miss when we move",
+            "count": 1
+        },
+        {
+            "phrase": "it's something that we'd like to get back because it was a great recreational area",
+            "count": 1
+        },
+        {
+            "phrase": "it makes so much sense for getting around we go everywhere in it",
+            "count": 1
+        }
+    ]
+}

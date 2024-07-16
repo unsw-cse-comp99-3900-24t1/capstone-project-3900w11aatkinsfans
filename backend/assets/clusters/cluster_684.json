@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1,
+            1,
+            1,
+            4,
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "02:00",
+            "02:14",
+            "02:19",
+            "03:22",
+            "04:07",
+            "04:08",
+            "04:15",
+            "04:17",
+            "04:45",
+            "05:04"
+        ],
+        "label": "blasted"
+    },
+    "clusterList": [
+        {
+            "phrase": "blasted with light",
+            "count": 4
+        },
+        {
+            "phrase": "hit the lights",
+            "count": 4
+        },
+        {
+            "phrase": "the light is mine",
+            "count": 4
+        },
+        {
+            "phrase": "shine a little love",
+            "count": 3
+        },
+        {
+            "phrase": "you shine a light on my life you shine a light on my life you shine a light on my life and let me see",
+            "count": 1
+        },
+        {
+            "phrase": "glowing with beauty",
+            "count": 1
+        },
+        {
+            "phrase": "arise shine for your light has come and the glory of the lord has risen upon you",
+            "count": 1
+        },
+        {
+            "phrase": "make light to exist",
+            "count": 1
+        }
+    ]
+}

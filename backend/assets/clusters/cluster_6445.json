@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:10"
+        ],
+        "label": "truly"
+    },
+    "clusterList": [
+        {
+            "phrase": "truly madly deeply",
+            "count": 2
+        },
+        {
+            "phrase": "thoughts of joy",
+            "count": 1
+        }
+    ]
+}

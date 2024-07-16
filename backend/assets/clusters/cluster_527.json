@@ -1,0 +1,111 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            3,
+            2
+        ],
+        "xLabels": [
+            "00:23",
+            "00:27",
+            "01:01",
+            "01:15",
+            "01:33",
+            "01:38",
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:14",
+            "02:19",
+            "03:02",
+            "03:14",
+            "03:29",
+            "03:42",
+            "03:50",
+            "03:55",
+            "04:28"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what you get",
+            "count": 4
+        },
+        {
+            "phrase": "give it all",
+            "count": 3
+        },
+        {
+            "phrase": "it is better to give than to receive",
+            "count": 2
+        },
+        {
+            "phrase": "you get what you pay for",
+            "count": 2
+        },
+        {
+            "phrase": "ask and receive",
+            "count": 1
+        },
+        {
+            "phrase": "somethin's gotta give",
+            "count": 1
+        },
+        {
+            "phrase": "give what you get",
+            "count": 1
+        },
+        {
+            "phrase": "you get what you give",
+            "count": 1
+        },
+        {
+            "phrase": "i always get what i want",
+            "count": 1
+        },
+        {
+            "phrase": "i've got something i want to give you too",
+            "count": 1
+        },
+        {
+            "phrase": "stuff to get",
+            "count": 1
+        },
+        {
+            "phrase": "i want to tell you that i get everything that i want i get whatever i want people give me whatever i want i do whatever i want and you know what",
+            "count": 1
+        },
+        {
+            "phrase": "give it to me",
+            "count": 1
+        },
+        {
+            "phrase": "free give aways",
+            "count": 1
+        },
+        {
+            "phrase": "get what you pay for",
+            "count": 1
+        },
+        {
+            "phrase": "giving or receiving",
+            "count": 1
+        }
+    ]
+}

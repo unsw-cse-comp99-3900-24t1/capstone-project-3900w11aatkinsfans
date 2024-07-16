@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:20",
+            "01:10",
+            "01:13",
+            "01:32",
+            "02:01"
+        ],
+        "label": "after"
+    },
+    "clusterList": [
+        {
+            "phrase": "when the wind shifted it's one of the worse smells i have ever experienced",
+            "count": 2
+        },
+        {
+            "phrase": "after being in large cities for a long time getting off the plane you could smell trees trees have a distinctive smell of bark and foliage and i was like wow the air smells great",
+            "count": 1
+        },
+        {
+            "phrase": "does this rag smell like chloroform to you",
+            "count": 1
+        },
+        {
+            "phrase": "about every other day i've taken a look at it the first day or two you open the trunk and you have the smell of pizza but after that nothing",
+            "count": 1
+        },
+        {
+            "phrase": "i've never experienced anything like what happened the noise of the wind was just horrendous",
+            "count": 1
+        }
+    ]
+}

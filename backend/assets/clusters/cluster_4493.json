@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:40",
+            "02:26"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "why are we talking about this in the white house history will not judge this kindly",
+            "count": 2
+        },
+        {
+            "phrase": "they weren't in the white house",
+            "count": 1
+        },
+        {
+            "phrase": "that they weren't in the white house",
+            "count": 1
+        }
+    ]
+}

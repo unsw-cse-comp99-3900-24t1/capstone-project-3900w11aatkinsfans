@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "02:08",
+            "03:01",
+            "03:19",
+            "03:36"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when it becomes a problem",
+            "count": 1
+        },
+        {
+            "phrase": "the one issue that everyone could agree on",
+            "count": 1
+        },
+        {
+            "phrase": "one problem at a time",
+            "count": 1
+        },
+        {
+            "phrase": "a better grasp of the issue",
+            "count": 1
+        },
+        {
+            "phrase": "pushing the issue",
+            "count": 1
+        }
+    ]
+}

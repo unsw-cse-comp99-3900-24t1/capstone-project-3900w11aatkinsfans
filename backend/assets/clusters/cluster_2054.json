@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:10",
+            "00:15",
+            "01:30",
+            "02:20",
+            "03:01",
+            "03:12",
+            "05:00"
+        ],
+        "label": "into"
+    },
+    "clusterList": [
+        {
+            "phrase": "into thin air",
+            "count": 3
+        },
+        {
+            "phrase": "anyway the wind blows",
+            "count": 1
+        },
+        {
+            "phrase": "breath of fresh air",
+            "count": 1
+        },
+        {
+            "phrase": "blows with the wind shaughnessy",
+            "count": 1
+        },
+        {
+            "phrase": "wind beneath my wings",
+            "count": 1
+        },
+        {
+            "phrase": "gone with the wind",
+            "count": 1
+        }
+    ]
+}

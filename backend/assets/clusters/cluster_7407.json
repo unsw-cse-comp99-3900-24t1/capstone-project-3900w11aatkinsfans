@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:38",
+            "03:43"
+        ],
+        "label": "words"
+    },
+    "clusterList": [
+        {
+            "phrase": "words are so difficult to describe what it does to a family to have a child torn from you to have somebody taken from you well before their time",
+            "count": 1
+        },
+        {
+            "phrase": "it can be stressful for kids when mom and dad are running around trying to pack load up the car and finish last-minute details",
+            "count": 1
+        },
+        {
+            "phrase": "it's very stressing because you just don't expect it if you had a child that's constantly in trouble you'd say hey well this is coming any day",
+            "count": 1
+        }
+    ]
+}

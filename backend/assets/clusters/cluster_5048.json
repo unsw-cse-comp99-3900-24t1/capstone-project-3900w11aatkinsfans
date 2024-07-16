@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "02:46",
+            "03:27"
+        ],
+        "label": "due"
+    },
+    "clusterList": [
+        {
+            "phrase": "due to overwhelming interest in card rewards we are currently experiencing difficulty accessing starbucks card accounts we are working to fix the problem and ask that you please try again later",
+            "count": 4
+        }
+    ]
+}

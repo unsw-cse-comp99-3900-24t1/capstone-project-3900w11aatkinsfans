@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:04"
+        ],
+        "label": "politics"
+    },
+    "clusterList": [
+        {
+            "phrase": "politics of personal destruction",
+            "count": 1
+        },
+        {
+            "phrase": "politics of destruction",
+            "count": 1
+        }
+    ]
+}

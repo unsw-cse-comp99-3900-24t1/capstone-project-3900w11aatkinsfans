@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "03:46",
+            "03:51",
+            "04:05"
+        ],
+        "label": "barack"
+    },
+    "clusterList": [
+        {
+            "phrase": "on sunday he said on national television that to solve social security everything's on the table which of course means raising payroll taxes",
+            "count": 3
+        },
+        {
+            "phrase": "barack obama is opposed to raising the retirement age he believes we should strengthen social security while protecting the middle-class families that rely on it",
+            "count": 1
+        }
+    ]
+}

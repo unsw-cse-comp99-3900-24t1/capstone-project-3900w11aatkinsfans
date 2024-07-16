@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:17",
+            "01:50",
+            "01:56",
+            "02:20",
+            "03:22",
+            "04:28"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there was understandable disappointment among harry potter fans when only one copy of the tales of beedle the bard was offered to the public last december",
+            "count": 5
+        },
+        {
+            "phrase": "my book perfect ponies my pony care book was shortlisted for the wh smith children's prize and i have written a bestselling series of stories about ponies",
+            "count": 2
+        },
+        {
+            "phrase": "bloomsbury has lost their way a bit when you have such an overwhelming success as harry potter it does sort of derail other things there is a definite feeling that the harry potter phenomenon has led to other authors being neglected somewhat",
+            "count": 1
+        },
+        {
+            "phrase": "i am therefore delighted to announce that the tales of beedle the bard will now be widely available to all harry potter fans",
+            "count": 1
+        }
+    ]
+}

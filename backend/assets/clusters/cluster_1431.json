@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:53",
+            "02:33",
+            "03:17",
+            "03:28",
+            "03:37",
+            "04:27",
+            "04:33",
+            "04:42",
+            "04:50"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had conversations that went right down to the wire obviously when you have that you feel like you have a chance",
+            "count": 3
+        },
+        {
+            "phrase": "we had conversations that went right down to the wire",
+            "count": 2
+        },
+        {
+            "phrase": "we thought we'd talk to the neighbors to get some insight",
+            "count": 2
+        },
+        {
+            "phrase": "was alert and talking to us",
+            "count": 2
+        },
+        {
+            "phrase": "the conversations never got anywhere",
+            "count": 1
+        },
+        {
+            "phrase": "it was the talk of the office for months and then of course we all had to come up and see it",
+            "count": 1
+        }
+    ]
+}

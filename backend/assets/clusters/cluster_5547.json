@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:18",
+            "03:38",
+            "04:23"
+        ],
+        "label": "tonight"
+    },
+    "clusterList": [
+        {
+            "phrase": "tonight is not the night to discuss this",
+            "count": 1
+        },
+        {
+            "phrase": "chill man drink your milk grab the blanket and sleep dude",
+            "count": 1
+        },
+        {
+            "phrase": "but get a blanket off the bed so i don't see you",
+            "count": 1
+        },
+        {
+            "phrase": "you go on inside i bet you're tired i'm more used to being out all night",
+            "count": 1
+        }
+    ]
+}

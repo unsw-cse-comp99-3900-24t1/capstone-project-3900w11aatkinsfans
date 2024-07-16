@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "a challenge to all americans in every walk of life to our political leaders entrepreneurs innovators engineers and to every citizen",
+            "count": 4
+        },
+        {
+            "phrase": "it represents a challenge to all americans in every walk of life to our political leaders entrepreneurs innovators engineers and to every citizen",
+            "count": 3
+        },
+        {
+            "phrase": "it represents a challenge to all americans in every walk of life",
+            "count": 1
+        }
+    ]
+}

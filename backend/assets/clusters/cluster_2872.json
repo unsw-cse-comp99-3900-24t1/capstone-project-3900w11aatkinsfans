@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:56",
+            "01:08",
+            "01:18",
+            "01:52",
+            "03:46"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's one of our local petty thieves",
+            "count": 6
+        }
+    ]
+}

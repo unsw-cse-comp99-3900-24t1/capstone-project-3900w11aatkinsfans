@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:20",
+            "01:34",
+            "03:11"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i also want to recognize the courage and persistence of our legislative leaders especially assembly speaker joe roberts for being at the forefront of this issue and standing up for people who need affordable housing in new jersey",
+            "count": 1
+        },
+        {
+            "phrase": "several of these initiatives faced significant initial opposition from the administration industry and indeed from the chair of the commission itself and i am pleased that we have come together in the house and the senate to overcome these challenges",
+            "count": 1
+        },
+        {
+            "phrase": "we are thrilled to be working with representative gagliardi and other members of the house of representatives on this important initiative",
+            "count": 1
+        },
+        {
+            "phrase": "i hope to see a new student representative at the board meetings soon",
+            "count": 1
+        }
+    ]
+}

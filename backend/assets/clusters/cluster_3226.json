@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "02:01",
+            "03:19",
+            "03:22",
+            "03:24",
+            "04:13"
+        ],
+        "label": "config"
+    },
+    "clusterList": [
+        {
+            "phrase": "php via fastcgi or something similar",
+            "count": 4
+        },
+        {
+            "phrase": "config inc php",
+            "count": 1
+        },
+        {
+            "phrase": "php hypertext preprocessor",
+            "count": 1
+        }
+    ]
+}

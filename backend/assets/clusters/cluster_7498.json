@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "02:46",
+            "04:04"
+        ],
+        "label": "mountains"
+    },
+    "clusterList": [
+        {
+            "phrase": "mountains reach up to the sky",
+            "count": 1
+        },
+        {
+            "phrase": "it's not the top of the mountain but it's not the bottom",
+            "count": 1
+        },
+        {
+            "phrase": "ain't no mountain high enough",
+            "count": 1
+        }
+    ]
+}

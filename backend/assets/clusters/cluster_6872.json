@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:11",
+            "02:51"
+        ],
+        "label": "falling"
+    },
+    "clusterList": [
+        {
+            "phrase": "falling in love in a coffee shop",
+            "count": 1
+        },
+        {
+            "phrase": "could it be i'm falling in love",
+            "count": 1
+        },
+        {
+            "phrase": "falling in love at a coffee shop",
+            "count": 1
+        }
+    ]
+}

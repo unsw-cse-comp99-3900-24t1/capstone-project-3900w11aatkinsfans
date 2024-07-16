@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:11",
+            "01:29",
+            "01:40",
+            "01:46",
+            "02:26",
+            "02:42",
+            "03:18"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "and then what",
+            "count": 3
+        },
+        {
+            "phrase": "so now what",
+            "count": 1
+        },
+        {
+            "phrase": "okay now what am i forgetting",
+            "count": 1
+        },
+        {
+            "phrase": "then and now",
+            "count": 1
+        },
+        {
+            "phrase": "but why now",
+            "count": 1
+        },
+        {
+            "phrase": "so what now",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:11",
+            "01:50",
+            "03:14",
+            "03:51",
+            "04:45",
+            "05:04"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "snit please go away get a life meet a woman do",
+            "count": 2
+        },
+        {
+            "phrase": "snit please go away get a life meet a woman",
+            "count": 2
+        },
+        {
+            "phrase": "you are a coward you attack women",
+            "count": 1
+        },
+        {
+            "phrase": "woman you need to shut the hell up and get out of my face",
+            "count": 1
+        },
+        {
+            "phrase": "woman do not talk to me of gumption you are not made of the stuff",
+            "count": 1
+        },
+        {
+            "phrase": "i think women need to stop using the excuse oh i'm a female that's why no one likes me no you're not funny and that's why no one likes you",
+            "count": 1
+        },
+        {
+            "phrase": "bess you is my woman now",
+            "count": 1
+        },
+        {
+            "phrase": "you're not the woman who dresses me",
+            "count": 1
+        }
+    ]
+}

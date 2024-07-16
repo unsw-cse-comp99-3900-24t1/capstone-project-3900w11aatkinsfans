@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:42",
+            "03:05",
+            "03:50"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are a disglace wo fong it's amellican not american",
+            "count": 1
+        },
+        {
+            "phrase": "my first language is not mandarin",
+            "count": 1
+        },
+        {
+            "phrase": "hey you are from indonesia rite",
+            "count": 1
+        },
+        {
+            "phrase": "oh here we go another stupid american who's going to ask me what language i speak",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:05",
+            "02:52",
+            "03:48"
+        ],
+        "label": "confuse"
+    },
+    "clusterList": [
+        {
+            "phrase": "confuse horse with butterfly",
+            "count": 2
+        },
+        {
+            "phrase": "catching that butterfly",
+            "count": 1
+        },
+        {
+            "phrase": "what the caterpillar calls the end of the world the master calls a butterfly",
+            "count": 1
+        }
+    ]
+}

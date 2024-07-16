@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:34",
+            "03:05",
+            "03:11",
+            "04:03"
+        ],
+        "label": "pow-wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "pow-wow the indian boy",
+            "count": 1
+        },
+        {
+            "phrase": "thomas i call tribe and they come rescue us",
+            "count": 1
+        },
+        {
+            "phrase": "lost boys of sudan",
+            "count": 1
+        },
+        {
+            "phrase": "losing a lost tribe just isn't that hard",
+            "count": 1
+        },
+        {
+            "phrase": "tribe of superior men",
+            "count": 1
+        }
+    ]
+}

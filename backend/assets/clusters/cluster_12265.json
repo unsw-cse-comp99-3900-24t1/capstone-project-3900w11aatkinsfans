@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "05:05"
+        ],
+        "label": "limited"
+    },
+    "clusterList": [
+        {
+            "phrase": "limited turn with absolute analog signal",
+            "count": 1
+        },
+        {
+            "phrase": "unrestricted turn with incremental analog signal",
+            "count": 1
+        }
+    ]
+}

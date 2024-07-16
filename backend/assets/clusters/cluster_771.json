@@ -1,0 +1,101 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:56",
+            "01:07",
+            "01:13",
+            "01:47",
+            "01:58",
+            "02:14",
+            "02:29",
+            "02:42",
+            "02:48",
+            "03:00",
+            "03:01",
+            "04:28",
+            "04:32",
+            "04:51"
+        ],
+        "label": "seeing"
+    },
+    "clusterList": [
+        {
+            "phrase": "my house is worth this",
+            "count": 2
+        },
+        {
+            "phrase": "my house is worth that",
+            "count": 2
+        },
+        {
+            "phrase": "my favorite relative",
+            "count": 2
+        },
+        {
+            "phrase": "seeing the house",
+            "count": 1
+        },
+        {
+            "phrase": "the big doll house",
+            "count": 1
+        },
+        {
+            "phrase": "the last house to be raised will be mine",
+            "count": 1
+        },
+        {
+            "phrase": "see i was right your daddy's home",
+            "count": 1
+        },
+        {
+            "phrase": "in the dwelling house of one of the great men",
+            "count": 1
+        },
+        {
+            "phrase": "home and home",
+            "count": 1
+        },
+        {
+            "phrase": "where is home",
+            "count": 1
+        },
+        {
+            "phrase": "a place called home",
+            "count": 1
+        },
+        {
+            "phrase": "stranger in my house",
+            "count": 1
+        },
+        {
+            "phrase": "sit here and i'll show you what is my favorite spot in the house",
+            "count": 1
+        },
+        {
+            "phrase": "specify home details",
+            "count": 1
+        },
+        {
+            "phrase": "the picture in the house",
+            "count": 1
+        }
+    ]
+}

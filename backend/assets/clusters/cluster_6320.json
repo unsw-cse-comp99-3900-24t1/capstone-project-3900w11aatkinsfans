@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "01:10"
+        ],
+        "label": "likeness"
+    },
+    "clusterList": [
+        {
+            "phrase": "i believe i have a problem but not to the extent that it's being portrayed",
+            "count": 2
+        },
+        {
+            "phrase": "likeness becomes real and fantasy touches on the believable the viewer is suspended in disbelief",
+            "count": 1
+        }
+    ]
+}

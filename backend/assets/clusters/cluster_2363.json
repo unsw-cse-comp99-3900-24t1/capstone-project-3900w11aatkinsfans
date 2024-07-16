@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:28",
+            "00:56",
+            "01:09",
+            "02:00",
+            "04:41",
+            "05:00"
+        ],
+        "label": "let's"
+    },
+    "clusterList": [
+        {
+            "phrase": "we needed an architecture for content to flow in automatically and rss seemed like the best way to do that",
+            "count": 2
+        },
+        {
+            "phrase": "let's figure out how google analyzes and lists blogs and then trick em",
+            "count": 1
+        },
+        {
+            "phrase": "the idea of intranet blogs for school systems is however a stroke of genius",
+            "count": 1
+        },
+        {
+            "phrase": "over the past few days we've been transitioning delicious over to our new platform quietly starting with rss feeds and apis today we're taking the final step and flipping the switch on the new web site",
+            "count": 1
+        },
+        {
+            "phrase": "i am getting more visitors lately from twitter and friendfeed and the audience i get is more engaged and is usually reading techmeme anyway",
+            "count": 1
+        },
+        {
+            "phrase": "attensa develops rss technology to get the right information to the right people at the right time",
+            "count": 1
+        },
+        {
+            "phrase": "attensa develops enterprise rss technology for xml syndication throughout an organization",
+            "count": 1
+        }
+    ]
+}

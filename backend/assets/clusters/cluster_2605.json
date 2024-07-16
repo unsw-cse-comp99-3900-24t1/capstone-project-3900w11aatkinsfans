@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "02:15",
+            "02:55",
+            "03:00",
+            "03:05",
+            "03:37",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the rising of phenomenon of men using cats and dogs to make passes at women and pester families",
+            "count": 6
+        },
+        {
+            "phrase": "the rising phenomenon of men using cats and dogs to make passes at women and pester families",
+            "count": 1
+        }
+    ]
+}

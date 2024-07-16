@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:18",
+            "01:33",
+            "03:15"
+        ],
+        "label": "people's"
+    },
+    "clusterList": [
+        {
+            "phrase": "how we relate to our environment has a direct effect on the state of the planet by getting out in the woods wading a mountain stream and admiring the vibrant colors of a rainbow trout as you carefully release it you become close to nature and develop a bond you strive to nurture and protect please help sage in the effort to preserve and enhance our natural resources by practicing catch-and-release fishing and encouraging other anglers to do so your children and theirs will thank you for it sage is a proud sponsor of the federation of fly fishers and trout unlimited",
+            "count": 3
+        },
+        {
+            "phrase": "people's consciousness of the environment in every country in the world let alone the united states has changed and developed we're all changing as time goes by",
+            "count": 2
+        },
+        {
+            "phrase": "a constant feeling of not belonging to any environment",
+            "count": 1
+        }
+    ]
+}

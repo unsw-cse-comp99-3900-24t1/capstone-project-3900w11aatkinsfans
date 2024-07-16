@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:58",
+            "03:36",
+            "03:41",
+            "03:54",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "am i using the right fishing reel",
+            "count": 4
+        },
+        {
+            "phrase": "the book of fishing",
+            "count": 1
+        },
+        {
+            "phrase": "a trout in hand",
+            "count": 1
+        },
+        {
+            "phrase": "the hand poking out of the water",
+            "count": 1
+        },
+        {
+            "phrase": "holy crap it's loaded with big trout",
+            "count": 1
+        }
+    ]
+}

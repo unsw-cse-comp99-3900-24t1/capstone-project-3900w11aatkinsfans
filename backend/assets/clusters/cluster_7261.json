@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:09",
+            "03:18"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey t-bird would you grab the rope and bring it here please",
+            "count": 1
+        },
+        {
+            "phrase": "will ya just take the tee",
+            "count": 1
+        },
+        {
+            "phrase": "i've got your tee here can i come in",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:40",
+            "02:26",
+            "03:06",
+            "03:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have to sell baseball at the grassroots level and our fan base has to grow significantly by the time we get into the new facility and the more people who are exposed to baseball i think it helps us sell the game to people and helps people become a fan of baseball",
+            "count": 2
+        },
+        {
+            "phrase": "why not this is economic development it's creating jobs it's keeping a sort of a-the psychology of the city by having a professional sports team that the residents can root for",
+            "count": 2
+        },
+        {
+            "phrase": "finding land in a developed city to use for sports fields for school is quite often a challenge to do",
+            "count": 1
+        }
+    ]
+}

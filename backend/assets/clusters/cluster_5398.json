@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "01:46",
+            "04:03",
+            "04:33"
+        ],
+        "label": "here"
+    },
+    "clusterList": [
+        {
+            "phrase": "here we are three years later still working on elements of it",
+            "count": 2
+        },
+        {
+            "phrase": "and we're still working on it",
+            "count": 1
+        },
+        {
+            "phrase": "we're still working with our old system",
+            "count": 1
+        }
+    ]
+}

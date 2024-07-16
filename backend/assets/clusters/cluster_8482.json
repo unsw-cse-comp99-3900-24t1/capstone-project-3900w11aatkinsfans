@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:28"
+        ],
+        "label": "read"
+    },
+    "clusterList": [
+        {
+            "phrase": "read the fucking manual",
+            "count": 1
+        },
+        {
+            "phrase": "switching to mac the missing manual",
+            "count": 1
+        }
+    ]
+}

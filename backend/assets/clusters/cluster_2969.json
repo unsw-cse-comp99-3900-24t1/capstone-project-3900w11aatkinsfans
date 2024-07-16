@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "today"
+    },
+    "clusterList": [
+        {
+            "phrase": "today i don't think there's a sports fan in philadelphia that hasn't at least heard of the philadelphia soul",
+            "count": 6
+        }
+    ]
+}

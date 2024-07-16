@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "03:22"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've had only one honda stolen this year",
+            "count": 1
+        },
+        {
+            "phrase": "we've waited all year to personally try to get back at dinwiddie for stealing that one last year",
+            "count": 1
+        }
+    ]
+}

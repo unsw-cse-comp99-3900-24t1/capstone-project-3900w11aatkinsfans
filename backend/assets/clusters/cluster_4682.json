@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:00",
+            "03:14"
+        ],
+        "label": "bold"
+    },
+    "clusterList": [
+        {
+            "phrase": "bold new solutions not tired old politics",
+            "count": 1
+        },
+        {
+            "phrase": "in politics old habits die hard",
+            "count": 1
+        },
+        {
+            "phrase": "the anger and turmoil of that period never entirely drained away all too often our politics still seems trapped in these old threadbare arguments",
+            "count": 1
+        },
+        {
+            "phrase": "i'll get to the worn-out old political tricks in just a moment",
+            "count": 1
+        }
+    ]
+}

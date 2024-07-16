@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:46"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this has been a comprehensive policy process unique in british politics we have spent three years in close conversation with the british people the trade unions business and voluntary organisations",
+            "count": 1
+        },
+        {
+            "phrase": "the labour party walked away from its national policy forum this week with party and trade union leaders hailing a comprehensive policy platform for the next general election despite several unresolved issues and the prospect of more discussions next week the three-day discussion at warwick university which concluded some time after four o'clock on sunday morning was dominated by consensus agreements between ministers unions and the npf",
+            "count": 1
+        }
+    ]
+}

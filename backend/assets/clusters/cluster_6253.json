@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "02:32",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i always that baseball would make a good metaphor a good jumping-off point to talk about all kinds of things",
+            "count": 1
+        },
+        {
+            "phrase": "but the stuff leading up to it is what you get upset about the hit batter and the walk",
+            "count": 1
+        },
+        {
+            "phrase": "it's a baseball thing it definitely is",
+            "count": 1
+        }
+    ]
+}

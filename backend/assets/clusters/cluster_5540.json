@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:04",
+            "03:14",
+            "04:36"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's critical use or necessary use versus well we've got the money let's go out and buy some more cars",
+            "count": 2
+        },
+        {
+            "phrase": "well we also do not ask you to buy one of our cars do we",
+            "count": 1
+        },
+        {
+            "phrase": "we're in the process of purchasing some used cars",
+            "count": 1
+        }
+    ]
+}

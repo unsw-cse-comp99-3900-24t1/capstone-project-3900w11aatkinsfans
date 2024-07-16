@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "03:38",
+            "04:38"
+        ],
+        "label": "their"
+    },
+    "clusterList": [
+        {
+            "phrase": "their universe is totally different",
+            "count": 1
+        },
+        {
+            "phrase": "but that they are actually the same as",
+            "count": 1
+        },
+        {
+            "phrase": "and you can see the similarities",
+            "count": 1
+        }
+    ]
+}

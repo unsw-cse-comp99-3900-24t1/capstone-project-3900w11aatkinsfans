@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:10",
+            "01:43",
+            "02:10",
+            "02:46",
+            "04:13"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so far this year 19 ngo staff have been killed which already exceeds the total number of ngo workers killed last year",
+            "count": 5
+        },
+        {
+            "phrase": "an itemized sum for deaths in wars and conflicts killed or allowed to die by human decision of approximately 231 million for the 20",
+            "count": 1
+        }
+    ]
+}

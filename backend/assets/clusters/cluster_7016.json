@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:33",
+            "02:25"
+        ],
+        "label": "barns"
+    },
+    "clusterList": [
+        {
+            "phrase": "barns of the catskills",
+            "count": 1
+        },
+        {
+            "phrase": "lodge of mizraim",
+            "count": 1
+        },
+        {
+            "phrase": "the hunting lodge",
+            "count": 1
+        }
+    ]
+}

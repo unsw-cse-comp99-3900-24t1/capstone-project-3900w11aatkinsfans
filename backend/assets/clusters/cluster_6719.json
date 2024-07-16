@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:00"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no i mean they look they're healing well to me you know i'm not a doctor but i think you're getting good medical care",
+            "count": 2
+        },
+        {
+            "phrase": "it's very healing for them",
+            "count": 1
+        }
+    ]
+}

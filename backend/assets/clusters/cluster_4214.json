@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "04:05",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "however"
+    },
+    "clusterList": [
+        {
+            "phrase": "one conversation we need to have more is about replanning the land and returning it to green",
+            "count": 3
+        },
+        {
+            "phrase": "however we will maintain the area by pruning old trees",
+            "count": 1
+        },
+        {
+            "phrase": "we want to bring back the lost greenery of dehradun now the city is overcast by colonies instead of the earlier green patches",
+            "count": 1
+        }
+    ]
+}

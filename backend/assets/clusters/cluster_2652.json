@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "02:15",
+            "02:20",
+            "02:24",
+            "03:18",
+            "04:42"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all the girls standing in the line for the bathroom",
+            "count": 3
+        },
+        {
+            "phrase": "the girls next door",
+            "count": 2
+        },
+        {
+            "phrase": "the girl next door",
+            "count": 1
+        },
+        {
+            "phrase": "one of these doors is amy's but i'm not sure which",
+            "count": 1
+        }
+    ]
+}

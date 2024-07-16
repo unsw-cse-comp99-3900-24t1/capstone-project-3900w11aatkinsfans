@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "04:41"
+        ],
+        "label": "something"
+    },
+    "clusterList": [
+        {
+            "phrase": "something hot or something not",
+            "count": 1
+        },
+        {
+            "phrase": "something hot really hot fire hot",
+            "count": 1
+        },
+        {
+            "phrase": "whatever's hot now",
+            "count": 1
+        }
+    ]
+}

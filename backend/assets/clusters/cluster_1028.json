@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:27",
+            "01:03",
+            "01:07",
+            "01:47",
+            "03:06",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "friends"
+    },
+    "clusterList": [
+        {
+            "phrase": "the o'reilly factor",
+            "count": 12
+        },
+        {
+            "phrase": "friends of o'reilly",
+            "count": 1
+        },
+        {
+            "phrase": "friends of abe",
+            "count": 1
+        }
+    ]
+}

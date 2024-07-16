@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:28",
+            "04:09"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "the golden rule do unto others as you'd have them do unto you",
+            "count": 2
+        },
+        {
+            "phrase": "do unto others as they would do unto me",
+            "count": 1
+        }
+    ]
+}

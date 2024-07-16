@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:39",
+            "01:06",
+            "02:00",
+            "02:32",
+            "02:41",
+            "04:28",
+            "04:55"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm afraid to drive and i don't know why i'm jealous of the people who are not afraid to drive",
+            "count": 2
+        },
+        {
+            "phrase": "no one in the street will talk to police because they are so frightened",
+            "count": 1
+        },
+        {
+            "phrase": "safety is not just being able to drive across a bridge but it's also about being able to drive under a bridge and not feel threatened",
+            "count": 1
+        },
+        {
+            "phrase": "the traffic changes respond to ongoing concern from local residents and businesses about anti-social behaviour from groups of people driving modified cars in the rocks and millers point area",
+            "count": 1
+        },
+        {
+            "phrase": "motorists are advised to please use caution and drive to the conditions and adjust their braking distances especially in the hills",
+            "count": 1
+        },
+        {
+            "phrase": "let's face it they don't really fear getting a ticket but what they do fear is losing their driver's license",
+            "count": 1
+        },
+        {
+            "phrase": "it also alerts motorists to begin to slow down so we can cut down on secondary accidents",
+            "count": 1
+        },
+        {
+            "phrase": "we are creatures of habit as far as our driving is concerned",
+            "count": 1
+        }
+    ]
+}

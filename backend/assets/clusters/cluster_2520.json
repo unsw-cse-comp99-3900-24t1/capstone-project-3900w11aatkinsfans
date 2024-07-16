@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5
+        ],
+        "xLabels": [
+            "00:48",
+            "01:32",
+            "01:48"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you got a guy coming up there who can't hit water if he fell out of a boat",
+            "count": 5
+        },
+        {
+            "phrase": "you get kicked you get punched you get swam on top of",
+            "count": 2
+        }
+    ]
+}

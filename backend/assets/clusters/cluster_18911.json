@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:21"
+        ],
+        "label": "keep"
+    },
+    "clusterList": [
+        {
+            "phrase": "keep only the last x versions",
+            "count": 1
+        }
+    ]
+}

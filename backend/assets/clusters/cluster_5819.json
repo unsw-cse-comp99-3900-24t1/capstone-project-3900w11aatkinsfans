@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:48",
+            "04:13"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not yet not yet",
+            "count": 1
+        },
+        {
+            "phrase": "we are looking for someone as soon as possible",
+            "count": 1
+        },
+        {
+            "phrase": "i sure wish i could find my buddy i guess i'll just sit in the red chair and wait",
+            "count": 1
+        }
+    ]
+}

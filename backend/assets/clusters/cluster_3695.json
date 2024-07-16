@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:37",
+            "03:01"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "from man's sweat and god's love beer came into the world",
+            "count": 2
+        },
+        {
+            "phrase": "do not cease to drink beer to eat to intoxicate thyself to make love and to celebrate the good days",
+            "count": 1
+        },
+        {
+            "phrase": "beer is proof that god loves us and wants us to be happy",
+            "count": 1
+        },
+        {
+            "phrase": "beer is living proof that god loves us and wants us to be happy",
+            "count": 1
+        }
+    ]
+}

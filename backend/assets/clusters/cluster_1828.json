@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:32",
+            "01:41",
+            "02:09",
+            "03:11",
+            "04:09",
+            "04:13",
+            "05:00"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if saddam fired on them he would be in breach",
+            "count": 9
+        }
+    ]
+}

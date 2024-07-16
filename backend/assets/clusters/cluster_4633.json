@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:42",
+            "00:43",
+            "00:52"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was said that about 100 young men were executed inside fallujah police station by the awakening militias in january and february 2007 it became clear later that the executioners were fallujah police leaders following orders issued by the u s military from the headquarters next door",
+            "count": 3
+        },
+        {
+            "phrase": "organized crime executed 22 persons in just two places there were fifteen murders in chihuahua among them a city policeman and seven in sinaloa while in the state of mexico they abducted a commander of the coacalco municipal police",
+            "count": 1
+        }
+    ]
+}

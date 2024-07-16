@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:21",
+            "03:13"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a really long process so we're glad we registered this year",
+            "count": 1
+        },
+        {
+            "phrase": "it was so warmly received that we have been asked to do it every year",
+            "count": 1
+        }
+    ]
+}

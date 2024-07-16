@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:43",
+            "00:58"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the revolutionary never enters the political or social world the so-called educated world and he lives with faith only in its swift and total destruction no one who feels pity for anything can truly be called a revolutionary",
+            "count": 1
+        },
+        {
+            "phrase": "he's a lack tactical black radical revolutionary poet",
+            "count": 1
+        },
+        {
+            "phrase": "christ is a hard guy seeking revolution and revolt a tough guy",
+            "count": 1
+        }
+    ]
+}

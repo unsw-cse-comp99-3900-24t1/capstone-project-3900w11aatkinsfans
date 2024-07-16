@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:00"
+        ],
+        "label": "laboratory"
+    },
+    "clusterList": [
+        {
+            "phrase": "laboratory tests have shown that a chemical found in the skin of grapes could halt the development of most cases of the disease",
+            "count": 1
+        },
+        {
+            "phrase": "red wine may be helpful in curing some cancers",
+            "count": 1
+        },
+        {
+            "phrase": "this is not a case of readers assuming that red wine could prevent cancer means red wine will prevent cancer it is a case of a journalist misleading their readership by writing a story they should damn well know is wrong because they wrote about a study that showed their story to be wrong",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:46",
+            "01:10",
+            "02:05",
+            "03:42",
+            "03:55",
+            "04:27"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in this environment cash is king",
+            "count": 3
+        },
+        {
+            "phrase": "on the currency",
+            "count": 1
+        },
+        {
+            "phrase": "dash for cash",
+            "count": 1
+        },
+        {
+            "phrase": "cash rules everything around me",
+            "count": 1
+        },
+        {
+            "phrase": "how did he figure out it was cash",
+            "count": 1
+        }
+    ]
+}

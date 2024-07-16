@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:51",
+            "02:46",
+            "03:42",
+            "04:28",
+            "04:29",
+            "04:51"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we believe in liberty and justice for all so of course we oppose many us government policies it means we believe in freedom as more than merely a cliche",
+            "count": 2
+        },
+        {
+            "phrase": "they that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety",
+            "count": 2
+        },
+        {
+            "phrase": "our greatness lies here with liberty justice for all",
+            "count": 1
+        },
+        {
+            "phrase": "socialism values equality more than liberty",
+            "count": 1
+        },
+        {
+            "phrase": "it is impossible i believe to justify the sacrifice of even a portion of our historic individual liberty for a purpose such as this",
+            "count": 1
+        },
+        {
+            "phrase": "for those who would sacrifice liberty",
+            "count": 1
+        },
+        {
+            "phrase": "those who would give up essential liberty to purchase a little temporary safety deserve neither liberty nor safety",
+            "count": 1
+        }
+    ]
+}

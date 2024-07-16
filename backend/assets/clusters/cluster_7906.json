@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:37"
+        ],
+        "label": "forgiveness"
+    },
+    "clusterList": [
+        {
+            "phrase": "forgiveness to the injured doth belong but they ne'er pardon who have done the wrong",
+            "count": 1
+        },
+        {
+            "phrase": "acknowledgment and repentance comes before mercy",
+            "count": 1
+        }
+    ]
+}

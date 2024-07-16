@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "03:32"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it depends on how often we eat out usually it's once or twice every weekend",
+            "count": 1
+        },
+        {
+            "phrase": "and not do it just every three or four months",
+            "count": 1
+        },
+        {
+            "phrase": "twice a month at sundays",
+            "count": 1
+        }
+    ]
+}

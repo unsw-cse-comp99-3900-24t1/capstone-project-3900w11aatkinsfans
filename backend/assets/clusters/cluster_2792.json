@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "03:55",
+            "04:18",
+            "04:27",
+            "04:37",
+            "04:59"
+        ],
+        "label": "random"
+    },
+    "clusterList": [
+        {
+            "phrase": "random granddaughter i remember your grandmother serving coffee and home-baked scones at the snack stand she would be proud to see what you've done with her land",
+            "count": 1
+        },
+        {
+            "phrase": "there was always plenty of food on the table and we were happy",
+            "count": 1
+        },
+        {
+            "phrase": "we were so famished after driving back from the hamptons we threw together some tapas and fell asleep on the veranda",
+            "count": 1
+        },
+        {
+            "phrase": "it was nice to meet you mrs stove",
+            "count": 1
+        },
+        {
+            "phrase": "she had a way of cooking with cast iron skillets and dutch ovens",
+            "count": 1
+        },
+        {
+            "phrase": "i had her new england boiled dinner on one campout so unique to have a meal like that cooked in the wood coals",
+            "count": 1
+        },
+        {
+            "phrase": "had to scrape together anything she could to put one meal a day together for us",
+            "count": 1
+        }
+    ]
+}

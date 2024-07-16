@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "04:55"
+        ],
+        "label": "alcoholic"
+    },
+    "clusterList": [
+        {
+            "phrase": "alcoholic beverage control",
+            "count": 1
+        },
+        {
+            "phrase": "do you have any drink-related book recommendations",
+            "count": 1
+        }
+    ]
+}

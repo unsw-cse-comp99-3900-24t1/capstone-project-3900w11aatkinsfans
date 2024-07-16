@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:23"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now there's no need to talk like that what were you trying to do",
+            "count": 1
+        },
+        {
+            "phrase": "no i did not say anything i was just unhappy",
+            "count": 1
+        }
+    ]
+}

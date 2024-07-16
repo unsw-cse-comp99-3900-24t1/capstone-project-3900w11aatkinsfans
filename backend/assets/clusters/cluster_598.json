@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:24",
+            "01:06",
+            "01:46",
+            "02:25",
+            "03:06",
+            "03:48",
+            "04:28"
+        ],
+        "label": "last"
+    },
+    "clusterList": [
+        {
+            "phrase": "last weekend dave had just about had enough of his neighbor for one lifetime so he figures he's going to do something about it he gets up at about four a m and goes to the kitchen for a jar of skippy out he creeps onto her lawn and leaves a big dollop of peanut butter on the grass then goes back to bed",
+            "count": 7
+        },
+        {
+            "phrase": "at his usual time dave takes belle out for a walk and deliberately cuts across his neighbor's lawn which brings her out on the front porch shouting at him that his dog left another mess in her yard",
+            "count": 7
+        },
+        {
+            "phrase": "dave says the neighbor hasn't so much as looked at him since",
+            "count": 7
+        }
+    ]
+}

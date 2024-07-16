@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:29",
+            "02:50",
+            "04:54",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the perceived cost of motoring has gone up so people are questioning how often they use their cars",
+            "count": 2
+        },
+        {
+            "phrase": "people are cutting down discretionary income it seems to be consistent with other tracks and gaming companies people still looking for something to do and coming out just not spending as much",
+            "count": 1
+        },
+        {
+            "phrase": "we get a situation where roads are underpriced and we get congestion",
+            "count": 1
+        },
+        {
+            "phrase": "will continue to drop as the public changes its driving habits and moves into smaller cars",
+            "count": 1
+        }
+    ]
+}

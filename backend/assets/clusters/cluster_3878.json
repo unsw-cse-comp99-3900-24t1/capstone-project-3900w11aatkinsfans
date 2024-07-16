@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:23",
+            "03:34",
+            "04:05"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "least-worst option amongst technologies of varying levels of utility pollution cost and development",
+            "count": 2
+        },
+        {
+            "phrase": "an unprecedented expansion of epa authority that would have a profound effect on virtually every sector of the economy and touch every household in the land",
+            "count": 1
+        },
+        {
+            "phrase": "you would then have the us economy damaged on the one hand and the same emissions potentially even worse emissions",
+            "count": 1
+        },
+        {
+            "phrase": "probably wouldn't be too good for the environment",
+            "count": 1
+        }
+    ]
+}

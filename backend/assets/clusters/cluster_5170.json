@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:51",
+            "03:10",
+            "04:19"
+        ],
+        "label": "mental"
+    },
+    "clusterList": [
+        {
+            "phrase": "mental impressions conclusions opinion or legal theories of an attorney",
+            "count": 1
+        },
+        {
+            "phrase": "the reports he has given me are firsthand not hearsay",
+            "count": 1
+        },
+        {
+            "phrase": "i vehemently deny that he ever asked me what it would take to inhibit myself from the case nor gave any reply in a manner that he stated in the affidavit i never asked for money",
+            "count": 1
+        },
+        {
+            "phrase": "a bitter and vituperative attack on mr gibson charging that gibson's report is necessarily based on merest hearsay parroting repetition of what has been told him in court circles",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "03:38",
+            "04:28"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in 1968 frank zappa called me an artist i have no desire to retire i cast cock whenever i feel like it",
+            "count": 3
+        },
+        {
+            "phrase": "ooohhh you are a real artist i squealed teach me",
+            "count": 1
+        },
+        {
+            "phrase": "i am an artist so somewhere in my crazy life i heard my calling loud and clear",
+            "count": 1
+        }
+    ]
+}

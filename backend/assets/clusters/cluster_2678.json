@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "01:47",
+            "02:09",
+            "02:51",
+            "03:50",
+            "04:55"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not comfortable with it at all",
+            "count": 1
+        },
+        {
+            "phrase": "yeah it's cool i like being able to enjoy things without worrying about stuff like i usually do with a girl it's nice the way it is i like it",
+            "count": 1
+        },
+        {
+            "phrase": "but it's okay because i'm kissing it",
+            "count": 1
+        },
+        {
+            "phrase": "we hear that a lot it's ok",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes it seems alright but really it's not",
+            "count": 1
+        },
+        {
+            "phrase": "is it really okay with you jo",
+            "count": 1
+        },
+        {
+            "phrase": "are you comfortable with that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:24",
+            "04:51"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is the bank going to pay for my retirement because i was a good girl and paid my mortgage even though legally i didn't have to",
+            "count": 1
+        },
+        {
+            "phrase": "i haven't had any help since i bought the house the government doesn't want to help you the bank doesn't want to help you and neither of us wants to go back to apartment living after 10 years",
+            "count": 1
+        }
+    ]
+}

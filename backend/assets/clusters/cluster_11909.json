@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:55",
+            "04:28"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this just in former captain america steve rogers",
+            "count": 1
+        },
+        {
+            "phrase": "billy the theme park shark",
+            "count": 1
+        }
+    ]
+}

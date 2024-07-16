@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:27"
+        ],
+        "label": "did"
+    },
+    "clusterList": [
+        {
+            "phrase": "did not accomplish their duty correctly and they tried to influence the votes",
+            "count": 1
+        },
+        {
+            "phrase": "to not even allow votes",
+            "count": 1
+        }
+    ]
+}

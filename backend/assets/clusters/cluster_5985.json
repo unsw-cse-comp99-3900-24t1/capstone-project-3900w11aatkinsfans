@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:04",
+            "01:19"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this car doesn't have a carbon footprint more of a crater",
+            "count": 1
+        },
+        {
+            "phrase": "this car doesn't have a carbon footprint",
+            "count": 1
+        },
+        {
+            "phrase": "even a car with 1 000 kilograms 2 200 pounds of tnt wouldn't create such a crater",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "04:33"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it wasn't programmed to do that",
+            "count": 1
+        },
+        {
+            "phrase": "and didn't need to do it anymore",
+            "count": 1
+        }
+    ]
+}

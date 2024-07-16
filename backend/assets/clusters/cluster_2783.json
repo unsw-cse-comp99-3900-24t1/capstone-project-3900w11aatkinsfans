@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:34",
+            "01:51",
+            "02:47",
+            "02:51",
+            "03:55",
+            "04:15"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's hard to sit here and not play when you feel fine",
+            "count": 2
+        },
+        {
+            "phrase": "it's real frustrating",
+            "count": 1
+        },
+        {
+            "phrase": "people are always trying to get you to mess up or step out of character it's fun but it's a lot harder than i thought it was going to be",
+            "count": 1
+        },
+        {
+            "phrase": "it's more than frustrating frustration is when you lose close games",
+            "count": 1
+        },
+        {
+            "phrase": "it's very difficult it comes down to a pitch an at-bat or a play always i know that's been said many times before but it's the truth and that's why it's said so much",
+            "count": 1
+        },
+        {
+            "phrase": "to tell you the truth when i hit in the cages i tell the pitchers to hit me sometimes so i don't get out of the way when it comes to game time i guess sometimes it is something i work on i'm the leadoff hitter so i do whatever it takes to get on base to get those guys behind me to drive me in",
+            "count": 1
+        }
+    ]
+}

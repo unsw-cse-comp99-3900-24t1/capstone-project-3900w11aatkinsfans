@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:43",
+            "03:48",
+            "03:54",
+            "04:41"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are not talking about many cars we are talking about a screwdriver operation with parts coming in from china",
+            "count": 2
+        },
+        {
+            "phrase": "these statistics as well as the fact that all of the key carmakers including the asian oems are either already represented in russia or will be establishing their presence there shortly prompted us to make this investment",
+            "count": 1
+        },
+        {
+            "phrase": "the local production capacity now provides a good basis to help shape the dynamic development of the russian automotive market",
+            "count": 1
+        },
+        {
+            "phrase": "india will be the first country where toyota will launch an innovative compact car the car is being designed specially for the local market",
+            "count": 1
+        },
+        {
+            "phrase": "those comments drew a rebuke from eu partner germany the world's biggest exporter which has hoped a wto would boost its famous car chemical and other exporters",
+            "count": 1
+        }
+    ]
+}

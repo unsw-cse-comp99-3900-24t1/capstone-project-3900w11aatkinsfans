@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:22"
+        ],
+        "label": "form"
+    },
+    "clusterList": [
+        {
+            "phrase": "form of hi i miss you",
+            "count": 1
+        },
+        {
+            "phrase": "i really missed you when i was in kansas",
+            "count": 1
+        }
+    ]
+}

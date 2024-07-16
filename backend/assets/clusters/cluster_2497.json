@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:46",
+            "01:49",
+            "02:27",
+            "02:32",
+            "03:48"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is an opportunity for ken to play for a first-place team",
+            "count": 2
+        },
+        {
+            "phrase": "i met daryl katz and listening to his plans for this hockey club moving forward big things are coming here",
+            "count": 2
+        },
+        {
+            "phrase": "they understand the situation it's an opportunity to come to chicago and be with stan the hawks think so much of him and so do i this is an exciting time for our family the timing could not be any better than it is today i'm thankful this came along at the right time i'm really looking forward to getting this thing to where it should be it's really on its way",
+            "count": 1
+        },
+        {
+            "phrase": "he's going down in grand rapids ahl",
+            "count": 1
+        },
+        {
+            "phrase": "i really believe he's going to chicago for personal reasons",
+            "count": 1
+        }
+    ]
+}

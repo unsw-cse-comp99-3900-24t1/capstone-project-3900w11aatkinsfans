@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:09",
+            "02:36",
+            "04:18"
+        ],
+        "label": "be"
+    },
+    "clusterList": [
+        {
+            "phrase": "be prepared to gain the world and sell your soul",
+            "count": 1
+        },
+        {
+            "phrase": "rich in paradise",
+            "count": 1
+        },
+        {
+            "phrase": "rich in paradise behrouz inst",
+            "count": 1
+        },
+        {
+            "phrase": "to get wealthy",
+            "count": 1
+        },
+        {
+            "phrase": "everyone wants to make money",
+            "count": 1
+        }
+    ]
+}

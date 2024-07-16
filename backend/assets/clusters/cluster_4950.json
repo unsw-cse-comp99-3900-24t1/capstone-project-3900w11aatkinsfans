@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:29"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an answer is required for the below question",
+            "count": 1
+        },
+        {
+            "phrase": "select one answer below",
+            "count": 1
+        },
+        {
+            "phrase": "other please specify in box below",
+            "count": 1
+        },
+        {
+            "phrase": "as above so below",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:42",
+            "03:55",
+            "04:18",
+            "04:28",
+            "04:33"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how is he stopping jesus",
+            "count": 1
+        },
+        {
+            "phrase": "what are you going to do with jesus",
+            "count": 1
+        },
+        {
+            "phrase": "were on trial for being a christian i think he would walk",
+            "count": 1
+        },
+        {
+            "phrase": "what would johnny do",
+            "count": 1
+        },
+        {
+            "phrase": "what would jesus do obey the law",
+            "count": 1
+        }
+    ]
+}

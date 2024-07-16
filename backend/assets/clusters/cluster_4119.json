@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:34",
+            "02:11",
+            "03:00",
+            "03:18"
+        ],
+        "label": "crap"
+    },
+    "clusterList": [
+        {
+            "phrase": "crap all the toilet paper's gone",
+            "count": 2
+        },
+        {
+            "phrase": "is there a toilet around here",
+            "count": 1
+        },
+        {
+            "phrase": "i'll get those restrooms cleaned to a shine sir",
+            "count": 1
+        },
+        {
+            "phrase": "whoa no more toilets",
+            "count": 1
+        }
+    ]
+}

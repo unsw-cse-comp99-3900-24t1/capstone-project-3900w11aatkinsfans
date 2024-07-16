@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "03:02",
+            "04:45"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but someone put up a notice in the post office",
+            "count": 1
+        },
+        {
+            "phrase": "letter with a presorted postage stamp shows up in the mailbox and a letter dunning us for a contribution no less it's a privilege to be on your mailing list",
+            "count": 1
+        },
+        {
+            "phrase": "it's not going to be the post office that we know",
+            "count": 1
+        }
+    ]
+}

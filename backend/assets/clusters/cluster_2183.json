@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "01:14",
+            "01:16",
+            "01:29",
+            "01:32",
+            "01:34",
+            "01:42",
+            "04:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "booking through thursday afternoon",
+            "count": 4
+        },
+        {
+            "phrase": "i know bookings are well down although the industry is pretty confident it will recover through last-minute bookings",
+            "count": 2
+        },
+        {
+            "phrase": "this season is looking bright as our bookings are up on previous years",
+            "count": 1
+        },
+        {
+            "phrase": "seeing bookings come in closer",
+            "count": 1
+        }
+    ]
+}

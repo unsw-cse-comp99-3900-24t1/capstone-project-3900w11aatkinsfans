@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:24",
+            "04:15",
+            "04:35"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't like the way it finished last week at all",
+            "count": 2
+        },
+        {
+            "phrase": "well someone had to go and i was just looking forward to finale night",
+            "count": 1
+        },
+        {
+            "phrase": "i was thinking about the final but i have mixed emotions",
+            "count": 1
+        }
+    ]
+}

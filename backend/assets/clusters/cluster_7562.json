@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:19",
+            "04:15",
+            "05:04"
+        ],
+        "label": "exactly"
+    },
+    "clusterList": [
+        {
+            "phrase": "exactly my point i mean let someone else chime in why don't ya",
+            "count": 1
+        },
+        {
+            "phrase": "because some people like you don't take no for an answer no means no",
+            "count": 1
+        },
+        {
+            "phrase": "it's just easier to say yes than to say no",
+            "count": 1
+        }
+    ]
+}

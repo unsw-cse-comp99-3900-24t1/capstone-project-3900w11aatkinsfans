@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:30",
+            "03:06",
+            "04:56"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no war on iran",
+            "count": 2
+        },
+        {
+            "phrase": "the frightening truth of why iran wants a bomb",
+            "count": 1
+        },
+        {
+            "phrase": "why cheney won't take down iran",
+            "count": 1
+        }
+    ]
+}

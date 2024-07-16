@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:28",
+            "05:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a well-deserved wage",
+            "count": 1
+        },
+        {
+            "phrase": "we can all know what it feels like to live on that wage",
+            "count": 1
+        }
+    ]
+}

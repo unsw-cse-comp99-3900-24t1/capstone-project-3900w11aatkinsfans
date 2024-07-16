@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:50",
+            "03:46",
+            "04:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fact that the levels of violence have come down so significantly and stayed down now for some two-and-a-half months indicates there is a degree of durability",
+            "count": 2
+        },
+        {
+            "phrase": "i noticed the decrease in violence immediately",
+            "count": 2
+        }
+    ]
+}

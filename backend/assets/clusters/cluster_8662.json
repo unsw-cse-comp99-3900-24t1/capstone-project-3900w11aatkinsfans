@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "03:48"
+        ],
+        "label": "did"
+    },
+    "clusterList": [
+        {
+            "phrase": "did you think you were going to have this party without me",
+            "count": 1
+        },
+        {
+            "phrase": "you think i should go to that party",
+            "count": 1
+        }
+    ]
+}

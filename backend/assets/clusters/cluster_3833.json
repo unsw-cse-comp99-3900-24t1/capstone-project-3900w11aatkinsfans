@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:09",
+            "01:41",
+            "03:51",
+            "04:13"
+        ],
+        "label": "argonne"
+    },
+    "clusterList": [
+        {
+            "phrase": "laboratory of experimental physics",
+            "count": 3
+        },
+        {
+            "phrase": "argonne national laboratory is one of the u s department of energy's largest research centers it is also the nation's first national laboratory chartered in 1946",
+            "count": 1
+        },
+        {
+            "phrase": "the fateful genetics lab",
+            "count": 1
+        }
+    ]
+}

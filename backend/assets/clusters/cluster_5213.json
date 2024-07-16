@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:08",
+            "03:13",
+            "03:18"
+        ],
+        "label": "yes"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh you hear it right there it's that sound",
+            "count": 2
+        },
+        {
+            "phrase": "yes yes i do hear it and feel it it tickles on the way out",
+            "count": 1
+        },
+        {
+            "phrase": "and you say it like an eh sound",
+            "count": 1
+        }
+    ]
+}

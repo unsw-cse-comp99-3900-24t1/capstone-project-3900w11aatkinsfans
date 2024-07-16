@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:51",
+            "01:01",
+            "02:20",
+            "03:51"
+        ],
+        "label": "notes"
+    },
+    "clusterList": [
+        {
+            "phrase": "notes by professor albus dumbledore which appear by generous permission of the hogwarts headmasters archive",
+            "count": 3
+        },
+        {
+            "phrase": "among the many papers which dumbledore left in his will to the hogwarts archives",
+            "count": 1
+        },
+        {
+            "phrase": "which appear by generous permission of the hogwarts headmasters archive",
+            "count": 1
+        }
+    ]
+}

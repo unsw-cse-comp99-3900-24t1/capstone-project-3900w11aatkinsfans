@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:19",
+            "03:52",
+            "04:55"
+        ],
+        "label": "stop"
+    },
+    "clusterList": [
+        {
+            "phrase": "stop banging your head against a brick wall",
+            "count": 1
+        },
+        {
+            "phrase": "use a brick don't hurt your hand",
+            "count": 1
+        },
+        {
+            "phrase": "hit me i'll lay a ing brick on your jaw",
+            "count": 1
+        }
+    ]
+}

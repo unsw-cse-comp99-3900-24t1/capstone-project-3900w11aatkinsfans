@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:11",
+            "03:42",
+            "03:51",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "conspiracy to commit treason against the united states",
+            "count": 2
+        },
+        {
+            "phrase": "the treasonous trend",
+            "count": 1
+        },
+        {
+            "phrase": "doth particularly protest against the palpable and alarming infractions of the constitution in the two late cases of the alien and sedition acts passed at the last session of congress the sedition act exercises a power not delegated by the constitution but on the contrary expressly and positively forbidden by one of the amendments thereto a power which more than any other ought to produce universal alarm because it is levelled against the right of freely examining public characters and measures and of free communication among the people thereon which has ever been justly deemed the only effectual guardian of every other right",
+            "count": 1
+        },
+        {
+            "phrase": "the treason of images",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "00:45",
+            "00:48",
+            "01:10",
+            "01:37",
+            "01:43",
+            "01:47",
+            "02:14",
+            "02:42"
+        ],
+        "label": "liquidity"
+    },
+    "clusterList": [
+        {
+            "phrase": "everything increases our profit decreases it's exhausting but this is happening worldwide we can't do anything about it",
+            "count": 4
+        },
+        {
+            "phrase": "our markets are very challenging this year with lower seedling orders resulting from the current downturn in the forest industry",
+            "count": 3
+        },
+        {
+            "phrase": "our customers are dealing with the combined effects of the sharp downturn in us housing starts low lumber prices and higher canadian dollar and the resulting reduction in timber harvesting has impacted our industry",
+            "count": 3
+        },
+        {
+            "phrase": "liquidity for all three automakers is adequate for now but will be significantly reduced in the second half of this year and during 2009 by continued heavy losses and cash outflows",
+            "count": 2
+        }
+    ]
+}

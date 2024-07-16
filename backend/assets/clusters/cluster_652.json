@@ -1,0 +1,105 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:07",
+            "00:48",
+            "00:56",
+            "01:15",
+            "02:10",
+            "02:23",
+            "02:47",
+            "02:51",
+            "03:45",
+            "04:09",
+            "04:13",
+            "04:27",
+            "04:28",
+            "04:38"
+        ],
+        "label": "black"
+    },
+    "clusterList": [
+        {
+            "phrase": "kind of blue",
+            "count": 3
+        },
+        {
+            "phrase": "black white blues",
+            "count": 2
+        },
+        {
+            "phrase": "blue with a hint of amber",
+            "count": 2
+        },
+        {
+            "phrase": "green is the new red white and blue",
+            "count": 1
+        },
+        {
+            "phrase": "lime and black pepper",
+            "count": 1
+        },
+        {
+            "phrase": "brown and orange",
+            "count": 1
+        },
+        {
+            "phrase": "red and purple",
+            "count": 1
+        },
+        {
+            "phrase": "many shades of green",
+            "count": 1
+        },
+        {
+            "phrase": "the red and the blue",
+            "count": 1
+        },
+        {
+            "phrase": "gray to green and back to gray again",
+            "count": 1
+        },
+        {
+            "phrase": "espresso brown or midnight blue or spring green add 25",
+            "count": 1
+        },
+        {
+            "phrase": "one it is what color would you like to order this morning",
+            "count": 1
+        },
+        {
+            "phrase": "ma'am we need to know which color you would like us to send",
+            "count": 1
+        },
+        {
+            "phrase": "sheesh what colors do you have",
+            "count": 1
+        },
+        {
+            "phrase": "the brown ones",
+            "count": 1
+        },
+        {
+            "phrase": "the color purple",
+            "count": 1
+        }
+    ]
+}

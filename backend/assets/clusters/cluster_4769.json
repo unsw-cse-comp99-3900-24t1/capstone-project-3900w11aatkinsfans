@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "02:19",
+            "03:02",
+            "03:43"
+        ],
+        "label": "only"
+    },
+    "clusterList": [
+        {
+            "phrase": "only dull people are brilliant at breakfast",
+            "count": 3
+        },
+        {
+            "phrase": "brilliant at breakfast",
+            "count": 1
+        }
+    ]
+}

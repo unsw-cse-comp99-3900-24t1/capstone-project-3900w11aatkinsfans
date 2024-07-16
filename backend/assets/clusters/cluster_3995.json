@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "02:46",
+            "03:10",
+            "03:27"
+        ],
+        "label": "still"
+    },
+    "clusterList": [
+        {
+            "phrase": "still tools for young users",
+            "count": 4
+        },
+        {
+            "phrase": "our research and experience with this age group along with feedback from our user community has enabled us to compile the top 15 must do items for everyone in this life stage",
+            "count": 1
+        }
+    ]
+}

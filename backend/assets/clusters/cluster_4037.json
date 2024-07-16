@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:53",
+            "01:13",
+            "02:28"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh that laptop must be badly corrupted",
+            "count": 1
+        },
+        {
+            "phrase": "oh that laptop must be badly gt corrupted",
+            "count": 1
+        },
+        {
+            "phrase": "aspi initialization failed",
+            "count": 1
+        },
+        {
+            "phrase": "there's something wrong with the way the system is set up",
+            "count": 1
+        },
+        {
+            "phrase": "beware the system installation isn't properly tested",
+            "count": 1
+        }
+    ]
+}

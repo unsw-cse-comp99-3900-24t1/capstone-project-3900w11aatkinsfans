@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:24",
+            "04:45"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're going to run a marathon that's nutso why would you do that you crazy person",
+            "count": 1
+        },
+        {
+            "phrase": "i've had a number of people call me about this and ask me to run",
+            "count": 1
+        }
+    ]
+}

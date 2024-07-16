@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:05",
+            "02:27",
+            "03:35",
+            "03:56",
+            "04:03",
+            "04:04",
+            "04:33",
+            "04:42",
+            "05:04"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not a lot of people get this many opportunities",
+            "count": 3
+        },
+        {
+            "phrase": "when you have the opportunity you just have to go with it",
+            "count": 2
+        },
+        {
+            "phrase": "it's about opportunities",
+            "count": 2
+        },
+        {
+            "phrase": "you just don't find many opportunities like that",
+            "count": 1
+        },
+        {
+            "phrase": "when given the chance i try to show what i can do",
+            "count": 1
+        },
+        {
+            "phrase": "you get an opportunity to do so many things",
+            "count": 1
+        },
+        {
+            "phrase": "it's an opportunity that's out there all day every day",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:31",
+            "00:50",
+            "01:08",
+            "01:27"
+        ],
+        "label": "awww"
+    },
+    "clusterList": [
+        {
+            "phrase": "better mom when someone is looking",
+            "count": 4
+        },
+        {
+            "phrase": "awww thats so cute",
+            "count": 1
+        }
+    ]
+}

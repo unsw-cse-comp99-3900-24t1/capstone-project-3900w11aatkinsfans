@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:45",
+            "00:48",
+            "01:00",
+            "01:07",
+            "01:10",
+            "01:37",
+            "01:41",
+            "03:10",
+            "03:51",
+            "04:05",
+            "04:10",
+            "04:16",
+            "04:22",
+            "04:28",
+            "04:32",
+            "04:37",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the efficiency gains are really slow",
+            "count": 5
+        },
+        {
+            "phrase": "we can't even eat well and now the cost of transport is increasing",
+            "count": 4
+        },
+        {
+            "phrase": "the technology to make our cars and trucks meet a 35 mile-per-gallon standard is on the road today",
+            "count": 2
+        },
+        {
+            "phrase": "we've definitely seen an increase in motorcycle sales as the price of gas has gone up it's good for us but bad for everybody else",
+            "count": 1
+        },
+        {
+            "phrase": "save more than fuel",
+            "count": 1
+        },
+        {
+            "phrase": "this year we'll spend 400 000 on gas for buses the scary thing is our operating dollars are the same as they were eight years ago",
+            "count": 1
+        },
+        {
+            "phrase": "everyone is paying more these days to fill up the gas tank to put food on the table",
+            "count": 1
+        },
+        {
+            "phrase": "quick stops and the fast starts that's what really will destroy your fuel economy",
+            "count": 1
+        },
+        {
+            "phrase": "and in the middle of this continued high and rising energy and food costs",
+            "count": 1
+        },
+        {
+            "phrase": "we're saving about 11 cents per mile",
+            "count": 1
+        },
+        {
+            "phrase": "we used to be more reliant on our backyards and forests for fuel",
+            "count": 1
+        },
+        {
+            "phrase": "seriously considered getting a more fuel",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:38",
+            "03:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the american government has vetted us but they're not behind us",
+            "count": 1
+        },
+        {
+            "phrase": "we're standing by for direction from our u s government clients",
+            "count": 1
+        }
+    ]
+}

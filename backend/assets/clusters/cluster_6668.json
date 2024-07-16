@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:34",
+            "04:33"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it has been sheer madness",
+            "count": 1
+        },
+        {
+            "phrase": "it's been crazy",
+            "count": 1
+        },
+        {
+            "phrase": "it was a crazy couple of days",
+            "count": 1
+        }
+    ]
+}

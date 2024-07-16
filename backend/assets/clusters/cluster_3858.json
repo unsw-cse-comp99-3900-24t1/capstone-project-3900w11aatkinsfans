@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:18",
+            "01:37",
+            "04:05"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "people are going to say what about my personal rights even though you shelve some of your rights as a citizen in the military you don't shelve them all",
+            "count": 2
+        },
+        {
+            "phrase": "they're there to protect and serve",
+            "count": 1
+        },
+        {
+            "phrase": "those who are serving are serving to protect our rights at home",
+            "count": 1
+        },
+        {
+            "phrase": "we're helping them fight back because it's the right thing to do and because it's important for our own long-term security",
+            "count": 1
+        }
+    ]
+}

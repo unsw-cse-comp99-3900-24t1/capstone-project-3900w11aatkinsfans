@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:09",
+            "00:12",
+            "00:16",
+            "01:01",
+            "01:50",
+            "03:42",
+            "04:05"
+        ],
+        "label": "sides"
+    },
+    "clusterList": [
+        {
+            "phrase": "sides of the isle",
+            "count": 2
+        },
+        {
+            "phrase": "the gentle island",
+            "count": 1
+        },
+        {
+            "phrase": "the island next door",
+            "count": 1
+        },
+        {
+            "phrase": "islands in the stream",
+            "count": 1
+        },
+        {
+            "phrase": "the island of dr moreau",
+            "count": 1
+        },
+        {
+            "phrase": "north shore long island",
+            "count": 1
+        },
+        {
+            "phrase": "it is at the entrance of the harbour",
+            "count": 1
+        },
+        {
+            "phrase": "left on the lake",
+            "count": 1
+        }
+    ]
+}

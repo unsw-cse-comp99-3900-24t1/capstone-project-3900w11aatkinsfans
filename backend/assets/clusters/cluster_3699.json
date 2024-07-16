@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "02:23",
+            "03:51",
+            "04:10",
+            "04:31"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're still in a bear market there's no question about that but technicals are pointing to a short-term bottom",
+            "count": 1
+        },
+        {
+            "phrase": "t here still isn't any evidence of the bears wrestling away control of the market from the bulls",
+            "count": 1
+        },
+        {
+            "phrase": "sales have grown at an annual rate of 17 over the past ten years so how come this stock isn't talked up on cnbc",
+            "count": 1
+        },
+        {
+            "phrase": "longtime bear tosses in the towel says new bull market is upon us",
+            "count": 1
+        },
+        {
+            "phrase": "there's a big rotation moving into the sector that started with large caps in june and now it's moving into smaller and mid-size stocks",
+            "count": 1
+        }
+    ]
+}

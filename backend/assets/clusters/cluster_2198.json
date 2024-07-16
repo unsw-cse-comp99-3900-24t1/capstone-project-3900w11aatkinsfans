@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "01:46",
+            "01:48",
+            "02:09",
+            "02:14",
+            "03:33",
+            "03:52"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is not even elected by his peers",
+            "count": 7
+        },
+        {
+            "phrase": "leaders are made not born",
+            "count": 1
+        }
+    ]
+}

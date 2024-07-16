@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "01:47",
+            "02:33",
+            "02:42"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can't police this you can't adjudicate it",
+            "count": 1
+        },
+        {
+            "phrase": "never ever ever talk to the police",
+            "count": 1
+        },
+        {
+            "phrase": "don't talk to the police",
+            "count": 1
+        },
+        {
+            "phrase": "the police suggested i shouldn't take part in the meeting",
+            "count": 1
+        }
+    ]
+}

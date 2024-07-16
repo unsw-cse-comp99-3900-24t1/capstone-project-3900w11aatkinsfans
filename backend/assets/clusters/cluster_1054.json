@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:27",
+            "01:07",
+            "01:16",
+            "01:47",
+            "02:06",
+            "02:33",
+            "03:01",
+            "03:10",
+            "03:29",
+            "03:51",
+            "04:32",
+            "04:50"
+        ],
+        "label": "love"
+    },
+    "clusterList": [
+        {
+            "phrase": "let's talk about the love factor here",
+            "count": 6
+        },
+        {
+            "phrase": "love is a neurochemical con-job",
+            "count": 3
+        },
+        {
+            "phrase": "love won out",
+            "count": 2
+        },
+        {
+            "phrase": "love is a game",
+            "count": 1
+        },
+        {
+            "phrase": "love is a verb",
+            "count": 1
+        },
+        {
+            "phrase": "what's love got to do with it",
+            "count": 1
+        }
+    ]
+}

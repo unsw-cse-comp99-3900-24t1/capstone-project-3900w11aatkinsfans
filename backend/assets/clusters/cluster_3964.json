@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:52",
+            "02:42",
+            "03:23",
+            "04:04"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "remembering the kana",
+            "count": 4
+        },
+        {
+            "phrase": "and remember chaka from land of the lost sid and marty krofft",
+            "count": 1
+        }
+    ]
+}

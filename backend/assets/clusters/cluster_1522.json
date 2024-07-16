@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:02",
+            "03:06",
+            "03:09",
+            "03:48",
+            "04:13",
+            "04:15",
+            "04:24",
+            "04:28",
+            "05:05"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "the holy land",
+            "count": 2
+        },
+        {
+            "phrase": "athens and jerusalem",
+            "count": 2
+        },
+        {
+            "phrase": "god family and country",
+            "count": 2
+        },
+        {
+            "phrase": "in god's country",
+            "count": 1
+        },
+        {
+            "phrase": "god and california",
+            "count": 1
+        },
+        {
+            "phrase": "prochrist in poland proved that people in big cities can only be reached when perhaps all churches work together that is what i also want for all cities in germany",
+            "count": 1
+        },
+        {
+            "phrase": "god made all this happen for a reason this city has been going to hell",
+            "count": 1
+        },
+        {
+            "phrase": "city of london city of vatican city of columbia d",
+            "count": 1
+        }
+    ]
+}

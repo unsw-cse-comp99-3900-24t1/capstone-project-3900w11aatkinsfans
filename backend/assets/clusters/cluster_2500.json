@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:08",
+            "00:28",
+            "00:40",
+            "01:09",
+            "03:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the army's policy is that physical training cannot be given as a punishment although soldiers in detention are required to do physical training",
+            "count": 3
+        },
+        {
+            "phrase": "the evidence has demonstrated that the practice of beasting which clearly falls outside appropriate military discipline was going on in these barracks openly and must have been known to senior officers",
+            "count": 2
+        },
+        {
+            "phrase": "the army does not allow or condone any form of physical activity to be used for disciplinary purposes",
+            "count": 2
+        }
+    ]
+}

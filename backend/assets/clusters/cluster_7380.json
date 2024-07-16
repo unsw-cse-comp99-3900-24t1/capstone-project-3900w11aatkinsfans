@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:47",
+            "04:28"
+        ],
+        "label": "here's"
+    },
+    "clusterList": [
+        {
+            "phrase": "here's where it gets weird",
+            "count": 1
+        },
+        {
+            "phrase": "it's so rare and unusual it's unfortunate to pass up any chance",
+            "count": 1
+        },
+        {
+            "phrase": "it's a special thing",
+            "count": 1
+        }
+    ]
+}

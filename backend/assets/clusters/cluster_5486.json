@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:22",
+            "03:51",
+            "04:05"
+        ],
+        "label": "let's"
+    },
+    "clusterList": [
+        {
+            "phrase": "let's refer to the us marines we see in the foreground as sharpshooters not snipers which carries a negative connotation",
+            "count": 1
+        },
+        {
+            "phrase": "the canadian public demands that their military personnel be held to a higher standard",
+            "count": 1
+        },
+        {
+            "phrase": "and we have always been a country that recognizes that moral foundation as coming from god not from a tree not from a blade of grass not from the sun but from god if people want to go out on their own and worship trees or grass or the sun they can do that but i don't think it's appropriate for our military to say we won't draw any lines or set any standards about what people can do with military sanction",
+            "count": 1
+        },
+        {
+            "phrase": "different character of the military community and of the military mission requires a different application of the first amendment",
+            "count": 1
+        }
+    ]
+}

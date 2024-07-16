@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:19",
+            "01:41",
+            "02:18",
+            "03:11",
+            "04:13"
+        ],
+        "label": "bush"
+    },
+    "clusterList": [
+        {
+            "phrase": "bush ordered demolitions planted in the towers",
+            "count": 6
+        },
+        {
+            "phrase": "the bomb was placed underground especially since the crater was so huge",
+            "count": 1
+        },
+        {
+            "phrase": "the estimate that the hiroshima firestorm released 1000 times as much energy as the original bomb should surely indicate that your focus on the location and size of the detonation is missing the point completely",
+            "count": 1
+        },
+        {
+            "phrase": "then the fire came right behind it like a lava flow right down the ridge",
+            "count": 1
+        },
+        {
+            "phrase": "detonated the warhead near apogee not over the target area where the thing would eventually land but at altitude",
+            "count": 1
+        }
+    ]
+}

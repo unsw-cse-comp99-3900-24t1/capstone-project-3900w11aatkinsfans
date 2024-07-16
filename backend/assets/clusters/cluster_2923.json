@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:33",
+            "00:36",
+            "02:01",
+            "04:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's just a mess it's going to take a while to rebuild",
+            "count": 1
+        },
+        {
+            "phrase": "and i hope it will be able to play a similar role to demolish the wall being built in the land of peace",
+            "count": 1
+        },
+        {
+            "phrase": "we can still fight to restore the structure",
+            "count": 1
+        },
+        {
+            "phrase": "nothing like this will ever be built again if you tear it down it's lost forever",
+            "count": 1
+        },
+        {
+            "phrase": "i wouldn't be surprised if we did something along the lines of a 20 to 25 million renovation over the next three to four years",
+            "count": 1
+        },
+        {
+            "phrase": "if people feel they have to rebuild to 10 feet up and don't have money they won't return",
+            "count": 1
+        }
+    ]
+}

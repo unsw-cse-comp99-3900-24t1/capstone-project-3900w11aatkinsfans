@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:27"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no such thing like having too many books",
+            "count": 1
+        },
+        {
+            "phrase": "no one's ever said you should read more books to get into college",
+            "count": 1
+        }
+    ]
+}

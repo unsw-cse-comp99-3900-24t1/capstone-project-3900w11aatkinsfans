@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:41",
+            "02:18",
+            "03:13",
+            "03:51",
+            "03:56"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's still a 15-by-15 board and you get seven letters with point value",
+            "count": 3
+        },
+        {
+            "phrase": "you have to hit the ball x number of feet for a single double triple etc",
+            "count": 1
+        },
+        {
+            "phrase": "i got a 290 4 on the midterm and it clearly states the total is 330 points what does that translate into for a grade",
+            "count": 1
+        },
+        {
+            "phrase": "it's a bidding game and you bid how many points you think you can catch",
+            "count": 1
+        },
+        {
+            "phrase": "you're just trying to get a particular amount of points and 42 is the maximum amount you can get on any particular hand",
+            "count": 1
+        },
+        {
+            "phrase": "46 um i'd posit a much more simple term for it inequality especially when you start talking abo",
+            "count": 1
+        }
+    ]
+}

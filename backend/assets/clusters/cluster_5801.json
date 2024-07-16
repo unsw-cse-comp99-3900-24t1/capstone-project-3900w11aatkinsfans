@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:47",
+            "02:15"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "great leap forward",
+            "count": 2
+        },
+        {
+            "phrase": "leaps and bounds",
+            "count": 1
+        }
+    ]
+}

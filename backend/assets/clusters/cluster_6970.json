@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "03:42"
+        ],
+        "label": "different"
+    },
+    "clusterList": [
+        {
+            "phrase": "different people suck",
+            "count": 2
+        },
+        {
+            "phrase": "who is bad and mean",
+            "count": 1
+        }
+    ]
+}

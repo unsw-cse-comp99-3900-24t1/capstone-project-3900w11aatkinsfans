@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:11",
+            "01:32",
+            "02:15",
+            "04:21"
+        ],
+        "label": "founding"
+    },
+    "clusterList": [
+        {
+            "phrase": "founding father of the central jersey triathlon scene",
+            "count": 2
+        },
+        {
+            "phrase": "usat is proud to offer the 2008 art and science of triathlon international coaching symposium as an excellent opportunity to bring together the best speakers and researchers from around the world to discuss the latest in research training and coaching for triathlon",
+            "count": 1
+        },
+        {
+            "phrase": "the keynote speakers and lecturers will provide motivation and information everyone attending can use in their coaching training racing and everyday lives",
+            "count": 1
+        },
+        {
+            "phrase": "today our students are competing in track and field events at state and national level",
+            "count": 1
+        },
+        {
+            "phrase": "okurowski was doing ironman when i didn't know what the sport was and i had no clue what a triathlon was",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:47",
+            "04:15"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it provides jobs for people right here in west virginian and other states as well",
+            "count": 2
+        },
+        {
+            "phrase": "and of course it also provides jobs for people in redwood city too",
+            "count": 1
+        }
+    ]
+}

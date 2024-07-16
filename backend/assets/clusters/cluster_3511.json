@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:23",
+            "03:51",
+            "04:00",
+            "04:29"
+        ],
+        "label": "right"
+    },
+    "clusterList": [
+        {
+            "phrase": "right track wrong track",
+            "count": 4
+        },
+        {
+            "phrase": "stay on the right track",
+            "count": 1
+        }
+    ]
+}

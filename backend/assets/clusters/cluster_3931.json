@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:27",
+            "02:35",
+            "03:51",
+            "04:05"
+        ],
+        "label": "repeatedly"
+    },
+    "clusterList": [
+        {
+            "phrase": "in their the americans view there are some people at some level in the isi who tip off the taleban at some level about impending missile attacks when these are shared with the pakistanis",
+            "count": 2
+        },
+        {
+            "phrase": "most american's want us to go to war with north korea",
+            "count": 2
+        },
+        {
+            "phrase": "repeatedly you've talked about iran and that you don't want to see iran develop a nuclear weapon how far away do you think iran is from developing a nuclear capability",
+            "count": 1
+        }
+    ]
+}

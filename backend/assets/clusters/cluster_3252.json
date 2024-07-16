@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:02",
+            "02:10",
+            "02:16",
+            "04:21",
+            "04:27"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "math class is tough",
+            "count": 2
+        },
+        {
+            "phrase": "do not worry about your difficulties in mathematics i can assure you mine are still greater",
+            "count": 1
+        },
+        {
+            "phrase": "with a graphing calculator",
+            "count": 1
+        },
+        {
+            "phrase": "my mathematical mind",
+            "count": 1
+        },
+        {
+            "phrase": "if this were math i could just walk into class and not worry",
+            "count": 1
+        }
+    ]
+}

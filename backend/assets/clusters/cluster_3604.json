@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:08",
+            "04:28",
+            "04:37",
+            "04:54",
+            "05:01"
+        ],
+        "label": "her"
+    },
+    "clusterList": [
+        {
+            "phrase": "her body was dumped in a dirty filthy contractor's tent",
+            "count": 2
+        },
+        {
+            "phrase": "she was alive i buried her alive",
+            "count": 1
+        },
+        {
+            "phrase": "mother's only sleeping",
+            "count": 1
+        },
+        {
+            "phrase": "her bed crib",
+            "count": 1
+        }
+    ]
+}

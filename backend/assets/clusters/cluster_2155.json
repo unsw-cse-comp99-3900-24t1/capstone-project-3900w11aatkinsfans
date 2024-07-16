@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:38",
+            "02:19",
+            "02:35",
+            "02:38"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're heading to ca for a friend's wedding and while we're there",
+            "count": 2
+        },
+        {
+            "phrase": "busy summer with planning a san francisco wedding in july hurrah for the ca supreme court",
+            "count": 2
+        },
+        {
+            "phrase": "i've been planning my wedding in my head since i was a little girl and it just keeps getting more elaborate i'm a huge fan of the caribbean so if i don't get married in new york it would have to be on the beach",
+            "count": 2
+        },
+        {
+            "phrase": "hi we really want you to come to our wedding and we really want you to bring us some shit here's where we're registered",
+            "count": 1
+        },
+        {
+            "phrase": "i have no need to go someplace else and have another ceremony what i want is the piece of paper from the state of new york",
+            "count": 1
+        }
+    ]
+}

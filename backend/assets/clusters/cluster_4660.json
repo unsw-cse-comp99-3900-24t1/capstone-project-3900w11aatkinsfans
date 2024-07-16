@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:28",
+            "04:55",
+            "04:59"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this sort of activity should not be condoned and mustn't be allowed to happen again",
+            "count": 2
+        },
+        {
+            "phrase": "obviously i handled this particular situation the wrong way and if i had to do it over again it never would've happened",
+            "count": 1
+        },
+        {
+            "phrase": "totally inappropriate totally uncalled for and probably actionable legally",
+            "count": 1
+        }
+    ]
+}

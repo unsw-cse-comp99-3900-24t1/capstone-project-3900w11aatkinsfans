@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:09",
+            "01:10",
+            "02:46",
+            "03:19",
+            "03:36",
+            "04:14",
+            "04:18"
+        ],
+        "label": "was"
+    },
+    "clusterList": [
+        {
+            "phrase": "people were distressed at some of the reactions to some of the things that were said",
+            "count": 2
+        },
+        {
+            "phrase": "majority of them didn't understand",
+            "count": 2
+        },
+        {
+            "phrase": "was just a bunch of insiders getting mad",
+            "count": 1
+        },
+        {
+            "phrase": "they were very upset by the negative comments",
+            "count": 1
+        },
+        {
+            "phrase": "they weren't actually that mean they were very sound comments",
+            "count": 1
+        },
+        {
+            "phrase": "i guess they expected me to be angry about them because i come from f1 they were a tenth of what the comments would have been in f1 for a similar situation",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "02:57",
+            "04:29",
+            "04:52"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "the season is a marathon not a sprint",
+            "count": 2
+        },
+        {
+            "phrase": "how many marathons",
+            "count": 1
+        },
+        {
+            "phrase": "it's like a marathon",
+            "count": 1
+        }
+    ]
+}

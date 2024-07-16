@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:10",
+            "02:33",
+            "02:42"
+        ],
+        "label": "loss"
+    },
+    "clusterList": [
+        {
+            "phrase": "loss of confidence in his ability to command and his failure to meet mission requirements and readiness standards",
+            "count": 1
+        },
+        {
+            "phrase": "we are a stronger more capable military today in large part because of his efforts to make us so he will be missed",
+            "count": 1
+        },
+        {
+            "phrase": "unfit for command",
+            "count": 1
+        },
+        {
+            "phrase": "due to a loss of confidence in his ability to command and his failure to meet mission requirements and readiness standards",
+            "count": 1
+        }
+    ]
+}

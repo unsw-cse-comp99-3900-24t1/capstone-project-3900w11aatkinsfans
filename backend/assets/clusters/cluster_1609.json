@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:38",
+            "01:51",
+            "01:52",
+            "03:55",
+            "04:03",
+            "04:22",
+            "04:24",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "how did we make it so long without him",
+            "count": 3
+        },
+        {
+            "phrase": "he's gone through heck this year didn't he win 11 games two years in a row",
+            "count": 2
+        },
+        {
+            "phrase": "it was a long year for him",
+            "count": 1
+        },
+        {
+            "phrase": "he was done three years ago",
+            "count": 1
+        },
+        {
+            "phrase": "113 years in o fair enough after all i think",
+            "count": 1
+        },
+        {
+            "phrase": "he handled it well for someone who was told they only have so many months to live",
+            "count": 1
+        },
+        {
+            "phrase": "he left pittsburgh a long time ago to change his life around and to get a fresh start now he's gone",
+            "count": 1
+        }
+    ]
+}

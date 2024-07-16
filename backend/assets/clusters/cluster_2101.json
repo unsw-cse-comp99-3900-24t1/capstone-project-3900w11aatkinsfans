@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:00"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we do we're playing one right now",
+            "count": 6
+        },
+        {
+            "phrase": "we definitely don't",
+            "count": 1
+        },
+        {
+            "phrase": "we have to take that into account",
+            "count": 1
+        }
+    ]
+}

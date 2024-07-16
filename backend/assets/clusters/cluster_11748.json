@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "04:24"
+        ],
+        "label": "men"
+    },
+    "clusterList": [
+        {
+            "phrase": "men of tortuga",
+            "count": 1
+        },
+        {
+            "phrase": "a strong tribe has a well defined common enemy",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:54",
+            "04:00",
+            "05:02"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we must continue to link built-in wage increases to productivity gains and help our people through various non-wage measures",
+            "count": 1
+        },
+        {
+            "phrase": "what is needed is permanent wage increases",
+            "count": 1
+        },
+        {
+            "phrase": "no on raising the minimum wage",
+            "count": 1
+        },
+        {
+            "phrase": "members still want to see ongoing improvements to their wages",
+            "count": 1
+        }
+    ]
+}

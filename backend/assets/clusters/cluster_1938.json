@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:52",
+            "03:00",
+            "03:34",
+            "04:08",
+            "04:45",
+            "04:51"
+        ],
+        "label": "nobody"
+    },
+    "clusterList": [
+        {
+            "phrase": "trouble in mind",
+            "count": 4
+        },
+        {
+            "phrase": "nobody knows the trouble i've seen",
+            "count": 1
+        },
+        {
+            "phrase": "too hard to handle",
+            "count": 1
+        },
+        {
+            "phrase": "too much trouble",
+            "count": 1
+        },
+        {
+            "phrase": "what's the problem",
+            "count": 1
+        },
+        {
+            "phrase": "it is just too troublesome",
+            "count": 1
+        }
+    ]
+}

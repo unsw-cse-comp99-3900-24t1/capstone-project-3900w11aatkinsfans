@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:24",
+            "01:33",
+            "03:34"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to talk to your kids",
+            "count": 1
+        },
+        {
+            "phrase": "when you get older it gets harder to hear and this helps them communicate",
+            "count": 1
+        },
+        {
+            "phrase": "perhaps they can't hear you",
+            "count": 1
+        },
+        {
+            "phrase": "it's wonderful for speech now for many and children can have near normal speech and language but they still don't get the same high-fidelity sound that normal-hearing people get",
+            "count": 1
+        }
+    ]
+}

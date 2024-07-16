@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:41",
+            "01:19",
+            "01:23",
+            "01:34",
+            "02:18",
+            "02:57",
+            "04:04",
+            "04:46",
+            "04:55"
+        ],
+        "label": "victory"
+    },
+    "clusterList": [
+        {
+            "phrase": "victory for congress",
+            "count": 2
+        },
+        {
+            "phrase": "fight for the sake of god the enemies of god until the tyrant invaders are defeated until the clear-cut victory the liberation of the homeland and raising the flag of there is no god but the god and bringing back the flag of god is the greatest to fly in iraq skies",
+            "count": 2
+        },
+        {
+            "phrase": "mission accomplished or how we won the war in iraq",
+            "count": 2
+        },
+        {
+            "phrase": "victory at anthrace",
+            "count": 1
+        },
+        {
+            "phrase": "if you don't let us gun down innocent bystanders the terrorists will win",
+            "count": 1
+        },
+        {
+            "phrase": "a good victory",
+            "count": 1
+        },
+        {
+            "phrase": "we win freedom",
+            "count": 1
+        },
+        {
+            "phrase": "if you're a terrorist this is your ultimate goal your ultimate asymmetric weapon",
+            "count": 1
+        }
+    ]
+}

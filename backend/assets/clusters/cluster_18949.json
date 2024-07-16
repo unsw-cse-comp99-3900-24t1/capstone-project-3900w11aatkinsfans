@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:23"
+        ],
+        "label": "surgery"
+    },
+    "clusterList": [
+        {
+            "phrase": "surgery rescheduled due to high humidity",
+            "count": 1
+        }
+    ]
+}

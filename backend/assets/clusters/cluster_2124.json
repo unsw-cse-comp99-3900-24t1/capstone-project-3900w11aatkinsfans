@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:33",
+            "01:02",
+            "03:11",
+            "03:23",
+            "03:35"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i can definitely say despite a very happy marriage we need lots of support and guidance all young married couples need guidance because it is hard and guidance from a priest or from another more experienced couple can really help you persevere",
+            "count": 2
+        },
+        {
+            "phrase": "in marriage two people meld two lives into one and we need as much prayer and support as we can get it is important to hear over and over again that the most joy will come from what seems the most challenging giving yourself for your spouse and for your children",
+            "count": 2
+        },
+        {
+            "phrase": "jane and i are being transformed by the outpouring of love and support from our families our marriage has opened positive conversation and also transformed others",
+            "count": 2
+        },
+        {
+            "phrase": "our family has been overwhelmed with the outpouring of love and compassion that so many have shared with us during this difficult time",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest problem in my marriage",
+            "count": 1
+        }
+    ]
+}

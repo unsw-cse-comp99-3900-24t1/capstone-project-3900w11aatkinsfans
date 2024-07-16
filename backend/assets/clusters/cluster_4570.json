@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:50",
+            "04:01"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he loved to win whether it be in golf or football",
+            "count": 1
+        },
+        {
+            "phrase": "the only thing he loved more than winning was his family i will really miss him",
+            "count": 1
+        },
+        {
+            "phrase": "he really was proud of his town his family and all his friends in elmira and everyone as we all have seen was proud of him",
+            "count": 1
+        },
+        {
+            "phrase": "it would be nice to win the world championship for him and his family",
+            "count": 1
+        }
+    ]
+}

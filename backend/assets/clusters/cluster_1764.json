@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:43",
+            "01:56",
+            "02:51",
+            "03:18",
+            "04:24",
+            "04:28",
+            "04:45",
+            "04:59"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a strong voice",
+            "count": 2
+        },
+        {
+            "phrase": "the hoarse whisperer",
+            "count": 1
+        },
+        {
+            "phrase": "you know it sounded like the black man from star wars",
+            "count": 1
+        },
+        {
+            "phrase": "th-that's him that's the voice",
+            "count": 1
+        },
+        {
+            "phrase": "he's got one of those golden voices",
+            "count": 1
+        },
+        {
+            "phrase": "i know he's sitting next to god and i know god envies that voice",
+            "count": 1
+        },
+        {
+            "phrase": "harry caray voice of the fans",
+            "count": 1
+        },
+        {
+            "phrase": "he is the voice of reason inside the beltway",
+            "count": 1
+        },
+        {
+            "phrase": "i had this young good-looking guy in one of my classes and i commented on what a great voice he had",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            4
+        ],
+        "xLabels": [
+            "02:19",
+            "03:51",
+            "05:01"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "brand new never opened",
+            "count": 4
+        },
+        {
+            "phrase": "it was it in the window of one of those previously owned clothing shops",
+            "count": 1
+        },
+        {
+            "phrase": "the shop was called old things new again",
+            "count": 1
+        },
+        {
+            "phrase": "we were working in a pine shop which was a very trendy furniture shop at the time in a very trendy part of london the end of the 60s the beginning of the 70s",
+            "count": 1
+        }
+    ]
+}

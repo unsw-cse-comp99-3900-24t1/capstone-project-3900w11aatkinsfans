@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "03:13",
+            "04:09"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there must be something about the lawns in this suburb that turns people off to the mowing establishment",
+            "count": 1
+        },
+        {
+            "phrase": "it's not what anybody expected and it's quite shocking that the owner of this property does not take care of the grass",
+            "count": 1
+        },
+        {
+            "phrase": "plenty of amenities and not one blade of grass to mow",
+            "count": 1
+        }
+    ]
+}

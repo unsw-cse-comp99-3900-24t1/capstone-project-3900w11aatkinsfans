@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "01:15",
+            "01:25",
+            "03:14",
+            "04:03",
+            "04:50"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "snit is obviously mentally ill",
+            "count": 4
+        },
+        {
+            "phrase": "the fact is he is likely to spend the rest of his life in a high-security mental hospital",
+            "count": 2
+        },
+        {
+            "phrase": "they tested his system he was clean of drugs and alcohol we don't know why unless just being in shock and the whole thing in itself caused him to forget everything",
+            "count": 1
+        },
+        {
+            "phrase": "it's a possibility he was intoxicated with drugs it's not fair to say he has a mental illness",
+            "count": 1
+        },
+        {
+            "phrase": "oh he is addicted to drugs and oh he had a threesome back in 2005 or he is in a romantic relationship with someone",
+            "count": 1
+        }
+    ]
+}

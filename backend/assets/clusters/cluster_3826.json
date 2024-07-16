@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:06",
+            "01:10",
+            "02:22",
+            "04:45"
+        ],
+        "label": "man"
+    },
+    "clusterList": [
+        {
+            "phrase": "man i need to get me some of that",
+            "count": 1
+        },
+        {
+            "phrase": "do you want to see more",
+            "count": 1
+        },
+        {
+            "phrase": "i could not ask for more",
+            "count": 1
+        },
+        {
+            "phrase": "yup i'd like some of that please",
+            "count": 1
+        },
+        {
+            "phrase": "i can't ask for more than that",
+            "count": 1
+        }
+    ]
+}

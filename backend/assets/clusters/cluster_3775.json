@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:20",
+            "01:40",
+            "02:26",
+            "05:04"
+        ],
+        "label": "personal"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not worried about my own safety i'm here to do my job i'm here to document",
+            "count": 2
+        },
+        {
+            "phrase": "personal safety law",
+            "count": 1
+        },
+        {
+            "phrase": "i am anxious to ensure that the public is protected from serious harm from you when you are eventually released and am going to pass an extended sentence of nine years",
+            "count": 1
+        },
+        {
+            "phrase": "and i don't know what the protection is other than to stay out of harm's way",
+            "count": 1
+        }
+    ]
+}

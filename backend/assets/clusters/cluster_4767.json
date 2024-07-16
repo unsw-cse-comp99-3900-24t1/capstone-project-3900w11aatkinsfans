@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "03:50",
+            "04:45"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this morning i just bought a packet of noodles from a newly open noodle stall opposite my office",
+            "count": 1
+        },
+        {
+            "phrase": "when i reached the office i was shocked to see what the noodle store guy had done to my food",
+            "count": 1
+        },
+        {
+            "phrase": "my first job in the restaurant was washing glasses and silverware",
+            "count": 1
+        },
+        {
+            "phrase": "i let the guy know the starbucks manager that i was planning to open my shop",
+            "count": 1
+        }
+    ]
+}

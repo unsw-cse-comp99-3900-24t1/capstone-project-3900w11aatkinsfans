@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "03:34",
+            "03:55",
+            "04:28",
+            "04:41",
+            "04:46"
+        ],
+        "label": "definitely"
+    },
+    "clusterList": [
+        {
+            "phrase": "a vibrant private grain trading sector",
+            "count": 2
+        },
+        {
+            "phrase": "definitely potential in agriculture the price of commodity at the moment is quite good it just depends if the weather comes our direction and we can crack a crop and some decent seasons for the livestock as well",
+            "count": 1
+        },
+        {
+            "phrase": "farmers are seeking to capitalize on the high prices for agricultural commodities",
+            "count": 1
+        },
+        {
+            "phrase": "national farmers union president tom buis issued a statement decrying the schwab proposal as essentially a sell-out of u s ag producers",
+            "count": 1
+        },
+        {
+            "phrase": "the enormous power exerted by the largest agribusiness food corporations allows them essentially to control the cost of their raw materials purchased from farmers while at the same time keeping prices of food to the general public at high enough levels to ensure large profits",
+            "count": 1
+        }
+    ]
+}

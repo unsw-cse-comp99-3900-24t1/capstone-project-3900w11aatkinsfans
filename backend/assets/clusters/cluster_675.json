@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:11",
+            "00:18",
+            "00:25",
+            "00:28",
+            "00:46",
+            "00:47",
+            "01:01",
+            "01:33",
+            "02:59",
+            "03:01",
+            "03:06",
+            "03:42",
+            "04:03",
+            "04:18",
+            "04:23",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the colbert report",
+            "count": 12
+        },
+        {
+            "phrase": "michael baisden show",
+            "count": 4
+        },
+        {
+            "phrase": "first of all i never watch the jon stewart show",
+            "count": 2
+        },
+        {
+            "phrase": "the funniest show on television that nobody watches",
+            "count": 1
+        },
+        {
+            "phrase": "howard stern on demand",
+            "count": 1
+        }
+    ]
+}

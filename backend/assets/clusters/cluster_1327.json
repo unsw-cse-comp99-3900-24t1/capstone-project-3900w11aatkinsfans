@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "00:53",
+            "01:00",
+            "02:18",
+            "03:06",
+            "03:34",
+            "04:23",
+            "04:28",
+            "04:36",
+            "04:41",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "because they want to",
+            "count": 2
+        },
+        {
+            "phrase": "i can't understand why anyone would want to hurt them",
+            "count": 2
+        },
+        {
+            "phrase": "i can't believe this why would they do this how",
+            "count": 1
+        },
+        {
+            "phrase": "maybe that is the way they like it",
+            "count": 1
+        },
+        {
+            "phrase": "why would they do that",
+            "count": 1
+        },
+        {
+            "phrase": "because they can turn around and make money on it too",
+            "count": 1
+        },
+        {
+            "phrase": "they don't want to be a part of it",
+            "count": 1
+        },
+        {
+            "phrase": "because they look so cute in them",
+            "count": 1
+        },
+        {
+            "phrase": "they don't get it",
+            "count": 1
+        },
+        {
+            "phrase": "because we want everyone to come",
+            "count": 1
+        }
+    ]
+}

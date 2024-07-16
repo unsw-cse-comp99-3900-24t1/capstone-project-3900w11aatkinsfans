@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:57"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the principle of resistance is legitimate",
+            "count": 1
+        },
+        {
+            "phrase": "countless disarmament however resistance only",
+            "count": 1
+        },
+        {
+            "phrase": "the unity of the resistance as a historical necessity",
+            "count": 1
+        }
+    ]
+}

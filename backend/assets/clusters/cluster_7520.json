@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "04:06",
+            "04:29"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this really works blah blah blah",
+            "count": 1
+        },
+        {
+            "phrase": "stuff that really works",
+            "count": 1
+        },
+        {
+            "phrase": "try big things",
+            "count": 1
+        }
+    ]
+}

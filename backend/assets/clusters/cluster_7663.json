@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "04:33",
+            "05:01"
+        ],
+        "label": "global"
+    },
+    "clusterList": [
+        {
+            "phrase": "global positioning system grandma",
+            "count": 1
+        },
+        {
+            "phrase": "you mean the gps thing",
+            "count": 1
+        },
+        {
+            "phrase": "they use gps for this don't they",
+            "count": 1
+        }
+    ]
+}

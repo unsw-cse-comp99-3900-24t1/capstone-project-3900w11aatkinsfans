@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:28"
+        ],
+        "label": "yesterday"
+    },
+    "clusterList": [
+        {
+            "phrase": "yesterday we analyzed a sample of a new trojan called infostealer",
+            "count": 1
+        },
+        {
+            "phrase": "upon further investigation the trojan appears to be using the probably stolen credentials of a number of recruiters to login to the web site and perform searches for resumes of candidates located in certain countries or working in certain fields the trojan sends http commands to the monster com web site to navigate to the managed folders section it then parses the output from a pop-up window containing the profiles of the candidates that match this recruiter's saved searches",
+            "count": 1
+        }
+    ]
+}

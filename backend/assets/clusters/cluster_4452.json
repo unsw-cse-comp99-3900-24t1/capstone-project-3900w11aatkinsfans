@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "03:28"
+        ],
+        "label": "vladimir"
+    },
+    "clusterList": [
+        {
+            "phrase": "vladimir ilich affirmed yesterday that the proletariat as a class in the marxist sense does not exist in russia allow me to congratulate you for managing to exercise dictatorship on behalf of a class that does not actually exist",
+            "count": 1
+        },
+        {
+            "phrase": "the dictatorship of the proletariat",
+            "count": 1
+        },
+        {
+            "phrase": "proletarian democracy of which soviet government is one of the forms has brought a development and expansion of democracy hitherto unprecedented in the world precisely for the vast majority of the population for the exploited and toiling people",
+            "count": 1
+        },
+        {
+            "phrase": "preach ing pure and unadulterated socialism busi nessmen who talk this way are unwitting pup pets of the intellectual forces that have been undermining the basis of a free society these past decades",
+            "count": 1
+        }
+    ]
+}

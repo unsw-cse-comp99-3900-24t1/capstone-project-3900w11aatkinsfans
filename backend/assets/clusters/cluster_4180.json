@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:36",
+            "02:43",
+            "03:18",
+            "03:48"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this test is imposs",
+            "count": 1
+        },
+        {
+            "phrase": "that is very difficult to assess",
+            "count": 1
+        },
+        {
+            "phrase": "this is a test",
+            "count": 1
+        },
+        {
+            "phrase": "it's easy for you to say",
+            "count": 1
+        },
+        {
+            "phrase": "it's a very easy test isn't it",
+            "count": 1
+        }
+    ]
+}

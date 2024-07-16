@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:41",
+            "04:00"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they are great guys have a great product and a great vision for the future",
+            "count": 1
+        },
+        {
+            "phrase": "you better like these people we think they are great",
+            "count": 1
+        }
+    ]
+}

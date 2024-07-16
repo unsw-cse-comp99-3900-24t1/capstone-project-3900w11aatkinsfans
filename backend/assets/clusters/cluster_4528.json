@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am the empire",
+            "count": 3
+        },
+        {
+            "phrase": "let's not kid ourselves it is the empire and the empire must fall",
+            "count": 1
+        }
+    ]
+}

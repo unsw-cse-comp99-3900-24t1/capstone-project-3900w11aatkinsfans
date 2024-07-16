@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:04",
+            "03:09",
+            "03:19",
+            "03:48",
+            "04:28",
+            "04:41"
+        ],
+        "label": "izzy"
+    },
+    "clusterList": [
+        {
+            "phrase": "izzy is quite a character she loves to cuddle and give kisses she has an under bite and she loves to show her teeth when she wants something",
+            "count": 14
+        },
+        {
+            "phrase": "they're so beautiful and untouchable and how edward is overcoming his vices his natural tendencies makes him even more exciting he could kill her but he loves her",
+            "count": 2
+        },
+        {
+            "phrase": "i love the mystery i love how edward is super-attractive almost perfect with this one flaw",
+            "count": 1
+        }
+    ]
+}

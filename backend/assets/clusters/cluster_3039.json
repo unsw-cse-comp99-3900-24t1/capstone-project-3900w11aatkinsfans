@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:51",
+            "02:14",
+            "02:52"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are pleased to announce that frank perez is joining tennessee commerce as our chief financial officer",
+            "count": 1
+        },
+        {
+            "phrase": "herb allison has sound judgment impeccable integrity and a disciplined approach to decision-making which are the hallmarks of a first-class director he also brings to our board additional financial and business experience as well as valuable perspective as a former senior executive of two major financial institutions",
+            "count": 1
+        },
+        {
+            "phrase": "herb has a first-class mind a collegial temperament and good judgment he will bring valuable insights and perspective to our board as jeff bewkes leads this company forward i'm delighted that herb is joining us",
+            "count": 1
+        },
+        {
+            "phrase": "the board is very pleased to welcome herb allison as our newest member the nominating and governance committee oversaw a search process to identify a new director who would bring additional financial and executive experience to our board herb is well respected in the investor and business communities as well as an individual of the highest intelligence and character",
+            "count": 1
+        },
+        {
+            "phrase": "we're very pleased that jim has joined primus board of directors",
+            "count": 1
+        },
+        {
+            "phrase": "we are delighted that the certified results confirm that alex behring chris hohn gil lamphere and tim o'toole have all been elected to the csx board they bring valuable railroad and management experience to the csx board and look forward to working constructively with their fellow directors for the benefit of all csx stakeholders we thank our fellow shareholders for their patience during this lengthy process and expect all newly elected board members to be seated without further delay",
+            "count": 1
+        }
+    ]
+}

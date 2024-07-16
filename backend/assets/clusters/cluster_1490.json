@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:20",
+            "00:24",
+            "00:53",
+            "02:23",
+            "03:01",
+            "03:36",
+            "03:42",
+            "03:51",
+            "04:09",
+            "04:51"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're no longer based on the existence of nation states we must reinvent ourselves",
+            "count": 3
+        },
+        {
+            "phrase": "we commit our youth every time we commit ourselves to war many of that great population of youth perished",
+            "count": 2
+        },
+        {
+            "phrase": "but the aftereffects of the war are very much with us",
+            "count": 2
+        },
+        {
+            "phrase": "i'm all for our soldiers without them our country wouldn't be where we are today but this war just doesn't seem right like the vietnam one it's not right",
+            "count": 1
+        },
+        {
+            "phrase": "choosing their own war",
+            "count": 1
+        },
+        {
+            "phrase": "unite the country",
+            "count": 1
+        },
+        {
+            "phrase": "gets tired of a war that drags on",
+            "count": 1
+        }
+    ]
+}

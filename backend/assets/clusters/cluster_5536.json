@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:15",
+            "03:34",
+            "03:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's going to widen it's going to deepen",
+            "count": 3
+        },
+        {
+            "phrase": "this trend could indicate that we may continue to see a rise in the number of individuals we will serve through the remainder of 2008",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:19",
+            "01:38",
+            "01:42"
+        ],
+        "label": "aaa"
+    },
+    "clusterList": [
+        {
+            "phrase": "aaa minneapolis supports minnesota's new state law prohibiting text messaging while driving which goes into effect on august 1 but clearly the crisis of distracted driving which leads to hundreds of traffic crashes and driving deaths each year is a big issue in the twin cities which includes text messaging while on the road",
+            "count": 1
+        },
+        {
+            "phrase": "given that the national highway traffic safety administration and virginia tech transportation institute have determined that 80 percent of crashes and 65 percent of near-crashes involve some form of driver distraction from using a cell phone to applying make-up and reading",
+            "count": 1
+        },
+        {
+            "phrase": "if there are risks and we think that maybe there are then the people who are going to be most affected are children and the younger the children the greater the danger parents have a responsibility to their children not simply to throw a mobile phone to a young child and say off you go",
+            "count": 1
+        },
+        {
+            "phrase": "the results published in july 2005 suggest that banning hand-held phone use will not necessarily improve safety if drivers simply switch to hand-free phones the study found that injury crash risk didn't vary with type of phone",
+            "count": 1
+        },
+        {
+            "phrase": "cellphone use is far less likely to be the cause of a crash or near-miss than other distractions according to the study for example while reaching for a moving object such as a falling cup increased the risk of a crash or near-crash by nine times talking or listening on a hand-held cellphone only increased the risk by 1 3 times",
+            "count": 1
+        },
+        {
+            "phrase": "these findings confirm an august 2003 report from the aaa foundation for traffic safety that concluded that drivers are far less distracted by their cellphones than by other common activities such as reaching for items on the seat or glove compartment or talking to passengers",
+            "count": 1
+        }
+    ]
+}

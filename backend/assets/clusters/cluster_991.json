@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:12",
+            "01:13",
+            "01:18",
+            "01:42",
+            "02:14",
+            "02:39",
+            "03:01",
+            "03:27",
+            "04:13"
+        ],
+        "label": "pcs"
+    },
+    "clusterList": [
+        {
+            "phrase": "works with iphone",
+            "count": 10
+        },
+        {
+            "phrase": "pcs low cost",
+            "count": 2
+        },
+        {
+            "phrase": "works with pcs",
+            "count": 1
+        },
+        {
+            "phrase": "designed for windows xp windows vista capable",
+            "count": 1
+        },
+        {
+            "phrase": "for refurbished pcs",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:38",
+            "01:05",
+            "01:07",
+            "01:10",
+            "01:33",
+            "01:38",
+            "01:43",
+            "01:47",
+            "01:51",
+            "02:32",
+            "03:02",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if this victory can clear the way and get rid of the curse that they've had here for a number of years i hope it does",
+            "count": 6
+        },
+        {
+            "phrase": "unfortunately today's victory may be short-lived",
+            "count": 4
+        },
+        {
+            "phrase": "this is a huge victory for us today",
+            "count": 2
+        },
+        {
+            "phrase": "four months for victory",
+            "count": 2
+        },
+        {
+            "phrase": "will not bring victory",
+            "count": 1
+        }
+    ]
+}

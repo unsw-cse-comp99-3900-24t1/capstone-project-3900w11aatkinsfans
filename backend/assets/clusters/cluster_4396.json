@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "01:15",
+            "02:29",
+            "03:32"
+        ],
+        "label": "dreaming"
+    },
+    "clusterList": [
+        {
+            "phrase": "dreaming with a broken heart",
+            "count": 1
+        },
+        {
+            "phrase": "street of broken dreams",
+            "count": 1
+        },
+        {
+            "phrase": "the color of a broken heart is blue",
+            "count": 1
+        },
+        {
+            "phrase": "dream of alone man",
+            "count": 1
+        }
+    ]
+}

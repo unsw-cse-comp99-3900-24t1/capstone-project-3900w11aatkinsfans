@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:36"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a digital circuit needs wire in order to transmit signals to different parts of the circuit the wire in a visual representation of a digital circuit is part of the drawing itself which can be perceived only in two ways",
+            "count": 1
+        },
+        {
+            "phrase": "an input to a digital circuit is a zero or one similarly an input to a visual version of the circuit is an unambiguous cue to the tilt at that part of the circuit",
+            "count": 1
+        },
+        {
+            "phrase": "visually represented not gates flip a box's perceived tilt as you work through a circuit and or gates are designed with transparency cues so that the elicited perception is always that the box is tilted toward you unless overridden",
+            "count": 1
+        }
+    ]
+}

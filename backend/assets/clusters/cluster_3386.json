@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:34",
+            "03:43",
+            "03:46",
+            "03:58",
+            "04:51"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of places in the world including china don't have the same view of personal space and privacy that we do in the united states",
+            "count": 4
+        },
+        {
+            "phrase": "most of our people are born in the people's republic of china and that's why they're so close to it",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of places in the world including china don't have the same view of personal",
+            "count": 1
+        }
+    ]
+}

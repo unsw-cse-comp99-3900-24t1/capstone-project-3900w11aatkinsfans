@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "04:13"
+        ],
+        "label": "lincoln"
+    },
+    "clusterList": [
+        {
+            "phrase": "lincoln idolizing bush-voting iraq war armchair general and soi-disant libertarian",
+            "count": 2
+        },
+        {
+            "phrase": "democracy-freedom-patriotism-proletariat-general welfare-the constitution-fatherland-war on terror",
+            "count": 1
+        }
+    ]
+}

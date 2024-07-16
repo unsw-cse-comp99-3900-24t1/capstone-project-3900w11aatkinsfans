@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:06",
+            "01:10",
+            "01:47",
+            "03:17",
+            "03:18",
+            "03:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wish her well-to each their own i mean we have people doing much worse in the world",
+            "count": 2
+        },
+        {
+            "phrase": "we will never know what her life would have held",
+            "count": 2
+        },
+        {
+            "phrase": "she would do anything for anybody everybody's sad i still can't believe it everyone's in shock around here",
+            "count": 1
+        },
+        {
+            "phrase": "she will never die",
+            "count": 1
+        },
+        {
+            "phrase": "i cannot feel her presence any longer not for a long time she is dead i fear",
+            "count": 1
+        }
+    ]
+}

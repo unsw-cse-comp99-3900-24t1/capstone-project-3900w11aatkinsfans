@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:32",
+            "01:04",
+            "02:29",
+            "02:34",
+            "03:18",
+            "03:42",
+            "03:47",
+            "03:48",
+            "04:15",
+            "04:17",
+            "04:29",
+            "04:33"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're his father",
+            "count": 1
+        },
+        {
+            "phrase": "don't be too harsh he's still my son",
+            "count": 1
+        },
+        {
+            "phrase": "you have to learn your lesson but then he is my dad",
+            "count": 1
+        },
+        {
+            "phrase": "no son of mine",
+            "count": 1
+        },
+        {
+            "phrase": "your dad always gets the cheese",
+            "count": 1
+        },
+        {
+            "phrase": "i know that dad",
+            "count": 1
+        },
+        {
+            "phrase": "leave my father alone",
+            "count": 1
+        },
+        {
+            "phrase": "you have to stop your father",
+            "count": 1
+        },
+        {
+            "phrase": "he who has seen me has seen the father",
+            "count": 1
+        },
+        {
+            "phrase": "father knows best",
+            "count": 1
+        },
+        {
+            "phrase": "daddy is a white boy",
+            "count": 1
+        },
+        {
+            "phrase": "this is not my father",
+            "count": 1
+        },
+        {
+            "phrase": "brother from another mother",
+            "count": 1
+        },
+        {
+            "phrase": "he is my stepfather but",
+            "count": 1
+        }
+    ]
+}

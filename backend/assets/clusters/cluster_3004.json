@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:14",
+            "01:37",
+            "02:20",
+            "03:11"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "more cities move aggressively to stop heat deaths",
+            "count": 3
+        },
+        {
+            "phrase": "the areas that are most diverse are not the warmest areas",
+            "count": 1
+        },
+        {
+            "phrase": "green cities urban growth and the environment",
+            "count": 1
+        },
+        {
+            "phrase": "one of the most atrisk cities for the effects of global warming is new orleans and one of the biggest contributors is energy usage",
+            "count": 1
+        }
+    ]
+}

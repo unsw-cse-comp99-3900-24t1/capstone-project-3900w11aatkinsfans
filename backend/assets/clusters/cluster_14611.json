@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "00:23"
+        ],
+        "label": "jcifs"
+    },
+    "clusterList": [
+        {
+            "phrase": "jcifs smb smbauthexception invalid access to memory location",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:14",
+            "01:34"
+        ],
+        "label": "browser"
+    },
+    "clusterList": [
+        {
+            "phrase": "browser zoom sitespecific",
+            "count": 1
+        },
+        {
+            "phrase": "infinity zoom 210",
+            "count": 1
+        }
+    ]
+}

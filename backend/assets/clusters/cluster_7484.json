@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:59",
+            "03:01"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of what we get comes to us from the federal food program and we trust that they do their job make sure everything is healthy and on the up-and-up",
+            "count": 1
+        },
+        {
+            "phrase": "expressing alarm about the safety of its baby food",
+            "count": 1
+        },
+        {
+            "phrase": "a bill to provide for enhanced food-borne illness surveillance and food safety capacity",
+            "count": 1
+        }
+    ]
+}

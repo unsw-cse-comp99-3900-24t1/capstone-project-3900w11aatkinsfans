@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:09",
+            "01:43",
+            "03:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the head scarf issue is not on our agenda now",
+            "count": 4
+        }
+    ]
+}

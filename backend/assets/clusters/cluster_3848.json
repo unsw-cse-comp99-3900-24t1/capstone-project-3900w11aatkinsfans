@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:13",
+            "03:43",
+            "04:22",
+            "04:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i start picking up that this guy's an actor or something",
+            "count": 2
+        },
+        {
+            "phrase": "i don't want to do something that messes me up mentally i think people just don't realize that sometimes actors can really take it in and become that person",
+            "count": 1
+        },
+        {
+            "phrase": "i just think one of the trickiest things is learning how to read yes acting is all about being imaginative and creative but you have to start looking at the writer's intentions also",
+            "count": 1
+        },
+        {
+            "phrase": "i think people just don't realize that sometimes actors can really take it in and become that person",
+            "count": 1
+        }
+    ]
+}

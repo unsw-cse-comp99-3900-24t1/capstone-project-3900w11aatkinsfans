@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            6,
+            6,
+            2,
+            1,
+            1,
+            8,
+            1,
+            8,
+            1,
+            8,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:27",
+            "01:07",
+            "01:47",
+            "01:51",
+            "02:51",
+            "03:10",
+            "03:41",
+            "03:51",
+            "04:22",
+            "04:32",
+            "04:50",
+            "04:51"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an inconvenient truth",
+            "count": 41
+        },
+        {
+            "phrase": "an inconvenient truth ii",
+            "count": 1
+        },
+        {
+            "phrase": "show a reckless disregard for the truth",
+            "count": 1
+        },
+        {
+            "phrase": "recklessly indifferent to the truth",
+            "count": 1
+        },
+        {
+            "phrase": "handle the truth",
+            "count": 1
+        }
+    ]
+}

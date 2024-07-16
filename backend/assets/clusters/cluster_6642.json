@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:15",
+            "04:52"
+        ],
+        "label": "planet"
+    },
+    "clusterList": [
+        {
+            "phrase": "kimba the white lion",
+            "count": 2
+        },
+        {
+            "phrase": "planet of the apes",
+            "count": 1
+        }
+    ]
+}

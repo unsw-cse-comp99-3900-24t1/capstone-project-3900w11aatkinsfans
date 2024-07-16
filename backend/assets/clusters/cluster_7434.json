@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:50"
+        ],
+        "label": "food"
+    },
+    "clusterList": [
+        {
+            "phrase": "food is important ka-chan",
+            "count": 2
+        },
+        {
+            "phrase": "what are you talking about food can never be too important",
+            "count": 1
+        }
+    ]
+}

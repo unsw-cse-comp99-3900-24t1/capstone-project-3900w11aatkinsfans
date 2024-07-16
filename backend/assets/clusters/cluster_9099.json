@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "03:11"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this whole summer i have never worked as hard as i have",
+            "count": 1
+        },
+        {
+            "phrase": "but summer has been really good for me we've had a lot of practices and i've done pretty well",
+            "count": 1
+        }
+    ]
+}

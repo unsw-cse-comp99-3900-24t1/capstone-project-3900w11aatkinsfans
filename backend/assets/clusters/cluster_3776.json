@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:51",
+            "02:28",
+            "03:41",
+            "04:37"
+        ],
+        "label": "viral"
+    },
+    "clusterList": [
+        {
+            "phrase": "viral web video and rich media studios",
+            "count": 1
+        },
+        {
+            "phrase": "icarly is truly innovative in how it incorporates user-generated content into every show",
+            "count": 1
+        },
+        {
+            "phrase": "we're big fans of anything that lets people interact with online video and gives the youtube community the chance to express themselves in creative ways",
+            "count": 1
+        },
+        {
+            "phrase": "i can definitely see how video owners could embed ads directly into their videos-and google could make it even easier by supplying the ads based on the tags embedded into the video and at the appropriate points with spotlight and notes at specific points in the video",
+            "count": 1
+        },
+        {
+            "phrase": "furthermore the addition of mechanical motion to the screen delivers an incredible sense of volume or 3d to the content and provides the audience a truly new experience",
+            "count": 1
+        }
+    ]
+}

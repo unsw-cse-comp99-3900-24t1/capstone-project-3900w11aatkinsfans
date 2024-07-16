@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "01:07",
+            "01:37",
+            "01:47",
+            "02:09",
+            "02:32",
+            "03:10",
+            "03:48",
+            "03:50",
+            "03:51",
+            "04:18",
+            "04:28",
+            "04:32"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "how many times has she gotten me involved in things even when i've said no i'm not doing it",
+            "count": 6
+        },
+        {
+            "phrase": "she put me outdoors",
+            "count": 1
+        },
+        {
+            "phrase": "and i wasn't eating ice cream either don't tell her that",
+            "count": 1
+        },
+        {
+            "phrase": "she didn't stop because she feared the consequences to herself",
+            "count": 1
+        },
+        {
+            "phrase": "i hit her in the head to get her to stop throwing sand",
+            "count": 1
+        },
+        {
+            "phrase": "was that girl still at the park maybe i should talk to m and take her back over there so she can learn that she is being ridiculous",
+            "count": 1
+        },
+        {
+            "phrase": "oh god she's biting again make her stop",
+            "count": 1
+        },
+        {
+            "phrase": "she told me just to board",
+            "count": 1
+        },
+        {
+            "phrase": "when did you stop beating your wife",
+            "count": 1
+        },
+        {
+            "phrase": "she should get over it",
+            "count": 1
+        }
+    ]
+}

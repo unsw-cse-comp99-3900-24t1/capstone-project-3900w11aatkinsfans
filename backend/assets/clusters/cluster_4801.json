@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "02:51",
+            "03:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the reality is i never saw him when i was here",
+            "count": 2
+        },
+        {
+            "phrase": "i didn't see him nor have anything to do with him after that",
+            "count": 1
+        },
+        {
+            "phrase": "why would you be thinking about him he was here months ago no need to think about him any more",
+            "count": 1
+        }
+    ]
+}

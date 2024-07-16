@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "03:53"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people have forgotten i think what earthquakes feel like",
+            "count": 1
+        },
+        {
+            "phrase": "this earthquake was a very sad thing we realized that life is not so easy",
+            "count": 1
+        }
+    ]
+}

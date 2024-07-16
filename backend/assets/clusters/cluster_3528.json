@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "04:09",
+            "04:41",
+            "04:45"
+        ],
+        "label": "apple"
+    },
+    "clusterList": [
+        {
+            "phrase": "apple still doesn't really deeply get games",
+            "count": 1
+        },
+        {
+            "phrase": "the hardware is a kind of box that consumers reluctantly buy in order to play our games",
+            "count": 1
+        },
+        {
+            "phrase": "you gotta build apps for mainframes and dec's because that's where the market is not in that apple ii toy",
+            "count": 1
+        },
+        {
+            "phrase": "w hile we're waiting in line for iphones and buying the latest games that can seem pretty out of place right now while people are losing their homes or their life savings",
+            "count": 1
+        },
+        {
+            "phrase": "simply put it is one of the best launch games for apple's new app store and a must-buy for any puzzle game fan",
+            "count": 1
+        }
+    ]
+}

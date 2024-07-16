@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "02:51"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh tonight is the first night of the 7th month",
+            "count": 1
+        },
+        {
+            "phrase": "tuesday night is hillary night",
+            "count": 1
+        }
+    ]
+}

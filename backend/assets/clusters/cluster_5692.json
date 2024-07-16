@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:25",
+            "03:46"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it s fine listen help me wake the others i will wake up sonic",
+            "count": 1
+        },
+        {
+            "phrase": "omg maybe i should turn the volume down we're going to wake everyone up",
+            "count": 1
+        },
+        {
+            "phrase": "can you hear me now hello hello are you there are you there hello dude f cking sprint pcs arrrrggghhh",
+            "count": 1
+        }
+    ]
+}

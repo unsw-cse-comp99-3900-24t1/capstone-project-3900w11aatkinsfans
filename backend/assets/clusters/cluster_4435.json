@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "02:28",
+            "02:57",
+            "03:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "a sovereign democratic and independent malay muslim monarchy",
+            "count": 2
+        },
+        {
+            "phrase": "the independence of the judiciary and its importance for democracy in pakistan",
+            "count": 1
+        },
+        {
+            "phrase": "freedom and justice party of kurdistan",
+            "count": 1
+        }
+    ]
+}

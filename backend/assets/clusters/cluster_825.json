@@ -1,0 +1,99 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:51",
+            "01:00",
+            "01:07",
+            "02:32",
+            "02:44",
+            "03:21",
+            "03:38",
+            "03:48",
+            "04:06",
+            "04:28",
+            "04:29",
+            "04:46",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i got calls telling me i was a piece of crap",
+            "count": 2
+        },
+        {
+            "phrase": "but it's not really my fault",
+            "count": 2
+        },
+        {
+            "phrase": "well that's your fault",
+            "count": 1
+        },
+        {
+            "phrase": "well i mean technically i guess that it's your fault",
+            "count": 1
+        },
+        {
+            "phrase": "through my fault",
+            "count": 1
+        },
+        {
+            "phrase": "that's nice of u really u didn't have",
+            "count": 1
+        },
+        {
+            "phrase": "forgiven but why were you playing around knowing that ur late",
+            "count": 1
+        },
+        {
+            "phrase": "honestly it's pretty bad tonight i know it's not your fault",
+            "count": 1
+        },
+        {
+            "phrase": "through my fault through my fault through my most grievous fault",
+            "count": 1
+        },
+        {
+            "phrase": "but coach it wasn't my fault",
+            "count": 1
+        },
+        {
+            "phrase": "well it wasn't me",
+            "count": 1
+        },
+        {
+            "phrase": "i regret the incident happened",
+            "count": 1
+        },
+        {
+            "phrase": "it's not any one persons fault",
+            "count": 1
+        },
+        {
+            "phrase": "but i have no one to blame but myself for that",
+            "count": 1
+        },
+        {
+            "phrase": "it wasn't my kind of",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:08",
+            "01:24",
+            "02:05",
+            "04:09",
+            "04:17",
+            "04:47"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what sets this announcement somewhat apart",
+            "count": 3
+        },
+        {
+            "phrase": "i think is really a game changing announcement",
+            "count": 2
+        },
+        {
+            "phrase": "and it's very symptomatic that it was announced just days before the games",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:19",
+            "03:35",
+            "03:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the whole idea that the genome is so malleable in the brain is surprising these observations open an entirely new avenue of research and potential therapeutic interventions",
+            "count": 1
+        },
+        {
+            "phrase": "while the cells exhibit many properties that are typical of motor neurons we don't yet know whether they will be prone to degeneration that will allow us to mimic the disease in the culture dish and therefore to screen potential drugs",
+            "count": 1
+        },
+        {
+            "phrase": "therapeutic use of the cells is probably a long way off",
+            "count": 1
+        },
+        {
+            "phrase": "generated directly from elderly patients with chronic disease using material that has been exposed to disease-causing agents for a life-time and whether such patient-specific cells could be differentiated into the particular cell types that would be needed to treat or study the patient's condition",
+            "count": 1
+        },
+        {
+            "phrase": "for this i am truly sorry since my mom has parkinson's disease i know what it feels like to want a concrete cause and a concrete cure as soon as possible however i still believe that the decision not to vaccinate our children bodes for a dangerous future",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "03:27"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the detectors are working well and we're really pleased with how the instrument is working",
+            "count": 1
+        },
+        {
+            "phrase": "they operate smoothly and with the scanners high reliability they should provide trouble-free operation for years to come",
+            "count": 1
+        }
+    ]
+}

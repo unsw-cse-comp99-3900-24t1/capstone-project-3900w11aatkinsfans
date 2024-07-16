@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:37"
+        ],
+        "label": "warning"
+    },
+    "clusterList": [
+        {
+            "phrase": "warning shared memory is not reported by this system",
+            "count": 1
+        },
+        {
+            "phrase": "warning shared memory is not reported accurately by this system",
+            "count": 1
+        },
+        {
+            "phrase": "warning shared memory is slightly over-estimated by this system",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:42",
+            "02:07"
+        ],
+        "label": "conservatives"
+    },
+    "clusterList": [
+        {
+            "phrase": "conservatives where are you",
+            "count": 1
+        },
+        {
+            "phrase": "fiscally conservative but socially liberal",
+            "count": 1
+        },
+        {
+            "phrase": "the conservative path to victory",
+            "count": 1
+        }
+    ]
+}

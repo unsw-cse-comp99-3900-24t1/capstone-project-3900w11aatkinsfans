@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "02:42",
+            "03:42",
+            "03:58",
+            "04:03",
+            "04:36"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mayor has a lot to risk by going to trial",
+            "count": 2
+        },
+        {
+            "phrase": "people are supporting antonio villaraigosa because he's a person who as mayor is out there and willing to take some risks",
+            "count": 2
+        },
+        {
+            "phrase": "it makes no sense for one upstate legislator to strangle progress and safety in new york city",
+            "count": 1
+        },
+        {
+            "phrase": "former mayor peter yeomans had mentioned it in the paper",
+            "count": 1
+        }
+    ]
+}

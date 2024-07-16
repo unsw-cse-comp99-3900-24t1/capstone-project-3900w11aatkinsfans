@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "01:38",
+            "04:45"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a failure to see half the picture",
+            "count": 1
+        },
+        {
+            "phrase": "how did i take that image what settings was i using why didn't this one turn out quite right",
+            "count": 1
+        },
+        {
+            "phrase": "one unflattering picture",
+            "count": 1
+        }
+    ]
+}

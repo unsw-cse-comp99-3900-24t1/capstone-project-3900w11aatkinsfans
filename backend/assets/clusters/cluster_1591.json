@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:06",
+            "00:13",
+            "01:32",
+            "02:14",
+            "02:39",
+            "03:35",
+            "04:16",
+            "04:45"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i've never had a situation with a general election coming 98 days after an indictment",
+            "count": 6
+        },
+        {
+            "phrase": "my independence hasn't always made me friends in washington i was not elected ms congeniality in the united states senate",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think i have a place in history yet i got elected to the u s senate i haven't done anything yet",
+            "count": 1
+        },
+        {
+            "phrase": "i have an unmatched record in fighting wasteful earmarks and unnecessary spending in the u s senate and i have the determination and experience to do the same as president",
+            "count": 1
+        }
+    ]
+}

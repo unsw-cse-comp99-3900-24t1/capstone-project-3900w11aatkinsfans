@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:15",
+            "04:18",
+            "04:28"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as you grow as artists",
+            "count": 1
+        },
+        {
+            "phrase": "live with art it's good for you",
+            "count": 1
+        },
+        {
+            "phrase": "i see art and beauty everywhere i go",
+            "count": 1
+        }
+    ]
+}

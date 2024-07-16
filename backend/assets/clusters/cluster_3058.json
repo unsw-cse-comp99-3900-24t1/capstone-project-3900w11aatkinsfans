@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:01",
+            "01:29",
+            "03:19",
+            "03:23",
+            "03:34"
+        ],
+        "label": "under"
+    },
+    "clusterList": [
+        {
+            "phrase": "through the roof",
+            "count": 2
+        },
+        {
+            "phrase": "raise the roof",
+            "count": 2
+        },
+        {
+            "phrase": "under the wave",
+            "count": 1
+        },
+        {
+            "phrase": "through the looking glass",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:05"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's with great pride and a lot of joy i announce today we have found proof that this hard material really is water ice and not some other substance",
+            "count": 1
+        },
+        {
+            "phrase": "it is with great pride and a lot of joy that i announce today that we have found proof that this hard bright material is really water ice and not some other substance",
+            "count": 1
+        }
+    ]
+}

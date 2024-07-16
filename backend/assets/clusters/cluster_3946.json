@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:38",
+            "01:43",
+            "02:33"
+        ],
+        "label": "three"
+    },
+    "clusterList": [
+        {
+            "phrase": "three men in a room",
+            "count": 2
+        },
+        {
+            "phrase": "men behind the sun",
+            "count": 2
+        },
+        {
+            "phrase": "men behind the curtain",
+            "count": 1
+        }
+    ]
+}

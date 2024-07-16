@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "03:14",
+            "03:15",
+            "04:09",
+            "04:37"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it came out really well",
+            "count": 2
+        },
+        {
+            "phrase": "i'm going out and pre-ordering it",
+            "count": 1
+        },
+        {
+            "phrase": "i will recommend that it comes out",
+            "count": 1
+        },
+        {
+            "phrase": "it's good you should read it go and buy it",
+            "count": 1
+        }
+    ]
+}

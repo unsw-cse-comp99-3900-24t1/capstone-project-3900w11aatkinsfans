@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:06",
+            "02:28",
+            "03:01",
+            "04:44",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the future of our nation depends on the soldier at fort carson",
+            "count": 3
+        },
+        {
+            "phrase": "beginning tomorrow troops deploying to iraq will serve 12-month tours instead of 15-month tours this will ease the burden on our forces and it will make life easier for our wonderful military families",
+            "count": 1
+        },
+        {
+            "phrase": "this will ease the burden on our forces",
+            "count": 1
+        },
+        {
+            "phrase": "bring the troops home redirect the military budget to social",
+            "count": 1
+        }
+    ]
+}

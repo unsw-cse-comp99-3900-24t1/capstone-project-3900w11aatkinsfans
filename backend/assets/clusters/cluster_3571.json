@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:01",
+            "02:20",
+            "02:56",
+            "03:45"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we also have nine inch nails and trent reznor's production is one of the best in the world",
+            "count": 2
+        },
+        {
+            "phrase": "i've been a big fan of diddy and the sean john clothing line for years",
+            "count": 1
+        },
+        {
+            "phrase": "sans brand the clippers are truly the b-diddy show",
+            "count": 1
+        },
+        {
+            "phrase": "have you been to jimmy john's it's really good",
+            "count": 1
+        }
+    ]
+}

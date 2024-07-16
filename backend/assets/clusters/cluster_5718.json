@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:06"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my friend just looked me up and down and said you're the pilot",
+            "count": 1
+        },
+        {
+            "phrase": "when we were getting gung-ho about the idea we said who'd be willing to pilot",
+            "count": 1
+        },
+        {
+            "phrase": "because i know on a plane i'm not in control",
+            "count": 1
+        }
+    ]
+}

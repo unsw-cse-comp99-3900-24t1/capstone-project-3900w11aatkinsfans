@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:32",
+            "00:42",
+            "01:10"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "what did you do with our kids",
+            "count": 2
+        },
+        {
+            "phrase": "we made a commitment to our 6-year-old a couple of years ago that we would get married and he won't let us off the hook he has a little brother now who's 8 months old and that makes it important for both of these guys to demonstrate to them our commitment to be a family for them and to be a family as legitimate as any other",
+            "count": 1
+        },
+        {
+            "phrase": "we have each been assigned three kids and i have three of the best",
+            "count": 1
+        }
+    ]
+}

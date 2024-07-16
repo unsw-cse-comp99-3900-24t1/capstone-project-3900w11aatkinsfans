@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:47",
+            "04:06"
+        ],
+        "label": "letter"
+    },
+    "clusterList": [
+        {
+            "phrase": "letter to a young contributor",
+            "count": 1
+        },
+        {
+            "phrase": "know a contributor",
+            "count": 1
+        },
+        {
+            "phrase": "you're a contributing member of society",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "02:24",
+            "03:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the land on which they have lived for hundreds of years was taken away from them without regard for the community's rights under the law",
+            "count": 1
+        },
+        {
+            "phrase": "a protectable property interest may arise in a situation where an employee may be removed only for cause",
+            "count": 1
+        },
+        {
+            "phrase": "restrictions in the law over the past two decades have created a ridiculously ineffective program for reuniting owners with their lost or forgotten property",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "01:54",
+            "02:15",
+            "02:44",
+            "04:23",
+            "04:54"
+        ],
+        "label": "organizations"
+    },
+    "clusterList": [
+        {
+            "phrase": "organizations must recognize that blade adoption needs to be a strategic vendor partnership decision and not a tactical purchase",
+            "count": 3
+        },
+        {
+            "phrase": "when it departments buy blades now they have to make a strategic decision to align themselves with that particular vendor's vision of how blades should work",
+            "count": 2
+        },
+        {
+            "phrase": "the concept is ready but we are still working on the product we hope to finalise it before this year-end in india the company is well positioned in the niche segment we are now gearing up to enter the mainstream of motorisation",
+            "count": 1
+        },
+        {
+            "phrase": "this encourages non-traditional contractors to develop cutting-edge technologies that would otherwise be unavailable to the government",
+            "count": 1
+        }
+    ]
+}

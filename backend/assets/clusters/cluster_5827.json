@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "03:22"
+        ],
+        "label": "economy"
+    },
+    "clusterList": [
+        {
+            "phrase": "economy and education guy",
+            "count": 1
+        },
+        {
+            "phrase": "i'm an economy and education guy that's what governors do",
+            "count": 1
+        },
+        {
+            "phrase": "my sense is as governor i've gotten a lot of stuff done",
+            "count": 1
+        }
+    ]
+}

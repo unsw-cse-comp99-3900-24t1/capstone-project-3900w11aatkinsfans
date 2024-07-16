@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:45",
+            "00:48",
+            "01:10",
+            "01:37",
+            "01:47",
+            "02:15"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have seen successful attempts at smuggling on the increase in guinea-conakry i understand it's 27 000 leones a gallon so fuel is smuggled out",
+            "count": 4
+        },
+        {
+            "phrase": "this is where terrorists can plan attacks they have sanctuary here they are gathering huge amounts of money as a consequence of the opium drug trade in the region",
+            "count": 1
+        },
+        {
+            "phrase": "it is obvious that the afghan government is more than kind to poppy growers it opposes the american proposal for political reasons the administration believes that it will lose popularity in the southern provinces where the majority of opium is cultivated",
+            "count": 1
+        },
+        {
+            "phrase": "millions of pounds have been committed in provinces including helmand province for irrigation projects and road building to help farmers get their produce to market but for now this has simply made it easier for them to grow and transport opium deep-rooted corruption exists in our state institutions",
+            "count": 1
+        }
+    ]
+}

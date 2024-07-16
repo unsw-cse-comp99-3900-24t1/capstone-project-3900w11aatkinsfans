@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:13",
+            "02:16",
+            "04:37"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i do notice that he doesn't seem to have anything to say very positive about himself",
+            "count": 1
+        },
+        {
+            "phrase": "he's humble in that way",
+            "count": 1
+        },
+        {
+            "phrase": "he's not arrogant he's stupid",
+            "count": 1
+        },
+        {
+            "phrase": "that was almost like his duty you never heard a discouraging word from yusuf about anybody only encouragement he was one of the most humble people i ever met",
+            "count": 1
+        },
+        {
+            "phrase": "brian's still pretty humble",
+            "count": 1
+        }
+    ]
+}

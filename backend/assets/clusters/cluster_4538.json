@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the folau try was probably what brought it all on",
+            "count": 2
+        },
+        {
+            "phrase": "a lot of people in afl have been saying it should have happened a long time and i think you saw the first glimpse of it with the folau try",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:35",
+            "04:49"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this business is a human rollercoaster there s always going to be ups and downs",
+            "count": 1
+        },
+        {
+            "phrase": "this business is a human rollercoaster there's always going to be ups and downs",
+            "count": 1
+        }
+    ]
+}

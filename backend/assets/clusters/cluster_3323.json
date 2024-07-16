@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:01",
+            "03:02",
+            "03:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the black cat",
+            "count": 1
+        },
+        {
+            "phrase": "skin the cat",
+            "count": 1
+        },
+        {
+            "phrase": "clifford's first halloween",
+            "count": 1
+        },
+        {
+            "phrase": "the halloween cat",
+            "count": 1
+        },
+        {
+            "phrase": "the magic pumpkin",
+            "count": 1
+        },
+        {
+            "phrase": "the long halloween",
+            "count": 1
+        }
+    ]
+}

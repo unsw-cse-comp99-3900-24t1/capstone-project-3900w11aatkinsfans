@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:14",
+            "01:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i would really like to read something like that",
+            "count": 1
+        },
+        {
+            "phrase": "i really could write something like that and would really like to",
+            "count": 1
+        },
+        {
+            "phrase": "what was i thinking that i could write this book",
+            "count": 1
+        },
+        {
+            "phrase": "i would have read it but it's too long",
+            "count": 1
+        }
+    ]
+}

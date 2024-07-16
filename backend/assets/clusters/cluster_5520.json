@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:38",
+            "03:34",
+            "04:32"
+        ],
+        "label": "path"
+    },
+    "clusterList": [
+        {
+            "phrase": "path to citizenship",
+            "count": 1
+        },
+        {
+            "phrase": "today's immigrant is tomorrow's citizen",
+            "count": 1
+        },
+        {
+            "phrase": "citizenship is not only a benefit but it's also an identity",
+            "count": 1
+        },
+        {
+            "phrase": "citizenship is a responsability",
+            "count": 1
+        }
+    ]
+}

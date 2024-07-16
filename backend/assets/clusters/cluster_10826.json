@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the boy who cried wolf and other bedtime stories",
+            "count": 1
+        },
+        {
+            "phrase": "story of a boy",
+            "count": 1
+        }
+    ]
+}

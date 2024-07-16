@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:17",
+            "04:44"
+        ],
+        "label": "motor"
+    },
+    "clusterList": [
+        {
+            "phrase": "motor homes travel trailers boats or other recreational vehicles or trailers shall not be stored or parked outdoors in a front or side yard for more than 14 days",
+            "count": 1
+        },
+        {
+            "phrase": "one to be used designed or intended to be used for a period of 14 consecutive days or more",
+            "count": 1
+        }
+    ]
+}

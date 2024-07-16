@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:14",
+            "01:09",
+            "01:50",
+            "02:01",
+            "02:06",
+            "02:42",
+            "03:15",
+            "04:08",
+            "04:23"
+        ],
+        "label": "dark"
+    },
+    "clusterList": [
+        {
+            "phrase": "the x-files i want to believe",
+            "count": 4
+        },
+        {
+            "phrase": "the x files i want to believe",
+            "count": 4
+        },
+        {
+            "phrase": "dark and red theme for vista",
+            "count": 1
+        },
+        {
+            "phrase": "inspired by the x-files",
+            "count": 1
+        },
+        {
+            "phrase": "the x-files theme",
+            "count": 1
+        },
+        {
+            "phrase": "the x files",
+            "count": 1
+        },
+        {
+            "phrase": "nice firefox themes",
+            "count": 1
+        }
+    ]
+}

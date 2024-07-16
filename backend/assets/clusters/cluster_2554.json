@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            3
+        ],
+        "xLabels": [
+            "01:09",
+            "03:15",
+            "03:33"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm an idiot not a crook",
+            "count": 4
+        },
+        {
+            "phrase": "us too we're all idiots not crooks",
+            "count": 2
+        },
+        {
+            "phrase": "he may be a crook but he is our crook",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:44",
+            "02:33",
+            "03:51"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is rather intended to be a planning conference at which plans will be laid and necessary organizational structures set up",
+            "count": 1
+        },
+        {
+            "phrase": "let's have a meeting propose a vision formulate a mission statement define some goals and by a process of continuous improvement find a solution to the critical problems and we can be on our way",
+            "count": 1
+        },
+        {
+            "phrase": "in early 1999 i decided to informally put in place the proposed secretariat of strategic plans division spd with the ghq",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "00:51",
+            "00:57",
+            "01:06",
+            "02:55",
+            "03:50",
+            "04:52"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he stayed strong stayed extra long til they let all the other boys out now we've got a real man with an american plan we're going to put him in the big white house",
+            "count": 6
+        },
+        {
+            "phrase": "well he got shot down in a vietnam town fighting for the red white and blue and they locked him up in the hanoi hilton thinking they could break him in two he stayed strong stayed extra long til they let all the other boys out now we've got a real man with an american plan we're going to put him in the big white house",
+            "count": 1
+        }
+    ]
+}

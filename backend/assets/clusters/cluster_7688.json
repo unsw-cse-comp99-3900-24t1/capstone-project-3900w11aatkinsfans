@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:46",
+            "04:09"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm from foster r i and i came here last year and had a great time",
+            "count": 1
+        },
+        {
+            "phrase": "last time when i played over here it was hartford where he finished fifth and we had that great weather at the british",
+            "count": 1
+        },
+        {
+            "phrase": "we went to sydney the blue mountains dubbo orange and lightning ridge",
+            "count": 1
+        }
+    ]
+}

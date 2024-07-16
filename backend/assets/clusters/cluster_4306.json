@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "02:19",
+            "02:29",
+            "03:24",
+            "04:13"
+        ],
+        "label": "putting"
+    },
+    "clusterList": [
+        {
+            "phrase": "putting them together",
+            "count": 2
+        },
+        {
+            "phrase": "we offer a fairly unique process of bringing people together in a collaborative way to work across party lines sector lines non-profit public and private",
+            "count": 1
+        },
+        {
+            "phrase": "to come together",
+            "count": 1
+        },
+        {
+            "phrase": "it's all about people working together to make things happen",
+            "count": 1
+        }
+    ]
+}

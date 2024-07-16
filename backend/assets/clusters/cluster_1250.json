@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:10",
+            "00:12",
+            "00:29",
+            "00:31",
+            "03:19",
+            "03:34",
+            "03:38",
+            "03:56",
+            "04:05"
+        ],
+        "label": "probably"
+    },
+    "clusterList": [
+        {
+            "phrase": "the honorable thing",
+            "count": 2
+        },
+        {
+            "phrase": "probably the most exciting night of my life i will always wear it as a badge of honor",
+            "count": 1
+        },
+        {
+            "phrase": "this recognition is well deserved",
+            "count": 1
+        },
+        {
+            "phrase": "this great symbol",
+            "count": 1
+        },
+        {
+            "phrase": "it has really been an honor to work with all of you",
+            "count": 1
+        },
+        {
+            "phrase": "it's been an honor to have played with",
+            "count": 1
+        },
+        {
+            "phrase": "made of honor",
+            "count": 1
+        },
+        {
+            "phrase": "we take great pride in this award",
+            "count": 1
+        },
+        {
+            "phrase": "a profound honour",
+            "count": 1
+        },
+        {
+            "phrase": "as a tribute to",
+            "count": 1
+        },
+        {
+            "phrase": "i wear it as a badge of honor",
+            "count": 1
+        },
+        {
+            "phrase": "a great honor",
+            "count": 1
+        }
+    ]
+}

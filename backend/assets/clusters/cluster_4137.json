@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:32",
+            "03:09",
+            "03:14"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the kids worked hard and had tremendous attitudes we primarily focused on fundamentals for most of the camp so there was a lot of learning going on",
+            "count": 1
+        },
+        {
+            "phrase": "we thought we had done that pretty well but until you get into the heat of the battle i guess that's the big learning experience",
+            "count": 1
+        },
+        {
+            "phrase": "air combat training is focused on teaching these maneuvers so that they can execute them from instinct",
+            "count": 1
+        },
+        {
+            "phrase": "attract young potential recruits train them to use weapons and engage in virtual combat and other military missions",
+            "count": 1
+        },
+        {
+            "phrase": "top-down drag a box over some units and give them some instructions until they hit a fight then manage the battle as individually as you can",
+            "count": 1
+        }
+    ]
+}

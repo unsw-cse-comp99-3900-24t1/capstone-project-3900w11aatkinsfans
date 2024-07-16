@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:24",
+            "03:14",
+            "04:28"
+        ],
+        "label": "initially"
+    },
+    "clusterList": [
+        {
+            "phrase": "initially she may not be aware that she's been kidnapped",
+            "count": 1
+        },
+        {
+            "phrase": "she's not going to arrive on time",
+            "count": 1
+        },
+        {
+            "phrase": "gt she must and shall go free",
+            "count": 1
+        },
+        {
+            "phrase": "she's been there for five days since monday",
+            "count": 1
+        }
+    ]
+}

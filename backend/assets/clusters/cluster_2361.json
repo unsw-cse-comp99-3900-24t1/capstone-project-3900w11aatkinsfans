@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:32",
+            "00:46",
+            "00:48",
+            "01:20",
+            "01:41",
+            "03:18"
+        ],
+        "label": "picking"
+    },
+    "clusterList": [
+        {
+            "phrase": "i would say they are unique",
+            "count": 6
+        },
+        {
+            "phrase": "picking between the ps3 and 360 versions of rock band is pretty much a toss-up",
+            "count": 1
+        },
+        {
+            "phrase": "best british band to come out of america",
+            "count": 1
+        }
+    ]
+}

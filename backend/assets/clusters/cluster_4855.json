@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "01:22"
+        ],
+        "label": "order"
+    },
+    "clusterList": [
+        {
+            "phrase": "order by year desc",
+            "count": 2
+        },
+        {
+            "phrase": "order by postdate desc",
+            "count": 2
+        }
+    ]
+}

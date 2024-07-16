@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:01",
+            "02:56",
+            "03:28",
+            "03:34",
+            "04:09"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "player of the game",
+            "count": 2
+        },
+        {
+            "phrase": "what's playing next",
+            "count": 1
+        },
+        {
+            "phrase": "the most dangerous game",
+            "count": 1
+        },
+        {
+            "phrase": "top 10 roto game",
+            "count": 1
+        },
+        {
+            "phrase": "a model of bishoujo game",
+            "count": 1
+        }
+    ]
+}

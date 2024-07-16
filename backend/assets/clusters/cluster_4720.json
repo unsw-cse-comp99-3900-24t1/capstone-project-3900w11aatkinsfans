@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:57"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is only a religious sect and not a political party and it is wrong to associate all the arab shias with one political project or a specific political agenda",
+            "count": 1
+        },
+        {
+            "phrase": "arab shias are sons of their own countries and like sunnis they should maintain their local identity",
+            "count": 1
+        },
+        {
+            "phrase": "shias are citizens of their own countries and they are governed by their national specificity",
+            "count": 1
+        },
+        {
+            "phrase": "egypt's islamic group moves toward establishing a political party",
+            "count": 1
+        }
+    ]
+}

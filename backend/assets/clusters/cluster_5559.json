@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:35",
+            "03:37",
+            "04:44"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for the servant is not above the master",
+            "count": 1
+        },
+        {
+            "phrase": "you call me teacher and lord and rightly so for that is what i am",
+            "count": 1
+        },
+        {
+            "phrase": "be both king and humble servant in the same person",
+            "count": 1
+        },
+        {
+            "phrase": "whose servant are you",
+            "count": 1
+        }
+    ]
+}

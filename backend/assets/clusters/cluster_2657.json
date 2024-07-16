@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "01:09",
+            "01:13",
+            "01:29",
+            "02:20",
+            "02:32"
+        ],
+        "label": "ticket"
+    },
+    "clusterList": [
+        {
+            "phrase": "ticket sales have been brisk and our inventory is dwindling by the day",
+            "count": 1
+        },
+        {
+            "phrase": "stores all over are reporting sell outs and are reordering as many as possible even as the initial supply is exhausted those fans from ultimates are coming to war heroes in droves so we're putting even more copies out there retailers are advised to order up as our initial printing had a substantial overprint and that clearly wasn't enough for the fans",
+            "count": 1
+        },
+        {
+            "phrase": "apple fails to be 1 in mobile phone shipments",
+            "count": 1
+        },
+        {
+            "phrase": "every day we're getting in shipments",
+            "count": 1
+        },
+        {
+            "phrase": "appleinsider claims that apple resellers have received notice that macbook macbook pro and ipod supplies will become constrained in the coming weeks",
+            "count": 1
+        },
+        {
+            "phrase": "sales continue to exceed supply and we continue to receive weekly incoming shipments from apple thanks to pre-ordered inventory",
+            "count": 1
+        },
+        {
+            "phrase": "we also continue to appreciate our customers enthusiasm for the device and patience when inventory sells out in specific stores",
+            "count": 1
+        }
+    ]
+}

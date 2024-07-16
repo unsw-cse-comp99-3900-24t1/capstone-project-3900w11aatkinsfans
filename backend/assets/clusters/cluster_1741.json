@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:34",
+            "00:46",
+            "01:29",
+            "01:43",
+            "01:50",
+            "03:05",
+            "03:18",
+            "04:06"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "okay but would you have asked jesus christ in your heart for forgiveness of your sins",
+            "count": 2
+        },
+        {
+            "phrase": "you probably would've died 15 years ago",
+            "count": 1
+        },
+        {
+            "phrase": "i assumed that i would just die",
+            "count": 1
+        },
+        {
+            "phrase": "at first i thought i was dead",
+            "count": 1
+        },
+        {
+            "phrase": "i was going to kill somebody",
+            "count": 1
+        },
+        {
+            "phrase": "if you were the only person on earth jesus would have died for you",
+            "count": 1
+        },
+        {
+            "phrase": "they'd made a funeral for me",
+            "count": 1
+        },
+        {
+            "phrase": "i thought you'd died and then i would have been upset and",
+            "count": 1
+        },
+        {
+            "phrase": "no you wouldn't have i was pregnant and angry i would have won",
+            "count": 1
+        }
+    ]
+}

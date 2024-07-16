@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:50",
+            "03:10",
+            "03:37",
+            "04:18"
+        ],
+        "label": "opening"
+    },
+    "clusterList": [
+        {
+            "phrase": "opening a blog for postings from election monitors could help improve the quality of poll observing and the capacity for civic society to act against abuses hopefully it will also be a counter to the swirls of rumour political spin and deliberate falsehoods",
+            "count": 4
+        },
+        {
+            "phrase": "the fact that so many web users are registered to vote suggests that online campaign efforts will drive results at the polls",
+            "count": 1
+        },
+        {
+            "phrase": "we are looking to a professional organization such as mores to ensure that the public is not manipulated by such unethical polling practices i would also hope that you will do what you can to call attention to instances where polling organizations fall short of the high professional standards to which your organization and your members subscribe",
+            "count": 1
+        },
+        {
+            "phrase": "one of the big tests for our nation this election will be whether we the press the campaigns the voters can handle the complex powder keg that is race in a responsible way that improves us all",
+            "count": 1
+        },
+        {
+            "phrase": "political commentary election analysis polling averages",
+            "count": 1
+        }
+    ]
+}

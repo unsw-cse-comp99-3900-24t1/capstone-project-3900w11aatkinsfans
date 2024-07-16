@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "spent"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is something he did at home on his own computer never intending to share with anyone it's equivalent to drawing something",
+            "count": 3
+        },
+        {
+            "phrase": "spent many many hours sitting at his computer working on style sheets and having scintillating conversations like this",
+            "count": 1
+        }
+    ]
+}

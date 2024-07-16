@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:17"
+        ],
+        "label": "talk"
+    },
+    "clusterList": [
+        {
+            "phrase": "talk is cheap",
+            "count": 1
+        },
+        {
+            "phrase": "there's a whole lot of talk but not a huge upswing in purchases",
+            "count": 1
+        }
+    ]
+}

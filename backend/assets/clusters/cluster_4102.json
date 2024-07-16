@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:09",
+            "02:51"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm sorry i forgot the product key is there a way i can get a new one",
+            "count": 2
+        },
+        {
+            "phrase": "took it into apple and they replaced it i actually asked for a black one because i have not heard of this happening with the black phones but they could not so they gave me a new white one",
+            "count": 2
+        },
+        {
+            "phrase": "my cellphone won't connect since the earthquake",
+            "count": 1
+        }
+    ]
+}

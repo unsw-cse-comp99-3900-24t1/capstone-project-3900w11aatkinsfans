@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "02:02",
+            "02:57"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are my best friend",
+            "count": 1
+        },
+        {
+            "phrase": "wishing you my very best",
+            "count": 1
+        },
+        {
+            "phrase": "thank you you are the real giant",
+            "count": 1
+        }
+    ]
+}

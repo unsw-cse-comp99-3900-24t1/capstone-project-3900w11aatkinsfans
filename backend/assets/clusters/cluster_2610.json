@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:00",
+            "01:50",
+            "03:39",
+            "04:21"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "the sharper image",
+            "count": 4
+        },
+        {
+            "phrase": "this is a pretty ugly picture",
+            "count": 1
+        },
+        {
+            "phrase": "get a better picture",
+            "count": 1
+        },
+        {
+            "phrase": "you my friend need a better-ass camera",
+            "count": 1
+        }
+    ]
+}

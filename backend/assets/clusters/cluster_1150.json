@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:20",
+            "00:33",
+            "00:41",
+            "01:05",
+            "02:22",
+            "02:47",
+            "03:26",
+            "04:06",
+            "04:37",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the horrific nature of it is probably one-of-a-kind in canadian history",
+            "count": 3
+        },
+        {
+            "phrase": "the incident was very tragic but was an isolated event",
+            "count": 2
+        },
+        {
+            "phrase": "certainly the horrific nature of it is probably one-of-a-kind in canadian history",
+            "count": 2
+        },
+        {
+            "phrase": "people should always be open to looking at precautionary measures but let's keep in mind that as bizarre and tragic as this is it is extremely rare",
+            "count": 2
+        },
+        {
+            "phrase": "the horrific nature of it is probably one of a kind in canadian history",
+            "count": 1
+        },
+        {
+            "phrase": "a death threat is just deplorable and unfortunately it comes in the aftermath of the other swastika incident in winnipeg",
+            "count": 1
+        },
+        {
+            "phrase": "most interesting to me was that for the majority of these women this was not an isolated incident but one of many traumatic events experienced through their lives",
+            "count": 1
+        },
+        {
+            "phrase": "it's a horrible tragic event but it could have been a hell of a lot worse",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:33",
+            "00:38",
+            "00:51",
+            "01:08",
+            "01:20",
+            "03:38",
+            "04:24",
+            "04:33",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "across the universe",
+            "count": 4
+        },
+        {
+            "phrase": "i'd go the whole wide world",
+            "count": 2
+        },
+        {
+            "phrase": "the world i know",
+            "count": 1
+        },
+        {
+            "phrase": "in but not of to world",
+            "count": 1
+        },
+        {
+            "phrase": "in the world",
+            "count": 1
+        },
+        {
+            "phrase": "we live in different worlds",
+            "count": 1
+        },
+        {
+            "phrase": "everything except country",
+            "count": 1
+        }
+    ]
+}

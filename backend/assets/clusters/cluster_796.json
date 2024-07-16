@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:20",
+            "00:29",
+            "01:01",
+            "01:07",
+            "01:41",
+            "01:42",
+            "02:05",
+            "02:23",
+            "03:02",
+            "03:19",
+            "03:22",
+            "03:24",
+            "04:13",
+            "04:23",
+            "04:33"
+        ],
+        "label": "think"
+    },
+    "clusterList": [
+        {
+            "phrase": "tech web page a1",
+            "count": 6
+        },
+        {
+            "phrase": "c inetpub wwwroot",
+            "count": 4
+        },
+        {
+            "phrase": "http www domainname com",
+            "count": 2
+        },
+        {
+            "phrase": "think about the words users would type to find your pages and make sure that your site actually includes those words within it",
+            "count": 1
+        },
+        {
+            "phrase": "your website will be 1 in google for this keyword",
+            "count": 1
+        },
+        {
+            "phrase": "and you can game it to come up on the front page of google",
+            "count": 1
+        },
+        {
+            "phrase": "this domain is available for sale",
+            "count": 1
+        },
+        {
+            "phrase": "submitting your web site to search engines",
+            "count": 1
+        }
+    ]
+}

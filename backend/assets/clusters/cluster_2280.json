@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:19",
+            "04:29",
+            "04:35",
+            "04:52"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just hit a parked car and i'm hurt really bad and i wasn't wearing my seat belt",
+            "count": 2
+        },
+        {
+            "phrase": "a little bump or bruise somewhere",
+            "count": 2
+        },
+        {
+            "phrase": "oh okay er what happened to your neck",
+            "count": 1
+        },
+        {
+            "phrase": "tell me do you have a large bruise underneath er i mean are you bruised on your chest",
+            "count": 1
+        },
+        {
+            "phrase": "my dear you are lying to me i know you have a bruise there",
+            "count": 1
+        },
+        {
+            "phrase": "i've never been hit in the face and not retaliated before",
+            "count": 1
+        }
+    ]
+}

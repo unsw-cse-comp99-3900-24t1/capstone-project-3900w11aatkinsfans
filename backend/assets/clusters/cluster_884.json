@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:21",
+            "00:32",
+            "00:41",
+            "00:46",
+            "01:00",
+            "01:10",
+            "01:40",
+            "01:52",
+            "02:00",
+            "02:05",
+            "03:37",
+            "04:18",
+            "04:32",
+            "04:37"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "not only did we play the race card we dealt it from the bottom of the deck",
+            "count": 9
+        },
+        {
+            "phrase": "but i can't see him doing something other than run his race i don't see any reason why he wouldn't",
+            "count": 2
+        },
+        {
+            "phrase": "i would love to race against him but i don't think i would be drawn in the same heat as him",
+            "count": 1
+        },
+        {
+            "phrase": "oh it wasn't the race card at all he was trying to say they will say he's a hack and it just came out wrong",
+            "count": 1
+        },
+        {
+            "phrase": "if he doesn't run his race in the haskell then there's a problem that we can't find",
+            "count": 1
+        },
+        {
+            "phrase": "even if i win the race what's the point",
+            "count": 1
+        },
+        {
+            "phrase": "look it's his race to lose",
+            "count": 1
+        }
+    ]
+}

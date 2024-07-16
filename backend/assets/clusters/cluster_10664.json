@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:19"
+        ],
+        "label": "out"
+    },
+    "clusterList": [
+        {
+            "phrase": "out with the girls",
+            "count": 1
+        },
+        {
+            "phrase": "getting drunk with all the boys",
+            "count": 1
+        }
+    ]
+}

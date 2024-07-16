@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:04",
+            "00:14",
+            "01:20",
+            "03:14",
+            "03:48"
+        ],
+        "label": "their"
+    },
+    "clusterList": [
+        {
+            "phrase": "can tell you based on the attitudes of these residents they are in their current position because of laziness and lack of self-reliance not slavery or jim crow",
+            "count": 2
+        },
+        {
+            "phrase": "their health coverage is terminated and with little or no family support many of them end up homeless unemployed or in jail",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think they need their jobs",
+            "count": 1
+        },
+        {
+            "phrase": "other homeless people",
+            "count": 1
+        },
+        {
+            "phrase": "those poor people still have to give 15 3 of their working life income to the government in return for a program that is merely food stamps for the elderly",
+            "count": 1
+        }
+    ]
+}

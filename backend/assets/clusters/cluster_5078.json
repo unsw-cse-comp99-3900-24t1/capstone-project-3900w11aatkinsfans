@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:30",
+            "02:15",
+            "03:42"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it sounds nice",
+            "count": 1
+        },
+        {
+            "phrase": "that sounds wonderful",
+            "count": 1
+        },
+        {
+            "phrase": "aw that sounds so pretty",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i used to have a sweet pick-up but my ex crashed it on a beach my dad gave me this beauty it's a classic",
+            "count": 1
+        }
+    ]
+}

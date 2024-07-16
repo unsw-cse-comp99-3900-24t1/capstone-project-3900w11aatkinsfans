@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:56",
+            "01:20",
+            "01:29",
+            "03:05",
+            "05:04"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "get out of here sheila",
+            "count": 2
+        },
+        {
+            "phrase": "get off my ass",
+            "count": 1
+        },
+        {
+            "phrase": "fuck you very much get out",
+            "count": 1
+        },
+        {
+            "phrase": "get all this shit out of here",
+            "count": 1
+        },
+        {
+            "phrase": "let's go you got about 10 seconds to get out there",
+            "count": 1
+        }
+    ]
+}

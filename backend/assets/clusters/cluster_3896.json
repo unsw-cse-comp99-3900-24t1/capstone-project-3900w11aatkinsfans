@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "01:32",
+            "01:39",
+            "02:14",
+            "03:38"
+        ],
+        "label": "andy"
+    },
+    "clusterList": [
+        {
+            "phrase": "andy warhol said we all get our 15 minutes of fame",
+            "count": 3
+        },
+        {
+            "phrase": "andy warhol and other famous faces",
+            "count": 1
+        },
+        {
+            "phrase": "andy warhol lo slovacco",
+            "count": 1
+        }
+    ]
+}

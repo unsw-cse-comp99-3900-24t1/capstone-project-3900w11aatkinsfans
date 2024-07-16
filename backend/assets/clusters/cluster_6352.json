@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:20",
+            "04:17"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he said they needed fuel and i told them where to park",
+            "count": 1
+        },
+        {
+            "phrase": "he used the car to go to the park to take his dog a walk",
+            "count": 1
+        },
+        {
+            "phrase": "he just said they'll be landing they'll be needing fuel and was wondering where to park",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:13",
+            "01:34"
+        ],
+        "label": "buns"
+    },
+    "clusterList": [
+        {
+            "phrase": "buns busters 12",
+            "count": 1
+        },
+        {
+            "phrase": "where are the hamburger buns",
+            "count": 1
+        },
+        {
+            "phrase": "there is the bread we are out of hamburger buns",
+            "count": 1
+        }
+    ]
+}

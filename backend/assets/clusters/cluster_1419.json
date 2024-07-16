@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:24",
+            "00:41",
+            "00:48",
+            "01:20",
+            "02:32",
+            "03:45",
+            "04:05",
+            "04:18",
+            "04:28"
+        ],
+        "label": "business"
+    },
+    "clusterList": [
+        {
+            "phrase": "business as usual",
+            "count": 5
+        },
+        {
+            "phrase": "business and bullshit as usual",
+            "count": 2
+        },
+        {
+            "phrase": "they're playing politics",
+            "count": 2
+        },
+        {
+            "phrase": "politics 101 tells us that any political arena will over time become co-opted by the concentrated interests at the expense of the diffuse interests",
+            "count": 1
+        },
+        {
+            "phrase": "dynamic public market in which politics and culture were increasingly inseparable",
+            "count": 1
+        },
+        {
+            "phrase": "it's power politics and it's politics as a business and it's winning and control",
+            "count": 1
+        }
+    ]
+}

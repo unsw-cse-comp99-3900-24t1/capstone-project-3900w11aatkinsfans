@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:42",
+            "04:26"
+        ],
+        "label": "menopause"
+    },
+    "clusterList": [
+        {
+            "phrase": "menopause and beyond",
+            "count": 1
+        },
+        {
+            "phrase": "continuous contraception may banish periods",
+            "count": 1
+        },
+        {
+            "phrase": "women take them thinking they'll be a safe alternative to hormone-replacement therapy and they might help hot flashes",
+            "count": 1
+        }
+    ]
+}

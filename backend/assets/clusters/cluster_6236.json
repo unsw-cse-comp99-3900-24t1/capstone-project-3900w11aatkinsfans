@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:59",
+            "04:51"
+        ],
+        "label": "ah"
+    },
+    "clusterList": [
+        {
+            "phrase": "ah yes i see you were involved in a small unimportant conversation with that little brat of yours",
+            "count": 1
+        },
+        {
+            "phrase": "we're all friends in our own little world",
+            "count": 1
+        },
+        {
+            "phrase": "because you're such a great friend listener communicator whatever bs people spit out these days",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:10",
+            "03:18"
+        ],
+        "label": "nothing"
+    },
+    "clusterList": [
+        {
+            "phrase": "nothing you confess could make me love you less",
+            "count": 1
+        },
+        {
+            "phrase": "of course darling",
+            "count": 1
+        },
+        {
+            "phrase": "anything for you my darling",
+            "count": 1
+        },
+        {
+            "phrase": "anything for you girl thingy-cat",
+            "count": 1
+        }
+    ]
+}

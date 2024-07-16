@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:01",
+            "01:28"
+        ],
+        "label": "ever"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can stay on the gas and flip through the gears with no hesitation",
+            "count": 2
+        },
+        {
+            "phrase": "ever thought of pressing the gas",
+            "count": 1
+        },
+        {
+            "phrase": "i press the gas to start teh car then i tak over",
+            "count": 1
+        }
+    ]
+}

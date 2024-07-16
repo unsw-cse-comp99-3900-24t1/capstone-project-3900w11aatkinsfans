@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            16,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:28",
+            "00:48",
+            "00:52",
+            "01:03",
+            "01:43",
+            "02:55",
+            "04:29",
+            "04:57"
+        ],
+        "label": "rental"
+    },
+    "clusterList": [
+        {
+            "phrase": "by sale or other transfer of ownership or by rental lease or lending",
+            "count": 16
+        },
+        {
+            "phrase": "rental business for sale",
+            "count": 1
+        },
+        {
+            "phrase": "no soul-buying or renting",
+            "count": 1
+        },
+        {
+            "phrase": "we bought one for rental but discovered people want to own it so now we sell lots of them",
+            "count": 1
+        },
+        {
+            "phrase": "rent to own",
+            "count": 1
+        },
+        {
+            "phrase": "i live at home or with others rent free",
+            "count": 1
+        },
+        {
+            "phrase": "nobody outright refuses to rent anymore",
+            "count": 1
+        },
+        {
+            "phrase": "why rent when you can own",
+            "count": 1
+        },
+        {
+            "phrase": "we buy houses",
+            "count": 1
+        }
+    ]
+}

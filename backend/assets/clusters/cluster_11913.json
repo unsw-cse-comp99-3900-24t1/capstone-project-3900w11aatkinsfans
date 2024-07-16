@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the big thing is that it can really wear on your body if you're not used to it",
+            "count": 1
+        },
+        {
+            "phrase": "they're great for stamina",
+            "count": 1
+        }
+    ]
+}

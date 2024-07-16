@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:58",
+            "01:38",
+            "02:19",
+            "03:00",
+            "03:05",
+            "03:22",
+            "03:41",
+            "04:19",
+            "04:59",
+            "05:01"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i was touring at first i met all kinds of people",
+            "count": 8
+        },
+        {
+            "phrase": "as we walked around we were able to meet some of the artists",
+            "count": 1
+        },
+        {
+            "phrase": "i went with siddharth and a group of friends to a musical event organised by composer sandeep chowta to cheer three of the greatest musical legends rather than cover the legends the press found it more interesting to photograph me and siddharth",
+            "count": 1
+        },
+        {
+            "phrase": "it was designed to be an artists venue where visitors would meet the artists and see them at work",
+            "count": 1
+        }
+    ]
+}

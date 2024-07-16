@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:23",
+            "01:02",
+            "01:10",
+            "01:43",
+            "02:10",
+            "02:41",
+            "03:29",
+            "03:31",
+            "03:38",
+            "03:41",
+            "03:43",
+            "03:44",
+            "03:46",
+            "03:48",
+            "03:59",
+            "04:03",
+            "04:08",
+            "04:16",
+            "04:21",
+            "04:27",
+            "04:28",
+            "04:29",
+            "04:32",
+            "04:36",
+            "04:37",
+            "04:54",
+            "05:01"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's very likely that we will discuss this again over the coming months",
+            "count": 24
+        },
+        {
+            "phrase": "it is likely that we will discuss this deferral request again over the coming months",
+            "count": 4
+        },
+        {
+            "phrase": "it is likely that we will discuss this the deferral request again over the coming months",
+            "count": 3
+        },
+        {
+            "phrase": "we have told ver di that we are open to any new discussions with them",
+            "count": 2
+        },
+        {
+            "phrase": "it's very likely some would say inevitable that we will discuss this again over the coming months",
+            "count": 1
+        },
+        {
+            "phrase": "we've given the organisers down there two date options and hope to hear back from them in the near future",
+            "count": 1
+        },
+        {
+            "phrase": "we may make some changes we are in the process of doing it at the moment but we are not in a position to speak about it for a few weeks",
+            "count": 1
+        }
+    ]
+}

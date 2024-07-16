@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:32",
+            "01:00",
+            "01:16",
+            "01:50",
+            "02:33",
+            "03:51",
+            "04:28",
+            "04:31",
+            "04:45",
+            "05:05"
+        ],
+        "label": "everyday"
+    },
+    "clusterList": [
+        {
+            "phrase": "pieces of april",
+            "count": 5
+        },
+        {
+            "phrase": "everyday should be a holiday",
+            "count": 1
+        },
+        {
+            "phrase": "manny what day is it",
+            "count": 1
+        },
+        {
+            "phrase": "the puerto rican day",
+            "count": 1
+        },
+        {
+            "phrase": "photo of the week",
+            "count": 1
+        },
+        {
+            "phrase": "this week in the life of umm adam",
+            "count": 1
+        },
+        {
+            "phrase": "the family holiday",
+            "count": 1
+        },
+        {
+            "phrase": "christian bale day a synopsis",
+            "count": 1
+        }
+    ]
+}

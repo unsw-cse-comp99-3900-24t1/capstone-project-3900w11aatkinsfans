@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:01",
+            "01:06",
+            "03:01",
+            "03:05"
+        ],
+        "label": "set"
+    },
+    "clusterList": [
+        {
+            "phrase": "set a goal for all american middle and high school students to perform 50 hours of service a year and for all college students to perform 100 hours of service a year",
+            "count": 4
+        },
+        {
+            "phrase": "however we have designed this program to teach to any fitness level in our current class we have individuals training to run in the chicago marathon as well as campers who are as much as fifty pounds overweight most anyone can excel in our camps regardless of what their individual starting point is as long as they are willing to work hard",
+            "count": 1
+        }
+    ]
+}

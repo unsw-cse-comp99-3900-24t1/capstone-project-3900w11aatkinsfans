@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "04:00"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and cooper said it was the best we've seen him since 2004",
+            "count": 1
+        },
+        {
+            "phrase": "cooper said it was the best we've seen him since 2004",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "04:28",
+            "04:41"
+        ],
+        "label": "worth"
+    },
+    "clusterList": [
+        {
+            "phrase": "worth watching especially if you're one of those people like me who likes words moving around on a screen",
+            "count": 1
+        },
+        {
+            "phrase": "i just thoroughly enjoy watching them",
+            "count": 1
+        },
+        {
+            "phrase": "hey this movie is boring i think i will loudly chat on my cell phone or tap tap on my computer rude hogwash hollywood must give me something worthy of paying attention to",
+            "count": 1
+        }
+    ]
+}

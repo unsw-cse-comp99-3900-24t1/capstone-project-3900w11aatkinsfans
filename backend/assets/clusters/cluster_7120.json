@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:51",
+            "04:13"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a force of one",
+            "count": 2
+        },
+        {
+            "phrase": "force is that which turns a person into a thing either a corpse or slave",
+            "count": 1
+        }
+    ]
+}

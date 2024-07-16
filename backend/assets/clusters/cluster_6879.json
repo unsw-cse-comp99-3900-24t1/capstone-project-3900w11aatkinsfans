@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:18",
+            "04:08"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i must thank you for it all i might not have gone but for you and so have",
+            "count": 1
+        },
+        {
+            "phrase": "er you're welcome but you're not that welcome so kindly let go",
+            "count": 1
+        },
+        {
+            "phrase": "no i'm sorry i should have come forward before that day i could have saved you",
+            "count": 1
+        }
+    ]
+}

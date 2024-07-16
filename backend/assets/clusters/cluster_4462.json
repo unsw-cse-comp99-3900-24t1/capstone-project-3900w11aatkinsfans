@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:33",
+            "02:55",
+            "04:14"
+        ],
+        "label": "address"
+    },
+    "clusterList": [
+        {
+            "phrase": "address 0x0000 expected 0xffff received 0x0100",
+            "count": 4
+        }
+    ]
+}

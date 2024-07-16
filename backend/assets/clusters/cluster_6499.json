@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:50",
+            "04:21"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so it's the unfunny newspaper",
+            "count": 1
+        },
+        {
+            "phrase": "wait a second a newspaper is paper its got no mouth how is it calling us on the phone",
+            "count": 1
+        },
+        {
+            "phrase": "i don't read the newspapers don't listen to the shows don't go to the internet sites",
+            "count": 1
+        }
+    ]
+}

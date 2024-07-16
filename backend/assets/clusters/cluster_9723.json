@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:21",
+            "02:39"
+        ],
+        "label": "means"
+    },
+    "clusterList": [
+        {
+            "phrase": "means that but i am not sure about it",
+            "count": 1
+        },
+        {
+            "phrase": "what's that supposed to mean",
+            "count": 1
+        }
+    ]
+}

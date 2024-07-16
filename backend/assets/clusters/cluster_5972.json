@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:22",
+            "01:10"
+        ],
+        "label": "hell"
+    },
+    "clusterList": [
+        {
+            "phrase": "hell or high water",
+            "count": 2
+        },
+        {
+            "phrase": "hell and high water",
+            "count": 1
+        }
+    ]
+}

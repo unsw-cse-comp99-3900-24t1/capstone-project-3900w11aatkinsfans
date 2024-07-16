@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:37",
+            "02:01",
+            "03:00",
+            "03:15",
+            "03:20",
+            "03:23",
+            "03:34",
+            "04:18",
+            "04:32",
+            "04:33"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's what she said",
+            "count": 3
+        },
+        {
+            "phrase": "he said just give her a go buddy",
+            "count": 1
+        },
+        {
+            "phrase": "she's not the kind of guy you'd go for",
+            "count": 1
+        },
+        {
+            "phrase": "tell her i said that she shouldn't go",
+            "count": 1
+        },
+        {
+            "phrase": "she tell the truth gurl even the hard truth",
+            "count": 1
+        },
+        {
+            "phrase": "are you seriously going to go get her let her figure it out on her own",
+            "count": 1
+        },
+        {
+            "phrase": "well she one ahead of you now do you want to equalise",
+            "count": 1
+        },
+        {
+            "phrase": "is she hot enough for me to waste time talking to her",
+            "count": 1
+        },
+        {
+            "phrase": "but i don't know if she'll agree to those terms",
+            "count": 1
+        }
+    ]
+}

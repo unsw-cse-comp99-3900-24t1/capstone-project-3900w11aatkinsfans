@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "02:23"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why the spoon",
+            "count": 1
+        },
+        {
+            "phrase": "here's your forks knifes and spoons pass them around",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            3,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "02:01",
+            "02:38",
+            "02:56",
+            "03:56"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the whale was quite old and i guess nature was calling",
+            "count": 2
+        },
+        {
+            "phrase": "this whale was very frail and old-looking and its teeth were ground down quite low so it could have been an old animal that came in to die",
+            "count": 2
+        },
+        {
+            "phrase": "form of a whale",
+            "count": 1
+        },
+        {
+            "phrase": "the whale is very weak and because it is so young it is unlikely to survive without its mother",
+            "count": 1
+        },
+        {
+            "phrase": "pushing the whale back out to sea in such a delicate condition is likely to be counter-productive and can hinder rescue efforts",
+            "count": 1
+        },
+        {
+            "phrase": "whales strand for a reason and that is usually because they are dying",
+            "count": 1
+        },
+        {
+            "phrase": "save a whale kill a child",
+            "count": 1
+        }
+    ]
+}

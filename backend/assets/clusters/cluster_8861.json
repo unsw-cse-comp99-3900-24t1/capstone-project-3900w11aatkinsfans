@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:36"
+        ],
+        "label": "shut"
+    },
+    "clusterList": [
+        {
+            "phrase": "shut up cody",
+            "count": 1
+        },
+        {
+            "phrase": "hey don't tell cody to shut up",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:24",
+            "02:20",
+            "04:22"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the victorians called this new phenomenon retirement",
+            "count": 1
+        },
+        {
+            "phrase": "from october we will be making it simpler and more automatic to claim pension credit housing benefit and council tax benefit in one call",
+            "count": 1
+        },
+        {
+            "phrase": "pension strategies in europe and the united states cesifo seminar series",
+            "count": 1
+        },
+        {
+            "phrase": "very well suited to our large public pension funds",
+            "count": 1
+        }
+    ]
+}

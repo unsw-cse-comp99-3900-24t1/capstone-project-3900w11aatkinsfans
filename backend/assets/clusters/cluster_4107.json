@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:43",
+            "02:20",
+            "03:15"
+        ],
+        "label": "opens"
+    },
+    "clusterList": [
+        {
+            "phrase": "legs up the wall",
+            "count": 2
+        },
+        {
+            "phrase": "opens a whole doorway for them",
+            "count": 1
+        },
+        {
+            "phrase": "this end up furniture",
+            "count": 1
+        },
+        {
+            "phrase": "legs of the doorway",
+            "count": 1
+        }
+    ]
+}

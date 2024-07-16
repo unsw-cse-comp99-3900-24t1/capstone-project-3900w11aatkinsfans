@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:06",
+            "03:50",
+            "04:03"
+        ],
+        "label": "deserves"
+    },
+    "clusterList": [
+        {
+            "phrase": "he should steal second",
+            "count": 2
+        },
+        {
+            "phrase": "deserves another chance",
+            "count": 1
+        },
+        {
+            "phrase": "he deserves a second chance",
+            "count": 1
+        }
+    ]
+}

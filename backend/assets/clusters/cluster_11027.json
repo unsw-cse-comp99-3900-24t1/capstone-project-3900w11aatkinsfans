@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "04:13"
+        ],
+        "label": "would"
+    },
+    "clusterList": [
+        {
+            "phrase": "would you hand me my tv remote",
+            "count": 1
+        },
+        {
+            "phrase": "please sir would you be so kind as to bring me the television remote control and the box of gourmet carrot snack crackers thank you ever so much",
+            "count": 1
+        }
+    ]
+}

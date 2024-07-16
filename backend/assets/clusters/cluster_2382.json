@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:16",
+            "01:37"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that still leaves plenty of collectors out there but we don't tend to do the smaller entry-level type works",
+            "count": 2
+        },
+        {
+            "phrase": "no collector buys in a void nothing happens in the way of collecting without information information is at the core of it",
+            "count": 2
+        },
+        {
+            "phrase": "you can't be a collector by just looking around and picking things",
+            "count": 2
+        },
+        {
+            "phrase": "you're a collector's item why would they want to get rid of you",
+            "count": 1
+        }
+    ]
+}

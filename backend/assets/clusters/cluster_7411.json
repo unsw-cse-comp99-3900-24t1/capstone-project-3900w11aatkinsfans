@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "03:13",
+            "04:32"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your friend is going to los angeles",
+            "count": 1
+        },
+        {
+            "phrase": "if there's something of interest in the area that the bus can go to we go",
+            "count": 1
+        },
+        {
+            "phrase": "it will make no difference to us in dublin we are going on in dublin",
+            "count": 1
+        }
+    ]
+}

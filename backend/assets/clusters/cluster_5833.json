@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:24",
+            "03:48"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the past is history the future is a mystery and today is a gift that is why they call it the present",
+            "count": 2
+        },
+        {
+            "phrase": "the past cannot be changed the future is yet in your power",
+            "count": 1
+        }
+    ]
+}

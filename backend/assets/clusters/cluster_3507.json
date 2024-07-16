@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "04:13",
+            "04:23",
+            "04:40",
+            "04:54"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a huge asset and it is the major corridor moving north and south through our community to see it widened out to its full length and turn lanes and traffic flowing is a great benefit",
+            "count": 1
+        },
+        {
+            "phrase": "the middle of the road policy leads to socialism",
+            "count": 1
+        },
+        {
+            "phrase": "think of how many lanes of bus-only pavement we could put in",
+            "count": 1
+        },
+        {
+            "phrase": "the transportation system here is terrible",
+            "count": 1
+        },
+        {
+            "phrase": "we saw the benefits of what a good transportation system can help do to build america",
+            "count": 1
+        }
+    ]
+}

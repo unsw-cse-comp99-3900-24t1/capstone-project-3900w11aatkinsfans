@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:37",
+            "01:52",
+            "02:06",
+            "02:51",
+            "04:00",
+            "04:08",
+            "04:19"
+        ],
+        "label": "spooked"
+    },
+    "clusterList": [
+        {
+            "phrase": "spooked by him just being in the store",
+            "count": 2
+        },
+        {
+            "phrase": "if you was trying to talk to some honey you would hope chris wouldn't walk in if he saw you you could just hang it up",
+            "count": 2
+        },
+        {
+            "phrase": "oh and 2 weeks ago he keyed my entire car come look",
+            "count": 2
+        },
+        {
+            "phrase": "he was on your car that whole time",
+            "count": 1
+        },
+        {
+            "phrase": "no he never he just came over and took it from me",
+            "count": 1
+        },
+        {
+            "phrase": "no i did not and i didn't even know where he lived thats why i hid in ginger's trunk",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "03:17"
+        ],
+        "label": "vancouver"
+    },
+    "clusterList": [
+        {
+            "phrase": "vancouver is turning into a money-talks town",
+            "count": 1
+        },
+        {
+            "phrase": "better the money sits in my bank account than the city's",
+            "count": 1
+        }
+    ]
+}

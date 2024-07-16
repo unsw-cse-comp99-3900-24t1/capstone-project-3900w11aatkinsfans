@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "03:50"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my mother had paid for the ticket home and we were looking forward to having her back",
+            "count": 1
+        },
+        {
+            "phrase": "my mum had paid for the ticket home and we were looking forward to having her back",
+            "count": 1
+        }
+    ]
+}

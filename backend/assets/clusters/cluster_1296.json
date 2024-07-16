@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            5,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:24",
+            "00:57",
+            "01:43",
+            "02:37",
+            "02:46"
+        ],
+        "label": "men"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah that means that right now you could safely date a 20 or a 40",
+            "count": 5
+        },
+        {
+            "phrase": "you must enter two different dating dna numbers to do a comparison please try again",
+            "count": 2
+        },
+        {
+            "phrase": "men on average drive about 50 percent further than women even when this is taken into account male drivers still have twice as much chance as women of dying in road accidents or being involved in accidents where someone else dies",
+            "count": 1
+        },
+        {
+            "phrase": "cougar a guide for older women dating younger men",
+            "count": 1
+        },
+        {
+            "phrase": "women according to calculations based on mortality risk are five years younger than men the same age so it's sensible not just fanciful for a woman to look for a younger guy",
+            "count": 1
+        },
+        {
+            "phrase": "society might think 29 is an old age to be single",
+            "count": 1
+        },
+        {
+            "phrase": "there is some indirect evidence that women have greater longevity after a marriage ends by becoming a widow or getting a divorce",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:57"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they say holiday cocktail party fancy work event they're too formal",
+            "count": 1
+        },
+        {
+            "phrase": "thinks it's cool to be shallow and dumb drink and party hard and don't give a damn about anything but their friday night plans",
+            "count": 1
+        }
+    ]
+}

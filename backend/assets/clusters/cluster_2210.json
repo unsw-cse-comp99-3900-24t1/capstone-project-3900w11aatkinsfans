@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "01:23",
+            "01:56",
+            "04:08",
+            "04:17",
+            "04:45"
+        ],
+        "label": "may"
+    },
+    "clusterList": [
+        {
+            "phrase": "have you noticed",
+            "count": 4
+        },
+        {
+            "phrase": "may be i wasn't supposed to notice",
+            "count": 1
+        },
+        {
+            "phrase": "i did not see that",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't notice but your right",
+            "count": 1
+        },
+        {
+            "phrase": "why did i never notice that",
+            "count": 1
+        }
+    ]
+}

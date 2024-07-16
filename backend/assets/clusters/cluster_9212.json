@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:19"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no cell reception where i am right now",
+            "count": 1
+        },
+        {
+            "phrase": "no ringing here either",
+            "count": 1
+        }
+    ]
+}

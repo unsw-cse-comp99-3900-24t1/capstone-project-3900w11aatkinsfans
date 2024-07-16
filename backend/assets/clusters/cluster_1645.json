@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:27",
+            "00:32",
+            "00:50",
+            "01:09",
+            "01:29",
+            "02:32",
+            "02:57"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have recommended him to others who are also impressed",
+            "count": 3
+        },
+        {
+            "phrase": "it was something at which he excelled and which in the long run he was virtually unable to stop",
+            "count": 2
+        },
+        {
+            "phrase": "for two or three of his researches he deserves the highest honor a scientific man can obtain but the sum of his work is absolutely overwhelming had he never lived the aspect of chemistry would be very different from that it is now",
+            "count": 2
+        },
+        {
+            "phrase": "his work ethic and eagerness to learn have been very impressive",
+            "count": 1
+        },
+        {
+            "phrase": "he brings a high level of experience",
+            "count": 1
+        },
+        {
+            "phrase": "he had always been vastly intelligent and vastly ambitions",
+            "count": 1
+        }
+    ]
+}

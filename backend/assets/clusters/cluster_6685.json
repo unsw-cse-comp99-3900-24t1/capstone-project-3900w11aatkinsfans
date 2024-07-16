@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:32"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're just upset because you can't put that on facebook",
+            "count": 1
+        },
+        {
+            "phrase": "you are not going to put that on facebook",
+            "count": 1
+        },
+        {
+            "phrase": "you can't get too upset at yourself for stuff like that",
+            "count": 1
+        }
+    ]
+}

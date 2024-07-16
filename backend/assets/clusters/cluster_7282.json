@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:33",
+            "02:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the combination of habitat destruction and climate change may be the nail in the coffin for the cactus ferruginous pygmy owl in the sonoran desert",
+            "count": 2
+        },
+        {
+            "phrase": "according to hillsborough county this forest is the last wildlife habitat in seffner florida",
+            "count": 1
+        }
+    ]
+}

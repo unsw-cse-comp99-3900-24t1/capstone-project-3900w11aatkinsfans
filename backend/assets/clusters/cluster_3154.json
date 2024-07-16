@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:14",
+            "02:19",
+            "03:34",
+            "04:04"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "when august arrives fans in big ten country start thinking about football big ten fans will love getting an inside look at how their teams are getting ready for the upcoming year",
+            "count": 2
+        },
+        {
+            "phrase": "our long island fans are among our most passionate fans and we want to do everything we can to preserve that passion and be good stewards of the team",
+            "count": 1
+        },
+        {
+            "phrase": "we want to maintain that tradition where fans can bring their kids and watch their team up close and personal",
+            "count": 1
+        },
+        {
+            "phrase": "this will be a wonderful opportunity for thousands of our fans who used to attend our games at the spectrum or watch them on tv to come back one last time and see the flyers in our old home",
+            "count": 1
+        },
+        {
+            "phrase": "this is a unique way to reach out to fans and present a vip experience in a place that is steeped in sports history",
+            "count": 1
+        }
+    ]
+}

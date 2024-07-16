@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "04:19"
+        ],
+        "label": "tips"
+    },
+    "clusterList": [
+        {
+            "phrase": "tips of the day",
+            "count": 1
+        },
+        {
+            "phrase": "tip of the day",
+            "count": 1
+        }
+    ]
+}

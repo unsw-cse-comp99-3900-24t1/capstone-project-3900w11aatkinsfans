@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "02:47",
+            "04:29",
+            "04:50",
+            "04:54",
+            "05:04"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "that would be a transportation nightmare running animals all over the county having the animals in one area is much easier for the public",
+            "count": 4
+        },
+        {
+            "phrase": "if we were there would be a lot more dead dogs around the county",
+            "count": 1
+        },
+        {
+            "phrase": "because of the number of motor vehicles that traverse both counties we probably would be subjected to increased numbers",
+            "count": 1
+        }
+    ]
+}

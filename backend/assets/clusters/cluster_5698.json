@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:39",
+            "02:43",
+            "04:18"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in japan art is very commercial",
+            "count": 1
+        },
+        {
+            "phrase": "throughout history artists have been dependent on dealers and galleries",
+            "count": 1
+        },
+        {
+            "phrase": "how rich art is",
+            "count": 1
+        }
+    ]
+}

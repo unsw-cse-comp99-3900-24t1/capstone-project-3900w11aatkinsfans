@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:31"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a bad dude",
+            "count": 1
+        },
+        {
+            "phrase": "look this is a bad guy",
+            "count": 1
+        }
+    ]
+}

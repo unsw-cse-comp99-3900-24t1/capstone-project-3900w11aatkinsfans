@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "02:29"
+        ],
+        "label": "war"
+    },
+    "clusterList": [
+        {
+            "phrase": "war will ship sooner than expected",
+            "count": 2
+        }
+    ]
+}

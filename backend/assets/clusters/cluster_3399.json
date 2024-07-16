@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:55",
+            "03:50",
+            "04:45"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she has to volunteer right",
+            "count": 4
+        },
+        {
+            "phrase": "she accepts she has to take responsibility for what was done by the group",
+            "count": 1
+        },
+        {
+            "phrase": "quite frankly she was not a decision-maker in this process it's not fair to say she because everybody was receiving pay for meetings at the time that they thought was appropriate",
+            "count": 1
+        }
+    ]
+}

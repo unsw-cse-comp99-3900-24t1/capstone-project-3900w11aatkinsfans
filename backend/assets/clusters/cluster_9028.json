@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "04:56"
+        ],
+        "label": "death"
+    },
+    "clusterList": [
+        {
+            "phrase": "death causes loneliness feeling of isolation",
+            "count": 1
+        },
+        {
+            "phrase": "live together die alone",
+            "count": 1
+        }
+    ]
+}

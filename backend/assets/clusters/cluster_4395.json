@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "01:06",
+            "01:23"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "conning the congo",
+            "count": 2
+        },
+        {
+            "phrase": "no congolese has no responsibility into what's going on in congo",
+            "count": 1
+        },
+        {
+            "phrase": "in congo you are ultimately free",
+            "count": 1
+        }
+    ]
+}

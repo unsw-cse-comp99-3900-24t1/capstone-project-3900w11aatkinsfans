@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "02:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last time that you got a lot of penguins was in 2000 mostly in rio but some further north that year the sea surface temperature was a degree lower than the 30 year average so the penguins just keep swimming in search of food without noticing where they're going",
+            "count": 1
+        },
+        {
+            "phrase": "we're seeing very dramatic changes from the retreat of the glaciers to the melting of the sea ice",
+            "count": 1
+        },
+        {
+            "phrase": "we had 23 less sea ice last year than we've ever had and what's happening to the ice shelves is part of that picture",
+            "count": 1
+        }
+    ]
+}

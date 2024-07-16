@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "02:33",
+            "04:38"
+        ],
+        "label": "steady"
+    },
+    "clusterList": [
+        {
+            "phrase": "steady as she goes",
+            "count": 1
+        },
+        {
+            "phrase": "slow and steady",
+            "count": 1
+        },
+        {
+            "phrase": "cool steady and easy",
+            "count": 1
+        }
+    ]
+}

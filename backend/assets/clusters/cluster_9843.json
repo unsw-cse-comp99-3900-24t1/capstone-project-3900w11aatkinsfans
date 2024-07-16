@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "03:05"
+        ],
+        "label": "booking"
+    },
+    "clusterList": [
+        {
+            "phrase": "booking weekly forecast grab the pepto-bismol we're going to have some fun",
+            "count": 1
+        },
+        {
+            "phrase": "i guess weekly forecast grab the pepto-bismol we're going to have some fun",
+            "count": 1
+        }
+    ]
+}

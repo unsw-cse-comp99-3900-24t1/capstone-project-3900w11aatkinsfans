@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "04:06"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why would you say you're going to cook somebody's kid",
+            "count": 1
+        },
+        {
+            "phrase": "hey dad how come when we eat inside mom does all the cooking and when we eat outside you do the cooking",
+            "count": 1
+        }
+    ]
+}

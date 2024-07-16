@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "01:46",
+            "02:44",
+            "03:02",
+            "03:18",
+            "04:33",
+            "04:38"
+        ],
+        "label": "restaurant"
+    },
+    "clusterList": [
+        {
+            "phrase": "restaurant no not really im kinda busy",
+            "count": 1
+        },
+        {
+            "phrase": "it's just extremely busy",
+            "count": 1
+        },
+        {
+            "phrase": "you know it is very busy in here tonight",
+            "count": 1
+        },
+        {
+            "phrase": "it's nothing that we're talking about right now we're pretty busy",
+            "count": 1
+        },
+        {
+            "phrase": "i'm a little busy right now",
+            "count": 1
+        },
+        {
+            "phrase": "ms wilson i am rather busy at the moment anything i can do for you",
+            "count": 1
+        },
+        {
+            "phrase": "we've been really busy",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i'm not doing anything else for awhile",
+            "count": 1
+        }
+    ]
+}

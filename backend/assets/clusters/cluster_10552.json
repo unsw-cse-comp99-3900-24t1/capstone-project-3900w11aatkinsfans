@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "04:37"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how often do you actually need to bench press something",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think i've had half as much press as i probably could or should have had",
+            "count": 1
+        }
+    ]
+}

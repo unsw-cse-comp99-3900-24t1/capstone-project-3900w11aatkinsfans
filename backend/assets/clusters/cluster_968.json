@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:04",
+            "01:07",
+            "01:13",
+            "01:15",
+            "01:33",
+            "01:50",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this will be the second or third fundraiser he'll attend it's pretty special gore's a nobel prize winner an academy award winner and almost president",
+            "count": 5
+        },
+        {
+            "phrase": "has confirmed that he is going to give a fundraiser for sen obama",
+            "count": 5
+        },
+        {
+            "phrase": "that's definitely been the rumour and it's been coming from their west and obama's camp i hear that it's his obama's birthday that weekend so he might be in town",
+            "count": 3
+        },
+        {
+            "phrase": "he's offering bush economic policies and karl rove politics",
+            "count": 1
+        },
+        {
+            "phrase": "he's the biggest celebrity in the world but is he ready to lead with gas prices souring barack obama says no to offshore drilling and says he'll raise taxes on electricity higher taxes more foreign oil that's the real obama",
+            "count": 1
+        }
+    ]
+}

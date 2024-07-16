@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:43",
+            "04:32"
+        ],
+        "label": "obviously"
+    },
+    "clusterList": [
+        {
+            "phrase": "haven't they suffered enough now",
+            "count": 2
+        },
+        {
+            "phrase": "obviously this situation has been an ordeal for them",
+            "count": 1
+        }
+    ]
+}

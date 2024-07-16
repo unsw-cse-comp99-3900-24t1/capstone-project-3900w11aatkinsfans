@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:09",
+            "00:14",
+            "00:19",
+            "00:32",
+            "01:13",
+            "01:29",
+            "01:40",
+            "01:47",
+            "02:05",
+            "02:24",
+            "02:26",
+            "02:28",
+            "02:41",
+            "02:52"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we must win in afghanistan there is no other option",
+            "count": 5
+        },
+        {
+            "phrase": "the battle will be won in afghanistan",
+            "count": 3
+        },
+        {
+            "phrase": "then we clearly are looking at afghanistan where results are mixed",
+            "count": 2
+        },
+        {
+            "phrase": "the challenges are certainly significant and we'd like to get additional troops there as soon as we could",
+            "count": 2
+        },
+        {
+            "phrase": "we need more troops more helicopters better intelligence-gathering and more nonmilitary assistance to accomplish the mission there",
+            "count": 2
+        },
+        {
+            "phrase": "the situation is getting worse here even worse than iraq if the us government sends more troops here the violence will increase for example when we see a group of us soldiers walking here it doesn't make us feel safe our afghan forces are capable enough to ensure the security of afghanistan the us government should focus on other needs of afghans not the military",
+            "count": 2
+        },
+        {
+            "phrase": "we clearly are looking at an afghanistan where results are mixed the challenges are certainly significant and we'd like to get additional troops there as soon as we could",
+            "count": 2
+        },
+        {
+            "phrase": "afghanistan is not the easiest country to make a return programme for either and i'm sure you remember the context in which the programme was created with a hunger strike a protest march and with powerful interest groups supporting the afghans our new return programme for northern iraq isn't experiencing any of these problems",
+            "count": 1
+        }
+    ]
+}

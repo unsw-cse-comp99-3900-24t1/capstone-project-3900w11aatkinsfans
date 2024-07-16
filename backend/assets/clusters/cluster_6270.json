@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:45",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the main goal was to get to know them better especially on the ice and we feel we reached that goal here",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't know the language i just watched and replicated what the other goalies did to the best of my ability i did a lot of smiling and nodding",
+            "count": 1
+        },
+        {
+            "phrase": "the first thing is that they all got through the game and that is very important considering the time some of them had been out of the game",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "02:10",
+            "03:11"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our real business is p e o p l e",
+            "count": 1
+        },
+        {
+            "phrase": "while we are here to garner business the employees have different things on their minds",
+            "count": 1
+        },
+        {
+            "phrase": "we manage our fiscal business relatively well with a structurally balanced budget",
+            "count": 1
+        }
+    ]
+}

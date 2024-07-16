@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "02:23",
+            "02:28"
+        ],
+        "label": "increased"
+    },
+    "clusterList": [
+        {
+            "phrase": "increased spell damage and healing",
+            "count": 1
+        },
+        {
+            "phrase": "increases your spell power by an amount equal to 30 of your stamina and increases the amount healed by your critical heals by 30",
+            "count": 1
+        },
+        {
+            "phrase": "reduces the mana cost of your consecration holy wrath and avenger's shield spells by 30",
+            "count": 1
+        },
+        {
+            "phrase": "increases the damage and reduces the mana cost of your holy shield avenger's shield and shield of righteousness spells by 15",
+            "count": 1
+        },
+        {
+            "phrase": "your judgement spells also reduce the melee attack speed of the target by 20",
+            "count": 1
+        }
+    ]
+}

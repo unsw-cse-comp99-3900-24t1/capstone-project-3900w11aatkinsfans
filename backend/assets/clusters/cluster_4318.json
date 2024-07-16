@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:42",
+            "00:51",
+            "00:52",
+            "04:41"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't really give it much thought actually i figure north battleford's got to have clean water bottled water just doesn't taste the same",
+            "count": 3
+        },
+        {
+            "phrase": "last year dartmouth college banned water pong because of the risk of water intoxication",
+            "count": 1
+        },
+        {
+            "phrase": "i know that water pong seems like a good balance between the dartmouth drinking culture and just trying to have fun",
+            "count": 1
+        }
+    ]
+}

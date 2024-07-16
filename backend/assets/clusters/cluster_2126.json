@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:51",
+            "01:30",
+            "02:02",
+            "02:40",
+            "03:22",
+            "03:27"
+        ],
+        "label": "online"
+    },
+    "clusterList": [
+        {
+            "phrase": "online social networks",
+            "count": 1
+        },
+        {
+            "phrase": "social networking tools",
+            "count": 1
+        },
+        {
+            "phrase": "social networking tool",
+            "count": 1
+        },
+        {
+            "phrase": "study of social network users vs age",
+            "count": 1
+        },
+        {
+            "phrase": "social networks what you like dislike want to know",
+            "count": 1
+        },
+        {
+            "phrase": "network with these people they share similar interests with you",
+            "count": 1
+        },
+        {
+            "phrase": "social network where millions of fans and artists discover new music videos and photos and share their tastes with friends",
+            "count": 1
+        },
+        {
+            "phrase": "aggregates curates and amplifies the global conversation online",
+            "count": 1
+        }
+    ]
+}

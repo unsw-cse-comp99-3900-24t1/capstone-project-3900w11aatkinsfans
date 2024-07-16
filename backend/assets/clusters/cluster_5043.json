@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:12",
+            "01:13",
+            "02:05"
+        ],
+        "label": "where"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i started last year it was like driving a semi truck in major traffic at 200 mph",
+            "count": 2
+        },
+        {
+            "phrase": "where i was in sydney i had an hour trip to and from work which basically took more than two hours out of your day",
+            "count": 1
+        },
+        {
+            "phrase": "how was your commute",
+            "count": 1
+        }
+    ]
+}

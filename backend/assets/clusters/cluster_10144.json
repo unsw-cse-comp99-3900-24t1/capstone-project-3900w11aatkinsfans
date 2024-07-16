@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "04:10"
+        ],
+        "label": "outfit"
+    },
+    "clusterList": [
+        {
+            "phrase": "outfit your family",
+            "count": 1
+        },
+        {
+            "phrase": "dress your family in corduroy",
+            "count": 1
+        }
+    ]
+}

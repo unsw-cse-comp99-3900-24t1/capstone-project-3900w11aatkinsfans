@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:23",
+            "01:29",
+            "01:50",
+            "02:08",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had kind of a cool may and a warmer april but nothing unusual",
+            "count": 1
+        },
+        {
+            "phrase": "four days affected by humidity",
+            "count": 1
+        },
+        {
+            "phrase": "it looks like there will mainly be showers through the day with some of them heavy this afternoon",
+            "count": 1
+        },
+        {
+            "phrase": "unusual for us in the summer months",
+            "count": 1
+        },
+        {
+            "phrase": "did your hair today huh isn't it a bit humid outside to expect your hair to stay pin straight",
+            "count": 1
+        },
+        {
+            "phrase": "we have dew points in the 70s which is very humid any time of year but something we usually don't see this late in the summer",
+            "count": 1
+        },
+        {
+            "phrase": "no fever but you do look flushed perhaps you ought to retire for the evening",
+            "count": 1
+        }
+    ]
+}

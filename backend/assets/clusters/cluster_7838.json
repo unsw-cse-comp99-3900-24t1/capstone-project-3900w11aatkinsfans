@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:04",
+            "02:06"
+        ],
+        "label": "encouraging"
+    },
+    "clusterList": [
+        {
+            "phrase": "encouraging civic responsibility and involvement",
+            "count": 1
+        },
+        {
+            "phrase": "standards of behavior",
+            "count": 1
+        }
+    ]
+}

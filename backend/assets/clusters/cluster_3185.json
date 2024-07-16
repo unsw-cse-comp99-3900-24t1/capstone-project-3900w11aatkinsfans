@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:34",
+            "01:56",
+            "02:04",
+            "03:44",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the purpose of the broadcast was aimed at heightening enthusiasm toward the beijing olympics by showing south korean viewers the magnificence of the opening ceremony there was no other intention",
+            "count": 4
+        },
+        {
+            "phrase": "as a symbol of china arriving among the great nations even though it had already arrived enabling the party to be the hero that brought the olympics to china",
+            "count": 1
+        },
+        {
+            "phrase": "is to use the latest people-tracking technology thoughtfully supplied by american giants like ibm honeywell and general electric to create an airtight consumer cocoon a place where visa cards adidas sneakers china mobile cellphones mcdonald's happy meals tsingtao beer and ups delivery to name just a few of the official sponsors of the beijing olympics can be enjoyed under the unblinking eye of the state without the threat of democracy breaking out",
+            "count": 1
+        }
+    ]
+}

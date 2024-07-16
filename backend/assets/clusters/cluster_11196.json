@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "03:48"
+        ],
+        "label": "flag"
+    },
+    "clusterList": [
+        {
+            "phrase": "flag of moderation",
+            "count": 1
+        },
+        {
+            "phrase": "all things in moderation",
+            "count": 1
+        }
+    ]
+}

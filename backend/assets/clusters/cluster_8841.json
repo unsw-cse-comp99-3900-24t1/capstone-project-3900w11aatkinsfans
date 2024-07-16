@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "04:06"
+        ],
+        "label": "push"
+    },
+    "clusterList": [
+        {
+            "phrase": "push the mixing bowl across the floor",
+            "count": 1
+        },
+        {
+            "phrase": "throw everything in a bowl",
+            "count": 1
+        }
+    ]
+}

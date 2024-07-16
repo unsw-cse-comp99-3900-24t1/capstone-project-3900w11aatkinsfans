@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:38",
+            "03:47",
+            "04:23",
+            "05:05"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how do i make my computers faster than normal",
+            "count": 2
+        },
+        {
+            "phrase": "get a more powerful pc",
+            "count": 2
+        }
+    ]
+}

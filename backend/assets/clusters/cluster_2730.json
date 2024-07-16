@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:20",
+            "00:23",
+            "00:33",
+            "01:25",
+            "03:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "these changes along with the cabinet reshuffle announced last week will mark a regeneration in government while maintaining a high level of experience and expertise across portfolios for the benefit of all south australians",
+            "count": 3
+        },
+        {
+            "phrase": "this is not a question for me but for the prime minister it is the prime minister who is shaping the government",
+            "count": 2
+        },
+        {
+            "phrase": "the candidate of small change",
+            "count": 1
+        },
+        {
+            "phrase": "what the people want is not just a change in the cabinet line-up i believe what most people want to see is a change in policies and in the administration including a change in the prime minister himself",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:51",
+            "03:24"
+        ],
+        "label": "today's"
+    },
+    "clusterList": [
+        {
+            "phrase": "today's movies have great technology but great movies are made from great scripts",
+            "count": 1
+        },
+        {
+            "phrase": "you can teach screenwriting and have a person become a successful screenwriter",
+            "count": 1
+        },
+        {
+            "phrase": "i chose film as a major for the sole reason that i would one day become a film prof if getting to that goal takes longer than expected i will use my free time to finding interpretation work but don't expect me to stick with it as i have been informed several times that there are little to no payment positions for asl interpreters",
+            "count": 1
+        },
+        {
+            "phrase": "film and video teachers",
+            "count": 1
+        }
+    ]
+}

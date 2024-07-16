@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "03:46",
+            "03:59",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the conductor of an orchestra doesn't make a sound he depends on his power to make other people powerful my job is to awaken possibility in other people if their eyes are shining you know you're doing it",
+            "count": 1
+        },
+        {
+            "phrase": "the job of a conductor is to listen to the orchestra and then convey what ideas one has but the physical job of a conductor i would say is 99 percent listening and one percent actually moving your arms",
+            "count": 1
+        },
+        {
+            "phrase": "i am the conductor",
+            "count": 1
+        },
+        {
+            "phrase": "a full-time composer who is also an improviser a conductor and a free-association scat singer",
+            "count": 1
+        }
+    ]
+}

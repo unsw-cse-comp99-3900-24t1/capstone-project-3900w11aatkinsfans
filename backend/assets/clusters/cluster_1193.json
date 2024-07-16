@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            7,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:33",
+            "02:15",
+            "02:27",
+            "02:41",
+            "03:55",
+            "04:40"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "cults and cosmic consciousness religious vision in the american 1960's",
+            "count": 9
+        },
+        {
+            "phrase": "new atheists cult",
+            "count": 1
+        },
+        {
+            "phrase": "those crazy cult of mary worshippers",
+            "count": 1
+        },
+        {
+            "phrase": "cult of the nazarenes",
+            "count": 1
+        },
+        {
+            "phrase": "what do you think of a certain religion",
+            "count": 1
+        }
+    ]
+}

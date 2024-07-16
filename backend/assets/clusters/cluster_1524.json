@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:40",
+            "01:47",
+            "01:51",
+            "02:32",
+            "02:39",
+            "03:00",
+            "03:06",
+            "03:09",
+            "03:55"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is very heroic surgery and the risks are very high",
+            "count": 3
+        },
+        {
+            "phrase": "i definitely believe in plastic surgery i don't want to be an old hag there's no fun in that",
+            "count": 3
+        },
+        {
+            "phrase": "i'm not really concerned with if i have it am i going to be 100 percent after the surgery",
+            "count": 2
+        },
+        {
+            "phrase": "breast surgery has become just another part of the beauty regime like applying make-up and it's unnecessary and unpleasant",
+            "count": 1
+        },
+        {
+            "phrase": "i haven't gone in for plastic surgery yet my face looks tanned and taut because i have been swimming under the sun at otters club every day i have also lost a lot of weight but i want to do plastic surgery i hope to get it done next year",
+            "count": 1
+        },
+        {
+            "phrase": "i would like to go for a collagen or boot injection or facial surgery but i am scared of anesthesia i have heard so many people who have done it and look so good it's an advantage to do plastic surgery maybe i should ask koena what to do",
+            "count": 1
+        }
+    ]
+}

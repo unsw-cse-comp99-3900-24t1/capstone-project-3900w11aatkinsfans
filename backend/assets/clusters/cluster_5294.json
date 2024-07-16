@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:27",
+            "03:34",
+            "04:08"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we outsource for the summer and winter swim programs",
+            "count": 1
+        },
+        {
+            "phrase": "i wasn't sure what i was going to do with my swimming career after this year",
+            "count": 1
+        },
+        {
+            "phrase": "summer swimming lessons",
+            "count": 1
+        },
+        {
+            "phrase": "the summer is usually the peak time with the increase in water activities",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:25",
+            "01:50",
+            "02:01",
+            "03:18"
+        ],
+        "label": "go"
+    },
+    "clusterList": [
+        {
+            "phrase": "go fuck yourself",
+            "count": 1
+        },
+        {
+            "phrase": "piss off retard",
+            "count": 1
+        },
+        {
+            "phrase": "fuck off don't remove this tag",
+            "count": 1
+        },
+        {
+            "phrase": "ignore this comment",
+            "count": 1
+        },
+        {
+            "phrase": "oh please get off",
+            "count": 1
+        }
+    ]
+}

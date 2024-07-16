@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "04:05",
+            "04:37"
+        ],
+        "label": "coach"
+    },
+    "clusterList": [
+        {
+            "phrase": "coach took the day off and helped me make the 12-hour drive down after staying in the hotel overnight we met them this morning and visited the school",
+            "count": 1
+        },
+        {
+            "phrase": "at oh-dark-30 and try to get breakfast and showered and get their prosthetics on",
+            "count": 1
+        },
+        {
+            "phrase": "just took a shower and i figured i'd call and check in say hi since i got a chance to see mom and dad this morning",
+            "count": 1
+        }
+    ]
+}

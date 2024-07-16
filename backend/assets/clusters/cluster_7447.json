@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "03:54"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you want to drink at a comfortable pace where you don't get sick from drinking and you stay hydrated",
+            "count": 1
+        },
+        {
+            "phrase": "your body's pretty good at telling you when it needs extra water and when it doesn't listen to your thirst",
+            "count": 1
+        },
+        {
+            "phrase": "there's an osmoreceptor in your brain that lets you know when there's a slight increase of chemicals that means there's less water more chemicals which triggers the thirst mechanism that causes you to seek drink",
+            "count": 1
+        }
+    ]
+}

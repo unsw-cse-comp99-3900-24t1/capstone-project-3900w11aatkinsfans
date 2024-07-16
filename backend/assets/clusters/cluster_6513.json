@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "04:13"
+        ],
+        "label": "using"
+    },
+    "clusterList": [
+        {
+            "phrase": "using novel techniques we have identified a key membrane protein that's essential to the defense that m tuberculosis mounts against the acidic environment of immune cells called macrophages without this protein called rv3671c the bacterium becomes vulnerable to acidification and is killed",
+            "count": 1
+        },
+        {
+            "phrase": "m tuberculosis does not depend on rv3671c under standard growth conditions in the test tube so it has been overlooked as a candidate drug target",
+            "count": 1
+        },
+        {
+            "phrase": "considerable resources have been devoted to improving the stability of the rpa 102 vaccine analytical testing and non-clinical data indicate the changes made to the formulation of rpa 102 has significantly improved the stability of this vaccine candidate we are confident that the formulation changes have addressed previous concerns regarding the stability of the product we believe that the current formulation will meet the u s government's stability requirements for an rpa vaccine",
+            "count": 1
+        }
+    ]
+}

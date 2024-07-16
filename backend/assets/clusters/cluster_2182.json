@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "01:23",
+            "04:52",
+            "05:01"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "roasted whole-wheat seitan with chinese broccoli japanese pumpkins and roasted almond",
+            "count": 2
+        },
+        {
+            "phrase": "nori-wrapped bean curd with baby bok choy and broccoli",
+            "count": 2
+        },
+        {
+            "phrase": "kellogs cereal kil'joy british royal corn'flake section front",
+            "count": 2
+        },
+        {
+            "phrase": "a peck of pickled peppers",
+            "count": 1
+        },
+        {
+            "phrase": "daddy's special beans",
+            "count": 1
+        }
+    ]
+}

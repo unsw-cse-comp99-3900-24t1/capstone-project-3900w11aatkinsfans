@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "00:36",
+            "00:46",
+            "00:50"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're probably going to be making some moves to do some iphone development",
+            "count": 2
+        },
+        {
+            "phrase": "we have two different projects that are at least vaguely in the works for the iphone",
+            "count": 2
+        },
+        {
+            "phrase": "we have two different projects that are at least vaguely in the works on the iphone",
+            "count": 1
+        },
+        {
+            "phrase": "we're planning on using android",
+            "count": 1
+        },
+        {
+            "phrase": "i'm confident that we are in a better position with mobile devices to compete and succeed",
+            "count": 1
+        }
+    ]
+}

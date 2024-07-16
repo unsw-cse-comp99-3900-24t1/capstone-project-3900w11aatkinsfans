@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "02:51",
+            "03:42"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it says with a smiley face",
+            "count": 1
+        },
+        {
+            "phrase": "best of smiley",
+            "count": 1
+        },
+        {
+            "phrase": "it's so awesome it gets three smileys in a row how awesome is that lol hehe",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "02:34",
+            "03:55"
+        ],
+        "label": "thou"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am in love with harry potter",
+            "count": 2
+        },
+        {
+            "phrase": "thou must love harry and only harry",
+            "count": 1
+        },
+        {
+            "phrase": "thou cannot love harry b c thou loveth edward",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:47",
+            "00:56",
+            "01:05",
+            "02:05",
+            "04:33"
+        ],
+        "label": "every"
+    },
+    "clusterList": [
+        {
+            "phrase": "all of the heaven's eyes are on you and your partner",
+            "count": 2
+        },
+        {
+            "phrase": "we shall find peace we shall hear angels we shall see the sky sparkling with diamonds",
+            "count": 2
+        },
+        {
+            "phrase": "and he will be a wild man his hand will be against every man and every man's hand against him and he shall dwell in the presence of all his brethren",
+            "count": 2
+        },
+        {
+            "phrase": "every valley shall be filled in every mountain and hill shall be made low the rugged land shall be made a plain the rough country a broad valley then the glory of the lord shall be revealed and all mankind shall see it together for the mouth of the lord has spoken",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:52",
+            "02:25"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and to those who are hesitant to support obama right now we urge you to keep giving him the chance to earn your vote we are confident he will",
+            "count": 1
+        },
+        {
+            "phrase": "i am announcing that i will be a candidate for president of the united states",
+            "count": 1
+        },
+        {
+            "phrase": "to make way for my husband to contest as a candidate for the people's alliance in a by-election as soon as possible",
+            "count": 1
+        }
+    ]
+}

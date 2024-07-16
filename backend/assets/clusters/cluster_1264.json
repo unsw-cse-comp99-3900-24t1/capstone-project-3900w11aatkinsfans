@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:32",
+            "01:09",
+            "01:51",
+            "02:14",
+            "02:59",
+            "03:18",
+            "03:55",
+            "04:05",
+            "04:32",
+            "04:42",
+            "04:46"
+        ],
+        "label": "after"
+    },
+    "clusterList": [
+        {
+            "phrase": "after taking a few different exams and mris this morning the doctors found two small tears in the tendons of my shoulder",
+            "count": 3
+        },
+        {
+            "phrase": "if you just look at the mri the writing's on the wall",
+            "count": 2
+        },
+        {
+            "phrase": "from an mri standpoint it doesn't look good",
+            "count": 2
+        },
+        {
+            "phrase": "after taking a few different exams and mri's the doctors found two small tears in the tendons of my shoulder",
+            "count": 1
+        },
+        {
+            "phrase": "still when i do everyday stuff it doesn't really bother me the mri says one thing but i don't feel totally horrible as far as my arm goes",
+            "count": 1
+        },
+        {
+            "phrase": "the pain is normal on these sensitive areas",
+            "count": 1
+        },
+        {
+            "phrase": "what do you know about my right arm",
+            "count": 1
+        },
+        {
+            "phrase": "now obviously i'm a little bit scared because mri shows nothing but i still have pain they say it's going go away but it's there for already 10 days so i'm going to try and see the doctor now and try to get it out",
+            "count": 1
+        },
+        {
+            "phrase": "to prevent anything we are going to check it with an mri and hope it'll be fine and just a little bit sore",
+            "count": 1
+        }
+    ]
+}

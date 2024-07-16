@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:32"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all the passengers had to spend the night on the planes or in the departure hall",
+            "count": 1
+        },
+        {
+            "phrase": "we wanted to work through the day and leave for the airport and get on a flight later on that evening but not too late because we have four kids",
+            "count": 1
+        }
+    ]
+}

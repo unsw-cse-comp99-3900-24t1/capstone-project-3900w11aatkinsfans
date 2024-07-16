@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            2
+        ],
+        "xLabels": [
+            "00:42",
+            "01:52"
+        ],
+        "label": "demonstrate"
+    },
+    "clusterList": [
+        {
+            "phrase": "demonstrate the importance of equal access to health care to call residents of california including those covered by medi-cal as well as the many and increasing number of uninsured california residents whose access problems are presumably even greater than those of medi-cal participants",
+            "count": 1
+        },
+        {
+            "phrase": "this is a terrible blow to medi-cal providers across the state",
+            "count": 1
+        },
+        {
+            "phrase": "this is the fourth court in five years to find that the state of california has put at risk the access to health care for millions of californians by underfunding the medi-cal program",
+            "count": 1
+        },
+        {
+            "phrase": "we are hopeful that should the courts be unable for technical procedural reasons to grant some relief to millions of californians who rely on medi-cal for their health care needs the governor and legislature will act to do so",
+            "count": 1
+        },
+        {
+            "phrase": "the court's ruling is hurtful as more adult day health care centers close due to the state's cut to medi-cal reimbursements medi cal participants will end up in nursing homes emergency rooms or worse die",
+            "count": 1
+        },
+        {
+            "phrase": "this year we did something different call a little too close to patients relying on guam medical referral office",
+            "count": 1
+        },
+        {
+            "phrase": "more than 100 california physicians bought it thinking it was suitable and received reprimands from the board",
+            "count": 1
+        }
+    ]
+}

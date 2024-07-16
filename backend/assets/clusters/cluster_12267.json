@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:51"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we believe that the fda erred in not finding the source of this outbreak and we believe that the fda erred in not promptly releasing tomatoes from florida given the fact that the test done on florida tomatoes showed no sign of salmonella",
+            "count": 1
+        },
+        {
+            "phrase": "for example can eating peanut butter that is contaminated with the bacteria listed above cause illness but why bother having a trial on issues of such abstract generality",
+            "count": 1
+        }
+    ]
+}

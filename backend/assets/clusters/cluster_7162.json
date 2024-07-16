@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:02",
+            "03:46",
+            "04:12"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "your family unit may not always be blood related",
+            "count": 2
+        },
+        {
+            "phrase": "but he is not a blood relative",
+            "count": 1
+        }
+    ]
+}

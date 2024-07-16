@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "yep gettin their home team into the nba",
+            "count": 3
+        },
+        {
+            "phrase": "so they're into their basketball",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:50",
+            "01:52"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey pam how would you use the word wonderness in a sentence",
+            "count": 2
+        },
+        {
+            "phrase": "yeah you could become famous for coining the word wonderness",
+            "count": 2
+        }
+    ]
+}

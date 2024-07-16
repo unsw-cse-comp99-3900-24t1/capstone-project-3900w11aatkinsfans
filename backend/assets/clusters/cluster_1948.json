@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:19",
+            "00:41",
+            "00:51",
+            "00:56",
+            "01:20",
+            "01:56",
+            "02:34",
+            "03:12"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "look at this",
+            "count": 2
+        },
+        {
+            "phrase": "hey look at this photo",
+            "count": 1
+        },
+        {
+            "phrase": "oh hey look at that you did",
+            "count": 1
+        },
+        {
+            "phrase": "hey look over here instead",
+            "count": 1
+        },
+        {
+            "phrase": "hey that was funny",
+            "count": 1
+        },
+        {
+            "phrase": "look at that shit",
+            "count": 1
+        },
+        {
+            "phrase": "wow look at that one",
+            "count": 1
+        },
+        {
+            "phrase": "hey look at that",
+            "count": 1
+        }
+    ]
+}

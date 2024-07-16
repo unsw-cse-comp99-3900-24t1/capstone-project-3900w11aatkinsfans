@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:05",
+            "02:24"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why can't you people just leave me alone",
+            "count": 1
+        },
+        {
+            "phrase": "darn it people aren't supposed to move away from me",
+            "count": 1
+        },
+        {
+            "phrase": "not everyone is trying to steal me away from you stacie galaxies why do you have to be such a princess some people are just friendly y'know",
+            "count": 1
+        }
+    ]
+}

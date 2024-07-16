@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:48",
+            "04:28"
+        ],
+        "label": "scouring"
+    },
+    "clusterList": [
+        {
+            "phrase": "scouring the hospital and morgues for me",
+            "count": 1
+        },
+        {
+            "phrase": "death on the stairs",
+            "count": 1
+        },
+        {
+            "phrase": "it's gruesome morgue in the basement-completely flooded imagine the scene patients die they put them in the stairwells one of the most unbelievable situations i've seen as a doctor",
+            "count": 1
+        }
+    ]
+}

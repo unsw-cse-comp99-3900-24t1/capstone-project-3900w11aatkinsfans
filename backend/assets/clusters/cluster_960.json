@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:53",
+            "00:56",
+            "01:04",
+            "01:06",
+            "02:55",
+            "04:05",
+            "04:13",
+            "04:18",
+            "04:24",
+            "04:27",
+            "05:05"
+        ],
+        "label": "cautious"
+    },
+    "clusterList": [
+        {
+            "phrase": "cautious patriotic change",
+            "count": 5
+        },
+        {
+            "phrase": "the end of america letter of warning to a young patriot",
+            "count": 4
+        },
+        {
+            "phrase": "i think a lot of things are often blurred with patriotism",
+            "count": 2
+        },
+        {
+            "phrase": "when fascism comes to america it will be wrapped in the flag and carrying the cross",
+            "count": 2
+        },
+        {
+            "phrase": "not patriotic enough",
+            "count": 1
+        },
+        {
+            "phrase": "the difference between patriotism and nationalism",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "03:38",
+            "04:15"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not about just selling records for me anymore cause i've done that it's about making something that people will remember",
+            "count": 1
+        },
+        {
+            "phrase": "i've always had a compulsion for recording music ever since i first learned how to hold down the record and play buttons on a cassette deck",
+            "count": 1
+        },
+        {
+            "phrase": "there's no time like the present to speak out on issues and use the most popular form of musical entertainment to motivate and inform",
+            "count": 1
+        }
+    ]
+}

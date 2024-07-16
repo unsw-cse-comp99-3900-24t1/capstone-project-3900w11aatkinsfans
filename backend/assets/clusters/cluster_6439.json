@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:10",
+            "04:33"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah what'd the little bastard do now",
+            "count": 1
+        },
+        {
+            "phrase": "good heavens what did they do to him",
+            "count": 1
+        },
+        {
+            "phrase": "he had a little nest egg",
+            "count": 1
+        }
+    ]
+}

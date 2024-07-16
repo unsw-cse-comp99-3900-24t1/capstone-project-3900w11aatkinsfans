@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:32",
+            "03:14"
+        ],
+        "label": "ministers"
+    },
+    "clusterList": [
+        {
+            "phrase": "belonging to gedalyahu overseer of the palace",
+            "count": 2
+        },
+        {
+            "phrase": "ministers of the people",
+            "count": 1
+        }
+    ]
+}

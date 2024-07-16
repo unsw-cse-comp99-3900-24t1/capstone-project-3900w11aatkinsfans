@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:52"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in oakland we only had a handful of plays and just disguised them up to look different",
+            "count": 1
+        },
+        {
+            "phrase": "in oakland we only had handful of plays and just disguised them up to look different here we're actually running different plays",
+            "count": 1
+        }
+    ]
+}

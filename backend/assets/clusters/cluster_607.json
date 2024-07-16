@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            7,
+            7,
+            7
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "who's the jive turkey now",
+            "count": 9
+        },
+        {
+            "phrase": "i'm pretty sure that you called me a jive turkey",
+            "count": 6
+        },
+        {
+            "phrase": "jive turkey is a little over the line my man",
+            "count": 6
+        }
+    ]
+}

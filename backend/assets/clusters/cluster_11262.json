@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the bill extends and expands a 15-billion-dollar foreign aid programme that was first proposed by bush and implemented in 2003",
+            "count": 1
+        },
+        {
+            "phrase": "i upped halliburton's income so up yours",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:13",
+            "02:26"
+        ],
+        "label": "unless"
+    },
+    "clusterList": [
+        {
+            "phrase": "unless chevron is out of there the united states doesn't have the moral authority to tell other countries to get out",
+            "count": 2
+        },
+        {
+            "phrase": "these people deserve their day in court without interference from chevron",
+            "count": 1
+        },
+        {
+            "phrase": "chevron must respect the rule of law",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            3,
+            4,
+            6,
+            3,
+            3,
+            3,
+            3,
+            3,
+            5,
+            3,
+            5
+        ],
+        "xLabels": [
+            "00:24",
+            "01:07",
+            "01:57",
+            "02:09",
+            "02:14",
+            "02:23",
+            "02:24",
+            "02:28",
+            "03:05",
+            "03:06",
+            "03:31",
+            "03:32",
+            "04:29"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they wanted to sell the bank to a venezuelan banker and as head of state i'm saying no sell it to the government to the state",
+            "count": 11
+        },
+        {
+            "phrase": "we're going to nationalize bank of venezuela i'm calling on grupo santander to come and start negotiating",
+            "count": 10
+        },
+        {
+            "phrase": "we're going to recuperate bank of venezuela we're very much in need of a bank of that magnitude",
+            "count": 10
+        },
+        {
+            "phrase": "we are going to take back the bank of venezuela to put it at the service of the venezuelans",
+            "count": 3
+        },
+        {
+            "phrase": "at the service of venezuela",
+            "count": 2
+        },
+        {
+            "phrase": "to put it at the service of venezuela",
+            "count": 2
+        },
+        {
+            "phrase": "i sent a message to the spaniards no and to the venezuelan banker no",
+            "count": 2
+        },
+        {
+            "phrase": "now the government wants to buy the bank wants to recover it because it's called the bank of venezuela to put it at the service of venezuela",
+            "count": 2
+        },
+        {
+            "phrase": "so now i am telling them i am interested in buying we are going to nationalize the banco de venezuela",
+            "count": 2
+        }
+    ]
+}

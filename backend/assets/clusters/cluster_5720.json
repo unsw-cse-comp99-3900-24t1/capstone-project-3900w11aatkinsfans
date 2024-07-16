@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:28",
+            "02:24"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are the opposite university students",
+            "count": 2
+        },
+        {
+            "phrase": "and this is why you are studying with me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:15"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he just said he was going to winnipeg going home that's where he was from",
+            "count": 1
+        },
+        {
+            "phrase": "if he goes to winnipeg which is where he's going he'll get 30 hours a week",
+            "count": 1
+        }
+    ]
+}

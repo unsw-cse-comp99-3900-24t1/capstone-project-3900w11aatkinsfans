@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:36",
+            "01:47",
+            "04:18"
+        ],
+        "label": "telstra"
+    },
+    "clusterList": [
+        {
+            "phrase": "telstra like a number of other major australian companies is affected by changes to superannuation laws made by the previous government we must of course comply with the law",
+            "count": 3
+        },
+        {
+            "phrase": "the study also argues that the government should urge its fellow member states to remove a range of outdated exemptions under the common eu vat rules notably in respect of financial services given this freedom one potentially attractive though as yet untried reform would be to treat all cash inflows into financial services companies as vat-able sales by them and all outflows as purchases while zero-rating transactions with registered businesses",
+            "count": 1
+        }
+    ]
+}

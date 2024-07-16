@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:38",
+            "03:43"
+        ],
+        "label": "tell"
+    },
+    "clusterList": [
+        {
+            "phrase": "tell your mexican friends to get out of town or you'll be laying next to him",
+            "count": 4
+        },
+        {
+            "phrase": "get out of here mexican whatever go back to where you came from",
+            "count": 2
+        },
+        {
+            "phrase": "get over the whole mexico thing",
+            "count": 1
+        },
+        {
+            "phrase": "get your mexican boyfriend out of here",
+            "count": 1
+        },
+        {
+            "phrase": "they yelled you effin bitch tell your effin mexican friends get the eff out of shenandoah or you're gonna be laying effin next to him",
+            "count": 1
+        }
+    ]
+}

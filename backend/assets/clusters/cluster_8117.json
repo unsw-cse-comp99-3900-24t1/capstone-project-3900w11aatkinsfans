@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:48"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the extension of the san andreas does not appear to be active it is probably a very old part of the fault and helps to explain the larger more complex transition area between the imperial fault and san andreas fault called the brawley seismic zone",
+            "count": 1
+        },
+        {
+            "phrase": "there are a lot of small seismic zones that really don't belong to the big systems like the whittier fault they sort of form a halo around them",
+            "count": 1
+        }
+    ]
+}

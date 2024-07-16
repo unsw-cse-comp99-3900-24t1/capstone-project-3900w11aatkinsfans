@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "02:00"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this horse has been thrown into the deep end rather quickly as the result of his success he seems to be doing good and he ran so well last time that we figured we'd take a shot here",
+            "count": 1
+        },
+        {
+            "phrase": "but we're confident that our horse is doing very well and he's going to go over there and give us his very best",
+            "count": 1
+        }
+    ]
+}

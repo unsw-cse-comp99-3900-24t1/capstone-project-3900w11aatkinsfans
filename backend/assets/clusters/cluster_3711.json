@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "04:22",
+            "04:50",
+            "05:04"
+        ],
+        "label": "licensee"
+    },
+    "clusterList": [
+        {
+            "phrase": "you have included a header file which contains private interfaces of sun microsystems inc or technology it has licensed",
+            "count": 2
+        },
+        {
+            "phrase": "licensee is not authorized to modify make derivative works of disclose distribute reverse engineer or disassemble the technology decompile binary portions of the technology or otherwise attempt to derive source code from such portions or transfer the technology to any third party or use it in development activities",
+            "count": 1
+        },
+        {
+            "phrase": "licensee shall have no right to use the technology for commercial uses or in a production environment",
+            "count": 1
+        },
+        {
+            "phrase": "we created an extensive licensing program working diligently for a year on these products",
+            "count": 1
+        }
+    ]
+}

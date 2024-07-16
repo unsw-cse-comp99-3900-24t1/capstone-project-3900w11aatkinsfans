@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "03:42",
+            "04:23",
+            "04:41",
+            "05:05"
+        ],
+        "label": "macintosh"
+    },
+    "clusterList": [
+        {
+            "phrase": "macintosh users migrate to more recent web browsing technologies such as apple's safari",
+            "count": 6
+        },
+        {
+            "phrase": "new companies should ignore early adopters",
+            "count": 1
+        },
+        {
+            "phrase": "the needs of early adopters and those of the majority of your potential user base differ significantly",
+            "count": 1
+        },
+        {
+            "phrase": "ignore early adopters",
+            "count": 1
+        },
+        {
+            "phrase": "especially because they haven't gotten a mac client out yet",
+            "count": 1
+        },
+        {
+            "phrase": "early adopters are mac users",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:07",
+            "00:09",
+            "00:19",
+            "00:23",
+            "00:25",
+            "01:18",
+            "01:19",
+            "01:47",
+            "02:05",
+            "02:18",
+            "02:28",
+            "02:29",
+            "03:27",
+            "03:56",
+            "04:02",
+            "04:19",
+            "04:35",
+            "04:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the greens are fast the pin placements are great the rough is challenging but fair and it lets you hit some recovery shots this year firestone is one of my favorite golf courses that we have on tour",
+            "count": 18
+        },
+        {
+            "phrase": "the greens are fast the pin placements are great the rough is challenging but fair and it lets you hit some recovery shots this year firestone is one of my favourite golf courses that we have on tour",
+            "count": 1
+        },
+        {
+            "phrase": "this year firestone is one of my favorite golf courses that we have on tour he said after a 68 that included a circus-like birdie-3 from out of the deep rough and trees on the closing hole",
+            "count": 1
+        },
+        {
+            "phrase": "our experience in outfitting tour players for the pga championship is that it presents some of the most challenging conditions our athletes face all year it's peak summer weather with a grueling combination of heat and humidity",
+            "count": 1
+        },
+        {
+            "phrase": "this golf course is like playing in the states but at the same time there's so many different shots you can play from everywhere",
+            "count": 1
+        },
+        {
+            "phrase": "we're excited to offer this unique opportunity for one golfer to visit myrtle beach and appear on an episode of road trip myrtle beach to be filmed this fall",
+            "count": 1
+        },
+        {
+            "phrase": "when we started road trip myrtle beach in february our goal was to reach out to golfers around the world and show what a golf vacation is like here by presenting the destination through the eyes of an entertaining cast in a fun and insightful way by the comments we've received from people all over the country about how much they've enjoyed the show and learned more about what the myrtle beach area has to offer we've accomplished this goal",
+            "count": 1
+        },
+        {
+            "phrase": "we've hosted national acts and packed the island showroom in the past but introducing the beautiful golf course promises to make 2008 a season to remember",
+            "count": 1
+        }
+    ]
+}

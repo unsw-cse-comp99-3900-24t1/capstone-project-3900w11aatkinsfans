@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:09",
+            "03:18",
+            "04:00",
+            "04:33",
+            "04:43"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm comfortable on the right side",
+            "count": 2
+        },
+        {
+            "phrase": "listen please find somewhere else to sit i like to sit alone",
+            "count": 2
+        },
+        {
+            "phrase": "do you want to sit down",
+            "count": 1
+        },
+        {
+            "phrase": "where are the seats",
+            "count": 1
+        }
+    ]
+}

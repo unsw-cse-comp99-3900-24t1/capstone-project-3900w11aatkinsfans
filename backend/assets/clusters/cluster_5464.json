@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:20",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the etriad program offers free counseling for individuals couples and families for ever ything from anger management and substance abuse to reorientation to civilian life",
+            "count": 1
+        },
+        {
+            "phrase": "our partnership with cca helps strengthen the spiritual bridge that supports many inmates from the time of their incarceration to their return home and beyond",
+            "count": 1
+        },
+        {
+            "phrase": "the volunteerism of selfless individuals like the chauvins is a testament to cca's strong partnerships with faith-based organizations",
+            "count": 1
+        },
+        {
+            "phrase": "child evangelism fellowship like the more than six faith-based partners with which we've developed strong relationships believes in the power of inmates to change for the better this belief jibes with the daily work of cca's program professionals the addictions treatment managers and counselors educators and instructors and others who change lives one inmate and one day at a time",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "04:18",
+            "04:41",
+            "04:46"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in september 1991 nebraska's governor asked other governors interested in creating a group devoted to the promotion and increased use of ethanol to join him in lincoln nebraska from that meeting the governors ethanol coalition emerged",
+            "count": 1
+        },
+        {
+            "phrase": "a group of u s agribusiness companies including archer daniels midland co are uniting in the intensifying food-versus-fuel debate forming an alliance to promote the idea that technology can ease global supply shortages",
+            "count": 1
+        },
+        {
+            "phrase": "the alliance for abundant food and energy which includes seed makers monsanto co",
+            "count": 1
+        },
+        {
+            "phrase": "there are critics who are trying to create an either-or decision between food and fuel said mark kornblau the alliance's executive director",
+            "count": 1
+        },
+        {
+            "phrase": "industrial agrofuels are an economic social and environmental nonsense their development should be halted and agricultural production should focus on food as a priority",
+            "count": 1
+        }
+    ]
+}

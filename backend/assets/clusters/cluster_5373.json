@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "03:53",
+            "04:04",
+            "04:33"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's something really exciting about getting to live your dream and continue your education at the same time",
+            "count": 1
+        },
+        {
+            "phrase": "it was always my dream to go to the u s and study opera and many here have helped my dreams come true",
+            "count": 1
+        },
+        {
+            "phrase": "places i dream to visit one day",
+            "count": 1
+        },
+        {
+            "phrase": "thanks for sharing our dreams",
+            "count": 1
+        }
+    ]
+}

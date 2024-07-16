@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:53",
+            "01:06",
+            "01:32",
+            "02:14",
+            "02:32",
+            "03:00",
+            "03:35",
+            "03:51",
+            "04:09",
+            "04:45",
+            "04:56"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is not a complex case it should be one that moves quickly",
+            "count": 8
+        },
+        {
+            "phrase": "this is not a complex case and it should move quickly",
+            "count": 4
+        }
+    ]
+}

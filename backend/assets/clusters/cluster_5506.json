@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:06",
+            "04:28",
+            "04:55"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey i wonder what they will have to eat today",
+            "count": 1
+        },
+        {
+            "phrase": "you like chinese food",
+            "count": 1
+        },
+        {
+            "phrase": "those exotic chinese they'll eat anything",
+            "count": 1
+        },
+        {
+            "phrase": "they'll eat heavily then drink a lot of water to easily chuck up the grain",
+            "count": 1
+        }
+    ]
+}

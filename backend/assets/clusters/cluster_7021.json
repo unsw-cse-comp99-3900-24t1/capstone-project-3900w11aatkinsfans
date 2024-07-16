@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:27",
+            "04:13",
+            "04:36"
+        ],
+        "label": "rhythm"
+    },
+    "clusterList": [
+        {
+            "phrase": "rhythm of the sea",
+            "count": 1
+        },
+        {
+            "phrase": "the rhythm of nature",
+            "count": 1
+        },
+        {
+            "phrase": "the rhythm of life",
+            "count": 1
+        }
+    ]
+}

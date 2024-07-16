@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "00:53",
+            "01:22",
+            "03:02",
+            "03:06",
+            "04:19",
+            "04:28"
+        ],
+        "label": "serial"
+    },
+    "clusterList": [
+        {
+            "phrase": "grand theft auto",
+            "count": 4
+        },
+        {
+            "phrase": "grand theft auto iv",
+            "count": 3
+        },
+        {
+            "phrase": "serial gt burglary",
+            "count": 2
+        },
+        {
+            "phrase": "grand theft auto 4",
+            "count": 1
+        },
+        {
+            "phrase": "wired com have you seen grand theft auto on ds have you actually looked at the product seen nit running",
+            "count": 1
+        },
+        {
+            "phrase": "aren't you excited about grand theft auto on ds",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "04:04",
+            "04:28",
+            "04:31"
+        ],
+        "label": "finger"
+    },
+    "clusterList": [
+        {
+            "phrase": "finger switched again",
+            "count": 1
+        },
+        {
+            "phrase": "the upturned middle finger",
+            "count": 1
+        },
+        {
+            "phrase": "lawful under the constitution to give the middle finger",
+            "count": 1
+        },
+        {
+            "phrase": "two smashed-up fingers",
+            "count": 1
+        }
+    ]
+}

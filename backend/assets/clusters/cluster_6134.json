@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:32",
+            "01:08"
+        ],
+        "label": "patients"
+    },
+    "clusterList": [
+        {
+            "phrase": "patients need to be aware that the chances are remote that the stem cells from their baby's banked cord blood will be used to treat that same child-or another family member-in the future",
+            "count": 1
+        },
+        {
+            "phrase": "the hope of some scientists is that they might be able to harness stem cells and program them to generate pluripotent stem cell lines capable of differentiating into many different types of cells which have the genes of patients",
+            "count": 1
+        },
+        {
+            "phrase": "stem cell therapy is the most exciting new breakthrough in medicine it gives me great peace of mind to know that my own stem cells will be banked as bio-insurance for me now i am prepared for my future as the beneficiary of medical benefits while i am alive",
+            "count": 1
+        }
+    ]
+}

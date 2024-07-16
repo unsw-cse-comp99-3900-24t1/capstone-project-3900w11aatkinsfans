@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "02:05",
+            "03:22"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "everyone thinks i'm a space case",
+            "count": 2
+        },
+        {
+            "phrase": "i figured out like wow all of these things in me are fighting to have a space all the time and it's like a dialogue going on inside of me all the time",
+            "count": 1
+        }
+    ]
+}

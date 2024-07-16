@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:04",
+            "04:26",
+            "04:28",
+            "04:33",
+            "05:05"
+        ],
+        "label": "small"
+    },
+    "clusterList": [
+        {
+            "phrase": "we would have the same number of tests but information that is substantially more useful",
+            "count": 3
+        },
+        {
+            "phrase": "small measures like that can make all the difference in the long run",
+            "count": 1
+        },
+        {
+            "phrase": "the likelihood of needing stronger measures is very small",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "01:32",
+            "02:00",
+            "02:27",
+            "03:54",
+            "04:31"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when they get exhausted they just stop running they can't run any more",
+            "count": 3
+        },
+        {
+            "phrase": "the other alternative is that they're coming in fat and happy but something is happening while they're hibernating that causes them to burn up their fat reserves really quickly",
+            "count": 1
+        },
+        {
+            "phrase": "it keeps her more horizontal in the water especially coming off the turn at a time when other swimmers who are tired find it hard to lift their head to breathe",
+            "count": 1
+        },
+        {
+            "phrase": "mainly just because they're losing extra water in their sweat and the heat they generate with their muscles causes evaporation of water they need to replenish that as soon as they can",
+            "count": 1
+        }
+    ]
+}

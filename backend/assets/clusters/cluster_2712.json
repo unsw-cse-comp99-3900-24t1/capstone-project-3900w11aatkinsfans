@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "01:47",
+            "02:01",
+            "02:05",
+            "02:43",
+            "03:18",
+            "04:36"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no longer believe it will be possible",
+            "count": 1
+        },
+        {
+            "phrase": "impossible is nothing",
+            "count": 1
+        },
+        {
+            "phrase": "nothing is impossible for us",
+            "count": 1
+        },
+        {
+            "phrase": "with god all things are possible",
+            "count": 1
+        },
+        {
+            "phrase": "this is an utterly impossible task",
+            "count": 1
+        },
+        {
+            "phrase": "it's possible most things are possible",
+            "count": 1
+        },
+        {
+            "phrase": "another world is possible",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1,
+            1,
+            2,
+            4
+        ],
+        "xLabels": [
+            "01:00",
+            "02:20",
+            "03:01",
+            "04:22",
+            "05:04"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've never felt i've been valued by anyone i'm just a waste of space that everyone ignores like a ghost without a home",
+            "count": 13
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we reached out to yorktown with hopes of resolving the issues that led to this but the mall has remained firm we're deeply sorry to all who will be inconvenienced by this change",
+            "count": 1
+        },
+        {
+            "phrase": "the mall's management has made its choice and left us with no viable alternative to continue service to the mall",
+            "count": 1
+        },
+        {
+            "phrase": "the model is designed not to be as shopping-centre dependent",
+            "count": 1
+        }
+    ]
+}

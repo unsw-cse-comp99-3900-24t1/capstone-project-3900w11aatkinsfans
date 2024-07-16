@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the volume of complaints haven't been as high on this project as other projects",
+            "count": 1
+        },
+        {
+            "phrase": "we are seeing an increase in the number of complaints",
+            "count": 1
+        }
+    ]
+}

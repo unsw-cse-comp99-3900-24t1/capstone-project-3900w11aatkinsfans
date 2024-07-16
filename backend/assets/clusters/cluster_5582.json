@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:43",
+            "01:20",
+            "04:06"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well i guess i won't have to wait the usual year before i see you again then huh",
+            "count": 1
+        },
+        {
+            "phrase": "when will you realize you're already there",
+            "count": 1
+        },
+        {
+            "phrase": "well you should be",
+            "count": 1
+        },
+        {
+            "phrase": "just wait buddy your day will come",
+            "count": 1
+        }
+    ]
+}

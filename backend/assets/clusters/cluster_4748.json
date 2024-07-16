@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:57",
+            "02:43"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at ebay any feature that influences user interaction or could affect the user's ability to buy or sell an item recieves a usability review",
+            "count": 1
+        },
+        {
+            "phrase": "ebay's user community is very diverse there are sellers who make their living on ebay as well as sellerw who sell just a few items once in a while each of these user groups has different needs and expectations from the ebay interface",
+            "count": 1
+        },
+        {
+            "phrase": "i have done a few things on ebay but ebay gets so overwhelming",
+            "count": 1
+        },
+        {
+            "phrase": "we still think ebay brings the highest buyer traffic when it comes to looking for unique unusual items and that include arts and crafts created by individuals",
+            "count": 1
+        }
+    ]
+}

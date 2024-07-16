@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "01:24",
+            "02:19",
+            "02:24",
+            "03:11",
+            "03:51"
+        ],
+        "label": "grass"
+    },
+    "clusterList": [
+        {
+            "phrase": "grass is greener on the other side",
+            "count": 2
+        },
+        {
+            "phrase": "greenest in the nation",
+            "count": 2
+        },
+        {
+            "phrase": "the grass must be greener",
+            "count": 1
+        },
+        {
+            "phrase": "keep off the grass",
+            "count": 1
+        },
+        {
+            "phrase": "the grass is not greener on the other side",
+            "count": 1
+        }
+    ]
+}

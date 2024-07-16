@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:25",
+            "05:00"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is no more risk in an airplane than a high-speed automobile and a lot more fun",
+            "count": 1
+        },
+        {
+            "phrase": "we must fly fast and land even when the odds are against you",
+            "count": 1
+        }
+    ]
+}

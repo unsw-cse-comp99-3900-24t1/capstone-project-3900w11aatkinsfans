@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:39",
+            "04:05"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is it that normal girls do in a situation like this",
+            "count": 1
+        },
+        {
+            "phrase": "what's a girl to do",
+            "count": 1
+        }
+    ]
+}

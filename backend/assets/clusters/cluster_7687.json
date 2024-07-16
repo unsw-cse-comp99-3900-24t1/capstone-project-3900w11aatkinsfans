@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:20",
+            "03:50"
+        ],
+        "label": "taking"
+    },
+    "clusterList": [
+        {
+            "phrase": "taking a free ride on the trade value",
+            "count": 1
+        },
+        {
+            "phrase": "imperfect knowledge economics exchange rates and risk",
+            "count": 1
+        },
+        {
+            "phrase": "protecting market share",
+            "count": 1
+        }
+    ]
+}

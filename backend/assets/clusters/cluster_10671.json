@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "03:48"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we were really upset that they were sent home",
+            "count": 1
+        },
+        {
+            "phrase": "they didn't want to bother us",
+            "count": 1
+        }
+    ]
+}

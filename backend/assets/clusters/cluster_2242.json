@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "01:05",
+            "01:52",
+            "02:06",
+            "03:51"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "as far as they can tell",
+            "count": 4
+        },
+        {
+            "phrase": "how they are going to find out",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think they get it",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:49",
+            "04:48"
+        ],
+        "label": "his"
+    },
+    "clusterList": [
+        {
+            "phrase": "his mouth dropped a foot",
+            "count": 1
+        },
+        {
+            "phrase": "tightened up his lower body",
+            "count": 1
+        },
+        {
+            "phrase": "he didn't have a jacket on and wasn't a strong swimmer",
+            "count": 1
+        }
+    ]
+}

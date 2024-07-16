@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            4,
+            1,
+            1,
+            4,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:27",
+            "01:07",
+            "01:25",
+            "01:47",
+            "03:10",
+            "03:28",
+            "03:51",
+            "04:09",
+            "04:32",
+            "04:36"
+        ],
+        "label": "sarah"
+    },
+    "clusterList": [
+        {
+            "phrase": "i respect speaker pelosi i think she's one of the great american success stories",
+            "count": 8
+        },
+        {
+            "phrase": "but i think that she did an amazing job in changing that as i think senator obama and bill richardson where hispanics are concerned also made it possible for our country to move on into the 21st century and say wait a minute these old things that held us down in the past we're now within sight of a time when we can move beyond that",
+            "count": 6
+        },
+        {
+            "phrase": "we talk about new york sen hillary clinton and her inspiration to millions of americans speaker pelosi has been an inspiration as well",
+            "count": 4
+        },
+        {
+            "phrase": "sarah palin is a great choice",
+            "count": 2
+        },
+        {
+            "phrase": "there was a time that made me wonder about her as an electable democratic candidate but the more i listen to those folks froth and rave the more i realize that they're not going to vote for anyone running on the democratic ticket under any circumstances so why listen to them",
+            "count": 2
+        },
+        {
+            "phrase": "i say to speaker pelosi with respect defending freedom is the paramount interest of every member of the american congress",
+            "count": 1
+        }
+    ]
+}

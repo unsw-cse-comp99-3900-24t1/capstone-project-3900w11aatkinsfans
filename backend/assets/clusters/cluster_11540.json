@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:41",
+            "04:28"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're never home free",
+            "count": 1
+        },
+        {
+            "phrase": "i just don't lock up my house and go",
+            "count": 1
+        }
+    ]
+}

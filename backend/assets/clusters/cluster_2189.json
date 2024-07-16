@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:08",
+            "00:38",
+            "01:38",
+            "01:39",
+            "02:48",
+            "03:27"
+        ],
+        "label": "technology"
+    },
+    "clusterList": [
+        {
+            "phrase": "quarkxpress 8 offers users advanced features and functionality and increased productivity while maintaining familiarity for long-time users i encourage everyone to try quarkxpress 8 with our 60-day test drive version or visit us at one of our xperience design global tour stops",
+            "count": 3
+        },
+        {
+            "phrase": "technology evaluation benchmarking and optimization of",
+            "count": 1
+        },
+        {
+            "phrase": "i could incur variances in some benchmark tests ranging from 10 to 60 percent through combined manipulation of the server's bios settings bios version compiler flags and os release",
+            "count": 1
+        },
+        {
+            "phrase": "firstly for specific questions about network performance i'd have to point you towards optus virgin is owned by optus and uses optus network and ask them",
+            "count": 1
+        },
+        {
+            "phrase": "any processor running 10",
+            "count": 1
+        },
+        {
+            "phrase": "i really like the overall reliability features and screening capabilities prinect gets an a-plus across the board the pdf workflow is really sensational the speed at which everything rips and the ease with which it works with various programs such as indesign pagemaker and quark google xpress is really terrific",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "02:34"
+        ],
+        "label": "mom"
+    },
+    "clusterList": [
+        {
+            "phrase": "mom dad the ice cream man he's outside",
+            "count": 1
+        },
+        {
+            "phrase": "that's not the ice cream man",
+            "count": 1
+        },
+        {
+            "phrase": "that's the ice cream man song",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's just the ice cream man out late",
+            "count": 1
+        }
+    ]
+}

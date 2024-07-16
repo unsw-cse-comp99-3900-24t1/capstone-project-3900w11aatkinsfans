@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:26",
+            "02:17",
+            "05:00"
+        ],
+        "label": "waugh"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a wonderfully eclectic objet d'art speckled with an observable indifference for maureen dowd",
+            "count": 4
+        },
+        {
+            "phrase": "waugh wrote brideshead with great speed unfamiliar excitement and a deep conviction of its excellence",
+            "count": 1
+        },
+        {
+            "phrase": "as funny as jane eyre",
+            "count": 1
+        }
+    ]
+}

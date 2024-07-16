@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:50",
+            "02:19",
+            "02:24",
+            "03:41",
+            "04:00",
+            "04:08",
+            "04:45",
+            "04:56"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "so good to see you i've heard about your good news congratulations",
+            "count": 4
+        },
+        {
+            "phrase": "it's great news",
+            "count": 1
+        },
+        {
+            "phrase": "to be announced",
+            "count": 1
+        },
+        {
+            "phrase": "announce anything specifically",
+            "count": 1
+        },
+        {
+            "phrase": "we do have plans to release it some time in the future",
+            "count": 1
+        },
+        {
+            "phrase": "we don't have any plans to announce at this time but we're excited to have the omnisio team on board as we continue to develop and enhance the youtube user experience",
+            "count": 1
+        },
+        {
+            "phrase": "within the next weeks we'll announce some amazing news regarding",
+            "count": 1
+        },
+        {
+            "phrase": "i hear you have some good news to announce pretty soon",
+            "count": 1
+        }
+    ]
+}

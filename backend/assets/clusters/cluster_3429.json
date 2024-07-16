@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:01",
+            "02:14",
+            "04:13"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "how about x",
+            "count": 2
+        },
+        {
+            "phrase": "what about this one",
+            "count": 1
+        },
+        {
+            "phrase": "what about that one",
+            "count": 1
+        },
+        {
+            "phrase": "how about that one",
+            "count": 1
+        },
+        {
+            "phrase": "and that one",
+            "count": 1
+        }
+    ]
+}

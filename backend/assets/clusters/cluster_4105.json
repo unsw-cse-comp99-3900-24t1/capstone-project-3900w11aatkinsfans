@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:29",
+            "03:15",
+            "04:17",
+            "04:50"
+        ],
+        "label": "doesn't"
+    },
+    "clusterList": [
+        {
+            "phrase": "doesn't see a lot of people coming through",
+            "count": 2
+        },
+        {
+            "phrase": "a lot of people will come from surrounding areas",
+            "count": 1
+        },
+        {
+            "phrase": "by and large many of the people coming here are leisure-type riders",
+            "count": 1
+        },
+        {
+            "phrase": "people come from all over the country we would expect about 100",
+            "count": 1
+        }
+    ]
+}

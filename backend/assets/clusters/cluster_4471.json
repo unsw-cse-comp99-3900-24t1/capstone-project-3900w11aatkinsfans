@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:29",
+            "00:38",
+            "03:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't think we were the only ones who changed",
+            "count": 2
+        },
+        {
+            "phrase": "what made the change we don't understand",
+            "count": 1
+        },
+        {
+            "phrase": "honestly what we do now doesn't feel that much different from what we were doing then",
+            "count": 1
+        }
+    ]
+}

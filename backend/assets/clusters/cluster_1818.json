@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:44",
+            "01:51",
+            "01:56",
+            "02:11",
+            "02:23",
+            "02:24",
+            "03:18",
+            "03:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the president made very clear that he would use this 45-day period to assess the dprk's north korea's cooperation including on reaching agreement on a verification protocol and respond accordingly",
+            "count": 9
+        }
+    ]
+}

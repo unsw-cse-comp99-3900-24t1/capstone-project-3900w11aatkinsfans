@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:15"
+        ],
+        "label": "listen"
+    },
+    "clusterList": [
+        {
+            "phrase": "listen jackie i think you should call a team meeting",
+            "count": 3
+        },
+        {
+            "phrase": "what about placing some person of your own in the meeting learn more about the ringleaders",
+            "count": 1
+        }
+    ]
+}

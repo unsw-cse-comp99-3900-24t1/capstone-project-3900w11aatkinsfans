@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "03:28"
+        ],
+        "label": "by"
+    },
+    "clusterList": [
+        {
+            "phrase": "by way of deception",
+            "count": 1
+        },
+        {
+            "phrase": "without deception or fraud",
+            "count": 1
+        }
+    ]
+}

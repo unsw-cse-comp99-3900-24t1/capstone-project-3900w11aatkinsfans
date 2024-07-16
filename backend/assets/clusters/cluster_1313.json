@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:15",
+            "00:24",
+            "00:32",
+            "00:41",
+            "01:10",
+            "01:11",
+            "01:51",
+            "01:52",
+            "02:56",
+            "03:01"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "all i need today is an internet connection and a web browser",
+            "count": 6
+        },
+        {
+            "phrase": "are you currently running windows and linux in a dual-boot setup you're going to have major headaches with vista sp1 microsoft has eight ways vars can profit from linux and open source",
+            "count": 1
+        },
+        {
+            "phrase": "what will i need from my operating system",
+            "count": 1
+        },
+        {
+            "phrase": "all you really need is a user and your notepad",
+            "count": 1
+        },
+        {
+            "phrase": "thence to various programs on my mac",
+            "count": 1
+        },
+        {
+            "phrase": "computers for beginners",
+            "count": 1
+        },
+        {
+            "phrase": "system information downloads",
+            "count": 1
+        }
+    ]
+}

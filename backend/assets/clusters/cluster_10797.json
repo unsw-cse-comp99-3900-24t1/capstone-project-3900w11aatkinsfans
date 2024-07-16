@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:06"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you know who it is mama",
+            "count": 1
+        },
+        {
+            "phrase": "isn't there someone named yo ma yo or is it mama yo",
+            "count": 1
+        }
+    ]
+}

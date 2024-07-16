@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:24",
+            "02:33"
+        ],
+        "label": "flesh"
+    },
+    "clusterList": [
+        {
+            "phrase": "flesh amp fears",
+            "count": 3
+        },
+        {
+            "phrase": "jhvedark haunted screams",
+            "count": 1
+        },
+        {
+            "phrase": "ghosts amp obsessions",
+            "count": 1
+        }
+    ]
+}

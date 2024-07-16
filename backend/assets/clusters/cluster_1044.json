@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:23",
+            "00:24",
+            "00:40",
+            "00:48",
+            "00:53",
+            "01:01",
+            "01:18",
+            "02:24",
+            "02:32",
+            "03:05",
+            "04:10"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "the children appeared safe and comfortable in the home",
+            "count": 9
+        },
+        {
+            "phrase": "i've seen those children getting out of a van",
+            "count": 1
+        },
+        {
+            "phrase": "this vision of buses coming and unloading these black kids",
+            "count": 1
+        },
+        {
+            "phrase": "thank the lord the kids had just come up on the porch they had just been riding their bicycles out on the sidewalk",
+            "count": 1
+        },
+        {
+            "phrase": "i have seen children jumping on and torturing the helpless animals and i have seen them dragged away attached to the back of trucks",
+            "count": 1
+        },
+        {
+            "phrase": "when it came to kids night you couldn't even see his car from all the kids being on it and around it",
+            "count": 1
+        }
+    ]
+}

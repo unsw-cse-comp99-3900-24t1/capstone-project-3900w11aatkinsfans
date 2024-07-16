@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "03:48",
+            "04:10"
+        ],
+        "label": "getting"
+    },
+    "clusterList": [
+        {
+            "phrase": "getting in shape and learning something new",
+            "count": 1
+        },
+        {
+            "phrase": "see this is how one learns new rules",
+            "count": 1
+        },
+        {
+            "phrase": "hey this is an opportunity to learn something entirely new",
+            "count": 1
+        }
+    ]
+}

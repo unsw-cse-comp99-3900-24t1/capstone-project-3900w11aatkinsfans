@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            4,
+            5,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:18",
+            "00:51",
+            "02:23",
+            "02:36",
+            "04:47",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "cloud computing expo",
+            "count": 5
+        },
+        {
+            "phrase": "the industry needs time to make cloud computing consumable",
+            "count": 4
+        },
+        {
+            "phrase": "cloud computing summit",
+            "count": 3
+        },
+        {
+            "phrase": "cloud computing initiative",
+            "count": 2
+        },
+        {
+            "phrase": "even though several other vendors realize or are starting to realize the value of providing higher-end analytics tools like statistical analysis and predictive modeling sas is pretty hard to beat in this category especially when it comes to embedding such analytical routines in powerful dbms engines like teradata",
+            "count": 1
+        },
+        {
+            "phrase": "this enables global research in the field of cloud computing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "02:55"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now she was an education",
+            "count": 1
+        },
+        {
+            "phrase": "she had always enjoyed study",
+            "count": 1
+        },
+        {
+            "phrase": "you could tell from the teachers who had worked with her that there was just this love and affection",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:27",
+            "01:24",
+            "01:37",
+            "04:32",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was going to hit people today",
+            "count": 2
+        },
+        {
+            "phrase": "you need a take-no-prisoners attitude and the mentality if they hit you you have to hit back all the time",
+            "count": 2
+        },
+        {
+            "phrase": "i don't just hit people willy nilly",
+            "count": 1
+        },
+        {
+            "phrase": "of course i do it i'm pretty careful i try to be but i'm sure i've hit someone or something once or twice",
+            "count": 1
+        }
+    ]
+}

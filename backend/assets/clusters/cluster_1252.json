@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:19",
+            "01:47",
+            "03:01",
+            "03:34",
+            "03:42",
+            "03:46",
+            "03:50",
+            "03:51",
+            "04:05",
+            "04:13",
+            "04:55"
+        ],
+        "label": "medal"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's the army",
+            "count": 3
+        },
+        {
+            "phrase": "national or military service",
+            "count": 2
+        },
+        {
+            "phrase": "medal of valor",
+            "count": 1
+        },
+        {
+            "phrase": "private military contractors",
+            "count": 1
+        },
+        {
+            "phrase": "does the military serve the country",
+            "count": 1
+        },
+        {
+            "phrase": "seven nation army",
+            "count": 1
+        },
+        {
+            "phrase": "privately military corporation",
+            "count": 1
+        },
+        {
+            "phrase": "service to country",
+            "count": 1
+        },
+        {
+            "phrase": "the military in important respects remains a specialized society separate from civilian society",
+            "count": 1
+        },
+        {
+            "phrase": "duty honor country",
+            "count": 1
+        }
+    ]
+}

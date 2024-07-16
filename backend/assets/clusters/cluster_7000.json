@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:05",
+            "03:43"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good politicians like good scientists draw conclusions from facts bad politicians like bad scientists draw facts from conclusions",
+            "count": 2
+        },
+        {
+            "phrase": "less honesty from politicians than from scientists",
+            "count": 1
+        }
+    ]
+}

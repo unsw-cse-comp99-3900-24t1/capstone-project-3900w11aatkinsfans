@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "00:19",
+            "02:47",
+            "04:10"
+        ],
+        "label": "relentless"
+    },
+    "clusterList": [
+        {
+            "phrase": "but they remain uneven and are not adequate to meet current demand",
+            "count": 2
+        },
+        {
+            "phrase": "relentless focus on and ability to meet demand within emerging markets",
+            "count": 1
+        },
+        {
+            "phrase": "since de-regulating trading hours and internationalising product supply the retail market has changed and now consumers drive the market",
+            "count": 1
+        },
+        {
+            "phrase": "right now it's a buyers market and a lot of people have been coming through and looking but few people have been making decisions",
+            "count": 1
+        }
+    ]
+}
