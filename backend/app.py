@@ -9,11 +9,14 @@ from sklearn.decomposition import PCA
 import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+from database.database import Database
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Setting up MongoDB connection
+db = Database(uri='mongodb://localhost:27017', db_name='3900')
+
 model = SentenceTransformer("all-MiniLM-L6-v2")
 pca_model = joblib.load('pca_model.pkl')
 
