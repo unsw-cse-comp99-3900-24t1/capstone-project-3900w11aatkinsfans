@@ -4,19 +4,42 @@ from csv_to_json import get_json_data
 from database.database import Database
 import pandas as pd
 import os
-import csv
-import json
-import numpy as np
-from sklearn.decomposition import PCA
-from sklearn.metrics.pairwise import cosine_similarity
 from sentence_transformers import SentenceTransformer
 import joblib
+import csv
+from sklearn.decomposition import PCA
+
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Setting up MongoDB connection
 db = Database(uri='mongodb://localhost:27017', db_name='3900')
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+def load_quotes_from_csv(csv_file):
+    quotes = []
+    with open(csv_file, 'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            quotes.append(row['quote'])
+    return quotes
+csv_file = "sorted_clusters2.csv"
+quotes = load_quotes_from_csv(csv_file)
+
+
+def vectorize_quotes(quotes, model):
+    embeddings = model.encode(quotes)
+    return embeddings
+
+embeddings_360d = vectorize_quotes(quotes, model)
+
+pca_model = PCA(n_components=100, random_state=0)
+pca_model.fit(embeddings_360d)
+
+joblib.dump(pca_model, 'pca_model.pkl')
+pca_model = joblib.load('pca_model.pkl')
+print("Done initialising")
 
 @app.route('/')
 def home():
@@ -75,37 +98,6 @@ def popular():
     return jsonify(data)
 
 @app.route('/memesearch', methods=['POST'])
-
-
-def vectorize_and_reduce(sentence, model, pca_model):
-    vector_360d = model.encode(sentence)
-    vector_100d = pca_model.transform([vector_360d])[0]
-    return vector_100d
-
-def load_cluster_centers_csv(cluster_centers_file):
-    cluster_centers = {}
-    with open(cluster_centers_file, 'r') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            cluster_id = int(row['cluster_id'])
-            center_vector = json.loads(row['center_vector'])
-            cluster_centers[cluster_id] = np.array(center_vector)
-    return cluster_centers
-
-def find_closest_cluster_id(sentence, model, pca_model, cluster_centers, clusters_dir='clusters'):
-    # Vectorize the sentence and reduce dimensionality
-    input_vector = vectorize_and_reduce(sentence, model, pca_model)
-
-    # Find the closest cluster
-    min_distance = float('inf')
-    closest_cluster_id = None
-    for cluster_id, center_vector in cluster_centers.items():
-        distance = 1 - cosine_similarity([input_vector], [center_vector])[0][0]
-        if distance < min_distance:
-            min_distance = distance
-            closest_cluster_id = cluster_id
-    return closest_cluster_id
-
 def search():
     data = request.get_json()
     search_text = data.get('searchText')
@@ -113,16 +105,8 @@ def search():
     # Add cluster finding algorithm here.
     print(f"Received search text: {search_text}")
 
-    # Initialize the SentenceTransformer model
-    model = SentenceTransformer("all-MiniLM-L6-v2")
-    pca_model = joblib.load('pca_model.pkl')
-    cluster_centers_file = 'cluster_centers.csv'  # Path to your cluster centers CSV file
-
-    cluster_centers = load_cluster_centers_csv(cluster_centers_file)
-
-    closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
     # Return a response with number 1
-    return jsonify({'clusterID': closest_cluster_id})
+    return jsonify({'clusterID': 1})
 
 app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
