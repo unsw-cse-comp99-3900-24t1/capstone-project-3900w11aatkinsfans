@@ -134,7 +134,6 @@ function MemePage() {
           padding: 5,
           caretPadding: 10,
           caretSize: 5,
-          yAlign: 'bottom',
         },
       },
       hover: {
