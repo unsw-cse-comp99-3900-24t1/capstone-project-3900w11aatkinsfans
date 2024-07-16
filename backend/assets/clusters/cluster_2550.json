@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            5
+        ],
+        "xLabels": [
+            "01:05",
+            "04:15"
+        ],
+        "label": "celebrity"
+    },
+    "clusterList": [
+        {
+            "phrase": "sibling rivalry pt 2",
+            "count": 5
+        },
+        {
+            "phrase": "celebrity family feud",
+            "count": 1
+        },
+        {
+            "phrase": "let's play family feud",
+            "count": 1
+        }
+    ]
+}

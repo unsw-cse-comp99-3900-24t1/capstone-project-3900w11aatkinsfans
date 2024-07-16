@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:33",
+            "03:37",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the diversity you see now comes from that",
+            "count": 1
+        },
+        {
+            "phrase": "we treasure diversity because it brings in a lot of different viewpoints and blends in a lot of cultures",
+            "count": 1
+        },
+        {
+            "phrase": "but despite our best efforts to educate canadians about the importance of equality and diversity intolerance and hatred persist which is precisely why we need this museum",
+            "count": 1
+        },
+        {
+            "phrase": "the great part is everyone understands there are different cultures and works together to bridge that gap",
+            "count": 1
+        },
+        {
+            "phrase": "support the principles of diversity tolerance and the worth and dignity of every human being",
+            "count": 1
+        },
+        {
+            "phrase": "there are multiple benefits to all environmental initiatives so the language we use to impart the message has to mirror that diversity",
+            "count": 1
+        }
+    ]
+}

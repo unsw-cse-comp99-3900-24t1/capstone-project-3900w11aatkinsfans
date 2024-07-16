@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:20",
+            "00:25",
+            "00:39",
+            "00:42",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:01",
+            "03:09",
+            "03:48",
+            "04:16",
+            "04:17",
+            "04:21",
+            "04:28",
+            "04:33",
+            "04:37"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it all comes down to production",
+            "count": 12
+        },
+        {
+            "phrase": "who are open to doing something on the production side",
+            "count": 7
+        },
+        {
+            "phrase": "a mild live production",
+            "count": 1
+        },
+        {
+            "phrase": "thrillingly down-and-dirty production",
+            "count": 1
+        }
+    ]
+}

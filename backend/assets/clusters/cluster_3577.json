@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:23",
+            "00:28",
+            "01:23",
+            "03:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think for the most part they understand the direction we're going in some probably even support the direction we're going in but it's tough",
+            "count": 3
+        },
+        {
+            "phrase": "we're putting in place some policies which we think will work and they've worked at those particularly hard and i think the guys feel good about that",
+            "count": 1
+        },
+        {
+            "phrase": "i think they understand the direction we're taking and some even appreciate it right now though it's a shock",
+            "count": 1
+        }
+    ]
+}

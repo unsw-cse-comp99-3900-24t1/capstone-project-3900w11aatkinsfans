@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:27",
+            "00:32",
+            "00:48",
+            "01:32"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "i knew my horse has early speed so i just went to the front from the gate",
+            "count": 3
+        },
+        {
+            "phrase": "it's the exact car we had back home",
+            "count": 1
+        },
+        {
+            "phrase": "directly in front of me was a plymouth minivan",
+            "count": 1
+        },
+        {
+            "phrase": "i started looking across the road and there was a van facing toward cottonwood",
+            "count": 1
+        }
+    ]
+}

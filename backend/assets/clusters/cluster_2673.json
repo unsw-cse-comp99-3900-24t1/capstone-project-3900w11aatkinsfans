@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            5
+        ],
+        "xLabels": [
+            "02:57",
+            "03:37"
+        ],
+        "label": "trail"
+    },
+    "clusterList": [
+        {
+            "phrase": "the joshua tree",
+            "count": 5
+        },
+        {
+            "phrase": "trail of the sheik",
+            "count": 1
+        },
+        {
+            "phrase": "the cia and the sheikh",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:53",
+            "02:32",
+            "03:05",
+            "04:23",
+            "04:54"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they watch us very closely",
+            "count": 1
+        },
+        {
+            "phrase": "you can tell it in the way they were watching and listening",
+            "count": 1
+        },
+        {
+            "phrase": "i get over that by not worrying about who's watching because there's always a bunch of cameras and a bunch of people",
+            "count": 1
+        },
+        {
+            "phrase": "that sense that guides your behavior when you know no one is watching",
+            "count": 1
+        },
+        {
+            "phrase": "they don't know they're being watched",
+            "count": 1
+        },
+        {
+            "phrase": "can't look without being watched",
+            "count": 1
+        }
+    ]
+}

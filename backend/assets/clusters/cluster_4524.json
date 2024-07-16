@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:46",
+            "02:14"
+        ],
+        "label": "notice"
+    },
+    "clusterList": [
+        {
+            "phrase": "certainly the settlement takes the tension away",
+            "count": 2
+        },
+        {
+            "phrase": "notice of settlement at the top",
+            "count": 1
+        },
+        {
+            "phrase": "it wasn't a settlement it was a victory it was absolute total vindication",
+            "count": 1
+        }
+    ]
+}

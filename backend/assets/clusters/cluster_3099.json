@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:27",
+            "01:15",
+            "01:25",
+            "03:24",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think that they're happy that he's going to get help rather than prison",
+            "count": 2
+        },
+        {
+            "phrase": "happy he is going to get help rather than prison",
+            "count": 2
+        },
+        {
+            "phrase": "as for olmert no doubt he made a deal with the courts and police that if he finally steps down he will not serve time in prison and he will be allowed to peacefully fade from public view",
+            "count": 1
+        },
+        {
+            "phrase": "let's just wait until the prison is finished",
+            "count": 1
+        }
+    ]
+}

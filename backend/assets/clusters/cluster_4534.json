@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "04:57",
+            "05:05"
+        ],
+        "label": "son"
+    },
+    "clusterList": [
+        {
+            "phrase": "more people are scared of speaking in public than are afraid of dying",
+            "count": 2
+        },
+        {
+            "phrase": "son there are gonna be people you can't scare or hurt by killing a pet you overcome this by waiting for the time when you can not only hurt them but everything close to them",
+            "count": 1
+        },
+        {
+            "phrase": "according to most studies people's number one fear is public speaking number two is death death is number two this means to the average person if you go to a funeral you're better off in the casket than doing the eulogy",
+            "count": 1
+        }
+    ]
+}

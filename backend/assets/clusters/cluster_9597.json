@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "04:23"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what logicaly would happen to a rock when it hits the surface of water",
+            "count": 1
+        },
+        {
+            "phrase": "the rock is alive",
+            "count": 1
+        }
+    ]
+}

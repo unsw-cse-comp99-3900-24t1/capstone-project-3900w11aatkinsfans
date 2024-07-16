@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "00:51",
+            "01:20",
+            "01:58",
+            "02:05",
+            "04:03",
+            "04:31"
+        ],
+        "label": "loss"
+    },
+    "clusterList": [
+        {
+            "phrase": "loss of his right eye multiple fractures of his sinus and nasal bones as well as other serious and permanent injuries",
+            "count": 2
+        },
+        {
+            "phrase": "possible trauma to the head",
+            "count": 1
+        },
+        {
+            "phrase": "his face was busted open he had a black eye his face was swollen",
+            "count": 1
+        },
+        {
+            "phrase": "a fall from this height can't possibly kill a man",
+            "count": 1
+        },
+        {
+            "phrase": "two face falls to the ground breaks his neck and dies",
+            "count": 1
+        },
+        {
+            "phrase": "the falling cement block struck o'connell in the head face and chest area",
+            "count": 1
+        },
+        {
+            "phrase": "the victim goes to aid his brother in the fight",
+            "count": 1
+        }
+    ]
+}

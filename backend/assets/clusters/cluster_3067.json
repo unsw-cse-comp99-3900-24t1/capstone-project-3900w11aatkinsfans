@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:36",
+            "01:04",
+            "03:09",
+            "03:43",
+            "04:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pollution from driving a lamborghini is bad enough but flying one thousands of miles for a service is taking climate-wrecking behaviour to new heights",
+            "count": 2
+        },
+        {
+            "phrase": "they are pushing their bodies to their limits so pollution will have serious consequences",
+            "count": 2
+        },
+        {
+            "phrase": "the pollution from driving a lamborghini is bad enough but flying one thousands of miles for a service is taking climate-wrecking behavior to new heights",
+            "count": 1
+        },
+        {
+            "phrase": "and i know that the younger generation is doing things that are so ingenious and for them it's not a matter of a political belief or an environmental stance it's really just common sense",
+            "count": 1
+        }
+    ]
+}

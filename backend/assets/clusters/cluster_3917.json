@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:18",
+            "03:55",
+            "04:23",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i used to have to go into the washroom to flush my eyes out just to ease the irritation",
+            "count": 3
+        },
+        {
+            "phrase": "i went sniffing once",
+            "count": 1
+        },
+        {
+            "phrase": "have you been sniffing something",
+            "count": 1
+        }
+    ]
+}

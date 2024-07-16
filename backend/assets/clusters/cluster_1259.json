@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:01",
+            "02:06",
+            "02:46",
+            "03:05",
+            "03:09",
+            "03:12",
+            "03:15",
+            "03:27",
+            "03:58",
+            "04:22",
+            "04:28"
+        ],
+        "label": "puttying"
+    },
+    "clusterList": [
+        {
+            "phrase": "so full of holes",
+            "count": 4
+        },
+        {
+            "phrase": "there is a hole in my family a hole that can never be filled",
+            "count": 4
+        },
+        {
+            "phrase": "puttying in all the holes",
+            "count": 2
+        },
+        {
+            "phrase": "fill in the gaps",
+            "count": 1
+        },
+        {
+            "phrase": "dig yourself into a hole",
+            "count": 1
+        },
+        {
+            "phrase": "filling a missing hole",
+            "count": 1
+        }
+    ]
+}

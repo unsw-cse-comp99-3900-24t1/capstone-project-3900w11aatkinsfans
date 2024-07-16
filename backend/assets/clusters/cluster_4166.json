@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:50",
+            "03:42",
+            "03:47",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are coming father abraham",
+            "count": 1
+        },
+        {
+            "phrase": "christian arrived last night",
+            "count": 1
+        },
+        {
+            "phrase": "jesus is coming",
+            "count": 1
+        },
+        {
+            "phrase": "i know that messiah is coming he who is called christ when that one comes he will declare all things to us",
+            "count": 1
+        },
+        {
+            "phrase": "the lord is going to come on time if we just wait",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "02:47",
+            "02:57",
+            "04:21",
+            "04:28",
+            "04:46",
+            "04:55"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "you put a shroud of secrecy",
+            "count": 4
+        },
+        {
+            "phrase": "protect the security of information as a red line or a holy matter",
+            "count": 2
+        },
+        {
+            "phrase": "there is a cult of secrecy-for-no-reason",
+            "count": 1
+        },
+        {
+            "phrase": "protect the secrecy",
+            "count": 1
+        }
+    ]
+}

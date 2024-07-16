@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:37",
+            "02:01",
+            "02:47",
+            "02:56",
+            "04:09"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's much hotter up my behind",
+            "count": 1
+        },
+        {
+            "phrase": "it was the hottest thing i've ever touched it was as hot as the sun",
+            "count": 1
+        },
+        {
+            "phrase": "are you guys really hot it's hot in here right",
+            "count": 1
+        },
+        {
+            "phrase": "it's not too bad it's hot but you just have to get acclimated to it",
+            "count": 1
+        },
+        {
+            "phrase": "hotter than hell",
+            "count": 1
+        },
+        {
+            "phrase": "darn that's hot",
+            "count": 1
+        }
+    ]
+}

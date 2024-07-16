@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:04",
+            "02:24",
+            "02:59"
+        ],
+        "label": "plan"
+    },
+    "clusterList": [
+        {
+            "phrase": "plan is in motion",
+            "count": 2
+        },
+        {
+            "phrase": "the plan is in motion",
+            "count": 1
+        }
+    ]
+}

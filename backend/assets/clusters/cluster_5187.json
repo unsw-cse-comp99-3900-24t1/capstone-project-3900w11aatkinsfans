@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:51",
+            "02:43",
+            "03:00"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's the kickball muscle it'll be ok",
+            "count": 1
+        },
+        {
+            "phrase": "it's the same ankle but not the same injury coughlin said",
+            "count": 1
+        },
+        {
+            "phrase": "it really isn't severe or anything but he could use some exercise maybe to sweat off the fever",
+            "count": 1
+        },
+        {
+            "phrase": "i was curious will it hurt him will it help him",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:10",
+            "01:50",
+            "04:04",
+            "04:28",
+            "04:56"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the unions understand where we are as a government with the hard state cap",
+            "count": 1
+        },
+        {
+            "phrase": "it's labour intensive and you're competing with lower cost labour regions whether it's the u s south or china there's a lot of global competition emerging",
+            "count": 1
+        },
+        {
+            "phrase": "i think the problem with it all is this really affects the workers and the relationships the unions have with each other",
+            "count": 1
+        },
+        {
+            "phrase": "i have faith in teachers and nurses but not their unions",
+            "count": 1
+        },
+        {
+            "phrase": "the most valuable garment exports and textiles went to china while cambodia gained only workers salaries and factory rental fees",
+            "count": 1
+        },
+        {
+            "phrase": "look at china there are no unions people love working hard to make money",
+            "count": 1
+        }
+    ]
+}

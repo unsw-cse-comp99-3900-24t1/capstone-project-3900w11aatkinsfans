@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:37",
+            "01:43",
+            "02:51"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some bastard got drunk and burned a hole in the bugger oh yeah that was me",
+            "count": 1
+        },
+        {
+            "phrase": "are you pouring some kind of cleaner on the floor where he farted",
+            "count": 1
+        },
+        {
+            "phrase": "dude he totally pissed in one of the plants",
+            "count": 1
+        },
+        {
+            "phrase": "i guess he farted in the tent",
+            "count": 1
+        }
+    ]
+}

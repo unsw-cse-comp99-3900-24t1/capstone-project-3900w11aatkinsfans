@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "03:48"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this doesn't make sense we've all given our sweat blood and tears",
+            "count": 1
+        },
+        {
+            "phrase": "this is wrong we were washed in blood",
+            "count": 1
+        },
+        {
+            "phrase": "washed in the blood of jesus",
+            "count": 1
+        }
+    ]
+}

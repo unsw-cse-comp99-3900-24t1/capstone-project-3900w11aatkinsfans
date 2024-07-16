@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:13"
+        ],
+        "label": "rotten"
+    },
+    "clusterList": [
+        {
+            "phrase": "rotten pizza theory",
+            "count": 1
+        },
+        {
+            "phrase": "rotting pizza theory",
+            "count": 1
+        }
+    ]
+}

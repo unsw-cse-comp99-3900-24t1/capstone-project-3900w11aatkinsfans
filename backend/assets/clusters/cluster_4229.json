@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "04:10",
+            "04:18",
+            "04:19"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he was an inspiration for me to run",
+            "count": 1
+        },
+        {
+            "phrase": "you'd have your battles with him but he was a real nice guy he wasn't afraid to run me hard and i wasn't afraid to run him hard he was a true race-car driver",
+            "count": 1
+        },
+        {
+            "phrase": "the minute he died i stopped crying because i became a man and that's what made me strong enough to be a successful racer",
+            "count": 1
+        },
+        {
+            "phrase": "that could have pushed me away from racing had he been alive because i've always been a very independent person",
+            "count": 1
+        },
+        {
+            "phrase": "but with him running again for that position i really had no interest in challenging him",
+            "count": 1
+        }
+    ]
+}

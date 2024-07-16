@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "03:18",
+            "04:32",
+            "04:42"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we didn't talk about taking the ball overhead or on their chest that's a skill that has to be learned over time",
+            "count": 2
+        },
+        {
+            "phrase": "it's easier to teach them when they're younger before they develop bad habits and that way we can teach them to move correctly to prevent the injury and hopefully enhance their athletic performance down the road",
+            "count": 1
+        },
+        {
+            "phrase": "there's no way to get to the level these athletes get to without learning how to fall properly",
+            "count": 1
+        },
+        {
+            "phrase": "they have another two or three months to mature more time in the weight room and they can kind of get more comforble with the plays we are running",
+            "count": 1
+        }
+    ]
+}

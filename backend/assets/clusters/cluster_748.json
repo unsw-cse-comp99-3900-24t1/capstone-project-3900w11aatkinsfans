@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:16",
+            "00:19",
+            "00:47",
+            "01:02",
+            "01:29",
+            "02:33",
+            "02:37",
+            "03:15",
+            "03:19",
+            "03:27",
+            "03:57",
+            "04:06"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't want to talk about it but i have definitely experienced abuse in a way that i would tell people to take their heart and run",
+            "count": 8
+        },
+        {
+            "phrase": "there's nothing on my album that you're gonna hear that i don't relate to or that i haven't experienced because the only way i know how to sing is from life experience",
+            "count": 4
+        },
+        {
+            "phrase": "but i have definitely experienced abuse in a way that i would tell people to take their heart and run",
+            "count": 2
+        },
+        {
+            "phrase": "i don't want to talk about it but i have definitely experienced abuse in a way that i would tell people to take their heart and run i had to record that there's nothing on my album that you're gonna hear that i don't relate to or that i haven't experienced because the only way i know how to sing is from life experience",
+            "count": 1
+        },
+        {
+            "phrase": "i have definitely experienced abuse in a way that i would tell people to take their heart and run",
+            "count": 1
+        },
+        {
+            "phrase": "i had to record that there's nothing on my album that you're gonna hear that i don't relate to or that i haven't experienced because the only way i know how to sing is from life experience i don't want to talk about it but i have definitely experienced abuse in a way that i would tell people to take their heart and run",
+            "count": 1
+        },
+        {
+            "phrase": "i had to record that there's nothing on my album that you're gonna hear that i don't relate to or that i haven't experienced because the only way i know how to sing is from life experience i don't want to talk about it but i have definitely experienced abuse in away that i would tell people to take their heart and run",
+            "count": 1
+        }
+    ]
+}

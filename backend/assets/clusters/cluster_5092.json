@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:51",
+            "03:55",
+            "04:10"
+        ],
+        "label": "last"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just need time to rest just make sure be overly cautious i think monday will be a week i think that's what you're trying to shoot for",
+            "count": 2
+        },
+        {
+            "phrase": "last year i was zeroed in on one thing left tackle and then i was worried about support depth along the line",
+            "count": 1
+        },
+        {
+            "phrase": "this weekend is especially important because it shows a little bit of game speed you have to show that you know what you're doing and that you know the offense you have to prove it",
+            "count": 1
+        }
+    ]
+}

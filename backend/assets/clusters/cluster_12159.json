@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "02:33"
+        ],
+        "label": "hello"
+    },
+    "clusterList": [
+        {
+            "phrase": "hello my guilty pleasures is",
+            "count": 1
+        },
+        {
+            "phrase": "you are rapidy becoming a creature of pure sensuality",
+            "count": 1
+        }
+    ]
+}

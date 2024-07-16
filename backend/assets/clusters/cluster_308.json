@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            5,
+            7,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:10",
+            "01:56",
+            "02:34",
+            "02:35",
+            "02:42",
+            "02:59",
+            "03:08",
+            "03:21",
+            "04:00",
+            "04:08",
+            "04:13",
+            "04:18",
+            "04:31",
+            "04:41",
+            "04:45",
+            "04:54"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "the reason half the world feels lonely is because the other half is pretending to be perfect",
+            "count": 16
+        },
+        {
+            "phrase": "one world one dream",
+            "count": 5
+        },
+        {
+            "phrase": "half the perfect world",
+            "count": 4
+        },
+        {
+            "phrase": "what a wonderful world",
+            "count": 2
+        },
+        {
+            "phrase": "whole different world",
+            "count": 1
+        },
+        {
+            "phrase": "the world is great",
+            "count": 1
+        },
+        {
+            "phrase": "any other world",
+            "count": 1
+        },
+        {
+            "phrase": "portions of the world",
+            "count": 1
+        },
+        {
+            "phrase": "a whole virtual world",
+            "count": 1
+        }
+    ]
+}

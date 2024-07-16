@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "04:46"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well don't you want to see where you are",
+            "count": 1
+        },
+        {
+            "phrase": "why don't you watch where you're going",
+            "count": 1
+        }
+    ]
+}

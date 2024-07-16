@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:10",
+            "03:37"
+        ],
+        "label": "establish"
+    },
+    "clusterList": [
+        {
+            "phrase": "establish a presence",
+            "count": 1
+        },
+        {
+            "phrase": "create an online presence",
+            "count": 1
+        },
+        {
+            "phrase": "managing in the presence",
+            "count": 1
+        }
+    ]
+}

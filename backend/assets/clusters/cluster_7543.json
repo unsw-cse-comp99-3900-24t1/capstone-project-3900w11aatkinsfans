@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "04:13",
+            "04:33"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've had a new car since forever",
+            "count": 1
+        },
+        {
+            "phrase": "you used to could buy a new car for 500",
+            "count": 1
+        },
+        {
+            "phrase": "it's not enough to just have a ferrari anymore",
+            "count": 1
+        }
+    ]
+}

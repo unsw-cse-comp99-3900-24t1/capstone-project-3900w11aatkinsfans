@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:25",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i cannot i will not kill you",
+            "count": 1
+        },
+        {
+            "phrase": "i'd rather have been killed than have lost the one i love i hate you",
+            "count": 1
+        },
+        {
+            "phrase": "you will kill neither of them toby i told you long ago that i wanted you to leave my family alone and you foolishly ignored me i never loved you and you know it i will not think twice about destroying you",
+            "count": 1
+        },
+        {
+            "phrase": "you know i might just kill you toby i mean after all you've done to everyone including this girl whose body i am currently in i have every right to bite your head off",
+            "count": 1
+        },
+        {
+            "phrase": "i want you to go away toby i want you far away from my family unless you come in complete peace which i very much doubt i want you to leave my family and their friends alone i want no harm to come to them from you ever again if you dare go against what i'm telling you i will put you through hell do you understand toby",
+            "count": 1
+        }
+    ]
+}

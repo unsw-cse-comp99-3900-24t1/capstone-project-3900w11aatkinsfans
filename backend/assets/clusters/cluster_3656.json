@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "02:28",
+            "03:28",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i appreciate that republicans and democrats in congress agreed to provide these vital funds without tying the hands of our commanders and without an artificial timetable of withdrawal from iraq",
+            "count": 2
+        },
+        {
+            "phrase": "damn it they cut us off no funding gotta send the troops home",
+            "count": 2
+        },
+        {
+            "phrase": "as for the cash and reintegration support we were aware that this was insufficient before the release of the report but it was the best we could do at the time again remember that this was our very first such initiative and the lessons learned have led to better integration support and a larger cash payment for our iraq programme",
+            "count": 1
+        }
+    ]
+}

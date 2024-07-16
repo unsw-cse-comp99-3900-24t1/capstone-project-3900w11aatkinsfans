@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "02:15",
+            "03:24",
+            "03:38",
+            "04:56"
+        ],
+        "label": "prime"
+    },
+    "clusterList": [
+        {
+            "phrase": "prime the pump",
+            "count": 3
+        },
+        {
+            "phrase": "paid at the pump",
+            "count": 1
+        },
+        {
+            "phrase": "12 gas at the pump",
+            "count": 1
+        }
+    ]
+}

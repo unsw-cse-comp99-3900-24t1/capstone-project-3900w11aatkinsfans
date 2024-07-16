@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "00:46",
+            "01:07",
+            "01:19",
+            "01:23",
+            "01:29",
+            "01:56",
+            "02:26",
+            "03:10",
+            "03:51",
+            "03:55",
+            "04:09",
+            "04:32",
+            "04:49",
+            "04:52"
+        ],
+        "label": "until"
+    },
+    "clusterList": [
+        {
+            "phrase": "until we realize they are not mutually exclusive we won't be able to address these issues",
+            "count": 5
+        },
+        {
+            "phrase": "maybe this fall the issue will develop into a republican advantage but i don't see that we're there yet it's a battle of messages between the two parties more than an anvil around the necks of democrats",
+            "count": 5
+        },
+        {
+            "phrase": "we must get the republicans totally out of power or we will have no country left for any of us",
+            "count": 2
+        },
+        {
+            "phrase": "we don't want to get swallowed up in the issues between the two parties",
+            "count": 2
+        },
+        {
+            "phrase": "we now face the ultimate test we have a decision to make because people don't vote for divided parties",
+            "count": 2
+        },
+        {
+            "phrase": "what we've been covering up until now is the nomination process of the two major parties",
+            "count": 1
+        }
+    ]
+}

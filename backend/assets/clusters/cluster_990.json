@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:12",
+            "00:34",
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:19",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "let's vote and then we'll fight",
+            "count": 6
+        },
+        {
+            "phrase": "now they've got a fight on their hands they'll certainly get a fight from me",
+            "count": 4
+        },
+        {
+            "phrase": "we want to fight anyone anywhere",
+            "count": 1
+        },
+        {
+            "phrase": "time for us to unite and stand together",
+            "count": 1
+        },
+        {
+            "phrase": "what are we fighting for",
+            "count": 1
+        },
+        {
+            "phrase": "the're fighting we're talking",
+            "count": 1
+        },
+        {
+            "phrase": "that give us a fighting chance",
+            "count": 1
+        }
+    ]
+}

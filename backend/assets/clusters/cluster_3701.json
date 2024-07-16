@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "02:39",
+            "03:33",
+            "04:05",
+            "04:27"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know we've been known each other for three years",
+            "count": 1
+        },
+        {
+            "phrase": "but i'm not sure it's been nearly six months and they haven't you know start dating",
+            "count": 1
+        },
+        {
+            "phrase": "we can still be friends",
+            "count": 1
+        },
+        {
+            "phrase": "one year friends",
+            "count": 1
+        },
+        {
+            "phrase": "we're becoming like friends he said",
+            "count": 1
+        }
+    ]
+}

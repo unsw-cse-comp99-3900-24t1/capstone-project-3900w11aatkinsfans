@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "00:28",
+            "00:52",
+            "01:19",
+            "03:14",
+            "03:27",
+            "04:28"
+        ],
+        "label": "totally"
+    },
+    "clusterList": [
+        {
+            "phrase": "totally lacked scientific evidence",
+            "count": 3
+        },
+        {
+            "phrase": "remarkably little evidence",
+            "count": 1
+        },
+        {
+            "phrase": "he merely said their data could be used to reach his conclusion which is 100 percent true but something the scientists didn't appreciate because of their ideological leanings",
+            "count": 1
+        },
+        {
+            "phrase": "wrong recent research suggests that even a",
+            "count": 1
+        },
+        {
+            "phrase": "a failed experiment",
+            "count": 1
+        },
+        {
+            "phrase": "provenience is not adequate",
+            "count": 1
+        }
+    ]
+}

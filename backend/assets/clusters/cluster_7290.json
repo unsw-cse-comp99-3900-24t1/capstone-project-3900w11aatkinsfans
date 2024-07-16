@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:19",
+            "04:00",
+            "04:18"
+        ],
+        "label": "behind"
+    },
+    "clusterList": [
+        {
+            "phrase": "behind every successful man is a great woman",
+            "count": 1
+        },
+        {
+            "phrase": "behind every successful man is a woman",
+            "count": 1
+        },
+        {
+            "phrase": "the company of good women",
+            "count": 1
+        }
+    ]
+}

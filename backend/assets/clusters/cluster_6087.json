@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "03:18"
+        ],
+        "label": "ohh"
+    },
+    "clusterList": [
+        {
+            "phrase": "ohh you have caught up",
+            "count": 1
+        },
+        {
+            "phrase": "well now ya have",
+            "count": 1
+        },
+        {
+            "phrase": "oh but you have",
+            "count": 1
+        }
+    ]
+}

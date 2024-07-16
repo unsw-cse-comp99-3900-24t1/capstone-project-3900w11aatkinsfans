@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:51",
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:15",
+            "02:04",
+            "04:28",
+            "04:42"
+        ],
+        "label": "agreeing"
+    },
+    "clusterList": [
+        {
+            "phrase": "why was the determination made that the contract will be for a 10-month period",
+            "count": 4
+        },
+        {
+            "phrase": "taking terms not agreed upon and unilaterally trying to impose them on people who have not voted for a contract is a way of trying to stuff it down their throats",
+            "count": 2
+        },
+        {
+            "phrase": "agreeing to the contract",
+            "count": 1
+        },
+        {
+            "phrase": "if you guys know me if it was contract i wouldn t be here burress said",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn t have anything to do with contract anything like that if that was the case i wouldn t be here",
+            "count": 1
+        },
+        {
+            "phrase": "we don't have a contract with anyone yet",
+            "count": 1
+        }
+    ]
+}

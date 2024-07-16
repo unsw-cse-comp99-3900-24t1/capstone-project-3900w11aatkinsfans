@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:33",
+            "03:51",
+            "04:13"
+        ],
+        "label": "resources"
+    },
+    "clusterList": [
+        {
+            "phrase": "resources on duty that evening were all on-duty personnel",
+            "count": 1
+        },
+        {
+            "phrase": "i've tasked the a1 manpower and personnel staff to go on the road to gain the vital perspective necessary to develop viable solutions for the field a1 has the opportunity to implement positive change for commanders and airmen by streamlining unit programs and administrative processes thereby enhancing commanders ability to lead and execute their mission",
+            "count": 1
+        },
+        {
+            "phrase": "what people do in the civilian sector but solely with practice on military bases by active-duty personnel",
+            "count": 1
+        },
+        {
+            "phrase": "i t would seem to me that you bring everybody in and then you determine what can you do with them what contribution can they make we can train people to do these non-military jobs they can go overseas they can stay here they could be the eyes and ears",
+            "count": 1
+        }
+    ]
+}

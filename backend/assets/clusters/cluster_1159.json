@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:06",
+            "00:18",
+            "00:20",
+            "00:27",
+            "01:19",
+            "03:29",
+            "03:38",
+            "04:04",
+            "04:13",
+            "04:41"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "for the record prejudices can kill and suspicion can destroy and a thoughtless frightened search for a scapegoat has a fallout all its own for the children and the children yet unborn",
+            "count": 4
+        },
+        {
+            "phrase": "great spirits have always found violent opposition from mediocrities the latter cannot understand it when a man does not thoughtlessly submit to hereditary prejudices but honestly and courageously uses his intelligence",
+            "count": 2
+        },
+        {
+            "phrase": "great spirits have always encountered violent opposition from mediocre minds",
+            "count": 1
+        },
+        {
+            "phrase": "it is said an eastern monarch once charged his wise men to invent him a sentence to be ever in view and which should be true and appropriate in all times and situations they presented him the words and this too shall pass away how much it expresses how chastening in the hour of pride how consoling in the depths of affliction",
+            "count": 1
+        },
+        {
+            "phrase": "great spirits have often encountered violent opposition from weak minds",
+            "count": 1
+        },
+        {
+            "phrase": "in this chapter of my autobiography i have obeyed my guru's behest and spread the glad tidings though they confound once more an incurious generation groveling man knows well despair is seldom alien yet these are perversities no part of man's true lot",
+            "count": 1
+        },
+        {
+            "phrase": "who trusted in themselves that they were righteous and treated others with contempt",
+            "count": 1
+        },
+        {
+            "phrase": "to realise the relative validity of one's convictions and yet stand for them unflinchingly is what distinguishes a civilised man from a barbarian",
+            "count": 1
+        },
+        {
+            "phrase": "personality disorders in modern life",
+            "count": 1
+        }
+    ]
+}

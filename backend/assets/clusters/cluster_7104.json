@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:33",
+            "02:46"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll cross that bridge when i come to it",
+            "count": 1
+        },
+        {
+            "phrase": "we'll cross that bridge when we get to it",
+            "count": 1
+        },
+        {
+            "phrase": "really do you really think we'll cross that bridge when we get to it i mean let's take a look at our track record i think out of any group of people we are the last ones you'd want to cross a bridge with",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the embroiderer's flowers",
+            "count": 1
+        },
+        {
+            "phrase": "intimate landscapes the gouache paintings of thomas paquette",
+            "count": 1
+        }
+    ]
+}

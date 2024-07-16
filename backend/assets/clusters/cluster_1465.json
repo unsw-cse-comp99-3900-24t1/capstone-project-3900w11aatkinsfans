@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:29",
+            "00:36",
+            "01:04",
+            "02:10",
+            "02:33",
+            "02:46",
+            "03:18",
+            "04:10",
+            "04:23",
+            "04:33"
+        ],
+        "label": "open"
+    },
+    "clusterList": [
+        {
+            "phrase": "open up the gates",
+            "count": 1
+        },
+        {
+            "phrase": "just have the person at the desk ring us when you get here and we'll come down to meet you",
+            "count": 1
+        },
+        {
+            "phrase": "i will have a meet up red sign",
+            "count": 1
+        },
+        {
+            "phrase": "i am coming to your city next month shall we meet",
+            "count": 1
+        },
+        {
+            "phrase": "you may want to get a jacket while you're at it miss i'll meet you at the diner in fifteen minutes is that sufficient time",
+            "count": 1
+        },
+        {
+            "phrase": "yoohoo i'm here in melbourne",
+            "count": 1
+        },
+        {
+            "phrase": "i think i might start coming back down to the area and hanging out",
+            "count": 1
+        },
+        {
+            "phrase": "okay i must go now but before i do i want to ask you to do me a favor",
+            "count": 1
+        },
+        {
+            "phrase": "we'll pick you up",
+            "count": 1
+        },
+        {
+            "phrase": "you go ahead and go and then i will meet you back at the hotel that night",
+            "count": 1
+        },
+        {
+            "phrase": "excellent i'll have to check the place out maybe i'll see you there saturday",
+            "count": 1
+        }
+    ]
+}

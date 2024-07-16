@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:16",
+            "00:25",
+            "01:06",
+            "01:19",
+            "01:47",
+            "01:50",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28",
+            "04:41"
+        ],
+        "label": "funding"
+    },
+    "clusterList": [
+        {
+            "phrase": "while it is not a perfect bill overall this is a very good piece of legislation we made important reforms in the nutrition title by providing better benefits to people in this country who would otherwise go hungry we also provided the right kind of tax incentives by reforming the endangered species act in a positive way i look forward to working with the u s department of agriculture as we move into the implementation process this year",
+            "count": 7
+        },
+        {
+            "phrase": "funding will also be invested in larger-scale conservation where economic agricultural health and social impacts are considered alongside environmental impacts",
+            "count": 1
+        },
+        {
+            "phrase": "the food stamp program itself is in the u s department of agriculture so it's not a welfare program",
+            "count": 1
+        },
+        {
+            "phrase": "we have two very recent instances where our proposal would bring transparency and accountability under the clean government act colorado taxpayers will know exactly how their hard earned dollars are being spent",
+            "count": 1
+        },
+        {
+            "phrase": "a judge allowed hay production and cattle grazing on certain lands designated for conservation thursday helping farmers and ranchers struggling with high grain prices",
+            "count": 1
+        },
+        {
+            "phrase": "the judge is limiting the program to those farmers and ranchers who applied to use conservation land for haying or grazing by july 8 the usda may approve other applicants who show they made investments before that date in anticipation of using their conserved land",
+            "count": 1
+        }
+    ]
+}

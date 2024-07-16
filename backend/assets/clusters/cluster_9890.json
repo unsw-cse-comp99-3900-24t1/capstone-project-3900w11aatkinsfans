@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:16"
+        ],
+        "label": "friend"
+    },
+    "clusterList": [
+        {
+            "phrase": "friend of the country",
+            "count": 1
+        },
+        {
+            "phrase": "yusuf and friends",
+            "count": 1
+        }
+    ]
+}

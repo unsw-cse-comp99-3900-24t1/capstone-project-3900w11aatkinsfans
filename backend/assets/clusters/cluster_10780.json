@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:38"
+        ],
+        "label": "user"
+    },
+    "clusterList": [
+        {
+            "phrase": "user must be registered to comment",
+            "count": 1
+        },
+        {
+            "phrase": "you have to make sure the keywords are on the page",
+            "count": 1
+        }
+    ]
+}

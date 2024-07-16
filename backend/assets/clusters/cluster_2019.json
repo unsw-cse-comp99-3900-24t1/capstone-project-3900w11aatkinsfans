@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:44",
+            "03:14",
+            "03:18",
+            "04:06",
+            "04:19",
+            "04:28",
+            "04:38"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if it ain't broke don't fix it",
+            "count": 3
+        },
+        {
+            "phrase": "duh it's not broken it looks fine",
+            "count": 1
+        },
+        {
+            "phrase": "if it isn't broke don't fix it",
+            "count": 1
+        },
+        {
+            "phrase": "if it's not broken why fix it",
+            "count": 1
+        },
+        {
+            "phrase": "if it aint broke don't fix it",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i gotta return something cuz it's broken",
+            "count": 1
+        },
+        {
+            "phrase": "broken i thought you couldn't return those things",
+            "count": 1
+        }
+    ]
+}

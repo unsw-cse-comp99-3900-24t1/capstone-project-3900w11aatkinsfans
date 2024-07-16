@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "03:13",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the court is open to the possibility that there are more opportunities for allowing cameras in the courtroom",
+            "count": 1
+        },
+        {
+            "phrase": "chief justice chase t rogers and i believe the new rules will help the public greatly particularly since finding a cell phone without a camera these days is extremely difficult",
+            "count": 1
+        },
+        {
+            "phrase": "as courts have recognized using digital technology a video recording can easily be cut and spliced so as to embarrass and even humiliate a witness",
+            "count": 1
+        }
+    ]
+}

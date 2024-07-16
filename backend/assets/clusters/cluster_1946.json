@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:33",
+            "01:29",
+            "02:00",
+            "02:02",
+            "02:39",
+            "03:10",
+            "03:14",
+            "03:37"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if 5-gallon gasoline isn't an emergency i have to ask what is an emergency",
+            "count": 4
+        },
+        {
+            "phrase": "state of emergency",
+            "count": 2
+        },
+        {
+            "phrase": "adjust to an emergency when it happens",
+            "count": 1
+        },
+        {
+            "phrase": "is this an emergency",
+            "count": 1
+        },
+        {
+            "phrase": "what is the definition of an emergency",
+            "count": 1
+        }
+    ]
+}

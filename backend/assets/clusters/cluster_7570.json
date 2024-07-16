@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:17",
+            "04:21",
+            "04:50"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for the inner-city bike shops there is talk about more bike sales for commuting",
+            "count": 1
+        },
+        {
+            "phrase": "buyers are looking to be near the train and be able to walk out the door to shops and restaurants",
+            "count": 1
+        },
+        {
+            "phrase": "carlisle is a thriving fairtrade city with many of our shops caf s restaurants and businesses using and selling fairtrade products this is a very strong visual way of promoting fairtrade but just as importantly it provides a very attractive focal point for visitors shoppers and residents who enjoy the cathedral grounds",
+            "count": 1
+        }
+    ]
+}

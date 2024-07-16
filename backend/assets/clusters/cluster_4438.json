@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:23",
+            "02:56",
+            "03:01"
+        ],
+        "label": "festival"
+    },
+    "clusterList": [
+        {
+            "phrase": "festival of resistance",
+            "count": 3
+        },
+        {
+            "phrase": "worlds of flavor baking amp pastry arts invitational retreat",
+            "count": 1
+        }
+    ]
+}

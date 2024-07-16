@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:27"
+        ],
+        "label": "duh"
+    },
+    "clusterList": [
+        {
+            "phrase": "duh where were we",
+            "count": 1
+        },
+        {
+            "phrase": "oh we were wondering where that was",
+            "count": 1
+        }
+    ]
+}

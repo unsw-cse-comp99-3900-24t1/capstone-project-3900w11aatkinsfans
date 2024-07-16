@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:38",
+            "02:57",
+            "03:24",
+            "04:45"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a division in the council at this point",
+            "count": 1
+        },
+        {
+            "phrase": "representatives from each of the associations met together with all of council",
+            "count": 1
+        },
+        {
+            "phrase": "high islamic council",
+            "count": 1
+        },
+        {
+            "phrase": "council of elders",
+            "count": 1
+        },
+        {
+            "phrase": "when and if he shall be requested to provide the same by council",
+            "count": 1
+        }
+    ]
+}

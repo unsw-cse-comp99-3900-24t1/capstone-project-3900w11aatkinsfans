@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "04:38"
+        ],
+        "label": "yes"
+    },
+    "clusterList": [
+        {
+            "phrase": "yes you do but no-one must know about this",
+            "count": 1
+        },
+        {
+            "phrase": "of course i do i wouldn't have sat down if i didn't want to know you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:12",
+            "02:24",
+            "02:33",
+            "02:40",
+            "02:41"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "will all the parties be pleased",
+            "count": 3
+        },
+        {
+            "phrase": "nobody is going to be the party pooper here",
+            "count": 2
+        }
+    ]
+}

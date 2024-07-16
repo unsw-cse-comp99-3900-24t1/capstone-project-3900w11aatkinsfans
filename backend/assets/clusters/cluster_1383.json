@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "01:23",
+            "01:24",
+            "01:30",
+            "01:38",
+            "01:50",
+            "02:42",
+            "02:46",
+            "02:51",
+            "02:56",
+            "04:28"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "five reasons i hate telling people i'm christian",
+            "count": 2
+        },
+        {
+            "phrase": "but since you are openly christian you are flagged",
+            "count": 1
+        },
+        {
+            "phrase": "the spirit of christianity forbids rancor",
+            "count": 1
+        },
+        {
+            "phrase": "arn't you a christian",
+            "count": 1
+        },
+        {
+            "phrase": "you have contradicted now three times the word of jesus",
+            "count": 1
+        },
+        {
+            "phrase": "always been a christian",
+            "count": 1
+        },
+        {
+            "phrase": "i am puzzled why you do not extend the opportunity of membership to those who attend your church",
+            "count": 1
+        },
+        {
+            "phrase": "i could not with any intellectual honesty say that i upheld the nicene creed and remain protestant",
+            "count": 1
+        },
+        {
+            "phrase": "the united states is not a christian state or even a generically religious state",
+            "count": 1
+        },
+        {
+            "phrase": "i ask because a friend at my church said that there were atheists in your church",
+            "count": 1
+        },
+        {
+            "phrase": "you must become a member of the roman catholic church",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:27",
+            "02:48",
+            "03:48",
+            "04:38",
+            "04:54"
+        ],
+        "label": "rally"
+    },
+    "clusterList": [
+        {
+            "phrase": "rally for the republic",
+            "count": 3
+        },
+        {
+            "phrase": "sell the rallies",
+            "count": 1
+        },
+        {
+            "phrase": "this is an anti-bush rally",
+            "count": 1
+        }
+    ]
+}

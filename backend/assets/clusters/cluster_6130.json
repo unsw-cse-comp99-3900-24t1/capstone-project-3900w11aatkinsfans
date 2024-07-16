@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:47",
+            "01:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fact is we're doing it and not only are we doing it but in academics we're really on top of things you're not going to a second-class school because it is free",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want online learning to flourish because it takes revenue away from the brick-and-mortar",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of parents assume that schools are teaching kids how to be financially literate and that's far and away not the case",
+            "count": 1
+        }
+    ]
+}

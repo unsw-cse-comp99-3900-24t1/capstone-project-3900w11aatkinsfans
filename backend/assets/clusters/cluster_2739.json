@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:21",
+            "02:09",
+            "02:14",
+            "03:51",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "we need to engage with windows administrators this stuff runs on windows",
+            "count": 3
+        },
+        {
+            "phrase": "the system administrator credentials",
+            "count": 1
+        },
+        {
+            "phrase": "please insert the cd dvd containing the file taskname",
+            "count": 1
+        },
+        {
+            "phrase": "please insert the cd dvd containing the file taskname z01",
+            "count": 1
+        },
+        {
+            "phrase": "install program without admin",
+            "count": 1
+        }
+    ]
+}

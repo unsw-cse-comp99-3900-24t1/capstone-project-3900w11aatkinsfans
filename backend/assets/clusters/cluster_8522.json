@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best time to plant a tree is 10 years ago the second best time is now",
+            "count": 1
+        },
+        {
+            "phrase": "generally the best time to prune anything deciduous is in late winter or early spring just before new growth emerges the worst possible time to prune is right after everything leafs out since the plants have just used up most of their stored energy and haven't had time to replace it fall used to be thought of as a good time to prune deciduous material but spring is much better if possible plants store lots of energy in twiggy growth to help them overwinter and cuts will heal more quickly when the plant is getting ready to grow as opposed to shutting down",
+            "count": 1
+        }
+    ]
+}

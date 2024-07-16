@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:52",
+            "03:34",
+            "04:23"
+        ],
+        "label": "slippery"
+    },
+    "clusterList": [
+        {
+            "phrase": "warp your hand",
+            "count": 2
+        },
+        {
+            "phrase": "slippery when wet",
+            "count": 1
+        },
+        {
+            "phrase": "slipping though my fingers",
+            "count": 1
+        }
+    ]
+}

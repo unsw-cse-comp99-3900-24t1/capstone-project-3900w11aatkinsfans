@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:07",
+            "03:18",
+            "03:52"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe later but not now and i'm not dishing out anything right now i need to talk with my hubs",
+            "count": 1
+        },
+        {
+            "phrase": "yeah let's do it might be the last time you're here",
+            "count": 1
+        },
+        {
+            "phrase": "certainly after all it is my break no loss of mine",
+            "count": 1
+        },
+        {
+            "phrase": "yes and if you need us to take a break let us know",
+            "count": 1
+        }
+    ]
+}

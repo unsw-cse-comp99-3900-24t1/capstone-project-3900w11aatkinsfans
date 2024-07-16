@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:05",
+            "04:28"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there were people on overpasses with tripods taking pictures",
+            "count": 1
+        },
+        {
+            "phrase": "there were a lot of people with video cameras a lot of people taking pictures",
+            "count": 1
+        }
+    ]
+}

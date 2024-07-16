@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:18",
+            "04:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know what will help cure that sore throat baby",
+            "count": 1
+        },
+        {
+            "phrase": "well my throat's as dry as anything i'm gonna get some water okay steve",
+            "count": 1
+        },
+        {
+            "phrase": "the lump-in-your-throat stuff",
+            "count": 1
+        }
+    ]
+}

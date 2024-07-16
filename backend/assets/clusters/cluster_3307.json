@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:06",
+            "02:22",
+            "02:23",
+            "02:55",
+            "03:01"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are more people now saying they don't have answers",
+            "count": 3
+        },
+        {
+            "phrase": "people who have never asked before",
+            "count": 1
+        },
+        {
+            "phrase": "some people are desperate out there",
+            "count": 1
+        },
+        {
+            "phrase": "people have come seeking answers",
+            "count": 1
+        }
+    ]
+}

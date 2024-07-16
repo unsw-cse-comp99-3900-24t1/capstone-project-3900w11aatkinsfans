@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:10",
+            "03:01",
+            "03:16",
+            "04:28",
+            "04:29"
+        ],
+        "label": "can"
+    },
+    "clusterList": [
+        {
+            "phrase": "can i have fries with that",
+            "count": 1
+        },
+        {
+            "phrase": "did you really want the fries too",
+            "count": 1
+        },
+        {
+            "phrase": "honey i just peed on an ad for kentucky fried chicken let's go get some",
+            "count": 1
+        },
+        {
+            "phrase": "skip the fries",
+            "count": 1
+        },
+        {
+            "phrase": "no love here look read here you can have chicken strips or a cheeseburger",
+            "count": 1
+        },
+        {
+            "phrase": "eating french fries",
+            "count": 1
+        }
+    ]
+}

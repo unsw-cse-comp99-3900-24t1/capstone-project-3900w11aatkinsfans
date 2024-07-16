@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:13",
+            "04:14",
+            "04:24",
+            "04:45",
+            "04:55"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've never been drunk i have never done recreational drugs just look at my 20-year career tell me someone who is into partying or doing drugs that could have done that view all archives",
+            "count": 2
+        },
+        {
+            "phrase": "i've never danced that early and that sober in my life",
+            "count": 1
+        },
+        {
+            "phrase": "twenty years of being clean and sober and alcohol and drugs still took me people don't realize that what they do young is going to catch up to their body later on your body remembers",
+            "count": 1
+        },
+        {
+            "phrase": "i don't ever remember getting arrested sober it's when i'm drinking that i don't have the wherewithal to be able to realize the position of my life there's too much at stake for me to throw it away",
+            "count": 1
+        }
+    ]
+}

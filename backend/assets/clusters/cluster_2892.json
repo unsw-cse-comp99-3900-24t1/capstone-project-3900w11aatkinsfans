@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "00:27",
+            "01:20",
+            "03:18",
+            "05:01"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i fired him he's crazy",
+            "count": 3
+        },
+        {
+            "phrase": "he used to flip me off sometimes",
+            "count": 2
+        },
+        {
+            "phrase": "that was meant to put you off him",
+            "count": 1
+        }
+    ]
+}

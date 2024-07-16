@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:40",
+            "03:01",
+            "04:32",
+            "04:55"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't see myself missing that thursday night game",
+            "count": 2
+        },
+        {
+            "phrase": "but my thinking with the ejection is when alex came to bat the prior time he had hit a home run and the very first pitch his next at-bat was up towards the head area i deemed that pitch intentional and i removed cabrera from the game",
+            "count": 1
+        },
+        {
+            "phrase": "they didn't back down and took boston to the wire",
+            "count": 1
+        },
+        {
+            "phrase": "one by one those players left town and manny was alone to carry the mantle of goofiness he did it well and still put up the numbers",
+            "count": 1
+        }
+    ]
+}

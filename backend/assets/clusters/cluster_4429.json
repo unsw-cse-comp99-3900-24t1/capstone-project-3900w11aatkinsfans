@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:08",
+            "02:19",
+            "04:21",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i thought it was a gun i was scared and that's what happened",
+            "count": 1
+        },
+        {
+            "phrase": "it was dangerous to be around the whole scene was scary there were just waves of hatred bouncing around the place",
+            "count": 1
+        },
+        {
+            "phrase": "it was only a nightmare it's alright it's all over",
+            "count": 1
+        },
+        {
+            "phrase": "scariest scene in film history ever",
+            "count": 1
+        }
+    ]
+}

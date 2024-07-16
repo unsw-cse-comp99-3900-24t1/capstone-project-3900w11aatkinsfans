@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:25",
+            "03:18",
+            "03:48"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're being mean",
+            "count": 1
+        },
+        {
+            "phrase": "please don't go i ain't mad at you",
+            "count": 1
+        },
+        {
+            "phrase": "i'll bash you up now you moron",
+            "count": 1
+        }
+    ]
+}

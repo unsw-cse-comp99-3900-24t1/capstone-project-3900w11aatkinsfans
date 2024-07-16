@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:27",
+            "01:01",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:44"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "at least you know what i believe and where i stand",
+            "count": 6
+        },
+        {
+            "phrase": "we grew up with star wars we really believe in it",
+            "count": 2
+        },
+        {
+            "phrase": "all my religious beliefs are based on star wars",
+            "count": 1
+        }
+    ]
+}

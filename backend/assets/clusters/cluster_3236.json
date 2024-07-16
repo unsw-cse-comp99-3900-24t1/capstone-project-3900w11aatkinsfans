@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:06",
+            "03:23",
+            "04:05",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've had a lot of changes but i think the new team will be a lot of fun",
+            "count": 2
+        },
+        {
+            "phrase": "but i don't think it's going to change the quality of their team they're still a good team",
+            "count": 2
+        },
+        {
+            "phrase": "we have a slightly different format this year where we are going to bring three american teams up to lake placid and have some kind of intra-squad stuff going on earlier than we normally have in the past",
+            "count": 1
+        },
+        {
+            "phrase": "i feel it is a very good time to make a change because it is very quiet it is very calm right now for the new person to come on board and get into things slowly the political landscape changes every day though so you never know what will happen nine months from now but the camaraderie in this league and the unity is something truly unique",
+            "count": 1
+        }
+    ]
+}

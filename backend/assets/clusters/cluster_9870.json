@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:33"
+        ],
+        "label": "he'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "he'll say jessica 75 percent of the comments about your new single are favorable",
+            "count": 1
+        },
+        {
+            "phrase": "he'll say jessica 75 of the comments about your new single are favorable",
+            "count": 1
+        }
+    ]
+}

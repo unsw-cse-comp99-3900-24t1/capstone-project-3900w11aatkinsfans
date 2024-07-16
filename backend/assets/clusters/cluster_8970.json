@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:39"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i cannot be anything to you i can never be anything to you",
+            "count": 1
+        },
+        {
+            "phrase": "you are nothing you will always be nothing you will always fail in life",
+            "count": 1
+        }
+    ]
+}

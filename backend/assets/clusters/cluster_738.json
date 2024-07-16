@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:20",
+            "00:25",
+            "00:27",
+            "01:06",
+            "01:25",
+            "01:32",
+            "01:37",
+            "01:40",
+            "02:14",
+            "02:26",
+            "02:32",
+            "03:00",
+            "03:35",
+            "04:31",
+            "04:45",
+            "05:05"
+        ],
+        "label": "he'd"
+    },
+    "clusterList": [
+        {
+            "phrase": "he'd like to clear his name before the election",
+            "count": 8
+        },
+        {
+            "phrase": "the new president who will replace president bush is not going to change his policy in iraq his policy will remain the same regarding the occupation and iraq will see no change i do not think that he is going to change anything because the us policy is clear to everyone",
+            "count": 2
+        },
+        {
+            "phrase": "thebiggest question is whether he can clarify his policy objectivesand create a set-up to face the next general election",
+            "count": 1
+        },
+        {
+            "phrase": "what the president would like to do is to have validation for his failed policy",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't read all the specifics of his plan i agree with his goal i may disagree on all the ways of getting there but i again want to emphasize my respect for the former vice president's leadership on this issue",
+            "count": 1
+        },
+        {
+            "phrase": "i materialize here not to communicate for some special favors but i do want to communicate the suite that he would like to land his study before the general election",
+            "count": 1
+        },
+        {
+            "phrase": "he would like to clear his name before the general election",
+            "count": 1
+        },
+        {
+            "phrase": "voters may see his choice as more of a test",
+            "count": 1
+        },
+        {
+            "phrase": "the biggest question is whether he can clarify his policy objectives and create a set-up to face the next general lection",
+            "count": 1
+        },
+        {
+            "phrase": "is likely to scramble the plans of the next president regardless of which candidate prevails",
+            "count": 1
+        }
+    ]
+}

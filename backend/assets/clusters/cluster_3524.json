@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "03:01",
+            "04:10",
+            "04:33",
+            "04:45"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's 15 000 that we don't have for food now",
+            "count": 1
+        },
+        {
+            "phrase": "so little it might as well be zero",
+            "count": 1
+        },
+        {
+            "phrase": "about tree fiddy",
+            "count": 1
+        },
+        {
+            "phrase": "how much are we talking about here",
+            "count": 1
+        },
+        {
+            "phrase": "you don't realize how much you count on it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:19",
+            "01:23",
+            "01:43",
+            "01:56",
+            "02:37",
+            "03:06",
+            "03:36",
+            "03:38",
+            "04:28"
+        ],
+        "label": "life's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not just been a good life",
+            "count": 3
+        },
+        {
+            "phrase": "it's been an excellent life",
+            "count": 3
+        },
+        {
+            "phrase": "life's been good to me so far",
+            "count": 2
+        },
+        {
+            "phrase": "thank you i have a life",
+            "count": 2
+        },
+        {
+            "phrase": "has done great things for me",
+            "count": 1
+        },
+        {
+            "phrase": "when i was young it seemed that life was so wonderful",
+            "count": 1
+        },
+        {
+            "phrase": "everyday should be a good day to die",
+            "count": 1
+        },
+        {
+            "phrase": "alive and well",
+            "count": 1
+        },
+        {
+            "phrase": "all things wonderful",
+            "count": 1
+        },
+        {
+            "phrase": "where have you been all my life beautiful",
+            "count": 1
+        }
+    ]
+}

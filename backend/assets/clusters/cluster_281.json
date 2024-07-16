@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            25,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:16",
+            "00:19",
+            "00:53",
+            "02:14",
+            "02:22",
+            "04:04",
+            "04:15"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "lou is not talking about mechanics when he goes out to the mound",
+            "count": 25
+        },
+        {
+            "phrase": "the person who has to learn the most is a catcher there are signs from the dugout signs on offense pitchers have different signs but the thing about pudge is that he's faced a lot of these guys",
+            "count": 2
+        },
+        {
+            "phrase": "he got here early went to lunch came back and wanted to watch a lot of film he talked to tony pena i think in a sense from a logistics standpoint the player that has to learn the most is a catcher because you got signs from the bench when you're on defense you got signs when you're on offense every pitcher has different signs so it's a lot to go through",
+            "count": 1
+        },
+        {
+            "phrase": "he actually started slow and gave a lot of pitches in the first but he got dialed in",
+            "count": 1
+        },
+        {
+            "phrase": "has a chance to be a plus pitch if he can command it more consistantly",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just looking for the actions in his pitches how he competes and mound presence",
+            "count": 1
+        },
+        {
+            "phrase": "when you're a young pitcher you say who does he remind me of i can tell you he looks like he's a got a pretty good feel of what he's doing he's pretty sound and his stuff really looks very good",
+            "count": 1
+        },
+        {
+            "phrase": "he's hitting home runs stealing bases driving in important runs and making great catches he's doing everything",
+            "count": 1
+        }
+    ]
+}

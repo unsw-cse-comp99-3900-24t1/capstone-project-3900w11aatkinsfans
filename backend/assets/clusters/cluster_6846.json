@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "03:46",
+            "03:50"
+        ],
+        "label": "saul"
+    },
+    "clusterList": [
+        {
+            "phrase": "saul sell your business for 3 million",
+            "count": 1
+        },
+        {
+            "phrase": "leroy i'm at a critical point in my business venture if i can win the bid for the state's advertising dollars i'll be set winning the bid will bring 600 000 to 700 000 of revenues into the firm on top of that i estimate that the publicity will bring another 200 000 to 300 000 of new business",
+            "count": 1
+        },
+        {
+            "phrase": "but that's business if we can quickly get him 3 000 and he becomes the power company for the neighborhood that's business",
+            "count": 1
+        }
+    ]
+}

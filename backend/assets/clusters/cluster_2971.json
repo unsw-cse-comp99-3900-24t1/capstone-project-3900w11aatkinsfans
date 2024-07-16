@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "coach"
+    },
+    "clusterList": [
+        {
+            "phrase": "coach tom coughlin from the giants andy reid bill belichick bob kraft doug flutie john elway al gore you'd be surprised at the people who were glued to their tv sunday charlie weis",
+            "count": 6
+        }
+    ]
+}

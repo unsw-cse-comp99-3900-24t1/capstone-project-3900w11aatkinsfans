@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "04:45"
+        ],
+        "label": "combat"
+    },
+    "clusterList": [
+        {
+            "phrase": "combat field while weapons were talking",
+            "count": 2
+        },
+        {
+            "phrase": "it's more a shoot-out a tug of war it's hand-to-hand combat using thoughts and words",
+            "count": 1
+        }
+    ]
+}

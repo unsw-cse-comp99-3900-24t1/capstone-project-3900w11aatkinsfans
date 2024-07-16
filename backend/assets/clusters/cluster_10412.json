@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the more precisely the position is determined the less precisely the momentum is known in this instant and vice versa",
+            "count": 1
+        },
+        {
+            "phrase": "that treats an object's position and its momentum as interchangable at any given instant",
+            "count": 1
+        }
+    ]
+}

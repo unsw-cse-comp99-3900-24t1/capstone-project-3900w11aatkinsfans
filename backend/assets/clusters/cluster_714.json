@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:19",
+            "00:28",
+            "00:51",
+            "00:53",
+            "01:25",
+            "01:47",
+            "01:56",
+            "02:09",
+            "02:33",
+            "03:10",
+            "03:18",
+            "03:43",
+            "03:51",
+            "03:56",
+            "04:09",
+            "04:38",
+            "04:56"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "clear his name",
+            "count": 5
+        },
+        {
+            "phrase": "he's got a funny name",
+            "count": 3
+        },
+        {
+            "phrase": "and his name is cantona",
+            "count": 2
+        },
+        {
+            "phrase": "oh yeah who's that",
+            "count": 1
+        },
+        {
+            "phrase": "jonas frogren of rock",
+            "count": 1
+        },
+        {
+            "phrase": "r i p and his name",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't sound anything like him",
+            "count": 1
+        },
+        {
+            "phrase": "no who is it",
+            "count": 1
+        },
+        {
+            "phrase": "man this guy has a funny name",
+            "count": 1
+        },
+        {
+            "phrase": "is he your father",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know maybe because of his name",
+            "count": 1
+        },
+        {
+            "phrase": "that's not a real first name",
+            "count": 1
+        }
+    ]
+}

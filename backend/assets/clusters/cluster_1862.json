@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:03",
+            "02:22",
+            "02:33",
+            "03:12",
+            "03:21",
+            "03:48",
+            "03:54",
+            "04:23"
+        ],
+        "label": "jack"
+    },
+    "clusterList": [
+        {
+            "phrase": "jason kendall-type third baseman",
+            "count": 3
+        },
+        {
+            "phrase": "joey and jason on the rangers",
+            "count": 2
+        },
+        {
+            "phrase": "me and bobby mcgee",
+            "count": 2
+        },
+        {
+            "phrase": "jack and bobby",
+            "count": 1
+        },
+        {
+            "phrase": "kylee nash and",
+            "count": 1
+        }
+    ]
+}

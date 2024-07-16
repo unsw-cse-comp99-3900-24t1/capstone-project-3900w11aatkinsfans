@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:39",
+            "02:45",
+            "03:13"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in what kind of plan or account should i be keeping my investments for a child's education",
+            "count": 1
+        },
+        {
+            "phrase": "if we invest thousands and thousands of dollars in one person's days to weeks we are taking away those dollars from someone",
+            "count": 1
+        },
+        {
+            "phrase": "we're getting public funds and we should be investing back into the public",
+            "count": 1
+        },
+        {
+            "phrase": "my work requires me to make more of a personal investment every year as i get more responsibility",
+            "count": 1
+        }
+    ]
+}

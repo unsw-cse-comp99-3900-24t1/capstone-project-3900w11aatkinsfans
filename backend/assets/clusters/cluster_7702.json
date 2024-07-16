@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "04:41"
+        ],
+        "label": "penny"
+    },
+    "clusterList": [
+        {
+            "phrase": "penny doesn't seem to care",
+            "count": 1
+        },
+        {
+            "phrase": "no sigh of penny",
+            "count": 1
+        },
+        {
+            "phrase": "no sign of penny",
+            "count": 1
+        }
+    ]
+}

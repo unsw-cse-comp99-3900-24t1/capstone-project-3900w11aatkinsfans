@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:32",
+            "01:16",
+            "03:55",
+            "05:05"
+        ],
+        "label": "integrity"
+    },
+    "clusterList": [
+        {
+            "phrase": "integrity and authenticity",
+            "count": 1
+        },
+        {
+            "phrase": "failed to adequately protect persons",
+            "count": 1
+        },
+        {
+            "phrase": "lacks any degree of integrity",
+            "count": 1
+        },
+        {
+            "phrase": "heedless and irresponsible pacifist",
+            "count": 1
+        },
+        {
+            "phrase": "threatened the integrity",
+            "count": 1
+        }
+    ]
+}

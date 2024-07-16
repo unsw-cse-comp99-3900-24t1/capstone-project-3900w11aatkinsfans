@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:23",
+            "02:28",
+            "04:41"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for our wireless broadband customers peak hours are in the evenings and if a cell's congested it's congested mostly at that time but that's not necessarily when you use your iphone i think this will be a very different experience",
+            "count": 1
+        },
+        {
+            "phrase": "german tech mag area dvd have published a test of the iphone 3g they said their device serial production not part of a seeding had serious trouble maintaining a stable signal even 300 meters unobstructed view from the celltowers 500 meters from the celltower within a building they could hardly get any 3g signal at the same time their nokia e61i worked fine with full bars reception",
+            "count": 1
+        },
+        {
+            "phrase": "apple iphone 3g when you are outside and next to a cell tower but even then don't expect full 3g",
+            "count": 1
+        },
+        {
+            "phrase": "your iphone's edge or 3g internet connection with your computer",
+            "count": 1
+        },
+        {
+            "phrase": "woo iphone 3g",
+            "count": 1
+        }
+    ]
+}

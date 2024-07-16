@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:28"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to me they're too large",
+            "count": 3
+        },
+        {
+            "phrase": "they've just got such big",
+            "count": 3
+        },
+        {
+            "phrase": "they're big really big",
+            "count": 1
+        }
+    ]
+}

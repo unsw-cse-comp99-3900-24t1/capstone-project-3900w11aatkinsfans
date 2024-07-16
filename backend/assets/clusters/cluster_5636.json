@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:05"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "ewan and i are delighted to receive this award from the scout association as navigation is so important to the trips we take",
+            "count": 2
+        },
+        {
+            "phrase": "i'm surprised to have won this award as it is my first of this kind but i hope to use this to inspire to win my pet events the uneven bars and balance beam at the asean schools championships",
+            "count": 1
+        }
+    ]
+}

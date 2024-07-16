@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "01:05",
+            "02:09",
+            "02:14",
+            "02:18",
+            "03:23",
+            "03:24",
+            "04:17",
+            "04:18"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you believed the story put out that",
+            "count": 3
+        },
+        {
+            "phrase": "so there really isn't much of a story there",
+            "count": 2
+        },
+        {
+            "phrase": "never intended to become the story just the teller of the story",
+            "count": 1
+        },
+        {
+            "phrase": "doesn't have a story",
+            "count": 1
+        },
+        {
+            "phrase": "but it's a story that needs to be told",
+            "count": 1
+        },
+        {
+            "phrase": "why they feel it's important to tell their story",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:56",
+            "01:05",
+            "01:07",
+            "01:23",
+            "01:38",
+            "01:50",
+            "02:19",
+            "02:36"
+        ],
+        "label": "decapitated"
+    },
+    "clusterList": [
+        {
+            "phrase": "decapitated on a greyhound bus this sounds like something out of a richard laymon novel",
+            "count": 6
+        },
+        {
+            "phrase": "a 40-year-old man is in custody in manitoba after a young man was stabbed and witnesses said decapitated aboard a greyhound bus travelling through the province overnight",
+            "count": 3
+        },
+        {
+            "phrase": "the attack continued as other passengers fled the bus and waited for police",
+            "count": 1
+        },
+        {
+            "phrase": "a man on a greyhound bus travelling across the canadian prairies has killed and decapitated a fellow passenger",
+            "count": 1
+        }
+    ]
+}

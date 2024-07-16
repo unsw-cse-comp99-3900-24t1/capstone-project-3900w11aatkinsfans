@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:19",
+            "03:29"
+        ],
+        "label": "spies"
+    },
+    "clusterList": [
+        {
+            "phrase": "spies for hire",
+            "count": 1
+        },
+        {
+            "phrase": "what the book does say is that when new orleans district attorney jim garrison charged businessman clay shaw with participation in the jfk assassination conspiracy garrison stumbled upon the israeli mossad connection to the murder of president kennedy shaw served on the board of a shadowy corporation known as permindex a primary shareholder in permindex was the banque de credit international of geneva founded by tibor rosenbaum an arms procurer and financier for the mossad",
+            "count": 1
+        },
+        {
+            "phrase": "a self-described research consultant who for decades has covertly infiltrated citizens groups for private security firms hired by corporations that are targeted by activist campaigns for some time sapone also worked for the national rifle association",
+            "count": 1
+        }
+    ]
+}

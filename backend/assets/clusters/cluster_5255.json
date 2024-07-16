@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:09",
+            "03:18",
+            "05:05"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do but love and you can do as you please",
+            "count": 1
+        },
+        {
+            "phrase": "well it isn't like you have anything else better to do",
+            "count": 1
+        },
+        {
+            "phrase": "of course i do what do you think i am i love my husband and i feel i've spent enough time away from him just to be with you i can't afford to waste my life with you i'd rather spend it with someone i love pretty soon i'll have a little family to spend time with i don't know what you're going to do but you'd better hurry up and do it i don't wish to see you ever again",
+            "count": 1
+        },
+        {
+            "phrase": "there's too much to do so i won't do anything",
+            "count": 1
+        }
+    ]
+}

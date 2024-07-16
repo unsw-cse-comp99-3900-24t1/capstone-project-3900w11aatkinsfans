@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:55",
+            "04:23",
+            "04:24",
+            "04:28"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey i'm going to be in there for a second i'll just leave my purse out here",
+            "count": 2
+        },
+        {
+            "phrase": "hey if you're in there youre about to get locked in",
+            "count": 1
+        },
+        {
+            "phrase": "but sissy i'm scared to be in here",
+            "count": 1
+        }
+    ]
+}

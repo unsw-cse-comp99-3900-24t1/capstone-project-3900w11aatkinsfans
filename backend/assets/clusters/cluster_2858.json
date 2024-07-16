@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:53",
+            "04:33",
+            "04:40",
+            "04:49",
+            "05:00"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's become a little bit more real for everybody",
+            "count": 4
+        },
+        {
+            "phrase": "in the past five years it has really come into its own",
+            "count": 1
+        },
+        {
+            "phrase": "it has since become incre",
+            "count": 1
+        }
+    ]
+}

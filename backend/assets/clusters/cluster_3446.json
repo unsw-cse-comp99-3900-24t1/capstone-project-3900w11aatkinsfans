@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "01:43",
+            "03:34",
+            "03:39",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "releasing most of the illegal immigrants currently in detention so that they can disappear into the wider community and undercut the pay of working families",
+            "count": 2
+        },
+        {
+            "phrase": "the benefit is that they won't be put into detention",
+            "count": 1
+        },
+        {
+            "phrase": "it marginalizes them for life barring people from employment education opportunities and housing options",
+            "count": 1
+        },
+        {
+            "phrase": "it certainly makes sense to create conditions to make people understand that if they're here illegally it's not going to benefit them to stick around",
+            "count": 1
+        },
+        {
+            "phrase": "this gives illegal immigrants the chance to leave the country without any harm being done and under very controlled circumstances",
+            "count": 1
+        }
+    ]
+}

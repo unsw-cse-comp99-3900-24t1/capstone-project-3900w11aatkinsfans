@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:48",
+            "01:33",
+            "01:47",
+            "01:50",
+            "03:46",
+            "04:51"
+        ],
+        "label": "ten"
+    },
+    "clusterList": [
+        {
+            "phrase": "ten billion dollars today will as from august 1 be revalued to one zimdollar dollar",
+            "count": 3
+        },
+        {
+            "phrase": "we are now 90 million people and will be in 2013 100 million given that 2 million babies are born every year",
+            "count": 1
+        },
+        {
+            "phrase": "another year of selling 2 billion dvds would not be so bad maybe it will be 1 9 billion",
+            "count": 1
+        },
+        {
+            "phrase": "it actually took 35 years and cost 114 billion over 800 billion in current dollars",
+            "count": 1
+        },
+        {
+            "phrase": "we have already been predicted to be a billion company we will be a billion company",
+            "count": 1
+        }
+    ]
+}

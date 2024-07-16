@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:33"
+        ],
+        "label": "australian"
+    },
+    "clusterList": [
+        {
+            "phrase": "australian men like to be waited on",
+            "count": 1
+        },
+        {
+            "phrase": "well obviously not by australian women or they'll be waiting a long time",
+            "count": 1
+        }
+    ]
+}

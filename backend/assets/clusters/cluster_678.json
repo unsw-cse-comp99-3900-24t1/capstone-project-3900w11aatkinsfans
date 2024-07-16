@@ -1,0 +1,107 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:24",
+            "00:41",
+            "01:09",
+            "01:14",
+            "01:28",
+            "01:41",
+            "02:01",
+            "02:05",
+            "02:10",
+            "02:24",
+            "02:34",
+            "03:14",
+            "03:18",
+            "03:34",
+            "03:55",
+            "04:28",
+            "05:04"
+        ],
+        "label": "couple"
+    },
+    "clusterList": [
+        {
+            "phrase": "take a while",
+            "count": 4
+        },
+        {
+            "phrase": "another 30 minutes another hour",
+            "count": 2
+        },
+        {
+            "phrase": "wait a minute three minutes",
+            "count": 2
+        },
+        {
+            "phrase": "couple of hours",
+            "count": 1
+        },
+        {
+            "phrase": "we leave in three hours so you better go get ready saint",
+            "count": 1
+        },
+        {
+            "phrase": "i can finish it off in about 45 minutes and head to work",
+            "count": 1
+        },
+        {
+            "phrase": "i heard you five minutes",
+            "count": 1
+        },
+        {
+            "phrase": "few more minutes",
+            "count": 1
+        },
+        {
+            "phrase": "oh in a half hour",
+            "count": 1
+        },
+        {
+            "phrase": "do not be afraid to 5 hrs 42 mins ago",
+            "count": 1
+        },
+        {
+            "phrase": "will i get enough game time on it",
+            "count": 1
+        },
+        {
+            "phrase": "i've got 10 minutes to play a game",
+            "count": 1
+        },
+        {
+            "phrase": "i've gots ta leave in a half-hour",
+            "count": 1
+        },
+        {
+            "phrase": "do not be afraid to 7 hrs 11 mins ago",
+            "count": 1
+        },
+        {
+            "phrase": "3 minutes sounds good",
+            "count": 1
+        }
+    ]
+}

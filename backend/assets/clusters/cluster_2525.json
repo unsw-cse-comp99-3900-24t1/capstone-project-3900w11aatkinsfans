@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "00:51",
+            "03:32",
+            "04:13"
+        ],
+        "label": "coach"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's definitely a dream to play for team canada so any time you get a call like that it's really exciting",
+            "count": 2
+        },
+        {
+            "phrase": "coach melrose expects me to play in the nhl this year and i know there's a lot of hard work to be done until then but i also expect to be there stamkos admitted",
+            "count": 1
+        },
+        {
+            "phrase": "i feel i've trained hard and done the right things so hopefully reaching the nhl will become a reality this year",
+            "count": 1
+        },
+        {
+            "phrase": "i started working as an nhl reporter back in vancouver and i was lucky to grab a chance to work as an analyst for sbs sports",
+            "count": 1
+        },
+        {
+            "phrase": "i've been involved with coaches around the state even when i was in the insurance business advising them what to do with their athletes it's something i've always wanted to do always knew i could do pretty well at it i like training with the team too so to me the atmosphere is fun",
+            "count": 1
+        },
+        {
+            "phrase": "i've always wanted to work with the right people coaches that fit the description of what i want to become i felt that this opportunity will allow me to get to where i want to as a coach and as a person",
+            "count": 1
+        }
+    ]
+}

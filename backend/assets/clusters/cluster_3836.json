@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:32",
+            "04:46"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these water bowls are empty because rabbits drink water at night",
+            "count": 4
+        },
+        {
+            "phrase": "the kids are staying home because they don't even have porridge most are given just a cup of water at the start of the day",
+            "count": 1
+        }
+    ]
+}

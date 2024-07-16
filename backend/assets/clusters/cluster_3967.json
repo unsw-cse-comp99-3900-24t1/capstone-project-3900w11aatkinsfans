@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "01:52",
+            "04:44"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if that happens the fans will revolt",
+            "count": 2
+        },
+        {
+            "phrase": "you have to handle fans as a fellow fan and you can't talk down to them fans are smart if they smell bullshit they're not going to jump into it",
+            "count": 2
+        },
+        {
+            "phrase": "turn the fans against you",
+            "count": 1
+        }
+    ]
+}

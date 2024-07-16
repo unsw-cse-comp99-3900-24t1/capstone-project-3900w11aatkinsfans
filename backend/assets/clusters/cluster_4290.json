@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:11",
+            "03:34",
+            "04:32",
+            "04:37"
+        ],
+        "label": "elida"
+    },
+    "clusterList": [
+        {
+            "phrase": "elida i got some bad news rachel is no longer with us",
+            "count": 1
+        },
+        {
+            "phrase": "well a lot of people i hope kayla will be here",
+            "count": 1
+        },
+        {
+            "phrase": "nobody can replace our bethany",
+            "count": 1
+        },
+        {
+            "phrase": "well here she is bethany we have a strange bug we need to identify",
+            "count": 1
+        },
+        {
+            "phrase": "she was one of those people who was always there she'll be sorely missed by a lot of people",
+            "count": 1
+        }
+    ]
+}

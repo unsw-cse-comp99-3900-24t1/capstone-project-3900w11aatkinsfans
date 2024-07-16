@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "01:58",
+            "02:05",
+            "02:44",
+            "03:38",
+            "04:37"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on the oxygen side it doesn't work well and you have to put way more energy in than needed to get the oxygen out",
+            "count": 3
+        },
+        {
+            "phrase": "so it probably requires much less electricity than traditional electrolysis",
+            "count": 2
+        },
+        {
+            "phrase": "if not we'll have to find another way to get hydrogen",
+            "count": 1
+        },
+        {
+            "phrase": "researchers have developed a new water-splitting catalyst that is easily prepared from earth-abundant materials cobalt and phosphorous and operates in benign conditions ph neutral water at room temperature and 1 atm pressure although the new catalyst requires further work",
+            "count": 1
+        }
+    ]
+}

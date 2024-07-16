@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:06",
+            "02:37",
+            "02:46",
+            "03:27",
+            "04:05"
+        ],
+        "label": "unfortunately"
+    },
+    "clusterList": [
+        {
+            "phrase": "i did not expect how fast it's growing",
+            "count": 4
+        },
+        {
+            "phrase": "unfortunately it is growing",
+            "count": 1
+        },
+        {
+            "phrase": "as heifer builds on its recent rapid growth",
+            "count": 1
+        },
+        {
+            "phrase": "it's grown a lot quicker than i ever expected",
+            "count": 1
+        }
+    ]
+}

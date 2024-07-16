@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:36",
+            "04:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a bit of freedom for all can go a long way",
+            "count": 1
+        },
+        {
+            "phrase": "freedom of speach tour",
+            "count": 1
+        },
+        {
+            "phrase": "friend of freedom",
+            "count": 1
+        }
+    ]
+}

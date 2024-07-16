@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "03:12",
+            "04:18",
+            "04:45"
+        ],
+        "label": "other"
+    },
+    "clusterList": [
+        {
+            "phrase": "other peoples sex lives",
+            "count": 1
+        },
+        {
+            "phrase": "sex is mechanical when it is without spiritual meaning",
+            "count": 1
+        },
+        {
+            "phrase": "it's only sex",
+            "count": 1
+        },
+        {
+            "phrase": "the opposite of sex",
+            "count": 1
+        }
+    ]
+}

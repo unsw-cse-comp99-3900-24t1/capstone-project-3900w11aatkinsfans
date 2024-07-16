@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:09",
+            "01:43"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is that history is like a giant river",
+            "count": 1
+        },
+        {
+            "phrase": "giant river of history",
+            "count": 1
+        },
+        {
+            "phrase": "the water horse legend of the deep",
+            "count": 1
+        },
+        {
+            "phrase": "the river estates",
+            "count": 1
+        }
+    ]
+}

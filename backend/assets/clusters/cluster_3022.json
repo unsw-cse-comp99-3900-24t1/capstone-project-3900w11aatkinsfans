@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:29",
+            "01:35",
+            "01:50",
+            "03:12",
+            "04:31"
+        ],
+        "label": "writing"
+    },
+    "clusterList": [
+        {
+            "phrase": "writing supernatural stories there always has to be that level of things that happen that are beyond human comprehension",
+            "count": 3
+        },
+        {
+            "phrase": "wittiest angriest most exacting and most desolate work of fiction we've yet had about life in new york and london after the world trade center fell",
+            "count": 1
+        },
+        {
+            "phrase": "runs the gamut from the autobiographical to the fantastic in a broad range of styles and media you'll find narratives to follow around the gallery keenly observed slices of life adventure surrealism and humour",
+            "count": 1
+        },
+        {
+            "phrase": "gobs of gore melodramatic and occasionally bumbling prose and a deviant twisted ending john saul's famous recipe for family disaster and reader delight",
+            "count": 1
+        }
+    ]
+}

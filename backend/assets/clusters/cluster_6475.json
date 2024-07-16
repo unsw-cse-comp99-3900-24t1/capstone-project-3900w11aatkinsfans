@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:12",
+            "01:43",
+            "03:02"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a frivolous suit based on falsehoods",
+            "count": 2
+        },
+        {
+            "phrase": "this law suit is ridiculous and riddled with lie upon lie from verne troyer and his camp it is in our opinion a transparent attempt to secure as much publicity as he can from his less then average career in the wake of his most recent failure in the love guru",
+            "count": 1
+        }
+    ]
+}

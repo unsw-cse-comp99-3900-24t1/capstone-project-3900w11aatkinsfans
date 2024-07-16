@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:42",
+            "01:46",
+            "01:47",
+            "02:14"
+        ],
+        "label": "technical"
+    },
+    "clusterList": [
+        {
+            "phrase": "technical details will be added as soon as this vulnerability will be fixed",
+            "count": 5
+        }
+    ]
+}

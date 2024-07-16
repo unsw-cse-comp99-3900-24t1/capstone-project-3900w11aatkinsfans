@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            6,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "01:32",
+            "01:41",
+            "01:47",
+            "02:33",
+            "02:55",
+            "03:11",
+            "03:15",
+            "03:27",
+            "04:05",
+            "04:09",
+            "04:13",
+            "04:50"
+        ],
+        "label": "ask"
+    },
+    "clusterList": [
+        {
+            "phrase": "meeting took place in the vice-president's office the subject was",
+            "count": 7
+        },
+        {
+            "phrase": "ask the future vice president",
+            "count": 1
+        },
+        {
+            "phrase": "always respected the vice president",
+            "count": 1
+        },
+        {
+            "phrase": "i've admired the vice president on this issue",
+            "count": 1
+        },
+        {
+            "phrase": "what does a vice president actually do",
+            "count": 1
+        },
+        {
+            "phrase": "meeting took place in the vice-president's office",
+            "count": 1
+        },
+        {
+            "phrase": "oh the vice president is conspiring to commit illegal acts well we know he's a scumwad who does stuff like this so as long as he didn't actually follow through i guess we have nothing",
+            "count": 1
+        },
+        {
+            "phrase": "this cover-up is being directed from the white house and the office of the vice-president",
+            "count": 1
+        },
+        {
+            "phrase": "the vice president intends on working hard this cycle to return a republican majority to congress",
+            "count": 1
+        },
+        {
+            "phrase": "congress lacks the constitutional power to regulate by law what a vice-president communicates in the performance of the vice president's official duties or what a vice president recommends that a president communicate",
+            "count": 1
+        },
+        {
+            "phrase": "and i think he's head and shoulders above a man like sen obama in terms of his experience and his ability to make these decisions said the vice president who has served four presidents during his own time in washington",
+            "count": 1
+        },
+        {
+            "phrase": "as vice president the only real duties you have under the constitution is to preside over the senate and to cast tie-breaking votes",
+            "count": 1
+        },
+        {
+            "phrase": "any time you have a sitting vice president campaigning for you it draws attention and builds excitement",
+            "count": 1
+        },
+        {
+            "phrase": "is frequently spoken of as a possible vice president but why not president",
+            "count": 1
+        }
+    ]
+}

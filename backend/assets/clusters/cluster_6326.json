@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:00",
+            "03:18"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you're sick you're green",
+            "count": 1
+        },
+        {
+            "phrase": "why is it that my blue eyes get bluer in the summer when i get tan",
+            "count": 1
+        },
+        {
+            "phrase": "there are days when those gray skies make you blue each forward step you take you fall back by two hmm hmmm",
+            "count": 1
+        }
+    ]
+}

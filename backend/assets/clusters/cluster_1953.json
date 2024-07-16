@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:02",
+            "01:20",
+            "01:29",
+            "03:14",
+            "03:18",
+            "03:38",
+            "03:46",
+            "04:45"
+        ],
+        "label": "developing"
+    },
+    "clusterList": [
+        {
+            "phrase": "our model revolves around installation remedial services and training services",
+            "count": 3
+        },
+        {
+            "phrase": "developing services that improve lives",
+            "count": 1
+        },
+        {
+            "phrase": "service on the go",
+            "count": 1
+        },
+        {
+            "phrase": "what kind of services",
+            "count": 1
+        },
+        {
+            "phrase": "a whole real service",
+            "count": 1
+        },
+        {
+            "phrase": "searching for service",
+            "count": 1
+        },
+        {
+            "phrase": "the profiles outline the breadth of services this practice group can offer as well as emphasize their successes",
+            "count": 1
+        }
+    ]
+}

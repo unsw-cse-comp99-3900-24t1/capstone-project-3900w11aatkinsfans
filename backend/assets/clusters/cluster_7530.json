@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:27",
+            "04:13"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it has been 10 years since we launched this effort and the message today is that time is not on our side",
+            "count": 2
+        },
+        {
+            "phrase": "are we done yet",
+            "count": 1
+        }
+    ]
+}

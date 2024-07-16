@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:38",
+            "00:47",
+            "01:05",
+            "01:48"
+        ],
+        "label": "today's"
+    },
+    "clusterList": [
+        {
+            "phrase": "today's decision renders the grounds for mr bolten and mr rove's refusal to comply with the committee's subpoenas moot",
+            "count": 2
+        },
+        {
+            "phrase": "in a lengthy ruling totaling nearly 100 pages he rejected the administration's request to dismiss the lawsuit that had been filed by the house of representatives judiciary committee in march",
+            "count": 1
+        },
+        {
+            "phrase": "resolution recommending that the house of representatives find karl rove in contempt of congress for refusing to comply",
+            "count": 1
+        },
+        {
+            "phrase": "this resolution recommends that the house pursue statutory contempt against mr rove and pursue other legal remedies to enforce the subpoena as appropriate it is regrettable but it has become necessary to pursue this course because we have been left with no other option",
+            "count": 1
+        }
+    ]
+}

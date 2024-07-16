@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:28",
+            "00:41",
+            "00:46",
+            "00:55",
+            "01:10",
+            "03:34",
+            "04:05"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at the end of the day this bill will invite more lawyers to file more lawsuits because it offers them a bigger payday",
+            "count": 6
+        },
+        {
+            "phrase": "on the contrary we're seeing a marked increase in securities class action litigation and a significant increase in case values for instance 2007 securities class action settlements exceeded those in previous years by 15 percent to 46 percent depending upon the measurement",
+            "count": 1
+        },
+        {
+            "phrase": "and court costs",
+            "count": 1
+        }
+    ]
+}

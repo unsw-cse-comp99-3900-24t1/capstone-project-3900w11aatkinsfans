@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "04:33"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on the move",
+            "count": 1
+        },
+        {
+            "phrase": "moved and seconded",
+            "count": 1
+        }
+    ]
+}

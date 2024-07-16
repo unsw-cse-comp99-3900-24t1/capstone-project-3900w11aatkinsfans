@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:02",
+            "01:30",
+            "05:03"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he revives all those difficult images",
+            "count": 2
+        },
+        {
+            "phrase": "man in the mirror",
+            "count": 1
+        },
+        {
+            "phrase": "korine is finding his way toward artistic greatness by searching his soul it's possible that the man in the mirror is him",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:06"
+        ],
+        "label": "make"
+    },
+    "clusterList": [
+        {
+            "phrase": "make it with you by the bread",
+            "count": 1
+        },
+        {
+            "phrase": "bread line i hear you calling me",
+            "count": 1
+        }
+    ]
+}

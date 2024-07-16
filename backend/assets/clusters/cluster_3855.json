@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "01:16",
+            "03:13"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how was i going to stand out from all the other groupies i needed some kind of schtick",
+            "count": 3
+        },
+        {
+            "phrase": "i was right out of my comfort zone it was an entirely new group of people so it was a bit of a challenge for me but i made it",
+            "count": 1
+        },
+        {
+            "phrase": "when i look back i can possibly say in a sense i had my own stage and i was the star performer and i had a good supporting cast in my staff and usually a standing room only audience maybe only half of them appreciated what i did",
+            "count": 1
+        }
+    ]
+}

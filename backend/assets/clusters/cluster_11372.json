@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:21",
+            "04:19"
+        ],
+        "label": "send"
+    },
+    "clusterList": [
+        {
+            "phrase": "send a phweet",
+            "count": 1
+        },
+        {
+            "phrase": "trick or tweet",
+            "count": 1
+        }
+    ]
+}

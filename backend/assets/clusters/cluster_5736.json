@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:18",
+            "05:01"
+        ],
+        "label": "obama"
+    },
+    "clusterList": [
+        {
+            "phrase": "obama worried gop will inject race into campaign at florida fund raiser in june",
+            "count": 1
+        },
+        {
+            "phrase": "this ad asserts a mccain campaign talking-point that obama wouldn't make time for wounded troops unless cameras were allowed to follow him but did make time to work out at a gym",
+            "count": 1
+        },
+        {
+            "phrase": "mccain planned to attack obama if he did visit troops abroad",
+            "count": 1
+        }
+    ]
+}

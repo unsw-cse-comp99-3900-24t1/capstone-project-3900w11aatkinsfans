@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:15",
+            "00:57",
+            "01:10"
+        ],
+        "label": "personal"
+    },
+    "clusterList": [
+        {
+            "phrase": "cognizant property official",
+            "count": 2
+        },
+        {
+            "phrase": "personal property chattels",
+            "count": 1
+        },
+        {
+            "phrase": "property in cyberspace",
+            "count": 1
+        }
+    ]
+}

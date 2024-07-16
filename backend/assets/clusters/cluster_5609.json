@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:06",
+            "01:20"
+        ],
+        "label": "oye"
+    },
+    "clusterList": [
+        {
+            "phrase": "oye candy stand man can i borrow your stand i got some bichess to impress",
+            "count": 1
+        },
+        {
+            "phrase": "emily is here and we were getting ready to make banana daiquiris would you like one",
+            "count": 1
+        },
+        {
+            "phrase": "can i have some raspberries",
+            "count": 1
+        }
+    ]
+}

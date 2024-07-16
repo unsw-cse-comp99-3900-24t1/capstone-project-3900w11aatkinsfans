@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:13",
+            "04:51"
+        ],
+        "label": "kindness"
+    },
+    "clusterList": [
+        {
+            "phrase": "kindness to your friends and vengeance upon your enemies",
+            "count": 1
+        },
+        {
+            "phrase": "not rewarding evildoers by talking to them",
+            "count": 1
+        },
+        {
+            "phrase": "love your enemies even when they do you harm",
+            "count": 1
+        }
+    ]
+}

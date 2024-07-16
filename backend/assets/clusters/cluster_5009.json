@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:52",
+            "03:18",
+            "03:47"
+        ],
+        "label": "karnak"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of the most importan",
+            "count": 2
+        },
+        {
+            "phrase": "karnak the great",
+            "count": 1
+        },
+        {
+            "phrase": "klump what about him",
+            "count": 1
+        }
+    ]
+}

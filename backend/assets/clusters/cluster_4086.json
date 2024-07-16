@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:06",
+            "03:11",
+            "03:12",
+            "04:12",
+            "04:36"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's more than most people can even contemplate",
+            "count": 3
+        },
+        {
+            "phrase": "people are so frustrated they're at least willing to contemplate the idea",
+            "count": 2
+        }
+    ]
+}

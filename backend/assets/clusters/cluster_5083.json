@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "01:46",
+            "03:31",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i trust you-go right ahead",
+            "count": 1
+        },
+        {
+            "phrase": "len you should go too",
+            "count": 1
+        },
+        {
+            "phrase": "go with the first take",
+            "count": 1
+        },
+        {
+            "phrase": "okay how about the second",
+            "count": 1
+        }
+    ]
+}

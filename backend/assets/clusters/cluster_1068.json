@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            3,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i may disagree with all the ways of getting there but i again want to emphasize my respect for the former vice president's leadership on this issue and his continuous leadership and i am in no way trying to get into a fight with him",
+            "count": 10
+        },
+        {
+            "phrase": "but i again want to emphasize my respect for the former vice president's leadership on this issue and his continuous leadership and i am in no way trying to get into a fight with him",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "01:04",
+            "02:38",
+            "02:42",
+            "04:18"
+        ],
+        "label": "developed"
+    },
+    "clusterList": [
+        {
+            "phrase": "developed countries really need to demonstrate their sincerity demonstrate the feasibility of the solutions really demonstrate that they are serious about this",
+            "count": 3
+        },
+        {
+            "phrase": "for the first time it has been decided by all these international supporters and the diaspora of africa professors have come together to say we have to put forward this to create a base for our young people to solve this problem and have innovations that can lift us out of poverty",
+            "count": 1
+        },
+        {
+            "phrase": "we want to assure the international community that ethiopia as always is ready to resolved this impasse created by eritrea through peaceful means",
+            "count": 1
+        },
+        {
+            "phrase": "action at the eu level is also required to provide a lasting solution to",
+            "count": 1
+        }
+    ]
+}

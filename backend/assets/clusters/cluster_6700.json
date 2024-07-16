@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "01:48",
+            "04:05"
+        ],
+        "label": "instead"
+    },
+    "clusterList": [
+        {
+            "phrase": "instead of letting them get agitated hire a sitter to hang out with the kids for an hour or two while you get ready to leave",
+            "count": 1
+        },
+        {
+            "phrase": "in general children are fussy and i think it takes a fair bit of socialisation at the table to turn them around",
+            "count": 1
+        },
+        {
+            "phrase": "many times their caretakers are not in the household on a daily basis and they may be left alone at times for days upon end",
+            "count": 1
+        }
+    ]
+}

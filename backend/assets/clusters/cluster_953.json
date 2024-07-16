@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:23",
+            "01:38",
+            "02:09",
+            "02:24",
+            "02:39",
+            "03:02",
+            "03:17",
+            "03:24",
+            "04:28",
+            "04:32",
+            "04:36",
+            "05:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the timing couldn't have been any better",
+            "count": 7
+        },
+        {
+            "phrase": "couldn't have happened without",
+            "count": 2
+        },
+        {
+            "phrase": "the timing felt right",
+            "count": 1
+        },
+        {
+            "phrase": "but the wait wasn't that bad",
+            "count": 1
+        },
+        {
+            "phrase": "it could have been better",
+            "count": 1
+        },
+        {
+            "phrase": "timing is never perfect",
+            "count": 1
+        },
+        {
+            "phrase": "the stars couldn't have aligned better",
+            "count": 1
+        },
+        {
+            "phrase": "it really stretches the imagination that it was not timely",
+            "count": 1
+        }
+    ]
+}

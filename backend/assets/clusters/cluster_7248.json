@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "03:18",
+            "03:59"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not going to answer that",
+            "count": 1
+        },
+        {
+            "phrase": "why the heck didn't ya tell me",
+            "count": 1
+        },
+        {
+            "phrase": "tell the world",
+            "count": 1
+        }
+    ]
+}

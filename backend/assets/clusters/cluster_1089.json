@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "01:15",
+            "01:33",
+            "01:42",
+            "01:43",
+            "01:46",
+            "01:52",
+            "03:15",
+            "05:01"
+        ],
+        "label": "every"
+    },
+    "clusterList": [
+        {
+            "phrase": "every new governor-general has the right to decide who her or his official secretary should be",
+            "count": 13
+        },
+        {
+            "phrase": "the head of our society is called a secretary general and is chosen from among all the representatives of the nations the person retains office for eight years and then another is chosen the hope is that we get the guidance of the wisest among us that way when we left the secretary general was a woman of great distinction",
+            "count": 1
+        }
+    ]
+}

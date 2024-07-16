@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:23",
+            "03:36"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who cares i need you there here where you are whatever",
+            "count": 1
+        },
+        {
+            "phrase": "here i stand i can do no other",
+            "count": 1
+        }
+    ]
+}

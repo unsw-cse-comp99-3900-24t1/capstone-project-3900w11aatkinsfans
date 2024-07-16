@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:48",
+            "04:22",
+            "04:24",
+            "04:32"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah he's right let's try to win but not win by too much",
+            "count": 3
+        },
+        {
+            "phrase": "that'll be really embarrassing if we run it but don't win it",
+            "count": 3
+        },
+        {
+            "phrase": "they think we've got enough to win",
+            "count": 1
+        }
+    ]
+}

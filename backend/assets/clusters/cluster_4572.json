@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:04",
+            "03:46",
+            "04:39"
+        ],
+        "label": "eligible"
+    },
+    "clusterList": [
+        {
+            "phrase": "eligible for the buyouts",
+            "count": 2
+        },
+        {
+            "phrase": "it's something i think at the end of the day we may have been able to get the player but it would have been at a very very steep price",
+            "count": 1
+        },
+        {
+            "phrase": "they said take the deal we've offered or we'll go an alternate route",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "04:06"
+        ],
+        "label": "icing"
+    },
+    "clusterList": [
+        {
+            "phrase": "icing the kicker",
+            "count": 1
+        },
+        {
+            "phrase": "here's the kicker",
+            "count": 1
+        }
+    ]
+}

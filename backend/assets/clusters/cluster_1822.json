@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:23",
+            "00:47",
+            "01:01",
+            "02:19",
+            "03:18",
+            "03:22",
+            "04:08",
+            "04:45"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if it isn't fun then it isn't worth doing",
+            "count": 1
+        },
+        {
+            "phrase": "is more than a little fun",
+            "count": 1
+        },
+        {
+            "phrase": "but it's a fun thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "there is no such thing as fun for the whole family",
+            "count": 1
+        },
+        {
+            "phrase": "too much fun for me",
+            "count": 1
+        },
+        {
+            "phrase": "what's the matter aren't you having fun",
+            "count": 1
+        },
+        {
+            "phrase": "this tournament is all about the fun factor it's like a carnival for adults",
+            "count": 1
+        },
+        {
+            "phrase": "we try to have a little bit of fun around here on a regular basis",
+            "count": 1
+        },
+        {
+            "phrase": "it's a lot of fun",
+            "count": 1
+        }
+    ]
+}

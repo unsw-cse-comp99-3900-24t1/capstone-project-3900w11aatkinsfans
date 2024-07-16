@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:12",
+            "05:03"
+        ],
+        "label": "2003"
+    },
+    "clusterList": [
+        {
+            "phrase": "2003 great holiday product awards",
+            "count": 1
+        },
+        {
+            "phrase": "happy xmas war is over",
+            "count": 1
+        },
+        {
+            "phrase": "one of the most hotly awaited movies of the holiday season",
+            "count": 1
+        }
+    ]
+}

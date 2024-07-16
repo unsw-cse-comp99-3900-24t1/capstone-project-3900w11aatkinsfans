@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:47",
+            "04:10",
+            "04:52"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm surprised he can go through the airport metal detectors without setting something off",
+            "count": 2
+        },
+        {
+            "phrase": "there has to be some reactive measures taken whether it be metal screening or whether we design differently our loading policies at various depots so you have to funnel down a chute as your only way onto the bus at major terminals i really believe now we have to do something not only that we have to be investigating carry-on luggage and certain things like that",
+            "count": 1
+        },
+        {
+            "phrase": "metal detectors in airports are so sensitive that i avoid to eat spinash before boarding on a flight",
+            "count": 1
+        }
+    ]
+}

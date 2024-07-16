@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "01:10",
+            "02:09",
+            "02:57",
+            "03:55",
+            "04:36"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there will always be another rat now onward things to do people to damage",
+            "count": 5
+        },
+        {
+            "phrase": "mice training to be rats",
+            "count": 1
+        },
+        {
+            "phrase": "rats are treated with more humanity",
+            "count": 1
+        }
+    ]
+}

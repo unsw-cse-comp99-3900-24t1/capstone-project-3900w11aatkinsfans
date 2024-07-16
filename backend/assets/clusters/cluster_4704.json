@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:09",
+            "00:45",
+            "02:00"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they need to bite the bullet now with significant migration issues rather than continue to go forward with all the disparate systems for every airplane out there",
+            "count": 1
+        },
+        {
+            "phrase": "with airline customer satisfaction at an all time low this is not the time to consider making airplane travel even more torturous defazio said afterwards",
+            "count": 1
+        },
+        {
+            "phrase": "at this time of year it can be a challenge for airlines because the systems need maintaining but staff are going on holiday",
+            "count": 1
+        },
+        {
+            "phrase": "even if oil went down to 110 or 100 a barrel the airlines have a tremendous amount of costs that they have to recoup",
+            "count": 1
+        }
+    ]
+}

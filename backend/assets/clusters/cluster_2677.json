@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:05",
+            "03:09",
+            "03:15",
+            "04:08",
+            "04:45"
+        ],
+        "label": "symptoms"
+    },
+    "clusterList": [
+        {
+            "phrase": "in an even more dire situation than the active army but both have the same symptoms i just have a higher fever",
+            "count": 4
+        },
+        {
+            "phrase": "symptoms begin with fever coughing runny nose and sore eyes",
+            "count": 3
+        }
+    ]
+}

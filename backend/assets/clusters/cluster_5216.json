@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the night is darkening round me the wild winds coldly blow",
+            "count": 3
+        },
+        {
+            "phrase": "thursday night tragedy",
+            "count": 1
+        }
+    ]
+}

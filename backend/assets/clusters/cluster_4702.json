@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:48",
+            "01:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i knew my limits you don't just show up and do an ironman",
+            "count": 2
+        },
+        {
+            "phrase": "don't do anything stupid like i did and do an ironman",
+            "count": 2
+        }
+    ]
+}

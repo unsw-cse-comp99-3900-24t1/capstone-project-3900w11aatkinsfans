@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:20",
+            "00:48",
+            "01:01",
+            "02:20",
+            "02:44",
+            "03:52",
+            "04:50"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you think we can pick up where we left off before the day that i told you it was over packed my things and moved away",
+            "count": 3
+        },
+        {
+            "phrase": "takes the house back",
+            "count": 2
+        },
+        {
+            "phrase": "but it wasn't like that for us last christmas when all my kids presents were broken or stolen and our house was damaged by fire",
+            "count": 1
+        },
+        {
+            "phrase": "we had been out on christmas day returning to find our house had been trashed",
+            "count": 1
+        },
+        {
+            "phrase": "we used an outhouse",
+            "count": 1
+        },
+        {
+            "phrase": "we didn't have any things that were wrong with our home",
+            "count": 1
+        },
+        {
+            "phrase": "when our neighbours cottage burnt down we loaned them our truck tent and they lived in it that summer",
+            "count": 1
+        }
+    ]
+}

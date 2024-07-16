@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:24",
+            "00:43",
+            "01:04",
+            "01:16",
+            "01:21",
+            "04:09"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a great example of a game that shipped fairly recently that showed what you can do if you start originally on ps3",
+            "count": 3
+        },
+        {
+            "phrase": "a great example of a game that shipped fairly recently that showed what you can do if you start originally on ps3 and that",
+            "count": 3
+        },
+        {
+            "phrase": "this is the base experience some games might work better",
+            "count": 1
+        },
+        {
+            "phrase": "blender 3d noob to pro advanced advanced game engine game creating techniques python",
+            "count": 1
+        }
+    ]
+}

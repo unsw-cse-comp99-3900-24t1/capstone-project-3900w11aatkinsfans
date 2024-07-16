@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "01:09",
+            "01:23",
+            "01:24",
+            "02:05",
+            "02:27",
+            "02:32",
+            "02:50",
+            "03:06",
+            "04:03",
+            "04:51"
+        ],
+        "label": "settlers"
+    },
+    "clusterList": [
+        {
+            "phrase": "lost and found",
+            "count": 4
+        },
+        {
+            "phrase": "back to the land",
+            "count": 2
+        },
+        {
+            "phrase": "the lost jewels",
+            "count": 2
+        },
+        {
+            "phrase": "settlers of second life",
+            "count": 1
+        },
+        {
+            "phrase": "the land before time",
+            "count": 1
+        },
+        {
+            "phrase": "land of fun",
+            "count": 1
+        },
+        {
+            "phrase": "land of the lost",
+            "count": 1
+        },
+        {
+            "phrase": "land of indians",
+            "count": 1
+        },
+        {
+            "phrase": "land of tomorrow",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:19"
+        ],
+        "label": "obey"
+    },
+    "clusterList": [
+        {
+            "phrase": "obey the strange principles of quantum physics whereby disturbing the state of one will instantly disturb the other no matter how much distance there is in between them",
+            "count": 1
+        },
+        {
+            "phrase": "the extraordinary behaviour of quantum systems",
+            "count": 1
+        }
+    ]
+}

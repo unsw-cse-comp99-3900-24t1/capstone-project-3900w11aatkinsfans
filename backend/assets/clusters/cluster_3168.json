@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "02:29",
+            "02:51",
+            "03:16",
+            "03:18",
+            "04:37"
+        ],
+        "label": "hi"
+    },
+    "clusterList": [
+        {
+            "phrase": "hi and please remember to pick up the dry-cleaning this time sweetie",
+            "count": 1
+        },
+        {
+            "phrase": "don't forget to set the dishwasher",
+            "count": 1
+        },
+        {
+            "phrase": "one doctor says keep it wet the next one says dry it out",
+            "count": 1
+        },
+        {
+            "phrase": "i've got to go dry my privates off i'm a little wet",
+            "count": 1
+        },
+        {
+            "phrase": "and breathe deeply",
+            "count": 1
+        },
+        {
+            "phrase": "how do i currently dry my sweaters maybe i am not doing it the right way",
+            "count": 1
+        }
+    ]
+}

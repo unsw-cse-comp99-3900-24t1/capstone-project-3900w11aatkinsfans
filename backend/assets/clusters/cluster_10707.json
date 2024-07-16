@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:34"
+        ],
+        "label": "pkid"
+    },
+    "clusterList": [
+        {
+            "phrase": "pkid username password email passwordquestion",
+            "count": 2
+        }
+    ]
+}

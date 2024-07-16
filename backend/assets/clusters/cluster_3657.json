@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:32",
+            "00:51",
+            "04:45"
+        ],
+        "label": "due"
+    },
+    "clusterList": [
+        {
+            "phrase": "due to the prompt evacuation and shut-in preparations made by operating and service personnel there was no loss of life and no major spills attributed to either storm",
+            "count": 1
+        },
+        {
+            "phrase": "evacuated until the area was safe",
+            "count": 1
+        },
+        {
+            "phrase": "there was no significant loss of life in those towers not a one",
+            "count": 1
+        },
+        {
+            "phrase": "there was no significant loss of life in those towers",
+            "count": 1
+        },
+        {
+            "phrase": "the fire chief told me at about 8 a m we didn't have any water but around quarter after it was back on",
+            "count": 1
+        }
+    ]
+}

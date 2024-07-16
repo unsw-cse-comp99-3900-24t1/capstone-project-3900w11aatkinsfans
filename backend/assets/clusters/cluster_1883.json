@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:56",
+            "01:06",
+            "01:10",
+            "01:29",
+            "02:01",
+            "02:05",
+            "03:41"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is no danger to public safety and local fire department and base emergency officials responded quickly and professionally",
+            "count": 3
+        },
+        {
+            "phrase": "it is also close to a creek and any accidental releases of anything if they get into the creek we've got a problem there and it is very close to moranbah that's the other concern",
+            "count": 1
+        },
+        {
+            "phrase": "it's a very dangerous street",
+            "count": 1
+        },
+        {
+            "phrase": "the area is very dangerous as sections of the walkway have been washed away",
+            "count": 1
+        },
+        {
+            "phrase": "the walkway is closed and will remain closed after river levels subside for restoration",
+            "count": 1
+        },
+        {
+            "phrase": "we tried to get up to the area to have a look around but the roads are blocked but i'd say there's definitely significant damage the main priority is the get the roads open",
+            "count": 1
+        },
+        {
+            "phrase": "when it got into town our main concern was public safety",
+            "count": 1
+        }
+    ]
+}

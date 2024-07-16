@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:02",
+            "04:23"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's great news that patrick is so well and there are lots of offers for him everyone wants him to star in a dirty dancing sequel it's just a matter of him making his mind up",
+            "count": 1
+        },
+        {
+            "phrase": "it's great news patrick is so well and there are a lot of offers for him",
+            "count": 1
+        },
+        {
+            "phrase": "everyone wants him to star in a dirty dancing sequel it's just a matter of him making his mind up",
+            "count": 1
+        }
+    ]
+}

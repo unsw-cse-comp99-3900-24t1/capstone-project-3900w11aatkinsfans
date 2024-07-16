@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:41",
+            "02:00",
+            "03:22"
+        ],
+        "label": "police"
+    },
+    "clusterList": [
+        {
+            "phrase": "police are of the opinion that although the options of avo's and the like are being pursued it will not deter those persons residing in willow drive from harassing the couple",
+            "count": 1
+        },
+        {
+            "phrase": "police are fearful that the violence may get out of hand and the best way to avoid this is through relocation",
+            "count": 1
+        },
+        {
+            "phrase": "we live and work in a civic area we make tradeoffs and this area is safe because of the law enforcement presence",
+            "count": 1
+        },
+        {
+            "phrase": "i am under a virtual house arrest and have been directed by the police personnel not to move out without seeking their permission",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's because it's happening in rural areas because if it was in metro they'd term it more of a crisis",
+            "count": 1
+        }
+    ]
+}

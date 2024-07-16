@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            4,
+            4
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a clip of",
+            "count": 6
+        },
+        {
+            "phrase": "a shorter clip of",
+            "count": 3
+        },
+        {
+            "phrase": "a short clip of",
+            "count": 3
+        }
+    ]
+}

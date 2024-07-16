@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:33",
+            "02:19",
+            "04:56"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have quality bowlers in murali mendis and vaas they are the kind of bowlers who can bowl a good ball at any time and you have to play them carefully all the batsmen got out to good balls and you can't blame anyone",
+            "count": 2
+        },
+        {
+            "phrase": "tendulkar rahul sourav all fell to good balls so you cannot do anything about it sri lanka have quality bowlers",
+            "count": 1
+        },
+        {
+            "phrase": "during the asia cup we spoke as to how murali bowled so well but mendis kept on picking up the wickets and during the first test it was the other way around",
+            "count": 1
+        }
+    ]
+}

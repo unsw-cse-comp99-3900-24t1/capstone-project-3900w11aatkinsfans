@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:09",
+            "01:47",
+            "02:39",
+            "04:05",
+            "04:13",
+            "04:18"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know what i said",
+            "count": 2
+        },
+        {
+            "phrase": "you have no idea what this means",
+            "count": 2
+        },
+        {
+            "phrase": "but u need to understand",
+            "count": 1
+        },
+        {
+            "phrase": "anyway you see what i mean don't you",
+            "count": 1
+        },
+        {
+            "phrase": "you dont understand what that means",
+            "count": 1
+        },
+        {
+            "phrase": "do you understand what i'm saying",
+            "count": 1
+        }
+    ]
+}

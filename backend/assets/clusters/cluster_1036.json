@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:27",
+            "00:46",
+            "00:47",
+            "01:23",
+            "01:24",
+            "01:45",
+            "02:00",
+            "02:02",
+            "03:23",
+            "03:55",
+            "04:23",
+            "05:01"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this report makes it clear that if you have bad health outcomes now you're likely to be more impacted by extreme weather events than if you're at the top of the health ladder",
+            "count": 14
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:14",
+            "02:51",
+            "03:18",
+            "04:31"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the summer is a great opportunity for us to jump into some big projects full time",
+            "count": 1
+        },
+        {
+            "phrase": "can't wait to get started",
+            "count": 1
+        },
+        {
+            "phrase": "i'm ready for business and business is booming",
+            "count": 1
+        },
+        {
+            "phrase": "i'm tryin to concentrate out here and when can i come in there",
+            "count": 1
+        },
+        {
+            "phrase": "there's a lot to look forward to and i think i can come in and get started and be productive very quickly",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:23",
+            "04:59"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is something we're looking at first in minneapolis and then in st paul but this is a much bigger issue than that",
+            "count": 1
+        },
+        {
+            "phrase": "the demographics of the parish are changing and a lot of folks from the north end have moved from baton rouge and other areas that have these things in place and they're surprised not to find it in place",
+            "count": 1
+        },
+        {
+            "phrase": "no one actually lives in new orleans everyone who knows better lives in the suburbs people go into new orleans to visit the french quarter but otherwise they know better than to risk getting mistaken for a tourist and mugged or worse",
+            "count": 1
+        }
+    ]
+}

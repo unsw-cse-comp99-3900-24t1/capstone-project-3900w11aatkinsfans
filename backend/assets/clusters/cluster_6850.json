@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:56",
+            "02:29"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "the imagination of man can act not only on his own body but even on others and very distant bodies it can fascinate and modify them make them ill or restore them to health",
+            "count": 2
+        },
+        {
+            "phrase": "this again is only possible to man at least in so far as the mind is affected in a certain way",
+            "count": 1
+        }
+    ]
+}

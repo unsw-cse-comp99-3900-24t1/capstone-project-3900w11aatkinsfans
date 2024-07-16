@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:06",
+            "01:10",
+            "01:14",
+            "01:41",
+            "02:14",
+            "04:04",
+            "04:46",
+            "04:55"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "a critical step in our fight for justice for our loved ones",
+            "count": 3
+        },
+        {
+            "phrase": "heart of a victim in harm's way",
+            "count": 2
+        },
+        {
+            "phrase": "this crash has affected our entire community and we would like to again express our heartfelt sympathies to the families of the victims and to all those who has been impacted by this terrible tragedy",
+            "count": 1
+        },
+        {
+            "phrase": "my heart goes out to all the family relatives and friends of the victims",
+            "count": 1
+        },
+        {
+            "phrase": "do not fall into the easy trap of mourning the loss of us lives and asking out loud why are we there",
+            "count": 1
+        },
+        {
+            "phrase": "the people's cry from the heart",
+            "count": 1
+        }
+    ]
+}

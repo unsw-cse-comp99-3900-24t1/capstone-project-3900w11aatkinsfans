@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "01:09",
+            "02:36",
+            "04:44"
+        ],
+        "label": "voipcom's"
+    },
+    "clusterList": [
+        {
+            "phrase": "voipcom's vision is to build a successful business in asia involved in the manufacturing wholesaling and retailing of consumer products in the agriculture aquaculture frozen food industries as well as the related field of health food supplement gmp manufacturing",
+            "count": 2
+        },
+        {
+            "phrase": "microfinance helps to put technology within financial reach of the poor and we are pleased to work with qualcomm and bakrie telecom to help indonesia's rural microentrepreneurs build self-sustaining businesses that also enhance the socio-economic development of their wider communities",
+            "count": 1
+        },
+        {
+            "phrase": "seed financing is often a large obstacle for organizations who wish to start their own village phone program",
+            "count": 1
+        },
+        {
+            "phrase": "with that in mind we created this grant competition for organizations committed to implementing village phone as it is an important proven method for increasing telecommunications services in poor communities",
+            "count": 1
+        }
+    ]
+}

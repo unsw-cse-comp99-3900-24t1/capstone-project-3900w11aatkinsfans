@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:51",
+            "01:42",
+            "04:44"
+        ],
+        "label": "sistah"
+    },
+    "clusterList": [
+        {
+            "phrase": "sistah afrocentric love fist bumpin sayyid hussein",
+            "count": 1
+        },
+        {
+            "phrase": "champion of arab film",
+            "count": 1
+        },
+        {
+            "phrase": "voice of the arabs",
+            "count": 1
+        },
+        {
+            "phrase": "this a bollywood film boss",
+            "count": 1
+        }
+    ]
+}

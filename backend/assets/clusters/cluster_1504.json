@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:06",
+            "00:23",
+            "00:33",
+            "01:25",
+            "01:32",
+            "01:50",
+            "02:05",
+            "02:23"
+        ],
+        "label": "let"
+    },
+    "clusterList": [
+        {
+            "phrase": "let them eat cake",
+            "count": 5
+        },
+        {
+            "phrase": "let them eat pizza",
+            "count": 1
+        },
+        {
+            "phrase": "we care about their food these kids are our responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "jesus said to them there is no need for them to go away give them some food yourselves but they said to him five loaves and two fish are all we have here",
+            "count": 1
+        },
+        {
+            "phrase": "they're starving to death",
+            "count": 1
+        },
+        {
+            "phrase": "there is no need for them to go away give them some food yourselves",
+            "count": 1
+        },
+        {
+            "phrase": "we'll give them whatever we can but if they're unsatisfied or we don't have enough to give them we'll direct them to another food pantry",
+            "count": 1
+        }
+    ]
+}

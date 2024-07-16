@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            24,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:04"
+        ],
+        "label": "mellow"
+    },
+    "clusterList": [
+        {
+            "phrase": "mellow caramel taste and touches of citrus",
+            "count": 8
+        },
+        {
+            "phrase": "darker rich tones exuding tame aromas of vanilla chocolate and caramel",
+            "count": 8
+        },
+        {
+            "phrase": "fresh natural fruit flavouring",
+            "count": 8
+        },
+        {
+            "phrase": "does it produce those ugly brown fruit we buy in the store",
+            "count": 1
+        }
+    ]
+}

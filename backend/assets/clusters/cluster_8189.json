@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "04:33"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who would use climate change to bring about a dictatorship of the proletariat",
+            "count": 1
+        },
+        {
+            "phrase": "the senate would impose for the first time a cap on greenhouse gas emissions",
+            "count": 1
+        }
+    ]
+}

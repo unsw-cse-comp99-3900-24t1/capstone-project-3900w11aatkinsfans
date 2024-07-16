@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "01:06",
+            "01:47",
+            "02:25",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "i work in banking in the legal loan review department and do taxes during tax season gotta love the tax lady i have been in banking and taxes for about 15 years",
+            "count": 14
+        },
+        {
+            "phrase": "what do you do for a living",
+            "count": 1
+        },
+        {
+            "phrase": "this is my profession this is what i like i work i pay taxes i'm like anybody else",
+            "count": 1
+        }
+    ]
+}

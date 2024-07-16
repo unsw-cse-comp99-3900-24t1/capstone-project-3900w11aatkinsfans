@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:51",
+            "02:06",
+            "02:14",
+            "02:22",
+            "02:24",
+            "02:32",
+            "04:05",
+            "04:13"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah this is what we were hoping for when we drafted him",
+            "count": 2
+        },
+        {
+            "phrase": "think about how i got to the nfl think about how i got to the position i'm in now i was undrafted man i've been cut three times",
+            "count": 2
+        },
+        {
+            "phrase": "i told my agent that i wanted to see all of the opportunities but my first priority was the warriors",
+            "count": 2
+        },
+        {
+            "phrase": "even when i got picked up as a free agent i was being negative with it i was still mad",
+            "count": 2
+        },
+        {
+            "phrase": "i knew that i probably wasn't going to get drafted but that i would have a shot as a priority free agent",
+            "count": 2
+        }
+    ]
+}

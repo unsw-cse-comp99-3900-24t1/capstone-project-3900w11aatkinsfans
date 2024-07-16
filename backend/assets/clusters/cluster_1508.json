@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "01:10",
+            "01:32",
+            "01:52",
+            "01:55",
+            "01:58",
+            "02:07",
+            "02:29",
+            "03:42",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "what they've done is taking a step in the right direction but i don't think it's a big enough step",
+            "count": 4
+        },
+        {
+            "phrase": "i see this as one big step in that direction",
+            "count": 2
+        },
+        {
+            "phrase": "as the stepping stone",
+            "count": 1
+        },
+        {
+            "phrase": "a huge step forward",
+            "count": 1
+        },
+        {
+            "phrase": "one step forward 2 steps back",
+            "count": 1
+        },
+        {
+            "phrase": "it's a huge step forward",
+            "count": 1
+        },
+        {
+            "phrase": "tremendous amount of progress",
+            "count": 1
+        }
+    ]
+}

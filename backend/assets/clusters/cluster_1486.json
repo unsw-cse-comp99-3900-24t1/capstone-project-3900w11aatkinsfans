@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:08",
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:15",
+            "01:29",
+            "02:28",
+            "03:34",
+            "04:51",
+            "04:54"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "increased information sharing will benefit the department congress and the public as well as the private-sector which controls the vast majority of the nation's cyber infrastructure",
+            "count": 4
+        },
+        {
+            "phrase": "intel has demonstrated that the performance of their systems can help facebook scale our infrastructure",
+            "count": 2
+        },
+        {
+            "phrase": "i've seen a statistic that one-fifth of the internet traffic in the world passes through silicon valley and that's why we have the issues we have",
+            "count": 2
+        },
+        {
+            "phrase": "the system-level aspect of cloud computing is thus far inadequately understood so that's where we see our niche",
+            "count": 1
+        },
+        {
+            "phrase": "despite continued economic uncertainty at the macro level we believe spending on information infrastructure and virtual infrastructure technologies and solutions will continue to grow driven largely by the need to manage the ever-expanding volume of information efficiently securely and cost effectively",
+            "count": 1
+        },
+        {
+            "phrase": "as the security system management and compliance situation has grown increasingly complex many organizations have discovered that conventional it infrastructure management technologies have become choke points bigfix's mission is to change all that for the better and we're here to build the relationships to bring the benefits of bigfix to as many companies and public institutions as possible",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:08",
+            "02:13",
+            "02:24",
+            "04:19",
+            "05:05"
+        ],
+        "label": "american"
+    },
+    "clusterList": [
+        {
+            "phrase": "in my presence in the white house the possibility of using diego garcia for detaining high value targets was discussed",
+            "count": 4
+        },
+        {
+            "phrase": "american officials involved in this case have stated that they want to see him fry the consequences he faces if extradited are both disproportionate and intolerable",
+            "count": 1
+        },
+        {
+            "phrase": "brennan's continued detention without bond appears to serve no end that is consistent with the interest of the united states to foster a lasting peace in northern ireland",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            6,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:20",
+            "00:27",
+            "01:01",
+            "01:24",
+            "02:20",
+            "02:56",
+            "03:06",
+            "03:46",
+            "04:26",
+            "04:49"
+        ],
+        "label": "vampire"
+    },
+    "clusterList": [
+        {
+            "phrase": "buffy the vampire slayer",
+            "count": 4
+        },
+        {
+            "phrase": "the warlock's hairy heart",
+            "count": 3
+        },
+        {
+            "phrase": "interview with the vampire",
+            "count": 3
+        },
+        {
+            "phrase": "vampire phenomenon out there",
+            "count": 1
+        },
+        {
+            "phrase": "it has a new take on vampires and werewolves",
+            "count": 1
+        },
+        {
+            "phrase": "the fearless vampire killers",
+            "count": 1
+        },
+        {
+            "phrase": "days of vengeance",
+            "count": 1
+        },
+        {
+            "phrase": "finally she had to tell me about the vampire",
+            "count": 1
+        },
+        {
+            "phrase": "somehow stephenie came up with a completely new way to portray vampires and werewolves",
+            "count": 1
+        }
+    ]
+}

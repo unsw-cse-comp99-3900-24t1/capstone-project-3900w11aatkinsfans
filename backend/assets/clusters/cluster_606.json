@@ -1,0 +1,99 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:19",
+            "00:24",
+            "00:27",
+            "00:33",
+            "00:38",
+            "00:56",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:34",
+            "03:51",
+            "04:00",
+            "04:08",
+            "04:18",
+            "04:32",
+            "04:41",
+            "04:51",
+            "04:54",
+            "05:00"
+        ],
+        "label": "over"
+    },
+    "clusterList": [
+        {
+            "phrase": "i found a little town",
+            "count": 6
+        },
+        {
+            "phrase": "in the valley of elah",
+            "count": 3
+        },
+        {
+            "phrase": "over the hill",
+            "count": 2
+        },
+        {
+            "phrase": "down by the river",
+            "count": 2
+        },
+        {
+            "phrase": "a suburb out 59 south",
+            "count": 1
+        },
+        {
+            "phrase": "located in the old city",
+            "count": 1
+        },
+        {
+            "phrase": "across 110th street",
+            "count": 1
+        },
+        {
+            "phrase": "down in the valley",
+            "count": 1
+        },
+        {
+            "phrase": "115 west ninety-fifth street",
+            "count": 1
+        },
+        {
+            "phrase": "on the town",
+            "count": 1
+        },
+        {
+            "phrase": "checking the place out",
+            "count": 1
+        },
+        {
+            "phrase": "at the police station",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:16",
+            "04:06",
+            "04:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the croak of frogs doesn't prevent the elephant from drinking in the river",
+            "count": 2
+        },
+        {
+            "phrase": "water for elephants",
+            "count": 1
+        },
+        {
+            "phrase": "there are high chances of elephants consuming water contaminated with pesticides in the estates",
+            "count": 1
+        }
+    ]
+}

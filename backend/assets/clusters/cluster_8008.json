@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:56",
+            "04:45"
+        ],
+        "label": "george"
+    },
+    "clusterList": [
+        {
+            "phrase": "george says he needs a rest",
+            "count": 1
+        },
+        {
+            "phrase": "it was a blessing that it rained zane came back stronger than ever he is used to getting five days rest this time he got four days rest",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:29",
+            "00:41",
+            "01:04",
+            "01:16"
+        ],
+        "label": "purpose"
+    },
+    "clusterList": [
+        {
+            "phrase": "purpose for being",
+            "count": 1
+        },
+        {
+            "phrase": "self discovered and discovering ready to be inspired and inspire",
+            "count": 1
+        },
+        {
+            "phrase": "a new earth awakening to your life's purpose",
+            "count": 1
+        },
+        {
+            "phrase": "a sense of purpose",
+            "count": 1
+        },
+        {
+            "phrase": "merely understands how to preserve life not how to generate it",
+            "count": 1
+        }
+    ]
+}

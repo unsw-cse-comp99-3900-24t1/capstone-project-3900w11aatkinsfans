@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "03:42"
+        ],
+        "label": "moving"
+    },
+    "clusterList": [
+        {
+            "phrase": "moving from the inn was a personal decision",
+            "count": 1
+        },
+        {
+            "phrase": "debbie's been involved at the inn for several years",
+            "count": 1
+        }
+    ]
+}

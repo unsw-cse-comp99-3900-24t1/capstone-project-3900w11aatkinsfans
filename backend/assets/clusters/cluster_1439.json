@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:20",
+            "00:29",
+            "01:10",
+            "02:27",
+            "03:35",
+            "04:28",
+            "04:49",
+            "05:03"
+        ],
+        "label": "take"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is not an action i take lightly",
+            "count": 5
+        },
+        {
+            "phrase": "take whatever action is necessary",
+            "count": 2
+        },
+        {
+            "phrase": "do what's right",
+            "count": 1
+        },
+        {
+            "phrase": "take action then explain",
+            "count": 1
+        },
+        {
+            "phrase": "do the right thing",
+            "count": 1
+        },
+        {
+            "phrase": "take all measures necessary",
+            "count": 1
+        }
+    ]
+}

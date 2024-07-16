@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:23",
+            "02:09",
+            "03:06",
+            "04:05"
+        ],
+        "label": "expert"
+    },
+    "clusterList": [
+        {
+            "phrase": "extraordinary people trying to live normal lives",
+            "count": 2
+        },
+        {
+            "phrase": "expert in humanity",
+            "count": 1
+        },
+        {
+            "phrase": "on extraordinary occasions",
+            "count": 1
+        },
+        {
+            "phrase": "one perfect person",
+            "count": 1
+        },
+        {
+            "phrase": "an extraordinary example",
+            "count": 1
+        }
+    ]
+}

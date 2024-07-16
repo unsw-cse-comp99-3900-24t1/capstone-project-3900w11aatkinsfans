@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:20",
+            "00:29",
+            "01:01",
+            "01:25",
+            "02:20",
+            "02:52",
+            "03:02",
+            "03:14",
+            "03:19",
+            "03:20",
+            "03:29",
+            "04:16",
+            "05:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is my understanding that ms spears is reluctantly agreeing that we extend the temporary letters of conservatorship",
+            "count": 5
+        },
+        {
+            "phrase": "i understand that ms spears is reluctantly agreeing to extend those letters",
+            "count": 4
+        },
+        {
+            "phrase": "the extension of the conservatorship was at the request and suggestion of britney's doctors",
+            "count": 2
+        },
+        {
+            "phrase": "ms spears is reluctantly agreeing to extend the temporary conservatorship",
+            "count": 2
+        },
+        {
+            "phrase": "in regard to the conservatorship of the person it is my understanding that ms spears reluctantly agreed to extend the temporary letters to dec 31 2008",
+            "count": 1
+        },
+        {
+            "phrase": "the extension of the conservatorship was at the request and suggestion of britney's doctors they've indicated she's made great improvement but it's a work in progress jamie spears doesn't want the conservatorship to last a day longer than the doctors recommend",
+            "count": 1
+        },
+        {
+            "phrase": "miss spears reluctantly agreed that we extend the temporary letters",
+            "count": 1
+        }
+    ]
+}

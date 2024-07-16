@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:10",
+            "00:36",
+            "01:47",
+            "03:01",
+            "03:27",
+            "03:29",
+            "03:34",
+            "03:48",
+            "03:51",
+            "04:06",
+            "04:14",
+            "04:28",
+            "04:32",
+            "04:36"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there was no weapon present and no danger to the public",
+            "count": 6
+        },
+        {
+            "phrase": "and the army did nothing",
+            "count": 5
+        },
+        {
+            "phrase": "it was only self defense",
+            "count": 2
+        },
+        {
+            "phrase": "there was no aid that could be administered",
+            "count": 1
+        },
+        {
+            "phrase": "there were no recent incidents",
+            "count": 1
+        },
+        {
+            "phrase": "here the government does not allege that mr vargas possessed the weapon with intent to use it unlawfully or outside of his home",
+            "count": 1
+        },
+        {
+            "phrase": "the public was never in any danger",
+            "count": 1
+        },
+        {
+            "phrase": "no report of serious casualties",
+            "count": 1
+        }
+    ]
+}

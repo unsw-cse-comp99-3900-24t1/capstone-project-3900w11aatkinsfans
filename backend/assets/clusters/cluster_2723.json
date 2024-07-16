@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:40",
+            "01:01",
+            "02:20",
+            "03:01",
+            "03:29",
+            "04:23",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have an idea of what he does how he does it",
+            "count": 5
+        },
+        {
+            "phrase": "he knows how it works",
+            "count": 1
+        },
+        {
+            "phrase": "he knows best",
+            "count": 1
+        }
+    ]
+}

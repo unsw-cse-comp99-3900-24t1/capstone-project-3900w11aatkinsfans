@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:41",
+            "02:10",
+            "02:59",
+            "03:59"
+        ],
+        "label": "slow"
+    },
+    "clusterList": [
+        {
+            "phrase": "slow train coming",
+            "count": 1
+        },
+        {
+            "phrase": "catch the train",
+            "count": 1
+        },
+        {
+            "phrase": "getting caught by a train",
+            "count": 1
+        },
+        {
+            "phrase": "4-5 minute walking to the train station",
+            "count": 1
+        },
+        {
+            "phrase": "i must've got on the train later on",
+            "count": 1
+        }
+    ]
+}

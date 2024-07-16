@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "04:13",
+            "04:27"
+        ],
+        "label": "little"
+    },
+    "clusterList": [
+        {
+            "phrase": "little fury things",
+            "count": 1
+        },
+        {
+            "phrase": "silly little things",
+            "count": 1
+        },
+        {
+            "phrase": "hedwig and the angry inch",
+            "count": 1
+        }
+    ]
+}

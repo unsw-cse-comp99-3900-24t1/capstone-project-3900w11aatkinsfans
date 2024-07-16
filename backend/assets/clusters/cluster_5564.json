@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:36",
+            "03:19",
+            "03:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the depth in world swimming these days is huge",
+            "count": 1
+        },
+        {
+            "phrase": "in search of the sea floor",
+            "count": 1
+        },
+        {
+            "phrase": "wild ocean 3d",
+            "count": 1
+        },
+        {
+            "phrase": "muddied the waters",
+            "count": 1
+        }
+    ]
+}

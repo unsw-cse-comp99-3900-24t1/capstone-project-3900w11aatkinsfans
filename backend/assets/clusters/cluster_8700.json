@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:52"
+        ],
+        "label": "obama"
+    },
+    "clusterList": [
+        {
+            "phrase": "obama supporters called attention to the shoes mccain has worn on stops throughout the rust belt",
+            "count": 1
+        },
+        {
+            "phrase": "this is a direct attack from the other two democrats in this race",
+            "count": 1
+        }
+    ]
+}

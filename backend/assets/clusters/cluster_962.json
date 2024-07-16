@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "00:19",
+            "00:46",
+            "00:56",
+            "01:00",
+            "01:40",
+            "01:58",
+            "02:24",
+            "02:26",
+            "03:18",
+            "03:37",
+            "03:48",
+            "04:28",
+            "04:55"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "us versus them",
+            "count": 2
+        },
+        {
+            "phrase": "don't say our names i'm out of here",
+            "count": 2
+        },
+        {
+            "phrase": "with us or against us",
+            "count": 1
+        },
+        {
+            "phrase": "how bout us",
+            "count": 1
+        },
+        {
+            "phrase": "us vs them",
+            "count": 1
+        },
+        {
+            "phrase": "well we'll see you guys out there",
+            "count": 1
+        },
+        {
+            "phrase": "a chance to say hey we",
+            "count": 1
+        },
+        {
+            "phrase": "if we lose now we're out",
+            "count": 1
+        },
+        {
+            "phrase": "what about us",
+            "count": 1
+        },
+        {
+            "phrase": "us not you",
+            "count": 1
+        },
+        {
+            "phrase": "couldn't we be",
+            "count": 1
+        },
+        {
+            "phrase": "we'll be back",
+            "count": 1
+        },
+        {
+            "phrase": "are you with us or against us",
+            "count": 1
+        }
+    ]
+}

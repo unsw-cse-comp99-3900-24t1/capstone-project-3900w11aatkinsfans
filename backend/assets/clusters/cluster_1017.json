@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            12,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:51",
+            "04:23"
+        ],
+        "label": "dr"
+    },
+    "clusterList": [
+        {
+            "phrase": "dr bernadine healy is the former head of the national institutes of health and the most well-known medical voice yet to break with her colleagues on the vaccine-autism question",
+            "count": 13
+        },
+        {
+            "phrase": "beat up on autism",
+            "count": 1
+        },
+        {
+            "phrase": "now the illness du jour is autism",
+            "count": 1
+        }
+    ]
+}

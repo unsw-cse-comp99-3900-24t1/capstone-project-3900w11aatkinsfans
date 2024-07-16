@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:19",
+            "02:42"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we thought it was a fair resolution",
+            "count": 1
+        },
+        {
+            "phrase": "based on assumptions that we all agreed to",
+            "count": 1
+        },
+        {
+            "phrase": "we accepted in principle",
+            "count": 1
+        }
+    ]
+}

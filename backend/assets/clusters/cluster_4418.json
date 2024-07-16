@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:06",
+            "00:53",
+            "01:06"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's just so disappointing that i don't seem to be able to pull it together",
+            "count": 2
+        },
+        {
+            "phrase": "something had to be done it took me a little while and some very frustrating prototypes but eventually i did it",
+            "count": 1
+        },
+        {
+            "phrase": "i haven't been able to launch half of my ideas because i just don't have the time to create them",
+            "count": 1
+        }
+    ]
+}

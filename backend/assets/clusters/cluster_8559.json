@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:11"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some institutions really are too big to fail and that's the way it is",
+            "count": 1
+        },
+        {
+            "phrase": "it's an institutional problem",
+            "count": 1
+        }
+    ]
+}

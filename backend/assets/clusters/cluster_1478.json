@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:57",
+            "02:09",
+            "02:14",
+            "02:23",
+            "02:24",
+            "02:28",
+            "03:05",
+            "03:06",
+            "03:32"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "political events in venezuela pose an increased risk the venezuelan government might nationalize or in other ways intervene in the operations of our venezuelan subsidiary",
+            "count": 10
+        },
+        {
+            "phrase": "has no intention of interfering in the internal affairs of venezuela this is none of our business but it is our business to watch for the fulfillment of the mercosur articles with regard to associate members this is our interest and our duty",
+            "count": 1
+        }
+    ]
+}

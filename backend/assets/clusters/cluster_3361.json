@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "01:40",
+            "02:15",
+            "02:24",
+            "03:19",
+            "05:04"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh soon graduated excited ah",
+            "count": 2
+        },
+        {
+            "phrase": "my daughter is graduating from harvard i'm so excited",
+            "count": 1
+        },
+        {
+            "phrase": "university as the major part of your life",
+            "count": 1
+        },
+        {
+            "phrase": "college is next",
+            "count": 1
+        },
+        {
+            "phrase": "i hope you've had an enjoyable first week back at school",
+            "count": 1
+        }
+    ]
+}

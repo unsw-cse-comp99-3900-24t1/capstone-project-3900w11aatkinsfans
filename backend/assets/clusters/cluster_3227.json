@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:38",
+            "01:46",
+            "01:50",
+            "02:01",
+            "02:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the worse this is going to get for his candidacy",
+            "count": 3
+        },
+        {
+            "phrase": "the comelec says a premature campaign is ignoble but in effect it doesn't want to offend anybody so it'll just pass the buck to the supreme court",
+            "count": 1
+        },
+        {
+            "phrase": "campaigns are no longer dabbling online we expect a candidate's web presence to be an integral part of both campaigns",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know whether anything like this has really happened before where a candidate for a substantial part of the campaign is not going to be here",
+            "count": 1
+        }
+    ]
+}

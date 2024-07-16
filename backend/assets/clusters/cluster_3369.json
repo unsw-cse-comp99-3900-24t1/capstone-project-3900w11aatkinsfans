@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:09",
+            "01:33",
+            "03:34"
+        ],
+        "label": "moving"
+    },
+    "clusterList": [
+        {
+            "phrase": "the motorcade sped on",
+            "count": 2
+        },
+        {
+            "phrase": "moving too fast",
+            "count": 1
+        },
+        {
+            "phrase": "traveling at a high velocity on a downward trajectory",
+            "count": 1
+        },
+        {
+            "phrase": "was traveling at an excess speed",
+            "count": 1
+        },
+        {
+            "phrase": "is attempting to go the same speed",
+            "count": 1
+        }
+    ]
+}

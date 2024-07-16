@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:23",
+            "03:15",
+            "03:45",
+            "04:45"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "they're the lights of my life",
+            "count": 1
+        },
+        {
+            "phrase": "i've grown up loving them they've always been there for me in hard times and in good times",
+            "count": 1
+        },
+        {
+            "phrase": "when i saw african children's choir in raleigh i fell in love with them",
+            "count": 1
+        },
+        {
+            "phrase": "i grew up with them and i'm still watching",
+            "count": 1
+        },
+        {
+            "phrase": "they're so nice to work with and they're tame",
+            "count": 1
+        }
+    ]
+}

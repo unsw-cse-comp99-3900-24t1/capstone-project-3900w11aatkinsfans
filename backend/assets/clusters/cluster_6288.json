@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:57",
+            "02:10"
+        ],
+        "label": "whakatane"
+    },
+    "clusterList": [
+        {
+            "phrase": "whakatane services were rejected by the content filter",
+            "count": 3
+        }
+    ]
+}

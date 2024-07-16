@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best bits will come from that inspiration",
+            "count": 1
+        },
+        {
+            "phrase": "let's have a look at your best bits",
+            "count": 1
+        }
+    ]
+}

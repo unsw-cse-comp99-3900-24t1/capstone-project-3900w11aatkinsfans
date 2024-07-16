@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "03:41",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't like obama's energy policy it doesn't address the needs of a growing economy",
+            "count": 2
+        },
+        {
+            "phrase": "recently house speaker nancy pelosi conceded to reporters that the american people support american energy exploration to bring down the price of gas but still she refuses to schedule votes on bills that would allow for more american energy exploration and production",
+            "count": 1
+        },
+        {
+            "phrase": "the energy sources that russia possesses must be used for our own people not to help development of democracies in neighboring countries",
+            "count": 1
+        }
+    ]
+}

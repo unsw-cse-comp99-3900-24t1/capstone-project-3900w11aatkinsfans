@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            6
+        ],
+        "xLabels": [
+            "00:10",
+            "00:38",
+            "01:11",
+            "01:15",
+            "01:43",
+            "02:16"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "the free design",
+            "count": 6
+        },
+        {
+            "phrase": "we are not worried about the design we'll outsource it or use a free wordpress theme let us focus more on the product",
+            "count": 1
+        },
+        {
+            "phrase": "we're trying to make sure that innovation and new ideas can come forward without people feeling constrained by restrictive categories",
+            "count": 1
+        },
+        {
+            "phrase": "why aren't we providing a platform for designers",
+            "count": 1
+        },
+        {
+            "phrase": "some people think we're a design firm and some people think we're an interactive firm other people think we're an ad firm",
+            "count": 1
+        },
+        {
+            "phrase": "why don't we make our own",
+            "count": 1
+        }
+    ]
+}

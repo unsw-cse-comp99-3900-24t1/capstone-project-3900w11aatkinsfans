@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:38"
+        ],
+        "label": "too"
+    },
+    "clusterList": [
+        {
+            "phrase": "too bad tobi you want to be a good boy don't you",
+            "count": 1
+        },
+        {
+            "phrase": "but but tobi wants to be a good boy",
+            "count": 1
+        },
+        {
+            "phrase": "who's a good boy",
+            "count": 1
+        }
+    ]
+}

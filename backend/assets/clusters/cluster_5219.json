@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:11",
+            "03:14",
+            "03:47",
+            "04:03"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "water is the number one issue in this state",
+            "count": 2
+        },
+        {
+            "phrase": "at this pace the state could be slipping into a severe water crisis if the drought continues",
+            "count": 1
+        },
+        {
+            "phrase": "it won't provide water or help the water shortage in the short term but it's a long term proposition for water security",
+            "count": 1
+        }
+    ]
+}

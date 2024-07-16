@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:27",
+            "01:28",
+            "02:01",
+            "02:24",
+            "03:01",
+            "04:17",
+            "04:24",
+            "05:01",
+            "05:05"
+        ],
+        "label": "daddy's"
+    },
+    "clusterList": [
+        {
+            "phrase": "how the baby",
+            "count": 2
+        },
+        {
+            "phrase": "back to my baby",
+            "count": 2
+        },
+        {
+            "phrase": "daddy's coming home jameer",
+            "count": 1
+        },
+        {
+            "phrase": "the baby thing",
+            "count": 1
+        },
+        {
+            "phrase": "baby's got back",
+            "count": 1
+        },
+        {
+            "phrase": "our new baby",
+            "count": 1
+        },
+        {
+            "phrase": "splitting the baby",
+            "count": 1
+        },
+        {
+            "phrase": "baby one more time",
+            "count": 1
+        },
+        {
+            "phrase": "come back came back",
+            "count": 1
+        }
+    ]
+}

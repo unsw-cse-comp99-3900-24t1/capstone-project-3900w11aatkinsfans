@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "03:22"
+        ],
+        "label": "sudo"
+    },
+    "clusterList": [
+        {
+            "phrase": "sudo ln s opt local bin ruby usr bin ruby",
+            "count": 1
+        }
+    ]
+}

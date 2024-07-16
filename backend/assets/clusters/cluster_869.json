@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:35",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:20",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am basically what spock is to capt kirk to my director artistic director i'm his second in command when he leaves i'm totally in charge it's a blast yes i went to college for this",
+            "count": 14
+        },
+        {
+            "phrase": "yeah i'm also the chair of nyu graduate film department",
+            "count": 1
+        },
+        {
+            "phrase": "i'm a collaborator i look at the talent all over campus learn about it collaborate with it and develop plans i don't try to wing it and i don't do things alone and then tell you what i'm going to do",
+            "count": 1
+        }
+    ]
+}

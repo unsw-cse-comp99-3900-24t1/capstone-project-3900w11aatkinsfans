@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            7
+        ],
+        "xLabels": [
+            "00:42",
+            "01:33"
+        ],
+        "label": "protocols"
+    },
+    "clusterList": [
+        {
+            "phrase": "protocols of the elders of zion",
+            "count": 3
+        },
+        {
+            "phrase": "protocols of zion",
+            "count": 2
+        },
+        {
+            "phrase": "the protocols of the elders of zion",
+            "count": 2
+        },
+        {
+            "phrase": "the protocols of zion in context",
+            "count": 2
+        }
+    ]
+}

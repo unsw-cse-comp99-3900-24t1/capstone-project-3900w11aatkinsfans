@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "03:15",
+            "03:18",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the student nurses",
+            "count": 1
+        },
+        {
+            "phrase": "they want to be doctors teachers",
+            "count": 1
+        },
+        {
+            "phrase": "of course nurse",
+            "count": 1
+        },
+        {
+            "phrase": "education work group",
+            "count": 1
+        }
+    ]
+}

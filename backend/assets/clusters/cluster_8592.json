@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:32"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's a lot of opportunity out there much more so today",
+            "count": 1
+        },
+        {
+            "phrase": "there's a lot of money out there and a lot of people looking for it",
+            "count": 1
+        }
+    ]
+}

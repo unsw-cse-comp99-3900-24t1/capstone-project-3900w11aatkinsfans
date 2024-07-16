@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:20"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a good idea to have a basic pet first-aid kit dressings bandages ointments creams onboard",
+            "count": 1
+        },
+        {
+            "phrase": "do you do you have a first aid kit handy",
+            "count": 1
+        }
+    ]
+}

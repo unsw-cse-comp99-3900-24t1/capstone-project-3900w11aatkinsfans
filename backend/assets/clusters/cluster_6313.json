@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "03:59",
+            "04:00"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "you haven't seen the inside of my locker yet",
+            "count": 2
+        },
+        {
+            "phrase": "don't go in the locker room and take your head out of the game",
+            "count": 1
+        }
+    ]
+}

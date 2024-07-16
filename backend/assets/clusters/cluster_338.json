@@ -1,0 +1,91 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            12,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:05",
+            "00:07",
+            "00:14",
+            "00:18",
+            "01:01",
+            "01:09",
+            "01:30",
+            "01:50",
+            "01:52",
+            "02:10",
+            "02:11",
+            "03:12",
+            "03:36",
+            "04:06",
+            "04:15",
+            "04:49"
+        ],
+        "label": "children"
+    },
+    "clusterList": [
+        {
+            "phrase": "eye on earth",
+            "count": 16
+        },
+        {
+            "phrase": "shine a light",
+            "count": 3
+        },
+        {
+            "phrase": "take the world by a storm of wonderness",
+            "count": 2
+        },
+        {
+            "phrase": "children of light",
+            "count": 1
+        },
+        {
+            "phrase": "seen the light",
+            "count": 1
+        },
+        {
+            "phrase": "a light unto the nations",
+            "count": 1
+        },
+        {
+            "phrase": "sunshine and light",
+            "count": 1
+        },
+        {
+            "phrase": "let there be light",
+            "count": 1
+        },
+        {
+            "phrase": "light the light",
+            "count": 1
+        },
+        {
+            "phrase": "world on fire",
+            "count": 1
+        },
+        {
+            "phrase": "of the light",
+            "count": 1
+        },
+        {
+            "phrase": "light and life",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "03:34",
+            "03:55",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i believe that maria would be alive today if the marines had provided a more effective system to protect the victims of sexual assault",
+            "count": 7
+        },
+        {
+            "phrase": "maria is dead but there will be many more victims in the future i promise you i'm here to ask you to do what you can to help change how the military treats victims of crime and to ensure the victims receive the support and protection they need and they deserve",
+            "count": 6
+        },
+        {
+            "phrase": "no if they would just let betty loren maltese out of jail man that bitch knew how to beat a man",
+            "count": 1
+        }
+    ]
+}

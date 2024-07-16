@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "04:21"
+        ],
+        "label": "profit"
+    },
+    "clusterList": [
+        {
+            "phrase": "profit from the pros",
+            "count": 1
+        },
+        {
+            "phrase": "it's fine for companies to make money on the products they sell",
+            "count": 1
+        }
+    ]
+}

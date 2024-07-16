@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:15"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not really a waitress",
+            "count": 1
+        },
+        {
+            "phrase": "restaurant chains close as diners reduce spending",
+            "count": 1
+        }
+    ]
+}

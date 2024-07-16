@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "04:23"
+        ],
+        "label": "special"
+    },
+    "clusterList": [
+        {
+            "phrase": "special called ones",
+            "count": 1
+        },
+        {
+            "phrase": "these are rare",
+            "count": 1
+        }
+    ]
+}

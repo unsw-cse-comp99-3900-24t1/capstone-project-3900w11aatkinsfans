@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:11"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on his slow cooked shoulder roast which was served with grits pistachio and a little mound of wilted greens",
+            "count": 1
+        },
+        {
+            "phrase": "eggplant parmesan with whole wheat spaghetti",
+            "count": 1
+        }
+    ]
+}

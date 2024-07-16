@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:32",
+            "00:37",
+            "02:49",
+            "03:10",
+            "03:12",
+            "04:28",
+            "04:37"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're worthy of my praise",
+            "count": 1
+        },
+        {
+            "phrase": "welcome pastor osy",
+            "count": 1
+        },
+        {
+            "phrase": "blessed be your name",
+            "count": 1
+        },
+        {
+            "phrase": "praise the lord the lord has been good we've lived here 20 years",
+            "count": 1
+        },
+        {
+            "phrase": "magnify the lord",
+            "count": 1
+        },
+        {
+            "phrase": "oh son of abbaas what has caused you to increase your worship like this",
+            "count": 1
+        },
+        {
+            "phrase": "i repent lord oh god somehow be here amen",
+            "count": 1
+        },
+        {
+            "phrase": "wait on the lord",
+            "count": 1
+        },
+        {
+            "phrase": "god called me into this ministry",
+            "count": 1
+        }
+    ]
+}

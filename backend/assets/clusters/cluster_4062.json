@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:15",
+            "01:01",
+            "02:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the students love it because it is more self-directed",
+            "count": 2
+        },
+        {
+            "phrase": "the books are classified in the young adult genre but there are a whole scope of people reading the books",
+            "count": 1
+        },
+        {
+            "phrase": "the percentage of 17-year-olds who read nothing at all for pleasure has doubled over a 20-year period from 9 in 1984 to 19 in 2004",
+            "count": 1
+        },
+        {
+            "phrase": "literature makes us better noticers of life we get to practise on life itself which in turn makes us better readers of detail in literature which in turn makes us better readers of life and so on and on you have only to teach literature to realise that most young readers are poor noticers i know from my own old books wantonly annotated twenty years ago when i was a student that i routinely underlined for approval details and images and metaphors that strike me now as commonplace while serenely missing things which now seem wonderful we grow as readers and twenty-year olds are relative virgins they have not yet read enough literature to be taught how to read it",
+            "count": 1
+        }
+    ]
+}

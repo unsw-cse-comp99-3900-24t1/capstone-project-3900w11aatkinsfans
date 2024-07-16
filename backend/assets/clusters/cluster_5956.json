@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "02:11"
+        ],
+        "label": "anyone"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you've done something right no one will know that you've done anything at all",
+            "count": 2
+        },
+        {
+            "phrase": "anyone who has never made a mistake has never tried anything new",
+            "count": 1
+        }
+    ]
+}

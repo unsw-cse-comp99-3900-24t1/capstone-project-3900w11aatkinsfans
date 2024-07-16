@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:32",
+            "04:50"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well let's keep in touch a phone call every so often",
+            "count": 1
+        },
+        {
+            "phrase": "there are a lot of phone calls",
+            "count": 1
+        }
+    ]
+}

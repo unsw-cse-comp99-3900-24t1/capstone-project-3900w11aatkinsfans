@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "01:43"
+        ],
+        "label": "heated"
+    },
+    "clusterList": [
+        {
+            "phrase": "heated pools in las vegas hotels on strip",
+            "count": 1
+        },
+        {
+            "phrase": "but there are washrooms just outside of the pool area",
+            "count": 1
+        }
+    ]
+}

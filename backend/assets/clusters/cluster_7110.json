@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:47",
+            "04:23"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that shot sealed the tournament for me right there",
+            "count": 1
+        },
+        {
+            "phrase": "i would've won the tournament without that hole the way i was playing",
+            "count": 1
+        },
+        {
+            "phrase": "i really enjoy the experience competing with the top shooters",
+            "count": 1
+        }
+    ]
+}

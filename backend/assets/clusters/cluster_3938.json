@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:21",
+            "02:00",
+            "02:06",
+            "02:10"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "a cultural and a stylistic gap",
+            "count": 2
+        },
+        {
+            "phrase": "is hipster homogeneity killing culture",
+            "count": 1
+        },
+        {
+            "phrase": "hipster the dead end of western civilization",
+            "count": 1
+        },
+        {
+            "phrase": "in the end hipsters are sold what they think they invent and are spoon-fed their pre-packaged cultural livelihood",
+            "count": 1
+        }
+    ]
+}

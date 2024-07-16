@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:18",
+            "04:59"
+        ],
+        "label": "naw"
+    },
+    "clusterList": [
+        {
+            "phrase": "naw now way i hit the glass it would have broke and fallen out",
+            "count": 1
+        },
+        {
+            "phrase": "it just kind of fell in my lap",
+            "count": 1
+        },
+        {
+            "phrase": "maybe it dropped out and landed in the bottom of your purse",
+            "count": 1
+        }
+    ]
+}

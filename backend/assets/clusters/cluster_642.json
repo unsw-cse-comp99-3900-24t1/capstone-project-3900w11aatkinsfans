@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:27",
+            "00:41",
+            "01:06",
+            "01:09",
+            "01:23",
+            "01:47",
+            "02:28",
+            "02:32",
+            "03:09",
+            "03:10",
+            "03:24",
+            "03:48",
+            "03:51",
+            "04:04",
+            "04:28",
+            "04:31"
+        ],
+        "label": "preserving"
+    },
+    "clusterList": [
+        {
+            "phrase": "preserving access to medicare act of 2008",
+            "count": 7
+        },
+        {
+            "phrase": "it will also allow seniors and the government to easily take a medicare recipient's number out of circulation when fraud is detected",
+            "count": 7
+        },
+        {
+            "phrase": "the drc is one of the poorest places on the planet and that companies like danzer group are looking for ways to avoid paying taxes is simply outrageous",
+            "count": 3
+        },
+        {
+            "phrase": "health care fraud is very big here unfortunately",
+            "count": 1
+        },
+        {
+            "phrase": "solve the medicare problem",
+            "count": 1
+        },
+        {
+            "phrase": "now we have home care workers that are going out in to the community and they're saving the health care system a tremendous amount of money yet the value of that is really unrecognized",
+            "count": 1
+        }
+    ]
+}

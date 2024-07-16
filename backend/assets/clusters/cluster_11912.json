@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:05"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you drive over 500 miles a week to come to lcc",
+            "count": 1
+        },
+        {
+            "phrase": "i've got to go 30 to 40 miles down the road just to fill up my lawn mower",
+            "count": 1
+        }
+    ]
+}

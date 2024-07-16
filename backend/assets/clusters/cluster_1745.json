@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:47",
+            "00:48",
+            "01:50",
+            "02:32",
+            "03:04",
+            "03:09",
+            "03:51",
+            "03:56"
+        ],
+        "label": "t3"
+    },
+    "clusterList": [
+        {
+            "phrase": "t3 entertainment is searching for creative minds to passionately continue development of hellgate london and mythos along with other new games which are being published by hanbitsoft inc",
+            "count": 3
+        },
+        {
+            "phrase": "turbine has an impressive track record of creating and publishing high quality massively multiplayer online games",
+            "count": 3
+        },
+        {
+            "phrase": "we created a new medium none of the other consoles were really thinking about online at the time that was our focus we were like a crazy bull running around a china shop",
+            "count": 1
+        },
+        {
+            "phrase": "industry-changing multiplayer design",
+            "count": 1
+        },
+        {
+            "phrase": "the hubris of game developers",
+            "count": 1
+        },
+        {
+            "phrase": "i get asked a lot in interviews if we think in-game advertising is something that might be the wave of the future for pc gaming",
+            "count": 1
+        }
+    ]
+}

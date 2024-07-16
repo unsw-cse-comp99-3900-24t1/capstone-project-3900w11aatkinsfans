@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "02:01",
+            "04:22"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's so much opportunity here",
+            "count": 1
+        },
+        {
+            "phrase": "i am going to give you the opportunity of a lifetime",
+            "count": 1
+        },
+        {
+            "phrase": "an interesting opportunity",
+            "count": 1
+        }
+    ]
+}

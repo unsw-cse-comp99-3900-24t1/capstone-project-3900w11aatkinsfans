@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "04:37"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you have no idea what you're getting yourself into",
+            "count": 1
+        },
+        {
+            "phrase": "holy shit what have i gotten myself into",
+            "count": 1
+        }
+    ]
+}

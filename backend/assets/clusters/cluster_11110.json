@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:03",
+            "04:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's really a one-game deal",
+            "count": 1
+        },
+        {
+            "phrase": "that's a pretty neat little deal too",
+            "count": 1
+        }
+    ]
+}

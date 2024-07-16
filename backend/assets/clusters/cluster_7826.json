@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:23",
+            "03:47"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the fashion police resistance is futile",
+            "count": 1
+        },
+        {
+            "phrase": "graffight the trials and tribulations of starting a fightwear clothing line",
+            "count": 1
+        }
+    ]
+}

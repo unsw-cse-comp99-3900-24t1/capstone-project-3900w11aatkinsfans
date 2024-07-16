@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:54",
+            "02:39",
+            "02:49",
+            "04:28",
+            "04:43"
+        ],
+        "label": "can"
+    },
+    "clusterList": [
+        {
+            "phrase": "can you top this",
+            "count": 1
+        },
+        {
+            "phrase": "heading for the top",
+            "count": 1
+        },
+        {
+            "phrase": "top of the world",
+            "count": 1
+        },
+        {
+            "phrase": "over teh top",
+            "count": 1
+        },
+        {
+            "phrase": "oh about half way down the block",
+            "count": 1
+        },
+        {
+            "phrase": "above and beyond",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "05:01",
+            "05:05"
+        ],
+        "label": "bill"
+    },
+    "clusterList": [
+        {
+            "phrase": "bill and ted's excellent adventure",
+            "count": 1
+        },
+        {
+            "phrase": "the clinton chronicles",
+            "count": 1
+        },
+        {
+            "phrase": "mr toad's wild ride arizona style",
+            "count": 1
+        }
+    ]
+}

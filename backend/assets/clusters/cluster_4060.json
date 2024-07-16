@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:14",
+            "02:39",
+            "02:46"
+        ],
+        "label": "giving"
+    },
+    "clusterList": [
+        {
+            "phrase": "giving comprehensible and appropriate information about survival benefit is extremely difficult in addition the reluctance to inform patients of the limited survival gain of palliative chemotherapy may be motivated by a desire to protect patients from bad news",
+            "count": 1
+        },
+        {
+            "phrase": "physician aid in dying",
+            "count": 1
+        },
+        {
+            "phrase": "historically doctors have been encouraged to back away from patients when they enter hospice but this keeps familiar people involved",
+            "count": 1
+        },
+        {
+            "phrase": "plus it's nice to have someone there who is not concerned with the hospice's bottom line",
+            "count": 1
+        },
+        {
+            "phrase": "the new rules really should allow the hospices to meet the individual needs of each patient",
+            "count": 1
+        }
+    ]
+}

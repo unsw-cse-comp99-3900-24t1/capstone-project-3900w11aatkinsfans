@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:38",
+            "00:53",
+            "01:07",
+            "01:20",
+            "01:51",
+            "04:24",
+            "04:38"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "all for one",
+            "count": 2
+        },
+        {
+            "phrase": "i want some cock",
+            "count": 1
+        },
+        {
+            "phrase": "get me a duck i need a duck i want a duck duck duck duck duck duck",
+            "count": 1
+        },
+        {
+            "phrase": "i want a prince",
+            "count": 1
+        },
+        {
+            "phrase": "it comes with two",
+            "count": 1
+        },
+        {
+            "phrase": "me too i only want one too",
+            "count": 1
+        },
+        {
+            "phrase": "not that do you still want one",
+            "count": 1
+        }
+    ]
+}

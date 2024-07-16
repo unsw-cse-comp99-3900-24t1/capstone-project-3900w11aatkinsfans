@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:51",
+            "02:15",
+            "03:44",
+            "04:21",
+            "04:29",
+            "04:38",
+            "05:01"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is that the best you can come up with",
+            "count": 6
+        },
+        {
+            "phrase": "there's always the potential to be one of the best and that's always the goal",
+            "count": 1
+        },
+        {
+            "phrase": "being the best",
+            "count": 1
+        },
+        {
+            "phrase": "to be the best",
+            "count": 1
+        }
+    ]
+}

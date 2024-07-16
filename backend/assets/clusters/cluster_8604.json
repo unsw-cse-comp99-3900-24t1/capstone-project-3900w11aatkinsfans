@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:09"
+        ],
+        "label": "lose"
+    },
+    "clusterList": [
+        {
+            "phrase": "lose to the car camping",
+            "count": 1
+        },
+        {
+            "phrase": "you can take it with you how cars changed camping",
+            "count": 1
+        }
+    ]
+}

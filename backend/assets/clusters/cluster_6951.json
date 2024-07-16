@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "02:29",
+            "04:45"
+        ],
+        "label": "blessing"
+    },
+    "clusterList": [
+        {
+            "phrase": "blessing is next to the wound",
+            "count": 1
+        },
+        {
+            "phrase": "the emergent healing paradigm",
+            "count": 1
+        },
+        {
+            "phrase": "what mercy ships is doing is about hope as well as healing",
+            "count": 1
+        }
+    ]
+}

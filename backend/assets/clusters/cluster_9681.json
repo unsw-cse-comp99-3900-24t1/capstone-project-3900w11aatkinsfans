@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:42"
+        ],
+        "label": "its"
+    },
+    "clusterList": [
+        {
+            "phrase": "its not the potus job to lead the black liberation movement",
+            "count": 1
+        },
+        {
+            "phrase": "committee to defend martin luther king and the struggle for freedom in the south",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "02:55",
+            "03:18"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you're in a town like this all covered with smoke you forget that there's a world outside nothing amazing happens here",
+            "count": 1
+        },
+        {
+            "phrase": "you can relax outside with a smoke during the break",
+            "count": 1
+        },
+        {
+            "phrase": "you used to smoke as well didn't you",
+            "count": 1
+        }
+    ]
+}

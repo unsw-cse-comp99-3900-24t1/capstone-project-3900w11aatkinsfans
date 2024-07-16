@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "02:19"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we think facebook adds value to our campus",
+            "count": 1
+        },
+        {
+            "phrase": "it's hugely important to the library because the friends group uses the money to provide programming for kids and adults",
+            "count": 1
+        }
+    ]
+}

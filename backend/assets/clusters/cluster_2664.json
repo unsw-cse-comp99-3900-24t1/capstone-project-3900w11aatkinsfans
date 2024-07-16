@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:20",
+            "00:28",
+            "00:51",
+            "03:27",
+            "03:55",
+            "04:36"
+        ],
+        "label": "customer"
+    },
+    "clusterList": [
+        {
+            "phrase": "customer service is an assembly line",
+            "count": 1
+        },
+        {
+            "phrase": "100 customer satisfaction",
+            "count": 1
+        },
+        {
+            "phrase": "but not necessarily a customer for that idea it's a safer bet if you've found your customer or have an idea who that customer is",
+            "count": 1
+        },
+        {
+            "phrase": "customer service specialist",
+            "count": 1
+        },
+        {
+            "phrase": "i appreciate the customers that have patience",
+            "count": 1
+        },
+        {
+            "phrase": "an outstanding customer svc experience",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of products take sales training and embed it into crm systems but for the most part these only tell a sales rep what to do get to the cio understand customer needs and so on",
+            "count": 1
+        }
+    ]
+}

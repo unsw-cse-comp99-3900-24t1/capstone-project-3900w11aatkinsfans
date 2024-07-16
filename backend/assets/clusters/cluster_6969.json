@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "02:18",
+            "03:14"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you know what the plan is for these kids flights",
+            "count": 1
+        },
+        {
+            "phrase": "we're planning to have more planes more attractions and more activities for both children and adults",
+            "count": 1
+        },
+        {
+            "phrase": "it'll be an adventure for the kids and we want it to be fun but at the same time the kids will hopefully take some things home and apply it and share it and create a lifestyle that will be more environmentally conscious kids of all ages enter island girl power jump rope competition",
+            "count": 1
+        }
+    ]
+}

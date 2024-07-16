@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            9
+        ],
+        "xLabels": [
+            "00:33",
+            "02:56",
+            "04:36"
+        ],
+        "label": "xyz"
+    },
+    "clusterList": [
+        {
+            "phrase": "xyz cup which is between maharathies ie ak xi v s msd xi",
+            "count": 8
+        },
+        {
+            "phrase": "xyz cup which is between maharathies ie ak xi v s msd xi quit maharathies quit your days are numbered quit rd sg srt vvs quit",
+            "count": 4
+        },
+        {
+            "phrase": "north urals cup",
+            "count": 2
+        }
+    ]
+}

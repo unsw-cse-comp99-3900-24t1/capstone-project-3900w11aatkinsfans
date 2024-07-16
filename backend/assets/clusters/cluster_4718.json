@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:16",
+            "01:37",
+            "04:18"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this bill is the latest in a long string of bipartisan initiatives on global hiv aids that have been born out of a willingness to work together and put the united states on the right side of history when it comes to this global pandemic despite his failings on so many critical issues the president deserves recognition for working with congress to enact this important legislation",
+            "count": 1
+        },
+        {
+            "phrase": "housing stimulus bill passed president says he'll sign",
+            "count": 1
+        },
+        {
+            "phrase": "this congress is dedicated to meeting the needs of our nation's veterans no matter the political maneuvering of a callous president",
+            "count": 1
+        },
+        {
+            "phrase": "i also want to thank treasury secretary henry paulson who worked closely with democrats in congress to pass this legislation and ensured that the president would sign it into law",
+            "count": 1
+        }
+    ]
+}

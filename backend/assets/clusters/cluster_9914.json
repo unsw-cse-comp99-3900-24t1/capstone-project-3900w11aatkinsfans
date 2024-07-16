@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:36",
+            "04:45"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why the f didn't they load it in new york",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know why the post office didn't start looking for another facility then",
+            "count": 1
+        }
+    ]
+}

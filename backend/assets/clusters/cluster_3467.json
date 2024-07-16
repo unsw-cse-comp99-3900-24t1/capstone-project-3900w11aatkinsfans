@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "01:51",
+            "01:52",
+            "02:51",
+            "04:37",
+            "04:45"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now he's said what's going to happen in beijing",
+            "count": 2
+        },
+        {
+            "phrase": "but i will not take a place in beijing if everything doesn't go according to plan",
+            "count": 1
+        },
+        {
+            "phrase": "smile beijing a smile shows beijing's best tomorrow",
+            "count": 1
+        },
+        {
+            "phrase": "beijing there's so much less pressure than the trials",
+            "count": 1
+        },
+        {
+            "phrase": "most secure place in beijing at the time of the games",
+            "count": 1
+        }
+    ]
+}

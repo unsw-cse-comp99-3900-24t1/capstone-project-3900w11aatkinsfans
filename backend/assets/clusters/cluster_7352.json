@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:20",
+            "02:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the rising tide",
+            "count": 1
+        },
+        {
+            "phrase": "green grass and high tides",
+            "count": 1
+        },
+        {
+            "phrase": "succumb to the tide",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:19",
+            "01:22",
+            "02:00",
+            "03:48",
+            "04:15",
+            "04:28",
+            "04:31"
+        ],
+        "label": "early"
+    },
+    "clusterList": [
+        {
+            "phrase": "the test is a measure of long-term glucose control but doctors don't typically use it to screen for or diagnose the disease",
+            "count": 4
+        },
+        {
+            "phrase": "there's reason to believe it could help identify many of the estimated six million people in the u s who have diabetes but don't know it",
+            "count": 4
+        },
+        {
+            "phrase": "whether or not this pill would confer those benefits we don't know",
+            "count": 3
+        },
+        {
+            "phrase": "early detection of diabetes has several benefits",
+            "count": 1
+        }
+    ]
+}

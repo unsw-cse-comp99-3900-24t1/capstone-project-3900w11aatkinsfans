@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:01"
+        ],
+        "label": "ready"
+    },
+    "clusterList": [
+        {
+            "phrase": "ready to believe",
+            "count": 1
+        },
+        {
+            "phrase": "i want to be ready this isn't helping",
+            "count": 1
+        }
+    ]
+}

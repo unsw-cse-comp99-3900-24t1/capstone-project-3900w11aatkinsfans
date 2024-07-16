@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:15",
+            "04:56"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you blame the quarterback it's so unfair",
+            "count": 2
+        },
+        {
+            "phrase": "you have to understand that you're a little different animal than the left tackle linebacker or safety all of those people are accountable but the quarterback is held at a different standard because he is a guy that you look for on the field for outstanding leadership",
+            "count": 1
+        }
+    ]
+}

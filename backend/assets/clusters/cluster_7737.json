@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:08",
+            "04:13",
+            "04:55"
+        ],
+        "label": "man"
+    },
+    "clusterList": [
+        {
+            "phrase": "man life sure sucks doesn't it",
+            "count": 1
+        },
+        {
+            "phrase": "any thing worth doing is worth doing badly",
+            "count": 1
+        },
+        {
+            "phrase": "life sucks but it's worth doing something about anyway",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "03:10",
+            "03:51",
+            "04:07",
+            "04:28",
+            "04:55"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "a democratic seat by voter registration and voting pattern",
+            "count": 3
+        },
+        {
+            "phrase": "a majority of voters",
+            "count": 2
+        },
+        {
+            "phrase": "an asian american and latino voting bloc",
+            "count": 1
+        }
+    ]
+}

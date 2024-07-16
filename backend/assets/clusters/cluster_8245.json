@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:48"
+        ],
+        "label": "modern"
+    },
+    "clusterList": [
+        {
+            "phrase": "modern times lead to serious misinterpretations",
+            "count": 1
+        },
+        {
+            "phrase": "some people knew about the history and others were totally surprised others had heard oral histories but they weren't entirely accurate",
+            "count": 1
+        }
+    ]
+}

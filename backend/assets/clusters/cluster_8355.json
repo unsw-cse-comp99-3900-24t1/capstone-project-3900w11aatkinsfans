@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:29"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one foot in reality",
+            "count": 1
+        },
+        {
+            "phrase": "magical left foot",
+            "count": 1
+        }
+    ]
+}

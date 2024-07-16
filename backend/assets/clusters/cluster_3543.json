@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "02:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we found a disproportionately high association between living close to a highway and birth complications among affluent mothers",
+            "count": 2
+        },
+        {
+            "phrase": "among affluent mothers who live within 200 metres of a highway the odds of delivering an infant with low birth weight increase by 81 percent while their odds of delivering a preterm baby increase by 58 percent compared to mothers who don't live anywhere close to expressways",
+            "count": 1
+        },
+        {
+            "phrase": "advantaged mothers may be more susceptible to highway pollution possibly because they have been protected from other hazards present in low income neighbourhoods",
+            "count": 1
+        },
+        {
+            "phrase": "a greater percentage of u s children is being born into adverse environments",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "04:03"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we personally weren't responsible",
+            "count": 1
+        },
+        {
+            "phrase": "we weren't personally responsible",
+            "count": 1
+        },
+        {
+            "phrase": "we take credit for screwing up",
+            "count": 1
+        }
+    ]
+}

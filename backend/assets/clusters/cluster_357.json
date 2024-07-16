@@ -1,0 +1,103 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:29",
+            "01:47",
+            "02:10",
+            "02:13",
+            "02:15",
+            "02:28",
+            "03:09",
+            "03:18",
+            "03:48",
+            "04:05",
+            "04:13",
+            "04:23",
+            "04:28",
+            "04:33",
+            "04:37",
+            "04:52"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am a 24 year old i live in a small town in ohio i have been married to my wonderful husband for three years we have three beautiful children who are 7 5 2",
+            "count": 14
+        },
+        {
+            "phrase": "we live with my sister-in-law her two sons my mother-in-law and tom's kids isabella and connor",
+            "count": 2
+        },
+        {
+            "phrase": "how do you plan to support a family or buy a home",
+            "count": 2
+        },
+        {
+            "phrase": "i'm staying with family so i'm all right",
+            "count": 1
+        },
+        {
+            "phrase": "this is your house",
+            "count": 1
+        },
+        {
+            "phrase": "please sir i've got a family",
+            "count": 1
+        },
+        {
+            "phrase": "wow so your mom is my sister man i've gone from having no family at all to having a dang huge one",
+            "count": 1
+        },
+        {
+            "phrase": "my father's house",
+            "count": 1
+        },
+        {
+            "phrase": "this is a big home do you have a family",
+            "count": 1
+        },
+        {
+            "phrase": "we're glad you could make it to our little home even though we have a nice little home in",
+            "count": 1
+        },
+        {
+            "phrase": "dad here's our new house",
+            "count": 1
+        },
+        {
+            "phrase": "i know everybody here we always considered this home",
+            "count": 1
+        },
+        {
+            "phrase": "we get a lot of families",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't seem real that that's your family",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the brunsons have passed on a tradition of service to this nation that it was all we were ever meant to do",
+            "count": 1
+        },
+        {
+            "phrase": "duck calls an enduring american tradition",
+            "count": 1
+        }
+    ]
+}

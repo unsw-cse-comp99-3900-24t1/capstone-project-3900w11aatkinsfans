@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:05"
+        ],
+        "label": "air"
+    },
+    "clusterList": [
+        {
+            "phrase": "air safety network",
+            "count": 1
+        },
+        {
+            "phrase": "multiple failures of the air defense network to protect new york city and the capital",
+            "count": 1
+        }
+    ]
+}

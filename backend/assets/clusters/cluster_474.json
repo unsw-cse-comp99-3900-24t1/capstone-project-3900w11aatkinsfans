@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:15",
+            "00:20",
+            "00:51",
+            "01:01",
+            "01:11",
+            "01:29",
+            "01:42",
+            "01:46",
+            "02:20",
+            "02:23",
+            "02:55",
+            "03:46",
+            "03:56",
+            "03:58",
+            "04:00",
+            "04:45",
+            "04:51",
+            "04:56"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are extending the mission through september 30",
+            "count": 13
+        },
+        {
+            "phrase": "we are extending them until december 31",
+            "count": 3
+        },
+        {
+            "phrase": "the mission extension adds five weeks to the 90 days of the prime mission",
+            "count": 2
+        },
+        {
+            "phrase": "and nasa's extended the mission for another 90 days to go look for more",
+            "count": 2
+        },
+        {
+            "phrase": "with that what i'd like to do is announce that we're going to extend the mission to go till the end of the fiscal year september 30",
+            "count": 2
+        },
+        {
+            "phrase": "we continued to make good progress with our expansion plans during the quarter and most of our projects are on or ahead of schedule",
+            "count": 2
+        }
+    ]
+}

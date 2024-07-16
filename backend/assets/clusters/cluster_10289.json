@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:51"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one day in your courts is better than a thousand elsewhere",
+            "count": 1
+        },
+        {
+            "phrase": "a great number of unfiled cases",
+            "count": 1
+        }
+    ]
+}

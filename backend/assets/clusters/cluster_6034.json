@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:06",
+            "01:46"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how hard could it be to wash a dog",
+            "count": 3
+        }
+    ]
+}

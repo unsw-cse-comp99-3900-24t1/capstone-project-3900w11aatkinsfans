@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "01:43",
+            "03:10",
+            "03:37"
+        ],
+        "label": "tell"
+    },
+    "clusterList": [
+        {
+            "phrase": "tell me it ain't so",
+            "count": 1
+        },
+        {
+            "phrase": "is and isn't",
+            "count": 1
+        },
+        {
+            "phrase": "it's the opposite",
+            "count": 1
+        },
+        {
+            "phrase": "now that i mention it isn't",
+            "count": 1
+        }
+    ]
+}

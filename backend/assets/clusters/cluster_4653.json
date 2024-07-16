@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "04:03",
+            "04:22",
+            "04:33"
+        ],
+        "label": "morning"
+    },
+    "clusterList": [
+        {
+            "phrase": "morning scotty the big day",
+            "count": 3
+        },
+        {
+            "phrase": "morning ms wilson",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:19"
+        ],
+        "label": "yes"
+    },
+    "clusterList": [
+        {
+            "phrase": "yes them do",
+            "count": 1
+        },
+        {
+            "phrase": "no they don't",
+            "count": 1
+        }
+    ]
+}

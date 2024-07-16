@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:12",
+            "02:14"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you pick up a 2'8",
+            "count": 1
+        },
+        {
+            "phrase": "when you pick up a 2 8",
+            "count": 1
+        }
+    ]
+}

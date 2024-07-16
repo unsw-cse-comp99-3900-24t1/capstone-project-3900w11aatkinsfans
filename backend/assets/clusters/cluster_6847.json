@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "02:24",
+            "04:55"
+        ],
+        "label": "really"
+    },
+    "clusterList": [
+        {
+            "phrase": "really about what",
+            "count": 1
+        },
+        {
+            "phrase": "what was that all about",
+            "count": 1
+        },
+        {
+            "phrase": "that's what it's all about",
+            "count": 1
+        }
+    ]
+}

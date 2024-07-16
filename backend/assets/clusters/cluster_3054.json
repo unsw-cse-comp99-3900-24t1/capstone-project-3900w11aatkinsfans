@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:13",
+            "02:15",
+            "02:46",
+            "04:59"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "a degree is nothing",
+            "count": 2
+        },
+        {
+            "phrase": "you're young though you've got a degree",
+            "count": 1
+        },
+        {
+            "phrase": "you're really good at that you should be an artist when you grow up",
+            "count": 1
+        },
+        {
+            "phrase": "i needed to put a degree with my background training",
+            "count": 1
+        },
+        {
+            "phrase": "i did the math and i'll be 90 when i get my doctorate who says that's too old",
+            "count": 1
+        }
+    ]
+}

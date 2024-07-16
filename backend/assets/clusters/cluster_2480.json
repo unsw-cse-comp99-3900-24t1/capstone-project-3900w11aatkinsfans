@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:28",
+            "01:09",
+            "02:28",
+            "03:51",
+            "04:31"
+        ],
+        "label": "ask"
+    },
+    "clusterList": [
+        {
+            "phrase": "ask the experts the expert network",
+            "count": 5
+        },
+        {
+            "phrase": "ask the expert",
+            "count": 2
+        }
+    ]
+}

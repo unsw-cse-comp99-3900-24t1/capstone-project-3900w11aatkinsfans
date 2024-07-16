@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:38"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this woman's work",
+            "count": 1
+        },
+        {
+            "phrase": "this relationship is too much work",
+            "count": 1
+        }
+    ]
+}

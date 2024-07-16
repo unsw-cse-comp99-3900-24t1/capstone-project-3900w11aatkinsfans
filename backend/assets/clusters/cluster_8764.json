@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "03:46"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things to consider when using wordpress as a cms",
+            "count": 1
+        },
+        {
+            "phrase": "using wordpress as a cms",
+            "count": 1
+        }
+    ]
+}

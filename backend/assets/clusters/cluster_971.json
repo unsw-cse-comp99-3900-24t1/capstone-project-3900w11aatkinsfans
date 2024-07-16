@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:28",
+            "00:29",
+            "01:08",
+            "01:11",
+            "01:13",
+            "01:34",
+            "01:37",
+            "01:42",
+            "01:47",
+            "02:00",
+            "03:18",
+            "04:19"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "run negative ads on me continuously and i might point out for the record that his was the first",
+            "count": 8
+        },
+        {
+            "phrase": "senator obama has continuously attacked me but the point is that we're drawing differences between our two campaigns what we stand for and believe in that is clearly what the ad was all about it it was about energy and it was about taxes",
+            "count": 2
+        },
+        {
+            "phrase": "he's run negative ads on me continuously and i might point out for the record that he was the first i think it was an ad that points out the differences between our two plans of action that we for america",
+            "count": 2
+        },
+        {
+            "phrase": "he spends an awful lot of time talking about me i haven't seen an ad yet where he talks about what he's going to do because those folks know they don't have any good answers",
+            "count": 1
+        },
+        {
+            "phrase": "you notice that i haven't seen an ad yet where he talks about what he's gonna do",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not interested in getting into a tit for tat these negative ads these negative attacks spending all this time talking about me and instead of talking about what he's going to do that's not going to lower your gas prices that's not going to help you stay in your home if you're falling behind on the mortgage that's not going to help you find a job if it's been shipped overseas it doesn't do a single thing to help the american people it's politics as a game but the time for game playing is over that's why i'm running for president of the united states",
+            "count": 1
+        }
+    ]
+}

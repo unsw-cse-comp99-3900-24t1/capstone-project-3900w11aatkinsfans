@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "02:19",
+            "05:00"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people and their damn miracle cures jeez give it a couple minutes",
+            "count": 1
+        },
+        {
+            "phrase": "ha ha holy shit oh my god i can't believe that shit worked",
+            "count": 1
+        },
+        {
+            "phrase": "is not a miracle pill or a quick solution",
+            "count": 1
+        }
+    ]
+}

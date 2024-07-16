@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:28",
+            "04:18"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what makes a name",
+            "count": 1
+        },
+        {
+            "phrase": "returns the name",
+            "count": 1
+        },
+        {
+            "phrase": "set the name",
+            "count": 1
+        }
+    ]
+}

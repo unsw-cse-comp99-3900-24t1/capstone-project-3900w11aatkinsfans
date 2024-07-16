@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:33",
+            "03:31",
+            "04:23",
+            "04:27"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not something we look forward to but if we can't come to an agreement that's what we would have to do there are other businesses that have lease agreements with the city that are surrounding the airport it would impact them as well",
+            "count": 1
+        },
+        {
+            "phrase": "to this aim we look forward to offering corporations with offices in australia strong travel management service that is localised to meet the unique needs of their market",
+            "count": 1
+        },
+        {
+            "phrase": "we're continuing to negotiate with the airport",
+            "count": 1
+        },
+        {
+            "phrase": "run the airport like a business",
+            "count": 1
+        },
+        {
+            "phrase": "with the planned expansion we're eyeing the opportunities here and we're working with the airport authority",
+            "count": 1
+        }
+    ]
+}

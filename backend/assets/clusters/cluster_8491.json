@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:30"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know not with what weapons world war iii will be fought but world war iv will be fought with sticks and stones",
+            "count": 1
+        },
+        {
+            "phrase": "battle axe and weapons of war",
+            "count": 1
+        }
+    ]
+}

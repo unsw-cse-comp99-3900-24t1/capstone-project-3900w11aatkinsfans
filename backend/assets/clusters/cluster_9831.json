@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:37"
+        ],
+        "label": "hi"
+    },
+    "clusterList": [
+        {
+            "phrase": "hi i'm calling from the apple store and you replacement iphone is ready to pickup",
+            "count": 1
+        },
+        {
+            "phrase": "http www apple com la iphone buy ve",
+            "count": 1
+        }
+    ]
+}

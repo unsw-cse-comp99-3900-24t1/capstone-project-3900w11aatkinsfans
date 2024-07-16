@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:52",
+            "01:50",
+            "03:38",
+            "03:50",
+            "03:55",
+            "04:21"
+        ],
+        "label": "everybody's"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody's talking about",
+            "count": 2
+        },
+        {
+            "phrase": "wait what we're we talking about",
+            "count": 2
+        },
+        {
+            "phrase": "it's kind of a joke that we talk about",
+            "count": 2
+        },
+        {
+            "phrase": "yeah we were talking about it",
+            "count": 1
+        }
+    ]
+}

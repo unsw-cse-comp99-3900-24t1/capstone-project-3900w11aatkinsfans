@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:51",
+            "03:42",
+            "04:22",
+            "05:00"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you hear over and over against that all government officials are corrupt",
+            "count": 1
+        },
+        {
+            "phrase": "government officials in high-profile investigations",
+            "count": 1
+        },
+        {
+            "phrase": "and there are allegations of significant corruption among high-level officials",
+            "count": 1
+        },
+        {
+            "phrase": "charges of gross incompetence disregard of the public interest communist sympathies and the like usually have filled the air and hints of bribery embezzlement and other criminal conduct are not infrequent",
+            "count": 1
+        },
+        {
+            "phrase": "in the case of two if not three departments of our manchester city council bribery and corruption have existed and done their nefarious work",
+            "count": 1
+        },
+        {
+            "phrase": "those violations may include bribery of voters intimidation of voters interfering with conduct of elections voting more than once",
+            "count": 1
+        }
+    ]
+}

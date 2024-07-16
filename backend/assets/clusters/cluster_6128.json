@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "05:03"
+        ],
+        "label": "strategies"
+    },
+    "clusterList": [
+        {
+            "phrase": "strategies of innovation and imitation of product languages",
+            "count": 1
+        },
+        {
+            "phrase": "it seems that the innovators understand and build off each other's ideas better than the imitators do",
+            "count": 1
+        },
+        {
+            "phrase": "it is better to fail in originality than to succeed in imitation",
+            "count": 1
+        }
+    ]
+}

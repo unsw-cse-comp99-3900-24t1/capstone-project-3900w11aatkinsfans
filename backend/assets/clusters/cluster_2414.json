@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:28",
+            "01:01",
+            "01:05",
+            "01:19",
+            "01:20",
+            "03:11"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i hit the next couple of weeks like i hit it today that's not going to be a problem",
+            "count": 4
+        },
+        {
+            "phrase": "usually it will spike for a couple of months then taper off",
+            "count": 1
+        },
+        {
+            "phrase": "if i hit the next couple of weeks like i hit it today that's not going to be a problem he said",
+            "count": 1
+        },
+        {
+            "phrase": "i may hit a few but it's not going to happen too often",
+            "count": 1
+        }
+    ]
+}

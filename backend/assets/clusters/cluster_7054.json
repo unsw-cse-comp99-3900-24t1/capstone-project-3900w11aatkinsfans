@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "02:22",
+            "03:18"
+        ],
+        "label": "couldn't"
+    },
+    "clusterList": [
+        {
+            "phrase": "couldn't take my eyes of you",
+            "count": 1
+        },
+        {
+            "phrase": "not show up",
+            "count": 1
+        },
+        {
+            "phrase": "who are you can i see you again",
+            "count": 1
+        }
+    ]
+}

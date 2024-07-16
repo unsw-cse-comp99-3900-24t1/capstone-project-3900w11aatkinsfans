@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:20",
+            "01:13",
+            "01:40",
+            "01:47",
+            "02:23",
+            "02:26",
+            "03:01",
+            "03:08",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of afghanistan and into kyoto",
+            "count": 3
+        },
+        {
+            "phrase": "the focal point for kyoto questions remains the economy ministry as far as i know that hasn't changed",
+            "count": 2
+        },
+        {
+            "phrase": "the trade improvement doesn't look sustainable",
+            "count": 2
+        },
+        {
+            "phrase": "i'll give you an alternative to kyoto and it'll be better",
+            "count": 2
+        },
+        {
+            "phrase": "gt wto failure bodes ill for climate change delegates afp afp japan's cabinet on tuesday adopted a plan to slash carbon emissions up to 80 percent by 2050 by starting carbon trading and stepping up research on carbon-capture technologies",
+            "count": 1
+        },
+        {
+            "phrase": "gt kyoto city against global warming sees threat to gardens afp ap voluntary pollution-reduction programs touted by the bush administration as part of the solution to global warming have",
+            "count": 1
+        },
+        {
+            "phrase": "i hope kyoto will not fail",
+            "count": 1
+        }
+    ]
+}

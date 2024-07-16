@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:58",
+            "01:40",
+            "02:26",
+            "02:33",
+            "03:18",
+            "03:51",
+            "04:45",
+            "04:51"
+        ],
+        "label": "feeling"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm pissed off",
+            "count": 2
+        },
+        {
+            "phrase": "well why are you pissed off",
+            "count": 2
+        },
+        {
+            "phrase": "feeling bad about it",
+            "count": 1
+        },
+        {
+            "phrase": "are you upset about something",
+            "count": 1
+        },
+        {
+            "phrase": "you know what really makes me mad",
+            "count": 1
+        },
+        {
+            "phrase": "you're still mad at me aren't you",
+            "count": 1
+        },
+        {
+            "phrase": "i am really pissed off",
+            "count": 1
+        },
+        {
+            "phrase": "i'm shocked i really am",
+            "count": 1
+        },
+        {
+            "phrase": "don't be insulted",
+            "count": 1
+        }
+    ]
+}

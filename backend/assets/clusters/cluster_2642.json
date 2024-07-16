@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:10",
+            "01:25",
+            "01:32",
+            "02:19",
+            "03:57",
+            "04:33"
+        ],
+        "label": "im"
+    },
+    "clusterList": [
+        {
+            "phrase": "his chickens and rabbits eat my vegetables and my flowers",
+            "count": 2
+        },
+        {
+            "phrase": "im hungry from all he running",
+            "count": 1
+        },
+        {
+            "phrase": "absolutely although he does get up every 3 hours in the night to eat",
+            "count": 1
+        },
+        {
+            "phrase": "mind do you feed him anything",
+            "count": 1
+        },
+        {
+            "phrase": "tell him we're out of food",
+            "count": 1
+        },
+        {
+            "phrase": "he can cook for me he's a pretty good baby-sitter he doesn't know all this yet though",
+            "count": 1
+        }
+    ]
+}

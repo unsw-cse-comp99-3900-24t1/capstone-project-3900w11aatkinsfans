@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5,
+            5,
+            5,
+            5,
+            5,
+            5
+        ],
+        "xLabels": [
+            "00:15",
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "the man who mistakenly claimed to have inspired the movie love story and to have invented the internet says he didn't quite mean to say he discovered a toxic waste site",
+            "count": 6
+        },
+        {
+            "phrase": "i mean how did he get this idea now you've seen al gore in action i know you didn't know that he was the prototype for ryan o'neal's character in love story or that he invented the internet he now is the guy who discovered love canal",
+            "count": 6
+        },
+        {
+            "phrase": "what is it the zelig guy who keeps saying i was the main character in love story i invented the internet i invented love canal",
+            "count": 6
+        },
+        {
+            "phrase": "says he was the model for love story created the internet and this time he sort of discovered love canal",
+            "count": 6
+        },
+        {
+            "phrase": "never mind that he didn't invent the internet serve as the model for love story or blow the whistle on love canal all of this would be funny if it weren't so disturbing",
+            "count": 6
+        },
+        {
+            "phrase": "just before 2000 when search engines were all the rage he began to test his theory out at first and later expanded fully after truly understanding what it was all about",
+            "count": 1
+        }
+    ]
+}

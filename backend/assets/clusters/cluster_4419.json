@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:09",
+            "04:00"
+        ],
+        "label": "insulin"
+    },
+    "clusterList": [
+        {
+            "phrase": "insulin delivery based on carbohydrate counting is the gold standard for improving glycemic control in type 1 diabetes",
+            "count": 1
+        },
+        {
+            "phrase": "participants randomized to surgical therapy were more likely to achieve remission of type 2 diabetes through greater weight loss these results need to be confirmed in a larger more diverse population and have long-term efficacy assessed",
+            "count": 1
+        },
+        {
+            "phrase": "t he study of 60 patients showed that 73 percent of those who had the gastric banding surgery had complete remissions of diabetes meaning all signs of the disease went away by contrast the remission rate was only 13 percent in those given conventional treatment which included intensive counseling on diet and exercise for weight loss and when needed diabetes medicines like insulin metformin and other drugs",
+            "count": 1
+        },
+        {
+            "phrase": "early and effective management of diabetes for pregnant women is critical in helping to not only prevent birth defects but also to reduce the risk for other health complications for them and their children",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            5
+        ],
+        "xLabels": [
+            "03:34"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from users where username and applicationname",
+            "count": 2
+        },
+        {
+            "phrase": "where username and applicationname",
+            "count": 2
+        },
+        {
+            "phrase": "from users where pkid",
+            "count": 1
+        }
+    ]
+}

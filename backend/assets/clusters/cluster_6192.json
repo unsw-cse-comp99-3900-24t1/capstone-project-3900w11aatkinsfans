@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:40",
+            "04:46"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "even without an album vampire weekend has made one of the most impressive debuts of the year",
+            "count": 1
+        },
+        {
+            "phrase": "best album of the year",
+            "count": 1
+        },
+        {
+            "phrase": "best latin album",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:29"
+        ],
+        "label": "beer"
+    },
+    "clusterList": [
+        {
+            "phrase": "beer bellies aren't aerodynamic",
+            "count": 1
+        },
+        {
+            "phrase": "drinking beer doesn't make you fat it makes you lean against bars tables chairs and poles",
+            "count": 1
+        }
+    ]
+}

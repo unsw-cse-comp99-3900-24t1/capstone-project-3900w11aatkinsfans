@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "01:10"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who would have thought",
+            "count": 1
+        },
+        {
+            "phrase": "it could have been a child",
+            "count": 1
+        }
+    ]
+}

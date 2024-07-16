@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:18",
+            "00:19"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "you want to know how i did it this is how i did it anton i never saved anything for the swim back",
+            "count": 2
+        },
+        {
+            "phrase": "when i get close to the water i'm bailing",
+            "count": 1
+        },
+        {
+            "phrase": "get ready to sink or swim",
+            "count": 1
+        }
+    ]
+}

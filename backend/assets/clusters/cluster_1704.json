@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:10",
+            "01:28",
+            "01:52",
+            "02:05",
+            "03:15",
+            "04:24",
+            "04:38",
+            "04:40",
+            "05:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the golden age",
+            "count": 1
+        },
+        {
+            "phrase": "a century's dream",
+            "count": 1
+        },
+        {
+            "phrase": "i love the millenium",
+            "count": 1
+        },
+        {
+            "phrase": "the figth of the century",
+            "count": 1
+        },
+        {
+            "phrase": "turn of the century",
+            "count": 1
+        },
+        {
+            "phrase": "the fourth turning",
+            "count": 1
+        },
+        {
+            "phrase": "the matrix revolutions",
+            "count": 1
+        },
+        {
+            "phrase": "year of the gentleman",
+            "count": 1
+        },
+        {
+            "phrase": "once in a century",
+            "count": 1
+        },
+        {
+            "phrase": "storm of the century",
+            "count": 1
+        }
+    ]
+}

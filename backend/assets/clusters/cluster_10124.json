@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "04:10"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two nations in your womb",
+            "count": 1
+        },
+        {
+            "phrase": "separated at birth",
+            "count": 1
+        }
+    ]
+}

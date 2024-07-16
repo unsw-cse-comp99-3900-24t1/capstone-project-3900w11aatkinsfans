@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:27",
+            "00:42",
+            "00:47",
+            "01:07",
+            "01:23",
+            "01:40",
+            "02:05",
+            "02:26",
+            "02:43",
+            "03:23",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am also an original cosponsor of the american energy act an all-of-the-above energy strategy developed by members of the house republican conference",
+            "count": 7
+        },
+        {
+            "phrase": "the patriarch of energy policy",
+            "count": 2
+        },
+        {
+            "phrase": "one of the western world's most influential energy thinkers",
+            "count": 2
+        },
+        {
+            "phrase": "the president will use the opportunity to discuss overall energy policies and the importance of clean coal technologies and nuclear technology according to a white house spokesman",
+            "count": 1
+        }
+    ]
+}

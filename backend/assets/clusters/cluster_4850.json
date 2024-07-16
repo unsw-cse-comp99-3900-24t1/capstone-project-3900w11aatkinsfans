@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:20",
+            "02:01",
+            "03:48"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well ya i think i am just about there",
+            "count": 1
+        },
+        {
+            "phrase": "no not at all it's just that i think you could be that uhhh well what i mean to say is uhhh",
+            "count": 1
+        },
+        {
+            "phrase": "if i were you i definitely wouldn't no way uh huh",
+            "count": 1
+        },
+        {
+            "phrase": "no i think it's your ass",
+            "count": 1
+        }
+    ]
+}

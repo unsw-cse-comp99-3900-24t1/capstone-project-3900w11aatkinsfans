@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "02:59",
+            "03:18",
+            "03:36"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll tell you man that's one more guy i don't have to worry about",
+            "count": 2
+        },
+        {
+            "phrase": "just don't ever let him climb on you and he'll learn",
+            "count": 1
+        },
+        {
+            "phrase": "i don't believe what he well i'm not going to punish him",
+            "count": 1
+        },
+        {
+            "phrase": "i can protect myself from him he won't be able to hurt me if anything i'll need to protect you",
+            "count": 1
+        },
+        {
+            "phrase": "you and him got cosy i thought that if krusha came in on the two of you it'd make him leave you that didn't work so i decided to make him act cosy with you and you damn well enjoyed it what am i going to have to do to break you and krusha apart",
+            "count": 1
+        },
+        {
+            "phrase": "well as long as he's okay but i don't feel very safe now i mean if kritters might be getting ready to sneak into your room tonight i want to be there to protect you",
+            "count": 1
+        }
+    ]
+}

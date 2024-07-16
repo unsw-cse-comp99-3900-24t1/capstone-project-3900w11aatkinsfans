@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:24"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at a recent council meeting representatives from surf lifesaving services australia said 51 people were rescued at the beaches over the past few years",
+            "count": 1
+        },
+        {
+            "phrase": "the cumulative evidence indicates that on the day of the incident all areas of the beach were open and three lifeguards would have been required",
+            "count": 1
+        }
+    ]
+}

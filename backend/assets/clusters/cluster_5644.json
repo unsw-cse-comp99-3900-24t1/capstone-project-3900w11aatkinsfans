@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "02:39",
+            "04:41"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and if i don't make it",
+            "count": 1
+        },
+        {
+            "phrase": "actually i can",
+            "count": 1
+        },
+        {
+            "phrase": "that's what i want to make",
+            "count": 1
+        }
+    ]
+}

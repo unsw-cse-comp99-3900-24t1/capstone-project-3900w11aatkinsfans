@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "04:18",
+            "05:00"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you bought a quad",
+            "count": 1
+        },
+        {
+            "phrase": "life with quads",
+            "count": 1
+        },
+        {
+            "phrase": "i actually went out and bought a motorcycle",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:02",
+            "04:00",
+            "04:46"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was felt that she would be the best person to serve river edge and she's an electable candidate",
+            "count": 2
+        },
+        {
+            "phrase": "she won because she said she has more experience than barack well mccain has more experience than her so naturally vote mccain",
+            "count": 1
+        },
+        {
+            "phrase": "no one has run against her kilpatrick who has any record of service or credibility i serve on the senate appropriations committee and i have served the community well i keep people informed and i deal with their issues that's what people deserve",
+            "count": 1
+        },
+        {
+            "phrase": "i've never voted in the presidential election i've never felt strongly enough about a candidate to knowing that rosa clemente is down with cynthia mckinney's run i feel that now is the greatest opportunity for the hip-hop community to put our collective strength and power to",
+            "count": 1
+        }
+    ]
+}

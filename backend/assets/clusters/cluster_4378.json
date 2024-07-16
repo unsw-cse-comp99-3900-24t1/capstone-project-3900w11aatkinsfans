@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:14",
+            "03:27",
+            "03:46"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's a nothing a nobody",
+            "count": 2
+        },
+        {
+            "phrase": "we don't know who this guy is we know nothing about him",
+            "count": 1
+        },
+        {
+            "phrase": "we've never heard of him",
+            "count": 1
+        }
+    ]
+}

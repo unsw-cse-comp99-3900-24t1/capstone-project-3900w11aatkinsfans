@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            5,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:12",
+            "00:53",
+            "01:01",
+            "01:06",
+            "02:28",
+            "02:43",
+            "03:34",
+            "03:44",
+            "04:04",
+            "04:41",
+            "04:54"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "your blog is always sharp and punchy makes me wonder who are you in non-blog life",
+            "count": 5
+        },
+        {
+            "phrase": "has how why tech blogging has failed you",
+            "count": 5
+        },
+        {
+            "phrase": "it's my blog",
+            "count": 2
+        },
+        {
+            "phrase": "ok michelle so i see you like to use twitter to pull in new people to your blog and to post quick clips to your blog that aren't deserving of a whole post but is that it",
+            "count": 1
+        },
+        {
+            "phrase": "and then i had to actually add a tag to my blog called",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not blogging while on vacation",
+            "count": 1
+        },
+        {
+            "phrase": "you know i quit blogging and someone else has taken up my domain and you didn't notice dumbass",
+            "count": 1
+        },
+        {
+            "phrase": "with tens of thousands of new blogs beginning every day it is rare that one comes along that is very different from the rest",
+            "count": 1
+        },
+        {
+            "phrase": "i can't believe we're still blogging in third year",
+            "count": 1
+        },
+        {
+            "phrase": "why do we have to blog again",
+            "count": 1
+        },
+        {
+            "phrase": "the problem is the small blogger goes through life unheard much of the time big zero's in the comments section",
+            "count": 1
+        },
+        {
+            "phrase": "ummm so yeeeeaaaaahhhhh hey blogger what's up long time no see what's been goin on witchoo",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "01:01",
+            "04:25"
+        ],
+        "label": "those"
+    },
+    "clusterList": [
+        {
+            "phrase": "those orders could be terminated earlier a status hearing is acheduled for oct 28",
+            "count": 1
+        },
+        {
+            "phrase": "it is hereby ordered that parties should maintain the status quo and should not take any step pending the hearing of all applications",
+            "count": 1
+        },
+        {
+            "phrase": "they called me during the day and told me your appointment's been cancelled because of equipment problems",
+            "count": 1
+        }
+    ]
+}

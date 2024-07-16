@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            3,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:27",
+            "00:44",
+            "01:01",
+            "01:32",
+            "01:41",
+            "02:20",
+            "02:34",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "faster"
+    },
+    "clusterList": [
+        {
+            "phrase": "faster easier to learn",
+            "count": 15
+        },
+        {
+            "phrase": "in the end the secret to learning is so simple think only about whatever you love follow it do it dream about it and it will hit you learning was there all the time happening by itself",
+            "count": 3
+        },
+        {
+            "phrase": "but you have to really know what you are doing",
+            "count": 2
+        },
+        {
+            "phrase": "doing it is the only way of learning it",
+            "count": 1
+        },
+        {
+            "phrase": "teach you how to use it",
+            "count": 1
+        },
+        {
+            "phrase": "if you want to understand why you do this you must actually do it",
+            "count": 1
+        }
+    ]
+}

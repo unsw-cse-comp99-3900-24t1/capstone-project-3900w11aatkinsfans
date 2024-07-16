@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:29",
+            "04:04",
+            "04:45"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to be able to dance with you",
+            "count": 1
+        },
+        {
+            "phrase": "to get into your good graces",
+            "count": 1
+        },
+        {
+            "phrase": "to deal with adversity with grace",
+            "count": 1
+        },
+        {
+            "phrase": "meant to encourage love and loyalty",
+            "count": 1
+        }
+    ]
+}

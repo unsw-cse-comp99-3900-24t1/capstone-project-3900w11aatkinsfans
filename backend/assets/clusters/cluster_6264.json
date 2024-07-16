@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:50",
+            "01:48"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have expected him to make an announcement",
+            "count": 1
+        },
+        {
+            "phrase": "we expect things from him",
+            "count": 1
+        },
+        {
+            "phrase": "instinctively we feel he's going to give us at least what we were getting out there",
+            "count": 1
+        }
+    ]
+}

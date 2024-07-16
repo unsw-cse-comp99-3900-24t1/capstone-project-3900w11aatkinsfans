@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:13",
+            "02:14"
+        ],
+        "label": "intellectual"
+    },
+    "clusterList": [
+        {
+            "phrase": "intellectual property work is the backbone of our firm and i'm very glad to see our team included in this prestigious list",
+            "count": 1
+        },
+        {
+            "phrase": "our association with pbp has been a winning association we've benefited from the guidance and expertise of our trustee ed satell as well as from the sponsorships of his company in addition over the years we've enjoyed getting to know pbp's management pbp's people and we're always pleased that they anticipate and appreciate the walnut's presentations",
+            "count": 1
+        },
+        {
+            "phrase": "despite an uncertain economy and in contrast to other institutions that have scaled back dividend payments we are very pleased to provide this payment to our stockholders this is a special dividend and the payment and amount of future dividends will be predicated on the board's assessment of the financial condition earnings and capital requirements of the company",
+            "count": 1
+        }
+    ]
+}

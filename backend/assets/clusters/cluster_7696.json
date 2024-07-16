@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:55",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we were having building code issues",
+            "count": 1
+        },
+        {
+            "phrase": "crack the code",
+            "count": 1
+        },
+        {
+            "phrase": "code and fix",
+            "count": 1
+        }
+    ]
+}

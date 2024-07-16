@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:15",
+            "00:20",
+            "00:23",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i remember writing it and hoping it would get me out of trouble",
+            "count": 1
+        },
+        {
+            "phrase": "it should be a copy of my novel that my publisher wanted me to proof just bring it out here carl",
+            "count": 1
+        },
+        {
+            "phrase": "my publisher wouldn't publish the book i wanted this to be because it was too edgy too dangerous",
+            "count": 1
+        },
+        {
+            "phrase": "but don't publishers know better than i what to do to sell a book",
+            "count": 1
+        },
+        {
+            "phrase": "it said that on the first page of my newswriting book",
+            "count": 1
+        }
+    ]
+}

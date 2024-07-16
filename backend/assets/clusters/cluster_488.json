@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            4,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "00:33",
+            "00:34",
+            "00:41",
+            "01:48",
+            "01:51",
+            "02:05",
+            "02:22",
+            "02:32",
+            "03:05",
+            "03:35",
+            "03:55",
+            "04:09",
+            "04:44",
+            "04:59"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the issues were put on the table and the ioc requested that the olympic games hosts address them",
+            "count": 5
+        },
+        {
+            "phrase": "it may well have been done by the executive board done in another place by very senior people in the ioc it may have taken into consideration new circumstances in this year leading up to the games where there has been quite a lot of trauma around china and within china",
+            "count": 4
+        },
+        {
+            "phrase": "i understand it was reached with very senior ioc and chinese officials",
+            "count": 3
+        },
+        {
+            "phrase": "the ioc will do everything that is humanly possible to have the cleanest possible games",
+            "count": 3
+        },
+        {
+            "phrase": "the deal may well have been done by the executive board done in another place by very senior people in the ioc",
+            "count": 3
+        },
+        {
+            "phrase": "the ioc coordination commission and bocog met last night and agreed",
+            "count": 2
+        },
+        {
+            "phrase": "china and ioc promised that this would not happen",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think the ioc knew who they were getting into bed with",
+            "count": 1
+        },
+        {
+            "phrase": "ioc spokeswoman giselle davies linked some of the problems to misunderstandings but said late thursday the ioc had met with the chinese organizers and they will remedy the situation",
+            "count": 1
+        },
+        {
+            "phrase": "it may well have been done by the executive board done in another place by very senior people in the ioc i only know the ground rules on censorship have changed",
+            "count": 1
+        }
+    ]
+}

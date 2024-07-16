@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            27,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:06",
+            "00:22",
+            "00:33",
+            "01:18",
+            "01:34",
+            "04:35"
+        ],
+        "label": "over"
+    },
+    "clusterList": [
+        {
+            "phrase": "the day after roswell",
+            "count": 27
+        },
+        {
+            "phrase": "man on the moon",
+            "count": 2
+        },
+        {
+            "phrase": "over the moon",
+            "count": 1
+        },
+        {
+            "phrase": "full moon and woman",
+            "count": 1
+        },
+        {
+            "phrase": "in the shadow of the moon",
+            "count": 1
+        },
+        {
+            "phrase": "the almost moon",
+            "count": 1
+        },
+        {
+            "phrase": "walking on the moon",
+            "count": 1
+        }
+    ]
+}

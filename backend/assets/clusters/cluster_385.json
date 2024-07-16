@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:14",
+            "00:16",
+            "00:40",
+            "00:46",
+            "00:55",
+            "00:57",
+            "01:01",
+            "01:09",
+            "01:18",
+            "01:20",
+            "01:25",
+            "01:32",
+            "02:00",
+            "02:25",
+            "02:29",
+            "02:37",
+            "02:52",
+            "02:56",
+            "03:06",
+            "03:19",
+            "03:48",
+            "03:51",
+            "04:16",
+            "04:44",
+            "04:49"
+        ],
+        "label": "ms"
+    },
+    "clusterList": [
+        {
+            "phrase": "ms taylor is fine",
+            "count": 25
+        },
+        {
+            "phrase": "they've indicated she's made great improvement but it's a work in progress jamie spears doesn't want the conservatorship to last a day longer than the doctors recommend",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:50",
+            "01:58"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it had to be a coincidence because there's no such thing as ghosts",
+            "count": 1
+        },
+        {
+            "phrase": "we all looked at the thing and agreed that something really strange had made it",
+            "count": 1
+        },
+        {
+            "phrase": "we have only heard that there was an holy ghost",
+            "count": 1
+        }
+    ]
+}

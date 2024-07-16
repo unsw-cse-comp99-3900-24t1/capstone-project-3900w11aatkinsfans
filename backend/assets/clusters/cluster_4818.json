@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:11",
+            "01:19"
+        ],
+        "label": "speak"
+    },
+    "clusterList": [
+        {
+            "phrase": "speak oh wise one what you wish for and i will gladly present it to you",
+            "count": 2
+        },
+        {
+            "phrase": "by god i will be most willing to present it to a man who is exalted in the eyes of god for his kindness towards mankind please give me three days to present them to you",
+            "count": 2
+        }
+    ]
+}

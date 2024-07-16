@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "02:42"
+        ],
+        "label": "left"
+    },
+    "clusterList": [
+        {
+            "phrase": "left no stone unturned in their effort to establish the full circumstances",
+            "count": 2
+        },
+        {
+            "phrase": "they waited too long to let the citizens know that it was gone in the first place",
+            "count": 1
+        }
+    ]
+}

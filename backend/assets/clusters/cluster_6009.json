@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "02:01",
+            "02:24"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that puts a bit of an extra edge on it a bit of extra stress i'd imagine",
+            "count": 2
+        },
+        {
+            "phrase": "that puts a bit of extra edge on it a bit of extra stress i imagine",
+            "count": 1
+        }
+    ]
+}

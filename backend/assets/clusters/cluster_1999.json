@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:15",
+            "01:00",
+            "02:29",
+            "02:32",
+            "02:56",
+            "03:43",
+            "04:16",
+            "04:59"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know if he swallowed it or if my dogs might have eaten it i don't know",
+            "count": 3
+        },
+        {
+            "phrase": "he said a blue gum came down behind him then another right in front of him",
+            "count": 1
+        },
+        {
+            "phrase": "all he knew was that it vaguely had to do with blood",
+            "count": 1
+        },
+        {
+            "phrase": "he had swallowed boiling broth",
+            "count": 1
+        },
+        {
+            "phrase": "mmm what is that they began sniffing him and i mean",
+            "count": 1
+        },
+        {
+            "phrase": "little did he know those were his last sips of water",
+            "count": 1
+        },
+        {
+            "phrase": "he awoke with his gums awash in a brackish liquid the origin of which he could only guess",
+            "count": 1
+        }
+    ]
+}

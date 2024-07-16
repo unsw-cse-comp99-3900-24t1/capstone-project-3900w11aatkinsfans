@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:09",
+            "03:28",
+            "04:36"
+        ],
+        "label": "high-profile"
+    },
+    "clusterList": [
+        {
+            "phrase": "overall the significance is that disk encryption is not the silver bullet that we might have thought in its present state",
+            "count": 2
+        },
+        {
+            "phrase": "high-profile laptop losses have become rife in recent months showing just how important it is to make sure devices are properly secured",
+            "count": 1
+        },
+        {
+            "phrase": "even though people know that laptops can be easily stolen or lost they still seem ambivalent to the threat",
+            "count": 1
+        },
+        {
+            "phrase": "there's always the fact that there's a human being is at the center of data security and that's going to be a challenge because it's not something you can replace with automation or software or hardware",
+            "count": 1
+        }
+    ]
+}

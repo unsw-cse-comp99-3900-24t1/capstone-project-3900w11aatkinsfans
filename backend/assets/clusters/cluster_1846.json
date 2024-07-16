@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:42",
+            "00:51",
+            "00:52",
+            "02:42",
+            "03:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "every small town every little place has its own jealously guarded water systems most of which have inadequate treatment",
+            "count": 3
+        },
+        {
+            "phrase": "right now there are large water users such as agriculture so agriculture right now is like the water bank",
+            "count": 3
+        },
+        {
+            "phrase": "the primary drinking water standards which are enforceable ones it has met all those requirements so it's perfectly safe to drink it's not going to hurt anybody if you can get by the color of it",
+            "count": 1
+        },
+        {
+            "phrase": "there's been quite an improvement in the water quality from a few years ago",
+            "count": 1
+        },
+        {
+            "phrase": "we've tried to find the most economical practical way of get better quality water",
+            "count": 1
+        }
+    ]
+}

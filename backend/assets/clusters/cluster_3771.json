@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:06",
+            "04:04",
+            "04:09"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "thinking about if i'm more comfortable than anyone else is not an efficient use of what i want to be doing right now in camp",
+            "count": 2
+        },
+        {
+            "phrase": "it's tough when you're coming into camp like this i'm slowly getting a grasp i've only been here a couple of days now but as things are being explained to me i'm picking them up quick",
+            "count": 2
+        },
+        {
+            "phrase": "we got here july 16 and completed our training so now we're ready to get out there and help",
+            "count": 1
+        }
+    ]
+}

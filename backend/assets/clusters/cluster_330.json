@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            4,
+            4,
+            4,
+            4,
+            1,
+            4,
+            4
+        ],
+        "xLabels": [
+            "00:27",
+            "00:43",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:10",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am single and looking and am told by pogo chatters that i am funny i have a serious side and am very opinionated about things in our world and life in general i don't smoke and drink socially and i am a great cook",
+            "count": 14
+        },
+        {
+            "phrase": "i am 20 years old i am self-revealing neat unpredictable silly charming aggressive assertive organized and far from ordinary i happen to be a social chameleon",
+            "count": 14
+        },
+        {
+            "phrase": "you are intelligent beautiful have a sense of humor are down to earth and seem to know what is important in life there aren't too many people like you",
+            "count": 1
+        },
+        {
+            "phrase": "i am beautiful and a good cook",
+            "count": 1
+        }
+    ]
+}

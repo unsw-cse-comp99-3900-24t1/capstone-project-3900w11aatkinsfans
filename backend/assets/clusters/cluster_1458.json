@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:12",
+            "00:14",
+            "00:56",
+            "02:57",
+            "03:15",
+            "04:18",
+            "04:41",
+            "04:55"
+        ],
+        "label": "overtures"
+    },
+    "clusterList": [
+        {
+            "phrase": "overtures about a deal are disingenuous at best",
+            "count": 2
+        },
+        {
+            "phrase": "we cannot respond to conjecture or assumptions at this point about a potential acquisition still under negotiation",
+            "count": 2
+        },
+        {
+            "phrase": "seek a reasonable compromise",
+            "count": 2
+        },
+        {
+            "phrase": "would you lead the negotiations personally",
+            "count": 2
+        },
+        {
+            "phrase": "begin earnest negotiations without preconditions directly with his holiness the dalai lama or his representatives on the future of tibet to provide for a mutually agreeable solution that addresses the legitimate grievances of and provides genuine autonomy for the tibetan people",
+            "count": 1
+        },
+        {
+            "phrase": "unlike in card games in negotiation you must be ready for compromise",
+            "count": 1
+        },
+        {
+            "phrase": "director-general pascal lamy at the informal trade negotiations committee meeting on 23 july 2008 characterized the second round of consultations held the day before as constructive with a strong commitment to engaging directly and in good faith",
+            "count": 1
+        }
+    ]
+}

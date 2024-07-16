@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "03:21"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "has to do with the bible",
+            "count": 1
+        },
+        {
+            "phrase": "from the torah",
+            "count": 1
+        }
+    ]
+}

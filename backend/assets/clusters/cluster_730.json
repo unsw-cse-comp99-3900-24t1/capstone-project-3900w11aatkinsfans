@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:25",
+            "00:42",
+            "01:07",
+            "01:23",
+            "02:05",
+            "02:28",
+            "02:43",
+            "03:18",
+            "03:23",
+            "04:05"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you knew didn't you there could be no pregnancy since you had a tubal ligation and a hysterectomy years before",
+            "count": 7
+        },
+        {
+            "phrase": "there wasn't any pregnancy or stillborn baby was there",
+            "count": 7
+        },
+        {
+            "phrase": "i wish i could've waited i really regret getting pregnant",
+            "count": 1
+        },
+        {
+            "phrase": "why didn't you tell me you were pregnant",
+            "count": 1
+        },
+        {
+            "phrase": "i had no complications during or after the procedure",
+            "count": 1
+        },
+        {
+            "phrase": "then why the heck did you have an abortion without talkin to me first",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "00:42",
+            "00:53",
+            "01:20",
+            "01:23",
+            "01:32",
+            "03:09",
+            "03:23",
+            "03:56",
+            "04:55",
+            "05:05"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in theory i think we upgraded offensively pudge is obviously still having a tremendous year one of the top catchers in the game today",
+            "count": 10
+        },
+        {
+            "phrase": "we needed to upgrade in terms of protection against injury in terms of offense i think it's a significant acquisition for us",
+            "count": 2
+        },
+        {
+            "phrase": "he's an upgrade in spite of everything we've got",
+            "count": 1
+        }
+    ]
+}

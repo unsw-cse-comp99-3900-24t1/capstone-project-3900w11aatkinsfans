@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:32",
+            "01:07",
+            "02:15",
+            "02:44",
+            "04:04",
+            "04:05"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because it fits",
+            "count": 3
+        },
+        {
+            "phrase": "excuse me but can you tell me why you have that string right there",
+            "count": 1
+        },
+        {
+            "phrase": "but i like it it fits you",
+            "count": 1
+        },
+        {
+            "phrase": "why the l o n g face",
+            "count": 1
+        },
+        {
+            "phrase": "because it works",
+            "count": 1
+        }
+    ]
+}

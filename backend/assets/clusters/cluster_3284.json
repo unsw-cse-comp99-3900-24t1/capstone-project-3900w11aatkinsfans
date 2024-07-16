@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:24",
+            "00:50",
+            "02:34",
+            "02:51",
+            "03:10"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it could have been anybody",
+            "count": 1
+        },
+        {
+            "phrase": "then it was me who was handicapped",
+            "count": 1
+        },
+        {
+            "phrase": "i was like who else could it be",
+            "count": 1
+        },
+        {
+            "phrase": "that was me",
+            "count": 1
+        },
+        {
+            "phrase": "yep he was",
+            "count": 1
+        },
+        {
+            "phrase": "it was me it was me i did it the riddler catch me if you can batman",
+            "count": 1
+        }
+    ]
+}

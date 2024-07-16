@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:22",
+            "03:44"
+        ],
+        "label": "out"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of range",
+            "count": 1
+        },
+        {
+            "phrase": "clearly this is way outside of the normal range",
+            "count": 1
+        },
+        {
+            "phrase": "not in the sub-normal range",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:29",
+            "03:22"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's been really slow with the rain now the gas price now with the lake being so high it's upset business around here",
+            "count": 1
+        },
+        {
+            "phrase": "or is natural gas just going to come right up behind and be the same",
+            "count": 1
+        },
+        {
+            "phrase": "that at some point they will have to be accommodated because they can't afford the rising costs of gasoline food utilities",
+            "count": 1
+        }
+    ]
+}

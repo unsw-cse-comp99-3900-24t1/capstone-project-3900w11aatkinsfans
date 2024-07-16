@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "03:24"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your touvh pad has been disabled because it found another pointing device on your computer",
+            "count": 1
+        },
+        {
+            "phrase": "did i turn the iron off",
+            "count": 1
+        }
+    ]
+}

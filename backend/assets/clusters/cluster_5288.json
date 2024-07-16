@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:55",
+            "03:32"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are closer than ever to concrete understandings",
+            "count": 1
+        },
+        {
+            "phrase": "close to understanding revisited ii",
+            "count": 1
+        },
+        {
+            "phrase": "close to understanding",
+            "count": 1
+        },
+        {
+            "phrase": "close to understanding revisited",
+            "count": 1
+        }
+    ]
+}

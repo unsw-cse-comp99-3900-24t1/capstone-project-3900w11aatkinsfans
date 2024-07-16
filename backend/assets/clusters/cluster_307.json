@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            1,
+            5,
+            5,
+            5,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:25",
+            "00:31",
+            "00:48",
+            "00:50",
+            "01:08",
+            "01:27",
+            "01:32",
+            "01:38",
+            "01:50",
+            "03:05",
+            "04:04",
+            "04:18",
+            "04:51",
+            "04:56"
+        ],
+        "label": "gotta"
+    },
+    "clusterList": [
+        {
+            "phrase": "i still make coffee for two",
+            "count": 20
+        },
+        {
+            "phrase": "three cups of coffee",
+            "count": 2
+        },
+        {
+            "phrase": "damn fine cup of coffee",
+            "count": 2
+        },
+        {
+            "phrase": "gotta have my one cup",
+            "count": 1
+        },
+        {
+            "phrase": "it is a cup",
+            "count": 1
+        },
+        {
+            "phrase": "coffee and a book",
+            "count": 1
+        },
+        {
+            "phrase": "best cup of coffee of her life",
+            "count": 1
+        },
+        {
+            "phrase": "is the cup half empty or half full",
+            "count": 1
+        },
+        {
+            "phrase": "first to answer this question correctly gets a beer coffee",
+            "count": 1
+        },
+        {
+            "phrase": "coffee with cream",
+            "count": 1
+        },
+        {
+            "phrase": "20 coffee in english",
+            "count": 1
+        }
+    ]
+}

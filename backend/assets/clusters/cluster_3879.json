@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "01:21",
+            "02:14",
+            "03:48"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of this really does come back to computer literacy",
+            "count": 1
+        },
+        {
+            "phrase": "education in metadata",
+            "count": 1
+        },
+        {
+            "phrase": "computer literacy wikipedia the free encyclopedia",
+            "count": 1
+        },
+        {
+            "phrase": "computers for poets",
+            "count": 1
+        },
+        {
+            "phrase": "s programming from a to z everything you wanted to know about text but were afraid to ask prophecyboy adam simon on digital media gaming live performance and other forms of geekery resources a database of sources for physical computing parts methods software and other resources",
+            "count": 1
+        }
+    ]
+}

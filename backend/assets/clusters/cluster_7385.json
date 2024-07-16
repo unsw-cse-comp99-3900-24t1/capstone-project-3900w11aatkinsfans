@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:38",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best way that we can stand up for you is to make sure we have a democratic president taking the oath of office on jan 20 2009",
+            "count": 1
+        },
+        {
+            "phrase": "we need to have a democrat sworn into office on january 20th",
+            "count": 1
+        },
+        {
+            "phrase": "peace impeachment amp election day",
+            "count": 1
+        }
+    ]
+}

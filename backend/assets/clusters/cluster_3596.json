@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:17",
+            "01:12",
+            "01:13",
+            "04:18"
+        ],
+        "label": "you've"
+    },
+    "clusterList": [
+        {
+            "phrase": "to qualify the car and do one quick lap is one thing",
+            "count": 2
+        },
+        {
+            "phrase": "you've treated your sports car to a top-notch set of tires the engine is freshly tuned and bathed in the finest motor oil you can buy and now you're climbing aboard for a drive wearing that ratty old pair of tennis shoes",
+            "count": 1
+        },
+        {
+            "phrase": "it's just sporty driving",
+            "count": 1
+        },
+        {
+            "phrase": "it's a road course it's not useful in nascar because there's hardly any road courses teams really don't care if a driver is good on a road course",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:03"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i really do struggle to see why we make it so easy for people to fly domestically when you have got such a low-carbon alternative in rail it's something that should be positively promoted",
+            "count": 1
+        },
+        {
+            "phrase": "there are an awful lot of smoky old diesel trains out there the lowest carbon alternative is eurostar and you have to recognise that it is mostly powered by nuclear-generated electricity",
+            "count": 1
+        },
+        {
+            "phrase": "a much cheaper fuel cell could be on its way thanks a new cathode built by australian researchers a team at the australian centre of excellence for electromaterials science at monash university in melbourne report their findings in today's issue of the journal science",
+            "count": 1
+        }
+    ]
+}

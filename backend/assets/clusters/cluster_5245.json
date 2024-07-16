@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:27",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't read into what sam said yesterday as anything other than what he said",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know i i didn't want you to hear any of those things that tobias said",
+            "count": 1
+        },
+        {
+            "phrase": "nothing that tobias said was true",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:19"
+        ],
+        "label": "fast"
+    },
+    "clusterList": [
+        {
+            "phrase": "fast haha put on your helmet",
+            "count": 1
+        },
+        {
+            "phrase": "did not go specially fast",
+            "count": 1
+        }
+    ]
+}

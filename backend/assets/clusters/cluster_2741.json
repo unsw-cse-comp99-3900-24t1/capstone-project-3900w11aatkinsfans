@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:11",
+            "02:13",
+            "02:15",
+            "02:29",
+            "02:56",
+            "03:54"
+        ],
+        "label": "poutine"
+    },
+    "clusterList": [
+        {
+            "phrase": "poutine is a dish consisting of french fries topped with fresh cheese curds covered with brown gravy and sometimes other additional ingredients",
+            "count": 2
+        },
+        {
+            "phrase": "we have a couple of signature dishes the hunan kung po a ginger infused entree is one such item what makes our menu different is we send our chefs on trips every year",
+            "count": 1
+        },
+        {
+            "phrase": "simple and fresh flavour combinations can work magically",
+            "count": 1
+        },
+        {
+            "phrase": "i am not particularly fond of the white mousse cake and i've tried to tell the customer that white chocolate mousse is better with something strong like dark chocolate cake",
+            "count": 1
+        },
+        {
+            "phrase": "this seemed like a too-good-to-be-true treat i got my own ice cream cup and a nice size one at that not some wimpy diet ice cream on a stick i really enjoyed the texture and the taste-and i am not one who likes light ice cream so this is big compliment",
+            "count": 1
+        },
+        {
+            "phrase": "the dark chocolate was silky smooth it contained a whopping 60 cacao which means it's good for your health-not to mention your sweet tooth truly a guilt-free indulgence",
+            "count": 1
+        }
+    ]
+}

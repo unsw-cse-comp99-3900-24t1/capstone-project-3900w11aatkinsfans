@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "01:43",
+            "03:04",
+            "03:22",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "so i have to ask you how'd you go from living on the upper eastside to st louis",
+            "count": 3
+        },
+        {
+            "phrase": "we moved back here and started our business in albertville albertville's been good to us and we've done a lot of work here we just wanted to give back to the city",
+            "count": 1
+        },
+        {
+            "phrase": "we just kind of came together as a team and built them to help out the city of albertville",
+            "count": 1
+        },
+        {
+            "phrase": "we bought a farm in the walnut grove community in 1971 and moved from dallas to that farm in 1978",
+            "count": 1
+        },
+        {
+            "phrase": "where do i move",
+            "count": 1
+        },
+        {
+            "phrase": "we used to live here years ago and we just decided the centre was an opportunity to come back to the area",
+            "count": 1
+        }
+    ]
+}

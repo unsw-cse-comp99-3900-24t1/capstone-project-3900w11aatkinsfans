@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:46",
+            "01:20",
+            "02:00",
+            "02:27",
+            "02:47",
+            "02:51",
+            "04:08"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she certainly didn't show she could be counted on to take care of her job here at home",
+            "count": 5
+        },
+        {
+            "phrase": "so i'm quite surprised and actually upset that she'd find another home in the public sector especially in homeland security",
+            "count": 5
+        },
+        {
+            "phrase": "yeah and from what i hear she spends a lot of time working on her resume you should totally bring that up at the next office meeting a death pool of who's next to quit",
+            "count": 1
+        },
+        {
+            "phrase": "oh she's gone probably she is a part-time worker this shitty place jus hires part-time to save money huh shit enof mutha fucka",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "03:42"
+        ],
+        "label": "blown"
+    },
+    "clusterList": [
+        {
+            "phrase": "blown my budget out",
+            "count": 1
+        },
+        {
+            "phrase": "the whole program's getting unbelievably expensive",
+            "count": 1
+        }
+    ]
+}

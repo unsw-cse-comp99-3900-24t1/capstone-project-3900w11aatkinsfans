@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:28",
+            "00:33",
+            "00:50"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these principles are reinforced throughout all military training",
+            "count": 2
+        },
+        {
+            "phrase": "this is a major staff sustainment exercise concerning our ability to operate as a jtf",
+            "count": 1
+        },
+        {
+            "phrase": "at the operational level of war it's important to fuse all effects you have to pool all services and abilities to have a jtf with expertise and command and control to effectively fight a joint war",
+            "count": 1
+        },
+        {
+            "phrase": "is a fully digital command post exercise that we conducted to train the 4th brigade commander and his staff on the procedures they will employ in iraq",
+            "count": 1
+        }
+    ]
+}

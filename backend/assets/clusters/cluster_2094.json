@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:23",
+            "02:36",
+            "03:05",
+            "03:58",
+            "04:27",
+            "04:28"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with all due respect to you personally i will defend myself before this institution as i would defend myself before any natural catastrophe",
+            "count": 4
+        },
+        {
+            "phrase": "i will defend myself as i would defend myself against any natural catastrophe",
+            "count": 2
+        },
+        {
+            "phrase": "i intend to represent myself throughout the trial regardless of what i think of this institution with all due respect to you",
+            "count": 1
+        },
+        {
+            "phrase": "as i would defend myself against any natural catastrophe",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:28",
+            "04:29",
+            "04:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the executive order is still a huge violation of contract law",
+            "count": 2
+        },
+        {
+            "phrase": "it's an executive order they're not required to get our sign-off on it",
+            "count": 1
+        }
+    ]
+}

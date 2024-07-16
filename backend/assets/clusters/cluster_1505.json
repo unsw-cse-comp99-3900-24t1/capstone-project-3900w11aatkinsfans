@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "00:47",
+            "01:20",
+            "02:47",
+            "03:16",
+            "03:43",
+            "03:54",
+            "04:15",
+            "04:45",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the programme highlighted the lack of equality and lack of opportunities for any woman who doesn't conform to the very narrow stereotypes of beauty",
+            "count": 2
+        },
+        {
+            "phrase": "aboriginal women experience higher rates of violence if that burden is going to be lifted the socioeconomic conditions and prosperity gap between aboriginals and non-aboriginals will have to be addressed",
+            "count": 2
+        },
+        {
+            "phrase": "the benefits aren't really confined to women they protect society as a whole",
+            "count": 1
+        },
+        {
+            "phrase": "almost a quarter 24 of muslim student respondents do not feel that men and women are fully equal in the eyes of allah",
+            "count": 1
+        },
+        {
+            "phrase": "the wage gap is most severe for women of color",
+            "count": 1
+        },
+        {
+            "phrase": "socioeconomic classes ability levels and genders",
+            "count": 1
+        },
+        {
+            "phrase": "it's a myth that lower-income women are more prone to domestic violence it happens equally across all socioeconomic statuses",
+            "count": 1
+        },
+        {
+            "phrase": "societal discrimination against women minorities and persons with disabilities",
+            "count": 1
+        },
+        {
+            "phrase": "what black women lack",
+            "count": 1
+        }
+    ]
+}

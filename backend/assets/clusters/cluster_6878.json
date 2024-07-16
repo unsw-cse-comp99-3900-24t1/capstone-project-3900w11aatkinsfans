@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:01",
+            "03:10"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "wait until after scarlet begonias",
+            "count": 2
+        },
+        {
+            "phrase": "a study in scarlet",
+            "count": 1
+        }
+    ]
+}

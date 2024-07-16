@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "03:15",
+            "03:28",
+            "04:09"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "blackwater would not be doing business in iraq if we still had our 1991 military capability",
+            "count": 2
+        },
+        {
+            "phrase": "we need to pull back in iraq in accordance to facts on the ground we may need a small long term presence as an insurance policy",
+            "count": 1
+        },
+        {
+            "phrase": "a genuine danger to our men and women serving in iraq",
+            "count": 1
+        }
+    ]
+}

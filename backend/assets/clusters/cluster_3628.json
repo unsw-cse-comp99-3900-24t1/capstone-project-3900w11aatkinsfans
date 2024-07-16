@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:32",
+            "02:20",
+            "03:34",
+            "04:15"
+        ],
+        "label": "globalization"
+    },
+    "clusterList": [
+        {
+            "phrase": "globalization is striking back",
+            "count": 1
+        },
+        {
+            "phrase": "talking big and ruining several countries",
+            "count": 1
+        },
+        {
+            "phrase": "futurecast how superpowers populations and globalization will change the way you live and work",
+            "count": 1
+        },
+        {
+            "phrase": "in the spirit of internationalism",
+            "count": 1
+        },
+        {
+            "phrase": "unbridled globalization is no longer in vogue",
+            "count": 1
+        }
+    ]
+}

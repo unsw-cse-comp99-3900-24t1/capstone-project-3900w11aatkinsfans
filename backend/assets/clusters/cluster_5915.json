@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "03:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the secret un meeting",
+            "count": 2
+        },
+        {
+            "phrase": "when i am elected president the new world order comes crashing down",
+            "count": 1
+        }
+    ]
+}

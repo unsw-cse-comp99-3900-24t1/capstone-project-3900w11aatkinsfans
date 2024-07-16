@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "00:20"
+        ],
+        "label": "tuneview"
+    },
+    "clusterList": [
+        {
+            "phrase": "tuneview is unique it's unlike any ipod remote that you've used before",
+            "count": 1
+        },
+        {
+            "phrase": "tuneview features a color lcd screen that lets you remotely view the contents of your ipod and control playback allowing you to manage the ipod as if it were in your hands",
+            "count": 1
+        },
+        {
+            "phrase": "both the tuneview dock and tuneview remote are usb devices that can be updated via a firmware download just like an ipod",
+            "count": 1
+        },
+        {
+            "phrase": "over time keyspan will release firmware updates that will add new capabilities to tuneview",
+            "count": 1
+        }
+    ]
+}

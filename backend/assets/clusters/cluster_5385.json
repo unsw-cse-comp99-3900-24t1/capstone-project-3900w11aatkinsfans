@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:56",
+            "04:28",
+            "04:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fire reaction was moving and we were not convinced the rest of the landfill was not affected",
+            "count": 1
+        },
+        {
+            "phrase": "the home was fairly small to begin with so the fire pretty much completely gutted the structure",
+            "count": 1
+        },
+        {
+            "phrase": "fire gutted the first floor of a condominium in colombus ohio owned by the aunt of maurice clarrett kathy thomas and where maurice and his girlfriend were staying for the night",
+            "count": 1
+        },
+        {
+            "phrase": "it wasn't really a house to have kids in it was all brass and glass and mirrors you felt like you had to go with a cloth after the child it was an endless thing of cleaning up",
+            "count": 1
+        }
+    ]
+}

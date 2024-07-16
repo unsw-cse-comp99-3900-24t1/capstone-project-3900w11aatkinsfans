@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:01"
+        ],
+        "label": "endorsed"
+    },
+    "clusterList": [
+        {
+            "phrase": "endorsed in 2006 by the nra",
+            "count": 1
+        },
+        {
+            "phrase": "endorsed in 2006 by right to life",
+            "count": 1
+        }
+    ]
+}

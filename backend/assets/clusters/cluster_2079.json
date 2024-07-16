@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have successfully migrated over 1 3m aol customers a further 80 000 customers whose www edge-online com",
+            "count": 2
+        },
+        {
+            "phrase": "we have successfully migrated over 1",
+            "count": 2
+        },
+        {
+            "phrase": "we have successfully migrated over 1 3m aol customers a further 80 000 customers whose www wired com",
+            "count": 2
+        },
+        {
+            "phrase": "we have successfully migrated over 1 3m aol customers a further 80 000 customers whose",
+            "count": 1
+        },
+        {
+            "phrase": "we have successfully migrated over 1 3m aol customers a further 80 000 customers whose art apocalypse blizzard's wilson talks diablo iii design decisions",
+            "count": 1
+        }
+    ]
+}

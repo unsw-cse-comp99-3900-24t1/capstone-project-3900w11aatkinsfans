@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:34",
+            "03:42",
+            "03:43",
+            "04:21",
+            "04:28"
+        ],
+        "label": "personal"
+    },
+    "clusterList": [
+        {
+            "phrase": "but there's nothing to prevent the attorney general from giving voice to issues important to taxpayers",
+            "count": 2
+        },
+        {
+            "phrase": "personal jurisdiction must satisfy both the missouri and federal long arm statutes",
+            "count": 1
+        },
+        {
+            "phrase": "because the united states constitution regulates only the government not private parties a litigant claiming that his constitutional rights have been violated must first establish that the challenged conduct constitutes state action",
+            "count": 1
+        },
+        {
+            "phrase": "the second amendment does not permit such interference",
+            "count": 1
+        },
+        {
+            "phrase": "it has been determined that the conception of liberty under the due process clause of the fourteenth amendment embraces the right of free speech",
+            "count": 1
+        },
+        {
+            "phrase": "i do not believe the state has any right to tell me what to put in my head",
+            "count": 1
+        }
+    ]
+}

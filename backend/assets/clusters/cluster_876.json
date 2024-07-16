@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            3,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:42",
+            "00:52",
+            "01:10",
+            "01:30",
+            "01:50",
+            "02:19",
+            "03:54",
+            "04:36"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "to our surprise the explosion took place on the roof where at least four guards were posted",
+            "count": 4
+        },
+        {
+            "phrase": "all of us ran away and then the second bomb went off many policemen were killed and injured in the two blasts these have again ended our dreams of security",
+            "count": 4
+        },
+        {
+            "phrase": "there were attacks that targeted senior officers and we thank god they failed and our colleagues are safe",
+            "count": 3
+        },
+        {
+            "phrase": "what happened today is far from ideal and if the device was actually a real bomb the way it was handled would have been a disaster",
+            "count": 2
+        },
+        {
+            "phrase": "we just finished our bombing run on a sarakoth cruiser and all of a sudden in exploded gollda was caught within the burst",
+            "count": 1
+        },
+        {
+            "phrase": "we worked fast to defuse the bombs and the way it was done was risky it was a mistake",
+            "count": 1
+        },
+        {
+            "phrase": "i hate to think of what could have happened had they detonated those devices",
+            "count": 1
+        }
+    ]
+}

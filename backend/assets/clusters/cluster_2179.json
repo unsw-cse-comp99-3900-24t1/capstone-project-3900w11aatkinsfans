@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:20",
+            "03:22",
+            "04:51",
+            "05:04",
+            "05:05"
+        ],
+        "label": "storage"
+    },
+    "clusterList": [
+        {
+            "phrase": "electronically stored information",
+            "count": 2
+        },
+        {
+            "phrase": "documents data and tangible things",
+            "count": 2
+        },
+        {
+            "phrase": "storage preservation and backup of emails",
+            "count": 1
+        },
+        {
+            "phrase": "securely hold your personal information",
+            "count": 1
+        },
+        {
+            "phrase": "any device capable of storing information in digital or analog form",
+            "count": 1
+        },
+        {
+            "phrase": "it's any data generally kept outside the database we're talking about a lot of data and very important data you can see how untenable it is to do this manually",
+            "count": 1
+        }
+    ]
+}

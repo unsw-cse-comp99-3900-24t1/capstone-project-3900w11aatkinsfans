@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:46",
+            "04:12"
+        ],
+        "label": "their"
+    },
+    "clusterList": [
+        {
+            "phrase": "they are just paying the principal",
+            "count": 2
+        },
+        {
+            "phrase": "their previous pay-by-list system in which one person collects and distributes money for the group wasn't ideal by the time the money reached the students it wasn't the full amount they were owed",
+            "count": 1
+        }
+    ]
+}

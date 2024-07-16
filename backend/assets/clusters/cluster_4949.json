@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "03:05",
+            "04:05"
+        ],
+        "label": "which"
+    },
+    "clusterList": [
+        {
+            "phrase": "which of their criteria do you meet",
+            "count": 1
+        },
+        {
+            "phrase": "which of your criteria do they meet",
+            "count": 1
+        },
+        {
+            "phrase": "evaluating their options",
+            "count": 1
+        },
+        {
+            "phrase": "the first criteria",
+            "count": 1
+        }
+    ]
+}

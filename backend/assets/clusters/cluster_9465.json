@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:00"
+        ],
+        "label": "find"
+    },
+    "clusterList": [
+        {
+            "phrase": "find nothing of concern",
+            "count": 1
+        },
+        {
+            "phrase": "it's a little bit of egg on the face i guess for all of us concerned",
+            "count": 1
+        }
+    ]
+}

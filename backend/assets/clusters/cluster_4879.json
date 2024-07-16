@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:32",
+            "03:05",
+            "03:10"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "the government is in a poor position to get indignant about anything",
+            "count": 2
+        },
+        {
+            "phrase": "i'm just not convinced that a federal apology has any weight",
+            "count": 1
+        },
+        {
+            "phrase": "blandishments coming from the government side",
+            "count": 1
+        }
+    ]
+}

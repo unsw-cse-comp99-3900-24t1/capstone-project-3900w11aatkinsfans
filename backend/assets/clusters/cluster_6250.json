@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:32",
+            "02:46"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you talk about support it's awesome awesome awesome",
+            "count": 2
+        },
+        {
+            "phrase": "it is exciting to see the support we have gotten from the community",
+            "count": 1
+        }
+    ]
+}

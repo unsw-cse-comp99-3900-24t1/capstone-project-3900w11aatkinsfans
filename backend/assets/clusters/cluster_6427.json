@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:28",
+            "03:37"
+        ],
+        "label": "steady"
+    },
+    "clusterList": [
+        {
+            "phrase": "steady stream of false negative attacks",
+            "count": 1
+        },
+        {
+            "phrase": "character assaults and negative ads",
+            "count": 1
+        },
+        {
+            "phrase": "attack ads of the day",
+            "count": 1
+        }
+    ]
+}

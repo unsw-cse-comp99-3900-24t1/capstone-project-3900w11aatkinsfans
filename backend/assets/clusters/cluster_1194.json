@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            4,
+            4,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:33"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "the nets the spurs the pacers and the nuggets are gonna play in the nba next season the rest of us are gonna dissolve",
+            "count": 6
+        },
+        {
+            "phrase": "we have one more piece of business to go over i'm sure you've all heard the rumors and they are true the aba will be merging with the nba at the end of this season",
+            "count": 3
+        },
+        {
+            "phrase": "four teams will be absorbed into the nba next year the rest of the league will terminate operations",
+            "count": 3
+        },
+        {
+            "phrase": "sure they'll maybe make the playoffs but they'll be one and done again",
+            "count": 1
+        }
+    ]
+}

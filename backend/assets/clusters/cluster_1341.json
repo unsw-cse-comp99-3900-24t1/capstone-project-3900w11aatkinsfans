@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:18",
+            "00:32",
+            "01:51",
+            "02:33",
+            "02:42",
+            "03:55",
+            "04:31",
+            "05:04"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if the dating remains as inconclusive as what we have had so far a homicide inquiry is unlikely",
+            "count": 2
+        },
+        {
+            "phrase": "if the dating is more specific a homicide inquiry is a possibility",
+            "count": 2
+        },
+        {
+            "phrase": "suspect and unusual",
+            "count": 2
+        },
+        {
+            "phrase": "if the dating remains as inconclusive a homicide inquiry is unlikely",
+            "count": 1
+        },
+        {
+            "phrase": "this was a particular nasty crime against a defenceless elderly citizen",
+            "count": 1
+        },
+        {
+            "phrase": "40 year old suspect",
+            "count": 1
+        },
+        {
+            "phrase": "a murder mystery of supernatural proportions",
+            "count": 1
+        },
+        {
+            "phrase": "obviously it is a story that cries out for an investigation",
+            "count": 1
+        },
+        {
+            "phrase": "you could be looking at felony assault if not manslaughter or murder",
+            "count": 1
+        }
+    ]
+}

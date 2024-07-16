@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:15",
+            "00:32",
+            "01:11",
+            "01:51",
+            "02:05",
+            "02:19",
+            "04:05",
+            "04:33"
+        ],
+        "label": "absolutely"
+    },
+    "clusterList": [
+        {
+            "phrase": "but there's no money in it",
+            "count": 5
+        },
+        {
+            "phrase": "absolutely it's just about the money",
+            "count": 1
+        },
+        {
+            "phrase": "it's not about money it's about sending a message",
+            "count": 1
+        },
+        {
+            "phrase": "it isn't obvious to you that it is money i need now and could care less about the 3",
+            "count": 1
+        },
+        {
+            "phrase": "the money is to show you're serious",
+            "count": 1
+        },
+        {
+            "phrase": "i don't care about the money",
+            "count": 1
+        }
+    ]
+}

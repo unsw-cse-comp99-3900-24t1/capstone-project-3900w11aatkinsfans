@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:39",
+            "04:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a smart car",
+            "count": 1
+        },
+        {
+            "phrase": "that's a pretty nice car",
+            "count": 1
+        },
+        {
+            "phrase": "everyone has a nice watch a nice car",
+            "count": 1
+        }
+    ]
+}

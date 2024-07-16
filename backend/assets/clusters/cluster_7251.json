@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:18"
+        ],
+        "label": "give"
+    },
+    "clusterList": [
+        {
+            "phrase": "give me your claw",
+            "count": 1
+        },
+        {
+            "phrase": "see if you can beat me now",
+            "count": 1
+        },
+        {
+            "phrase": "need a paw",
+            "count": 1
+        }
+    ]
+}

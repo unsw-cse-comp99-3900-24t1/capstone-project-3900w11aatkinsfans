@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:43",
+            "01:02",
+            "01:32",
+            "03:59",
+            "04:21",
+            "04:27"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "why don't women run the world maybe it's because they don't want to",
+            "count": 2
+        },
+        {
+            "phrase": "if it's true that women don't want to work",
+            "count": 2
+        },
+        {
+            "phrase": "with a woman such as yourself a man cannot afford to beat around the bush ladies of your caliber are in high demand and fleet rather quickly",
+            "count": 1
+        },
+        {
+            "phrase": "not all women is so cheap and loose as what they think",
+            "count": 1
+        },
+        {
+            "phrase": "i feel that people in general but more specifically women want to have a place in this world",
+            "count": 1
+        },
+        {
+            "phrase": "why don't we develop women-only industrial zones for this purpose",
+            "count": 1
+        }
+    ]
+}

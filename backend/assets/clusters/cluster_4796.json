@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:50"
+        ],
+        "label": "adding"
+    },
+    "clusterList": [
+        {
+            "phrase": "adding other people we sure don't need to",
+            "count": 1
+        },
+        {
+            "phrase": "why do i need all that i'll just create a facebook group",
+            "count": 1
+        },
+        {
+            "phrase": "starting a facebook group is not a social media strategy",
+            "count": 1
+        },
+        {
+            "phrase": "but if you don't have a community who wants to use it and who are excited about it then it has no purpose",
+            "count": 1
+        }
+    ]
+}

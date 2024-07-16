@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "03:14"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in theory theory and practice are the same in practice they are not",
+            "count": 1
+        },
+        {
+            "phrase": "in theory there is no difference between theory and gt practice but in practice there is",
+            "count": 1
+        }
+    ]
+}

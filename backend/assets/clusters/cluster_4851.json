@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "01:20",
+            "01:29"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've always wanted to support gordon brown",
+            "count": 2
+        },
+        {
+            "phrase": "if it came to a choice he would stick with gordon",
+            "count": 1
+        },
+        {
+            "phrase": "i have always been a supporter of gordon brown's leadership",
+            "count": 1
+        }
+    ]
+}

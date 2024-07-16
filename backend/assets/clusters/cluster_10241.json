@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "04:28"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look at that guy over there",
+            "count": 1
+        },
+        {
+            "phrase": "i looked at the guys",
+            "count": 1
+        }
+    ]
+}

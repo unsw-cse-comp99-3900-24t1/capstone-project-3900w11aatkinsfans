@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32",
+            "02:11",
+            "02:51",
+            "03:16",
+            "03:40",
+            "04:13",
+            "04:50"
+        ],
+        "label": "east"
+    },
+    "clusterList": [
+        {
+            "phrase": "east matagorda bay is a unique bay it's a small bay system it's not like galveston or any other of the larger bays",
+            "count": 6
+        },
+        {
+            "phrase": "there were about five elite series boats sitting on it",
+            "count": 1
+        },
+        {
+            "phrase": "there's such a variance in the shoreline",
+            "count": 1
+        }
+    ]
+}

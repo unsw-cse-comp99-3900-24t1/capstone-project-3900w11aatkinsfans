@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:03",
+            "04:29",
+            "04:47",
+            "05:01"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can't improve on perfection",
+            "count": 1
+        },
+        {
+            "phrase": "perform with perfection",
+            "count": 1
+        },
+        {
+            "phrase": "because i'm a perfectionist",
+            "count": 1
+        },
+        {
+            "phrase": "everyone can improve",
+            "count": 1
+        },
+        {
+            "phrase": "perfection is a perfect bore",
+            "count": 1
+        }
+    ]
+}

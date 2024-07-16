@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "02:01",
+            "03:32"
+        ],
+        "label": "c"
+    },
+    "clusterList": [
+        {
+            "phrase": "c in-c ins",
+            "count": 2
+        },
+        {
+            "phrase": "c in-c in",
+            "count": 2
+        },
+        {
+            "phrase": "c temp hello",
+            "count": 1
+        }
+    ]
+}

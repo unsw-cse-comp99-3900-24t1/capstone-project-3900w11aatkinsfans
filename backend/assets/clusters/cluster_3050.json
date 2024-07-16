@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:29",
+            "01:43",
+            "03:43",
+            "03:51"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is no turning back",
+            "count": 4
+        },
+        {
+            "phrase": "back off mario",
+            "count": 1
+        },
+        {
+            "phrase": "back to this",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "00:47",
+            "01:07",
+            "01:23",
+            "01:47",
+            "03:10",
+            "03:15",
+            "03:22",
+            "03:51",
+            "04:32"
+        ],
+        "label": "house"
+    },
+    "clusterList": [
+        {
+            "phrase": "inside the caucus according to a witness obama told the house members this is the moment",
+            "count": 6
+        },
+        {
+            "phrase": "i called for a congressional investigation and a hearing",
+            "count": 6
+        },
+        {
+            "phrase": "i'm getting ready for next season and if i have to testify i'll go testify",
+            "count": 3
+        },
+        {
+            "phrase": "house speaker nancy pelosi d-calif said thursday that a federal judge's ruling that former white house counsel harriet miers has to appear before a congressional committee could pave the way for congress approving a contempt citation against karl rove later in the day",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not here to render legal advice to your committee",
+            "count": 1
+        },
+        {
+            "phrase": "you're testifying before a congressional committee",
+            "count": 1
+        }
+    ]
+}

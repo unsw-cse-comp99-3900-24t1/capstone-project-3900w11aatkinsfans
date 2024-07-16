@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:56",
+            "02:33",
+            "04:23"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in my eyes the drought's over",
+            "count": 1
+        },
+        {
+            "phrase": "it's a brand new day and the sun is high all the birds are singing that you're gonna die",
+            "count": 1
+        },
+        {
+            "phrase": "well the sun's up and it's warming things up",
+            "count": 1
+        },
+        {
+            "phrase": "can you believe it's fk raining right now",
+            "count": 1
+        }
+    ]
+}

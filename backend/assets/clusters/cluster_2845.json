@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:24",
+            "00:38",
+            "00:47",
+            "02:32",
+            "03:11"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've mobilized a fair amount of equipment and we'll do whatever it takes to get the road open as fast as we can",
+            "count": 5
+        },
+        {
+            "phrase": "there have been a lot of interesting things happening interstate and we should be looking for lessons from those but our first step is to make sure we are running as efficiently as we can",
+            "count": 1
+        }
+    ]
+}

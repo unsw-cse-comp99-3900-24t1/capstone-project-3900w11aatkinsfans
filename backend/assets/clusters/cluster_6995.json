@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:23",
+            "02:59"
+        ],
+        "label": "registration"
+    },
+    "clusterList": [
+        {
+            "phrase": "registration open for barcampohio librarycampohio august 11 2008",
+            "count": 1
+        },
+        {
+            "phrase": "we will be closed starting august 4th and will reopen august 13th with our late summer early fall menu",
+            "count": 1
+        },
+        {
+            "phrase": "closed until mid-november",
+            "count": 1
+        }
+    ]
+}

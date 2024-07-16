@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "02:15",
+            "04:10"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that was area code 847 okay thanks",
+            "count": 1
+        },
+        {
+            "phrase": "enter your zip code here for black out information",
+            "count": 1
+        },
+        {
+            "phrase": "what is your 1020 location get it",
+            "count": 1
+        }
+    ]
+}

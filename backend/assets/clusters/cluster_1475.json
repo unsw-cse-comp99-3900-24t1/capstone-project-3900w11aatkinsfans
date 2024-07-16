@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:29",
+            "00:53",
+            "01:09",
+            "01:19",
+            "01:25",
+            "02:47",
+            "03:13",
+            "04:36"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "the museum offers a lot of information artifacts bits of history of the history and culture of the three affiliated tribes and the three affiliated tribes are the mandan hidatsa and the arikara people",
+            "count": 2
+        },
+        {
+            "phrase": "as you know most museums have a reputation of being a rather old place were there are just dusty relics sitting on a shelf so we try to keep pace with the progression of our tribes as well",
+            "count": 2
+        },
+        {
+            "phrase": "we are a museum and institute which feels very strongly about cultural rights heritage and history of native americans on a global scale we view remains as people not research objects",
+            "count": 1
+        },
+        {
+            "phrase": "a future for archaeology",
+            "count": 1
+        },
+        {
+            "phrase": "a heritage going back to archimedes",
+            "count": 1
+        },
+        {
+            "phrase": "heritage going back to archimedes",
+            "count": 1
+        },
+        {
+            "phrase": "it's a little more hands-on than a regular museum",
+            "count": 1
+        },
+        {
+            "phrase": "let's look at old crap we don't need being sold by people who are at least as old as the dusty artifacts they are hawking",
+            "count": 1
+        },
+        {
+            "phrase": "we're the first major museum down there",
+            "count": 1
+        }
+    ]
+}

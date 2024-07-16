@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:18",
+            "03:20",
+            "04:23"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're in this for fun",
+            "count": 1
+        },
+        {
+            "phrase": "now we can have a little fun",
+            "count": 1
+        },
+        {
+            "phrase": "we run this",
+            "count": 1
+        },
+        {
+            "phrase": "we've had a fun time shooting this",
+            "count": 1
+        }
+    ]
+}

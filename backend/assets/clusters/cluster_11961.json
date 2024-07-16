@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:23",
+            "04:41"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i wanted to bend a fork this is what i would want to do",
+            "count": 1
+        },
+        {
+            "phrase": "let's just stick a fork in it",
+            "count": 1
+        }
+    ]
+}

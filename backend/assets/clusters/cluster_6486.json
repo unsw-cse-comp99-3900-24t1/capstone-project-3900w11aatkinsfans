@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:29",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the house has been the greatest blessing",
+            "count": 1
+        },
+        {
+            "phrase": "i would like you to live with hope at the new homes from today",
+            "count": 1
+        },
+        {
+            "phrase": "you and this farm remind me of home",
+            "count": 1
+        }
+    ]
+}

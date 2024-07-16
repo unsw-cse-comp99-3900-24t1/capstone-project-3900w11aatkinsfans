@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "02:00",
+            "02:18",
+            "02:20",
+            "03:22",
+            "03:45",
+            "04:46",
+            "04:52"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the great american seafood",
+            "count": 2
+        },
+        {
+            "phrase": "why eat frozen when you can eat fresh fried fish",
+            "count": 2
+        },
+        {
+            "phrase": "i strongly believe that american seafood is by far the finest",
+            "count": 1
+        },
+        {
+            "phrase": "the great american seafood cook off",
+            "count": 1
+        },
+        {
+            "phrase": "fresh raw seafood",
+            "count": 1
+        },
+        {
+            "phrase": "shrimps in garlic amp honey",
+            "count": 1
+        }
+    ]
+}

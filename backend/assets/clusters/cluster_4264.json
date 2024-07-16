@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:36",
+            "01:10",
+            "03:51"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things you don't say to your wife",
+            "count": 1
+        },
+        {
+            "phrase": "what's not to like",
+            "count": 1
+        },
+        {
+            "phrase": "it's a horrible thing to say",
+            "count": 1
+        },
+        {
+            "phrase": "when you say nothing at all",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't have to say nothin to them",
+            "count": 1
+        }
+    ]
+}

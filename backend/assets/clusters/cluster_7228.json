@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "04:05",
+            "04:59"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a so-called principals meeting in which vice president cheney sat around with other cabinet-level officials to approve specific interrogation techniques",
+            "count": 1
+        },
+        {
+            "phrase": "the prospect of each and every appointment record immediately becoming the subject of forced public disclosure would surely cast a chill over the ability of the president and vice president to collect information and advice",
+            "count": 1
+        },
+        {
+            "phrase": "a frequent participant in white house situation room meetings",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:50",
+            "03:00",
+            "04:31"
+        ],
+        "label": "truth"
+    },
+    "clusterList": [
+        {
+            "phrase": "truth and accuracy that are the bread and butter of the public relations profession",
+            "count": 1
+        },
+        {
+            "phrase": "the world's biggest jailer of journalists",
+            "count": 1
+        },
+        {
+            "phrase": "do you not think in this case the journalist should take responsibility for what they have written",
+            "count": 1
+        },
+        {
+            "phrase": "people read newspapers despite everything we think we know their contents seep in we believe them to be true and we act upon them",
+            "count": 1
+        },
+        {
+            "phrase": "he cites facts and other articles when he rants",
+            "count": 1
+        }
+    ]
+}

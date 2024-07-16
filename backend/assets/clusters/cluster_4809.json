@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:13",
+            "03:14",
+            "04:16"
+        ],
+        "label": "sort"
+    },
+    "clusterList": [
+        {
+            "phrase": "sort of main road which is off of the equally sort of main road that is off the real main road",
+            "count": 1
+        },
+        {
+            "phrase": "do you see a road here",
+            "count": 1
+        },
+        {
+            "phrase": "life is a highway",
+            "count": 1
+        },
+        {
+            "phrase": "wouldn't i just be better off saying road or pavement",
+            "count": 1
+        }
+    ]
+}

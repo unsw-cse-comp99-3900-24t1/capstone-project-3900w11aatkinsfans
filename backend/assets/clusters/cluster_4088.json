@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "03:08",
+            "03:55",
+            "04:26",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the right thing to do when the prime minister goes is to let the people choose who will lead them and whoever is chosen he is the one who will need to put together a government",
+            "count": 1
+        },
+        {
+            "phrase": "let the people choose who will lead them",
+            "count": 1
+        },
+        {
+            "phrase": "we only need a few motivated people to lead and the ease of organization can make it happen",
+            "count": 1
+        },
+        {
+            "phrase": "the right thing to do when the prime minister goes is to let the people choose who will lead them",
+            "count": 1
+        },
+        {
+            "phrase": "when the people lead the leaders will follow",
+            "count": 1
+        }
+    ]
+}

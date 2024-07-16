@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "00:53",
+            "02:25",
+            "02:32",
+            "02:33",
+            "02:46"
+        ],
+        "label": "could"
+    },
+    "clusterList": [
+        {
+            "phrase": "could this be a scam or a pipe dream",
+            "count": 1
+        },
+        {
+            "phrase": "i can't believe anyone would fall for this scam",
+            "count": 1
+        },
+        {
+            "phrase": "yeah right this must be a scam",
+            "count": 1
+        },
+        {
+            "phrase": "african printing scam",
+            "count": 1
+        },
+        {
+            "phrase": "another scam in the making",
+            "count": 1
+        },
+        {
+            "phrase": "the royal scam",
+            "count": 1
+        }
+    ]
+}

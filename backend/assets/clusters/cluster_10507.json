@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "04:00"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that thing you do",
+            "count": 1
+        },
+        {
+            "phrase": "do your thing",
+            "count": 1
+        }
+    ]
+}

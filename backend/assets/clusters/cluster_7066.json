@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:38",
+            "02:46"
+        ],
+        "label": "study"
+    },
+    "clusterList": [
+        {
+            "phrase": "study in senegal",
+            "count": 1
+        },
+        {
+            "phrase": "financial educational and medical hub of africa",
+            "count": 1
+        },
+        {
+            "phrase": "establish loan funds for medical students",
+            "count": 1
+        }
+    ]
+}

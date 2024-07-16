@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:56",
+            "05:00"
+        ],
+        "label": "okay"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was born to love you you were born to resist",
+            "count": 5
+        },
+        {
+            "phrase": "okay now don't go falling in love with me or anything because i don't want that crap i'm going to be really cool and make it hard for you not to develop feelings for me but don't fall in love with me okay i know it's difficult just try to be strong",
+            "count": 1
+        },
+        {
+            "phrase": "no my dear sweet simple jack i've come to find out i've fallen for you i had decided some things before i discovered that and it's all just got to play itself out i can't tell you what's ahead but i want you to give yourself to our future willingly and just trust that i love you no matter what",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:48",
+            "02:05",
+            "02:22",
+            "03:13",
+            "03:22",
+            "03:35",
+            "03:55",
+            "04:17",
+            "04:28",
+            "04:32",
+            "04:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i suspect an agreement has been reached or an understanding has been reached",
+            "count": 5
+        },
+        {
+            "phrase": "to tear up the agreement that they willingly signed",
+            "count": 2
+        },
+        {
+            "phrase": "the only way to get an agreement is if they sit down and talk",
+            "count": 2
+        },
+        {
+            "phrase": "they know they're entering into an agreement",
+            "count": 1
+        },
+        {
+            "phrase": "agreements and practices",
+            "count": 1
+        }
+    ]
+}

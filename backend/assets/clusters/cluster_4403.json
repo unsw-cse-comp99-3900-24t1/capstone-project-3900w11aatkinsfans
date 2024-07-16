@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:05",
+            "02:09",
+            "03:46"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is held to no standard at all",
+            "count": 1
+        },
+        {
+            "phrase": "and i said that's kind of standard everywhere",
+            "count": 1
+        },
+        {
+            "phrase": "density is not a performance standard it's a zoning standard",
+            "count": 1
+        },
+        {
+            "phrase": "the new standard includes all of the amendments enhancements and more than 100 errata which have been added to the base standard over the last 12 years",
+            "count": 1
+        }
+    ]
+}

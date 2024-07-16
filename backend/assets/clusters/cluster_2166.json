@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:48",
+            "04:00",
+            "04:31",
+            "04:35"
+        ],
+        "label": "more"
+    },
+    "clusterList": [
+        {
+            "phrase": "more than words",
+            "count": 6
+        },
+        {
+            "phrase": "my 1st 1 000 words",
+            "count": 1
+        },
+        {
+            "phrase": "too simple words",
+            "count": 1
+        }
+    ]
+}

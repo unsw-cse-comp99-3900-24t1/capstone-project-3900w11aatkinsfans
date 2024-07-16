@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "00:53",
+            "01:09",
+            "03:18",
+            "03:23",
+            "03:54"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've got a little more weight i'm pleased with what i did this offseason",
+            "count": 2
+        },
+        {
+            "phrase": "my big weakness was i wasn't too heavy i was 190 and i wasn't too strong right now i'm 206 and i feel pretty strong they didn't talk to me about weight but i think they want me at 210 and i'm going to try to be around that",
+            "count": 1
+        },
+        {
+            "phrase": "man it feels good to be my normal height again",
+            "count": 1
+        },
+        {
+            "phrase": "it's like some great weight has been lifted from my shoulders",
+            "count": 1
+        },
+        {
+            "phrase": "that was pretty depressing to see that 262 pounds on the physical just knowing that i had become that heavy",
+            "count": 1
+        }
+    ]
+}

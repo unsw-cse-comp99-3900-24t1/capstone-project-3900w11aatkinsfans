@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:35",
+            "03:43",
+            "04:24"
+        ],
+        "label": "whether"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not a situation where you would expect any world records to be broken",
+            "count": 2
+        },
+        {
+            "phrase": "whether that results in world records all the time or whether the world records will come in the finals i think we're going to have to wait and see what happens",
+            "count": 1
+        },
+        {
+            "phrase": "i think there is a strong probability that the news of the world did not just chance on it",
+            "count": 1
+        }
+    ]
+}

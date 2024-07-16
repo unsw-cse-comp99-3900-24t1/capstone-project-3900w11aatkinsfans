@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "02:20",
+            "03:00",
+            "04:18",
+            "05:05"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with friends like obama who needs al-qaeda",
+            "count": 1
+        },
+        {
+            "phrase": "released by al qaeda",
+            "count": 1
+        },
+        {
+            "phrase": "the push has begun among obama's fellow-liberals for reparations to osama bin laden's al-qaida warriors",
+            "count": 1
+        },
+        {
+            "phrase": "taking training from al qaeda",
+            "count": 1
+        },
+        {
+            "phrase": "the islamofascists are actually campaigning for the election of democrats islamofascists from ahmadinejad to al-zawahiri oba osama bin laden whoever are constantly issuing democrat talking points",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:29",
+            "04:18"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these women have enough problems without having to worry about being in an accident",
+            "count": 1
+        },
+        {
+            "phrase": "if they're all such good drivers why do they crash more often than women",
+            "count": 1
+        },
+        {
+            "phrase": "in nascar there are extremely good drivers very good drivers good drivers and maybe one or two average drivers",
+            "count": 1
+        }
+    ]
+}

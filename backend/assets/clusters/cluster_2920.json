@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "00:51",
+            "01:19",
+            "02:04",
+            "03:18",
+            "04:28"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what would jesus do",
+            "count": 1
+        },
+        {
+            "phrase": "what if he gets all mad and rips half your face off",
+            "count": 1
+        },
+        {
+            "phrase": "he would have someone follow him back drive him off the road and bury his body somewhere in the desert",
+            "count": 1
+        },
+        {
+            "phrase": "i'd hit him in the nose",
+            "count": 1
+        },
+        {
+            "phrase": "yeah if he was a lizard",
+            "count": 1
+        },
+        {
+            "phrase": "he wouldn't budge",
+            "count": 1
+        }
+    ]
+}

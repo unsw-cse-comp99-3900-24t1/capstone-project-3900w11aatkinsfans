@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:51",
+            "00:53",
+            "01:42",
+            "03:50",
+            "05:05"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "love the lights",
+            "count": 2
+        },
+        {
+            "phrase": "good for you these are gooooooood for you",
+            "count": 1
+        },
+        {
+            "phrase": "those are the best eyes you can have",
+            "count": 1
+        },
+        {
+            "phrase": "i really love your glasses",
+            "count": 1
+        },
+        {
+            "phrase": "they're beautiful how did you",
+            "count": 1
+        },
+        {
+            "phrase": "woah green eyes i didn't know you had green eyes and they're cool",
+            "count": 1
+        }
+    ]
+}

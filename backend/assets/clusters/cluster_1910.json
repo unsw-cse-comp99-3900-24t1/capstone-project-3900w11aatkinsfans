@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "02:05",
+            "02:14",
+            "02:15",
+            "02:42",
+            "02:55",
+            "03:11",
+            "03:51",
+            "03:56"
+        ],
+        "label": "meta-reflections"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a management team",
+            "count": 3
+        },
+        {
+            "phrase": "at the management level",
+            "count": 3
+        },
+        {
+            "phrase": "meta-reflections 4 team management issues",
+            "count": 1
+        },
+        {
+            "phrase": "it is the manager the coaches and the players that make this possible we see them pointed in the right direction and starting to come together as a team and really working hard in each and every inning of every game and that is really when you want to step up and help a team i feel very good about our team",
+            "count": 1
+        },
+        {
+            "phrase": "you must be a manager",
+            "count": 1
+        }
+    ]
+}

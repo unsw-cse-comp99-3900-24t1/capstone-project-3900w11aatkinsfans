@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            6,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "03:41",
+            "04:13"
+        ],
+        "label": "early"
+    },
+    "clusterList": [
+        {
+            "phrase": "jim henson productions",
+            "count": 4
+        },
+        {
+            "phrase": "the muppet show",
+            "count": 2
+        },
+        {
+            "phrase": "early bird cartoon show",
+            "count": 1
+        },
+        {
+            "phrase": "the jim henson company",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the government doesn't care we need to rely on relatives and friends to make ends meet",
+            "count": 1
+        },
+        {
+            "phrase": "you can't just make the gov't care for everyone's entire life",
+            "count": 1
+        }
+    ]
+}

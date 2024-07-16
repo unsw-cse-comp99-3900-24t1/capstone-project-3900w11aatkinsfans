@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the most dangerous thing i have attempted in my career",
+            "count": 1
+        },
+        {
+            "phrase": "the dangers are extraordinary",
+            "count": 1
+        }
+    ]
+}

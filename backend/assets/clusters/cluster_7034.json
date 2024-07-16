@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "02:39",
+            "03:38"
+        ],
+        "label": "where"
+    },
+    "clusterList": [
+        {
+            "phrase": "where are the clintons",
+            "count": 2
+        },
+        {
+            "phrase": "what happened to the clintons",
+            "count": 1
+        }
+    ]
+}

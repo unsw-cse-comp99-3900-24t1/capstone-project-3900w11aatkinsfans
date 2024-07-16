@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:20",
+            "01:01",
+            "02:20",
+            "03:18",
+            "04:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the writers damian shannon and mark swift after we had done everything said did you notice how many kills there were and we said yeah there are a lot they said actually there are 13 so the writers had figured that out",
+            "count": 3
+        },
+        {
+            "phrase": "i believe that it is very likely that children died here what i cannot say is how they died",
+            "count": 1
+        },
+        {
+            "phrase": "calling their families and telling them about the deaths sir i'm not sure if i could comprehend doing that",
+            "count": 1
+        },
+        {
+            "phrase": "foundation of mr le ly's family home survives the massacre seven members of his family were killed",
+            "count": 1
+        }
+    ]
+}

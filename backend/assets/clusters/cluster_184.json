@@ -1,0 +1,147 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:23",
+            "00:25",
+            "00:28",
+            "00:29",
+            "00:39",
+            "00:41",
+            "00:44",
+            "00:48",
+            "00:53",
+            "00:56",
+            "00:57",
+            "01:00",
+            "01:01",
+            "01:10",
+            "01:19",
+            "01:40",
+            "01:46",
+            "01:47",
+            "02:13",
+            "02:15",
+            "02:23",
+            "02:46",
+            "03:08",
+            "03:09",
+            "03:14",
+            "03:24",
+            "03:34",
+            "03:38",
+            "03:51",
+            "03:55",
+            "03:57",
+            "04:18",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never thought this would happen",
+            "count": 19
+        },
+        {
+            "phrase": "i still think it's going to happen",
+            "count": 6
+        },
+        {
+            "phrase": "not going to happen",
+            "count": 3
+        },
+        {
+            "phrase": "that will never work",
+            "count": 2
+        },
+        {
+            "phrase": "that isn't going to happen",
+            "count": 1
+        },
+        {
+            "phrase": "it will happen someday",
+            "count": 1
+        },
+        {
+            "phrase": "no i don't think so that won't happen",
+            "count": 1
+        },
+        {
+            "phrase": "i realize this won't happen overnight",
+            "count": 1
+        },
+        {
+            "phrase": "it won't happen to us",
+            "count": 1
+        },
+        {
+            "phrase": "oh it will happen when it happens",
+            "count": 1
+        },
+        {
+            "phrase": "that just can't happen",
+            "count": 1
+        },
+        {
+            "phrase": "itll happen eventually",
+            "count": 1
+        },
+        {
+            "phrase": "this could really happen",
+            "count": 1
+        },
+        {
+            "phrase": "it's about to happen",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's a little too late for that",
+            "count": 1
+        },
+        {
+            "phrase": "this won't happen again",
+            "count": 1
+        },
+        {
+            "phrase": "this cannot happen",
+            "count": 1
+        }
+    ]
+}

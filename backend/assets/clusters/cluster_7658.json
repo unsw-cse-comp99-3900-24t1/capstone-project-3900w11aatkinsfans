@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "04:03",
+            "04:31"
+        ],
+        "label": "sharks"
+    },
+    "clusterList": [
+        {
+            "phrase": "sharks have poor eyesight but a very keen sense of smell",
+            "count": 1
+        },
+        {
+            "phrase": "it's a shark",
+            "count": 1
+        },
+        {
+            "phrase": "sharks are hard to identify",
+            "count": 1
+        }
+    ]
+}

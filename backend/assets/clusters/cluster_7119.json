@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "02:51"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you at the llama farm mama",
+            "count": 1
+        },
+        {
+            "phrase": "are the llamas being good mama",
+            "count": 1
+        },
+        {
+            "phrase": "is the llama in the stroller mama",
+            "count": 1
+        }
+    ]
+}

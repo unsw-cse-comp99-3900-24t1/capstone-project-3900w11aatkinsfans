@@ -1,0 +1,173 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:04",
+            "00:05",
+            "00:17",
+            "00:25",
+            "00:29",
+            "00:46",
+            "00:56",
+            "01:25",
+            "01:46",
+            "01:47",
+            "01:50",
+            "02:17",
+            "02:19",
+            "02:20",
+            "02:29",
+            "02:31",
+            "02:35",
+            "02:36",
+            "02:40",
+            "02:43",
+            "02:50",
+            "03:11",
+            "03:18",
+            "03:29",
+            "03:59",
+            "04:08",
+            "04:13",
+            "04:18",
+            "04:45",
+            "05:01"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's not true",
+            "count": 4
+        },
+        {
+            "phrase": "i wouldn't say that",
+            "count": 4
+        },
+        {
+            "phrase": "i don't know if that's true",
+            "count": 4
+        },
+        {
+            "phrase": "that's fair to say",
+            "count": 3
+        },
+        {
+            "phrase": "that is true",
+            "count": 2
+        },
+        {
+            "phrase": "this might be true to an extent",
+            "count": 2
+        },
+        {
+            "phrase": "is that true",
+            "count": 1
+        },
+        {
+            "phrase": "well then that explains a thing or two",
+            "count": 1
+        },
+        {
+            "phrase": "that's a fact",
+            "count": 1
+        },
+        {
+            "phrase": "well not exactly",
+            "count": 1
+        },
+        {
+            "phrase": "many would argue that",
+            "count": 1
+        },
+        {
+            "phrase": "if that were true",
+            "count": 1
+        },
+        {
+            "phrase": "we know this is not true",
+            "count": 1
+        },
+        {
+            "phrase": "yeah it's true",
+            "count": 1
+        },
+        {
+            "phrase": "it's just that",
+            "count": 1
+        },
+        {
+            "phrase": "that fact is incorrect",
+            "count": 1
+        },
+        {
+            "phrase": "that's not right",
+            "count": 1
+        },
+        {
+            "phrase": "absolutely not true",
+            "count": 1
+        },
+        {
+            "phrase": "that's not fair",
+            "count": 1
+        },
+        {
+            "phrase": "that isn't true",
+            "count": 1
+        },
+        {
+            "phrase": "well i guess that's just your opinion",
+            "count": 1
+        },
+        {
+            "phrase": "true and real",
+            "count": 1
+        },
+        {
+            "phrase": "but they say that's not the case",
+            "count": 1
+        },
+        {
+            "phrase": "you know this is not true",
+            "count": 1
+        },
+        {
+            "phrase": "no that's not true",
+            "count": 1
+        }
+    ]
+}

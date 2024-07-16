@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:41",
+            "04:50"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never never never pay too much for a property",
+            "count": 1
+        },
+        {
+            "phrase": "i've already spent a couple hundred dollars on things i need or want for my room",
+            "count": 1
+        },
+        {
+            "phrase": "i can show you houses that i've sold four or five times",
+            "count": 1
+        }
+    ]
+}

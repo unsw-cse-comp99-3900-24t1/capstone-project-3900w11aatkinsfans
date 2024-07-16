@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:10",
+            "00:27",
+            "00:36",
+            "01:47",
+            "02:30",
+            "02:47",
+            "04:06",
+            "04:37"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it rolled on its side and into a ditch",
+            "count": 6
+        },
+        {
+            "phrase": "there was no problem from the waist up but from the waist down her right foot was pinned in the wreckage",
+            "count": 1
+        },
+        {
+            "phrase": "her foot was stuck the steering wheel was up against her knee and thigh you could see that her leg was just broke bad it was bleeding she was in a lot of pain",
+            "count": 1
+        },
+        {
+            "phrase": "struck on the roadway as there was no indication of the vehicle traveling into the grass",
+            "count": 1
+        },
+        {
+            "phrase": "her vehicle a 2000 chevrolet tahoe was eastbound on route 670 in a curve when the driver's door opened and she was partially ejected",
+            "count": 1
+        },
+        {
+            "phrase": "that led to the vehicle leaving the road and falling onto its side in the creek culvert the vehicle landed on her",
+            "count": 1
+        },
+        {
+            "phrase": "it could be that a domestic occurred in a rest area or in a vehicle while it was going down the road it also could the vehicle was stopped",
+            "count": 1
+        },
+        {
+            "phrase": "she ran she loved to bike she loved to hike with her dog",
+            "count": 1
+        }
+    ]
+}

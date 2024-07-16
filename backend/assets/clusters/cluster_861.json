@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:10",
+            "00:23",
+            "01:13",
+            "02:32",
+            "02:33",
+            "03:09",
+            "03:35",
+            "04:03",
+            "04:13",
+            "04:16",
+            "04:18",
+            "04:27",
+            "04:32",
+            "04:49"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "i really don't know anything about the reports",
+            "count": 9
+        },
+        {
+            "phrase": "i'm quite concerned by them i saw the reports also the comments by kevan gosper",
+            "count": 4
+        },
+        {
+            "phrase": "this is a weak report",
+            "count": 1
+        },
+        {
+            "phrase": "i believe the report just scratched the surface",
+            "count": 1
+        },
+        {
+            "phrase": "they've done some research and thrown out a report that's biased",
+            "count": 1
+        }
+    ]
+}

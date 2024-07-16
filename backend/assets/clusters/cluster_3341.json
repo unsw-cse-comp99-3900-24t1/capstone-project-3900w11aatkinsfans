@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:04",
+            "01:37",
+            "01:57",
+            "02:24",
+            "03:10"
+        ],
+        "label": "michelle"
+    },
+    "clusterList": [
+        {
+            "phrase": "he or she",
+            "count": 2
+        },
+        {
+            "phrase": "michelle obama connects to the modern woman she has a real woman look to her but is even bigger and better",
+            "count": 1
+        },
+        {
+            "phrase": "can she have a man",
+            "count": 1
+        },
+        {
+            "phrase": "man and man on woman on woman",
+            "count": 1
+        },
+        {
+            "phrase": "oh they're both women",
+            "count": 1
+        }
+    ]
+}

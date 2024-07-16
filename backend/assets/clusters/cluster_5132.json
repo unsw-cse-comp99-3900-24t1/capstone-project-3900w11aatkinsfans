@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "04:05",
+            "04:13",
+            "04:41"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and you can't do that if you're trying to impeach the president at the same time unless you have the goods that this president committed crimes",
+            "count": 1
+        },
+        {
+            "phrase": "for the love of betty hall impeach cheney",
+            "count": 1
+        },
+        {
+            "phrase": "how can we best undermine the president today regardless of the consequences to the american people",
+            "count": 1
+        },
+        {
+            "phrase": "can't do this because of the republicans can't do that while bush is in office",
+            "count": 1
+        }
+    ]
+}

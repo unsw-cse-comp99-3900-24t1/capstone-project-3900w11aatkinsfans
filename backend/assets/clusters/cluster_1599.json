@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "00:51",
+            "01:32",
+            "02:11",
+            "02:28",
+            "02:29",
+            "03:40",
+            "04:04",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we just have to expect the unexpected and go where we are needed",
+            "count": 5
+        },
+        {
+            "phrase": "we didn't really know what to expect",
+            "count": 1
+        },
+        {
+            "phrase": "we are obviously disappointed",
+            "count": 1
+        },
+        {
+            "phrase": "what to expect",
+            "count": 1
+        },
+        {
+            "phrase": "what did they expect",
+            "count": 1
+        },
+        {
+            "phrase": "we set quite high expectations and we don't say things are good when they're not",
+            "count": 1
+        }
+    ]
+}

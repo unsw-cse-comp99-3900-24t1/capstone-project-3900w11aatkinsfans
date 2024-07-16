@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the bottom line is we should be cautious in accepting this",
+            "count": 1
+        },
+        {
+            "phrase": "i understand your caution and commend it but what we have to discuss could take a while",
+            "count": 1
+        }
+    ]
+}

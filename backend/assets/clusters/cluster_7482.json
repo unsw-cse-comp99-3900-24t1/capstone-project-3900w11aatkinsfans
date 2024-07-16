@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:04",
+            "04:35"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm the one with the catcher's mitt",
+            "count": 1
+        },
+        {
+            "phrase": "when theo told me i was picking up a three-tool player i assumed it was ramirez",
+            "count": 1
+        },
+        {
+            "phrase": "atlante keeper federico vilar came out and whacked me because he thought i hit one of his players",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:02",
+            "02:09",
+            "02:23",
+            "02:24",
+            "02:28",
+            "02:46",
+            "03:33",
+            "04:15",
+            "04:56"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "i guess i'll analyse and assess my game after the us open",
+            "count": 6
+        },
+        {
+            "phrase": "it will be good for us to keep the evaluation going",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sure everyone expects it to be a friendly scrimmage but you have the top 44 players in canada here competing hard to win a spot so you can't help but mix it up a little bit",
+            "count": 1
+        },
+        {
+            "phrase": "specifically from a playing point of view for our guys to play against a quality opponent like that in a finals-type atmosphere on a friday night was first class and i think we'll only be able to measure the true value of it in time",
+            "count": 1
+        },
+        {
+            "phrase": "whoever we play is fine and you can study the opposition but you can't tell who will be on form at the start",
+            "count": 1
+        },
+        {
+            "phrase": "we expect the second test to be a close game",
+            "count": 1
+        }
+    ]
+}

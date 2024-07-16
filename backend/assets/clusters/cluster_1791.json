@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:00",
+            "01:04",
+            "01:34",
+            "02:29",
+            "03:10",
+            "03:34",
+            "04:55"
+        ],
+        "label": "xtreme"
+    },
+    "clusterList": [
+        {
+            "phrase": "avenger of truth",
+            "count": 2
+        },
+        {
+            "phrase": "xtreme magic starring dirk arthur",
+            "count": 1
+        },
+        {
+            "phrase": "the yellow goblin",
+            "count": 1
+        },
+        {
+            "phrase": "batman blind justice",
+            "count": 1
+        },
+        {
+            "phrase": "house of flying daggers",
+            "count": 1
+        },
+        {
+            "phrase": "batman dark victory",
+            "count": 1
+        },
+        {
+            "phrase": "the dark knight movie review no spoilers it rocks",
+            "count": 1
+        },
+        {
+            "phrase": "the blair witch",
+            "count": 1
+        }
+    ]
+}

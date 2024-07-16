@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:50",
+            "04:00",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had a lot of conversations over the last few weeks but nothing like last year when we were big players in the market",
+            "count": 1
+        },
+        {
+            "phrase": "today was about the trade deadline",
+            "count": 1
+        },
+        {
+            "phrase": "everybody works hard through the trade deadline",
+            "count": 1
+        }
+    ]
+}

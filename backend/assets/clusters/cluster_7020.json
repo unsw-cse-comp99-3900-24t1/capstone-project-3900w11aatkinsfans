@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:37",
+            "02:26"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i lost it from all the throwing up i did",
+            "count": 1
+        },
+        {
+            "phrase": "when did you lose it",
+            "count": 1
+        },
+        {
+            "phrase": "i'll try to answer your question when did i lose it",
+            "count": 1
+        }
+    ]
+}

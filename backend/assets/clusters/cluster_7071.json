@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:19",
+            "02:38"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had it at 1 200 tons yesterday",
+            "count": 1
+        },
+        {
+            "phrase": "about 120 000 tonnes of grain a year come from the jeparit rainbow and yaapeet areas so that works out to 3428 truck movements",
+            "count": 1
+        },
+        {
+            "phrase": "from hopetoun and beulah there is 170 000 tonnes of grain a year so that equals 9857 trucks",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "04:15"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want to have our cake and eat it",
+            "count": 1
+        },
+        {
+            "phrase": "we're just going to leave the cake",
+            "count": 1
+        }
+    ]
+}

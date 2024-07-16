@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            8,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:27",
+            "01:04",
+            "01:07",
+            "01:21",
+            "01:38",
+            "01:46",
+            "03:10",
+            "03:51",
+            "03:59",
+            "04:32",
+            "04:41",
+            "04:50"
+        ],
+        "label": "best"
+    },
+    "clusterList": [
+        {
+            "phrase": "at this moment the next big story in technology may reside on",
+            "count": 8
+        },
+        {
+            "phrase": "think about what happened in the computer revolution",
+            "count": 5
+        },
+        {
+            "phrase": "we have very few things that are very significant left to be done to the technology",
+            "count": 2
+        },
+        {
+            "phrase": "best technological development",
+            "count": 1
+        },
+        {
+            "phrase": "by equipping our schools with state-of-the-art computing technology and internet connectivity we hope to hasten the transition to economic models that benefit our citizens",
+            "count": 1
+        },
+        {
+            "phrase": "it is innovation that led people to discover applications for the computers it's innovation that led to green revolutions it's innovation that has led to so many things that have lifted so many people out of poverty",
+            "count": 1
+        },
+        {
+            "phrase": "technology will not go away and educators have to come to terms with it as an educational tool understanding technology and its force in society is incumbent on both students and adults",
+            "count": 1
+        },
+        {
+            "phrase": "progress and technology",
+            "count": 1
+        },
+        {
+            "phrase": "so you take the technologies that we have and you tweak them a little bit and you tweak them again",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "02:52",
+            "02:55",
+            "03:29"
+        ],
+        "label": "actually"
+    },
+    "clusterList": [
+        {
+            "phrase": "under climate change heat stress will become a bigger issue for plants especially when it creates new heat-released disease",
+            "count": 2
+        },
+        {
+            "phrase": "actually your cited paper indicates that most of the smoke would be limited to the troposphere",
+            "count": 1
+        },
+        {
+            "phrase": "another interesting finding of this study was that smokers were found to have a decreased risk of seasonal ar with no change to the risk of perennial ar",
+            "count": 1
+        }
+    ]
+}

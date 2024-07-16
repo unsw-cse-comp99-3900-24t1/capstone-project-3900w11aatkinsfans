@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:15",
+            "01:20",
+            "01:43",
+            "02:44",
+            "03:48",
+            "04:04",
+            "04:31",
+            "04:45",
+            "04:56"
+        ],
+        "label": "bosko"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fast and the furious",
+            "count": 6
+        },
+        {
+            "phrase": "bosko and the pirates",
+            "count": 1
+        },
+        {
+            "phrase": "ernest the pirate",
+            "count": 1
+        },
+        {
+            "phrase": "the pirates did very well",
+            "count": 1
+        },
+        {
+            "phrase": "the pirates have accelerated the processes of their own ruin",
+            "count": 1
+        }
+    ]
+}

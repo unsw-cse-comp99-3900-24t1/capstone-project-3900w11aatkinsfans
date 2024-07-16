@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:27",
+            "00:48",
+            "01:07",
+            "01:38",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:40",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "whose number is this",
+            "count": 6
+        },
+        {
+            "phrase": "the key person",
+            "count": 1
+        },
+        {
+            "phrase": "identified an individual",
+            "count": 1
+        },
+        {
+            "phrase": "person of the year",
+            "count": 1
+        },
+        {
+            "phrase": "omg who what what the fuck",
+            "count": 1
+        },
+        {
+            "phrase": "an extraordinary person",
+            "count": 1
+        },
+        {
+            "phrase": "worst person in the world",
+            "count": 1
+        }
+    ]
+}

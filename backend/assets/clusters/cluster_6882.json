@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:56",
+            "03:43"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't listen to him go on",
+            "count": 1
+        },
+        {
+            "phrase": "hold on to him charlie damn",
+            "count": 1
+        },
+        {
+            "phrase": "i should have listened to him",
+            "count": 1
+        }
+    ]
+}

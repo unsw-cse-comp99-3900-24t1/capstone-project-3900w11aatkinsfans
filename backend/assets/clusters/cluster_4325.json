@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "03:18",
+            "03:48",
+            "04:04",
+            "04:45"
+        ],
+        "label": "certified"
+    },
+    "clusterList": [
+        {
+            "phrase": "certified for weather",
+            "count": 1
+        },
+        {
+            "phrase": "nice weather wherever it is",
+            "count": 1
+        },
+        {
+            "phrase": "you know what let's both go tomorrow since the weather isn't supposed to be that great anyway",
+            "count": 1
+        },
+        {
+            "phrase": "wnymedia weather central",
+            "count": 1
+        },
+        {
+            "phrase": "weather or not",
+            "count": 1
+        }
+    ]
+}

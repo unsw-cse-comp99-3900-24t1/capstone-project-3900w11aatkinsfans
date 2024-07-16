@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:20",
+            "01:21"
+        ],
+        "label": "severus"
+    },
+    "clusterList": [
+        {
+            "phrase": "severus snape is the potions teacher",
+            "count": 3
+        }
+    ]
+}

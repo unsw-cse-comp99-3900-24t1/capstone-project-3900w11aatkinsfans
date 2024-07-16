@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "01:04",
+            "01:30",
+            "01:41",
+            "01:47",
+            "02:46",
+            "03:27",
+            "03:37"
+        ],
+        "label": "perfect"
+    },
+    "clusterList": [
+        {
+            "phrase": "perfect game balance",
+            "count": 4
+        },
+        {
+            "phrase": "fair and balanced",
+            "count": 3
+        },
+        {
+            "phrase": "checks and balances",
+            "count": 1
+        }
+    ]
+}

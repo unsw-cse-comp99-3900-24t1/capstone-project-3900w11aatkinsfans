@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:37",
+            "03:18",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we won't be gone long my buddy's got a meeting at 2pm why don't you just come along",
+            "count": 1
+        },
+        {
+            "phrase": "i'm a samaritan shun me just meet me at the well at 3 o'clock",
+            "count": 1
+        },
+        {
+            "phrase": "klump and krusha usually have a talk in the kitchen at this time and then they go straight to bed you shouldn't be disturbed and it is kinda late so they might be getting to bed rather soon sure just sneak down the hall to the bathroom be sure to lock the door",
+            "count": 1
+        },
+        {
+            "phrase": "eh who wants to go to bak kut teh tomorrow this place serves the best fu chuk ever we go there early lets meet at 8 45am",
+            "count": 1
+        }
+    ]
+}

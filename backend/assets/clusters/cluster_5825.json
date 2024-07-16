@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:56",
+            "04:05"
+        ],
+        "label": "howbeit"
+    },
+    "clusterList": [
+        {
+            "phrase": "howbeit in vain do they worship me teaching for doctrines the commandments of men",
+            "count": 1
+        },
+        {
+            "phrase": "for laying aside the commandment of god ye hold the tradition of men",
+            "count": 1
+        },
+        {
+            "phrase": "those citizens who say that have never heard my sermons nor do they know me",
+            "count": 1
+        }
+    ]
+}

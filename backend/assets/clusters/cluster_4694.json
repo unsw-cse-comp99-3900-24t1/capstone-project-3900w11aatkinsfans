@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:48",
+            "04:28"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "and i said to my family the only way that we can buy the land is if i come back to baseball and make the money to buy the land to build the church for our town",
+            "count": 2
+        },
+        {
+            "phrase": "in my town we needed to buy land to build a church",
+            "count": 1
+        },
+        {
+            "phrase": "in my town san pedro de macoris in the dominican republic we needed to buy land to build a church",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:38",
+            "04:40"
+        ],
+        "label": "round"
+    },
+    "clusterList": [
+        {
+            "phrase": "round about midnight",
+            "count": 1
+        },
+        {
+            "phrase": "it's 11 o'clock you know",
+            "count": 1
+        },
+        {
+            "phrase": "sharp world clock",
+            "count": 1
+        }
+    ]
+}

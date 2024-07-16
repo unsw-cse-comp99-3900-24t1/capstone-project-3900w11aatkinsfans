@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:27",
+            "01:38",
+            "03:18",
+            "03:54",
+            "03:57",
+            "03:59",
+            "04:13",
+            "04:38",
+            "04:41",
+            "04:49"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's not a bug",
+            "count": 2
+        },
+        {
+            "phrase": "not to my knowledge",
+            "count": 1
+        },
+        {
+            "phrase": "no what i really meant was",
+            "count": 1
+        },
+        {
+            "phrase": "oh yeah thanks",
+            "count": 1
+        },
+        {
+            "phrase": "that's good to know",
+            "count": 1
+        },
+        {
+            "phrase": "i know that",
+            "count": 1
+        },
+        {
+            "phrase": "oh that's interesting",
+            "count": 1
+        },
+        {
+            "phrase": "oh ok that's cool",
+            "count": 1
+        },
+        {
+            "phrase": "wasn't supposed to tell me that",
+            "count": 1
+        },
+        {
+            "phrase": "now i know that's not the case",
+            "count": 1
+        },
+        {
+            "phrase": "oh so that's it huh lol",
+            "count": 1
+        },
+        {
+            "phrase": "oh that's good",
+            "count": 1
+        }
+    ]
+}

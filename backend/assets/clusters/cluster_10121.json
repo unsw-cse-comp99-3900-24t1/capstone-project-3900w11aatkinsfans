@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "04:21"
+        ],
+        "label": "denied"
+    },
+    "clusterList": [
+        {
+            "phrase": "denied access to expensive treatments such as dialysis",
+            "count": 1
+        },
+        {
+            "phrase": "an elderly woman from park rapids minn who suffers from cutaneous t-cell lymphoma was forced to pay over 8 000 in out-of-pocket expenses for mustargen a drug sold by ovation pharmaceuticals whose single-dose price increased from around 50 to nearly 550 after the company acquired the rights to the drug",
+            "count": 1
+        }
+    ]
+}

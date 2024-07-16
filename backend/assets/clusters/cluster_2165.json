@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:57",
+            "01:09",
+            "02:01",
+            "03:18",
+            "03:38",
+            "04:27"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my dinner is done and getting cold i'll read back",
+            "count": 2
+        },
+        {
+            "phrase": "are you going to the dinner tonight",
+            "count": 1
+        },
+        {
+            "phrase": "five minutes we gotta go and get ready for dinner",
+            "count": 1
+        },
+        {
+            "phrase": "looks like it's time for me to go get some dinner no it's tobias dinner which means it's my oh hell i might as well just go",
+            "count": 1
+        },
+        {
+            "phrase": "just finished dinner",
+            "count": 1
+        },
+        {
+            "phrase": "your mother invited me to lunch is it all right if i come back sometime",
+            "count": 1
+        },
+        {
+            "phrase": "that's good reason to come to the dinner",
+            "count": 1
+        }
+    ]
+}

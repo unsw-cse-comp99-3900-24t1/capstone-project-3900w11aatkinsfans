@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:40",
+            "00:48",
+            "00:53",
+            "01:01",
+            "01:10",
+            "01:18",
+            "01:20",
+            "02:14",
+            "02:32",
+            "03:05",
+            "03:34"
+        ],
+        "label": "outrage"
+    },
+    "clusterList": [
+        {
+            "phrase": "outrage the entire philadelphia community",
+            "count": 9
+        },
+        {
+            "phrase": "everybody's outraged by this",
+            "count": 3
+        },
+        {
+            "phrase": "why no outrage",
+            "count": 1
+        }
+    ]
+}

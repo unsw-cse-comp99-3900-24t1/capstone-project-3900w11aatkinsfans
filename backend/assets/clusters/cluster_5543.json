@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:56",
+            "02:56",
+            "03:18"
+        ],
+        "label": "stephanie"
+    },
+    "clusterList": [
+        {
+            "phrase": "stephanie i just have to say it one thing i'm scared about is that i'm going to die tomorrow",
+            "count": 1
+        },
+        {
+            "phrase": "i told you i hope you die today but i didn't mean it i'm sorry",
+            "count": 1
+        },
+        {
+            "phrase": "guess who's dying",
+            "count": 1
+        },
+        {
+            "phrase": "death oh dear",
+            "count": 1
+        }
+    ]
+}

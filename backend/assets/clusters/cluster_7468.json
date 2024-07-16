@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:56",
+            "04:55"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "just keep shooting in the 60s this week and i think we'll go close",
+            "count": 1
+        },
+        {
+            "phrase": "if we get to the 40 and go three-and-out it's all still good",
+            "count": 1
+        },
+        {
+            "phrase": "we'll lose a lot of track position if we take four so we have to take right-sides only during this stop",
+            "count": 1
+        }
+    ]
+}

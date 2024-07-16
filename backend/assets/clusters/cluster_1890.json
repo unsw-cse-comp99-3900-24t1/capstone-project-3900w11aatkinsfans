@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:43",
+            "01:41",
+            "01:50",
+            "01:52",
+            "03:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "standard english straight out of the dictionary",
+            "count": 2
+        },
+        {
+            "phrase": "what did the dictionary say",
+            "count": 2
+        },
+        {
+            "phrase": "well i'm going to have to side with the dictionary on this one",
+            "count": 2
+        },
+        {
+            "phrase": "the art of proper english",
+            "count": 1
+        },
+        {
+            "phrase": "the history of the english language",
+            "count": 1
+        },
+        {
+            "phrase": "a history of the english language",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:02",
+            "00:51",
+            "01:05",
+            "02:20",
+            "02:26",
+            "02:32"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are loved you are cared for you are beautiful never for this",
+            "count": 1
+        },
+        {
+            "phrase": "the world is a beautiful place to be born into",
+            "count": 1
+        },
+        {
+            "phrase": "beautiful to behold",
+            "count": 1
+        },
+        {
+            "phrase": "life is cruel",
+            "count": 1
+        },
+        {
+            "phrase": "there is no greater pleasure in this life than the sight of beautiful",
+            "count": 1
+        },
+        {
+            "phrase": "outstanding contribution to the beauty of the world and to mankind's enjoyment and understanding of life",
+            "count": 1
+        },
+        {
+            "phrase": "most beautiful baby",
+            "count": 1
+        }
+    ]
+}

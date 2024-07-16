@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            6,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:56",
+            "02:00"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people think i grew old overnight",
+            "count": 1
+        },
+        {
+            "phrase": "when i grew up i was brown",
+            "count": 1
+        },
+        {
+            "phrase": "when i'm sick i'm brown",
+            "count": 1
+        },
+        {
+            "phrase": "when i go in the sun i'm brown",
+            "count": 1
+        },
+        {
+            "phrase": "when i'm cold i'm brown",
+            "count": 1
+        },
+        {
+            "phrase": "when you're born you're pink",
+            "count": 1
+        },
+        {
+            "phrase": "when you grow up you're white",
+            "count": 1
+        },
+        {
+            "phrase": "so when i was pregnant we thought blue",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:29"
+        ],
+        "label": "whoever"
+    },
+    "clusterList": [
+        {
+            "phrase": "whoever undertakes to set himself up as a judge of truth and knowledge is shipwrecked by the laughter of the gods",
+            "count": 1
+        },
+        {
+            "phrase": "whoever undertakes to set himself up as a judge in the field of truth and knowledge is shipwrecked by the laughter of the gods",
+            "count": 1
+        }
+    ]
+}

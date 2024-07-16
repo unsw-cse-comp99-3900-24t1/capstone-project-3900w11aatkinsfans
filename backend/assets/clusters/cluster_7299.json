@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:24",
+            "04:13",
+            "04:28"
+        ],
+        "label": "boxers"
+    },
+    "clusterList": [
+        {
+            "phrase": "boxers and boots",
+            "count": 1
+        },
+        {
+            "phrase": "b a shoe box and c men's boots",
+            "count": 1
+        },
+        {
+            "phrase": "wings and breasts",
+            "count": 1
+        }
+    ]
+}

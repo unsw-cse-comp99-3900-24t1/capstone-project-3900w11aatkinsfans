@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:12",
+            "00:27",
+            "00:56",
+            "01:00",
+            "01:56",
+            "02:00",
+            "04:24",
+            "04:44"
+        ],
+        "label": "sprints"
+    },
+    "clusterList": [
+        {
+            "phrase": "sprints to the finish",
+            "count": 4
+        },
+        {
+            "phrase": "on the run",
+            "count": 4
+        },
+        {
+            "phrase": "are on the run",
+            "count": 2
+        },
+        {
+            "phrase": "i'm on the run try me chase me catch me i'm on a riot",
+            "count": 1
+        },
+        {
+            "phrase": "we're getting ready to go running",
+            "count": 1
+        },
+        {
+            "phrase": "you on the run",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:38",
+            "02:28"
+        ],
+        "label": "where"
+    },
+    "clusterList": [
+        {
+            "phrase": "where does the problem lie consuming large amounts of media is actually pretty easy you can see a video from 2007 by 4 hour work week guru",
+            "count": 1
+        },
+        {
+            "phrase": "the longer format programming such as documentaries or our own webcasts seem better suited to provide the most complete or inclusive coverage and accurate information",
+            "count": 1
+        },
+        {
+            "phrase": "we believe we've only scratched the surface in terms of what's possible with online video so stay tuned for other tools and features that will let you do even more with your videos",
+            "count": 1
+        }
+    ]
+}

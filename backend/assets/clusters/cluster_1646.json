@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:27",
+            "00:51",
+            "01:07",
+            "02:47",
+            "03:10",
+            "03:51",
+            "03:59",
+            "04:13",
+            "04:32"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't report numbers",
+            "count": 5
+        },
+        {
+            "phrase": "we really don't know the total amount",
+            "count": 1
+        },
+        {
+            "phrase": "we still haven't calculated the total",
+            "count": 1
+        },
+        {
+            "phrase": "we're not looking for an actual number",
+            "count": 1
+        },
+        {
+            "phrase": "we had 38 last year",
+            "count": 1
+        },
+        {
+            "phrase": "check the math",
+            "count": 1
+        }
+    ]
+}

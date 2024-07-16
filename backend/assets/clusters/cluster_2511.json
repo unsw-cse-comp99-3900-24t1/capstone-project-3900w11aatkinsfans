@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:46",
+            "01:05",
+            "01:29",
+            "04:42",
+            "05:05"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "the duty of a patriot is to protect his country from its government",
+            "count": 3
+        },
+        {
+            "phrase": "he can inspire the country to greatness this tomfoolery needs to stop",
+            "count": 1
+        },
+        {
+            "phrase": "you know he's not patriotic enough",
+            "count": 1
+        },
+        {
+            "phrase": "he's not patriotic enough he's got a funny name",
+            "count": 1
+        },
+        {
+            "phrase": "is that the patriot is proud of his country for what it does and the nationalist is proud of his country no matter what it does the first attitude creates a feeling of responsibility but the second a feeling of blind arrogance that leads to war",
+            "count": 1
+        }
+    ]
+}

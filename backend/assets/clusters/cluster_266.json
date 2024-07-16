@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3,
+            3,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:16",
+            "00:20",
+            "01:01",
+            "01:14",
+            "01:19",
+            "01:25",
+            "01:38",
+            "01:46",
+            "02:00",
+            "02:04",
+            "02:14",
+            "02:20",
+            "02:46",
+            "02:56",
+            "03:02",
+            "03:19",
+            "03:20",
+            "03:29",
+            "03:35",
+            "04:14"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "britney has made clear to everyone that she does not want to be further harassed or contacted in any way by osama sam lutfi now or at anytime in the future",
+            "count": 14
+        },
+        {
+            "phrase": "if mr lutfi makes any future attempt to contact britney after the temporary conservatorship has concluded britney has made clear she will take all appropriate legal action",
+            "count": 5
+        },
+        {
+            "phrase": "britney has made clear to everyone that she does not want to be further harassed or contacted in any way by osama sam lutfi now or at any time in the future",
+            "count": 3
+        },
+        {
+            "phrase": "mr lutfi and mr spears britney's father and conservator jamie spears have mutually agreed in private that no hearing or order is necessary at this time",
+            "count": 3
+        },
+        {
+            "phrase": "mr spears and mr lutfi have reached a private agreement and no hearing or order is required at this time",
+            "count": 3
+        },
+        {
+            "phrase": "britney has made clear to everyone that she does not want to be further harassed or contacted in any way by osama sam lutfi",
+            "count": 3
+        },
+        {
+            "phrase": "if mr lutfi makes any future attempt to contact britney after the temporary conservatorship has concluded",
+            "count": 1
+        },
+        {
+            "phrase": "britney has made clear she will take all appropriate legal action",
+            "count": 1
+        },
+        {
+            "phrase": "during the temporary conservatorship the conservators have the power to insure that lutfi will not harm britney anymore",
+            "count": 1
+        }
+    ]
+}

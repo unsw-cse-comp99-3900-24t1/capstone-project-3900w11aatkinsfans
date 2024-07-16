@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:39",
+            "04:23"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't have an academic background",
+            "count": 1
+        },
+        {
+            "phrase": "there was not one painting",
+            "count": 1
+        },
+        {
+            "phrase": "you did not do any art at school",
+            "count": 1
+        }
+    ]
+}

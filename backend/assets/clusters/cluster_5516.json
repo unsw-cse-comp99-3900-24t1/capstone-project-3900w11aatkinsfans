@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:32",
+            "03:48",
+            "04:29"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can move them a block or two and not 200 miles",
+            "count": 2
+        },
+        {
+            "phrase": "i hope we average 10 miles an hour",
+            "count": 1
+        },
+        {
+            "phrase": "we might as well walk we would get to the minimum safe distance faster",
+            "count": 1
+        }
+    ]
+}

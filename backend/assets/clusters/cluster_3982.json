@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:40",
+            "01:52",
+            "02:00",
+            "04:32"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm expecting to see the same big brown we saw in the kentucky derby and preakness",
+            "count": 2
+        },
+        {
+            "phrase": "this is a tall order for any horse especially if big brown shows up and runs his a race",
+            "count": 1
+        },
+        {
+            "phrase": "if not big brown will get his status back i guess i always said he was a top horse",
+            "count": 1
+        },
+        {
+            "phrase": "this is a tall order for any horse if big brown shows up and runs his a game",
+            "count": 1
+        }
+    ]
+}

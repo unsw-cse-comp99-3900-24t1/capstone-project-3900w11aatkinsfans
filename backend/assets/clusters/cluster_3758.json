@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:11",
+            "03:47",
+            "03:48",
+            "03:50"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's going to be a competitive team and a puck possession team it's going to be a team that has speed i can't wait to see them in september",
+            "count": 2
+        },
+        {
+            "phrase": "they're going to really have fun with this game because they're going to be able to explore the ins and outs and the behind-the-scenes stuff",
+            "count": 2
+        },
+        {
+            "phrase": "i'm sure they're as excited as you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:19",
+            "01:25",
+            "03:46",
+            "03:56",
+            "04:42"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "you feel like you're doing all the hard work",
+            "count": 2
+        },
+        {
+            "phrase": "oh i wish i could and i will but now i just dont have the time",
+            "count": 1
+        },
+        {
+            "phrase": "i don't need to work hard at this or learn it more quickly or take initiative or responsibility i'll get there eventually",
+            "count": 1
+        },
+        {
+            "phrase": "i knew i could do it it was just a matter of time and i just needed to stay patient",
+            "count": 1
+        },
+        {
+            "phrase": "i just really thought there was no way i was going to be able to do it but really this first year has been a lot easier than i thought it was going to be",
+            "count": 1
+        }
+    ]
+}

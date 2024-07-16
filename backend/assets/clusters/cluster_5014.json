@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:51",
+            "01:45"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if they don't win the contest at least make sure the other winger doesn't",
+            "count": 2
+        },
+        {
+            "phrase": "i'd be lying if i said that's not the model any team strives for since they've been the most successful at it in recent years",
+            "count": 1
+        },
+        {
+            "phrase": "now they're legends in the future they may be opponents",
+            "count": 1
+        }
+    ]
+}

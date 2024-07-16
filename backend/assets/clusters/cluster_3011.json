@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:57",
+            "02:13",
+            "03:28",
+            "04:41"
+        ],
+        "label": "unlike"
+    },
+    "clusterList": [
+        {
+            "phrase": "unlike a fast-food restaurant or a quick-service restaurant we don't want to get into the game of happy meals and deep discounts",
+            "count": 1
+        },
+        {
+            "phrase": "if you don't like the prices don't eat there",
+            "count": 1
+        },
+        {
+            "phrase": "this restaurant is too expensive for us therefore it doesn't belong and we won't go",
+            "count": 1
+        },
+        {
+            "phrase": "we're at the cutting edge of the casual dining market in that we make sure our menu doesn't get stale",
+            "count": 1
+        },
+        {
+            "phrase": "enhance the pleasure of shopping for food",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to go into this restaurant because nobody is eating here",
+            "count": 1
+        }
+    ]
+}

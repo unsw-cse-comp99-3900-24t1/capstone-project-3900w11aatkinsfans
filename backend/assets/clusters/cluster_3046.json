@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:38",
+            "03:51",
+            "04:09",
+            "05:04"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll follow the sun",
+            "count": 3
+        },
+        {
+            "phrase": "when you're cold you turn blue",
+            "count": 1
+        },
+        {
+            "phrase": "and when you die you turn purple",
+            "count": 1
+        },
+        {
+            "phrase": "when i woke up this morning it was already light the sun was already up",
+            "count": 1
+        }
+    ]
+}

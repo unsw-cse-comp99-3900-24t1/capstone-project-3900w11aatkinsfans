@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:06",
+            "00:16",
+            "01:11",
+            "01:15",
+            "01:51",
+            "02:01",
+            "02:08",
+            "02:51",
+            "02:56",
+            "03:14",
+            "03:27",
+            "03:29",
+            "04:40"
+        ],
+        "label": "suffering"
+    },
+    "clusterList": [
+        {
+            "phrase": "silence of the lambs",
+            "count": 6
+        },
+        {
+            "phrase": "silence in the library",
+            "count": 3
+        },
+        {
+            "phrase": "silence is so accurate",
+            "count": 3
+        },
+        {
+            "phrase": "silence of the ryan",
+            "count": 2
+        },
+        {
+            "phrase": "stop the silence",
+            "count": 2
+        },
+        {
+            "phrase": "suffering in silence",
+            "count": 1
+        },
+        {
+            "phrase": "wall of silence",
+            "count": 1
+        },
+        {
+            "phrase": "silence of the lambs sotl thn",
+            "count": 1
+        },
+        {
+            "phrase": "the quiet earth",
+            "count": 1
+        },
+        {
+            "phrase": "call of silence",
+            "count": 1
+        }
+    ]
+}

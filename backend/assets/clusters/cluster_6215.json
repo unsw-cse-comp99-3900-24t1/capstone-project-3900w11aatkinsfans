@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:02",
+            "01:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the household guide to dying",
+            "count": 1
+        },
+        {
+            "phrase": "from tragedy a quest for safer care",
+            "count": 1
+        },
+        {
+            "phrase": "handbook for the recently deceased",
+            "count": 1
+        }
+    ]
+}

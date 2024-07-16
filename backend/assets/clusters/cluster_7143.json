@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:42",
+            "04:13",
+            "04:28"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "has carried the day in the court of history",
+            "count": 1
+        },
+        {
+            "phrase": "rise to the occasion",
+            "count": 1
+        },
+        {
+            "phrase": "taking it not as a historic thing but something that is still in movement",
+            "count": 1
+        }
+    ]
+}

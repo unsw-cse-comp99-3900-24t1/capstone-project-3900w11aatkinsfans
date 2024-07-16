@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:27",
+            "03:57",
+            "04:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i want to take you higher baby baby baby light my fire",
+            "count": 1
+        },
+        {
+            "phrase": "c'mon baby light my fire",
+            "count": 1
+        },
+        {
+            "phrase": "fire walk with me",
+            "count": 1
+        }
+    ]
+}

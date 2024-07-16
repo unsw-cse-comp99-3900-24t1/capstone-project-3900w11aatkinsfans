@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:29",
+            "04:55"
+        ],
+        "label": "brown"
+    },
+    "clusterList": [
+        {
+            "phrase": "brown told them both to leave and they did",
+            "count": 1
+        },
+        {
+            "phrase": "they were ambiguous",
+            "count": 1
+        }
+    ]
+}

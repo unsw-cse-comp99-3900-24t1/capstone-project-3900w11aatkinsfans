@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "03:03",
+            "03:14"
+        ],
+        "label": "let's"
+    },
+    "clusterList": [
+        {
+            "phrase": "let's not shit ourselves to love and to be loved",
+            "count": 1
+        },
+        {
+            "phrase": "we should please ourselves it's all about you you are 1",
+            "count": 1
+        },
+        {
+            "phrase": "i am a selfish bastard",
+            "count": 1
+        }
+    ]
+}

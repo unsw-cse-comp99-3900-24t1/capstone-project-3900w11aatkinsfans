@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:48"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is very good news for the cumberland trail state park",
+            "count": 1
+        },
+        {
+            "phrase": "we noticed that trail has stopped being used and its natural state has pretty much come back",
+            "count": 1
+        }
+    ]
+}

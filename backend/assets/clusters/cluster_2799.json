@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "01:06",
+            "01:10",
+            "01:32",
+            "02:32",
+            "04:45"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "this has been going on for some time we have to do what's right",
+            "count": 2
+        },
+        {
+            "phrase": "we've gotten to this position in our own right",
+            "count": 1
+        },
+        {
+            "phrase": "we've been doing this for quite some time and there is just no way we are going to stop now",
+            "count": 1
+        },
+        {
+            "phrase": "obviously we're not doing something right",
+            "count": 1
+        },
+        {
+            "phrase": "well we damn well have to do something",
+            "count": 1
+        },
+        {
+            "phrase": "we've really been trying to do the right thing",
+            "count": 1
+        }
+    ]
+}

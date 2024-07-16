@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "04:15"
+        ],
+        "label": "down"
+    },
+    "clusterList": [
+        {
+            "phrase": "down for maintainance",
+            "count": 1
+        },
+        {
+            "phrase": "down for maintenance",
+            "count": 1
+        }
+    ]
+}

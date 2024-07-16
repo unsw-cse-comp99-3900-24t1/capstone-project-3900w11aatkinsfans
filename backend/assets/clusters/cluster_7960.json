@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:18",
+            "03:43"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a better reason",
+            "count": 1
+        },
+        {
+            "phrase": "why not n",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:18",
+            "00:58",
+            "01:38",
+            "02:19",
+            "03:00",
+            "03:09",
+            "03:41",
+            "04:19",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i like japan but i have to come back here regularly maybe just to get some of the air",
+            "count": 8
+        },
+        {
+            "phrase": "soo da ne i like japan but i have to come back here regularly maybe just to get some of the air",
+            "count": 8
+        },
+        {
+            "phrase": "i've never really wanted to go to japan simply because i don't like eating fish and i know that's very popular out there in africa",
+            "count": 1
+        }
+    ]
+}

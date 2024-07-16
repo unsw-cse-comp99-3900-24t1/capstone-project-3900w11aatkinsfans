@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "04:45"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not ashamed of being a bubbly funny person i think that's as valid as being the dark brooding tortured oscar-nominated one",
+            "count": 1
+        },
+        {
+            "phrase": "a comedian at the oscars is the saddest bitterest alcoholic clown",
+            "count": 1
+        }
+    ]
+}

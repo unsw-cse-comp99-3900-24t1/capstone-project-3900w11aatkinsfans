@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:53",
+            "01:22",
+            "03:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the widespread recognition of the bbfc's classification categories in the uk and their statutory backing offer significant advantages which the pegi system lacks",
+            "count": 3
+        },
+        {
+            "phrase": "the widespread recognition of the bbfc's classification categories in the u k and their statutory backing offer significant advantages which the pegi system lacks",
+            "count": 1
+        }
+    ]
+}

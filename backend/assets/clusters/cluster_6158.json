@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "04:33",
+            "04:41"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey look something shiny",
+            "count": 1
+        },
+        {
+            "phrase": "go ahead and wish for something terribly shiny",
+            "count": 1
+        },
+        {
+            "phrase": "here we go again witht he shiny things",
+            "count": 1
+        }
+    ]
+}

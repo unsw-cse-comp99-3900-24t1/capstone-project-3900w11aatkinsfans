@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:37"
+        ],
+        "label": "jesus"
+    },
+    "clusterList": [
+        {
+            "phrase": "jesus loves you but then again so does barney",
+            "count": 1
+        },
+        {
+            "phrase": "yes christopher god will even raise you from the dung of a polar bear",
+            "count": 1
+        }
+    ]
+}

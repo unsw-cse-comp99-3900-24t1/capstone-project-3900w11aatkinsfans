@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:16",
+            "03:34"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're not man enough to shoot",
+            "count": 1
+        },
+        {
+            "phrase": "oh really shoot",
+            "count": 1
+        }
+    ]
+}

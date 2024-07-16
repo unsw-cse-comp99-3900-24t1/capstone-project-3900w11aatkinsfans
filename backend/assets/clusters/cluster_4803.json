@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:15",
+            "03:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the second coming",
+            "count": 2
+        },
+        {
+            "phrase": "man come of age",
+            "count": 1
+        },
+        {
+            "phrase": "come of age",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            2,
+            2
+        ],
+        "xLabels": [
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the words national interest preface electric transmission corridor in nietc but the use is specious",
+            "count": 4
+        },
+        {
+            "phrase": "rather it is a special interest electric transmission corridor the result of special interests seeking to reshape the electricity regulatory structure to enrich their bottom lines",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:47",
+            "03:21",
+            "03:47"
+        ],
+        "label": "mentally"
+    },
+    "clusterList": [
+        {
+            "phrase": "mentally and physically i'm in the best shape of my life",
+            "count": 1
+        },
+        {
+            "phrase": "just knowing those guys came to congratulate me made me feel good about myself",
+            "count": 1
+        },
+        {
+            "phrase": "do i feel good about where i am right now yes do i feel i have a long-term solution no but it's something i'm watching every day",
+            "count": 1
+        },
+        {
+            "phrase": "i feel good because the world is right",
+            "count": 1
+        }
+    ]
+}

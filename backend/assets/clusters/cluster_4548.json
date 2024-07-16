@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:22",
+            "03:48"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "let us move on and be accountable for our lives",
+            "count": 3
+        },
+        {
+            "phrase": "we will do our best to get back on track we realize that we have a responsibility to the community",
+            "count": 1
+        }
+    ]
+}

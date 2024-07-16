@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:46",
+            "00:48",
+            "01:20",
+            "03:18"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with regret and unfortunately i have to say that i am the main book-seller in afghanistan there will be a crisis of books if something happens to us or if we collapse so it is very important that we have others involved in this too",
+            "count": 6
+        },
+        {
+            "phrase": "the bookseller of kabul",
+            "count": 2
+        }
+    ]
+}

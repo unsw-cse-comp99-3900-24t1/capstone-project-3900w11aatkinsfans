@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:06",
+            "02:01",
+            "02:51",
+            "02:55",
+            "03:32",
+            "03:34",
+            "04:27"
+        ],
+        "label": "over"
+    },
+    "clusterList": [
+        {
+            "phrase": "over 4000 colors",
+            "count": 1
+        },
+        {
+            "phrase": "no thanks they are a little too",
+            "count": 1
+        },
+        {
+            "phrase": "no black let's try pink",
+            "count": 1
+        },
+        {
+            "phrase": "hold your colors",
+            "count": 1
+        },
+        {
+            "phrase": "do you have any grey poupon",
+            "count": 1
+        },
+        {
+            "phrase": "coat of many colors",
+            "count": 1
+        },
+        {
+            "phrase": "my colors are blush and bashful",
+            "count": 1
+        },
+        {
+            "phrase": "ummmmm ok so ummm which color should i put you down for",
+            "count": 1
+        },
+        {
+            "phrase": "just about anything you need what color is your car",
+            "count": 1
+        },
+        {
+            "phrase": "oh i don't have a car what color do you think i should buy",
+            "count": 1
+        }
+    ]
+}

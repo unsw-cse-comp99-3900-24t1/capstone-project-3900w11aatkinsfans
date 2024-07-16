@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:27",
+            "00:51",
+            "01:49",
+            "02:28",
+            "03:38"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they say it's fair and open but secrecy affects every part of these proceedings",
+            "count": 4
+        },
+        {
+            "phrase": "it was my contention after reading the results of the investigation that the meeting that occurred on november 8th was a meeting attended by a quorum of the commission",
+            "count": 1
+        },
+        {
+            "phrase": "in order for the parties to present expert testimony and to allow the court to make credibility determinations with respect to fact witnesses",
+            "count": 1
+        }
+    ]
+}

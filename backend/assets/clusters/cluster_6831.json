@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:51",
+            "01:52"
+        ],
+        "label": "world"
+    },
+    "clusterList": [
+        {
+            "phrase": "world championship boxing",
+            "count": 1
+        },
+        {
+            "phrase": "contemporary boxing has been described as a subterranean world",
+            "count": 1
+        },
+        {
+            "phrase": "what's wrong with boxing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "00:51",
+            "02:05",
+            "02:42",
+            "02:46"
+        ],
+        "label": "signalled"
+    },
+    "clusterList": [
+        {
+            "phrase": "i stand in solidarity with the jerusalem declaration and statement on the global anglican future",
+            "count": 3
+        },
+        {
+            "phrase": "signalled a move of most of the world's practising anglicans into a post-colonial reality",
+            "count": 2
+        },
+        {
+            "phrase": "i would also dispute the idea that protestants agree on all the essential doctrines pp 6 he meant that they disagree on those things which they consider to be essential",
+            "count": 1
+        }
+    ]
+}

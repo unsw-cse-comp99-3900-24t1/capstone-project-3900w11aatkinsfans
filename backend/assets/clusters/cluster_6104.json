@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:19",
+            "02:51"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that man was louis b mayer",
+            "count": 1
+        },
+        {
+            "phrase": "one jack rubenstein of chicago",
+            "count": 1
+        },
+        {
+            "phrase": "it sounded like a black man",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:41",
+            "02:20"
+        ],
+        "label": "mankind"
+    },
+    "clusterList": [
+        {
+            "phrase": "mankind hasn't invented the sandwich that i couldn't finish",
+            "count": 3
+        }
+    ]
+}

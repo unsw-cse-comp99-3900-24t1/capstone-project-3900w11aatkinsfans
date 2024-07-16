@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:26",
+            "04:11",
+            "04:28",
+            "04:29",
+            "04:36"
+        ],
+        "label": "beat"
+    },
+    "clusterList": [
+        {
+            "phrase": "how do you beat that",
+            "count": 2
+        },
+        {
+            "phrase": "beat me down",
+            "count": 1
+        },
+        {
+            "phrase": "how do we beat the b tch",
+            "count": 1
+        },
+        {
+            "phrase": "i got a trick to beat it",
+            "count": 1
+        },
+        {
+            "phrase": "without even trying",
+            "count": 1
+        }
+    ]
+}

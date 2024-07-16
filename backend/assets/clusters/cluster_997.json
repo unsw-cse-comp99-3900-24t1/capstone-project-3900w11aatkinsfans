@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "00:32",
+            "00:41",
+            "00:51",
+            "01:37",
+            "02:11",
+            "03:06",
+            "03:11",
+            "03:12",
+            "04:13",
+            "04:15",
+            "04:37",
+            "04:40"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not something that happens regularly on a bus",
+            "count": 10
+        },
+        {
+            "phrase": "due to the rural nature of our network airport-type security is not practical for bus travel it's just a completely different system",
+            "count": 1
+        },
+        {
+            "phrase": "if someone's crossing the street and not looking it's safer for the pedestrian",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of people reacted to the potential danger they thought we'd face being behind bars but i actually feel more comfortable behind bars than i do walking down the street i don't feel the least bit nervous or concerned about my safety",
+            "count": 1
+        },
+        {
+            "phrase": "personally i don't feel safe with greyhound i mean it's the cheapest way to travel yes but it's not safe",
+            "count": 1
+        },
+        {
+            "phrase": "we know riding our buses is more than a choice for many local families the transportation savings is making the difference in helping them pay the bills",
+            "count": 1
+        }
+    ]
+}

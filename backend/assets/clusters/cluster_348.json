@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            10,
+            9,
+            9,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:43"
+        ],
+        "label": "bleep"
+    },
+    "clusterList": [
+        {
+            "phrase": "no no he did not he uh he called you a bleepsucker right right cornelius",
+            "count": 6
+        },
+        {
+            "phrase": "yeah yeah i just called you a bleepsucker",
+            "count": 6
+        },
+        {
+            "phrase": "yes he just said you suck bleep",
+            "count": 6
+        },
+        {
+            "phrase": "suck my bleep",
+            "count": 4
+        },
+        {
+            "phrase": "bleep you bob we talked this out",
+            "count": 3
+        },
+        {
+            "phrase": "yes i said i cannot say no to you we are gonna get some bleep aren't we it's gonna be fun",
+            "count": 3
+        },
+        {
+            "phrase": "then he says let me tell you what i'm hearing",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:00"
+        ],
+        "label": "incubation"
+    },
+    "clusterList": [
+        {
+            "phrase": "incubation a space for monsters",
+            "count": 1
+        },
+        {
+            "phrase": "we don't have an incubator but we think they will do ok",
+            "count": 1
+        }
+    ]
+}

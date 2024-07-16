@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:23",
+            "03:47",
+            "04:28",
+            "04:44",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fire broke in one of the sleeper coaches of the secunderabad-kakinada gautami express near mehboobabad early this morning",
+            "count": 2
+        },
+        {
+            "phrase": "the fire broke out in s-9 coach and soon spread to four other coaches",
+            "count": 2
+        },
+        {
+            "phrase": "the rescue teams from secunderabad kazipet and vijaywada were immediately rushed to the spot and burning coaches were detached from the train",
+            "count": 2
+        },
+        {
+            "phrase": "the fire broke in one of the sleeper coaches of the secunderabad-kakinada gautami express near mehboobnagar early this morning and soon spread to other coaches",
+            "count": 1
+        },
+        {
+            "phrase": "the fire broke in one of the sleeper coaches of the sikandrabad-kakinada gautami express near mehboobabad early in morning",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:09",
+            "03:18",
+            "04:05"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's dead son that's why it won't move",
+            "count": 1
+        },
+        {
+            "phrase": "move the camera move it move it move it",
+            "count": 1
+        },
+        {
+            "phrase": "if it moved i gave it a tape if it didn't move i'd kick it then if it moved i gave it a tape",
+            "count": 1
+        },
+        {
+            "phrase": "if it moves give it a tape",
+            "count": 1
+        }
+    ]
+}

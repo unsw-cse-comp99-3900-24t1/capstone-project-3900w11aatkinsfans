@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "03:46",
+            "04:06",
+            "04:18",
+            "04:26",
+            "04:33",
+            "05:03"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "maintain public hygiene and the cultured image of cities",
+            "count": 3
+        },
+        {
+            "phrase": "now we walk the same streets that were covered in sewage and rubble and utter destruction and they are vibrant and full of people",
+            "count": 2
+        },
+        {
+            "phrase": "are you suggesting that we wipe or clean up the city huh",
+            "count": 1
+        },
+        {
+            "phrase": "all this to try and stop you from dumping the waste carelessly and thus dirtying the city",
+            "count": 1
+        }
+    ]
+}

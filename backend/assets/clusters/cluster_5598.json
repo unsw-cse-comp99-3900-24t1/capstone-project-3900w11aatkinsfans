@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:01",
+            "04:32"
+        ],
+        "label": "er"
+    },
+    "clusterList": [
+        {
+            "phrase": "er here and there",
+            "count": 1
+        },
+        {
+            "phrase": "on my screen i am right with you",
+            "count": 1
+        },
+        {
+            "phrase": "but this one's right here let me just see",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i feel like that's where i'm at",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:42"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "information is the currency of democracy",
+            "count": 2
+        },
+        {
+            "phrase": "you can google your problem and end up with all kinds of resources but it is going to be mixed in with useless information and people trying to charge you stuff",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "03:41"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i called the medics ol pal someone will come right away",
+            "count": 1
+        },
+        {
+            "phrase": "oh shoot not again medic",
+            "count": 1
+        }
+    ]
+}

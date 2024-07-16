@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "02:01",
+            "03:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the secret goldfish",
+            "count": 1
+        },
+        {
+            "phrase": "the secret sauce",
+            "count": 1
+        },
+        {
+            "phrase": "lost in the sauce",
+            "count": 1
+        }
+    ]
+}

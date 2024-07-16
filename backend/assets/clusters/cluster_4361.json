@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:01",
+            "02:51",
+            "03:43"
+        ],
+        "label": "success"
+    },
+    "clusterList": [
+        {
+            "phrase": "success requires a persistent misreading of the odds",
+            "count": 1
+        },
+        {
+            "phrase": "those who take big risk in failing take big risk in succeeding",
+            "count": 1
+        },
+        {
+            "phrase": "the odds of winning are very good",
+            "count": 1
+        },
+        {
+            "phrase": "if you were at the race track and the handicappers told you the odds of a certain horse were 100 to 1 you'd figure his chances of winning were pretty slim",
+            "count": 1
+        }
+    ]
+}

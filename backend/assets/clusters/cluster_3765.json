@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:51",
+            "01:19",
+            "04:18",
+            "04:52"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "once a cheater always a cheater",
+            "count": 2
+        },
+        {
+            "phrase": "all men cheat",
+            "count": 1
+        },
+        {
+            "phrase": "cheaters never prosper",
+            "count": 1
+        },
+        {
+            "phrase": "when i think about cheating",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:46",
+            "00:48",
+            "01:10",
+            "01:32",
+            "01:50",
+            "03:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the politics of fear it shows obama in muslim attire his wife toting an assault rifle a picture of osama bin laden on the wall and a flag burning in the fireplace all in the oval office",
+            "count": 4
+        },
+        {
+            "phrase": "obama continued and so the only way they figure they're going to win this election is if they make you scared of me",
+            "count": 2
+        },
+        {
+            "phrase": "obama's campaign began carefully opening up its files of voters to online supporters making it easier to find out which democratic-leaning neighbors to call and which registered-independent doors to knock on",
+            "count": 1
+        },
+        {
+            "phrase": "you know it's an election year when certain people start grabbing headlines by attacking the faith of presidential candidates with all these stones being cast at barack obama it can be hard to know what to believe",
+            "count": 1
+        }
+    ]
+}

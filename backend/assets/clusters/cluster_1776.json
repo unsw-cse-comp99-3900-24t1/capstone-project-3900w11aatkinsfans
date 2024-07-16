@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:00",
+            "01:12",
+            "01:13",
+            "01:20",
+            "01:43",
+            "02:02",
+            "02:09",
+            "03:28",
+            "04:33"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "now if you wanna go outside right now i'll take both of you out right damn now",
+            "count": 3
+        },
+        {
+            "phrase": "i'll be with all of my friends and i'm looking forward to enjoying the weekend",
+            "count": 2
+        },
+        {
+            "phrase": "let's go out and have some fun",
+            "count": 2
+        },
+        {
+            "phrase": "have fun last night",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just dating lots and having fun right now",
+            "count": 1
+        },
+        {
+            "phrase": "hey who wants to get drunk",
+            "count": 1
+        }
+    ]
+}

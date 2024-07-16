@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:38",
+            "02:42",
+            "02:56",
+            "04:04",
+            "05:00"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want to build a cricket oval that maintains the green space and feel of hagley oval as a boutique cricket ground it will be a cricket oval not an entertainment venue with ami stadium continuing to host international one-day and twenty20 internationals",
+            "count": 2
+        },
+        {
+            "phrase": "we would like to know whether they think it can be in one multi-purpose stadium other smaller buildings or a showcourt built onto horsham stadium",
+            "count": 1
+        },
+        {
+            "phrase": "warrnambool hamilton and bairnsdale have all built new stadiums recently",
+            "count": 1
+        },
+        {
+            "phrase": "its long cricket history picturesque setting and central location set it apart as a test venue",
+            "count": 1
+        },
+        {
+            "phrase": "build a new stadium downtown",
+            "count": 1
+        },
+        {
+            "phrase": "if we maintain our present policy with stadia we would have a very crowded mcg and telstra dome so one option obviously is to have a look at a boutique stadium that would hold 26 to 28 games",
+            "count": 1
+        }
+    ]
+}

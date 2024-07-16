@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "03:02",
+            "03:42",
+            "04:00",
+            "05:00"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh wow well that's a lot of steak",
+            "count": 1
+        },
+        {
+            "phrase": "how do you want your steak cooked",
+            "count": 1
+        },
+        {
+            "phrase": "steaks are warm",
+            "count": 1
+        },
+        {
+            "phrase": "why fool around with hamburger when you have steak at home",
+            "count": 1
+        },
+        {
+            "phrase": "casual dining steak restaurants with an atmosphere suggestive of the rustic australian outback",
+            "count": 1
+        }
+    ]
+}

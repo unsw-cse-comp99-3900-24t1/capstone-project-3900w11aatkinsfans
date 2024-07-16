@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "04:17",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the full monty",
+            "count": 5
+        },
+        {
+            "phrase": "steve the pirate",
+            "count": 1
+        },
+        {
+            "phrase": "monty python's flying circus",
+            "count": 1
+        }
+    ]
+}

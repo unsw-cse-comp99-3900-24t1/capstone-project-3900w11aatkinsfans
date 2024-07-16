@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "00:36"
+        ],
+        "label": "loves"
+    },
+    "clusterList": [
+        {
+            "phrase": "loves such an old fashioned word",
+            "count": 1
+        },
+        {
+            "phrase": "old fashioned just like me i can get you something more modern something from tiffany's",
+            "count": 1
+        },
+        {
+            "phrase": "i like old fashioned things",
+            "count": 1
+        }
+    ]
+}

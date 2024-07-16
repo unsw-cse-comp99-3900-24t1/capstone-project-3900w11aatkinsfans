@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:55",
+            "04:05",
+            "04:08",
+            "04:29",
+            "04:36"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what happens when you put restrictions on things",
+            "count": 2
+        },
+        {
+            "phrase": "everything is permissible",
+            "count": 2
+        },
+        {
+            "phrase": "i hope that there will be no restrictions that's our view we've been getting mixed messages on this",
+            "count": 2
+        },
+        {
+            "phrase": "suffers no restrictions admits no limitations and allows no exceptions",
+            "count": 1
+        },
+        {
+            "phrase": "we have all these self-imposed restrictions",
+            "count": 1
+        }
+    ]
+}

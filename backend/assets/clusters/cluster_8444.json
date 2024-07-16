@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "02:32"
+        ],
+        "label": "membership"
+    },
+    "clusterList": [
+        {
+            "phrase": "membership in an armed terrorist group",
+            "count": 1
+        },
+        {
+            "phrase": "civilian national security force that's just as powerful just as strong just as well-funded",
+            "count": 1
+        }
+    ]
+}

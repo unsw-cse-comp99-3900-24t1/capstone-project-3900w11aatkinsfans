@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            4,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "01:09",
+            "01:30",
+            "03:51",
+            "03:56"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you do follow those rules there's going to be some similarities",
+            "count": 5
+        },
+        {
+            "phrase": "even though they have tweaked a number of rules for the game there is still a substantial amount of details that are similar",
+            "count": 3
+        },
+        {
+            "phrase": "here they have changed some of the rules but the overall premise is pretty much the same",
+            "count": 3
+        }
+    ]
+}

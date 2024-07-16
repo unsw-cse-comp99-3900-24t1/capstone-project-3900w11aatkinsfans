@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:44",
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:29",
+            "03:58",
+            "04:07",
+            "04:24"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "just day to day life of trying to keep my family together is a nightmare",
+            "count": 4
+        },
+        {
+            "phrase": "my parents couldn't afford to look after me",
+            "count": 1
+        },
+        {
+            "phrase": "at 78 almost 79 years old and losing everything you've got it is rough because it really cuts into your savings that you worked for all your life",
+            "count": 1
+        },
+        {
+            "phrase": "the family was getting poor it was hard for me but i didn't see any future for my family i had to escape",
+            "count": 1
+        },
+        {
+            "phrase": "it's like a death in the family i went through steps in grieving at some point depressed sometime angry that it didn't work out",
+            "count": 1
+        }
+    ]
+}

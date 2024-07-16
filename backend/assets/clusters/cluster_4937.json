@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:46",
+            "03:00",
+            "04:13"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe your right",
+            "count": 1
+        },
+        {
+            "phrase": "okay all the more reason to be precise",
+            "count": 1
+        },
+        {
+            "phrase": "yeah maybe you're right",
+            "count": 1
+        },
+        {
+            "phrase": "i think that is definitely the case",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:10",
+            "00:14",
+            "01:32",
+            "03:01"
+        ],
+        "label": "proof"
+    },
+    "clusterList": [
+        {
+            "phrase": "proof of concept",
+            "count": 6
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:15",
+            "04:16"
+        ],
+        "label": "during"
+    },
+    "clusterList": [
+        {
+            "phrase": "during my years",
+            "count": 1
+        },
+        {
+            "phrase": "during my administration",
+            "count": 1
+        },
+        {
+            "phrase": "when i'm sixty-four",
+            "count": 1
+        }
+    ]
+}

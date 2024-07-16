@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:29",
+            "00:42",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:40",
+            "02:41",
+            "03:11",
+            "04:13",
+            "04:18",
+            "04:24",
+            "04:33",
+            "04:45",
+            "04:51"
+        ],
+        "label": "were"
+    },
+    "clusterList": [
+        {
+            "phrase": "i really liked them boots they were nice",
+            "count": 6
+        },
+        {
+            "phrase": "they were very fruitful",
+            "count": 2
+        },
+        {
+            "phrase": "were good but not exceptional like bp's",
+            "count": 1
+        },
+        {
+            "phrase": "they were like are you serious",
+            "count": 1
+        },
+        {
+            "phrase": "were they stupid back then",
+            "count": 1
+        },
+        {
+            "phrase": "i did well but they had other guys who were better",
+            "count": 1
+        },
+        {
+            "phrase": "thought they were nice",
+            "count": 1
+        },
+        {
+            "phrase": "i knew they were good i just didn't know how good they were",
+            "count": 1
+        },
+        {
+            "phrase": "they sucked but we couldn't stop the cherry picks",
+            "count": 1
+        },
+        {
+            "phrase": "they really were that big",
+            "count": 1
+        },
+        {
+            "phrase": "they were so good",
+            "count": 1
+        },
+        {
+            "phrase": "they were my inspiration",
+            "count": 1
+        }
+    ]
+}

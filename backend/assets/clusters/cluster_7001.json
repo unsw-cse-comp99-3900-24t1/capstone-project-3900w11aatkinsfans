@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:51",
+            "02:24"
+        ],
+        "label": "his"
+    },
+    "clusterList": [
+        {
+            "phrase": "his counsel is invaluable",
+            "count": 1
+        },
+        {
+            "phrase": "as a trial lawyer he was fearless but always fair and his adversaries left the courtroom even after a tenacious battle respecting him i'm going to miss him more than i can imagine",
+            "count": 1
+        },
+        {
+            "phrase": "he had such a positive outlook all the time which is not always the case with attorneys",
+            "count": 1
+        }
+    ]
+}

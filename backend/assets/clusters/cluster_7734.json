@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "02:52",
+            "03:43"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i came that they may have life",
+            "count": 1
+        },
+        {
+            "phrase": "they lived a good life",
+            "count": 1
+        },
+        {
+            "phrase": "to this point in their lives they have done everything right",
+            "count": 1
+        }
+    ]
+}

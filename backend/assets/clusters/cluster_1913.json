@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:40",
+            "01:58",
+            "02:26",
+            "03:27",
+            "03:37",
+            "03:48",
+            "04:21"
+        ],
+        "label": "be"
+    },
+    "clusterList": [
+        {
+            "phrase": "be the change you want to see in the world",
+            "count": 2
+        },
+        {
+            "phrase": "i want you to look at this i want you to look at the world this way",
+            "count": 2
+        },
+        {
+            "phrase": "we are the change that we are seeking",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest obstacle to transforming the world is that we lack the clarity and imagination to conceive that it could be different",
+            "count": 1
+        },
+        {
+            "phrase": "stimulate the desire for change",
+            "count": 1
+        },
+        {
+            "phrase": "behold what you are become what you see",
+            "count": 1
+        },
+        {
+            "phrase": "what would you like to acknowledge or change",
+            "count": 1
+        }
+    ]
+}

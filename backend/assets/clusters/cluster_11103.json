@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "04:13"
+        ],
+        "label": "colonies"
+    },
+    "clusterList": [
+        {
+            "phrase": "colonies and territories which as a consequence of the late war have ceased to be under the sovereignty of the states which formerly governed them",
+            "count": 1
+        },
+        {
+            "phrase": "it is nonsensical to consider the institution of a state as a solution to the problem of possible conflict because it is precisely the institution of a state which first makes conflict unavoidable and permanent",
+            "count": 1
+        }
+    ]
+}

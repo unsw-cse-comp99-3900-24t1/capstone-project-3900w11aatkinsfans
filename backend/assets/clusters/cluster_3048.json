@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:37",
+            "02:15",
+            "02:56",
+            "03:37",
+            "04:18"
+        ],
+        "label": "reallocation"
+    },
+    "clusterList": [
+        {
+            "phrase": "reallocation of securities",
+            "count": 6
+        }
+    ]
+}

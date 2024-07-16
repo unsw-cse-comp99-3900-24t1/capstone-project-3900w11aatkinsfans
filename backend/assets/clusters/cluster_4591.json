@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:47",
+            "03:10",
+            "03:51"
+        ],
+        "label": "mccain"
+    },
+    "clusterList": [
+        {
+            "phrase": "despite his best efforts to court people of faith voters understand the difference between lip service and public service and john mccain's record is much more in line with the values of the evangelical community",
+            "count": 3
+        },
+        {
+            "phrase": "mccain was quoted as saying o k i'll give you military information if you will take me to the hospital four days after his capture and later signed a confession declaring himself a war criminal and although mccain refused an early release the word is that he was ordered to do so by his u s pow commander but based on the facts he's not a war hero and it speaks poorly of him to let his handlers promote him to the public in that way",
+            "count": 1
+        }
+    ]
+}

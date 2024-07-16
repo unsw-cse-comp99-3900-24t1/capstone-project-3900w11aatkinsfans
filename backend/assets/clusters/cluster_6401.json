@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:05"
+        ],
+        "label": "los"
+    },
+    "clusterList": [
+        {
+            "phrase": "los angeles reuters comedian jerry lewis was detained by police in las vegas late last week when airport screeners found an unloaded gun in his baggage authorities said on tuesday",
+            "count": 1
+        },
+        {
+            "phrase": "lewis 82 had a small 22-caliber handgun when he arrived at the security screening area on friday at las vegas mccarran international airport said officer ramon denby a spokesman for the las vegas metropolitan police department",
+            "count": 1
+        },
+        {
+            "phrase": "the comedian was briefly detained and the gun was seized lewis was cited for carrying a concealed weapon without a permit denby said",
+            "count": 1
+        }
+    ]
+}

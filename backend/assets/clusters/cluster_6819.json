@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:24",
+            "04:42"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not the starter",
+            "count": 2
+        },
+        {
+            "phrase": "i'm really not looking at it like ooh i'm a starter",
+            "count": 1
+        }
+    ]
+}

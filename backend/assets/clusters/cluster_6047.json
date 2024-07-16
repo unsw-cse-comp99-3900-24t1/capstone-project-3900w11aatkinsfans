@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:17",
+            "01:50",
+            "02:20"
+        ],
+        "label": "disturbing"
+    },
+    "clusterList": [
+        {
+            "phrase": "disturbing news about the national economy",
+            "count": 1
+        },
+        {
+            "phrase": "the us economy is not at a very good stage whereas brazil is very hot now endeavor helped me see this",
+            "count": 1
+        },
+        {
+            "phrase": "how much money does an economy need solving the central economic puzzle of money prices and jobs",
+            "count": 1
+        }
+    ]
+}

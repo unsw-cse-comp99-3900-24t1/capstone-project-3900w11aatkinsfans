@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:18",
+            "01:34",
+            "03:18",
+            "04:28"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey what did you think of this commercial",
+            "count": 1
+        },
+        {
+            "phrase": "about this ad",
+            "count": 1
+        },
+        {
+            "phrase": "i love this ad",
+            "count": 1
+        },
+        {
+            "phrase": "ooh i love the advertisements",
+            "count": 1
+        },
+        {
+            "phrase": "i like all the ads my husband puts out i'll leave it at that",
+            "count": 1
+        }
+    ]
+}

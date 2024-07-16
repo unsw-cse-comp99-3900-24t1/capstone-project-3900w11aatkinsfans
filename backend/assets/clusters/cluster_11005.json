@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:52",
+            "04:18"
+        ],
+        "label": "zimbabweans"
+    },
+    "clusterList": [
+        {
+            "phrase": "zimbabweans want a new set of leadership even if it is transitional i don't think they now need a name called mugabe",
+            "count": 1
+        },
+        {
+            "phrase": "mugabe is not going to be the ceremonial queen of zimbabwe",
+            "count": 1
+        }
+    ]
+}

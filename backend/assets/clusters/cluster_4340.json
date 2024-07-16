@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:01",
+            "03:24",
+            "04:05",
+            "04:22"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "getting healthy and getting back strong i'm going to have this nice neck brace on for the next three months if you want one i can get one for you they are pretty stylish i have to make sure everything heals properly and then i'll start the rehab",
+            "count": 2
+        },
+        {
+            "phrase": "it's not a major injury but it's something i will have to manage",
+            "count": 1
+        },
+        {
+            "phrase": "to basketball 5 nights a week 4 different leagues six serious injuries and i'll add this surgery so now we're at seven",
+            "count": 1
+        },
+        {
+            "phrase": "now your right hip has a small tear buuuuuut you have extensive cartilage damage now i can fix the tear but the cartilage damage will take some drilling into your bone to allow bone marrow to seep into the hip to promote cartilage growth but that doesn't always work",
+            "count": 1
+        }
+    ]
+}

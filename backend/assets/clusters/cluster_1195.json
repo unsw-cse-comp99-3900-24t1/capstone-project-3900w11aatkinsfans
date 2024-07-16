@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            4,
+            4,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:48"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he picks up the gun and points it at his head i'll see you bleepers in hell",
+            "count": 6
+        },
+        {
+            "phrase": "oh he shoots himself",
+            "count": 6
+        },
+        {
+            "phrase": "shoots like no other",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "04:52"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are scrambled eggs",
+            "count": 1
+        },
+        {
+            "phrase": "those aren't my dilly beans are they",
+            "count": 1
+        }
+    ]
+}

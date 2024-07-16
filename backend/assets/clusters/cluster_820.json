@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:23",
+            "01:06",
+            "01:10",
+            "01:33",
+            "01:43",
+            "01:51",
+            "02:09",
+            "02:14",
+            "04:04",
+            "04:18",
+            "04:41"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for too many years libya has refused to accept responsibility for its horrific acts of terrorism against american victims but after the pressure we applied libya can finally be held accountable for these devastating events",
+            "count": 5
+        },
+        {
+            "phrase": "for too many years libya has refused to accept responsibility for its horrific acts of terrorism against american victims",
+            "count": 4
+        },
+        {
+            "phrase": "but after the pressure we applied libya can finally be held accountable for these devastating events now these victims and their families can get the long overdue justice they deserve",
+            "count": 4
+        },
+        {
+            "phrase": "if there's any comparison between the compassion and decency of the american people and the terrorist tactics of extremists it's flawed logic",
+            "count": 4
+        }
+    ]
+}

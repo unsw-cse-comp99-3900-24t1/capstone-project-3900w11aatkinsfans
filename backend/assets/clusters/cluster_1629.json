@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:48",
+            "01:00",
+            "01:09",
+            "01:47",
+            "02:28",
+            "02:57",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a good first step",
+            "count": 7
+        },
+        {
+            "phrase": "that was the first step",
+            "count": 1
+        },
+        {
+            "phrase": "nice way to start",
+            "count": 1
+        },
+        {
+            "phrase": "the first step for me to implement in taking your advice is to",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:59",
+            "03:23",
+            "03:36",
+            "03:43"
+        ],
+        "label": "mike"
+    },
+    "clusterList": [
+        {
+            "phrase": "mike napoli said he's going to fill up his whole catcher's bag with dirt and sell the stuff",
+            "count": 2
+        },
+        {
+            "phrase": "now that ramirez has been exiled to los angeles where more people would pay attention to los angeles galaxy goalkeeper steve cronin berating his defense new england finally can get back to work",
+            "count": 1
+        },
+        {
+            "phrase": "but now i think i can live with the soul-crushing existence of my job without ramirez being a distraction",
+            "count": 1
+        },
+        {
+            "phrase": "i feel sorry for the families and anyone who cares about mr ramirez",
+            "count": 1
+        }
+    ]
+}

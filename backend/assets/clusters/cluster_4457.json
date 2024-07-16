@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "03:10",
+            "03:15",
+            "04:33"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the know",
+            "count": 2
+        },
+        {
+            "phrase": "miss know it all",
+            "count": 1
+        },
+        {
+            "phrase": "know a little about everything",
+            "count": 1
+        }
+    ]
+}

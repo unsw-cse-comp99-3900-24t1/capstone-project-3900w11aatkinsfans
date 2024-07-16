@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:20",
+            "02:01",
+            "02:02",
+            "02:09",
+            "03:06",
+            "03:42",
+            "04:03",
+            "04:15"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "and one lucky fan will go home with a game ball",
+            "count": 3
+        },
+        {
+            "phrase": "people are going to come out and watch these games and the passion for their country will certainly be on display",
+            "count": 2
+        },
+        {
+            "phrase": "it's ridiculous we have to ask them to turn the fans on",
+            "count": 1
+        },
+        {
+            "phrase": "you're going to see the same player the laughter the celebrations i'm still going to get fined and still going to have cincinnati on the edge of its seat wondering what i'm going to do next but i am going to mature in some way i just don't know how it will be",
+            "count": 1
+        },
+        {
+            "phrase": "we leave the ball up that's what's going to happen",
+            "count": 1
+        },
+        {
+            "phrase": "i just go in the dugout and locker room and be myself and i guess they think it's funny and they enjoy it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:06",
+            "03:01",
+            "03:05",
+            "04:23"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our collective service can shape the destiny of this generation",
+            "count": 4
+        },
+        {
+            "phrase": "meeting our needs while not compromising the ability of future generations to meet theirs",
+            "count": 1
+        }
+    ]
+}

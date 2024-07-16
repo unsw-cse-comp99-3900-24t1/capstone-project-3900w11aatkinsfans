@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            24,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "03:23",
+            "04:08",
+            "04:45",
+            "05:00"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "johnny remember me",
+            "count": 24
+        },
+        {
+            "phrase": "the song he was listening to when he died",
+            "count": 4
+        },
+        {
+            "phrase": "have all the good old singer-songwriters gone",
+            "count": 1
+        },
+        {
+            "phrase": "miss ness you know johnny cash died and he left me some pretty good tunes",
+            "count": 1
+        }
+    ]
+}

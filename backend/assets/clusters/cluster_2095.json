@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "01:43",
+            "03:05",
+            "04:13",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "do we really want to fix it",
+            "count": 4
+        },
+        {
+            "phrase": "i do not believe we can do much about it",
+            "count": 1
+        },
+        {
+            "phrase": "so what are you guys doing about it",
+            "count": 1
+        },
+        {
+            "phrase": "it's really hurt our business",
+            "count": 1
+        },
+        {
+            "phrase": "there's really nothing we can do",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:09",
+            "03:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the leap of doubt",
+            "count": 1
+        },
+        {
+            "phrase": "i think there are still doubters i do",
+            "count": 1
+        },
+        {
+            "phrase": "which no one now doubts",
+            "count": 1
+        }
+    ]
+}

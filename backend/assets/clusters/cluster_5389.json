@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "02:24",
+            "02:29",
+            "02:40"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so what this says is you have per 100 gram or litre or per 100 mil this is what the price is so it takes it down to the basics",
+            "count": 1
+        },
+        {
+            "phrase": "an enterprise which employs fewer than 250 persons and which have an annual turnover not exceeding euro 50 million or an annual balance sheet total not exceeding euro 43 million",
+            "count": 1
+        },
+        {
+            "phrase": "do we go with a percentage or flat dollar amount",
+            "count": 1
+        },
+        {
+            "phrase": "the consumer adds only 1 1 percentage point to overall growth and this is with a rebate check in hand",
+            "count": 1
+        }
+    ]
+}

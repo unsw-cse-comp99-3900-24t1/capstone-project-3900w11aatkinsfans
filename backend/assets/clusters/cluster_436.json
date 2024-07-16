@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            8,
+            2,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:19",
+            "00:34",
+            "01:24",
+            "01:43",
+            "02:14",
+            "02:22",
+            "02:33",
+            "02:47",
+            "03:12",
+            "03:18",
+            "03:29"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you mean marriage troubles psht we're fine see we're fine",
+            "count": 19
+        },
+        {
+            "phrase": "hey we've been dialoging so you know we're okay guys",
+            "count": 1
+        },
+        {
+            "phrase": "we're pretty well set",
+            "count": 1
+        },
+        {
+            "phrase": "unlike past years where we knew things would be ok i can't say right now things will be ok",
+            "count": 1
+        },
+        {
+            "phrase": "everything's gonna be alright",
+            "count": 1
+        },
+        {
+            "phrase": "we're just fine and dandy",
+            "count": 1
+        },
+        {
+            "phrase": "no it's okay we're just fine",
+            "count": 1
+        },
+        {
+            "phrase": "things went fine we we got a bit cosy but that's about it",
+            "count": 1
+        }
+    ]
+}

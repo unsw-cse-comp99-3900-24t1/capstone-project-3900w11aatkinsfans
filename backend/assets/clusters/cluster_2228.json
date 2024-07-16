@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:09",
+            "01:33",
+            "02:15",
+            "02:19",
+            "04:05"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "whatever will be will be",
+            "count": 2
+        },
+        {
+            "phrase": "that will be it",
+            "count": 1
+        },
+        {
+            "phrase": "it will probably be fine",
+            "count": 1
+        },
+        {
+            "phrase": "it will be hun",
+            "count": 1
+        },
+        {
+            "phrase": "it'll be all right",
+            "count": 1
+        },
+        {
+            "phrase": "it would be",
+            "count": 1
+        },
+        {
+            "phrase": "i really hope not",
+            "count": 1
+        }
+    ]
+}

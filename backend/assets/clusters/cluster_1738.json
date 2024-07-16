@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:17",
+            "03:33",
+            "04:12",
+            "04:17",
+            "04:24",
+            "04:29",
+            "04:49",
+            "04:54",
+            "05:04"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of order",
+            "count": 7
+        },
+        {
+            "phrase": "out of the loop",
+            "count": 2
+        },
+        {
+            "phrase": "in the loop",
+            "count": 1
+        }
+    ]
+}

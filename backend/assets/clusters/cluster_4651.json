@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:53",
+            "02:27",
+            "04:45"
+        ],
+        "label": "you've"
+    },
+    "clusterList": [
+        {
+            "phrase": "you've got to find the right guy in the right circumstances to bring him in",
+            "count": 2
+        },
+        {
+            "phrase": "he's coming in there and putting guys in the right spots when we make a mistake he can point it out and tell us where to go",
+            "count": 2
+        }
+    ]
+}

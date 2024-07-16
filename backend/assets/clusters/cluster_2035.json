@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:20",
+            "00:25",
+            "01:37",
+            "02:00",
+            "02:06"
+        ],
+        "label": "hot"
+    },
+    "clusterList": [
+        {
+            "phrase": "hot and sweaty",
+            "count": 3
+        },
+        {
+            "phrase": "hot and high",
+            "count": 1
+        },
+        {
+            "phrase": "the awful sweetness of escaping sweat",
+            "count": 1
+        },
+        {
+            "phrase": "oh my arm pits are sweaty they're sticky and i don't like it at all",
+            "count": 1
+        },
+        {
+            "phrase": "hairy in the face and chest",
+            "count": 1
+        },
+        {
+            "phrase": "a fever you can't sweat out",
+            "count": 1
+        }
+    ]
+}

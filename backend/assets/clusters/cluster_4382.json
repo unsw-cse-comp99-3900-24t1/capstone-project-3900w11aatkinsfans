@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:29",
+            "01:37",
+            "01:51"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "nonentity he was before his accelerated promotion",
+            "count": 2
+        },
+        {
+            "phrase": "what has mr miliband ever achieved apart from furthering his own career if david miliband was placed back on the backbenches then i think he would become the nonentity that he was before his accelerated promotion",
+            "count": 1
+        },
+        {
+            "phrase": "david miliband seen as a frontrunner to succeed gordon brown if he resigns today intervenes in the debate about labour's future saying",
+            "count": 1
+        }
+    ]
+}

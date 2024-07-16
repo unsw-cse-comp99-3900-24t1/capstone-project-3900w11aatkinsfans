@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:31",
+            "00:32",
+            "00:51",
+            "00:57",
+            "01:06",
+            "02:55",
+            "03:50"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wanted to offer him something that he didn't have a rally song one that really captures that maverick spirit",
+            "count": 7
+        },
+        {
+            "phrase": "a rally song one that really captures that maverick spirit",
+            "count": 2
+        }
+    ]
+}

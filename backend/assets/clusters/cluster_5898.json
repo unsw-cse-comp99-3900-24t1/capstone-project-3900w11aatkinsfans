@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "00:19"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now that would be a good problem to have",
+            "count": 1
+        },
+        {
+            "phrase": "now that would be a good problem to have wouldn't it",
+            "count": 1
+        },
+        {
+            "phrase": "now that will be a good problem to have won't it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "03:18"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you sir actually seem to mean it",
+            "count": 1
+        },
+        {
+            "phrase": "what for sir",
+            "count": 1
+        },
+        {
+            "phrase": "what do you mean sir",
+            "count": 1
+        },
+        {
+            "phrase": "no offence taken sir",
+            "count": 1
+        }
+    ]
+}

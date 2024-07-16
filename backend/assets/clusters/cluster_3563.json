@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:52",
+            "01:11",
+            "01:33"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a fundamental law of nature all things gravitate toward total chaos",
+            "count": 3
+        },
+        {
+            "phrase": "yes the law of attraction is in full effect we attract everything",
+            "count": 1
+        },
+        {
+            "phrase": "there's a certain amount of chaos in the universe that we're never gonna be able to break free of",
+            "count": 1
+        }
+    ]
+}

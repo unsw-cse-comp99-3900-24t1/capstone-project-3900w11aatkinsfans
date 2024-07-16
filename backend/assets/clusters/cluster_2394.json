@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:18",
+            "04:55"
+        ],
+        "label": "except"
+    },
+    "clusterList": [
+        {
+            "phrase": "right but still the game doesn't count",
+            "count": 3
+        },
+        {
+            "phrase": "except for one game",
+            "count": 2
+        },
+        {
+            "phrase": "all home games some away games",
+            "count": 1
+        },
+        {
+            "phrase": "it's one game",
+            "count": 1
+        }
+    ]
+}

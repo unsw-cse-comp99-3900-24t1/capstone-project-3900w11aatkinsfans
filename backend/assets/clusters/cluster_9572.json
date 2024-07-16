@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "03:00"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are not campaign commercials or news interviews but major hollywood productions which is no surprise given that he's pals with sylvester stallone arnold schwarzenegger and lorne michaels",
+            "count": 1
+        },
+        {
+            "phrase": "he's got ads out there where he's throwing mud at my face i'm not going to complain about ads we need to talk about issues",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:17"
+        ],
+        "label": "duplicate"
+    },
+    "clusterList": [
+        {
+            "phrase": "duplicate custoemrid is not allowed",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            4,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:04",
+            "00:27",
+            "01:06",
+            "01:47",
+            "02:15",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "i love life and everything it has to offer when i am not in school you can find me downtown at museums art galleries the open air market and of course the local coffee shop",
+            "count": 14
+        },
+        {
+            "phrase": "i don't want to go to school and i know its going to make my life very very hard but thats my choice",
+            "count": 2
+        },
+        {
+            "phrase": "i don't like school its not for me if i am not good enough for you let me know but i will have a nice home and a nice car my parents do and they never went to college",
+            "count": 2
+        },
+        {
+            "phrase": "good boys have to go to school huh if you don't go to school you can't be a good boy",
+            "count": 1
+        }
+    ]
+}

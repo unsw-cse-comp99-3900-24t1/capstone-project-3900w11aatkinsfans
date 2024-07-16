@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "03:42",
+            "03:51",
+            "04:04",
+            "04:21",
+            "04:55",
+            "05:04"
+        ],
+        "label": "provide"
+    },
+    "clusterList": [
+        {
+            "phrase": "no matter what happened in my life i was always going to be able to provide for my family more than my mother could i know that she always wanted to provide more than what she could",
+            "count": 2
+        },
+        {
+            "phrase": "provide care that you would want yourself or a loved one to receive",
+            "count": 1
+        },
+        {
+            "phrase": "anytime you can help provide whatever that is within your own budget for someone else who lives without the basic necessities i think it's extremely important as human beings we all have an obligation to help one another",
+            "count": 1
+        },
+        {
+            "phrase": "i do it because i have to provide for the family",
+            "count": 1
+        },
+        {
+            "phrase": "take care of themselves",
+            "count": 1
+        },
+        {
+            "phrase": "you want to take care of people as much as you can within reason",
+            "count": 1
+        }
+    ]
+}

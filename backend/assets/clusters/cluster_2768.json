@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:58",
+            "03:34",
+            "03:54",
+            "04:13",
+            "04:24"
+        ],
+        "label": "buy"
+    },
+    "clusterList": [
+        {
+            "phrase": "no win no fee",
+            "count": 2
+        },
+        {
+            "phrase": "buy one pair and get a free pair for someone else",
+            "count": 1
+        },
+        {
+            "phrase": "total free for all",
+            "count": 1
+        },
+        {
+            "phrase": "mega sale buy 10 participating items and receive 5 off",
+            "count": 1
+        },
+        {
+            "phrase": "buy 4 get 5th free",
+            "count": 1
+        },
+        {
+            "phrase": "free after extrabucks",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:09"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's a lot of controversies that i have eagerly leapt into in my time",
+            "count": 1
+        },
+        {
+            "phrase": "there's a lot of controversies that i have eagerly leapt into in my time i'm not so dumb that i'm going to jump into that one",
+            "count": 1
+        }
+    ]
+}

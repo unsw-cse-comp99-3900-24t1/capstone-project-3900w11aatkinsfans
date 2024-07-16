@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "03:06",
+            "03:29",
+            "04:04"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're going to have more than enough officers",
+            "count": 2
+        },
+        {
+            "phrase": "we will be bringing extra officers into town as usual",
+            "count": 1
+        },
+        {
+            "phrase": "esperance police along with both dec rangers and esperance shire rangers will be increasing our visibility in that area",
+            "count": 1
+        }
+    ]
+}

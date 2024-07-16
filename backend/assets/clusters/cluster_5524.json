@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:01",
+            "04:23",
+            "04:32",
+            "04:55"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's my main aim",
+            "count": 2
+        },
+        {
+            "phrase": "my aim is true",
+            "count": 1
+        },
+        {
+            "phrase": "but that's my goal",
+            "count": 1
+        }
+    ]
+}

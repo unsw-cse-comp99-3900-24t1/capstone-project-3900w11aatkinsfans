@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "04:00"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a study in gray and black",
+            "count": 1
+        },
+        {
+            "phrase": "pale light of silver moon",
+            "count": 1
+        }
+    ]
+}

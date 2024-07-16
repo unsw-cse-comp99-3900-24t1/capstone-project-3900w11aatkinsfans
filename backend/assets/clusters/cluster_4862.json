@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:28",
+            "04:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i got up on stage and i shook up a beer and sprayed the audience so the audience shook up their beers and sprayed the band",
+            "count": 2
+        },
+        {
+            "phrase": "i looked around and i could see kio kio players and spectators coming towards me so i jumped up and started running towards the tunnel",
+            "count": 1
+        },
+        {
+            "phrase": "one of the spectators jumped in front of me and shoulder barged me i got up and ran as fast as i could away from the hostilities",
+            "count": 1
+        }
+    ]
+}

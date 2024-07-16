@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "monix"
+    },
+    "clusterList": [
+        {
+            "phrase": "monix passes to jackie jackie lobs to clarence and then yes another alley oop the spurs don't know what's hit em",
+            "count": 2
+        },
+        {
+            "phrase": "monix passes to jackie jackie lobs to clarence and then yes another alley oop the spurs don't know wht's hit em",
+            "count": 1
+        }
+    ]
+}

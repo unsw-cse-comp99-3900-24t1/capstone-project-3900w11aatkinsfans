@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:06",
+            "01:46",
+            "02:25",
+            "03:06",
+            "03:48",
+            "04:28"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my son-in-law is quite a card",
+            "count": 7
+        }
+    ]
+}

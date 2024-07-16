@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:38",
+            "01:40",
+            "02:24",
+            "02:26",
+            "02:32",
+            "02:37",
+            "03:25",
+            "04:56"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "all of these actions suggest a russia exploring renewed influence and seeking a greater international role",
+            "count": 6
+        },
+        {
+            "phrase": "should there be a world trade organization or not",
+            "count": 3
+        },
+        {
+            "phrase": "part of what we have to do is get the europeans the chinese the russians all to recognize that it's in nobody's interests including iran's i believe to have a nuclear weapon that could trigger a nuclear arms race in the region and that's something that i intend to make a number one priority when i'm in the white house making sure they don't have that nuclear capability",
+            "count": 2
+        },
+        {
+            "phrase": "will respond to china's expanding military power and to the uncertainties over how it might be used",
+            "count": 1
+        },
+        {
+            "phrase": "similarly we look to india to assume greater responsibility as a stakeholder commensurate with its growing economic military and soft power",
+            "count": 1
+        }
+    ]
+}

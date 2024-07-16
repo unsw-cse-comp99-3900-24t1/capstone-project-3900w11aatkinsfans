@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:32",
+            "01:49",
+            "02:11",
+            "02:15",
+            "02:34",
+            "03:10",
+            "03:15",
+            "03:34",
+            "04:06",
+            "04:12",
+            "04:22",
+            "05:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "new york times",
+            "count": 3
+        },
+        {
+            "phrase": "the sunday times",
+            "count": 3
+        },
+        {
+            "phrase": "the daily mail",
+            "count": 2
+        },
+        {
+            "phrase": "the wall street journal",
+            "count": 1
+        },
+        {
+            "phrase": "the washington post",
+            "count": 1
+        },
+        {
+            "phrase": "black america's daily news source",
+            "count": 1
+        },
+        {
+            "phrase": "gt the new york times",
+            "count": 1
+        },
+        {
+            "phrase": "the new york times",
+            "count": 1
+        },
+        {
+            "phrase": "the new york times dissents and you should rely upon its reputation",
+            "count": 1
+        },
+        {
+            "phrase": "the daily telegraph",
+            "count": 1
+        },
+        {
+            "phrase": "new york times select",
+            "count": 1
+        }
+    ]
+}

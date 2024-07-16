@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:04",
+            "01:05",
+            "03:23",
+            "05:00"
+        ],
+        "label": "i'd"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'd be buying lobsters anyway but not as many if the prices weren't this low",
+            "count": 2
+        },
+        {
+            "phrase": "or are we going to going to try and harvest these things in a rate that maintains the populations over time so we can have some form of fishery in the long haul",
+            "count": 2
+        },
+        {
+            "phrase": "it wouldn't do us any good to catch more lobster because if we do it'll drive down the prices even more",
+            "count": 1
+        },
+        {
+            "phrase": "it hasn't been good for the lobster industry and it may get worse",
+            "count": 1
+        },
+        {
+            "phrase": "but if there's a silver lining it's that if the cost of lobster goes down",
+            "count": 1
+        }
+    ]
+}

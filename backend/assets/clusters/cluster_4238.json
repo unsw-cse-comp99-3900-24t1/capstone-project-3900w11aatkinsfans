@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "02:23",
+            "03:01",
+            "04:13"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how do we stop capitalism from destroying the planet",
+            "count": 3
+        },
+        {
+            "phrase": "money rules the world with power to control the money supply you control the world that's just reality politicians all succumb to the powers that be once initiated their options become clear either expose the ruse and commit political suicide while potentially collapsing the economy or play the banker's game by the banker's rules politicians are the puppets not the puppet masters",
+            "count": 1
+        },
+        {
+            "phrase": "the best way to destroy the capitalist system is to debauch the currency by a continuing process of inflation governments can confiscate secretly and unobserved an important part of the wealth of their citizens",
+            "count": 1
+        }
+    ]
+}

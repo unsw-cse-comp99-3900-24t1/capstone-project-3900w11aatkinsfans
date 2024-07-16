@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:51",
+            "01:56",
+            "02:22",
+            "03:15",
+            "03:43",
+            "04:08",
+            "04:09",
+            "04:10",
+            "04:13",
+            "04:21",
+            "04:52"
+        ],
+        "label": "hearing"
+    },
+    "clusterList": [
+        {
+            "phrase": "was very quiet",
+            "count": 6
+        },
+        {
+            "phrase": "i couldn't believe how loud it was and how long it lasted",
+            "count": 2
+        },
+        {
+            "phrase": "hearing that was a disorienting blast from my past",
+            "count": 1
+        },
+        {
+            "phrase": "was it loud enough this time",
+            "count": 1
+        },
+        {
+            "phrase": "how did that sound",
+            "count": 1
+        },
+        {
+            "phrase": "i heard the sound of no sound",
+            "count": 1
+        },
+        {
+            "phrase": "it just didn't sound very good and just looking at it and noticed that it was flying a little awkward",
+            "count": 1
+        },
+        {
+            "phrase": "it was awful just plain awful",
+            "count": 1
+        }
+    ]
+}

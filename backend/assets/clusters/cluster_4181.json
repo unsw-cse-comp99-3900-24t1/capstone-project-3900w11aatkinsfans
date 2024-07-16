@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "03:55",
+            "04:23",
+            "04:24",
+            "05:01"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "what was really exciting from a public health perspective is that the rates of heart attack decreased so significantly in the non-smokers",
+            "count": 3
+        },
+        {
+            "phrase": "that has really brought people around to being more aware and engaged in the issues involved with their own health",
+            "count": 1
+        },
+        {
+            "phrase": "it raises the issue how much of how we feel how much of who we are as people is dictated in terms of our immune system",
+            "count": 1
+        }
+    ]
+}

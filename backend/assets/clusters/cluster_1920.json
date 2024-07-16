@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:20",
+            "02:32",
+            "03:01",
+            "03:06",
+            "03:09",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all game development is still completely within our irvine headquarters",
+            "count": 6
+        },
+        {
+            "phrase": "a development studio has been established in san francisco ca with hopes of gathering those who wish to join us in starting a new chapter of history in the game industry",
+            "count": 2
+        },
+        {
+            "phrase": "we enter castle ultimate studios in oakland ca tomorrow to start working on our fourth",
+            "count": 1
+        }
+    ]
+}

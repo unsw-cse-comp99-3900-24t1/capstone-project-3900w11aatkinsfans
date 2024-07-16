@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "02:02",
+            "03:15"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of the world's leading experts on",
+            "count": 1
+        },
+        {
+            "phrase": "known to experts",
+            "count": 1
+        },
+        {
+            "phrase": "to obtain this expertise",
+            "count": 1
+        }
+    ]
+}

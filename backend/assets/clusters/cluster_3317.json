@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:01",
+            "03:21",
+            "04:21"
+        ],
+        "label": "credit"
+    },
+    "clusterList": [
+        {
+            "phrase": "credit card spending in general is much softer",
+            "count": 3
+        },
+        {
+            "phrase": "it's not down but it's marginally up in the low single digits our debit card spending on the other hand has continued to grow and is very robust",
+            "count": 2
+        },
+        {
+            "phrase": "it's not down but it's marginally up in the low single digits",
+            "count": 1
+        }
+    ]
+}

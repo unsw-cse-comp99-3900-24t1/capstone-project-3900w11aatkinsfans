@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:56",
+            "01:43",
+            "02:56"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to date in a post-dating world",
+            "count": 1
+        },
+        {
+            "phrase": "sort of dating",
+            "count": 1
+        },
+        {
+            "phrase": "you have just answered questions for several different dating categories",
+            "count": 1
+        },
+        {
+            "phrase": "that's what he called it a date",
+            "count": 1
+        }
+    ]
+}

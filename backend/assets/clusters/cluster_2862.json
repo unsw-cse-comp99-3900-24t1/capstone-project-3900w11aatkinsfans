@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:52",
+            "03:43",
+            "04:07",
+            "04:28",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "did the right thing",
+            "count": 3
+        },
+        {
+            "phrase": "i just know it was the right thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "but it's the right thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "right way to love someone",
+            "count": 1
+        }
+    ]
+}

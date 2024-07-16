@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:47",
+            "02:09",
+            "03:20"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the stuff they wraped mummys with",
+            "count": 1
+        },
+        {
+            "phrase": "historical figures and ancient heads",
+            "count": 1
+        },
+        {
+            "phrase": "the idea that the terracotta warriors of xi'an were in fact the mummies really appealed to me",
+            "count": 1
+        },
+        {
+            "phrase": "cemetery of celerage",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:58",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the one coming after me",
+            "count": 1
+        },
+        {
+            "phrase": "the loved one",
+            "count": 1
+        }
+    ]
+}

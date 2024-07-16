@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:37",
+            "02:02",
+            "02:09",
+            "02:50"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that was you on my nuts",
+            "count": 3
+        },
+        {
+            "phrase": "i told kris i felt like a banana in a bowl of milk",
+            "count": 1
+        },
+        {
+            "phrase": "at the little snack table i walked up to mary-louise and i whispered how would you feel if we burned it all down and she was psyched for it",
+            "count": 1
+        }
+    ]
+}

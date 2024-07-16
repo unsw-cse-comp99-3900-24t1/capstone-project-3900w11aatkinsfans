@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:32"
+        ],
+        "label": "ice"
+    },
+    "clusterList": [
+        {
+            "phrase": "ice cream social",
+            "count": 1
+        },
+        {
+            "phrase": "office webseries taste the ice cream",
+            "count": 1
+        }
+    ]
+}

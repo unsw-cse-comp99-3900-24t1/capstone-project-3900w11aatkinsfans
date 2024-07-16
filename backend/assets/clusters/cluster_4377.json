@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "03:00",
+            "04:28",
+            "04:42"
+        ],
+        "label": "first"
+    },
+    "clusterList": [
+        {
+            "phrase": "will not be tolerated",
+            "count": 2
+        },
+        {
+            "phrase": "first and foremost this is completely unacceptable",
+            "count": 1
+        },
+        {
+            "phrase": "this is embarrassing",
+            "count": 1
+        }
+    ]
+}

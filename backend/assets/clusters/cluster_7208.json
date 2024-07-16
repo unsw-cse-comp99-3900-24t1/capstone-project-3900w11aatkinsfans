@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:11",
+            "03:56",
+            "04:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the basement is much crowded but there is plenty of room up-stairs",
+            "count": 1
+        },
+        {
+            "phrase": "we are remodeling the front entrance-way to give us not only more room but also so that traffic flows through there better",
+            "count": 1
+        },
+        {
+            "phrase": "with the ceilings being so high i don't think that's conducive for a bedroom",
+            "count": 1
+        }
+    ]
+}

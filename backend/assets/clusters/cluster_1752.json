@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            10
+        ],
+        "xLabels": [
+            "03:34"
+        ],
+        "label": "comment"
+    },
+    "clusterList": [
+        {
+            "phrase": "comment isapproved islockedout creationdate lastlogindate",
+            "count": 4
+        },
+        {
+            "phrase": "lastactivitydate lastpasswordchangeddate lastlockedoutdate",
+            "count": 4
+        },
+        {
+            "phrase": "applicationname islockedout lastlockedoutdate",
+            "count": 2
+        }
+    ]
+}

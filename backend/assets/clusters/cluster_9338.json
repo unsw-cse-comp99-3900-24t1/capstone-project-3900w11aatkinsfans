@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "03:06"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the path of the black cat's footsteps",
+            "count": 1
+        },
+        {
+            "phrase": "the cat's ass in his trademark white fedora",
+            "count": 1
+        }
+    ]
+}

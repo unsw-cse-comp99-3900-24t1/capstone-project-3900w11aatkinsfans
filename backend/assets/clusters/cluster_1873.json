@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "01:40",
+            "01:51",
+            "02:26",
+            "03:29",
+            "03:51",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "well that's his voting record",
+            "count": 2
+        },
+        {
+            "phrase": "oh i don't know all i know is his voting record and that's what people usually judge their elected representatives by",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know anybody that knows him personally so i'm not gonna judge him for anything that i don't know",
+            "count": 2
+        },
+        {
+            "phrase": "and he ought to know he won in 2004",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know all i know is his voting record and that's what people usually judge their elected representatives by",
+            "count": 1
+        }
+    ]
+}

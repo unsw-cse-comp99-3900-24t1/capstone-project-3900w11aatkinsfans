@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:19",
+            "03:22",
+            "03:23",
+            "04:08",
+            "04:45"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "it appears that it was michael powell not the public who preferred to make decisions based on personal ideology",
+            "count": 4
+        },
+        {
+            "phrase": "he had a lot of input from a lot of different people no he was not lying did the white house give input i would imagine it did but the decision was his and he made it alone",
+            "count": 2
+        },
+        {
+            "phrase": "why when nixon's re-election was a study in foregone conclusions was it necessary to break into the dnc headquarters at the watergate",
+            "count": 1
+        }
+    ]
+}

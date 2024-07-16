@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:46",
+            "01:52",
+            "02:11",
+            "02:23",
+            "02:27",
+            "02:28",
+            "02:37",
+            "03:06",
+            "03:14",
+            "03:42"
+        ],
+        "label": "goldcorp"
+    },
+    "clusterList": [
+        {
+            "phrase": "the suncorp announcement this morning is having an impact across the financial sector further dampening confidence",
+            "count": 10
+        },
+        {
+            "phrase": "goldcorp wanted to act aggressively here they did not log their interest with gold eagle saying they wanted to do a deal until after the agnico placement",
+            "count": 1
+        },
+        {
+            "phrase": "it is a premier asset in a premier camp with strategic value to goldcorp and we view this bid as inadequate",
+            "count": 1
+        },
+        {
+            "phrase": "the decline in performance of our nonutility group is primarily due to lower cash to nymex and summer winter price spreads in the wholesale natural gas markets which have reduced proliance energy llc's opportunities for optimization of storage and transportation resources while earnings from our nonutility group have not met our expectations we believe this portfolio including our coal and infrastructure businesses coupled with our strong utility platform provide the opportunity for long-term earnings growth",
+            "count": 1
+        },
+        {
+            "phrase": "shell is making substantial targeted investments to grow the company for shareholders and help ensure that energy markets remain well supplied",
+            "count": 1
+        }
+    ]
+}

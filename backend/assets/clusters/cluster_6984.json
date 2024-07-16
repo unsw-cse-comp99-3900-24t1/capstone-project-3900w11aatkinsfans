@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:22",
+            "04:07"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why would i play along",
+            "count": 1
+        },
+        {
+            "phrase": "i have nothing to play along with",
+            "count": 1
+        },
+        {
+            "phrase": "i know this is all a bit silly but i'll play along anyway",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:34",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the law enforcement leaders cited several key findings from a new survey of california teens ages 12 to 17 commissioned by the anti-crime organization fight crime invest in kids california as evidence of the need for after-school programs to prevent juvenile crime",
+            "count": 1
+        },
+        {
+            "phrase": "whether they learn how to become criminals or productive members of the community is up to us we need to invest in good after-school programs to give them a constructive alternative to the lure of the streets",
+            "count": 1
+        },
+        {
+            "phrase": "considering all the hard science and hard lessons we've learned about what happens when we try to punish juvenile offenders the same way we punish adults the senate should throw its full support behind s3155 the juvenile justice and delinquency prevention reauthorization act",
+            "count": 1
+        }
+    ]
+}

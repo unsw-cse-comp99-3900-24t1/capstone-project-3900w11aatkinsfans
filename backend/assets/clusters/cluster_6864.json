@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "02:28",
+            "02:35"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an individual who had befriended them on the beach drove them round the island",
+            "count": 1
+        },
+        {
+            "phrase": "these people figure they own the beach",
+            "count": 1
+        },
+        {
+            "phrase": "the couple had rented a car and driven round the island with him",
+            "count": 1
+        }
+    ]
+}

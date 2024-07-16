@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:51",
+            "03:41",
+            "03:48",
+            "04:29"
+        ],
+        "label": "let"
+    },
+    "clusterList": [
+        {
+            "phrase": "let the music heal your soul",
+            "count": 1
+        },
+        {
+            "phrase": "how can i keep from singing",
+            "count": 1
+        },
+        {
+            "phrase": "you can't stop the beat",
+            "count": 1
+        },
+        {
+            "phrase": "i can't turn off this music if i do something horrible happens something happens to my body",
+            "count": 1
+        },
+        {
+            "phrase": "see you don't need such wild music to control yourself a simple tune can do there is music everywhere you know there is music in the trees in the wind even in your own heart or in the heart of your lover you just have to stop and listen",
+            "count": 1
+        }
+    ]
+}

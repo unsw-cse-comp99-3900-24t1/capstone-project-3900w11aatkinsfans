@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:24",
+            "02:40",
+            "03:08",
+            "04:18",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the number of unemployed persons was essentially unchanged in june at 8 5 million and the unemployment rate held at 5 5 percent",
+            "count": 1
+        },
+        {
+            "phrase": "the dropoff in illegal immigration seems to occur before there is a runup in their unemployment rate",
+            "count": 1
+        },
+        {
+            "phrase": "while growth continues to be disappointing trade provides one of the few bright spots in an otherwise gloomy economic picture raising questions about barack obama's policy of economic isolationism",
+            "count": 1
+        },
+        {
+            "phrase": "the unemployment rate is giving you a misleading impression of some of the adjustments that are taking place",
+            "count": 1
+        },
+        {
+            "phrase": "it's a tight labor market with wages at least 21 percent higher overall now than before katrina",
+            "count": 1
+        },
+        {
+            "phrase": "the market is not so sure what to expect for the jobs data",
+            "count": 1
+        }
+    ]
+}

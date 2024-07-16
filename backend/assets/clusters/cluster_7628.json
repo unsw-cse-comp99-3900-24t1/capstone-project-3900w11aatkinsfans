@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "04:24",
+            "04:41"
+        ],
+        "label": "narrow"
+    },
+    "clusterList": [
+        {
+            "phrase": "narrow and obscure",
+            "count": 1
+        },
+        {
+            "phrase": "is a bit obscure and sounds a little daunting",
+            "count": 1
+        },
+        {
+            "phrase": "but i think it's too obscure",
+            "count": 1
+        }
+    ]
+}

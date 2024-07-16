@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:33",
+            "03:34"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "australia is about the best place for one you could find",
+            "count": 2
+        },
+        {
+            "phrase": "we do offer something which is very different to sydney based on the low cost model we also supplement what happens in sydney for people who are looking to get to the hunter valley",
+            "count": 1
+        }
+    ]
+}

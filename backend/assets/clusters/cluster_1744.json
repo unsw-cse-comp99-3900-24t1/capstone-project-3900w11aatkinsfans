@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:13",
+            "00:23",
+            "01:02",
+            "01:10",
+            "01:43",
+            "02:10",
+            "02:41",
+            "03:22",
+            "03:43"
+        ],
+        "label": "note"
+    },
+    "clusterList": [
+        {
+            "phrase": "note of their intention to consider these matters further",
+            "count": 7
+        },
+        {
+            "phrase": "their intention to consider these matters further",
+            "count": 2
+        },
+        {
+            "phrase": "so they asked for clarity and certainty in that regard and those discussions moved forward",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:15",
+            "03:46",
+            "03:48"
+        ],
+        "label": "sharing"
+    },
+    "clusterList": [
+        {
+            "phrase": "sharing interviews with them",
+            "count": 2
+        },
+        {
+            "phrase": "they interviewed 20 people and wrote brief essays about each other in each interview the girls explore what inspired the interviewee",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "03:50"
+        ],
+        "label": "nokia"
+    },
+    "clusterList": [
+        {
+            "phrase": "nokia remains the unassailable leader in the mobile phone market this quarter only served to further underline its dominance we expect nokia to get even stronger in the second half worsening market conditions could serve to strengthen nokia's market share given the resilience afforded by its strong brand substantial global footprint and immense economies of scale",
+            "count": 1
+        },
+        {
+            "phrase": "thanks to the truce it is not impossible to imagine nokia phones with qualcomm's brew os nokia according to some of my sources feels that a feeble motorola is ready to be knocked over from its strong position with two cdma carriers sprint and verizon",
+            "count": 1
+        }
+    ]
+}

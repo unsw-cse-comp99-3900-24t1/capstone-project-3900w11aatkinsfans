@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:10",
+            "00:12",
+            "00:18",
+            "00:24",
+            "00:50",
+            "01:01",
+            "01:02",
+            "01:06",
+            "01:15",
+            "01:32",
+            "01:52",
+            "02:29",
+            "02:35",
+            "02:55",
+            "03:33",
+            "04:06"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can make it if you try",
+            "count": 7
+        },
+        {
+            "phrase": "can't do it now i'm sorry",
+            "count": 6
+        },
+        {
+            "phrase": "oh i could never do that",
+            "count": 2
+        },
+        {
+            "phrase": "you can't do that",
+            "count": 1
+        },
+        {
+            "phrase": "i could but i won't",
+            "count": 1
+        },
+        {
+            "phrase": "don't tell me what i can't do",
+            "count": 1
+        },
+        {
+            "phrase": "even if you think you can't if joe says you can you should probably give it a shot you might be pleasantly surprised",
+            "count": 1
+        },
+        {
+            "phrase": "i can't do this",
+            "count": 1
+        }
+    ]
+}

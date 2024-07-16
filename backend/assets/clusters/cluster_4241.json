@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "03:24",
+            "03:41",
+            "04:15",
+            "04:45"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all right manny we're thinking of hitting you third in the line up so we can optimize your run production",
+            "count": 1
+        },
+        {
+            "phrase": "i thought early on that duke was doing a really good job and we were going to be in for a battle and when we put those four up it kind of takes a little stress off and you can go out there and have that cushion and just stay away from the big inning",
+            "count": 1
+        },
+        {
+            "phrase": "you can give up five runs in six innings and win 20 games with that offense",
+            "count": 1
+        },
+        {
+            "phrase": "but when you get the bottom half of the lineup hitting and contributing the way that they did it adds to the potential of your ball club",
+            "count": 1
+        },
+        {
+            "phrase": "you keep letting your big home-run hitters go and it's chasing people away from the park instead of to the park",
+            "count": 1
+        }
+    ]
+}

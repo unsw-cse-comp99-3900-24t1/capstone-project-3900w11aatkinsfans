@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:18",
+            "01:07",
+            "01:34",
+            "01:41",
+            "02:29",
+            "03:18",
+            "04:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i look at you and the world is alright with me just one look at you and i know it's gonna be a lovely day",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to smile right now",
+            "count": 1
+        },
+        {
+            "phrase": "do u know how happy u make me by saying that but",
+            "count": 1
+        },
+        {
+            "phrase": "here kitty kitty thinking you're beautiful perhaps a few minutes won't hurt",
+            "count": 1
+        },
+        {
+            "phrase": "i am sorry i was upset i needed someone i needed you to make it all better i love you too",
+            "count": 1
+        },
+        {
+            "phrase": "don't worry someday i promise you will feel whole",
+            "count": 1
+        },
+        {
+            "phrase": "man this feels so good hey don't ya stop kissin me now",
+            "count": 1
+        },
+        {
+            "phrase": "how i miss your smile",
+            "count": 1
+        }
+    ]
+}

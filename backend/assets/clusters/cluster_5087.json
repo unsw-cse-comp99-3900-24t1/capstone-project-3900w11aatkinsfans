@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "03:23",
+            "03:39",
+            "03:46"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are we going to mine the oceans and just fish what we can until there are none left and take the economic benefit along the way",
+            "count": 2
+        },
+        {
+            "phrase": "the area off the coast of an island that a nation may use is called the exclusive economic zone the group in charge of defining that is the state department so the president and congress can say the off-shore areas are opened up but still not recognize these quarter of a million square miles available for american oil exploration",
+            "count": 1
+        },
+        {
+            "phrase": "why the hell do you think we've been spending all that money on the phoenix mars lander to get some martian ice no way jose we needed to start way way off shore oil drilling there immediately now whatya got zip nada nothin",
+            "count": 1
+        }
+    ]
+}

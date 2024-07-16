@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:41"
+        ],
+        "label": "identity"
+    },
+    "clusterList": [
+        {
+            "phrase": "identity theft and business espionage are immediate threats and stolen competitive information could be sold to the highest bidder",
+            "count": 1
+        },
+        {
+            "phrase": "business identity theft",
+            "count": 1
+        }
+    ]
+}

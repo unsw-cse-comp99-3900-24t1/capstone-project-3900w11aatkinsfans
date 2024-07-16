@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:27",
+            "00:29",
+            "04:38",
+            "04:54",
+            "05:05"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and it usually stays there for a long long time",
+            "count": 2
+        },
+        {
+            "phrase": "and it's in no way dormant",
+            "count": 2
+        },
+        {
+            "phrase": "but it's rotting on the inside",
+            "count": 1
+        },
+        {
+            "phrase": "but it keeps fallin off",
+            "count": 1
+        }
+    ]
+}

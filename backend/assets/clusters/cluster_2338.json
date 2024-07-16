@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "02:18",
+            "04:12",
+            "04:22"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "even a thin person can have fat around the heart",
+            "count": 2
+        },
+        {
+            "phrase": "this study is significant because previous findings have been contradictory and the present investigation includes the largest number of heart attacks in an elderly group to date",
+            "count": 1
+        },
+        {
+            "phrase": "our findings make a persuasive case that adiponectin is in fact associated with an increase in heart-disease risk in older persons",
+            "count": 1
+        },
+        {
+            "phrase": "this study shows that this abundant product of fat cells is a marker and perhaps even a mediator of worsened outcomes in persons aged 65 years and older",
+            "count": 1
+        },
+        {
+            "phrase": "adiponectin and risk of coronary heart disease in older men and women",
+            "count": 1
+        },
+        {
+            "phrase": "it's well known that people don't go on a diet until they've had a heart attack",
+            "count": 1
+        },
+        {
+            "phrase": "the distribution of body fat may be as important as the amount of body fat in determining risk of heart attacks",
+            "count": 1
+        }
+    ]
+}

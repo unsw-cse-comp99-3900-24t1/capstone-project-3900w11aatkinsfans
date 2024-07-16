@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:13",
+            "02:23",
+            "02:41",
+            "03:47"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the secretary headed a task force on driver safety and this issue came up and he was intrigued by the idea",
+            "count": 1
+        },
+        {
+            "phrase": "he gets upset when one of the drivers wrecks",
+            "count": 1
+        },
+        {
+            "phrase": "he fears for his safety and does not want to return to the job of driving taxis",
+            "count": 1
+        },
+        {
+            "phrase": "he actually had been warned by the department of motor vehicles about his dangerous driving and that if he continued to drive that way it would result in some type of injury or death",
+            "count": 1
+        },
+        {
+            "phrase": "then you can go and say what caused the driver to lose control it could be that he was driving too fast for the conditions it could be that the tires weren't good and that's where the other potential individuals come into play",
+            "count": 1
+        }
+    ]
+}

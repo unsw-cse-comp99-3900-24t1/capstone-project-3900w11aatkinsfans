@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:22",
+            "00:43",
+            "01:18",
+            "01:20",
+            "02:46"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my testing site",
+            "count": 1
+        },
+        {
+            "phrase": "username password etc",
+            "count": 1
+        },
+        {
+            "phrase": "click on the door to enter",
+            "count": 1
+        },
+        {
+            "phrase": "click here first",
+            "count": 1
+        },
+        {
+            "phrase": "ask the help desk",
+            "count": 1
+        },
+        {
+            "phrase": "my server machine",
+            "count": 1
+        }
+    ]
+}

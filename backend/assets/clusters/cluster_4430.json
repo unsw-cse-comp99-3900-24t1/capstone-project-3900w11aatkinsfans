@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:48",
+            "01:10",
+            "01:11"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think we always look to make the game we want to make and then figure out the kind of financial model that works with that game",
+            "count": 3
+        },
+        {
+            "phrase": "the better leverage came from the games business",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:47",
+            "01:52",
+            "04:32"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good money after bad",
+            "count": 1
+        },
+        {
+            "phrase": "money well spent",
+            "count": 1
+        },
+        {
+            "phrase": "money follows excellence",
+            "count": 1
+        },
+        {
+            "phrase": "good with money",
+            "count": 1
+        }
+    ]
+}

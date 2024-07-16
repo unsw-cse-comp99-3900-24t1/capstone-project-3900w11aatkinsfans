@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "03:22",
+            "04:28",
+            "04:45",
+            "04:54"
+        ],
+        "label": "india"
+    },
+    "clusterList": [
+        {
+            "phrase": "india has over 1 billion people it is clearly a country out of balance in terms of its population size",
+            "count": 1
+        },
+        {
+            "phrase": "the central west supports 200 000 people and a 7 1 billion economy",
+            "count": 1
+        },
+        {
+            "phrase": "there are around one billion people online but the world's population is over five billion",
+            "count": 1
+        },
+        {
+            "phrase": "it's because 1 2 billion people in china want to live like we do",
+            "count": 1
+        },
+        {
+            "phrase": "india saw its millionaire population surging in 2007 by 22 6 per cent which is higher than any other country in the world",
+            "count": 1
+        }
+    ]
+}

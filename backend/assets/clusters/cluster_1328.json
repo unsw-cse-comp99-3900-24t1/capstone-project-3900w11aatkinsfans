@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:13",
+            "01:15",
+            "04:35",
+            "04:45",
+            "04:46",
+            "04:51",
+            "05:01",
+            "05:05"
+        ],
+        "label": "top"
+    },
+    "clusterList": [
+        {
+            "phrase": "the most important since 1991",
+            "count": 5
+        },
+        {
+            "phrase": "top four priorities for 08",
+            "count": 4
+        },
+        {
+            "phrase": "none of the above 2008",
+            "count": 1
+        },
+        {
+            "phrase": "right now which do you think should be a higher priority for the government",
+            "count": 1
+        },
+        {
+            "phrase": "which do you think should be a higher priority for the government",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:23",
+            "02:22",
+            "02:23",
+            "02:51",
+            "03:18",
+            "03:23",
+            "03:48",
+            "03:52",
+            "04:31"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the power-off button",
+            "count": 2
+        },
+        {
+            "phrase": "turn pc off when done",
+            "count": 2
+        },
+        {
+            "phrase": "off and on",
+            "count": 1
+        },
+        {
+            "phrase": "turn on or off",
+            "count": 1
+        },
+        {
+            "phrase": "turn it on and it turns you on",
+            "count": 1
+        },
+        {
+            "phrase": "don't turn on the light",
+            "count": 1
+        },
+        {
+            "phrase": "on and off",
+            "count": 1
+        },
+        {
+            "phrase": "turn ons turn offs",
+            "count": 1
+        }
+    ]
+}

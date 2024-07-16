@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:49",
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:18"
+        ],
+        "label": "should"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is then followed by a rash which usually begins on the head and then spreads down the body",
+            "count": 3
+        },
+        {
+            "phrase": "people will still have a high fever when the rash begins and will feel very unwell",
+            "count": 3
+        },
+        {
+            "phrase": "should rise up like an allergic reaction",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:33",
+            "04:43"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "welcome to the new school i hope you bring us laurels as you have to your old school",
+            "count": 2
+        },
+        {
+            "phrase": "why hello there welcome to middleton academy how are you today",
+            "count": 1
+        }
+    ]
+}

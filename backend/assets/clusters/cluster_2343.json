@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:10",
+            "01:43",
+            "02:06",
+            "02:46",
+            "03:02",
+            "04:24",
+            "05:00"
+        ],
+        "label": "learning"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have a huge crush on shia labeouf and i say that a lot and it's probably not a good thing i haven't heard from him i should wait until i'm a little bit older i think",
+            "count": 4
+        },
+        {
+            "phrase": "learning that i like him even more",
+            "count": 1
+        },
+        {
+            "phrase": "and i doubt my husband of 10 years remembers what song we danced to but i love him still",
+            "count": 1
+        },
+        {
+            "phrase": "he died when i was 18 and when i sing it always sort of feels like that's my way of talking to my dad i also usually wear either his army dog tags or his glasses when we play cause he always wanted to be a singer so it's my way of taking him up on stage with me",
+            "count": 1
+        },
+        {
+            "phrase": "14 years later i still listen you know just about every day i'll have something to do with him",
+            "count": 1
+        }
+    ]
+}

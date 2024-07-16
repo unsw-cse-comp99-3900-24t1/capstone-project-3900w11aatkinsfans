@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:32",
+            "02:34",
+            "04:19"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "because if i hide in the backseat she would have seen me",
+            "count": 2
+        },
+        {
+            "phrase": "even now when you get the truck out she still wanders around as if to say well what about me",
+            "count": 1
+        },
+        {
+            "phrase": "yeah well we found a truck where we could walk inside but she looked at me like i had problems and all we ever see are ice cream trucks that are out late at night like mr softee",
+            "count": 1
+        }
+    ]
+}

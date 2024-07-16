@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:42"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not real pleased with our backups right now",
+            "count": 1
+        },
+        {
+            "phrase": "i've got five right now that we feel good about and we're just trying to find out where the backups are at",
+            "count": 1
+        }
+    ]
+}

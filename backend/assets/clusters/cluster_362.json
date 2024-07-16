@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            27,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "04:04"
+        ],
+        "label": "britain"
+    },
+    "clusterList": [
+        {
+            "phrase": "britain oks hacker's extradition to u s",
+            "count": 27
+        },
+        {
+            "phrase": "we have done a couple of extraditions before but they are not that common",
+            "count": 1
+        }
+    ]
+}

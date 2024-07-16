@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "04:29"
+        ],
+        "label": "can"
+    },
+    "clusterList": [
+        {
+            "phrase": "can you use that in a definition",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not sure i how that's defined",
+            "count": 1
+        }
+    ]
+}

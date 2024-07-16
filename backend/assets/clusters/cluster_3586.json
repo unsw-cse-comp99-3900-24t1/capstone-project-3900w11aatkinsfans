@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:24",
+            "00:51",
+            "02:46",
+            "03:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "genuinely sharing in one another's dilemmas and struggles",
+            "count": 3
+        },
+        {
+            "phrase": "the fact or power of sharing the feelings of another esp in sorrow or trouble",
+            "count": 1
+        },
+        {
+            "phrase": "friendship doubles your joys and divides your sorrows",
+            "count": 1
+        }
+    ]
+}

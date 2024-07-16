@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:50"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i knew that i had made a solid foundation on which to build",
+            "count": 1
+        },
+        {
+            "phrase": "and now i want to build something else",
+            "count": 1
+        }
+    ]
+}

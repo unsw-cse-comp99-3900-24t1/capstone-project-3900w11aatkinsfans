@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "02:38",
+            "04:08"
+        ],
+        "label": "unfortunately"
+    },
+    "clusterList": [
+        {
+            "phrase": "unfortunately we have learned the hard way that the proper protocols for achieving a high level partnership are simply not in place right now hopefully these two proposals will help us get a little closer",
+            "count": 1
+        },
+        {
+            "phrase": "council listened to our proposal and received our presentation well",
+            "count": 1
+        },
+        {
+            "phrase": "having in mind concerns raised by members of the council regarding potential developments",
+            "count": 1
+        }
+    ]
+}

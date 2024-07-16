@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "03:20",
+            "04:05"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but when we were first thinking about it there would be maybe 200 items on marketplace so that was our design point but we've got 17 000 and we're going upwards at an exponential rate",
+            "count": 1
+        },
+        {
+            "phrase": "we spent a good deal on marketing ed note the billboards we got big big increases in queries after we stopped marketing we lost many of them",
+            "count": 1
+        },
+        {
+            "phrase": "how is that adding value and making me monavie sales",
+            "count": 1
+        }
+    ]
+}

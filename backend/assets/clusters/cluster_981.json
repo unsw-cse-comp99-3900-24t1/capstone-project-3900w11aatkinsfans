@@ -1,0 +1,91 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:51",
+            "01:07",
+            "01:33",
+            "01:35",
+            "01:42",
+            "01:47",
+            "02:01",
+            "02:06",
+            "03:28",
+            "03:43",
+            "04:32"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "wait for each other",
+            "count": 2
+        },
+        {
+            "phrase": "so how about after we meet",
+            "count": 1
+        },
+        {
+            "phrase": "hopefully we won't get too sick of each other",
+            "count": 1
+        },
+        {
+            "phrase": "ok what have u two been up to",
+            "count": 1
+        },
+        {
+            "phrase": "we haven't had much time to talk just the two of us",
+            "count": 1
+        },
+        {
+            "phrase": "it needs more time so we are going to meet again on friday",
+            "count": 1
+        },
+        {
+            "phrase": "when are we going to do a movie together",
+            "count": 1
+        },
+        {
+            "phrase": "i just wanted to make sure we both understood our relationship goodnight",
+            "count": 1
+        },
+        {
+            "phrase": "we should take a trip somewhere together imagine how much fun we would get into if we were both single",
+            "count": 1
+        },
+        {
+            "phrase": "sounds great you guys'll have a good time can you pass the salt",
+            "count": 1
+        },
+        {
+            "phrase": "good time oh no we're going to have a great time yup we're having dinner at this fabulous new restaurant and then we're going to go out big time uh huh it's going to be serious",
+            "count": 1
+        },
+        {
+            "phrase": "hey craeg we are going out on insert day here would you like to go with us",
+            "count": 1
+        },
+        {
+            "phrase": "do you realize that as of tonight we've been seeing each other for exactly six months",
+            "count": 1
+        },
+        {
+            "phrase": "hey we should hang out some time maybe grab something to eat or a movie or both",
+            "count": 1
+        }
+    ]
+}

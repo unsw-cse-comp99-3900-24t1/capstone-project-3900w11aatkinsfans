@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:10",
+            "00:18",
+            "02:32",
+            "03:37",
+            "04:05",
+            "04:54"
+        ],
+        "label": "christians"
+    },
+    "clusterList": [
+        {
+            "phrase": "christians are for freedom less restrictions less taxes",
+            "count": 1
+        },
+        {
+            "phrase": "leap from the kingdom of necessity to the kingdom of freedom",
+            "count": 1
+        },
+        {
+            "phrase": "those who deny freedom to others deserve it not for themselves and under a just god can not long retain it",
+            "count": 1
+        },
+        {
+            "phrase": "voices of freedom",
+            "count": 1
+        },
+        {
+            "phrase": "the bible of the animal-liberation movement",
+            "count": 1
+        },
+        {
+            "phrase": "being religious the demonic option",
+            "count": 1
+        },
+        {
+            "phrase": "this nation under god shall have a new birth of freedom",
+            "count": 1
+        },
+        {
+            "phrase": "freedom of mind",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:20",
+            "01:48",
+            "01:51",
+            "02:02",
+            "02:09",
+            "02:24",
+            "02:32",
+            "03:09",
+            "04:03"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "how about we run some plays in the second half jackie",
+            "count": 3
+        },
+        {
+            "phrase": "if we play unselfish fundamental basketball we can make a run at this",
+            "count": 3
+        },
+        {
+            "phrase": "when people know we can run the ball they are going to have to stop focusing on only stopping me and calvin",
+            "count": 2
+        },
+        {
+            "phrase": "running post routes if reggie bush can do it i can do it i'm just saying i'm not scared we have post routes at the running back position we're just not that far in the playbook but i can do it i can do it",
+            "count": 2
+        },
+        {
+            "phrase": "we believe we're definitely going to have to hit more in the second half than we hit in the first half",
+            "count": 1
+        },
+        {
+            "phrase": "we've got to pressure the quarterback get some sacks and interceptions and play four quarters",
+            "count": 1
+        },
+        {
+            "phrase": "adding a player the calibre of ken griffey jr gives us a better chance to realize those goals",
+            "count": 1
+        },
+        {
+            "phrase": "to get a home run and give us the lead is definitely a positive",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:29",
+            "01:30",
+            "01:33",
+            "02:10",
+            "02:46",
+            "03:19",
+            "03:34",
+            "04:00",
+            "04:23",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "left side of the church",
+            "count": 2
+        },
+        {
+            "phrase": "i think i would like to come to your church",
+            "count": 1
+        },
+        {
+            "phrase": "we are a congregation that welcomes all people and we are a sanctuary that ensures safety when the people come",
+            "count": 1
+        },
+        {
+            "phrase": "this is my church and if you do not like it get out",
+            "count": 1
+        },
+        {
+            "phrase": "ways to draw me to your church",
+            "count": 1
+        },
+        {
+            "phrase": "they are the pastors and i'm just a lay person",
+            "count": 1
+        },
+        {
+            "phrase": "you know i've decided to go back to church",
+            "count": 1
+        },
+        {
+            "phrase": "i was glad when they said let us go to church",
+            "count": 1
+        },
+        {
+            "phrase": "wow that would be a very cool church to attend",
+            "count": 1
+        },
+        {
+            "phrase": "i go to church and i love to hear hymns",
+            "count": 1
+        }
+    ]
+}

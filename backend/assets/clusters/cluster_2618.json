@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:10",
+            "01:32",
+            "01:55",
+            "02:25",
+            "02:33",
+            "04:04"
+        ],
+        "label": "participate"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are hundreds of animals that need care",
+            "count": 2
+        },
+        {
+            "phrase": "cattle feed now contains things like chicken manure and dead cats",
+            "count": 2
+        },
+        {
+            "phrase": "participate in the eating of these creatures",
+            "count": 1
+        },
+        {
+            "phrase": "the omnivore's dilemma",
+            "count": 1
+        },
+        {
+            "phrase": "we are dealing with animals of the wild they will do what they need to do to protect themselves and in the event they are hungry they'll do whatever necessary",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:38",
+            "03:59",
+            "05:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i grew up watching lindsay it made me want to do what she does",
+            "count": 1
+        },
+        {
+            "phrase": "this is really the personal picture of lindsay thompson that perhaps is missed in many headlines",
+            "count": 1
+        },
+        {
+            "phrase": "let me tell you something about lindsay lohan",
+            "count": 1
+        },
+        {
+            "phrase": "i grew up watching lindsay and that made me want to do what they do",
+            "count": 1
+        }
+    ]
+}

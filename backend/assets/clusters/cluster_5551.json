@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:08",
+            "01:24",
+            "04:41"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "are they crazy",
+            "count": 2
+        },
+        {
+            "phrase": "i think they're doing a crazy ivan",
+            "count": 1
+        },
+        {
+            "phrase": "they said what are you crazy",
+            "count": 1
+        }
+    ]
+}

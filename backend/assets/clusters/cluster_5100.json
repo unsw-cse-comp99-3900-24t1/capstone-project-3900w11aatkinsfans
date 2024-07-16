@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "01:00",
+            "02:01",
+            "02:24"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's sitting there and he starts unbuttoning his shirt and i'm thinking what is happening",
+            "count": 1
+        },
+        {
+            "phrase": "i bet they acts it out for him then go frig themselves in the bathroom",
+            "count": 1
+        },
+        {
+            "phrase": "he'd be comfortable sleeping in a lawn chair",
+            "count": 1
+        },
+        {
+            "phrase": "i bet he pisses sitting down",
+            "count": 1
+        }
+    ]
+}

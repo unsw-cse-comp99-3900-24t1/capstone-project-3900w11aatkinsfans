@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:11",
+            "00:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "close to opulence when the french revolution occurred",
+            "count": 2
+        },
+        {
+            "phrase": "the terror was government by fear which robespierre theorized as government by virtue invented to destroy the aristocracy it soon became the means to dispose of the wicked and to combat crime it became an integral part of revolution and appeared to be the only means of forming the future citizens of the republic if the republic of free citizens was not yet a possibility it must be because certain individuals corrupted by their past history were not yet pure enough terror became the means by which revolution the history yet to be created would forge the new human beings of the future",
+            "count": 1
+        },
+        {
+            "phrase": "a fantasy reenactment of the french revolution that was the beginning of political terrorism as opposed to isolated acts of assassination as a systematic tactic in the modern world thus the populist strategy of mass insurrection from below in conjunction with that of elite terror from above combined in russia to lend further legitimacy to political violence over and above the initial legitimation provided by the western revolutionary tradition from 1789 to 1871",
+            "count": 1
+        }
+    ]
+}

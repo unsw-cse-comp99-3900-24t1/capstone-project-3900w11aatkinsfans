@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "02:31",
+            "03:01",
+            "04:05"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why the cancellation",
+            "count": 2
+        },
+        {
+            "phrase": "if you wouldn't mind may i ask what the reason for this cancellation is",
+            "count": 1
+        },
+        {
+            "phrase": "forced to cancel",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:41",
+            "01:25",
+            "02:01",
+            "02:05",
+            "03:06",
+            "03:11",
+            "04:36"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm feeling pretty confident with the putter this week which is huge out here",
+            "count": 3
+        },
+        {
+            "phrase": "are there any indicators now how the season will go",
+            "count": 1
+        },
+        {
+            "phrase": "this year i think everyone sees us as a threat so we can't surprise teams",
+            "count": 1
+        },
+        {
+            "phrase": "we're confident every day",
+            "count": 1
+        },
+        {
+            "phrase": "dramatically speaking we believe the second season will be even better than the first",
+            "count": 1
+        },
+        {
+            "phrase": "i'm more confident this season",
+            "count": 1
+        },
+        {
+            "phrase": "i have a feeling this right here could turn our season around",
+            "count": 1
+        }
+    ]
+}

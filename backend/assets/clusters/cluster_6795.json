@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "03:01",
+            "04:04"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of people who traditionally buy from growers they're not committing and it's creating a lot of uncertainty in the market",
+            "count": 1
+        },
+        {
+            "phrase": "any supply of tiger parts into the black market can stimulate trade and consumer demand which could pose a serious threat to already dwindling wild tiger populations",
+            "count": 1
+        },
+        {
+            "phrase": "one of the major things we talked about was containment feeding for stock basically to take pressure off pastures not only in dry seasons like the one we are having now but also in the breaks between good seasons",
+            "count": 1
+        }
+    ]
+}

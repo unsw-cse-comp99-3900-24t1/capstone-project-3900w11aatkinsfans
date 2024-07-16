@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was in some kind of field i suppose",
+            "count": 1
+        },
+        {
+            "phrase": "i take it you weren't in a field in wales then",
+            "count": 1
+        },
+        {
+            "phrase": "then i took a job as an orderly at west jefferson for a summer i got really interested in the technical side of cardiology",
+            "count": 1
+        }
+    ]
+}

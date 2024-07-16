@@ -1,0 +1,117 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:10",
+            "00:47",
+            "00:49",
+            "01:01",
+            "01:06",
+            "01:15",
+            "01:39",
+            "02:00",
+            "02:01",
+            "02:38",
+            "03:06",
+            "03:41",
+            "03:51",
+            "04:00",
+            "04:07",
+            "04:19",
+            "04:32",
+            "04:38"
+        ],
+        "label": "inside"
+    },
+    "clusterList": [
+        {
+            "phrase": "beati on the road in the room",
+            "count": 4
+        },
+        {
+            "phrase": "inside out band",
+            "count": 2
+        },
+        {
+            "phrase": "all things girly with a whole lotta rock-n-roll",
+            "count": 2
+        },
+        {
+            "phrase": "the green album",
+            "count": 2
+        },
+        {
+            "phrase": "blood on the tracks",
+            "count": 1
+        },
+        {
+            "phrase": "old time rock and roll",
+            "count": 1
+        },
+        {
+            "phrase": "hit the road jack",
+            "count": 1
+        },
+        {
+            "phrase": "last train to london just headin out last train to london just leavin town but i really want tonight to last forever i really wanna be with you let the music play on down the line tonight",
+            "count": 1
+        },
+        {
+            "phrase": "hanging on the telephone nosebleed handbag remix",
+            "count": 1
+        },
+        {
+            "phrase": "the track sort of goes round a rock i got lost there once",
+            "count": 1
+        },
+        {
+            "phrase": "yesterday's now music today",
+            "count": 1
+        },
+        {
+            "phrase": "the unholy durand line",
+            "count": 1
+        },
+        {
+            "phrase": "the trolley song",
+            "count": 1
+        },
+        {
+            "phrase": "it's one of those songs made for driving around with the top down",
+            "count": 1
+        },
+        {
+            "phrase": "highway to hell",
+            "count": 1
+        },
+        {
+            "phrase": "beating the drum",
+            "count": 1
+        },
+        {
+            "phrase": "in your face rock n roll",
+            "count": 1
+        }
+    ]
+}

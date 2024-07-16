@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:57"
+        ],
+        "label": "romania"
+    },
+    "clusterList": [
+        {
+            "phrase": "romania does not approve i repeat does not approve in part or in large part of measures taken by the italian government",
+            "count": 1
+        },
+        {
+            "phrase": "we understand part of the measures taken by the italian government but we cannot agree with treatment going beyond the norms of the european union",
+            "count": 1
+        },
+        {
+            "phrase": "we recognise that we have an unresolved problem at home that of the roma minority we propose to the italian government to collaborate to resolve this problem",
+            "count": 1
+        }
+    ]
+}

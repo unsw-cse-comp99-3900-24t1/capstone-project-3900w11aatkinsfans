@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:21",
+            "01:33",
+            "01:40",
+            "02:26",
+            "02:47",
+            "03:27",
+            "03:48",
+            "03:49",
+            "03:54",
+            "04:09",
+            "04:23",
+            "04:24",
+            "04:27",
+            "04:28"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was a once in a lifetime experience",
+            "count": 10
+        },
+        {
+            "phrase": "if it was done to me i would think it was torture",
+            "count": 2
+        },
+        {
+            "phrase": "it's a great experience for us and it's been really interesting",
+            "count": 1
+        },
+        {
+            "phrase": "it was a very very frightening experience for me and the kids",
+            "count": 1
+        },
+        {
+            "phrase": "it was a learning experience for me",
+            "count": 1
+        },
+        {
+            "phrase": "very good experience",
+            "count": 1
+        }
+    ]
+}

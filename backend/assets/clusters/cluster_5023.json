@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:24",
+            "04:11",
+            "04:36"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "within seven months he set a world record in the 200 butterfly",
+            "count": 2
+        },
+        {
+            "phrase": "one of 2008's landmark records",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's a speed record",
+            "count": 1
+        }
+    ]
+}

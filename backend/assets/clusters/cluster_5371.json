@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "03:52",
+            "04:24"
+        ],
+        "label": "ok"
+    },
+    "clusterList": [
+        {
+            "phrase": "ok there is your cervix i have a good view",
+            "count": 1
+        },
+        {
+            "phrase": "now i am going to scrub your cervix with iodine wash to make sure it's clean",
+            "count": 1
+        },
+        {
+            "phrase": "ok now i need to dilated your cervix a bit so we can put the tube through it",
+            "count": 1
+        },
+        {
+            "phrase": "mooooom can you help me squeeze the last bit out of the old tube",
+            "count": 1
+        }
+    ]
+}

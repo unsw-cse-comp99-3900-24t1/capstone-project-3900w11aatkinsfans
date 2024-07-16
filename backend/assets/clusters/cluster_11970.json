@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:23"
+        ],
+        "label": "only"
+    },
+    "clusterList": [
+        {
+            "phrase": "only mr newman knows the context in which he intended the comments to have",
+            "count": 1
+        },
+        {
+            "phrase": "in my mind mr newman made a stupid and inappropriate comment and perhaps in the future he'll be more careful about what he chooses to say",
+            "count": 1
+        }
+    ]
+}

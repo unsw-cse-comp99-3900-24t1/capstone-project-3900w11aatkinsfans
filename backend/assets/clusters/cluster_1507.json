@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:38",
+            "02:01",
+            "02:48",
+            "03:14",
+            "03:18",
+            "03:54",
+            "04:06",
+            "04:18"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "what are mothers thinking about meal time right now",
+            "count": 2
+        },
+        {
+            "phrase": "don't shop when you're hungry",
+            "count": 1
+        },
+        {
+            "phrase": "because this is my lunch period i haven't fin",
+            "count": 1
+        },
+        {
+            "phrase": "me too 10pm's really late to be eating i usually have dinner at like 6 30",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i'm usually hungry by that time i generally don't like to eat this late",
+            "count": 1
+        },
+        {
+            "phrase": "this is way too cheesy that makes me stay up late cuz it has sugar in it",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i haven't eaten anything all day i'll grab some toast in a minute my mother sent me some luuurvely british bread so i'll use that",
+            "count": 1
+        },
+        {
+            "phrase": "how will i feel five minutes after i eat this",
+            "count": 1
+        },
+        {
+            "phrase": "i never seen you eat like that before you act like you ain't eat in a fortnight aren't you supposed to be all dainty and what not",
+            "count": 1
+        },
+        {
+            "phrase": "i promised i'd make dinner didn't i but do you know i'm really not that hungry at the moment are you",
+            "count": 1
+        }
+    ]
+}

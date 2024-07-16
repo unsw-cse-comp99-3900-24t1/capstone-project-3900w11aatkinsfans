@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "02:00",
+            "04:27",
+            "04:31"
+        ],
+        "label": "hundreds"
+    },
+    "clusterList": [
+        {
+            "phrase": "hundreds of bottles",
+            "count": 3
+        },
+        {
+            "phrase": "how many bottles would you like this morning",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            4,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:10",
+            "00:18",
+            "00:38",
+            "00:56",
+            "01:24",
+            "01:37",
+            "02:09",
+            "02:43",
+            "02:51",
+            "02:55",
+            "03:44",
+            "04:15",
+            "04:51"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "time to blow this thread up",
+            "count": 4
+        },
+        {
+            "phrase": "wind it up",
+            "count": 4
+        },
+        {
+            "phrase": "blowin in the wind",
+            "count": 3
+        },
+        {
+            "phrase": "blow up blow up",
+            "count": 2
+        },
+        {
+            "phrase": "blowin up the spot",
+            "count": 2
+        },
+        {
+            "phrase": "you just tried to blow me up",
+            "count": 1
+        },
+        {
+            "phrase": "come up for air",
+            "count": 1
+        },
+        {
+            "phrase": "wash and blow dry",
+            "count": 1
+        },
+        {
+            "phrase": "baby suck it up",
+            "count": 1
+        },
+        {
+            "phrase": "blown up the spot",
+            "count": 1
+        },
+        {
+            "phrase": "bomb bomb bomb",
+            "count": 1
+        }
+    ]
+}

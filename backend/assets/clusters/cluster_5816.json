@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "03:37",
+            "04:41"
+        ],
+        "label": "free"
+    },
+    "clusterList": [
+        {
+            "phrase": "free call day",
+            "count": 1
+        },
+        {
+            "phrase": "rent time on a cell phone",
+            "count": 1
+        },
+        {
+            "phrase": "voice mail of the week",
+            "count": 1
+        }
+    ]
+}

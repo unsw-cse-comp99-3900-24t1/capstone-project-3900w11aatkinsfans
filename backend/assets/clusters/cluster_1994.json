@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:33",
+            "03:10",
+            "03:15",
+            "03:23",
+            "03:48",
+            "04:11",
+            "04:36"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "to bring him back to life",
+            "count": 2
+        },
+        {
+            "phrase": "he just wanted to go from one thing to another",
+            "count": 2
+        },
+        {
+            "phrase": "in the end they really just wanted to move him",
+            "count": 1
+        },
+        {
+            "phrase": "it's something that he wanted to do",
+            "count": 1
+        },
+        {
+            "phrase": "to feel his way back",
+            "count": 1
+        },
+        {
+            "phrase": "why does he want to go back",
+            "count": 1
+        },
+        {
+            "phrase": "perhaps he wanted a fresh opportunity a new start",
+            "count": 1
+        }
+    ]
+}

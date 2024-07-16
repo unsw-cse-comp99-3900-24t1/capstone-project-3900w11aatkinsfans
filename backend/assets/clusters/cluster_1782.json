@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "00:33",
+            "01:52",
+            "03:29",
+            "04:27",
+            "04:44",
+            "04:45",
+            "04:49"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are barely making a dent in the backlog that is facing pennsylvania's bridges",
+            "count": 3
+        },
+        {
+            "phrase": "bridges don't fall down",
+            "count": 1
+        },
+        {
+            "phrase": "last year at this time you told me you have 30 deficient bridges in your district how many do you have now",
+            "count": 1
+        },
+        {
+            "phrase": "a bridge can be classified as structurally deficient if there is some sprawling in the deck some potholes in the deck or some rust on the steel members of the bridge",
+            "count": 1
+        },
+        {
+            "phrase": "people would think ok it's structurally deficient you should immediately start getting that replaced and a lot of times there is much life left in those bridges",
+            "count": 1
+        },
+        {
+            "phrase": "pennsylvania has the most structurally deficient bridges anywhere in the country",
+            "count": 1
+        },
+        {
+            "phrase": "when we say deficient it does not mean the bridge is going to fall down a lot of it is just functional issues",
+            "count": 1
+        },
+        {
+            "phrase": "there are many states across the country who would like to have as low of percentage of deficient bridges as nevada however i would point out that minnesota where we had the tragedy last year they were the forth best in the country",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "04:41"
+        ],
+        "label": "crawl"
+    },
+    "clusterList": [
+        {
+            "phrase": "crawl and index the intranet",
+            "count": 1
+        },
+        {
+            "phrase": "indexing silverlight content",
+            "count": 1
+        }
+    ]
+}

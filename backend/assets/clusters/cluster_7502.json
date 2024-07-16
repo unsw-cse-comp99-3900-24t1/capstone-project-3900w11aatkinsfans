@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:23",
+            "02:57"
+        ],
+        "label": "ultimate"
+    },
+    "clusterList": [
+        {
+            "phrase": "ultimate diplomatic tool for the president",
+            "count": 1
+        },
+        {
+            "phrase": "direct or indirect contact with official us authorities",
+            "count": 1
+        },
+        {
+            "phrase": "american military official in washington who requested anonymity because of the sensitivity of the operation",
+            "count": 1
+        }
+    ]
+}

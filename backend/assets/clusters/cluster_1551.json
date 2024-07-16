@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:24",
+            "01:00",
+            "04:04",
+            "04:13",
+            "04:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "new type of fascism",
+            "count": 4
+        },
+        {
+            "phrase": "a new type of fascism",
+            "count": 4
+        },
+        {
+            "phrase": "this comp kills fascists",
+            "count": 1
+        },
+        {
+            "phrase": "reimagined through the lens of fascism",
+            "count": 1
+        },
+        {
+            "phrase": "for fascism society is the end individuals the means and its whole life consists in using individuals as instruments for its social ends",
+            "count": 1
+        }
+    ]
+}

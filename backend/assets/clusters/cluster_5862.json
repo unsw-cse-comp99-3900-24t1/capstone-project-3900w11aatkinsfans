@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know what you did last summer",
+            "count": 1
+        },
+        {
+            "phrase": "i still know what you did last summer",
+            "count": 1
+        },
+        {
+            "phrase": "please i haven't done anything",
+            "count": 1
+        }
+    ]
+}

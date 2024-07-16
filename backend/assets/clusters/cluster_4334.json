@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:01",
+            "01:19",
+            "04:50",
+            "05:03"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two others said they had knowledge of human remains at the location but were not specific a local advocate also came to police and said he had a client who knew there were human remains buried at the home",
+            "count": 1
+        },
+        {
+            "phrase": "murders in the rue morgue",
+            "count": 1
+        },
+        {
+            "phrase": "the dutch authorities were called immediately after conducting an investigation they confirmed that the cause of death was suicide",
+            "count": 1
+        },
+        {
+            "phrase": "following the death of an 81-year-old female resident at the lanercost house care home in carlisle on july 23 a post-mortem carried out by a home office pathologist has established she suffered a broken neck",
+            "count": 1
+        },
+        {
+            "phrase": "if you can help police please contact detectives at medway police station",
+            "count": 1
+        }
+    ]
+}

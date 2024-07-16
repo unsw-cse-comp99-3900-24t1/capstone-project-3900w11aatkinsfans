@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:04",
+            "01:48",
+            "02:01",
+            "03:06",
+            "03:23",
+            "04:28",
+            "04:38"
+        ],
+        "label": "members"
+    },
+    "clusterList": [
+        {
+            "phrase": "colleagues associates and companies",
+            "count": 2
+        },
+        {
+            "phrase": "many executives and industry professionals",
+            "count": 2
+        },
+        {
+            "phrase": "members representing professionals in the field of science and technology",
+            "count": 1
+        },
+        {
+            "phrase": "to ensure the professionalism and reliability of its associates",
+            "count": 1
+        },
+        {
+            "phrase": "friends family and co-workers",
+            "count": 1
+        },
+        {
+            "phrase": "more than one of my colleagues",
+            "count": 1
+        }
+    ]
+}

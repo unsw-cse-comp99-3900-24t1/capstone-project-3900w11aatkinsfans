@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:44",
+            "01:20",
+            "01:39",
+            "01:47",
+            "01:55",
+            "02:02",
+            "02:05",
+            "02:09",
+            "02:25",
+            "02:28",
+            "04:23",
+            "04:28"
+        ],
+        "label": "every"
+    },
+    "clusterList": [
+        {
+            "phrase": "by the time you do the math in your head then you have to figure out what shot you want to hit",
+            "count": 8
+        },
+        {
+            "phrase": "what you never seen me shoot free throws before",
+            "count": 3
+        },
+        {
+            "phrase": "every shot i took was carefully structured and prepared unlike the past when i'd just turn up and shoot",
+            "count": 2
+        },
+        {
+            "phrase": "j ust by looking at a pure number of shots you can't answer that question you have to think about the totality of the circumstances that went into play",
+            "count": 1
+        },
+        {
+            "phrase": "it makes me feel good to know that even if i hit a bad shot i go to the next shot trying to do the exact same thing not searching for something",
+            "count": 1
+        },
+        {
+            "phrase": "why not do only hits all the time",
+            "count": 1
+        },
+        {
+            "phrase": "my goal was just to shoot even",
+            "count": 1
+        }
+    ]
+}

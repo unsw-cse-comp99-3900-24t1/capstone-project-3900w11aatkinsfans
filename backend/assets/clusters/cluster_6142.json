@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "04:40",
+            "04:55"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we almost got to launch twice yesterday but firefighters in the area were able to gain control of the situation quickly",
+            "count": 1
+        },
+        {
+            "phrase": "i felt it was too soon after firing within 925 metre level and that as it broke the 12-hour period protocol it was a potentially dangerous time to be in that part of the mine",
+            "count": 1
+        },
+        {
+            "phrase": "we could not have done it as firefighters alone it took more people than we had it was organized it was pretty calm",
+            "count": 1
+        }
+    ]
+}

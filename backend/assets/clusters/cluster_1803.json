@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "01:11",
+            "01:32",
+            "01:43",
+            "02:32",
+            "03:42",
+            "04:06",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the most traumatic experience",
+            "count": 3
+        },
+        {
+            "phrase": "my childhood was a bit tough",
+            "count": 2
+        },
+        {
+            "phrase": "i was traumatized in childhood",
+            "count": 1
+        },
+        {
+            "phrase": "it was pretty traumatic",
+            "count": 1
+        },
+        {
+            "phrase": "i saw early on as a lot of people recognize that you can emotionally burn out from just being exposed to the trauma of other people's lives",
+            "count": 1
+        },
+        {
+            "phrase": "understanding traumatized and maltreated children",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:04",
+            "04:19"
+        ],
+        "label": "playing"
+    },
+    "clusterList": [
+        {
+            "phrase": "playing the woman card",
+            "count": 1
+        },
+        {
+            "phrase": "playing the sex card",
+            "count": 1
+        },
+        {
+            "phrase": "the tricks of a woman",
+            "count": 1
+        }
+    ]
+}

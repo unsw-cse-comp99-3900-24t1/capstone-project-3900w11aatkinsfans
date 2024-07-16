@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it will still sell so i'm not going to give up on griffey sales",
+            "count": 1
+        },
+        {
+            "phrase": "it won't sell as well",
+            "count": 1
+        },
+        {
+            "phrase": "i think it would be a shame to lose it for the sake of another big-box store",
+            "count": 1
+        }
+    ]
+}

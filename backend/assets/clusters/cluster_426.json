@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            4,
+            5,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:32",
+            "00:38",
+            "00:42",
+            "00:47",
+            "00:52",
+            "01:05",
+            "01:19",
+            "01:40",
+            "01:50",
+            "02:26",
+            "02:28",
+            "02:41",
+            "03:22",
+            "04:15",
+            "04:19",
+            "04:41"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "extremis newslinks jul 31 2008 8 00 am iraq report iraqi photographer detained by u",
+            "count": 11
+        },
+        {
+            "phrase": "col issawi has been a police officer for over 20 years meaning he is one of saddam hussein's officers who agreed to continue although the country was occupied by the americans",
+            "count": 4
+        },
+        {
+            "phrase": "he is being detained because he has been assessed to be a threat to the security of iraq and coalition forces",
+            "count": 2
+        },
+        {
+            "phrase": "this policy should be condemned internationally through human rights organizations and they should be punished via an international court and not an israeli court at the end of the day they will be released the officer after a month or two or a short period he is in prison in front of the media but not in reality",
+            "count": 2
+        },
+        {
+            "phrase": "we have served him a written order asking him not to leave the country till his name is cleared by investigators",
+            "count": 2
+        },
+        {
+            "phrase": "having served with the us army and the police one cannot believe that he was so na ve in operating and maintaining computer security and secrecy the us cops are trained to be very careful in such matters",
+            "count": 2
+        },
+        {
+            "phrase": "he was tortured during his detention",
+            "count": 1
+        },
+        {
+            "phrase": "he is due in court at 1400 gmt after spending his first night in a cell at the u n war crimes tribunal detention centre in the hague",
+            "count": 1
+        },
+        {
+            "phrase": "his continued detention is not justified for the security of the united states or its people nor is he a flight risk",
+            "count": 1
+        }
+    ]
+}

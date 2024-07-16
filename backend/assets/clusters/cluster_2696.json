@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "00:48",
+            "02:09",
+            "02:46",
+            "03:18",
+            "03:55"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you ever need help look for her this woman knows everything",
+            "count": 1
+        },
+        {
+            "phrase": "she's doesn't know anything else",
+            "count": 1
+        },
+        {
+            "phrase": "that's my baby girl and i need her in my world",
+            "count": 1
+        },
+        {
+            "phrase": "she loves everything about the area where she lives",
+            "count": 1
+        },
+        {
+            "phrase": "but harpy i know where she went",
+            "count": 1
+        },
+        {
+            "phrase": "and you krusha i know where your lady friend is",
+            "count": 1
+        },
+        {
+            "phrase": "she's in us",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:09",
+            "02:48",
+            "04:18"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because we're so distributed we had to build a common social fabric virtually",
+            "count": 2
+        },
+        {
+            "phrase": "social networking is now finding its feet precisely because users have found a way to make it responsive to the logic of their social worlds",
+            "count": 1
+        },
+        {
+            "phrase": "socialize we have to socialize",
+            "count": 1
+        }
+    ]
+}

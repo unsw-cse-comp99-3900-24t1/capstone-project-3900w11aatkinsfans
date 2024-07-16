@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:05"
+        ],
+        "label": "ieds"
+    },
+    "clusterList": [
+        {
+            "phrase": "ieds have grown dramatically they are going for a catastrophic kill",
+            "count": 1
+        },
+        {
+            "phrase": "the threat of ieds has gone down so much since i last deployed to iraq it used to be a pretty regular thing to get hit",
+            "count": 1
+        }
+    ]
+}

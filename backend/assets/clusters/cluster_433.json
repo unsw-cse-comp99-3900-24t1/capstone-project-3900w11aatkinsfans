@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:11",
+            "00:19",
+            "01:20",
+            "01:41",
+            "02:05",
+            "02:10",
+            "02:11",
+            "02:25",
+            "02:41",
+            "03:15",
+            "03:29",
+            "04:22",
+            "04:44",
+            "05:04"
+        ],
+        "label": "mars"
+    },
+    "clusterList": [
+        {
+            "phrase": "mars is giving us some surprises",
+            "count": 10
+        },
+        {
+            "phrase": "we're excited because surprises are where discoveries come from one surprise is how the soil is behaving the ice-rich layers stick to the scoop when poised in the sun above the deck different from what we expected from all the mars simulation testing we've done that has presented challenges for delivering samples but we're finding ways to work with it and we're gathering lots of information to help us understand this soil",
+            "count": 9
+        },
+        {
+            "phrase": "what's happening on discovery",
+            "count": 1
+        },
+        {
+            "phrase": "we're excited because surprises are where discoveries come from",
+            "count": 1
+        },
+        {
+            "phrase": "we know virtually nothing about this art that's the exciting part of this discovery",
+            "count": 1
+        },
+        {
+            "phrase": "this discovery is simply groundbreaking",
+            "count": 1
+        },
+        {
+            "phrase": "we're excited with the initial findings",
+            "count": 1
+        },
+        {
+            "phrase": "we're excited because surprises are where discoveries come from one surprise is how the soil is behaving the ice-rich layers stick to the scoop when poised in the sun above the deck different from what we expected from all the mars simulation testing we've done",
+            "count": 1
+        },
+        {
+            "phrase": "mars is giving us some surprises we're excited because surprises are where discoveries come from",
+            "count": 1
+        }
+    ]
+}

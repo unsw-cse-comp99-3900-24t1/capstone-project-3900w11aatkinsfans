@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:10",
+            "00:16"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're all on the same ride together",
+            "count": 1
+        },
+        {
+            "phrase": "we came here together but on different cars",
+            "count": 1
+        },
+        {
+            "phrase": "we ride it together uh huh makin love with each other uh huh islands in the stream that is what we are no one in between how can we be wrong",
+            "count": 1
+        }
+    ]
+}

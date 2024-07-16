@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:46",
+            "01:04",
+            "01:08",
+            "01:34",
+            "01:37",
+            "01:42",
+            "01:47",
+            "02:00",
+            "02:14",
+            "03:18",
+            "04:38",
+            "04:47"
+        ],
+        "label": "americans"
+    },
+    "clusterList": [
+        {
+            "phrase": "these negative ads these negative attacks",
+            "count": 7
+        },
+        {
+            "phrase": "it's not our intention to do any campaigning for or against any politicians",
+            "count": 2
+        },
+        {
+            "phrase": "americans want a respectful campaign people say negative ads move numbers they may but do we have to go to the lowest common denominator i don't think so",
+            "count": 1
+        },
+        {
+            "phrase": "enough with all of the name calling and pointless advertisements why can't americans see through this mess for what it is and focus on issues",
+            "count": 1
+        },
+        {
+            "phrase": "it's time we did away with a lot of this political rhetoric at the level we're at including these negative ads nobody likes these negative ads you want to know what we're for not who we're against",
+            "count": 1
+        },
+        {
+            "phrase": "even by the elastic standards of political ads this is more than a stretch it's baloney it's also a marker on the path toward the kind of simplistic counterproductive demonizing that many expect will poison the fall campaign",
+            "count": 1
+        }
+    ]
+}

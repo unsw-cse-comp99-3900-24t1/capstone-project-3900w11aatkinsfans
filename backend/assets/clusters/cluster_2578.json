@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:13",
+            "00:19",
+            "03:18",
+            "03:24",
+            "04:05",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the truth is probably better at this point",
+            "count": 1
+        },
+        {
+            "phrase": "there's no truth to it at all",
+            "count": 1
+        },
+        {
+            "phrase": "speaking the truth",
+            "count": 1
+        },
+        {
+            "phrase": "well to tell you the truth",
+            "count": 1
+        },
+        {
+            "phrase": "there's nothing in it that's not true",
+            "count": 1
+        },
+        {
+            "phrase": "the lies i told",
+            "count": 1
+        },
+        {
+            "phrase": "there is a truth behind all this",
+            "count": 1
+        }
+    ]
+}

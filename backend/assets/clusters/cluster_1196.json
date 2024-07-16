@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:16",
+            "00:20",
+            "01:01",
+            "01:20",
+            "01:40",
+            "02:01",
+            "02:20",
+            "02:24",
+            "02:26",
+            "02:57",
+            "03:42",
+            "04:19"
+        ],
+        "label": "grandstanding"
+    },
+    "clusterList": [
+        {
+            "phrase": "grandstanding and foolishness",
+            "count": 8
+        },
+        {
+            "phrase": "complete failure of responsibility",
+            "count": 2
+        },
+        {
+            "phrase": "never ascribe to malice that which is adequately explained by incompetence",
+            "count": 1
+        },
+        {
+            "phrase": "falls within the context of the mistakes",
+            "count": 1
+        },
+        {
+            "phrase": "mere negligence or carelessness is not evidence of actual malice or malice in fact and does not justify an award of exemplary or punitive damages",
+            "count": 1
+        }
+    ]
+}

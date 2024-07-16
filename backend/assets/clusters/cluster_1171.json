@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:04",
+            "01:33",
+            "01:34",
+            "01:37",
+            "01:51",
+            "02:01",
+            "02:09",
+            "02:14",
+            "03:10",
+            "05:01",
+            "05:03"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's very dramatic and awe-inspiring when the darkness suddenly comes that's why thousands of tourists go to see",
+            "count": 8
+        },
+        {
+            "phrase": "crime dramas are the most popular shows on tv horror movies are flooding video stores and paranormal books are incredibly popular everyone is drawn to the dark side and there is clearly a demand for dark-themed entertainment but until now there has not been a publication that caters to the enjoyment of all things dark black will fill this expanding and increasingly popular niche",
+            "count": 2
+        },
+        {
+            "phrase": "it provides great entertainment when there's not much going on it's a totally different experience to walk up and down the streets in the dark and hear the stories than to read about them in a book or a newspaper",
+            "count": 1
+        },
+        {
+            "phrase": "about as enlightening as watching daytime television",
+            "count": 1
+        },
+        {
+            "phrase": "street photography often tends to be ironic and can be distanced from its subject matter and often concentrates on a single human moment caught at a decisive or poignant moment on the other hand much street photography takes the opposite approach and provides a very literal and extremely personal rendering of the subject matter giving the audience a more visceral experience of walks of life they might only be passingly familiar with",
+            "count": 1
+        }
+    ]
+}

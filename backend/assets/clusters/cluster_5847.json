@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:51",
+            "01:50"
+        ],
+        "label": "ordinary"
+    },
+    "clusterList": [
+        {
+            "phrase": "ordinary voters are tired of these swift-boating attempts to bring out the negative side",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think that the issues surrounding political reform are that interesting to ordinary people whose main concern is how to provide for their daily needs",
+            "count": 1
+        },
+        {
+            "phrase": "it is now clear to everyone that this is not about political survival or the desire to attract voters",
+            "count": 1
+        }
+    ]
+}

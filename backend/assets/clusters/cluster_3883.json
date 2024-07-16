@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:58",
+            "01:25",
+            "02:01",
+            "03:18"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you going to be out here doing this the whole time",
+            "count": 1
+        },
+        {
+            "phrase": "oh my look at everything i have to do",
+            "count": 1
+        },
+        {
+            "phrase": "i know what you're doing in there",
+            "count": 1
+        },
+        {
+            "phrase": "that's what i'm doing",
+            "count": 1
+        },
+        {
+            "phrase": "no i'm not doing that i need to think",
+            "count": 1
+        }
+    ]
+}

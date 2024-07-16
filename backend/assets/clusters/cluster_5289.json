@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:43",
+            "03:34",
+            "04:18"
+        ],
+        "label": "they've"
+    },
+    "clusterList": [
+        {
+            "phrase": "they've made a lot of progress that way",
+            "count": 1
+        },
+        {
+            "phrase": "they've got extremely young exciting and very very quick backs and an experienced campaigner at full-back so they're going to be tough to beat",
+            "count": 1
+        },
+        {
+            "phrase": "they've done a pretty good job i think they have a long way to go",
+            "count": 1
+        },
+        {
+            "phrase": "they're doing the best they can",
+            "count": 1
+        }
+    ]
+}

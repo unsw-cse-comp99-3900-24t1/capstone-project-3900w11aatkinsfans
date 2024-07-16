@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:36",
+            "04:41",
+            "04:45"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not getting the fish i used to get",
+            "count": 1
+        },
+        {
+            "phrase": "fishing for tilapia",
+            "count": 1
+        },
+        {
+            "phrase": "five super beautiful fish",
+            "count": 1
+        },
+        {
+            "phrase": "they're the hardest to catch",
+            "count": 1
+        }
+    ]
+}

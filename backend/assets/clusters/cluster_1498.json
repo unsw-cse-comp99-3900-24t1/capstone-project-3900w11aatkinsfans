@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:28",
+            "04:03",
+            "04:05",
+            "04:40",
+            "04:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pressure's on me now",
+            "count": 6
+        },
+        {
+            "phrase": "there's a lot of pressure on me",
+            "count": 2
+        },
+        {
+            "phrase": "now there's more pressure",
+            "count": 1
+        },
+        {
+            "phrase": "no pressure at all i'm here to play football",
+            "count": 1
+        },
+        {
+            "phrase": "i'm 32 years old now maybe when i was 18 i felt the pressure but definitely not now",
+            "count": 1
+        }
+    ]
+}

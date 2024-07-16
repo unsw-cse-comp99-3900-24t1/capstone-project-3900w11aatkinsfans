@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "00:00"
+        ],
+        "label": "during"
+    },
+    "clusterList": [
+        {
+            "phrase": "during the course of our investigations we located one industry where the odour controls were not working correctly and we are now making sure that the company rectifies this",
+            "count": 1
+        },
+        {
+            "phrase": "we were able to analyse four samples from our odour-capturing canisters used during the survey however none of these came from residential areas and with the exception of the samples obtained from hunter water corporation's sewer system were in fact typical of busy roads",
+            "count": 1
+        },
+        {
+            "phrase": "based on the diversity of complaints both in odour types and location we knew that this would not be a simple matter of finding one single source instead it is most likely a combination of processes from a combination of industries",
+            "count": 1
+        },
+        {
+            "phrase": "hopefully by working with the industries in rutherford to ensure that the correct odour controls are in place we can eliminate the offensive smells as much as possible",
+            "count": 1
+        }
+    ]
+}

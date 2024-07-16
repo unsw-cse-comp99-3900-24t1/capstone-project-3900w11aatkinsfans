@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:01",
+            "02:02",
+            "02:11",
+            "02:24"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh for sure it's a big game for the bledisloe cup and the tri-nations dead right",
+            "count": 2
+        },
+        {
+            "phrase": "to win a tri-nations match it doesn't matter where it is it's significant and we've got one coming up and we're looking forward to it",
+            "count": 1
+        },
+        {
+            "phrase": "the tri-nations is up for grabs the bledisloe a couple of trophies that mean a lot to us we're wanting to get this campaign back on track",
+            "count": 1
+        },
+        {
+            "phrase": "this game is very important not only because we hope to be involved in the tri-nations in the future but because each time we play south africa it is very important",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:06",
+            "02:26"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is deeply hypocritical that they should be lavishing course after course on world leaders when there is a food crisis and millions cannot afford a decent meal",
+            "count": 2
+        },
+        {
+            "phrase": "if it's a choice between food and a minor problem they're going to pay for the food",
+            "count": 1
+        }
+    ]
+}

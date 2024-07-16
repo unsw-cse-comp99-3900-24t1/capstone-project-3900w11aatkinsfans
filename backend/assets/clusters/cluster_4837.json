@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:19",
+            "05:05"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have the ability to regenerate cartilage",
+            "count": 1
+        },
+        {
+            "phrase": "if we can identify what genes or proteins are necessary for cartilage to heal we can work toward finding similar genes and proteins in humans",
+            "count": 1
+        },
+        {
+            "phrase": "the stem cells promise to speed those repairs but trying to keep these horses immobilised for a long time is very very difficult",
+            "count": 1
+        },
+        {
+            "phrase": "at this stage what we can say is the cells we were able to expand into massive doses have been proven to create bone and create cartilage",
+            "count": 1
+        }
+    ]
+}

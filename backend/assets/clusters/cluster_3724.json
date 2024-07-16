@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "00:36",
+            "02:22",
+            "02:25",
+            "03:08"
+        ],
+        "label": "anything"
+    },
+    "clusterList": [
+        {
+            "phrase": "all things considered",
+            "count": 2
+        },
+        {
+            "phrase": "anything that's good",
+            "count": 1
+        },
+        {
+            "phrase": "anything but that",
+            "count": 1
+        },
+        {
+            "phrase": "anything but love",
+            "count": 1
+        }
+    ]
+}

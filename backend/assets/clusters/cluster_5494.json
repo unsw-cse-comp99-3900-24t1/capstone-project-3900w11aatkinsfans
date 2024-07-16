@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:56",
+            "04:23",
+            "04:31"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of these comic book characters in fact that exists in a much more pure fashion than you'd ever seen him drawn",
+            "count": 1
+        },
+        {
+            "phrase": "i guess i was probably reading too much into his clothes but i just assumed that he would be into certain things like maybe he would like whit stillman and the dirty projectors or at the very least wes anderson and vampire weekend",
+            "count": 1
+        },
+        {
+            "phrase": "his drawing style full of detail expressing character he really would get into a personality",
+            "count": 1
+        },
+        {
+            "phrase": "given that there is so much that is unconventional about his background and personna",
+            "count": 1
+        }
+    ]
+}

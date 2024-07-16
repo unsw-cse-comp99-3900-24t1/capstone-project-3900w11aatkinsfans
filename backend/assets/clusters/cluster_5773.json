@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "03:29"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this research shows that when the estrogen receptor-alpha is restored to adult mice that have been missing it their entire lives it is still possible to enhance memory and learning",
+            "count": 1
+        },
+        {
+            "phrase": "the research brings up the idea that local activation of non-nuclear estrogen receptor-alpha is important for regulating memory processes in the hippocampus",
+            "count": 1
+        },
+        {
+            "phrase": "but our data do suggest that calcineurin inhibition should be investigated in future studies which also should look at how amyloid-beta causes calcium overload and whether removing plaques really does improve neuronal health",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:00",
+            "04:36"
+        ],
+        "label": "dear"
+    },
+    "clusterList": [
+        {
+            "phrase": "dear editor i am 8 years old",
+            "count": 1
+        },
+        {
+            "phrase": "letters to the editor",
+            "count": 1
+        }
+    ]
+}

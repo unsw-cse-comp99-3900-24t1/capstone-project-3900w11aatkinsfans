@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:19",
+            "01:34",
+            "01:55",
+            "02:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am looking forward to returning to america fighting again at the mgm grand and challenging malignaggi for his title",
+            "count": 2
+        },
+        {
+            "phrase": "i am looking forward to returning to america fighting again at the mgm grand and challenging maglignaggi for his title",
+            "count": 2
+        },
+        {
+            "phrase": "as a fan i am excited to see if hatton can lure malignaggi into a brawl or if malignaggi can dictate the tempo and make the fight his said golden boy president oscar de la hoya who plans to end his own career in the same mgm grand garden ring on dec 6",
+            "count": 1
+        },
+        {
+            "phrase": "i am looking forward to returning to america fighting again at the mgm grand and challenging maglignaggi for his title said hatton who was followed to nevada by thousands of passionate english fans for his loss to mayweather",
+            "count": 1
+        }
+    ]
+}

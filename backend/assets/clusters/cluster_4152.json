@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:01",
+            "03:34",
+            "04:18",
+            "04:38"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of the money raised by givemeaning ends in my pocket",
+            "count": 1
+        },
+        {
+            "phrase": "i was young and needed money",
+            "count": 1
+        },
+        {
+            "phrase": "how did you get all that money",
+            "count": 1
+        },
+        {
+            "phrase": "i had a lot of money in that wallet",
+            "count": 1
+        },
+        {
+            "phrase": "here i ended up owing 590 000 on it",
+            "count": 1
+        }
+    ]
+}

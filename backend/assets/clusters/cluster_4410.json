@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:07",
+            "01:30",
+            "02:32"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they keep you on the edge of your seat",
+            "count": 1
+        },
+        {
+            "phrase": "fasten your seatbelts",
+            "count": 1
+        },
+        {
+            "phrase": "fasten your seat belts",
+            "count": 1
+        },
+        {
+            "phrase": "why do i need a seat like that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            2
+        ],
+        "xLabels": [
+            "00:42",
+            "01:11",
+            "04:32"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we believe that our data add to those from previous studies showing a causal relationship between h pylori infection and gastric cancer and also support the use of h pylori eradication to prevent the development of gastric cancer",
+            "count": 2
+        },
+        {
+            "phrase": "preventing gastric cancer by eradicating h pylori in high-risk regions should be a priority",
+            "count": 2
+        },
+        {
+            "phrase": "this result adds to our understanding of the relationship between h pylori and stomach cancer and to the debate on how we should treat people with this infection",
+            "count": 2
+        },
+        {
+            "phrase": "the results of our study suggest that treatment to eradicate h pylori reduces the risk of developing new gastric carcinoma in patients who have a history of such disease and are thus at risk for developing further gastric cancers we believe that our data add to those from previous studies showing a causal relationship between h pylori infection and gastric cancer and also support the use of h pylori eradication to prevent the development of gastric cancer",
+            "count": 1
+        },
+        {
+            "phrase": "yet worldwide gastric cancer kills more people and there is better evidence that h pylori eradication can prevent mortality than there is for colonoscopy screening preventing gastric cancer by eradicating h pylori in high-risk regions should be a priority",
+            "count": 1
+        }
+    ]
+}

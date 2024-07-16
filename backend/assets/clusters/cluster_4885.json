@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "01:37",
+            "02:55"
+        ],
+        "label": "federal"
+    },
+    "clusterList": [
+        {
+            "phrase": "federal judge says cross can remain on san diego's mt soledad aclu says opponents may appeal the decision the symbol is part of a federally owned war memorial",
+            "count": 3
+        },
+        {
+            "phrase": "the american civil liberties union which is fighting to remove the cross has sixty days to appeal",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:12",
+            "00:33",
+            "01:15",
+            "01:50",
+            "01:52",
+            "03:12",
+            "04:04",
+            "04:13"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "yet another broken promise",
+            "count": 3
+        },
+        {
+            "phrase": "that a promise",
+            "count": 1
+        },
+        {
+            "phrase": "broke my promise to always tell the truth",
+            "count": 1
+        },
+        {
+            "phrase": "the perricone promise",
+            "count": 1
+        },
+        {
+            "phrase": "lived up to its promise",
+            "count": 1
+        },
+        {
+            "phrase": "never is a promise",
+            "count": 1
+        },
+        {
+            "phrase": "an empty promise",
+            "count": 1
+        }
+    ]
+}

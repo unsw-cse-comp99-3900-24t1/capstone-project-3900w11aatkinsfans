@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:24",
+            "02:44",
+            "04:05",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the american public willingly made all sorts of sacrifices in their personal and family lives and it was not that way during vietnam",
+            "count": 3
+        },
+        {
+            "phrase": "but it isn't just us kids that make national service work some people stay in their entire lives and the skills learned in national service they are useful to the entire populace for the rest of your life like what if the indo-chinese tried to invade again not that they would we've given them too much but if they did every woman amp man in this city in our society is at least trained to defend themselves because of national service",
+            "count": 1
+        },
+        {
+            "phrase": "young men and women have made their patriotism all to real by volunteering to fight two wars on foreign soil but we have battlefields in america too particularly in education and health care and the commitment of soldiers abroad has left others yearning to make a parallel commitment here at home",
+            "count": 1
+        }
+    ]
+}

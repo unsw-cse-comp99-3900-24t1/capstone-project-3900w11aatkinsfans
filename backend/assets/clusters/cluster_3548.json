@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "02:45",
+            "03:14",
+            "04:02"
+        ],
+        "label": "informed"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the end we can never be given knowledge by others we can only be stimulated we must develop our own knowledge",
+            "count": 2
+        },
+        {
+            "phrase": "informed intelligent beneficient approach to being all that we can be",
+            "count": 1
+        },
+        {
+            "phrase": "you want the people who take care of you to be as smart as you can possibly get",
+            "count": 1
+        },
+        {
+            "phrase": "not knowing intelligent and voluntary",
+            "count": 1
+        }
+    ]
+}

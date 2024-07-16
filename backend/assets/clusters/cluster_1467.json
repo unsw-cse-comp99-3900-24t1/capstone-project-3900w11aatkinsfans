@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:51",
+            "01:05",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:19",
+            "03:43",
+            "03:51",
+            "03:54",
+            "04:32"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's just something about jaki she has a way of talking people into doing things without them even realizing it",
+            "count": 6
+        },
+        {
+            "phrase": "i thought she didn't really care about it all that much because of things she told me but i think she may have changed her opinions",
+            "count": 2
+        },
+        {
+            "phrase": "whatever came up came up the less i tried the better it was if i was worried about it it became self-conscious if i just said this is something in her character the things that she does that come from her culture it'll pop up and it did",
+            "count": 1
+        },
+        {
+            "phrase": "she wanted to go unnoticed but people recognised her and started whispering she felt really weird",
+            "count": 1
+        },
+        {
+            "phrase": "i know what you mean it's like she can't shut up you'd think she believes she owns fumbling with fiction or something",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "00:36"
+        ],
+        "label": "sheila"
+    },
+    "clusterList": [
+        {
+            "phrase": "sheila is trying not to cry black tears and kill everyone around her",
+            "count": 1
+        },
+        {
+            "phrase": "hey cheer up alice",
+            "count": 1
+        },
+        {
+            "phrase": "oh not much im just here to ask alice how it feels to have her heart broken two times",
+            "count": 1
+        }
+    ]
+}

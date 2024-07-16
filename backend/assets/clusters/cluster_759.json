@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:52",
+            "01:11",
+            "01:20",
+            "01:24",
+            "01:29",
+            "01:32",
+            "01:51",
+            "02:02",
+            "02:57",
+            "03:01",
+            "03:22",
+            "03:27",
+            "04:04",
+            "04:29",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've always been one to follow my gut and follow my heart with decisions and when i've done that things have worked out pretty darn good for me",
+            "count": 9
+        },
+        {
+            "phrase": "be confident believe and not be too hard on yourself",
+            "count": 2
+        },
+        {
+            "phrase": "i always set goals for myself of things i want to attain",
+            "count": 2
+        },
+        {
+            "phrase": "i must always be good and measure up to the norm then there is no risk i constantly feel that the demands are too great but i cannot change that i must always achieve more than others",
+            "count": 1
+        },
+        {
+            "phrase": "life isn't always about doing whats easy or what you want to do sometimes you have to do things that are hard or that you dont want to because its the right thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "you can't always get what you want you can't always get what you want you can't always get what you want but if you try sometimes you just might find you get what you need",
+            "count": 1
+        },
+        {
+            "phrase": "the impostor syndrome how to replace self-doubt with self-confidence and train your brain for success",
+            "count": 1
+        },
+        {
+            "phrase": "i have a great deal of baseless confidence in my own abilities to get a job done i own and understand tools i can do it",
+            "count": 1
+        }
+    ]
+}

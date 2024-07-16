@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "02:04",
+            "02:54",
+            "04:37"
+        ],
+        "label": "campaign"
+    },
+    "clusterList": [
+        {
+            "phrase": "campaign for liberty real politics training school",
+            "count": 1
+        },
+        {
+            "phrase": "patriotic educational and inspiring experience",
+            "count": 1
+        },
+        {
+            "phrase": "a major victory for america's students and families",
+            "count": 1
+        },
+        {
+            "phrase": "our objective is not only to bring more right-of-center individuals into the cultural influence professions but also to create a grand narrative of cultural renewal to make a case for the development of a culture of liberty in the united states today we will create a synergy and connection among all these groups and individuals whose efforts can make a bigger impact through cooperation and outreach beyond the right",
+            "count": 1
+        },
+        {
+            "phrase": "what is most revolutionary about this is that our efforts will not be pursued as part of a culture war or from a polemical or partisan perspective we want to educate and persuade those who lean left not fight with them we want them to know we take their work seriously not just sitting in judgment on them but appreciating their accomplishments and we want them to know that they too will benefit from the establishment of a true culture of liberty in the united states",
+            "count": 1
+        }
+    ]
+}

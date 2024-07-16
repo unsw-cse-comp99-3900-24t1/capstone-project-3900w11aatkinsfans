@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "04:08"
+        ],
+        "label": "verily"
+    },
+    "clusterList": [
+        {
+            "phrase": "verily i say unto you inasmuch as you have done it unto one of the least of these my brethren the jewish people gentiles were never called his brethren ye have done it unto me",
+            "count": 1
+        },
+        {
+            "phrase": "gentiles were never called his brethren",
+            "count": 1
+        },
+        {
+            "phrase": "i tell you solemnly in so far as you did this to one of the least of these brothers of mine you did it to me",
+            "count": 1
+        }
+    ]
+}

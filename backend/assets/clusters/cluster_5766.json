@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "02:14",
+            "04:54"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're engineers and we are reading the press for good feedback and critical feedback",
+            "count": 3
+        }
+    ]
+}

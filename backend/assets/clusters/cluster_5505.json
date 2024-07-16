@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:27",
+            "04:28",
+            "04:29",
+            "04:45"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "at first it was why don't we do a show this summer",
+            "count": 2
+        },
+        {
+            "phrase": "we love it no fuss no muss the actors come and go as they please and because of rehearsal schedules we sometimes don't even see them life doesn't change it just gets better",
+            "count": 1
+        },
+        {
+            "phrase": "it's a spectacular production we've never been able to accommodate this kind of show before",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:09",
+            "01:33",
+            "02:15",
+            "02:32",
+            "04:05"
+        ],
+        "label": "burying"
+    },
+    "clusterList": [
+        {
+            "phrase": "burying bad news",
+            "count": 1
+        },
+        {
+            "phrase": "what's the bad news",
+            "count": 1
+        },
+        {
+            "phrase": "there's no news nothing to talk about",
+            "count": 1
+        },
+        {
+            "phrase": "i'm afraid i have some bad news and some even worse news",
+            "count": 1
+        },
+        {
+            "phrase": "news of the weird",
+            "count": 1
+        },
+        {
+            "phrase": "do you want the good news or the bad news first",
+            "count": 1
+        }
+    ]
+}

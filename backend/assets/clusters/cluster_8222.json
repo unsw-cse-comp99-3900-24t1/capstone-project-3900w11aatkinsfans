@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:25"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is some tension",
+            "count": 1
+        },
+        {
+            "phrase": "strategy of tension",
+            "count": 1
+        }
+    ]
+}

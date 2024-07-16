@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:48",
+            "02:32"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what you say is what you are",
+            "count": 1
+        },
+        {
+            "phrase": "you are what you do when it counts",
+            "count": 1
+        }
+    ]
+}

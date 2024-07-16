@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:37"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how quickly can you charge david hicks",
+            "count": 4
+        },
+        {
+            "phrase": "how quickly can you charge him",
+            "count": 2
+        },
+        {
+            "phrase": "one time charges",
+            "count": 1
+        }
+    ]
+}

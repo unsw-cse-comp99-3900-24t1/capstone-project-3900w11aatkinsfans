@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "01:48",
+            "01:51",
+            "02:01",
+            "02:14",
+            "02:29",
+            "02:38",
+            "02:45",
+            "02:57",
+            "03:23",
+            "04:09",
+            "04:28",
+            "05:02"
+        ],
+        "label": "millions"
+    },
+    "clusterList": [
+        {
+            "phrase": "millions of dollars",
+            "count": 3
+        },
+        {
+            "phrase": "an extraordinary amount of money",
+            "count": 2
+        },
+        {
+            "phrase": "extraordinary amount of money",
+            "count": 2
+        },
+        {
+            "phrase": "in the hundreds of millions",
+            "count": 1
+        },
+        {
+            "phrase": "could be at least several hundreds of millions",
+            "count": 1
+        },
+        {
+            "phrase": "hundreds of millions of dollars",
+            "count": 1
+        },
+        {
+            "phrase": "between 12 million to 15 million",
+            "count": 1
+        },
+        {
+            "phrase": "half a trillion pesos",
+            "count": 1
+        },
+        {
+            "phrase": "we believe 1 million is conservative it could be in excess of 2 million",
+            "count": 1
+        },
+        {
+            "phrase": "exactly how many million are in a brazillion again",
+            "count": 1
+        }
+    ]
+}

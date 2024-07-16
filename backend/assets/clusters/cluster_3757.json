@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "04:00",
+            "04:24",
+            "04:27",
+            "04:37"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he didn't answer me and i said what if the ceiling falls down",
+            "count": 1
+        },
+        {
+            "phrase": "i went ahead and let him read it i wanted him to know what was going on",
+            "count": 1
+        },
+        {
+            "phrase": "he told me what i needed at this level",
+            "count": 1
+        },
+        {
+            "phrase": "when he did it the first time yesterday we let it pass when he did it again later specifically linking us to it we decided to respond",
+            "count": 1
+        },
+        {
+            "phrase": "he thought i would be working i said even if i am working heck we can figure something out you should go and do this so he called back and reluctantly agreed",
+            "count": 1
+        }
+    ]
+}

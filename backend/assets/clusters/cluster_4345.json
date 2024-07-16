@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:37",
+            "02:57",
+            "04:41",
+            "05:01"
+        ],
+        "label": "where's"
+    },
+    "clusterList": [
+        {
+            "phrase": "where's your proof",
+            "count": 1
+        },
+        {
+            "phrase": "and if you look back at my record you will find that there has never been any improprieties whatsoever",
+            "count": 1
+        },
+        {
+            "phrase": "you can't prove him",
+            "count": 1
+        },
+        {
+            "phrase": "i don't have proof",
+            "count": 1
+        },
+        {
+            "phrase": "well you have no proof of that",
+            "count": 1
+        }
+    ]
+}

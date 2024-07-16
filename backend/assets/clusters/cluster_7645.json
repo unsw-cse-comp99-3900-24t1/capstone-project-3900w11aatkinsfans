@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:23",
+            "04:28"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what are you looking at you're laborers you should be laboring that's what you get for not having an education",
+            "count": 1
+        },
+        {
+            "phrase": "it's certainly no secret that illegal employment is what drives illegal immigrants to come to the united states",
+            "count": 1
+        },
+        {
+            "phrase": "mexican immigrants do jobs that not even blacks want to do in the united states",
+            "count": 1
+        }
+    ]
+}

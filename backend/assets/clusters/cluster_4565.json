@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:24",
+            "03:48"
+        ],
+        "label": "set"
+    },
+    "clusterList": [
+        {
+            "phrase": "set my people free",
+            "count": 3
+        },
+        {
+            "phrase": "set them free",
+            "count": 1
+        }
+    ]
+}

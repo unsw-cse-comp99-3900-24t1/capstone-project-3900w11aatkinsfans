@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "04:17",
+            "05:04"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we get so caught up in all these different issues whether it's the economy the war oil crisis or the election that sometimes we forget about the challenges women face every day it's important to come together and to re-connect on that level",
+            "count": 1
+        },
+        {
+            "phrase": "it's not the sexiest of issues but in many ways it's as important as anything we do",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's an important acknowledgement that we have a problem",
+            "count": 1
+        }
+    ]
+}

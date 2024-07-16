@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "03:08",
+            "04:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are not asking for a lot of outlandish things we're only asking for what we need",
+            "count": 1
+        },
+        {
+            "phrase": "something for nothing",
+            "count": 1
+        },
+        {
+            "phrase": "everything we want nothing that we don't",
+            "count": 1
+        },
+        {
+            "phrase": "what do you want that you are not having",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:23",
+            "00:32",
+            "02:00",
+            "02:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the women at the funeral",
+            "count": 1
+        },
+        {
+            "phrase": "the crematorium is back in business and the funeral director said they'll notify the family to assure them their loved one wasn't harmed",
+            "count": 1
+        },
+        {
+            "phrase": "my aunt passed away while i was in training for the first walk i did it in honor of her cancer has touched so many people including my dad who i lost three years ago to cancer i feel like i need to do something",
+            "count": 1
+        },
+        {
+            "phrase": "we're deeply sorry for the loss i just want to tell the news to please let both rest in peace",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry about your loss and i don't mean to pry but i've just never seen a funeral procession like this whose funeral is it",
+            "count": 1
+        }
+    ]
+}

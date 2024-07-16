@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:41",
+            "00:50",
+            "00:51",
+            "02:06",
+            "02:11",
+            "04:13",
+            "04:18"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's had flashes out here",
+            "count": 2
+        },
+        {
+            "phrase": "if it's close he's outta here so we can get outta here",
+            "count": 2
+        },
+        {
+            "phrase": "he's uppity like that",
+            "count": 1
+        },
+        {
+            "phrase": "he was here tonight",
+            "count": 1
+        },
+        {
+            "phrase": "there's a spot for him",
+            "count": 1
+        },
+        {
+            "phrase": "yeah out there",
+            "count": 1
+        },
+        {
+            "phrase": "he's getting close",
+            "count": 1
+        }
+    ]
+}

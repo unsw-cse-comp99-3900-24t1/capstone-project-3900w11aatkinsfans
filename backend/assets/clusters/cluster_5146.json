@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:42",
+            "03:23",
+            "04:04"
+        ],
+        "label": "quick"
+    },
+    "clusterList": [
+        {
+            "phrase": "quick and dirty",
+            "count": 4
+        }
+    ]
+}

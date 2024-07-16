@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:23",
+            "02:40",
+            "03:06",
+            "04:09"
+        ],
+        "label": "size"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a small world",
+            "count": 3
+        },
+        {
+            "phrase": "size of the world",
+            "count": 1
+        },
+        {
+            "phrase": "around the world in missions",
+            "count": 1
+        },
+        {
+            "phrase": "the entire region",
+            "count": 1
+        }
+    ]
+}

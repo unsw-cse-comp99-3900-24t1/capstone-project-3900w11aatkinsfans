@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "04:37"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's an important link to provide efficient access to the airport",
+            "count": 2
+        },
+        {
+            "phrase": "it will help in the process of converting that from a military installation to a public passenger use airport",
+            "count": 1
+        }
+    ]
+}

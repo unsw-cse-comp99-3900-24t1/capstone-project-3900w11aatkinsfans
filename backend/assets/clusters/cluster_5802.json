@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:38",
+            "03:17"
+        ],
+        "label": "writers"
+    },
+    "clusterList": [
+        {
+            "phrase": "writers kept writing",
+            "count": 1
+        },
+        {
+            "phrase": "once upon a time all the writers in the forest got very mad with the forest kings and declared a work-stoppage",
+            "count": 1
+        },
+        {
+            "phrase": "writers overwriting other writers updates",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:00"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you would think the borough would come and do something about it",
+            "count": 1
+        },
+        {
+            "phrase": "this is already the biggest thing ever to happen to this area",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:48",
+            "03:01",
+            "03:06",
+            "04:28",
+            "05:05"
+        ],
+        "label": "apache"
+    },
+    "clusterList": [
+        {
+            "phrase": "apache understands the hardship that the varanus island incident has caused and thank everyone for their patience during this difficult time",
+            "count": 3
+        },
+        {
+            "phrase": "apache understands the hardship that the varanus island incident has caused and thank everyone for their patience during this difficult time managing director tim wall said in a statement",
+            "count": 1
+        },
+        {
+            "phrase": "apache understands the hardship that the varanus island incident has caused and thank everyone for their patience during this difficult time managing director tim wall said in a statement renault laguna dci",
+            "count": 1
+        }
+    ]
+}

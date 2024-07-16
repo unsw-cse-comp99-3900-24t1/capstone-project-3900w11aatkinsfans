@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:28",
+            "01:01",
+            "01:02",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:32",
+            "03:42",
+            "04:28"
+        ],
+        "label": "related"
+    },
+    "clusterList": [
+        {
+            "phrase": "related link building software",
+            "count": 6
+        },
+        {
+            "phrase": "files and links",
+            "count": 1
+        },
+        {
+            "phrase": "confluence web resources ajs",
+            "count": 1
+        },
+        {
+            "phrase": "store classify share and search links through the practice of intranet",
+            "count": 1
+        },
+        {
+            "phrase": "link exchange directory",
+            "count": 1
+        },
+        {
+            "phrase": "lots of great features make this software one of the best file joiners",
+            "count": 1
+        }
+    ]
+}

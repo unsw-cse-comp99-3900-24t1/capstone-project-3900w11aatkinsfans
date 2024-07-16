@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:56",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:14",
+            "03:12",
+            "03:20",
+            "03:59",
+            "04:21",
+            "04:54"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a miracle it works at all",
+            "count": 3
+        },
+        {
+            "phrase": "holy shit i'm a miracle whoo",
+            "count": 3
+        },
+        {
+            "phrase": "these are the days of miracles and wonder",
+            "count": 1
+        },
+        {
+            "phrase": "today is the day for a miracle",
+            "count": 1
+        },
+        {
+            "phrase": "this is what you get out of it that's a miracle",
+            "count": 1
+        },
+        {
+            "phrase": "it's a miracle i feel like a whole new person",
+            "count": 1
+        },
+        {
+            "phrase": "it's a miracle that he's alive",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "03:43",
+            "04:18"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "i dont know what's more disgusting those guys",
+            "count": 2
+        },
+        {
+            "phrase": "it's so disgusting how can they do this",
+            "count": 1
+        },
+        {
+            "phrase": "producing their asses off",
+            "count": 1
+        }
+    ]
+}

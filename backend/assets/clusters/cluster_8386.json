@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "01:36"
+        ],
+        "label": "they've"
+    },
+    "clusterList": [
+        {
+            "phrase": "they've lost about 140 executives over the last 6 to 8 months there has been a stream of executives exiting",
+            "count": 1
+        },
+        {
+            "phrase": "has closed several offices and eliminated the creative departments in several more",
+            "count": 1
+        }
+    ]
+}

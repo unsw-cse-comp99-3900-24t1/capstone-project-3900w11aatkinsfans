@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:01",
+            "03:18"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not falling behind are u",
+            "count": 1
+        },
+        {
+            "phrase": "fall behind me",
+            "count": 1
+        },
+        {
+            "phrase": "so are you coming behind here or not",
+            "count": 1
+        }
+    ]
+}

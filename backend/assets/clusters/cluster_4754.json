@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:59",
+            "01:46",
+            "03:48"
+        ],
+        "label": "point"
+    },
+    "clusterList": [
+        {
+            "phrase": "point of impact",
+            "count": 1
+        },
+        {
+            "phrase": "the impact is huge",
+            "count": 1
+        },
+        {
+            "phrase": "its about an 8 million direct impact",
+            "count": 1
+        },
+        {
+            "phrase": "it's uh very visually impactful",
+            "count": 1
+        }
+    ]
+}

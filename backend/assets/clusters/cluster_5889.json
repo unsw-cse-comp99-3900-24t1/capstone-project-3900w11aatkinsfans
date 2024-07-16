@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the danger exists in methods and tactics having absolutely nothing to do with picture-taking",
+            "count": 1
+        },
+        {
+            "phrase": "in fact removing a camera from the equation is a very effective way of looking at this situation candidly",
+            "count": 1
+        },
+        {
+            "phrase": "the weakest part of the vehicle is its side so someone runs a red light and smashes into the side of a vehicle and lots of bad things can happen but skrum argues that the cameras are not the only way to deal with dangerous intersections",
+            "count": 1
+        }
+    ]
+}

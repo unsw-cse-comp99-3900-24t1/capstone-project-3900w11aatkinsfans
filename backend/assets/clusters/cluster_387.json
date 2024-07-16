@@ -1,0 +1,105 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:10",
+            "00:29",
+            "01:01",
+            "01:03",
+            "01:37",
+            "01:46",
+            "01:52",
+            "02:06",
+            "02:11",
+            "02:23",
+            "02:27",
+            "02:28",
+            "02:29",
+            "02:37",
+            "03:01",
+            "03:06",
+            "03:57",
+            "04:18",
+            "04:28",
+            "04:37",
+            "04:41",
+            "04:47"
+        ],
+        "label": "finds"
+    },
+    "clusterList": [
+        {
+            "phrase": "matter of time",
+            "count": 12
+        },
+        {
+            "phrase": "time is running out",
+            "count": 3
+        },
+        {
+            "phrase": "turn around time",
+            "count": 3
+        },
+        {
+            "phrase": "finds the time",
+            "count": 1
+        },
+        {
+            "phrase": "time out of mind",
+            "count": 1
+        },
+        {
+            "phrase": "beat the clock",
+            "count": 1
+        },
+        {
+            "phrase": "find time and think about it",
+            "count": 1
+        },
+        {
+            "phrase": "time is not",
+            "count": 1
+        },
+        {
+            "phrase": "how the time flies",
+            "count": 1
+        },
+        {
+            "phrase": "the time machine",
+            "count": 1
+        },
+        {
+            "phrase": "as time goes by",
+            "count": 1
+        },
+        {
+            "phrase": "length of time",
+            "count": 1
+        }
+    ]
+}

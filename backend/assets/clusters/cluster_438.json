@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            10,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:08",
+            "00:09",
+            "02:05",
+            "03:19",
+            "03:24",
+            "04:04",
+            "04:13",
+            "04:18",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "apple has limited support for",
+            "count": 10
+        },
+        {
+            "phrase": "we are not suggesting that it organizations stay away from blades blades do address many problems in the data center",
+            "count": 3
+        },
+        {
+            "phrase": "microsoft is incubating a componentized non-windows operating system known as midori which is being architected from the ground up to tackle challenges that redmond has determined cannot be met by simply evolving its existing technology",
+            "count": 3
+        },
+        {
+            "phrase": "first this report doesn't reflect the normal enterprise os adoption cycle",
+            "count": 3
+        },
+        {
+            "phrase": "that's forcing a lot of consumers who don't necessarily want to go with vista to reconsider their overall computing strategy",
+            "count": 2
+        },
+        {
+            "phrase": "i see that every day the only thing any warranty is going to cover is hardware-related basically the manufacturer warranty will cover hardware but not software",
+            "count": 1
+        },
+        {
+            "phrase": "software support is a lot more time consuming than your standard tech support a lot of it is user error you almost have to try to train the person how to use the software in order to make everything work the way it is supposed to",
+            "count": 1
+        },
+        {
+            "phrase": "they can switch to vista buy an apple machine or do something completely different",
+            "count": 1
+        },
+        {
+            "phrase": "if someone has used nearly all the windows operating systems why would he ever switch",
+            "count": 1
+        },
+        {
+            "phrase": "microsoft is incubating a componentized non-windows operating system known as midori which is being architected from the ground up to tackle challenges that redmond",
+            "count": 1
+        }
+    ]
+}

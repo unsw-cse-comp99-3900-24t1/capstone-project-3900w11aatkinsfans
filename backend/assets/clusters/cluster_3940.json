@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:42",
+            "02:02",
+            "03:56",
+            "04:41"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "worth the hell",
+            "count": 2
+        },
+        {
+            "phrase": "is it worth it",
+            "count": 1
+        },
+        {
+            "phrase": "no i wouldn't take it",
+            "count": 1
+        },
+        {
+            "phrase": "it's going to be worthwhile",
+            "count": 1
+        }
+    ]
+}

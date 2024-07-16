@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:33",
+            "04:18",
+            "04:28"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is a growing demand from consumers to be able to access their music and video libraries wherever and whenever they want in their home",
+            "count": 1
+        },
+        {
+            "phrase": "content is very useful and great to have a local product",
+            "count": 1
+        },
+        {
+            "phrase": "relevant localized digital media to consumers in their favorite places as part of their daily rituals",
+            "count": 1
+        },
+        {
+            "phrase": "without full disclosure and transparency media lose credibility and their value as an unbiased source of information for consumers",
+            "count": 1
+        }
+    ]
+}

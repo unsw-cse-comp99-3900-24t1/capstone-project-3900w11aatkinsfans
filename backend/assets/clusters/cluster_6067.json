@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:38",
+            "03:42",
+            "04:46"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and if we do we'll be gracious in victory and if we don't we'll be humble in defeat",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to declare victory and go home",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest victory is the battle not fought",
+            "count": 1
+        }
+    ]
+}

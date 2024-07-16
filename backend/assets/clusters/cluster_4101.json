@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:20",
+            "01:42",
+            "01:43"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "the sheer speed and size of the verizon network nationally which includes long island and 200 countries around the world makes a statement like that a bit silly",
+            "count": 2
+        },
+        {
+            "phrase": "what we're doing at these pricepoints is converging wireless broadband pricing over the phone we sell our wireless broadband laptop modem with 5gb for 39 so we figured on the iphone why not give a gig to start off with on the 70 plan and if you need more you can have another 4gb for 30",
+            "count": 1
+        },
+        {
+            "phrase": "you can buy the iphone on any of our cap plans virgin does have higher caps and we have the best mobile data pricing in the industry you can always get 1gb for 15 on top of the voice cap fee",
+            "count": 1
+        },
+        {
+            "phrase": "last year mobile complemented lifestyle campaigns this year mobile became its own dedicated channel because it did so well",
+            "count": 1
+        }
+    ]
+}

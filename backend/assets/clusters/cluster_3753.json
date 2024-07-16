@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "01:29",
+            "02:33",
+            "04:51"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that show was the first thing to make me proud to be a wrestling fan in a long time",
+            "count": 4
+        },
+        {
+            "phrase": "i'm a john cena fan forever",
+            "count": 1
+        }
+    ]
+}

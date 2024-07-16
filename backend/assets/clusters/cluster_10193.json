@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:37"
+        ],
+        "label": "sorry"
+    },
+    "clusterList": [
+        {
+            "phrase": "sorry the comment form is closed at this time",
+            "count": 1
+        },
+        {
+            "phrase": "sorry no posts matched your criteria",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:46",
+            "01:09",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the volunteers have done a wonderful job in mariposa",
+            "count": 1
+        },
+        {
+            "phrase": "that's why i want to do the best job i can do as well as the rest of our fema team to make sure we adequately represent these people when it goes back to regional headquarters as well as washington d c",
+            "count": 1
+        },
+        {
+            "phrase": "i've come to inquire about short-term volunteer opportunities",
+            "count": 1
+        },
+        {
+            "phrase": "i suggest all the volunteers should wear a sticker that reads ask me",
+            "count": 1
+        }
+    ]
+}

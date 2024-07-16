@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:32",
+            "01:05",
+            "01:07",
+            "01:23",
+            "01:50",
+            "03:34",
+            "03:42",
+            "03:55",
+            "04:18",
+            "04:36"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no handguns allowed in canada we know but no woman had a purse to bonk him on the head",
+            "count": 6
+        },
+        {
+            "phrase": "a tip for a location with firearm",
+            "count": 1
+        },
+        {
+            "phrase": "what does it matter you don't need a gun",
+            "count": 1
+        },
+        {
+            "phrase": "shoot first sightsee later",
+            "count": 1
+        },
+        {
+            "phrase": "hunt for armed suspect in wis",
+            "count": 1
+        },
+        {
+            "phrase": "i never gave him permission to possess a firearm",
+            "count": 1
+        },
+        {
+            "phrase": "how do you go on a hunting trip without a firearm",
+            "count": 1
+        },
+        {
+            "phrase": "i've been on hunting trips and i don't possess a firearm",
+            "count": 1
+        }
+    ]
+}

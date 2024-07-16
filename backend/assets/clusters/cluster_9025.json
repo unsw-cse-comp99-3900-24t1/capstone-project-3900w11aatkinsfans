@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:10"
+        ],
+        "label": "sex"
+    },
+    "clusterList": [
+        {
+            "phrase": "sex drugs and rock and roll",
+            "count": 1
+        },
+        {
+            "phrase": "i wanna love like johnny and june rings of fire burnin with you i wanna walk the line walk the line till the end of time i wanna love love ya that much cash it all in give it all up when you're gone i wanna go too like johnny and june",
+            "count": 1
+        }
+    ]
+}

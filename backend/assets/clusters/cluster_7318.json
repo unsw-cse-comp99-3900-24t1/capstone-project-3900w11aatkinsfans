@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:09",
+            "03:24"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but everything will depend on the weather if it's cool good but if it's hot and humid it will be a grind",
+            "count": 1
+        },
+        {
+            "phrase": "yes dear i know that but every morning i grind one up and mix it",
+            "count": 1
+        },
+        {
+            "phrase": "it's always a grind",
+            "count": 1
+        }
+    ]
+}

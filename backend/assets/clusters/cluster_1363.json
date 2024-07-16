@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:40",
+            "00:57",
+            "01:19",
+            "01:40",
+            "01:55",
+            "02:19",
+            "02:26",
+            "02:57",
+            "03:55",
+            "04:05"
+        ],
+        "label": "hamas"
+    },
+    "clusterList": [
+        {
+            "phrase": "you jews should be aware you will never but never have peace with hamas islam as the ideology that guides them will not allow them to achieve a peace agreement with the jews they believe that tradition says that the prophet mohammed fought against the jews and that therefore they must continue to fight them to the death",
+            "count": 5
+        },
+        {
+            "phrase": "hamas christian convert i've left a society that sanctifies terror",
+            "count": 2
+        },
+        {
+            "phrase": "if i knew that you would be coming back to gaza i wouldn't have let you out in the first place",
+            "count": 2
+        },
+        {
+            "phrase": "instead of agitating for war the jewish groups in this country should be opposing it in every possible way for they will be among the first to feel its consequences",
+            "count": 1
+        },
+        {
+            "phrase": "only when we shall have finished purging our country of godlessness shall we turn against israel",
+            "count": 1
+        },
+        {
+            "phrase": "terror and rockets do not merely kill innocent civilians they also kill the legitimate hopes and aspirations of the palestinian people",
+            "count": 1
+        }
+    ]
+}

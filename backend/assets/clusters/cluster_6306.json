@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:52",
+            "04:33"
+        ],
+        "label": "once"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fed is now having to walk a very fine line",
+            "count": 2
+        },
+        {
+            "phrase": "once again the states are out in front of the feds",
+            "count": 1
+        }
+    ]
+}

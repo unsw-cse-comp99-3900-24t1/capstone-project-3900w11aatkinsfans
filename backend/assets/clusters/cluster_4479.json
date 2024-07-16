@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:14",
+            "03:18",
+            "03:43"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are foolish",
+            "count": 1
+        },
+        {
+            "phrase": "you are not do not be foolish you are strong",
+            "count": 1
+        },
+        {
+            "phrase": "i'm such a fool",
+            "count": 1
+        },
+        {
+            "phrase": "you think i'm a fool don't you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:31",
+            "00:51",
+            "00:57",
+            "01:06",
+            "01:09",
+            "01:19",
+            "01:37",
+            "02:55",
+            "04:06"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's a hero to us",
+            "count": 6
+        },
+        {
+            "phrase": "this guy is a hero",
+            "count": 5
+        }
+    ]
+}

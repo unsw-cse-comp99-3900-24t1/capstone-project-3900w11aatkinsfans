@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:18"
+        ],
+        "label": "alvin"
+    },
+    "clusterList": [
+        {
+            "phrase": "alvin it's late we can see what it is in the morning just go to sleep",
+            "count": 1
+        },
+        {
+            "phrase": "we can see what it is in the mor morning",
+            "count": 1
+        }
+    ]
+}

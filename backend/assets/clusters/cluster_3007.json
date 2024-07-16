@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "02:22",
+            "05:05"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've now been in 59 states i think one left to go alaska and mexico",
+            "count": 3
+        },
+        {
+            "phrase": "i have been to 57 states and 1 to go",
+            "count": 1
+        },
+        {
+            "phrase": "what will it take to get you there assuming you want to go there",
+            "count": 1
+        },
+        {
+            "phrase": "i want to explore texas well before i return",
+            "count": 1
+        }
+    ]
+}

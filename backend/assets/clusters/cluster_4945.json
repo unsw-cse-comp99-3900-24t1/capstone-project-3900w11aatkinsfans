@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:33",
+            "03:05",
+            "04:13"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a lot more expensive to fix things after the fact",
+            "count": 1
+        },
+        {
+            "phrase": "maybe not so much for its cost and its cost will be up there this one is huge simply because of its scale and the number of people affected",
+            "count": 1
+        },
+        {
+            "phrase": "during the old times everything wasn't this expensive",
+            "count": 1
+        },
+        {
+            "phrase": "it's much more difficult to buy things now",
+            "count": 1
+        }
+    ]
+}

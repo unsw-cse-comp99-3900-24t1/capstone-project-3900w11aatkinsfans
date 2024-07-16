@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:07",
+            "02:01",
+            "03:15",
+            "03:18",
+            "03:22",
+            "03:43"
+        ],
+        "label": "yours"
+    },
+    "clusterList": [
+        {
+            "phrase": "is this yours",
+            "count": 2
+        },
+        {
+            "phrase": "yours is here",
+            "count": 1
+        },
+        {
+            "phrase": "no yours forever",
+            "count": 1
+        },
+        {
+            "phrase": "is that all you got",
+            "count": 1
+        },
+        {
+            "phrase": "what's yours is yours and that's all there is to it",
+            "count": 1
+        },
+        {
+            "phrase": "it's all yours sir",
+            "count": 1
+        },
+        {
+            "phrase": "well whatever it is i thank you sir",
+            "count": 1
+        },
+        {
+            "phrase": "is that mine",
+            "count": 1
+        },
+        {
+            "phrase": "all to you",
+            "count": 1
+        }
+    ]
+}

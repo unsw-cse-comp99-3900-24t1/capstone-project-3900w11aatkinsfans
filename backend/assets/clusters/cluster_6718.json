@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't move my arms i requested medical care a long time ago you haven't done anything about it",
+            "count": 2
+        },
+        {
+            "phrase": "may i take your arm i'm having a bit of difficulty walking right now",
+            "count": 1
+        }
+    ]
+}

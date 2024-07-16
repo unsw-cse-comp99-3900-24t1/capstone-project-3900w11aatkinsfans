@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:45",
+            "01:55",
+            "02:05",
+            "03:08"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "loudmouth liberal jew",
+            "count": 2
+        },
+        {
+            "phrase": "the current slander campaign",
+            "count": 1
+        },
+        {
+            "phrase": "drooling psychotic hateful lie-filled totally biased baseless uncivilized fact-free rants",
+            "count": 1
+        },
+        {
+            "phrase": "the one who conceals hatred has lying lips and whoever utters slander is a fool",
+            "count": 1
+        }
+    ]
+}

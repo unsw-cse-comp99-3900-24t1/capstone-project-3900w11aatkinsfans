@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:33",
+            "01:28",
+            "03:43",
+            "04:29",
+            "04:45"
+        ],
+        "label": "overgrown"
+    },
+    "clusterList": [
+        {
+            "phrase": "at one point it was an old rock and stone quarry",
+            "count": 2
+        },
+        {
+            "phrase": "the stone used in the foundations a lot of the buildings in indiana rest upon came from that quarry",
+            "count": 2
+        },
+        {
+            "phrase": "overgrown grave necropolis",
+            "count": 1
+        },
+        {
+            "phrase": "ancient rock art",
+            "count": 1
+        },
+        {
+            "phrase": "the pit on 98 rock",
+            "count": 1
+        }
+    ]
+}

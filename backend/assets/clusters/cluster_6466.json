@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:11"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "most animals won't get seasick but like people some do",
+            "count": 1
+        },
+        {
+            "phrase": "if a dog gets very seasick try to head back home",
+            "count": 1
+        },
+        {
+            "phrase": "clean up after your dog there and at the beach or marina",
+            "count": 1
+        }
+    ]
+}

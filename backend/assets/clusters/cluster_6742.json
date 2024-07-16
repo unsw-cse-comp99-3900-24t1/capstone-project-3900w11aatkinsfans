@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:41",
+            "02:08"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if one were to find a way to make this work what would it likely take and how would he likely go about doing it",
+            "count": 1
+        },
+        {
+            "phrase": "cool idea but how can a",
+            "count": 1
+        },
+        {
+            "phrase": "what a great idea",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:46",
+            "01:02",
+            "01:05",
+            "01:40",
+            "01:46",
+            "02:26",
+            "02:33",
+            "02:38",
+            "03:05",
+            "03:09",
+            "03:19",
+            "03:43",
+            "03:58",
+            "04:27",
+            "04:36",
+            "04:37",
+            "04:55",
+            "05:01",
+            "05:05"
+        ],
+        "label": "mccain"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not saying he can't come back but the polls still say he's largely unelectable",
+            "count": 18
+        },
+        {
+            "phrase": "i believe the man we need to meet the mortal need today is here he is experienced but has not lost his common sense or his ability to be outraged his conservatism is not the result of a studied philosophy but of common sense and personal observation his name is john mccain he might not be the right president for all times but he is the right president for these times",
+            "count": 4
+        },
+        {
+            "phrase": "mccain doesn't have a plan for balancing the budget",
+            "count": 1
+        },
+        {
+            "phrase": "he gop doesnt have the weight of ideas on its side it only has the ability to keep people small minded and predjudiced so that the system keeps favoring the rich and powerful",
+            "count": 1
+        }
+    ]
+}

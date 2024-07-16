@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the wind comes over the hill and it blasts down these valleys we get more wind up here than they get in the bottom of the pohangina valley",
+            "count": 1
+        },
+        {
+            "phrase": "when the river gets high floodgates at the drains ends close that stops the river water backing up into the drains and the drain pumps keep the drain water flowing up into the river",
+            "count": 1
+        }
+    ]
+}

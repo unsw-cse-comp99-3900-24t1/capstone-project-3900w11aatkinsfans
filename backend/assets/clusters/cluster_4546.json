@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "00:27",
+            "03:06"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "quest for the skies",
+            "count": 2
+        },
+        {
+            "phrase": "now show me the world as seen from the stars",
+            "count": 1
+        },
+        {
+            "phrase": "skywatch friday water-blue sky",
+            "count": 1
+        }
+    ]
+}

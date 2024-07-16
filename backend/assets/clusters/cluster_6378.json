@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "03:18",
+            "04:28"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how very unfortunate for you",
+            "count": 1
+        },
+        {
+            "phrase": "i i'm so sorry i don't know why i did that",
+            "count": 1
+        },
+        {
+            "phrase": "i'm really sorry to hear that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:29",
+            "02:07"
+        ],
+        "label": "trained"
+    },
+    "clusterList": [
+        {
+            "phrase": "trained attack dog",
+            "count": 1
+        },
+        {
+            "phrase": "when animals attack",
+            "count": 1
+        },
+        {
+            "phrase": "when bears attack",
+            "count": 1
+        }
+    ]
+}

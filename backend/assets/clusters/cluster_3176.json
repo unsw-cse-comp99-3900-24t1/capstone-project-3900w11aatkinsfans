@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "00:38",
+            "01:38",
+            "03:17"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't charge that much and i'm a lawyer",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes one pays most for the things one gets for nothing",
+            "count": 1
+        },
+        {
+            "phrase": "handset repayments vary based on which cap you choose",
+            "count": 1
+        },
+        {
+            "phrase": "i don't pay the full amount but i pay a lot more than the minimum payment",
+            "count": 1
+        },
+        {
+            "phrase": "i usually pay in about the middle of the month",
+            "count": 1
+        },
+        {
+            "phrase": "that's how i pay 90 percent of my bills i'm definitely paying the second installment due in january online",
+            "count": 1
+        }
+    ]
+}

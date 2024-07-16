@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:24",
+            "03:00",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:36"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in 2000 al gore won clark county by 324 votes",
+            "count": 6
+        },
+        {
+            "phrase": "kerry won every gore county in ohio except clark nowhere among the gore counties did more votes move from the blue to the red column than in clark",
+            "count": 6
+        },
+        {
+            "phrase": "paul placed second ahead of mccain in republican caucuses in nevada and montana he posted strong showings in nominating contests in colorado washington and oregon in early june he pulled away 14 percent of the vote from the already certain nominee in the new mexico primary",
+            "count": 1
+        },
+        {
+            "phrase": "and i think it's clear those votes were republican",
+            "count": 1
+        },
+        {
+            "phrase": "lost that state by fewer than 6 000 votes 6 000 votes",
+            "count": 1
+        },
+        {
+            "phrase": "if the cities elected our president if urban voters determined the outcome john f kerry would have won by a landslide",
+            "count": 1
+        }
+    ]
+}

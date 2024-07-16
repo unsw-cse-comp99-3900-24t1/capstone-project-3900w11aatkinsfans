@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:51"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's kind of hard to describe",
+            "count": 1
+        },
+        {
+            "phrase": "it's just so hard to choose",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:36",
+            "01:43",
+            "02:51",
+            "03:02",
+            "03:33"
+        ],
+        "label": "right-hand"
+    },
+    "clusterList": [
+        {
+            "phrase": "right-hand man for foreign and domestic promotion as well as for foreign and domestic lobbying he has assisted the syndicate in acquiring funds and made his own donations of money believed to be in the multiple tens of millions of dollars",
+            "count": 3
+        },
+        {
+            "phrase": "aided and abetted by the actions of tom cruise his right-hand man for foreign and domestic promotion as well as for foreign and domestic lobbying he has assisted the syndicate in acquiring funds and made his own donations of money believed to be in the multiple tens of millions of dollars",
+            "count": 3
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "02:09",
+            "02:20",
+            "02:30",
+            "04:06"
+        ],
+        "label": "information"
+    },
+    "clusterList": [
+        {
+            "phrase": "information appearing on company web sites does not need to satisfy a printer-friendly standard or be in a format comparable to paper-based information unless the commission's rules explicitly require it",
+            "count": 1
+        },
+        {
+            "phrase": "is an independent non-profit dedicated to the development and protection of open non-proprietary specifications for web technologies",
+            "count": 1
+        },
+        {
+            "phrase": "open standards for digital cameras",
+            "count": 1
+        },
+        {
+            "phrase": "web standards are important for usability",
+            "count": 1
+        },
+        {
+            "phrase": "web standards are important for clients",
+            "count": 1
+        },
+        {
+            "phrase": "web standards are more than passing a validator",
+            "count": 1
+        },
+        {
+            "phrase": "web standards are about quality design work",
+            "count": 1
+        }
+    ]
+}

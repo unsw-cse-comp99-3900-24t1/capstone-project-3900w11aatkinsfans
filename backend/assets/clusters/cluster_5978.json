@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:37",
+            "04:18"
+        ],
+        "label": "27"
+    },
+    "clusterList": [
+        {
+            "phrase": "new view count",
+            "count": 2
+        },
+        {
+            "phrase": "27 of the day's page views and 65 of the day's unique visitors",
+            "count": 1
+        }
+    ]
+}

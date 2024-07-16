@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "03:11",
+            "04:15"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's got a lot to do with confidence too guys like izzy folau and greg inglis they're catching the ball with their hands up high which adds an extra metre onto their height",
+            "count": 1
+        },
+        {
+            "phrase": "he's definitely a good decision-maker you're not going to take the ball from him and he shoots the open shot",
+            "count": 1
+        },
+        {
+            "phrase": "his throws are right on the money it helps when the quarterback and receivers are on the same page",
+            "count": 1
+        },
+        {
+            "phrase": "here is a guy that has played in the sec for four years and he's never slowed down one step whatsoever he's still laying out during batting practice when nobody is in the stands it's what he is use to doing he carries that same mentality to the games",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "04:22",
+            "05:04"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not my package anymore",
+            "count": 4
+        }
+    ]
+}

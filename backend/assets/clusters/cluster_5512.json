@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:29",
+            "03:24"
+        ],
+        "label": "carnac"
+    },
+    "clusterList": [
+        {
+            "phrase": "carnac the magnificent",
+            "count": 2
+        },
+        {
+            "phrase": "the madonnas of leningrad",
+            "count": 1
+        },
+        {
+            "phrase": "under the tuscan sun",
+            "count": 1
+        }
+    ]
+}

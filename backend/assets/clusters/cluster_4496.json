@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "02:00",
+            "04:03"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "a rush to patch the web",
+            "count": 2
+        },
+        {
+            "phrase": "our strength comes from the ubiquity of the java runtime in the mobile area where we are pervasive and in the six million java developers who can extend their capabilities to provide web resident apps and can do it in a faster time frame",
+            "count": 1
+        },
+        {
+            "phrase": "this faq also covers older versions of sun's webserver including the 3 x 4 x and 6 0 releases",
+            "count": 1
+        }
+    ]
+}

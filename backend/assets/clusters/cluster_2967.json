@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:06",
+            "00:19",
+            "00:27",
+            "04:18"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is why i work in radio and not television",
+            "count": 1
+        },
+        {
+            "phrase": "television is evil",
+            "count": 1
+        },
+        {
+            "phrase": "you can watch tv shows on the internet so what's the point",
+            "count": 1
+        },
+        {
+            "phrase": "you know i don't watch tv or read newspapers or magazines",
+            "count": 1
+        },
+        {
+            "phrase": "i don't really watch tv",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to watch tv anymore",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:20",
+            "00:36",
+            "00:38",
+            "00:46",
+            "01:25",
+            "01:37",
+            "01:42",
+            "01:48",
+            "01:50",
+            "01:56",
+            "02:13",
+            "02:24",
+            "03:39",
+            "04:17",
+            "04:23"
+        ],
+        "label": "game"
+    },
+    "clusterList": [
+        {
+            "phrase": "games for it",
+            "count": 9
+        },
+        {
+            "phrase": "game of chicken",
+            "count": 3
+        },
+        {
+            "phrase": "instant win game",
+            "count": 2
+        },
+        {
+            "phrase": "really deeply get games",
+            "count": 2
+        },
+        {
+            "phrase": "this is a game you've got to go enjoy it and have fun",
+            "count": 1
+        },
+        {
+            "phrase": "what's a good game",
+            "count": 1
+        },
+        {
+            "phrase": "playing games with u",
+            "count": 1
+        },
+        {
+            "phrase": "a cool indie shooter game for mac os x and windows xp 2000",
+            "count": 1
+        },
+        {
+            "phrase": "i need to play a game",
+            "count": 1
+        },
+        {
+            "phrase": "think it's a game",
+            "count": 1
+        },
+        {
+            "phrase": "the number5 game",
+            "count": 1
+        }
+    ]
+}

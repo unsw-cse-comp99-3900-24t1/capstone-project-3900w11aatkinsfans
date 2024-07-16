@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "03:09",
+            "03:27",
+            "03:34",
+            "03:35",
+            "04:33"
+        ],
+        "label": "0-60mph"
+    },
+    "clusterList": [
+        {
+            "phrase": "3 59 and seconds",
+            "count": 2
+        },
+        {
+            "phrase": "0-60mph in 1 9 seconds",
+            "count": 1
+        },
+        {
+            "phrase": "one minute and nine seconds",
+            "count": 1
+        },
+        {
+            "phrase": "is five minutes at the start and five minutes at the end",
+            "count": 1
+        },
+        {
+            "phrase": "one without a second",
+            "count": 1
+        }
+    ]
+}

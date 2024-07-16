@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:20",
+            "00:28",
+            "00:39",
+            "00:42",
+            "01:07",
+            "01:10",
+            "01:32",
+            "01:37",
+            "01:59",
+            "02:04",
+            "02:29",
+            "02:32",
+            "03:01",
+            "03:34",
+            "04:18",
+            "04:21",
+            "04:33",
+            "04:37"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's totally unfair",
+            "count": 8
+        },
+        {
+            "phrase": "fair or not",
+            "count": 2
+        },
+        {
+            "phrase": "i think that's unfair",
+            "count": 2
+        },
+        {
+            "phrase": "aw come on that's unfair",
+            "count": 1
+        },
+        {
+            "phrase": "not that wrong",
+            "count": 1
+        },
+        {
+            "phrase": "it's perfectly fair",
+            "count": 1
+        },
+        {
+            "phrase": "that's just rude",
+            "count": 1
+        },
+        {
+            "phrase": "it's a fair number",
+            "count": 1
+        },
+        {
+            "phrase": "that is not acceptable",
+            "count": 1
+        },
+        {
+            "phrase": "well that seems only fair",
+            "count": 1
+        },
+        {
+            "phrase": "life isn't fair",
+            "count": 1
+        }
+    ]
+}

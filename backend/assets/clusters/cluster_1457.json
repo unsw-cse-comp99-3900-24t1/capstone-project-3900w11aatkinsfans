@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:36",
+            "00:56",
+            "01:09",
+            "01:47",
+            "02:15",
+            "02:32",
+            "02:44",
+            "03:10",
+            "04:49"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "but what if",
+            "count": 2
+        },
+        {
+            "phrase": "what would you do if i",
+            "count": 1
+        },
+        {
+            "phrase": "what would you do if you",
+            "count": 1
+        },
+        {
+            "phrase": "what do you wont",
+            "count": 1
+        },
+        {
+            "phrase": "what would you do if you could live your life again",
+            "count": 1
+        },
+        {
+            "phrase": "would i would i",
+            "count": 1
+        },
+        {
+            "phrase": "i'd get a gun out and shoot",
+            "count": 1
+        },
+        {
+            "phrase": "what would you have me do i don't understand",
+            "count": 1
+        },
+        {
+            "phrase": "what would you do",
+            "count": 1
+        },
+        {
+            "phrase": "what would you do if it was your money paying for what you do",
+            "count": 1
+        }
+    ]
+}

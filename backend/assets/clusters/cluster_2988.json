@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:52",
+            "02:15",
+            "02:41",
+            "03:30",
+            "04:00"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this collection is an excellent introduction to an emerging form of war reporting",
+            "count": 3
+        },
+        {
+            "phrase": "with experience in international military conflicts",
+            "count": 1
+        },
+        {
+            "phrase": "fight not just a military battle but an information war",
+            "count": 1
+        },
+        {
+            "phrase": "an intimate and transformational feature documentary about the true face of war today",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "04:31"
+        ],
+        "label": "hop"
+    },
+    "clusterList": [
+        {
+            "phrase": "hop on pop",
+            "count": 1
+        },
+        {
+            "phrase": "pop goes the weasel",
+            "count": 1
+        }
+    ]
+}

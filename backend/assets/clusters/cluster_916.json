@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            4,
+            4,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:11",
+            "02:24",
+            "02:32",
+            "02:37",
+            "02:55",
+            "03:25"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "the danger is not that modernization will be sacrificed to fund asymmetric capabilities but rather that in the future we will again neglect the latter",
+            "count": 5
+        },
+        {
+            "phrase": "i don't see either nation as a threat to the united states at this point but they both are investing in modernization programs that are of concern",
+            "count": 5
+        },
+        {
+            "phrase": "as these foreign powers grow in wealth and influence the danger is that a country which is as open as britain to foreign investment eventually just becomes the kind of plaything for the political whims of foreign powers",
+            "count": 1
+        },
+        {
+            "phrase": "i don't see either nation as a threat to the united states at this point",
+            "count": 1
+        },
+        {
+            "phrase": "but they both are investing in modernization programs that are of concern",
+            "count": 1
+        },
+        {
+            "phrase": "well our consideration of the us-india nuclear civil arrangement certainly won't lead to a change of policy so far as australia's exports of uranium are concerned",
+            "count": 1
+        },
+        {
+            "phrase": "the danger is not that modernisation will be sacrificed to fund asymmetric capabilities but rather that in the future we will again neglect the latter",
+            "count": 1
+        },
+        {
+            "phrase": "i don't see either nation as a threat to the united states at this point but they both are investing in modernisation programmes that are of concern",
+            "count": 1
+        }
+    ]
+}

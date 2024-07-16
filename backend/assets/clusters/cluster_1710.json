@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:41",
+            "01:20",
+            "02:24",
+            "03:10",
+            "04:53",
+            "04:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the difference between a successful person and others is not a lack of strength not a lack of knowledge but rather in a lack of will",
+            "count": 2
+        },
+        {
+            "phrase": "initiatives designed to enhance job performance by increasing employee motivation may not be successful if there is a weak link between job performance and an employee's efforts",
+            "count": 2
+        },
+        {
+            "phrase": "praise led recipients to have low expectations of success at difficult tasks which in turn decreased the persistence and performance intensity at the task",
+            "count": 1
+        },
+        {
+            "phrase": "managers in manufacturing companies give importance to motivation but their employees are less motivated compared with service companies",
+            "count": 1
+        },
+        {
+            "phrase": "the willingness to exert high levels of effort toward organizational goals conditioned by the effort's ability to satisfy some individual need",
+            "count": 1
+        },
+        {
+            "phrase": "the result or achievement toward which effort is directed",
+            "count": 1
+        },
+        {
+            "phrase": "to lazy to put effort into anything",
+            "count": 1
+        },
+        {
+            "phrase": "motivators and how they are realized",
+            "count": 1
+        }
+    ]
+}

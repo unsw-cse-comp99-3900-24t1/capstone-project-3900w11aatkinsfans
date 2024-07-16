@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:51",
+            "00:56",
+            "01:06",
+            "01:07",
+            "01:37",
+            "01:38",
+            "01:46",
+            "02:08",
+            "02:09",
+            "03:42",
+            "03:50",
+            "04:46"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "state of economy",
+            "count": 4
+        },
+        {
+            "phrase": "as the head of state",
+            "count": 4
+        },
+        {
+            "phrase": "red state country",
+            "count": 2
+        },
+        {
+            "phrase": "a state against its people",
+            "count": 1
+        },
+        {
+            "phrase": "state within a state",
+            "count": 1
+        },
+        {
+            "phrase": "public revenue of a state",
+            "count": 1
+        },
+        {
+            "phrase": "state of maine",
+            "count": 1
+        },
+        {
+            "phrase": "withering away of the state",
+            "count": 1
+        },
+        {
+            "phrase": "we're a quasi state institution but structurally and formally we're independent of the state",
+            "count": 1
+        },
+        {
+            "phrase": "state of my union",
+            "count": 1
+        }
+    ]
+}

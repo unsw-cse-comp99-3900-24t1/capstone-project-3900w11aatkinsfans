@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:51",
+            "01:43",
+            "01:51",
+            "01:55",
+            "02:11",
+            "02:24",
+            "04:19"
+        ],
+        "label": "due"
+    },
+    "clusterList": [
+        {
+            "phrase": "due to the rural nature of our network airport-type security is not practical it's a very different type of system",
+            "count": 3
+        },
+        {
+            "phrase": "a lot of people have talked about airport style security but the rural nature of our network doesn't allow us to have that type of security",
+            "count": 3
+        },
+        {
+            "phrase": "we're never closed to looking at how canadians can be more safe and more secure",
+            "count": 2
+        }
+    ]
+}

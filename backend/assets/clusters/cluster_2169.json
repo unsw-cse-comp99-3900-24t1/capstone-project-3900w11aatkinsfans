@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:23",
+            "01:20",
+            "01:38",
+            "01:52",
+            "02:10",
+            "03:18"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are the mother of my beloved anna regardless of your saying",
+            "count": 1
+        },
+        {
+            "phrase": "you deserve a chance to be a mom",
+            "count": 1
+        },
+        {
+            "phrase": "omg i am so not as bad as my mother",
+            "count": 1
+        },
+        {
+            "phrase": "mom it's horrible",
+            "count": 1
+        },
+        {
+            "phrase": "it not funny mom",
+            "count": 1
+        },
+        {
+            "phrase": "don't be sad mom",
+            "count": 1
+        },
+        {
+            "phrase": "my mother just died",
+            "count": 1
+        },
+        {
+            "phrase": "you weren't a mistake son your mother and i wanted to have you you weren't an accident she loved you and i love you",
+            "count": 1
+        }
+    ]
+}

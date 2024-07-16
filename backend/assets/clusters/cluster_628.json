@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:02",
+            "01:06",
+            "01:15",
+            "01:33",
+            "01:42",
+            "01:47",
+            "01:49",
+            "02:04",
+            "02:20",
+            "02:37",
+            "02:48",
+            "03:09",
+            "03:18",
+            "04:13",
+            "04:37",
+            "04:42"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's obviously happening out there",
+            "count": 9
+        },
+        {
+            "phrase": "i can't believe this is happening",
+            "count": 9
+        },
+        {
+            "phrase": "it's happening again oh god argh",
+            "count": 1
+        },
+        {
+            "phrase": "this is happening so fast",
+            "count": 1
+        },
+        {
+            "phrase": "there's so much happening",
+            "count": 1
+        }
+    ]
+}

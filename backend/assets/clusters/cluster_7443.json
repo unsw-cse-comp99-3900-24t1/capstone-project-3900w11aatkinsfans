@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "02:47",
+            "04:59"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no there's no way",
+            "count": 1
+        },
+        {
+            "phrase": "that's the only way you can play that",
+            "count": 1
+        },
+        {
+            "phrase": "if you think you can or you think you can't you're right",
+            "count": 1
+        }
+    ]
+}

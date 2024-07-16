@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:56",
+            "01:01",
+            "01:07",
+            "02:20",
+            "02:22"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think that's something different for the franchise",
+            "count": 3
+        },
+        {
+            "phrase": "face of the franchise",
+            "count": 2
+        },
+        {
+            "phrase": "sometimes a franchise just has a big black mark over it and no amount of wishful thinking can turn the tide",
+            "count": 1
+        }
+    ]
+}

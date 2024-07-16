@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:12",
+            "00:18",
+            "00:32",
+            "00:56",
+            "01:19",
+            "01:24",
+            "01:30",
+            "01:43",
+            "02:29",
+            "02:56",
+            "03:06",
+            "03:17",
+            "03:20",
+            "03:24",
+            "03:34",
+            "03:38",
+            "03:43",
+            "03:55",
+            "04:19",
+            "04:38",
+            "05:01"
+        ],
+        "label": "urn"
+    },
+    "clusterList": [
+        {
+            "phrase": "urn schemas-microsoft-com office office",
+            "count": 18
+        },
+        {
+            "phrase": "urn schemas-microsoft-com office smarttags",
+            "count": 6
+        },
+        {
+            "phrase": "urn schemas-microsoft-com vml",
+            "count": 1
+        },
+        {
+            "phrase": "http schemas microsoft com cdo configuration smtpauthenticate",
+            "count": 1
+        },
+        {
+            "phrase": "http schemas microsoft com cdo configuration sendusername",
+            "count": 1
+        },
+        {
+            "phrase": "http schemas microsoft com cdo configuration smtpserverport",
+            "count": 1
+        }
+    ]
+}

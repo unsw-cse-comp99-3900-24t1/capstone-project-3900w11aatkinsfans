@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:35",
+            "03:37",
+            "04:04",
+            "04:46"
+        ],
+        "label": "germans"
+    },
+    "clusterList": [
+        {
+            "phrase": "churchill hitler and",
+            "count": 2
+        },
+        {
+            "phrase": "germans of the east",
+            "count": 1
+        },
+        {
+            "phrase": "irish of the east",
+            "count": 1
+        },
+        {
+            "phrase": "people of berlin",
+            "count": 1
+        },
+        {
+            "phrase": "the kurds the turks and the germans",
+            "count": 1
+        }
+    ]
+}

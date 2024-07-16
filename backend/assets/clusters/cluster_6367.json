@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:27",
+            "03:51",
+            "04:28"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she sat there and bristled for a while",
+            "count": 1
+        },
+        {
+            "phrase": "suddenly her skin was crawling as if a large insect were creeping across her neck",
+            "count": 1
+        },
+        {
+            "phrase": "the voice gave way into a sigh then continued",
+            "count": 1
+        }
+    ]
+}

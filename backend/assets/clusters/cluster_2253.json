@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:09",
+            "01:18",
+            "01:34",
+            "02:09",
+            "02:51",
+            "04:13",
+            "04:22"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the private sector does a much more efficient job of running that type of business",
+            "count": 4
+        },
+        {
+            "phrase": "government is useless and can't do anything",
+            "count": 1
+        },
+        {
+            "phrase": "government is just not as good at owning and managing as the private sector because the incentives are not there",
+            "count": 1
+        },
+        {
+            "phrase": "the indian state no longer generates public goods instead it creates private benefits for those who control it consequently the indian state has become so riddled with perverse incentives that accountability is almost impossible",
+            "count": 1
+        },
+        {
+            "phrase": "and in general there is a strong relationship between governments being under immense fiscal stress and their interest in privatization",
+            "count": 1
+        }
+    ]
+}

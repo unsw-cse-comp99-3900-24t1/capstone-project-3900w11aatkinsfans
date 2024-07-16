@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3,
+            3,
+            4,
+            6,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:37",
+            "01:09",
+            "01:19",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:28",
+            "03:19",
+            "03:22",
+            "03:44",
+            "03:51",
+            "03:59",
+            "04:05",
+            "04:09",
+            "04:46",
+            "05:01"
+        ],
+        "label": "page"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not loaded",
+            "count": 9
+        },
+        {
+            "phrase": "no directory i and can t create it",
+            "count": 6
+        },
+        {
+            "phrase": "no such file or directory",
+            "count": 3
+        },
+        {
+            "phrase": "page cannot be displayed",
+            "count": 2
+        },
+        {
+            "phrase": "page not found",
+            "count": 2
+        },
+        {
+            "phrase": "site not found",
+            "count": 2
+        },
+        {
+            "phrase": "you can't fix a blank page",
+            "count": 1
+        },
+        {
+            "phrase": "system file not found",
+            "count": 1
+        },
+        {
+            "phrase": "could not resolve unknown host or server",
+            "count": 1
+        },
+        {
+            "phrase": "no files found",
+            "count": 1
+        },
+        {
+            "phrase": "webpage cannot be found",
+            "count": 1
+        },
+        {
+            "phrase": "safari can't find server",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:34",
+            "01:42",
+            "03:43",
+            "03:57",
+            "04:18",
+            "04:32",
+            "04:45"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "preach the gospel at all times when necessary use words",
+            "count": 2
+        },
+        {
+            "phrase": "my sermon is very well thought-out all written out word for word i preach from a complete manuscript reflecting the scholarship that i benefit from people deserve a well-reasoned and argued sermon",
+            "count": 1
+        },
+        {
+            "phrase": "ashamed of the gospel",
+            "count": 1
+        },
+        {
+            "phrase": "about what do you preach",
+            "count": 1
+        },
+        {
+            "phrase": "we do not preach we speak to a few in a friendly manner about the things of god just as one does after dinner with those who invite us",
+            "count": 1
+        },
+        {
+            "phrase": "if i profess with the loudest voice and clearest exposition every portion of the truth of god",
+            "count": 1
+        },
+        {
+            "phrase": "preach what you practice",
+            "count": 1
+        },
+        {
+            "phrase": "quit using jesus as a cuss word",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "03:13"
+        ],
+        "label": "walked"
+    },
+    "clusterList": [
+        {
+            "phrase": "walked with god in the cool of the evening",
+            "count": 1
+        },
+        {
+            "phrase": "participating in an owls event i feel like we sat with jesus and walked with him",
+            "count": 1
+        }
+    ]
+}

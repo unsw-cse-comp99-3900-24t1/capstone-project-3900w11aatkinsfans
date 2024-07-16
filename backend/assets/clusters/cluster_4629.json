@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:32",
+            "04:46"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they could have much more rapidly identified that tomatoes were excluded and they could have gotten to the peppers more quickly and saved a lot of people the stress",
+            "count": 1
+        },
+        {
+            "phrase": "those who were cued by the environment ate 25 more fruits and vegetables",
+            "count": 1
+        },
+        {
+            "phrase": "everyone agrees they should eat more fruits and vegetables",
+            "count": 1
+        },
+        {
+            "phrase": "since the two groups were randomly selected fruit and vegetable consumption should have been the same in each group",
+            "count": 1
+        }
+    ]
+}

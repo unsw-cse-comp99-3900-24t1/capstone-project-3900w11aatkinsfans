@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            4
+        ],
+        "xLabels": [
+            "01:20",
+            "02:22",
+            "02:23"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's pretend football",
+            "count": 1
+        },
+        {
+            "phrase": "football is not a contact sport its a collision sport",
+            "count": 1
+        },
+        {
+            "phrase": "it's not just football it's a way of life",
+            "count": 1
+        },
+        {
+            "phrase": "the birth of football",
+            "count": 1
+        },
+        {
+            "phrase": "china's king of football",
+            "count": 1
+        },
+        {
+            "phrase": "the day of china's national game",
+            "count": 1
+        },
+        {
+            "phrase": "china's national game is football",
+            "count": 1
+        }
+    ]
+}

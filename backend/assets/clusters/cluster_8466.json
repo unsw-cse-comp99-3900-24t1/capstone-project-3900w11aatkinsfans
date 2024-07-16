@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:47"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there shall be no violation of the confidentiality of the spoken utterances writings or records of a person",
+            "count": 1
+        },
+        {
+            "phrase": "you do not have to say anything but it may harm your defence if you do not mention when questioned something which you later rely on in court",
+            "count": 1
+        }
+    ]
+}

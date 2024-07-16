@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:32",
+            "00:36",
+            "00:56",
+            "01:32",
+            "01:33",
+            "01:43",
+            "01:51",
+            "01:57",
+            "02:23",
+            "02:24",
+            "02:55",
+            "04:10",
+            "04:51",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am optimistic that the worst has passed and we will not see many bodies in the city anymore the iraqi people are no longer interested in continuing the cycle of violence",
+            "count": 9
+        },
+        {
+            "phrase": "violence is down to its lowest level since the spring of 2004",
+            "count": 2
+        },
+        {
+            "phrase": "i am optimistic that the worst has passed and we will not see much bodies in the city any more iraqi people are no longer interested in continuing the cycle of violence",
+            "count": 1
+        },
+        {
+            "phrase": "at a time when media attention is almost wholly focused on the difficulties and violence in iraq the progress achieved to date represents an important reminder of positive developments",
+            "count": 1
+        },
+        {
+            "phrase": "u s troops on the ground don't follow statistics they follow their gut and these days that tells them things are getting better",
+            "count": 1
+        },
+        {
+            "phrase": "if there's any bright side here it's that the level of violence in iraq has come down enough",
+            "count": 1
+        },
+        {
+            "phrase": "violence is down to its lowest level since the spring of 2004 and we're now in our third consecutive month with reduced violence levels holding steady",
+            "count": 1
+        }
+    ]
+}

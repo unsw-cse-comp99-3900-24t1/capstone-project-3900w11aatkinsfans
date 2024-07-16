@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:07",
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:02",
+            "03:42"
+        ],
+        "label": "uh"
+    },
+    "clusterList": [
+        {
+            "phrase": "exactly you know it wait wait what did you say",
+            "count": 6
+        },
+        {
+            "phrase": "i guess i should warn you if i turn out to be particularly clear you've probably misunderstood what i said",
+            "count": 5
+        },
+        {
+            "phrase": "uh okay well i didn't know you said it so don't worry",
+            "count": 1
+        },
+        {
+            "phrase": "i it was i mean you you don't have to i already know so please don't say it",
+            "count": 1
+        }
+    ]
+}

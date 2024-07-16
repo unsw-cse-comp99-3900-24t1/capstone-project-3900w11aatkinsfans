@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:18",
+            "03:55",
+            "04:18"
+        ],
+        "label": "secretary"
+    },
+    "clusterList": [
+        {
+            "phrase": "secretary of petroleum",
+            "count": 1
+        },
+        {
+            "phrase": "says jenalea randall press secretary for the kansas treasury",
+            "count": 1
+        },
+        {
+            "phrase": "white house press secretary",
+            "count": 1
+        },
+        {
+            "phrase": "us secretary of state ms",
+            "count": 1
+        }
+    ]
+}

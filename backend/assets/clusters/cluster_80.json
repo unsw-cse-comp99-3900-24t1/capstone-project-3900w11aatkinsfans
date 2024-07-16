@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            64,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "03:27",
+            "04:13"
+        ],
+        "label": "protect"
+    },
+    "clusterList": [
+        {
+            "phrase": "protect harvard from the riaa",
+            "count": 32
+        },
+        {
+            "phrase": "universities to riaa take a hike",
+            "count": 32
+        },
+        {
+            "phrase": "the digital archive of american popular music is an initiative to provide access to digital versions of the sheet music and performances of the songs now in the public domain",
+            "count": 1
+        },
+        {
+            "phrase": "the hard lesson to the music business here is that it must license venues for music acquisition that fans prefer to file sharing networks or otherwise make the toleration of file sharing part of their business plans if even radiohead's freely available album was torrented 2 3 million times in the first three and a half weeks how can more traditional offerings successfully clamp-down on file sharing they can't pure and simple",
+            "count": 1
+        }
+    ]
+}

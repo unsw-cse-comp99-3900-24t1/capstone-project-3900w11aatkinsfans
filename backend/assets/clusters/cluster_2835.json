@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:47",
+            "03:18",
+            "03:19",
+            "03:50"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well scott it was great having you here and everything but i'm tired and i need my sleep so thanks for dropping by and g-t-f-o",
+            "count": 1
+        },
+        {
+            "phrase": "have a good afternoon at work",
+            "count": 1
+        },
+        {
+            "phrase": "of course duh i won't ask why though goodnight",
+            "count": 1
+        },
+        {
+            "phrase": "good morning sir",
+            "count": 1
+        },
+        {
+            "phrase": "say goodnight to the bad guy",
+            "count": 1
+        },
+        {
+            "phrase": "how about you are my sunshine",
+            "count": 1
+        }
+    ]
+}

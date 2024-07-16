@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:43",
+            "04:24",
+            "04:59"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some of the athletes will suffer severe reactions and all will see impacts on their health",
+            "count": 2
+        },
+        {
+            "phrase": "you got athletes on this team",
+            "count": 1
+        }
+    ]
+}

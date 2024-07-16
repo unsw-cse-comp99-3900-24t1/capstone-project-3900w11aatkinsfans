@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:24",
+            "01:47",
+            "02:17",
+            "02:51",
+            "03:12",
+            "03:17"
+        ],
+        "label": "easiest"
+    },
+    "clusterList": [
+        {
+            "phrase": "easiest thing to do",
+            "count": 2
+        },
+        {
+            "phrase": "i don't really know what to do",
+            "count": 2
+        },
+        {
+            "phrase": "i don't really know what to do so i just don't think about that",
+            "count": 2
+        },
+        {
+            "phrase": "i just don't know what to do with myself",
+            "count": 1
+        }
+    ]
+}

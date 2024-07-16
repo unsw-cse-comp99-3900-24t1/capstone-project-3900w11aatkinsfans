@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:56",
+            "02:43",
+            "03:22",
+            "03:27",
+            "04:03"
+        ],
+        "label": "above"
+    },
+    "clusterList": [
+        {
+            "phrase": "other than mainstream",
+            "count": 3
+        },
+        {
+            "phrase": "above may use orig",
+            "count": 2
+        },
+        {
+            "phrase": "another of a different kind",
+            "count": 1
+        },
+        {
+            "phrase": "any other type",
+            "count": 1
+        }
+    ]
+}

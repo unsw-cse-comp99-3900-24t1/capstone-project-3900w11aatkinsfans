@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:20",
+            "01:29",
+            "04:23",
+            "04:33",
+            "05:04"
+        ],
+        "label": "school"
+    },
+    "clusterList": [
+        {
+            "phrase": "school is practice for the future and practice makes perfect and nobodies perfect so why practice",
+            "count": 1
+        },
+        {
+            "phrase": "recent research indicates that some teacher attempts to create such environments by using praise may actually be counterproductive",
+            "count": 1
+        },
+        {
+            "phrase": "certain kinds of praise may set up even the most capable students for failure because no student can always be",
+            "count": 1
+        },
+        {
+            "phrase": "assessment is the tool by which the story of the teaching library is assembled and the process through which we demonstrate our direct contribution to student learning faculty development and the instructional mission of the college campus",
+            "count": 1
+        },
+        {
+            "phrase": "it teaches self-reliance and self discipline in an adult activity and provides a foundation for the rest of their lives because it provides an opportunity to learn the fundamentals of adulthood",
+            "count": 1
+        },
+        {
+            "phrase": "students to feel that they belong to something important and we also want them to be prepared for the expectations of today's workforce",
+            "count": 1
+        },
+        {
+            "phrase": "i just think like it's a way of improving our school",
+            "count": 1
+        },
+        {
+            "phrase": "it's a positive reflection of student aptitude and how schools work to develop it",
+            "count": 1
+        }
+    ]
+}

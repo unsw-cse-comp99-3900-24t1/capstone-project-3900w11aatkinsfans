@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:56",
+            "03:18",
+            "03:38"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you ain't seen nothin yet baby",
+            "count": 1
+        },
+        {
+            "phrase": "right we ain't goin anywhere",
+            "count": 1
+        },
+        {
+            "phrase": "hey you ain't goin nowhere kid",
+            "count": 1
+        },
+        {
+            "phrase": "you ain't done shit for me nigga",
+            "count": 1
+        }
+    ]
+}

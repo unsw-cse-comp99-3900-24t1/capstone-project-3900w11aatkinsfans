@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:29",
+            "01:56",
+            "05:02"
+        ],
+        "label": "slogans"
+    },
+    "clusterList": [
+        {
+            "phrase": "slogans and spin mostly don't work for progressives",
+            "count": 1
+        },
+        {
+            "phrase": "popular brave and progressive",
+            "count": 1
+        },
+        {
+            "phrase": "back the progressives into a corner",
+            "count": 1
+        },
+        {
+            "phrase": "stand firm on the allegedly progressive principles he so compellingly articulated in the primary campaign",
+            "count": 1
+        }
+    ]
+}

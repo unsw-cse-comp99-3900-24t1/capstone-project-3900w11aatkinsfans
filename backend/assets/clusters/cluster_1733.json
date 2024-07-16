@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:20",
+            "03:00",
+            "03:01",
+            "03:09",
+            "03:18",
+            "03:19",
+            "03:42",
+            "04:18",
+            "04:23"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never send it to spam",
+            "count": 5
+        },
+        {
+            "phrase": "slam the scam seorang",
+            "count": 1
+        },
+        {
+            "phrase": "any system that wants money in exchange for removing your address from a spammer's list is a scam",
+            "count": 1
+        },
+        {
+            "phrase": "spam opt-out service",
+            "count": 1
+        },
+        {
+            "phrase": "a hacker could make a fake bank web site find a vulnerable resolver and poison its cache so that customers using that resolver are directed to the fake address instead of the bank web site",
+            "count": 1
+        },
+        {
+            "phrase": "the beauty of spam is that you can use the oil it comes in too",
+            "count": 1
+        }
+    ]
+}

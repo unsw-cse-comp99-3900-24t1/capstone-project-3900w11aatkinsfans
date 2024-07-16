@@ -1,0 +1,131 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:21",
+            "00:25",
+            "00:28",
+            "00:32",
+            "00:48",
+            "00:50",
+            "01:07",
+            "01:25",
+            "02:05",
+            "02:44",
+            "02:51",
+            "03:15",
+            "03:18",
+            "03:56",
+            "04:07",
+            "04:22",
+            "04:24",
+            "04:28",
+            "04:37",
+            "04:55",
+            "05:01"
+        ],
+        "label": "tough"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a difficult time",
+            "count": 3
+        },
+        {
+            "phrase": "tough it out",
+            "count": 2
+        },
+        {
+            "phrase": "the hard way",
+            "count": 2
+        },
+        {
+            "phrase": "it's difficult for me you understand",
+            "count": 1
+        },
+        {
+            "phrase": "easy if you do it right",
+            "count": 1
+        },
+        {
+            "phrase": "it's not that hard",
+            "count": 1
+        },
+        {
+            "phrase": "it's definitely challenging",
+            "count": 1
+        },
+        {
+            "phrase": "it's incredibly hard",
+            "count": 1
+        },
+        {
+            "phrase": "it's not going to be easy toph",
+            "count": 1
+        },
+        {
+            "phrase": "crap this may be harder than i thought",
+            "count": 1
+        },
+        {
+            "phrase": "hey this is not that hard",
+            "count": 1
+        },
+        {
+            "phrase": "i've done your job and it's not hard",
+            "count": 1
+        },
+        {
+            "phrase": "but it's difficult",
+            "count": 1
+        },
+        {
+            "phrase": "it's too hard",
+            "count": 1
+        },
+        {
+            "phrase": "it's always hard no matter what just one of those things you have to deal with",
+            "count": 1
+        },
+        {
+            "phrase": "it's hard to do it incorrectly",
+            "count": 1
+        },
+        {
+            "phrase": "it is frustrating",
+            "count": 1
+        },
+        {
+            "phrase": "it's extremely frustrating",
+            "count": 1
+        },
+        {
+            "phrase": "oh is it hard out there",
+            "count": 1
+        }
+    ]
+}

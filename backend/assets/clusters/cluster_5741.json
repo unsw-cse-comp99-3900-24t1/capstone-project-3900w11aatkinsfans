@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:13",
+            "03:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the commission's view is that it would not be able to issue finalised guidance in this area until the relevant primary legislation had received royal assent and the commission had carefully considered the wider context in which guidance would operate and consulted widely on the content of the guidance",
+            "count": 2
+        },
+        {
+            "phrase": "to the achievement of points of convergence and even of agreement which many would not have thought possible before the commission began its work",
+            "count": 1
+        }
+    ]
+}

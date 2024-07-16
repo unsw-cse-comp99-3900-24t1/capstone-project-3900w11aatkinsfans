@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "04:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am so busy worrying about retirement i can't relax",
+            "count": 1
+        },
+        {
+            "phrase": "they better not my retirement is depending on it",
+            "count": 1
+        }
+    ]
+}

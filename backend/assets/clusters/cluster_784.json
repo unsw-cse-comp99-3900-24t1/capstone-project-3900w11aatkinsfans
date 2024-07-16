@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:23",
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:03",
+            "04:13",
+            "04:23",
+            "04:24",
+            "04:28",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have had to endure a journey of hell frustration and pain searing pain that still to this day rips through my body",
+            "count": 13
+        },
+        {
+            "phrase": "i remember the pain was so great that i reached out to god and really prayed",
+            "count": 1
+        },
+        {
+            "phrase": "heart softened toward god when i gave my heart to christ he gave it right back to me good as new",
+            "count": 1
+        },
+        {
+            "phrase": "it made everything a little easier knowing i was going to the shriners hospital that's where you get the best of the best",
+            "count": 1
+        },
+        {
+            "phrase": "they gave me painkillers and i said lord have mercy i remember this",
+            "count": 1
+        }
+    ]
+}

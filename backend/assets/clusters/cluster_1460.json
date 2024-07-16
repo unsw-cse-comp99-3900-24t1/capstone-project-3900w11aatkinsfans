@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:37",
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:28",
+            "02:43",
+            "04:23",
+            "04:28"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "some were very mushy very soft they put a lot of moisture in some greens and not in others",
+            "count": 8
+        },
+        {
+            "phrase": "they're very raw very cut and dry",
+            "count": 1
+        },
+        {
+            "phrase": "they're macadamia nuts",
+            "count": 1
+        },
+        {
+            "phrase": "azumarril cooked these",
+            "count": 1
+        }
+    ]
+}

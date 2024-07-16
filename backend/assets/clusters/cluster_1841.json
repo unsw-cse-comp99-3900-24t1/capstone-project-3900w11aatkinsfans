@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:33",
+            "00:36",
+            "00:43",
+            "02:10",
+            "03:12",
+            "04:09",
+            "04:50",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i try not to write myself into a corner and allow things to expand even now every book i do i'm throwing certain pieces out there",
+            "count": 2
+        },
+        {
+            "phrase": "drag all the books off the bookshelf",
+            "count": 1
+        },
+        {
+            "phrase": "littering your house with books",
+            "count": 1
+        },
+        {
+            "phrase": "take out the shelves i just can't resist the books if they are here",
+            "count": 1
+        },
+        {
+            "phrase": "i tend to get rid of everything else before i will let go of a book",
+            "count": 1
+        },
+        {
+            "phrase": "hitting the books",
+            "count": 1
+        },
+        {
+            "phrase": "a bookshelf on top of the sky",
+            "count": 1
+        },
+        {
+            "phrase": "professors on the bookshelf",
+            "count": 1
+        }
+    ]
+}

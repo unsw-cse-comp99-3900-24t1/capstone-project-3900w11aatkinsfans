@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:18",
+            "03:54",
+            "04:35",
+            "04:45",
+            "04:51",
+            "05:01",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will quit my duties in an honourable just and responsible manner as i have acted throughout my mandate i will then prove my innocence",
+            "count": 5
+        },
+        {
+            "phrase": "i am breaking down under the constant responsibility because the others need me ceaselessly",
+            "count": 1
+        },
+        {
+            "phrase": "i will quit my duties in an honourable just and responsible manner as i have acted throughout my mandate",
+            "count": 1
+        },
+        {
+            "phrase": "the honour of the appointment carries with it great responsibility which i willingly accept",
+            "count": 1
+        }
+    ]
+}

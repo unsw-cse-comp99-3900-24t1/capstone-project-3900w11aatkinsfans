@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:05",
+            "02:15"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's wrong with that you want him to be comfortable",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not concerned with his behavior until he makes me concerned there is no downside to getting him this is huge",
+            "count": 1
+        },
+        {
+            "phrase": "he's just at the age where it could make a big difference and i think he's concerned about that and rightfully so",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:10",
+            "02:51"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll vote on it next time we have a house meeting alright",
+            "count": 1
+        },
+        {
+            "phrase": "yes i want to continue it or i want to do something else to get one of the proposals on the november ballot counselors must vote by the first week of september",
+            "count": 1
+        },
+        {
+            "phrase": "if i had to vote on this legislation today i would vote no",
+            "count": 1
+        }
+    ]
+}

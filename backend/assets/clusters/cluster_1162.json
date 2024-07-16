@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            10,
+            2
+        ],
+        "xLabels": [
+            "01:19",
+            "02:24",
+            "03:10"
+        ],
+        "label": "published"
+    },
+    "clusterList": [
+        {
+            "phrase": "4 major climate monitoring agencies",
+            "count": 10
+        },
+        {
+            "phrase": "primary forcing mechanism pfm for climate",
+            "count": 2
+        },
+        {
+            "phrase": "published 1977 that's 31 years ago there's a lot of progress in climate modelling since then",
+            "count": 1
+        }
+    ]
+}

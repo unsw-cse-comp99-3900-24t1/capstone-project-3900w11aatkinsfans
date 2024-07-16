@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:19",
+            "00:33",
+            "00:56",
+            "01:23",
+            "01:34",
+            "02:24",
+            "03:15",
+            "03:46",
+            "03:59"
+        ],
+        "label": "taking"
+    },
+    "clusterList": [
+        {
+            "phrase": "a new beginning",
+            "count": 2
+        },
+        {
+            "phrase": "a candid world",
+            "count": 2
+        },
+        {
+            "phrase": "taking over the world",
+            "count": 1
+        },
+        {
+            "phrase": "new world order",
+            "count": 1
+        },
+        {
+            "phrase": "coming into the world",
+            "count": 1
+        },
+        {
+            "phrase": "not understanding the new world",
+            "count": 1
+        },
+        {
+            "phrase": "the new beginning",
+            "count": 1
+        },
+        {
+            "phrase": "the world we live in",
+            "count": 1
+        },
+        {
+            "phrase": "changing a world",
+            "count": 1
+        },
+        {
+            "phrase": "a different world",
+            "count": 1
+        },
+        {
+            "phrase": "brave new world",
+            "count": 1
+        }
+    ]
+}

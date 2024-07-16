@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:28",
+            "00:38",
+            "01:18",
+            "02:40",
+            "03:01",
+            "03:15",
+            "03:46",
+            "03:55",
+            "04:28"
+        ],
+        "label": "commanding"
+    },
+    "clusterList": [
+        {
+            "phrase": "what you saw and what you experienced would shake the most seasoned police officer and yet i'm told that each of you acted swiftly calmly and bravely",
+            "count": 4
+        },
+        {
+            "phrase": "commanding officers are made fully aware of their responsibility to protect their soldiers from all forms of physical and mental harassment or intimidation and any suspicion of bullying is dealt with immediately",
+            "count": 2
+        },
+        {
+            "phrase": "the driver stated to my officer that he was attending to a child in the back seat and not paying attention to his driving",
+            "count": 1
+        },
+        {
+            "phrase": "all the officer can do is react to what he sees",
+            "count": 1
+        },
+        {
+            "phrase": "exhibiting a firearm in the presence of a police officer in a threatening manner",
+            "count": 1
+        },
+        {
+            "phrase": "i think police officers always have to keep in the back of their mind that anything they do-anytime they are out on patrol is subject to being videotaped",
+            "count": 1
+        }
+    ]
+}

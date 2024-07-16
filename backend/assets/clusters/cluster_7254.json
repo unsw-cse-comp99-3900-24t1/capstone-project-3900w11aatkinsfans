@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:43",
+            "03:18"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never take control of my emotions like that never",
+            "count": 1
+        },
+        {
+            "phrase": "you said that you can control my emotions how i feel",
+            "count": 1
+        },
+        {
+            "phrase": "well tobias you see can control my emotions",
+            "count": 1
+        }
+    ]
+}

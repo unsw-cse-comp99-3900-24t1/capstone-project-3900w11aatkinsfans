@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "02:14"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if x is true do the following chunk of code",
+            "count": 1
+        }
+    ]
+}

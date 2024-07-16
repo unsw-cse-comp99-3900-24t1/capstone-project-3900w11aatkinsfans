@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the deadly dust",
+            "count": 1
+        },
+        {
+            "phrase": "carried to dust",
+            "count": 1
+        }
+    ]
+}

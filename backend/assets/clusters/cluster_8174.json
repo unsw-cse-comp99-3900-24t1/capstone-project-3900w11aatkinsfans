@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "04:46"
+        ],
+        "label": "nor"
+    },
+    "clusterList": [
+        {
+            "phrase": "nor shall any person be subject for the same offence to be twice put in jeopardy of life or limb",
+            "count": 1
+        },
+        {
+            "phrase": "the intentional termination of the life of one human being by another",
+            "count": 1
+        }
+    ]
+}

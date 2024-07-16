@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:08",
+            "01:39",
+            "03:56",
+            "04:13"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who among us would not have thought he had a gun",
+            "count": 1
+        },
+        {
+            "phrase": "it would not have been a necessity to shoot and kill this man's dogs",
+            "count": 1
+        },
+        {
+            "phrase": "we believe he was one of the shooters",
+            "count": 1
+        },
+        {
+            "phrase": "it wouldn't be a weapon and we couldn't cite him for carrying a weapon",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "02:01",
+            "04:18",
+            "04:46"
+        ],
+        "label": "four"
+    },
+    "clusterList": [
+        {
+            "phrase": "four weddings and a funeral",
+            "count": 1
+        },
+        {
+            "phrase": "because i have to find something for those weddings and they're having a sale",
+            "count": 1
+        },
+        {
+            "phrase": "the tomato funeral",
+            "count": 1
+        },
+        {
+            "phrase": "how can the guests of the bridegroom mourn while he is with them the time will come when the bridegroom will be taken from them then they will fast",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:51",
+            "01:03",
+            "01:32",
+            "02:11",
+            "02:51",
+            "03:15",
+            "03:40",
+            "04:13"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "the attorney general ruled that a contractor is a professional",
+            "count": 6
+        },
+        {
+            "phrase": "most contractors act as if the law doesn't apply to them under my plan if contractors break the law they will be prosecuted",
+            "count": 2
+        },
+        {
+            "phrase": "what right do they have to ask the federal government to pay them for the projects",
+            "count": 1
+        },
+        {
+            "phrase": "contractors on public works projects should be warned obey the law and pay the prevailing wage or face the consequences",
+            "count": 1
+        }
+    ]
+}

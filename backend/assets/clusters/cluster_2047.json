@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "01:06",
+            "01:29",
+            "01:56",
+            "02:23",
+            "03:12",
+            "03:18"
+        ],
+        "label": "knife"
+    },
+    "clusterList": [
+        {
+            "phrase": "knife here later please",
+            "count": 2
+        },
+        {
+            "phrase": "drop that knife now",
+            "count": 1
+        },
+        {
+            "phrase": "oh hey mister i dont have any money what do u need that knife for oh shi call ended",
+            "count": 1
+        },
+        {
+            "phrase": "ummm do you have a knife in here",
+            "count": 1
+        },
+        {
+            "phrase": "mack the knife",
+            "count": 1
+        },
+        {
+            "phrase": "i see a knife again",
+            "count": 1
+        },
+        {
+            "phrase": "what kind of knife can you see",
+            "count": 1
+        }
+    ]
+}

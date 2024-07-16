@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:18",
+            "02:01",
+            "03:18",
+            "04:18"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can't fault a guy for being aggressive",
+            "count": 1
+        },
+        {
+            "phrase": "i'm high strung i have to control my temper when i see him i'll apologize",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not mad i wish he'd reach out he's so stubborn and he's not very affectionate that makes me mad again",
+            "count": 1
+        },
+        {
+            "phrase": "you made me didn't you you made me throw that anger fit at krusha",
+            "count": 1
+        },
+        {
+            "phrase": "don't worry i can control him with my mind",
+            "count": 1
+        }
+    ]
+}

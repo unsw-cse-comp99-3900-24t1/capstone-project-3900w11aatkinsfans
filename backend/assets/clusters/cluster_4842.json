@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:37",
+            "02:29"
+        ],
+        "label": "everybody"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody shout bitch",
+            "count": 1
+        },
+        {
+            "phrase": "now everybody shout nigger",
+            "count": 1
+        },
+        {
+            "phrase": "they'll call me a nigger",
+            "count": 1
+        },
+        {
+            "phrase": "all a nigger's dick thinks",
+            "count": 1
+        }
+    ]
+}

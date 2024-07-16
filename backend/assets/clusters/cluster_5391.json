@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            4
+        ],
+        "xLabels": [
+            "04:00"
+        ],
+        "label": "shaving"
+    },
+    "clusterList": [
+        {
+            "phrase": "shaving the beard is an innovation introduced to the muslim countries by the christians who formerly invaded and conquered the muslim lands",
+            "count": 1
+        },
+        {
+            "phrase": "it is forbidden to shave the beard only the efffeminate do so",
+            "count": 1
+        },
+        {
+            "phrase": "they the muslim scholars agreed that shaving of the beard is a form of mutilation which is forbidden",
+            "count": 1
+        },
+        {
+            "phrase": "shaving the beard is haraam forbidden no scholar has ever permitted it",
+            "count": 1
+        }
+    ]
+}

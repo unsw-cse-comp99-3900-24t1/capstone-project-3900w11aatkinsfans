@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:25",
+            "04:14"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "new and improved anti aging skin care",
+            "count": 1
+        },
+        {
+            "phrase": "topical retinol improves fine wrinkles associated with natural aging",
+            "count": 1
+        },
+        {
+            "phrase": "significant induction of glycosaminoglycan which is known to retain substantial water and increased collagen production are most likely responsible for wrinkle effacement reduction with greater skin matrix synthesis production of compounds that form new skin retinol-treated aged skin is more likely to withstand skin injury and ulcer formation along with improved appearance",
+            "count": 1
+        }
+    ]
+}

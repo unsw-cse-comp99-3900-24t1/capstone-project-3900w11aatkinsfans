@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:23",
+            "04:28",
+            "04:51"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe that was your church",
+            "count": 1
+        },
+        {
+            "phrase": "i really didn't like the worship at church today",
+            "count": 1
+        },
+        {
+            "phrase": "rhoda left the church because of problems that were happening inside the church",
+            "count": 1
+        }
+    ]
+}

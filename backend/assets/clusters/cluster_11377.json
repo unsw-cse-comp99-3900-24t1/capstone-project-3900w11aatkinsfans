@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:22",
+            "04:45"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're gonna be imported",
+            "count": 1
+        },
+        {
+            "phrase": "i'm an import to export",
+            "count": 1
+        }
+    ]
+}

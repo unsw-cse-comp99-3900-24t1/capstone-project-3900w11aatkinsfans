@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:31",
+            "04:44"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a very real possibility that the frontons left could soon close",
+            "count": 2
+        },
+        {
+            "phrase": "we don't have any indication that that's the case",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "03:55",
+            "04:23"
+        ],
+        "label": "pile"
+    },
+    "clusterList": [
+        {
+            "phrase": "pile of climbing gear",
+            "count": 1
+        },
+        {
+            "phrase": "something crazy like rock climb or roller blade",
+            "count": 1
+        },
+        {
+            "phrase": "hands down the best metal bending routine i've ever seen",
+            "count": 1
+        }
+    ]
+}

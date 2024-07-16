@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "04:13"
+        ],
+        "label": "large"
+    },
+    "clusterList": [
+        {
+            "phrase": "large for a size small",
+            "count": 1
+        },
+        {
+            "phrase": "one size fits all",
+            "count": 1
+        }
+    ]
+}

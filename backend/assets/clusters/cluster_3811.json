@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:01",
+            "02:46",
+            "03:34"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that is a fiscal policy operation essentially something that should have been set up in the treasury department",
+            "count": 2
+        },
+        {
+            "phrase": "the federal government wants to know what they're paying for and everyone understands that",
+            "count": 1
+        },
+        {
+            "phrase": "to replenish the fund for any expenditures that may have exceeded the purposes stated in the will",
+            "count": 1
+        },
+        {
+            "phrase": "that is a fiscal policy operation essentially something which should be set up in the treasury department",
+            "count": 1
+        }
+    ]
+}

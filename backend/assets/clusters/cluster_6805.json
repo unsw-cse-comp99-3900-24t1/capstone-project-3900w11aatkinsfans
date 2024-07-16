@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:22",
+            "03:23"
+        ],
+        "label": "gt"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have lost all confidence in stephen johnson's ability to carry out epa's mission under the law",
+            "count": 2
+        },
+        {
+            "phrase": "gt three senators call for epa chief to resign reuters afp the failure of key powers to agree a new pact on global trade does not bode well for international cooperation in other areas such as climate change top delegates warned tuesday",
+            "count": 1
+        }
+    ]
+}

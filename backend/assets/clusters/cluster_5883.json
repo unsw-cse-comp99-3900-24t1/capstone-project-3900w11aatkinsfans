@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:18",
+            "01:25"
+        ],
+        "label": "yes"
+    },
+    "clusterList": [
+        {
+            "phrase": "yes well i guess that is an unfortunate consequence of doing what is right nevertheless we must stoically push on and continue to do what we believe is right",
+            "count": 1
+        },
+        {
+            "phrase": "let us have faith that right makes might and in that faith let us to the end dare to do our duty as we understand it",
+            "count": 1
+        },
+        {
+            "phrase": "and let us consider how we may spur one another on toward love and good deeds",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:14",
+            "03:39"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what who wtf going on",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know what's going on there it's one of those things i haven't heard anything from anyone",
+            "count": 1
+        },
+        {
+            "phrase": "what the hell is going on and give me a fucking beer",
+            "count": 1
+        }
+    ]
+}

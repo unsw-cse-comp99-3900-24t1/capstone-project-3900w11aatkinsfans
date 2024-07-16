@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:13",
+            "01:47",
+            "01:50",
+            "02:57",
+            "04:00"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's sad this is our last time doing a movie together and we love each other so much we really grew up together we can be free when we're around one another and the amount of fun we have is ridiculous",
+            "count": 2
+        },
+        {
+            "phrase": "so are you still cool with how things are going between us",
+            "count": 1
+        },
+        {
+            "phrase": "it had been years i think about five years since he and i had played music in any serious way together and so this competition very literally brought us back together in that respect not that we were estranged or anything but brought us back together creatively that was the experience of the lifetime was being able to do that with him at this point",
+            "count": 1
+        },
+        {
+            "phrase": "it's much more fun when we do it together",
+            "count": 1
+        },
+        {
+            "phrase": "we knew within an hour of gary and i getting back together to write that we still had something relevant to offer",
+            "count": 1
+        }
+    ]
+}

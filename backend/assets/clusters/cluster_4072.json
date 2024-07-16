@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "02:57",
+            "04:13",
+            "04:23",
+            "04:28"
+        ],
+        "label": "stunned"
+    },
+    "clusterList": [
+        {
+            "phrase": "shock and awe",
+            "count": 2
+        },
+        {
+            "phrase": "stunned and perplexed",
+            "count": 1
+        },
+        {
+            "phrase": "the shock of the lightning",
+            "count": 1
+        },
+        {
+            "phrase": "the days of awe",
+            "count": 1
+        }
+    ]
+}

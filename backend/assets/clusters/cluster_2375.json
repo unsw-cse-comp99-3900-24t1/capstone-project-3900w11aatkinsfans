@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:01",
+            "03:08",
+            "03:12",
+            "03:15",
+            "03:27",
+            "04:13"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have an epidemic here",
+            "count": 6
+        },
+        {
+            "phrase": "the silent epidemic",
+            "count": 1
+        }
+    ]
+}

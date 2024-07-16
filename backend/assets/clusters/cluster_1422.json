@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:38",
+            "00:51",
+            "01:02",
+            "01:15",
+            "01:25",
+            "02:42",
+            "03:06",
+            "03:59",
+            "04:13",
+            "04:29",
+            "04:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are pleased to expand our relationship with intel",
+            "count": 5
+        },
+        {
+            "phrase": "we're thrilled with this opportunity to combine our solar sail experience and technology with a new way of doing business",
+            "count": 2
+        },
+        {
+            "phrase": "this announcement further demonstrates ibm's commitment to our state and to our people",
+            "count": 2
+        },
+        {
+            "phrase": "using sas r enterprise bi server brooks brothers has been able to turn data into an increasingly strategic corporate asset",
+            "count": 1
+        },
+        {
+            "phrase": "we are very excited about this partnership",
+            "count": 1
+        },
+        {
+            "phrase": "this is the latest example of ibm's deep history of innovation in north carolina when we open for business in late 2009 the ibm data center in research triangle park will be a strategic location for our outsourcing business for years to come i'd like to thank the state of north carolina durham county and duke energy for their outstanding support that helped make this project possible",
+            "count": 1
+        }
+    ]
+}

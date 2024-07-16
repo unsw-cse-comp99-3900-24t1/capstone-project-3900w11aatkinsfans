@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:53",
+            "01:00",
+            "02:47",
+            "03:33",
+            "04:10",
+            "04:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is no excuse for the way we've played",
+            "count": 2
+        },
+        {
+            "phrase": "we couldn't have done what we did had that great run without them that's for sure",
+            "count": 2
+        },
+        {
+            "phrase": "i got behind early and didn't like the direction the game was headed but we hung in there and the offense came alive and settled down",
+            "count": 1
+        },
+        {
+            "phrase": "we were playing a cover 2 defense",
+            "count": 1
+        },
+        {
+            "phrase": "i was down about the way we played defense against kentucky",
+            "count": 1
+        },
+        {
+            "phrase": "we've fought through a lot of adversities earlier in the year with injuries they're not excuses but they're thunderbolts and they hit you and knock your team down a little bit and you see how they react to them",
+            "count": 1
+        },
+        {
+            "phrase": "i thought this team could be the best defensive team that we've had and we just weren't doing that early",
+            "count": 1
+        }
+    ]
+}

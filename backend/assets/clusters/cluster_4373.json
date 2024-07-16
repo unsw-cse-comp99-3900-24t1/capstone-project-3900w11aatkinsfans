@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:50",
+            "00:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the free-agent signings of the blackhawks caught my attention but you also have to develop your own players",
+            "count": 1
+        },
+        {
+            "phrase": "i thought the whl would be a better route for me to getting to my goal of playing in the nhl because it's a little faster it is what is best for me",
+            "count": 1
+        },
+        {
+            "phrase": "i guess i'm trying to look past the 2009 wjc because i really want to play in the nhl next year and if i don't do that i'm not going to be satisfied",
+            "count": 1
+        },
+        {
+            "phrase": "obviously i had a dream of playing in the nhl when the opportunity to play for the rangers came along i felt it was the best place for me if we would not have won in chicago i would have left with the sense there was some unfinished work it's always easier to leave when you go out on a win",
+            "count": 1
+        }
+    ]
+}

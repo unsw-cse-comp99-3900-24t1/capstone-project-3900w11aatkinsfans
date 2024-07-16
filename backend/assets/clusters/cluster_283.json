@@ -1,0 +1,135 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:18",
+            "00:20",
+            "00:22",
+            "00:23",
+            "00:27",
+            "00:29",
+            "00:48",
+            "01:01",
+            "01:07",
+            "01:47",
+            "01:50",
+            "02:00",
+            "02:01",
+            "02:10",
+            "02:20",
+            "02:32",
+            "03:10",
+            "03:37",
+            "03:42",
+            "03:48",
+            "03:51",
+            "04:18",
+            "04:23",
+            "04:32",
+            "04:35"
+        ],
+        "label": "know"
+    },
+    "clusterList": [
+        {
+            "phrase": "know it all",
+            "count": 7
+        },
+        {
+            "phrase": "all the specifics",
+            "count": 7
+        },
+        {
+            "phrase": "oh gosh i don't know these things",
+            "count": 4
+        },
+        {
+            "phrase": "i am not a know-nothing",
+            "count": 1
+        },
+        {
+            "phrase": "need to know",
+            "count": 1
+        },
+        {
+            "phrase": "a need to know",
+            "count": 1
+        },
+        {
+            "phrase": "here is what you need to know",
+            "count": 1
+        },
+        {
+            "phrase": "if i only knew then what i know now",
+            "count": 1
+        },
+        {
+            "phrase": "all i know",
+            "count": 1
+        },
+        {
+            "phrase": "these things i know",
+            "count": 1
+        },
+        {
+            "phrase": "if i only knew then",
+            "count": 1
+        },
+        {
+            "phrase": "i know but i don't know",
+            "count": 1
+        },
+        {
+            "phrase": "i know nothing",
+            "count": 1
+        },
+        {
+            "phrase": "as far as i know",
+            "count": 1
+        },
+        {
+            "phrase": "only what you really need to know",
+            "count": 1
+        },
+        {
+            "phrase": "yes i know now",
+            "count": 1
+        },
+        {
+            "phrase": "the information mine",
+            "count": 1
+        },
+        {
+            "phrase": "tell me something i don't know",
+            "count": 1
+        }
+    ]
+}

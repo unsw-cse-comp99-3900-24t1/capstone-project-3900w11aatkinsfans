@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:27",
+            "02:51",
+            "04:23"
+        ],
+        "label": "foreign"
+    },
+    "clusterList": [
+        {
+            "phrase": "foreign legal consulting",
+            "count": 1
+        },
+        {
+            "phrase": "the business of lobbying in china",
+            "count": 1
+        },
+        {
+            "phrase": "foreign and domestic lobbying",
+            "count": 1
+        },
+        {
+            "phrase": "for cooperation among the various greek american congressional lobbying groups",
+            "count": 1
+        }
+    ]
+}

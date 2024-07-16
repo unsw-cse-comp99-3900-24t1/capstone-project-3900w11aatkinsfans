@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:32",
+            "03:05"
+        ],
+        "label": "meeting"
+    },
+    "clusterList": [
+        {
+            "phrase": "the purity code",
+            "count": 2
+        },
+        {
+            "phrase": "meeting purity milstones",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:46",
+            "03:18",
+            "03:42",
+            "03:51",
+            "04:41",
+            "04:46"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never cry baby of course i do",
+            "count": 1
+        },
+        {
+            "phrase": "but i still cry sometimes because i don't know how long it will last",
+            "count": 1
+        },
+        {
+            "phrase": "aw toots please don't cry",
+            "count": 1
+        },
+        {
+            "phrase": "do you cry out in your sleep",
+            "count": 1
+        },
+        {
+            "phrase": "it's almost too emotional for me sometimes",
+            "count": 1
+        },
+        {
+            "phrase": "so don't expect me to cry about yahoo",
+            "count": 1
+        },
+        {
+            "phrase": "i don't care how hard you cry",
+            "count": 1
+        }
+    ]
+}

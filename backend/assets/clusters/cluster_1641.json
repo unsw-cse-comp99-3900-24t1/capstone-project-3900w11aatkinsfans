@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:20",
+            "01:42",
+            "02:02",
+            "02:09",
+            "04:13",
+            "04:22"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he really believes it",
+            "count": 6
+        },
+        {
+            "phrase": "he thinks too much of himself",
+            "count": 1
+        },
+        {
+            "phrase": "dumb he is who compares himself to god",
+            "count": 1
+        },
+        {
+            "phrase": "just who does he think he is asking me all these questions",
+            "count": 1
+        },
+        {
+            "phrase": "if anyone thinks he is something when he is nothing he deceives himself each one should test his own actions then he can take pride in himself without comparing himself to somebody else for each one should carry his own load",
+            "count": 1
+        }
+    ]
+}

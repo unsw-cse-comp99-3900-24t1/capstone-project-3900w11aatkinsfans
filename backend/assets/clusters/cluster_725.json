@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:00",
+            "01:47",
+            "01:48",
+            "03:34",
+            "03:42",
+            "03:47",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:13",
+            "04:23",
+            "04:24",
+            "04:28",
+            "04:32",
+            "04:59",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "sam you cannot say that",
+            "count": 10
+        },
+        {
+            "phrase": "i don't know what to say",
+            "count": 2
+        },
+        {
+            "phrase": "i never said that",
+            "count": 1
+        },
+        {
+            "phrase": "that's not the sort of thing you say no to",
+            "count": 1
+        },
+        {
+            "phrase": "what you say is what you don't",
+            "count": 1
+        },
+        {
+            "phrase": "i said everything i needed to say",
+            "count": 1
+        },
+        {
+            "phrase": "what not to say",
+            "count": 1
+        },
+        {
+            "phrase": "do what i say not what i do",
+            "count": 1
+        },
+        {
+            "phrase": "you shouldn't say things like that",
+            "count": 1
+        }
+    ]
+}

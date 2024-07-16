@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "00:29",
+            "00:41",
+            "01:00",
+            "01:10",
+            "02:09",
+            "02:22",
+            "03:06",
+            "03:41",
+            "04:03",
+            "04:26"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "medicinal marijuana might be for you come meet with our doctor and see if you qualify",
+            "count": 3
+        },
+        {
+            "phrase": "smoked marijuana has not withstood the rigors of science it is not medicine and it is not safe",
+            "count": 2
+        },
+        {
+            "phrase": "it was found to be a quite safe drug at least at the doses we were using",
+            "count": 2
+        },
+        {
+            "phrase": "marijuana remains a controlled substance and it is illegal under federal law to possess dispense or cultivate marijuana in any form",
+            "count": 2
+        },
+        {
+            "phrase": "this is not weed",
+            "count": 1
+        },
+        {
+            "phrase": "although it is clear that cannabinoids have potential both for the management of ms symptoms such as pain and spasticity as well as for neuroprotection the society cannot at this time recommend that medical marijuana be made widely available to people with ms for symptom management",
+            "count": 1
+        },
+        {
+            "phrase": "this is a huge win for medical marijuana patients not only in california but across the country",
+            "count": 1
+        },
+        {
+            "phrase": "there is no evidence that marijuana serves as a stepping-stone to other drug use in fact most drug users do not begin their drug use with marijuana-they begin with alcohol and nicotine",
+            "count": 1
+        },
+        {
+            "phrase": "the substances that we call drugs have in the majority of cases do have a mixture of beneficial and harmful effects and nicotine no exception to this",
+            "count": 1
+        },
+        {
+            "phrase": "potential application of cannabinoids as anti-tumor drugs is an exciting prospect because cannabinoid agonists are being evaluated now to treat the side-effects of chemotherapy and radiation therapy",
+            "count": 1
+        },
+        {
+            "phrase": "people have looked at cannabinoids in cancer earlier mainly in cell culture experiments",
+            "count": 1
+        }
+    ]
+}

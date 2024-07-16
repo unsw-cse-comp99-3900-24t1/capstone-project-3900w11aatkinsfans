@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:19",
+            "01:38",
+            "03:29",
+            "03:51"
+        ],
+        "label": "clash"
+    },
+    "clusterList": [
+        {
+            "phrase": "earth to the dandy warhols",
+            "count": 2
+        },
+        {
+            "phrase": "clash of arms",
+            "count": 1
+        },
+        {
+            "phrase": "australia's v of doom",
+            "count": 1
+        },
+        {
+            "phrase": "me against the world",
+            "count": 1
+        },
+        {
+            "phrase": "battled for middle earth",
+            "count": 1
+        }
+    ]
+}

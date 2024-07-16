@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:57"
+        ],
+        "label": "sharpen"
+    },
+    "clusterList": [
+        {
+            "phrase": "sharpen the saw",
+            "count": 1
+        },
+        {
+            "phrase": "sharpen his pencil",
+            "count": 1
+        }
+    ]
+}

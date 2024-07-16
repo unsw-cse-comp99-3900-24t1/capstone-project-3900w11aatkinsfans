@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:58",
+            "01:38",
+            "02:19",
+            "03:00",
+            "03:41",
+            "04:19",
+            "04:41",
+            "04:58",
+            "05:00",
+            "05:01"
+        ],
+        "label": "gradually"
+    },
+    "clusterList": [
+        {
+            "phrase": "gradually people in japan are listening to more varied music",
+            "count": 8
+        },
+        {
+            "phrase": "instead of static in the absence of our audio we were getting audio from another market",
+            "count": 1
+        },
+        {
+            "phrase": "even with the advent of mp3 players consumers are still largely turning to radio for their music needs as it is easily accessible and free",
+            "count": 1
+        },
+        {
+            "phrase": "popularity of mp3 players and digital records hasn't pushed listeners completely away from radio",
+            "count": 1
+        },
+        {
+            "phrase": "radio has evolved into an incredibly portable and music-based medium",
+            "count": 1
+        },
+        {
+            "phrase": "research has shown that 95 of students listen to the radio while they study",
+            "count": 1
+        }
+    ]
+}

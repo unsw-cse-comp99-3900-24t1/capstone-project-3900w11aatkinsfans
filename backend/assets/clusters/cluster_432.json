@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            4,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:24",
+            "00:28",
+            "00:51",
+            "01:05",
+            "01:06",
+            "01:45",
+            "01:50",
+            "01:51",
+            "01:52",
+            "02:08",
+            "02:28",
+            "02:43",
+            "03:06",
+            "03:14",
+            "03:46",
+            "03:48",
+            "03:50",
+            "04:29",
+            "04:32"
+        ],
+        "label": "kill"
+    },
+    "clusterList": [
+        {
+            "phrase": "kill the canadians",
+            "count": 17
+        },
+        {
+            "phrase": "i took out two canadians maybe the people will start to hate me now",
+            "count": 6
+        },
+        {
+            "phrase": "if you try to take our firearms we will kill you",
+            "count": 2
+        },
+        {
+            "phrase": "if i ever get the chance i will kill the canadians",
+            "count": 1
+        }
+    ]
+}

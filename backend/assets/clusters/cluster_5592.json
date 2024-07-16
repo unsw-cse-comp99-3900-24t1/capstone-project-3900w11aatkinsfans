@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "01:28",
+            "05:01"
+        ],
+        "label": "legally"
+    },
+    "clusterList": [
+        {
+            "phrase": "legally if i want to tear down 25 buildings downtown there's nothing you can do about it",
+            "count": 1
+        },
+        {
+            "phrase": "waitakere city started responsibly by buying the building and placing a heritage order on it but it has then been neglected to the degree that it now feels justified in destroying it",
+            "count": 1
+        },
+        {
+            "phrase": "we did this after the arabs started this week to build an illegal structure on the spot this is after the municipality has already demolished a structure on this property once before",
+            "count": 1
+        },
+        {
+            "phrase": "in a lot of the plots i find arabs are living and building illegally and also working the jnf land without permission",
+            "count": 1
+        }
+    ]
+}

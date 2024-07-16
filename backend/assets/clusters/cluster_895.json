@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:07",
+            "00:16",
+            "00:29",
+            "00:39",
+            "00:42",
+            "00:51",
+            "01:15",
+            "01:56",
+            "02:01",
+            "02:22",
+            "04:08",
+            "04:13",
+            "04:15"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "obviously the body was in a freezer",
+            "count": 6
+        },
+        {
+            "phrase": "there were a number of days where the body count kept increasing and there was absolutely nothing you could do because the heat had already taken its toll it was a helpless feeling",
+            "count": 5
+        },
+        {
+            "phrase": "they were slightly dehydrated there was about four of them that were seasick from being underway so long they were also under the sun for three days",
+            "count": 1
+        },
+        {
+            "phrase": "although we did not get especially cold during the spring we did have just enough freezing weather just prior to heading to cause some sterile heads further contributing to lower yields",
+            "count": 1
+        },
+        {
+            "phrase": "they were cold and wet and we were concerned about hypothermia",
+            "count": 1
+        },
+        {
+            "phrase": "they wouldn't have exploded or been frozen",
+            "count": 1
+        },
+        {
+            "phrase": "yes they would have frozen eventually but not in the few seconds they were in vacuum",
+            "count": 1
+        }
+    ]
+}

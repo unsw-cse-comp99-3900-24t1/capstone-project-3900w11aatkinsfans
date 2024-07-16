@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i only compress files when a disk is running low on space and it's impractical for me to get more space by other means",
+            "count": 1
+        },
+        {
+            "phrase": "compress contents to save disk space",
+            "count": 1
+        }
+    ]
+}

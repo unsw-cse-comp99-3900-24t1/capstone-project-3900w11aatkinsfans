@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "04:33"
+        ],
+        "label": "file"
+    },
+    "clusterList": [
+        {
+            "phrase": "file http https mailto ftp irc",
+            "count": 4
+        }
+    ]
+}

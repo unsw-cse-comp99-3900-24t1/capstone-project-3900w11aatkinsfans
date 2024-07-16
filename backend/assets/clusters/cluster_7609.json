@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:55",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the real beauty of it is that the technology has been designed so that anyone who hasn t had any training on it can use it",
+            "count": 1
+        },
+        {
+            "phrase": "and i think it has been working well",
+            "count": 1
+        },
+        {
+            "phrase": "look at this shiny new gadget it's great",
+            "count": 1
+        }
+    ]
+}

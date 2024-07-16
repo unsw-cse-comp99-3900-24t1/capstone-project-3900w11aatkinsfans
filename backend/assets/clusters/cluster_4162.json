@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:13",
+            "02:20",
+            "02:37",
+            "03:08"
+        ],
+        "label": "traders"
+    },
+    "clusterList": [
+        {
+            "phrase": "this reflects sheer panic by retailers about what the next christmas buying season is going to look like",
+            "count": 2
+        },
+        {
+            "phrase": "traders are more stressed more uncomfortable more fearful about how the year's going to turn out and less confident than they have been in years",
+            "count": 1
+        },
+        {
+            "phrase": "we feel like our window began to open last year and we're excited about what the future holds for 08 09 10 11",
+            "count": 1
+        },
+        {
+            "phrase": "while we face challenges today from rising raw material prices and a soft economy our view of the future remains confident and optimistic our board's recent decision to repurchase up to 1 0 billion of our own outstanding shares and the increased investment in our most promising digital businesses underscore the confidence we have in our ability to create significant value for our shareholders",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            4,
+            2,
+            2,
+            2,
+            2,
+            3,
+            2,
+            2,
+            3,
+            3,
+            6,
+            3,
+            2,
+            2,
+            2,
+            4,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:07",
+            "00:09",
+            "00:19",
+            "00:23",
+            "00:25",
+            "01:18",
+            "01:47",
+            "02:05",
+            "02:18",
+            "02:28",
+            "02:29",
+            "03:12",
+            "04:19",
+            "04:35",
+            "04:42",
+            "04:45"
+        ],
+        "label": "last"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not saying it's playing easy but the rough is not nearly as thick as it was last year",
+            "count": 20
+        },
+        {
+            "phrase": "last year the rough here was almost out of control this year the rough is very average and it's part of an experiment they're doing they're trying to see if the rough height has any effect on scoring",
+            "count": 16
+        },
+        {
+            "phrase": "last year the rough here was almost out of control this year the rough is very average and it's part of an experiment they're doing",
+            "count": 6
+        },
+        {
+            "phrase": "they're trying to see if the rough height has any effect on scoring",
+            "count": 6
+        }
+    ]
+}

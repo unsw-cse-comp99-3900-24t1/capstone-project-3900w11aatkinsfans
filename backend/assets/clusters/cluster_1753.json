@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:51",
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:38"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "get up and run coach you're gonna puke like everybody else",
+            "count": 6
+        },
+        {
+            "phrase": "it's 10 times worse for me as a coach than it has ever been as an athlete",
+            "count": 1
+        },
+        {
+            "phrase": "when you're a coach it's not about dreams anymore",
+            "count": 1
+        },
+        {
+            "phrase": "i was 9 years old and he was coaching and i am 40 years old and he's still coaching",
+            "count": 1
+        },
+        {
+            "phrase": "coach coach coach i swear man i couldn't make class because i had to",
+            "count": 1
+        }
+    ]
+}

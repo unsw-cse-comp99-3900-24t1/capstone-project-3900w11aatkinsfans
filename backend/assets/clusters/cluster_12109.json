@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "01:58"
+        ],
+        "label": "arnold"
+    },
+    "clusterList": [
+        {
+            "phrase": "arnold bishop of metz",
+            "count": 1
+        },
+        {
+            "phrase": "whose name was tyrannus",
+            "count": 1
+        }
+    ]
+}

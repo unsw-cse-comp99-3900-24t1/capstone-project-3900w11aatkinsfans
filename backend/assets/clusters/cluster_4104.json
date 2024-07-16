@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:23",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i looked at his dogs and said those are neopolitans bred with pit bulls",
+            "count": 2
+        },
+        {
+            "phrase": "he kept telling me he was breeding the macho dog that would be more powerful than pit bulls and be great for dog fights or guide dogs",
+            "count": 2
+        },
+        {
+            "phrase": "there's a reason pit bulls are the best fighting dogs they're not the biggest or the strongest or the scariest they're the most tenacious once they commit to taking a piece out of your leg there's precious little on heaven or earth that can get them off you so be a pit bull not a chihuahua",
+            "count": 1
+        }
+    ]
+}

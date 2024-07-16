@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:48",
+            "01:00",
+            "02:02",
+            "02:24",
+            "03:09",
+            "03:12",
+            "03:18",
+            "03:50",
+            "04:08",
+            "04:21",
+            "04:38",
+            "04:45"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "the girl can't help it",
+            "count": 4
+        },
+        {
+            "phrase": "you can't do everything",
+            "count": 2
+        },
+        {
+            "phrase": "my work just isn't good enough for her",
+            "count": 1
+        },
+        {
+            "phrase": "what she could",
+            "count": 1
+        },
+        {
+            "phrase": "well please tell her that she thinks i am just being difficult",
+            "count": 1
+        },
+        {
+            "phrase": "but mom can't you just tell her",
+            "count": 1
+        },
+        {
+            "phrase": "if you can make a girl laugh you can make her do anything",
+            "count": 1
+        },
+        {
+            "phrase": "i can't do anything ow i'll hurt her",
+            "count": 1
+        },
+        {
+            "phrase": "can't you understand that she's not well",
+            "count": 1
+        },
+        {
+            "phrase": "can't you do something",
+            "count": 1
+        },
+        {
+            "phrase": "but she thinks i could rope the moon in her eyes there is nothing i can't do when i think it's out of reach she's the reason i still try she thinks i could rope the moon",
+            "count": 1
+        },
+        {
+            "phrase": "he said oh no she can't have any of that",
+            "count": 1
+        },
+        {
+            "phrase": "well maybe i can teach her to live life",
+            "count": 1
+        }
+    ]
+}

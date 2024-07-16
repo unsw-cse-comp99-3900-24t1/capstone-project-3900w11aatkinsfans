@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:18",
+            "02:56"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "this trial told us a lot about the vehicles being disposed of and their owners much of which was new and unexpected",
+            "count": 2
+        },
+        {
+            "phrase": "they're going to be held as evidence for court then we have to wait until the court case is over to decide what's going to happen with the bicycles",
+            "count": 1
+        }
+    ]
+}

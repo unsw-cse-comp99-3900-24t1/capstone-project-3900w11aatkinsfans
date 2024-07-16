@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:29",
+            "01:13"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is happening in this country is something we never knew before",
+            "count": 1
+        },
+        {
+            "phrase": "we know what's going to happen we're just going by what happened in the past",
+            "count": 1
+        },
+        {
+            "phrase": "but now here we are 40 years later and people are still talking about it",
+            "count": 1
+        }
+    ]
+}

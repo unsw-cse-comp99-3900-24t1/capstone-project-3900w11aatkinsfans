@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:43",
+            "04:24"
+        ],
+        "label": "atlassian"
+    },
+    "clusterList": [
+        {
+            "phrase": "atlassian provides a maven proxy that contains all of the dependencies for all of our products",
+            "count": 2
+        }
+    ]
+}

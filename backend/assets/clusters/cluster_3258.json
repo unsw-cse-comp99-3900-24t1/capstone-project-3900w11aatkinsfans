@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:34",
+            "03:18",
+            "03:35",
+            "04:18",
+            "05:04"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll get another spoon next time i go to the kitchen instead of making an extra trip to get it right now",
+            "count": 1
+        },
+        {
+            "phrase": "bring me a bite of bread too",
+            "count": 1
+        },
+        {
+            "phrase": "how could i possibly do tha a spoon",
+            "count": 1
+        },
+        {
+            "phrase": "give me pasta and red sauce",
+            "count": 1
+        },
+        {
+            "phrase": "gag me with a spoon",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to shove a sausage down your throat and stick starving dogs in your butt",
+            "count": 1
+        }
+    ]
+}

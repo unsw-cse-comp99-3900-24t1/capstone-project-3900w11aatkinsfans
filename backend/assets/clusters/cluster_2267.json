@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "00:38",
+            "01:06",
+            "03:06",
+            "03:19",
+            "03:34",
+            "04:03",
+            "04:22"
+        ],
+        "label": "took"
+    },
+    "clusterList": [
+        {
+            "phrase": "time to get a move on time to get back on the road",
+            "count": 3
+        },
+        {
+            "phrase": "back in the saddle",
+            "count": 2
+        },
+        {
+            "phrase": "took the streets back",
+            "count": 1
+        },
+        {
+            "phrase": "back in the saddle again",
+            "count": 1
+        },
+        {
+            "phrase": "on the road again",
+            "count": 1
+        }
+    ]
+}

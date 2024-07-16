@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "02:06",
+            "03:50"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had nothing we had no assets i was just floored by it quite frankly",
+            "count": 2
+        },
+        {
+            "phrase": "we did all the work and there was no interest",
+            "count": 2
+        }
+    ]
+}

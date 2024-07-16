@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:48",
+            "01:27",
+            "01:32",
+            "01:37",
+            "02:01",
+            "02:06",
+            "02:09",
+            "02:22",
+            "02:32",
+            "03:09",
+            "03:50",
+            "03:56",
+            "04:06",
+            "04:13",
+            "04:14",
+            "04:37",
+            "04:53"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "it really wasn't many hours at all",
+            "count": 13
+        },
+        {
+            "phrase": "he was just too fast early that day and tired",
+            "count": 2
+        },
+        {
+            "phrase": "that's fresh news he was not drunk he was drinking hours and hours before",
+            "count": 2
+        },
+        {
+            "phrase": "he didn't sleep more than a couple hours",
+            "count": 1
+        },
+        {
+            "phrase": "almost nightly i thought about killing him in his sleep",
+            "count": 1
+        }
+    ]
+}

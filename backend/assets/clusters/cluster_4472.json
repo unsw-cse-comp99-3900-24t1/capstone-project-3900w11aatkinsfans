@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:12",
+            "01:11",
+            "01:32"
+        ],
+        "label": "feeling"
+    },
+    "clusterList": [
+        {
+            "phrase": "my father had a problem in his bones and it made me sad to see him in bed not able to walk but it transformed my personality",
+            "count": 2
+        },
+        {
+            "phrase": "feeling like an 18-year-old again",
+            "count": 1
+        },
+        {
+            "phrase": "an emotional experience i aged considerably in one day",
+            "count": 1
+        }
+    ]
+}

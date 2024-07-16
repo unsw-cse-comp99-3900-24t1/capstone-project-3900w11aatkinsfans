@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "03:06",
+            "03:34",
+            "04:10",
+            "04:52"
+        ],
+        "label": "lane"
+    },
+    "clusterList": [
+        {
+            "phrase": "he came toward third and stopped quick i don't know how you can stop something like that from happening but he did what he needed to do",
+            "count": 2
+        },
+        {
+            "phrase": "lane kiffin jamarcus went through the beginning of practice threw some individual routes his elbow's bothering him a little bit he actually wanted to stay in himself but we took him out just to err on the side of safety and we don't perceive this being a very long issue",
+            "count": 1
+        },
+        {
+            "phrase": "we did there was a minor issue there and hopefully it's a winning edge for him by no means are we going to lean on it he's got to go out and catch footballs",
+            "count": 1
+        },
+        {
+            "phrase": "we stopped him midway through practice because we don't want to rush and let him re-injure himself we are going to gradually work him back into it",
+            "count": 1
+        }
+    ]
+}

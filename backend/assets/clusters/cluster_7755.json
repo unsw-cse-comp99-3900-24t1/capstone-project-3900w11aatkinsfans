@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:18",
+            "02:14"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people chipboard books",
+            "count": 1
+        },
+        {
+            "phrase": "a librarian at the kitchen table",
+            "count": 1
+        },
+        {
+            "phrase": "a librarian at every table",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:29",
+            "04:19"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you a spy",
+            "count": 1
+        },
+        {
+            "phrase": "i spy with my little eye something that is",
+            "count": 1
+        }
+    ]
+}

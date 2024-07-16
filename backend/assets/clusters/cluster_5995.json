@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:42"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "even after being a patient there i didn't know what to expect or how the football players would interact with the kids",
+            "count": 1
+        },
+        {
+            "phrase": "it was great to see the football players take to the kids they talked with them and signed footballs",
+            "count": 1
+        },
+        {
+            "phrase": "i liked the way the coaches dealt with players and the way the head coach interacts with players and the gm marty hurney how he interacts with everybody mr richardson owner jerry richardson will come down to the locker room and pull guys to the side and talk to them one-on-one",
+            "count": 1
+        }
+    ]
+}

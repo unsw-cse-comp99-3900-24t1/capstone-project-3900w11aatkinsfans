@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:15",
+            "03:23"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "with new jersey real estate you have to have a restaurant that has a high sales volume or you can't afford it",
+            "count": 2
+        },
+        {
+            "phrase": "because i'm an lat subscriber they spammed me this info re market lofts big sale seems times are tough for condo sales either in long beach or downtown la",
+            "count": 1
+        }
+    ]
+}

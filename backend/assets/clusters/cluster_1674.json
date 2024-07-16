@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:15",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it sure is oh hold on i'm just being told that this is called an alley oop yes that is easier to say",
+            "count": 3
+        },
+        {
+            "phrase": "i love the alley oop",
+            "count": 3
+        },
+        {
+            "phrase": "here comes the alley and there goes the oop",
+            "count": 3
+        },
+        {
+            "phrase": "the alley cat",
+            "count": 1
+        }
+    ]
+}

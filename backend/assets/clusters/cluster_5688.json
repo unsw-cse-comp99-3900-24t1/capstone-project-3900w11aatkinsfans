@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:25"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do i really want to teach english or is it that i really want to live in bangkok and teaching english is the vehicle that allows me to do that",
+            "count": 1
+        },
+        {
+            "phrase": "teaching english abroad",
+            "count": 1
+        },
+        {
+            "phrase": "limited english proficiency",
+            "count": 1
+        }
+    ]
+}

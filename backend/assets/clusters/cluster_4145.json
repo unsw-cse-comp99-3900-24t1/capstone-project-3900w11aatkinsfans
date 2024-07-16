@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:28",
+            "03:48"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from each according to ability to each according to need",
+            "count": 1
+        },
+        {
+            "phrase": "from each according to their ability to each according to their need",
+            "count": 1
+        },
+        {
+            "phrase": "from each according to his ability",
+            "count": 1
+        },
+        {
+            "phrase": "to each according to his needs",
+            "count": 1
+        },
+        {
+            "phrase": "he's given to everything that's come along",
+            "count": 1
+        }
+    ]
+}

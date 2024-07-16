@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:01"
+        ],
+        "label": "showed"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last picture show",
+            "count": 2
+        },
+        {
+            "phrase": "showed the last thing first",
+            "count": 1
+        }
+    ]
+}

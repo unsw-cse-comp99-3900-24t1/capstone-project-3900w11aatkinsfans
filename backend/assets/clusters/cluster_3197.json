@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "01:37",
+            "01:38",
+            "01:46",
+            "02:23",
+            "02:38"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey pal this is the business you've chosen",
+            "count": 3
+        },
+        {
+            "phrase": "this is the business you've chosen",
+            "count": 2
+        },
+        {
+            "phrase": "hey i should shop at give my business to corporate sponsor name now",
+            "count": 1
+        }
+    ]
+}

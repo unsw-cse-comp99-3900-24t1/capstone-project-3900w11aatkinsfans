@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:13",
+            "04:18",
+            "04:24",
+            "04:26",
+            "04:28",
+            "04:31"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "was not very immunogenic we have a long way to go to optimizing this vaccine",
+            "count": 3
+        },
+        {
+            "phrase": "if you can make the vaccine you can make a test kit for the disease",
+            "count": 1
+        },
+        {
+            "phrase": "this project is in line with our approved immunoglobulin products",
+            "count": 1
+        },
+        {
+            "phrase": "after a successful course of immunotherapy",
+            "count": 1
+        },
+        {
+            "phrase": "you'd want to rev up your immune system to prepare for an injury",
+            "count": 1
+        }
+    ]
+}

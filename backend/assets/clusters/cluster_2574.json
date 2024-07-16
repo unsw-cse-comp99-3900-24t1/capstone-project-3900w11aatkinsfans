@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "01:50",
+            "02:02",
+            "02:09"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no don't just go rovin run the play jackie moon",
+            "count": 3
+        },
+        {
+            "phrase": "now jackie amazingly you re two wins away from getting your team to the nba how do you intend to mach up to the squires strong inside game",
+            "count": 3
+        },
+        {
+            "phrase": "here we're actually running different plays",
+            "count": 1
+        }
+    ]
+}

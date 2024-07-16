@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:42"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what he did is not important what is important is i will pay you fifty thousand dollars if you transfer custody of him to me",
+            "count": 1
+        },
+        {
+            "phrase": "what do i have to do with this i don't have anything to do with his debt or whatever",
+            "count": 1
+        }
+    ]
+}

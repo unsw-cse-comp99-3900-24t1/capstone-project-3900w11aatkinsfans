@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:45"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have been exceptionally close and cooperative",
+            "count": 1
+        },
+        {
+            "phrase": "exceptionally close and cooperative",
+            "count": 1
+        }
+    ]
+}

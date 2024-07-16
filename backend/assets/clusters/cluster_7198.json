@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "03:10",
+            "03:24"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was real dark and there were 60-mph winds coming from the west and blowing straight east it just about flew my flag off the flagpole out front",
+            "count": 1
+        },
+        {
+            "phrase": "on i-485 i was driving home and saw a lightning strike and i said to myself that looks right in my neighorhood",
+            "count": 1
+        },
+        {
+            "phrase": "struck by lightening twice",
+            "count": 1
+        }
+    ]
+}

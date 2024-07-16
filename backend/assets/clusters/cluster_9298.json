@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:57"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i sort of went back to square one",
+            "count": 1
+        },
+        {
+            "phrase": "returned to square one",
+            "count": 1
+        }
+    ]
+}

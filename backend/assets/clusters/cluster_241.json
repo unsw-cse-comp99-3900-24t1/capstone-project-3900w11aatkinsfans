@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            27,
+            1,
+            4,
+            4
+        ],
+        "xLabels": [
+            "00:15",
+            "01:49",
+            "03:27",
+            "04:29"
+        ],
+        "label": "beany"
+    },
+    "clusterList": [
+        {
+            "phrase": "beany and cecil",
+            "count": 14
+        },
+        {
+            "phrase": "beany amp cecil",
+            "count": 7
+        },
+        {
+            "phrase": "time for beany",
+            "count": 5
+        },
+        {
+            "phrase": "phineas and ferb",
+            "count": 4
+        },
+        {
+            "phrase": "mickey and the beanstalk",
+            "count": 2
+        },
+        {
+            "phrase": "jack and the beanstalk",
+            "count": 2
+        },
+        {
+            "phrase": "the beany amp cecil show",
+            "count": 1
+        },
+        {
+            "phrase": "english fitz or percy",
+            "count": 1
+        }
+    ]
+}

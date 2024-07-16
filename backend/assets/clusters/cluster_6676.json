@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:36"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select distinct age range from pulse rate",
+            "count": 1
+        },
+        {
+            "phrase": "select from pulse rate where age range",
+            "count": 1
+        },
+        {
+            "phrase": "select from pulse rate where datediff d date getdate gt",
+            "count": 1
+        }
+    ]
+}

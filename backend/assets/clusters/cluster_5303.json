@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:28",
+            "00:42",
+            "04:10"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "the guy at the country club with the beautiful date holding a martini and a cigarette that stands against the wall and makes snide comments about everyone who passes by",
+            "count": 2
+        },
+        {
+            "phrase": "i have a fondness for this guy because he wants to get in there and kick your butt he's vicious he's relentless he goes in there to stop guys he's not just fooling around looking to get a check he's going in there to beat the expletive out of you and finish the fight if i have a fondness for him that's why not because he's from boston",
+            "count": 1
+        },
+        {
+            "phrase": "all the years i've been around in the 30 years i don't think i met over two or three people that didn't like him he was just that well-liked and after the races he would drink beer with the best of them",
+            "count": 1
+        }
+    ]
+}

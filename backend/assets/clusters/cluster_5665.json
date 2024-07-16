@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:09",
+            "05:00"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they should be taken back into some form of ownership by the community",
+            "count": 2
+        },
+        {
+            "phrase": "has taken it over like it's their own money",
+            "count": 1
+        }
+    ]
+}

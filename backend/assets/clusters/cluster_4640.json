@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:32",
+            "03:34",
+            "03:35"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of the big issues of sexual ethics is that of family planning",
+            "count": 2
+        },
+        {
+            "phrase": "who campaign to prevent births using compulsion supposedly in order to reduce poverty",
+            "count": 1
+        },
+        {
+            "phrase": "promotion of sexual health recommendations for action",
+            "count": 1
+        }
+    ]
+}

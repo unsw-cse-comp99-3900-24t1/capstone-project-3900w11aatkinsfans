@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:07",
+            "01:25",
+            "02:09"
+        ],
+        "label": "me"
+    },
+    "clusterList": [
+        {
+            "phrase": "me too because nobody understands",
+            "count": 1
+        },
+        {
+            "phrase": "people don't understand us",
+            "count": 1
+        },
+        {
+            "phrase": "nobody understands me so why should i try to understand them",
+            "count": 1
+        },
+        {
+            "phrase": "i can't be like them it's no use i'm useless helpless and stupid why should i even try",
+            "count": 1
+        },
+        {
+            "phrase": "i can't understand it but obviously people think wow i relate to you you're normal",
+            "count": 1
+        }
+    ]
+}

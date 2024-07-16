@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:10",
+            "01:19",
+            "01:46",
+            "02:20",
+            "02:24",
+            "02:27",
+            "02:28",
+            "02:33",
+            "02:37",
+            "02:46",
+            "02:52",
+            "03:05",
+            "03:06",
+            "05:03"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "five rate cuts in the course of 2009",
+            "count": 10
+        },
+        {
+            "phrase": "you should expect significant proposals from governors certainly for spending cuts probably for more tax increases and certainly for more gimmicks",
+            "count": 2
+        },
+        {
+            "phrase": "however if they are on it my guess is they will have very good explanations for why for example big budget cuts for state appropriations",
+            "count": 2
+        },
+        {
+            "phrase": "it's very difficult to see how the fed can raise rates while a declaration of",
+            "count": 1
+        }
+    ]
+}

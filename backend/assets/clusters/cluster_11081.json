@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:38"
+        ],
+        "label": "pursues"
+    },
+    "clusterList": [
+        {
+            "phrase": "pursues commercial or professional activities in the member state of the consumer's domicile or by any means directs such activities to that member state",
+            "count": 1
+        },
+        {
+            "phrase": "permission required by law to engage in any commercial activity trade occupation or profession",
+            "count": 1
+        }
+    ]
+}

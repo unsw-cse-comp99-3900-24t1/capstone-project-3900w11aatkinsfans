@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:23",
+            "02:43",
+            "04:46"
+        ],
+        "label": "carlsbad"
+    },
+    "clusterList": [
+        {
+            "phrase": "carlsbad library genealogy collection",
+            "count": 5
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:34",
+            "02:19",
+            "02:56"
+        ],
+        "label": "you'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "you'll be fine as long as you read the directions",
+            "count": 1
+        },
+        {
+            "phrase": "o k you'll be fine but it's going to be mighty hard to sit down",
+            "count": 1
+        },
+        {
+            "phrase": "of course it will",
+            "count": 1
+        },
+        {
+            "phrase": "it will be pleasant",
+            "count": 1
+        }
+    ]
+}

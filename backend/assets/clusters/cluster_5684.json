@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "04:42",
+            "04:56"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that equals us gdp",
+            "count": 1
+        },
+        {
+            "phrase": "gross domestic product",
+            "count": 1
+        },
+        {
+            "phrase": "represents 15 times the gross domestic product gdp of all countries",
+            "count": 1
+        }
+    ]
+}

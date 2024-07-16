@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:46",
+            "01:07",
+            "01:47",
+            "02:20",
+            "03:10",
+            "03:34",
+            "03:51",
+            "04:32"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is strong disagreement with many of the legal analytical economic science and policy interpretations",
+            "count": 6
+        },
+        {
+            "phrase": "i'm going to be honest i know a lot less about economics than i do about military and foreign policy issues i still need to be educated",
+            "count": 1
+        },
+        {
+            "phrase": "the soulful science what economists really do and why it matters",
+            "count": 1
+        },
+        {
+            "phrase": "but it's still basically two different economies",
+            "count": 1
+        }
+    ]
+}

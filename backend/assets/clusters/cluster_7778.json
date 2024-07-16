@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:37"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this course is slightly different it's going to have a little more emphasis on problem solving and negotiation skills",
+            "count": 1
+        },
+        {
+            "phrase": "some students come into these courses with the attitude thinking that well it's online so it's going to be easy it isn't easier it's harder",
+            "count": 1
+        }
+    ]
+}

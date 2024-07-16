@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "01:14",
+            "01:18",
+            "02:05",
+            "02:15",
+            "03:27",
+            "03:38"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with photoshop elements i'm able to capture memories that are very special to me in my life and create beautiful works of art",
+            "count": 2
+        },
+        {
+            "phrase": "pictures on the wall",
+            "count": 2
+        },
+        {
+            "phrase": "display custom artists",
+            "count": 2
+        },
+        {
+            "phrase": "re i need an artist to draw paint a portrait my cousin is a professional artist he used to do this type of thing and is amazing i",
+            "count": 1
+        },
+        {
+            "phrase": "painting the tape",
+            "count": 1
+        },
+        {
+            "phrase": "he did the painting",
+            "count": 1
+        },
+        {
+            "phrase": "pot of paint",
+            "count": 1
+        }
+    ]
+}

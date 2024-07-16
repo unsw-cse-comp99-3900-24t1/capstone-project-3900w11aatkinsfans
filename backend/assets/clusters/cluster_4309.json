@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:49",
+            "01:55",
+            "02:15"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's about who we are as people and our personal lives things we've gone through in the past 12 months",
+            "count": 1
+        },
+        {
+            "phrase": "it's about this girl",
+            "count": 1
+        },
+        {
+            "phrase": "it's more contentment with life",
+            "count": 1
+        },
+        {
+            "phrase": "what it's all about",
+            "count": 1
+        },
+        {
+            "phrase": "it's about the children",
+            "count": 1
+        }
+    ]
+}

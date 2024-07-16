@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:15",
+            "00:46",
+            "02:01",
+            "02:22",
+            "04:38"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a good deal for louis",
+            "count": 2
+        },
+        {
+            "phrase": "but it's a good contract",
+            "count": 1
+        },
+        {
+            "phrase": "i would not recommend this contract",
+            "count": 1
+        },
+        {
+            "phrase": "im going to play hard to get a big contract then once its signed do nothing but smoke dope",
+            "count": 1
+        },
+        {
+            "phrase": "just wait until april 09 it will get better with the new contract",
+            "count": 1
+        }
+    ]
+}

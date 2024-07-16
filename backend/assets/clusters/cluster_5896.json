@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:18",
+            "03:51"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's wrong with that",
+            "count": 2
+        },
+        {
+            "phrase": "i don't have a problem with it",
+            "count": 1
+        }
+    ]
+}

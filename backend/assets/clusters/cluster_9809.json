@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "05:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the latest add-in",
+            "count": 1
+        },
+        {
+            "phrase": "there is an add-on",
+            "count": 1
+        }
+    ]
+}

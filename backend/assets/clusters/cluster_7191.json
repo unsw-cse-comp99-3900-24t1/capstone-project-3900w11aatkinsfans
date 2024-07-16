@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:38",
+            "04:27"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the announcement is a reminder to those named that selectors are looking at them very seriously",
+            "count": 2
+        },
+        {
+            "phrase": "the announcement is a reminder to those named that selectors are looking at them very seriously and to those who are disappointed at not being named there is still some work to be done but they are by no means out of contention",
+            "count": 1
+        }
+    ]
+}

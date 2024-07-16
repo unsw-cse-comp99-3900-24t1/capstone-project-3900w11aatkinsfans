@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:28",
+            "04:36",
+            "04:37",
+            "04:45",
+            "04:55"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's still early but certainly we are pleased by where we're at at this stage of the campaign",
+            "count": 4
+        },
+        {
+            "phrase": "i thought for the short notice this was a great turnout",
+            "count": 1
+        },
+        {
+            "phrase": "the message that they're giving and the turnout they're getting it's such a good positive note to end it on",
+            "count": 1
+        }
+    ]
+}

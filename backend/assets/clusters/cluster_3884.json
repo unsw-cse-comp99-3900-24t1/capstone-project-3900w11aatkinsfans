@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:05",
+            "01:20",
+            "01:23"
+        ],
+        "label": "body"
+    },
+    "clusterList": [
+        {
+            "phrase": "the grand deception",
+            "count": 2
+        },
+        {
+            "phrase": "body of lies",
+            "count": 1
+        },
+        {
+            "phrase": "author of truth",
+            "count": 1
+        },
+        {
+            "phrase": "father of lies",
+            "count": 1
+        }
+    ]
+}

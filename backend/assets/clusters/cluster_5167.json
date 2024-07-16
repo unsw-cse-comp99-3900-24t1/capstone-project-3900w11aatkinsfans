@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:34",
+            "02:55",
+            "04:31"
+        ],
+        "label": "mini"
+    },
+    "clusterList": [
+        {
+            "phrase": "mini soccer for 4-7 year olds",
+            "count": 1
+        },
+        {
+            "phrase": "but i don't want to play lacrosse mom",
+            "count": 1
+        },
+        {
+            "phrase": "you have a young daughter right what if she wants to play soccer one day will you not let her because girls aren't supposed to play sports like that",
+            "count": 1
+        },
+        {
+            "phrase": "i don't like having to worry about my daughter being in the front yard playing",
+            "count": 1
+        }
+    ]
+}

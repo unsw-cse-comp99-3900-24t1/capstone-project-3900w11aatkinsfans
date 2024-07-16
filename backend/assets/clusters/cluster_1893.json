@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:32",
+            "01:43",
+            "02:02",
+            "02:24",
+            "02:32",
+            "02:52",
+            "03:48",
+            "03:52"
+        ],
+        "label": "open"
+    },
+    "clusterList": [
+        {
+            "phrase": "the window for doing this remains open",
+            "count": 2
+        },
+        {
+            "phrase": "create new sfx window",
+            "count": 2
+        },
+        {
+            "phrase": "open in firefox",
+            "count": 1
+        },
+        {
+            "phrase": "open links in a new window",
+            "count": 1
+        },
+        {
+            "phrase": "open in new window",
+            "count": 1
+        },
+        {
+            "phrase": "window was open",
+            "count": 1
+        },
+        {
+            "phrase": "open with illustrator",
+            "count": 1
+        }
+    ]
+}

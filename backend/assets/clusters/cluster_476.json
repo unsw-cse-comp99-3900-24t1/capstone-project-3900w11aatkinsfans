@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3,
+            4,
+            1,
+            3,
+            2,
+            1,
+            3,
+            3,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "00:50",
+            "00:51",
+            "01:07",
+            "01:47",
+            "01:52",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "scotty"
+    },
+    "clusterList": [
+        {
+            "phrase": "i agree with his goal",
+            "count": 12
+        },
+        {
+            "phrase": "i agree with his energy independence goal",
+            "count": 4
+        },
+        {
+            "phrase": "his hockey genius vision and energy are a perfect fit with our goal to win the stanley cup",
+            "count": 2
+        },
+        {
+            "phrase": "scotty bowman more than anyone in hockey today embodies the traits we are integrating into this organization in order to bring a stanley cup to chicago he symbolizes excellence performance work ethic and delivering results so do we",
+            "count": 1
+        },
+        {
+            "phrase": "we like his speed and his moves",
+            "count": 1
+        },
+        {
+            "phrase": "fulfilling his dream of an nhl career",
+            "count": 1
+        },
+        {
+            "phrase": "i think sticking in the nhl is the biggest goal of mine right now he said",
+            "count": 1
+        },
+        {
+            "phrase": "hockey canada was so good to him last year by inviting him to play in the world championships and we feel it's the right thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "we're confident he can take that next step to the nhl",
+            "count": 1
+        }
+    ]
+}

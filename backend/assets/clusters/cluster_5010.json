@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:25",
+            "01:52",
+            "03:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i felt violated they went in the place where i kept my jewelry and dumped the items into my own pillowcase",
+            "count": 1
+        },
+        {
+            "phrase": "i had to pick them up off the floor",
+            "count": 1
+        },
+        {
+            "phrase": "you could have gone into your brother's room got them and cleaned them",
+            "count": 1
+        },
+        {
+            "phrase": "they all left my house after not more than two days and every one of them had a sinus and respiratory infection",
+            "count": 1
+        }
+    ]
+}

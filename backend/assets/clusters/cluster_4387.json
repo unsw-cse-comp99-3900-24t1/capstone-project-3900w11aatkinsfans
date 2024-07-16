@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:05",
+            "02:01",
+            "04:40"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have a look",
+            "count": 1
+        },
+        {
+            "phrase": "hi there can i help you find something",
+            "count": 1
+        },
+        {
+            "phrase": "check something online",
+            "count": 1
+        },
+        {
+            "phrase": "search this site",
+            "count": 1
+        }
+    ]
+}

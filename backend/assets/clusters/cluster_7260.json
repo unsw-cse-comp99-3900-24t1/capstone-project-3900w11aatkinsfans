@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "03:18",
+            "04:28"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is ridiculous it's crazy i feel like i'm babysitting except i'm not getting paid",
+            "count": 1
+        },
+        {
+            "phrase": "who are ya babysittin for",
+            "count": 1
+        },
+        {
+            "phrase": "travis barr is the only baby sitter that i have i need my job",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "02:32",
+            "04:15"
+        ],
+        "label": "playground"
+    },
+    "clusterList": [
+        {
+            "phrase": "playground abuse stakes",
+            "count": 1
+        },
+        {
+            "phrase": "uh there was an incident at the playground",
+            "count": 1
+        },
+        {
+            "phrase": "the stakes is high",
+            "count": 1
+        }
+    ]
+}

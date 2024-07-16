@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "02:56",
+            "03:15",
+            "03:29",
+            "03:34",
+            "04:15"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to avoid foreclosure",
+            "count": 1
+        },
+        {
+            "phrase": "extended foreclosure plan",
+            "count": 1
+        },
+        {
+            "phrase": "now i'm holding a foreclosure notice on my home and i don't know what i am going to do",
+            "count": 1
+        },
+        {
+            "phrase": "at least in buffalo the days are gone when you can do a foreclosure and walk away without taking care of the property",
+            "count": 1
+        },
+        {
+            "phrase": "we want the accursed foreclosure system wiped out we will stand by our homes and stay by our firesides by force if necessary",
+            "count": 1
+        },
+        {
+            "phrase": "foreclosure prevention act",
+            "count": 1
+        }
+    ]
+}

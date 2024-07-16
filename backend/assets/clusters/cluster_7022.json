@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:01",
+            "02:01"
+        ],
+        "label": "grandma"
+    },
+    "clusterList": [
+        {
+            "phrase": "grandma you're awesome tell me how tell me how to live like that",
+            "count": 1
+        },
+        {
+            "phrase": "jesus day that's her standard greeting thank you for this food thank you for my birthday party day and thank you that i'm four now",
+            "count": 1
+        },
+        {
+            "phrase": "thank you aunt teesa",
+            "count": 1
+        }
+    ]
+}

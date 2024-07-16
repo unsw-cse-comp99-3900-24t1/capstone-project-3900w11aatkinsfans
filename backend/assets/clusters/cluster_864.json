@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            6,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "00:47",
+            "01:20",
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:28",
+            "02:57",
+            "04:03"
+        ],
+        "label": "villages"
+    },
+    "clusterList": [
+        {
+            "phrase": "where's that mountain when you need it",
+            "count": 6
+        },
+        {
+            "phrase": "the trail of the sheikh",
+            "count": 6
+        },
+        {
+            "phrase": "villages of nahum",
+            "count": 1
+        },
+        {
+            "phrase": "the mamon river",
+            "count": 1
+        },
+        {
+            "phrase": "a new valley of wonders",
+            "count": 1
+        },
+        {
+            "phrase": "beside the long tidal river",
+            "count": 1
+        }
+    ]
+}

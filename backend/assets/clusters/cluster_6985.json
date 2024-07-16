@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:22",
+            "03:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the thing i like about kenny is that he knows the way of the samurai",
+            "count": 1
+        },
+        {
+            "phrase": "gaby is an extremely intense and talented guy",
+            "count": 1
+        },
+        {
+            "phrase": "ken is an incredible fundamental analyst",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:54",
+            "04:02",
+            "04:44",
+            "04:59"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was just a good all-around day today",
+            "count": 2
+        },
+        {
+            "phrase": "it was a long day because we had head winds almost all the way through but it suited us fine in a way because it wore out the peloton as it was also a long stage we tried to split the peloton towards the end but even though the wind was strong it was not quite enough to give us an edge out there in stead jason mccartney and michael blaudzun tried to make some breaks",
+            "count": 1
+        },
+        {
+            "phrase": "the wind was a big factor when it came to par-3's but overall it was a great day",
+            "count": 1
+        }
+    ]
+}

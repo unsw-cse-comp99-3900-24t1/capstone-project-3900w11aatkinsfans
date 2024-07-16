@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:11",
+            "02:23",
+            "03:27",
+            "03:34",
+            "04:23",
+            "04:27",
+            "04:41"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a national crisis of bankruptcy",
+            "count": 1
+        },
+        {
+            "phrase": "our forecast is for high defaults and bankruptcies this year and next",
+            "count": 1
+        },
+        {
+            "phrase": "we believe the end of this complex bankruptcy finally isin sight",
+            "count": 1
+        },
+        {
+            "phrase": "what would happen if we could put this together what a powerhouse for the state",
+            "count": 1
+        },
+        {
+            "phrase": "while we still need court approval of our plan we believe the end of this complex bankruptcy finally is in sight",
+            "count": 1
+        },
+        {
+            "phrase": "all signs point toward a bleak fiscal future for the federal government massive deficits and the costs of overseas conflicts mean fewer resources for programs and some tough budget decisions if cfos stay on the present path of financial management they will be of little use in making those decisions",
+            "count": 1
+        },
+        {
+            "phrase": "the states have started to step up which is good",
+            "count": 1
+        },
+        {
+            "phrase": "we fear the whole process is on the verge of collapse this is the last chance to get a deal during the bush administration experts say",
+            "count": 1
+        }
+    ]
+}

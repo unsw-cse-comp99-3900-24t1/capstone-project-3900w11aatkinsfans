@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:31",
+            "04:41"
+        ],
+        "label": "everybody"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody looks at you and waves",
+            "count": 1
+        },
+        {
+            "phrase": "there's a big bright light in your face and it's just you and the camera",
+            "count": 1
+        }
+    ]
+}

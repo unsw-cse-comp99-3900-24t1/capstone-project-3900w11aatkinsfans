@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "04:59"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the princess bride i walked down the aisle to the instrumental version we love it",
+            "count": 1
+        },
+        {
+            "phrase": "lay me out in my royal blue dress that i wore to gumdrop's wedding",
+            "count": 1
+        }
+    ]
+}

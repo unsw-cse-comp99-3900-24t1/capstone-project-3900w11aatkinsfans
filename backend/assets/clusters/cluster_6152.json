@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:50",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have a surprise for you when you get home",
+            "count": 1
+        },
+        {
+            "phrase": "i have a surprise for you later at home",
+            "count": 1
+        },
+        {
+            "phrase": "i think i'll come into the office late tomorrow",
+            "count": 1
+        }
+    ]
+}

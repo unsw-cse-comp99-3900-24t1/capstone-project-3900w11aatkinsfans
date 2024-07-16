@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:35",
+            "04:04",
+            "04:28",
+            "05:05"
+        ],
+        "label": "everyone"
+    },
+    "clusterList": [
+        {
+            "phrase": "everyone was ripping on defence and these tough wins are always the best ones",
+            "count": 4
+        },
+        {
+            "phrase": "everyone is battling hard and wanted this win to find out which team was better",
+            "count": 1
+        }
+    ]
+}

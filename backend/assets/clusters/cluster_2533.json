@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:01",
+            "01:09",
+            "01:19",
+            "01:37",
+            "02:20"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "i revere the gentleman",
+            "count": 4
+        },
+        {
+            "phrase": "i think that one of the emphases will be that a gentleman is diverse",
+            "count": 2
+        },
+        {
+            "phrase": "a gentleman in the truest sense of the word",
+            "count": 1
+        }
+    ]
+}

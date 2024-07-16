@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "01:32",
+            "01:33",
+            "02:35",
+            "04:24"
+        ],
+        "label": "by"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'd hear a song on the radio and wish mine was next but i respect a lot of the artists who've come along since i was out especially rihanna she's smart and she's worked the business instead of having the business work her",
+            "count": 2
+        },
+        {
+            "phrase": "by offering each voter a free track to download from our catalogue of 350 000 titles from over 10 000 labels we can demonstrate how easy it is to find your favourite electronic music legally",
+            "count": 1
+        },
+        {
+            "phrase": "we also launched a major initiative music without limits that substantially strengthens rhapsody by integrating mobile music and legal mp3s from all major labels",
+            "count": 1
+        },
+        {
+            "phrase": "when you go into a record store pick up billboard magazine and go to rock you have hard rock you have adult contemporary you have all these different sub genres of rock",
+            "count": 1
+        }
+    ]
+}

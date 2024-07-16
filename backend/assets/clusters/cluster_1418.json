@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "01:29",
+            "01:30",
+            "01:47",
+            "02:51",
+            "02:57",
+            "03:14",
+            "03:15",
+            "04:03",
+            "04:28",
+            "05:00"
+        ],
+        "label": "sailing"
+    },
+    "clusterList": [
+        {
+            "phrase": "sailing down river and about to sink",
+            "count": 2
+        },
+        {
+            "phrase": "south jersey shore",
+            "count": 1
+        },
+        {
+            "phrase": "a lazy beach vacation",
+            "count": 1
+        },
+        {
+            "phrase": "coast to coast",
+            "count": 1
+        },
+        {
+            "phrase": "navy ship or submarine",
+            "count": 1
+        },
+        {
+            "phrase": "if by sea",
+            "count": 1
+        },
+        {
+            "phrase": "sittin on the dock of the bay",
+            "count": 1
+        },
+        {
+            "phrase": "part of going to the beach",
+            "count": 1
+        },
+        {
+            "phrase": "beach the boat",
+            "count": 1
+        },
+        {
+            "phrase": "but how many bays are there along the coast and they had to pick the one where the sailing takes place",
+            "count": 1
+        },
+        {
+            "phrase": "ocean skies sea of blue let the sand wash over you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:34"
+        ],
+        "label": "comment"
+    },
+    "clusterList": [
+        {
+            "phrase": "comment creationdate lastpasswordchangeddate lastactivitydate",
+            "count": 2
+        }
+    ]
+}

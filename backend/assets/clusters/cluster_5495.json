@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:29",
+            "03:42",
+            "04:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i could buy market share tomorrow pick a number and i could buy it but it would mean cutting the price like our competitors to inflate sales volume and spending cash on dvds and cds just to make a headline sales increase from which shareholders will not get a return",
+            "count": 1
+        },
+        {
+            "phrase": "there will definitely be some selling pressure",
+            "count": 1
+        },
+        {
+            "phrase": "we could see a flurry of chinese listings in the fourth quarter should market conditions improve",
+            "count": 1
+        },
+        {
+            "phrase": "er that's fine thank you but i don't care for restrained the markets might worry they might think that we think that something is restraining growth that needs to be un-restrained",
+            "count": 1
+        }
+    ]
+}

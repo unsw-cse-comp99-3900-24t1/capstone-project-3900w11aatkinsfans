@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:00",
+            "02:26",
+            "04:38"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well we can't criminalize policy disputes",
+            "count": 2
+        },
+        {
+            "phrase": "your government will not tolerate any action that will tarnish the reputation of this country",
+            "count": 1
+        },
+        {
+            "phrase": "we can do what governments can't",
+            "count": 1
+        }
+    ]
+}

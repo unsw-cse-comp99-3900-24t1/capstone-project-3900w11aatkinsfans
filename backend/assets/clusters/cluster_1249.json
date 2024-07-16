@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "00:48",
+            "01:06",
+            "01:32",
+            "01:46",
+            "01:50",
+            "02:25",
+            "02:47",
+            "03:06",
+            "03:48",
+            "04:27",
+            "04:28"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there was understandable disappointment among",
+            "count": 7
+        },
+        {
+            "phrase": "it blew away my expectations",
+            "count": 2
+        },
+        {
+            "phrase": "of course i'm disappointed",
+            "count": 1
+        },
+        {
+            "phrase": "it was real discouraging",
+            "count": 1
+        },
+        {
+            "phrase": "i hated it",
+            "count": 1
+        },
+        {
+            "phrase": "it certainly didn't feel gratuitous",
+            "count": 1
+        }
+    ]
+}

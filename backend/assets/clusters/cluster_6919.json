@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "03:05"
+        ],
+        "label": "acorn's"
+    },
+    "clusterList": [
+        {
+            "phrase": "acorn's hypocritical house of cards",
+            "count": 2
+        },
+        {
+            "phrase": "love in da house",
+            "count": 1
+        }
+    ]
+}

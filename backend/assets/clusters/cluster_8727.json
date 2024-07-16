@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "04:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the korean war was hard-fought and a great sacrifice",
+            "count": 1
+        },
+        {
+            "phrase": "september 12 1952 america's secret war",
+            "count": 1
+        }
+    ]
+}

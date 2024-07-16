@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:37"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "most isps don't segregate the servers because it is cheaper and easier to keep them in one box there has not been a compelling reason to segregate them until now which is probably why it is taking some isps a long time to secure themselves",
+            "count": 1
+        },
+        {
+            "phrase": "if they wanted to triple size of their index they'd have to triple the size of every server and cluster it's not easy or fast",
+            "count": 1
+        }
+    ]
+}

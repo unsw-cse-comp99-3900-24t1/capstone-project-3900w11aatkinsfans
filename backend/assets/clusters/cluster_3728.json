@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:23"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "and we're clear",
+            "count": 3
+        },
+        {
+            "phrase": "it wasn't clear",
+            "count": 1
+        },
+        {
+            "phrase": "let me make this perfectly clear",
+            "count": 1
+        }
+    ]
+}

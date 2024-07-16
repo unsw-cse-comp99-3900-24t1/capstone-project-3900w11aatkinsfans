@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:34",
+            "01:57",
+            "02:57"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "with a commander in his lion's den and among his soldiers",
+            "count": 2
+        },
+        {
+            "phrase": "the soldier demanded",
+            "count": 1
+        },
+        {
+            "phrase": "the soldier's mistress",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:51",
+            "03:55",
+            "04:13"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i think it's to the point where it's kind of foolish to try to rehab for five months and try to let it heal that way i think the damage is beyond trying to heal itself",
+            "count": 2
+        },
+        {
+            "phrase": "a little bit longer and i'll be fine waitin on a cure but none of them are sure",
+            "count": 1
+        },
+        {
+            "phrase": "can npd be healed",
+            "count": 1
+        }
+    ]
+}

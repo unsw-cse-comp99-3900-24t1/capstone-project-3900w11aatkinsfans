@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            9,
+            8,
+            14,
+            3,
+            3,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:20",
+            "01:00",
+            "01:41",
+            "02:20",
+            "03:01",
+            "04:46",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i would rather die standing up than live my life kneeling in front of you",
+            "count": 41
+        },
+        {
+            "phrase": "i would rather die on my feet then live on my knees as a coward",
+            "count": 1
+        }
+    ]
+}

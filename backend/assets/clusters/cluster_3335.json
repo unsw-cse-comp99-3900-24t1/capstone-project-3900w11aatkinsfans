@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "02:02",
+            "03:08",
+            "03:45",
+            "04:33",
+            "05:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the meeting is superb",
+            "count": 1
+        },
+        {
+            "phrase": "it should be a good night as long as lots of people come along",
+            "count": 1
+        },
+        {
+            "phrase": "nice meeting you have a good night",
+            "count": 1
+        },
+        {
+            "phrase": "pleased to meet you",
+            "count": 1
+        },
+        {
+            "phrase": "coming gotta go nice meeting you",
+            "count": 1
+        },
+        {
+            "phrase": "you're jack so magnificent to finally meet you i've heard such strikingly wonderful things about you",
+            "count": 1
+        }
+    ]
+}

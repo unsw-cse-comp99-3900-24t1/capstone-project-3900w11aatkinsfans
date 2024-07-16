@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:09",
+            "01:50",
+            "02:47",
+            "03:54",
+            "04:21"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i did some evaluating and i think i made the necessary adjustments as far as conditioning and getting myself ready to come back this year and make improvements",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think they were saying i'd improved but rather i recovered because i did i'd peaked pretty early and gave what they considered a couple subpar performances",
+            "count": 1
+        },
+        {
+            "phrase": "i think i did pretty good",
+            "count": 1
+        },
+        {
+            "phrase": "i have really good form and it's getting better all the time",
+            "count": 1
+        },
+        {
+            "phrase": "that was good for me but i think i can do better",
+            "count": 1
+        }
+    ]
+}

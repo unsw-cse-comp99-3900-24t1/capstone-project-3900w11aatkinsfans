@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:16",
+            "00:35",
+            "00:56",
+            "04:18"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a closet radical with dangerous associations",
+            "count": 5
+        },
+        {
+            "phrase": "establishment of tolerant relations between people and helps to block radical and extremist developments",
+            "count": 1
+        }
+    ]
+}

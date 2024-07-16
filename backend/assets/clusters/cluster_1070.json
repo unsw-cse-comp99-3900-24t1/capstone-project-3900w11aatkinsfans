@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:10",
+            "01:24",
+            "01:28",
+            "01:33",
+            "02:15",
+            "02:36",
+            "03:01",
+            "03:29",
+            "03:32",
+            "03:38",
+            "03:46"
+        ],
+        "label": "pam"
+    },
+    "clusterList": [
+        {
+            "phrase": "pam girl on the loose",
+            "count": 4
+        },
+        {
+            "phrase": "red dust girl",
+            "count": 2
+        },
+        {
+            "phrase": "well there was a brea in my class but i forget which one she was",
+            "count": 1
+        },
+        {
+            "phrase": "northwest country girl",
+            "count": 1
+        },
+        {
+            "phrase": "triple-breasted whore of eroticon 6",
+            "count": 1
+        },
+        {
+            "phrase": "the southern belle",
+            "count": 1
+        },
+        {
+            "phrase": "the freshman from babeland",
+            "count": 1
+        },
+        {
+            "phrase": "babe in toyland",
+            "count": 1
+        },
+        {
+            "phrase": "the material girl",
+            "count": 1
+        },
+        {
+            "phrase": "bindi the jungle girl",
+            "count": 1
+        }
+    ]
+}

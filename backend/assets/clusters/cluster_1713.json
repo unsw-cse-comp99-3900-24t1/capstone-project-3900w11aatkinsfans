@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:09",
+            "01:47",
+            "02:28",
+            "03:10",
+            "03:51",
+            "04:23",
+            "04:31"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this will lead to less fraud and greatly reduce identity theft among our seniors",
+            "count": 7
+        },
+        {
+            "phrase": "moving to all electronic pay stubs is a common sense step for the federal government to take",
+            "count": 1
+        },
+        {
+            "phrase": "this legislation gives every federal employee the opportunity to receive their pay stub via a secure web site instead of in the mail it will save millions in taxpayer dollars dramatically reduce paper consumption and reduce the risk of identity theft for federal employees",
+            "count": 1
+        },
+        {
+            "phrase": "making e-verify mandatory will protect american workers and law-abiding businesses from the unfair competition created by a massive illegal workforce",
+            "count": 1
+        }
+    ]
+}

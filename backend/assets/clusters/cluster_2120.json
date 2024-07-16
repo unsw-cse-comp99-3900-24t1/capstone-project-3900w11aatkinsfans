@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:48",
+            "01:28",
+            "01:38",
+            "03:43"
+        ],
+        "label": "sisterhood"
+    },
+    "clusterList": [
+        {
+            "phrase": "the sisterhood of the traveling pants 2",
+            "count": 3
+        },
+        {
+            "phrase": "sisterhood of the traveling pants",
+            "count": 2
+        },
+        {
+            "phrase": "sisterhood of the travelling pants",
+            "count": 1
+        },
+        {
+            "phrase": "the sisterhood of the travelling pants 2",
+            "count": 1
+        },
+        {
+            "phrase": "the valley of the dolls",
+            "count": 1
+        }
+    ]
+}

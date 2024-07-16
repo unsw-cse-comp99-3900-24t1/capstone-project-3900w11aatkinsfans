@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:32",
+            "01:28",
+            "02:24",
+            "04:24",
+            "04:31"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "my brother my stomach hurt check me i quickly dead",
+            "count": 2
+        },
+        {
+            "phrase": "he had the medicine when he was moved there we are dealing with a man's life",
+            "count": 1
+        },
+        {
+            "phrase": "his was very healthy he walked everywhere and did yard work during his last visit to his doctor the doctor told him he had the body of a 40-year-old",
+            "count": 1
+        },
+        {
+            "phrase": "i visited him in the hospital in omaha when he was waiting for a liver",
+            "count": 1
+        },
+        {
+            "phrase": "he was located in the vicinity and taken to memorial hermann hospital",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't care if you are poor you can still send my campaign 5 or 10 dollars",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want any campaign contributions i don't want to owe anyone anything",
+            "count": 1
+        }
+    ]
+}

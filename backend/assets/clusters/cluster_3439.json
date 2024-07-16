@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:23",
+            "03:06",
+            "04:18",
+            "04:33",
+            "04:38"
+        ],
+        "label": "could"
+    },
+    "clusterList": [
+        {
+            "phrase": "could be good",
+            "count": 1
+        },
+        {
+            "phrase": "can do much better",
+            "count": 1
+        },
+        {
+            "phrase": "better than that",
+            "count": 1
+        },
+        {
+            "phrase": "could be better",
+            "count": 1
+        },
+        {
+            "phrase": "could be worse",
+            "count": 1
+        },
+        {
+            "phrase": "could do better",
+            "count": 1
+        }
+    ]
+}

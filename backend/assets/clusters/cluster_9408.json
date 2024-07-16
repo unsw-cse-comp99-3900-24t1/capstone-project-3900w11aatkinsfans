@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "01:11"
+        ],
+        "label": "passengers"
+    },
+    "clusterList": [
+        {
+            "phrase": "passengers get more room to stretch their legs and owners get more room for all the groceries from whole foods",
+            "count": 1
+        },
+        {
+            "phrase": "they have to provide accessible aisles",
+            "count": 1
+        }
+    ]
+}

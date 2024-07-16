@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:41",
+            "03:42",
+            "04:33"
+        ],
+        "label": "steadfast"
+    },
+    "clusterList": [
+        {
+            "phrase": "steadfast in his efforts to bring peace to the citizens of oakland and rid the city of crime and violence",
+            "count": 2
+        },
+        {
+            "phrase": "beat somebody up or assaulted them on the streets of montgomery",
+            "count": 1
+        }
+    ]
+}

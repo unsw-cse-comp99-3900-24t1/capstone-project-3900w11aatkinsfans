@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:57",
+            "03:23"
+        ],
+        "label": "black"
+    },
+    "clusterList": [
+        {
+            "phrase": "black and illegitimate",
+            "count": 1
+        },
+        {
+            "phrase": "a black history and a dark",
+            "count": 1
+        },
+        {
+            "phrase": "black mothers of america",
+            "count": 1
+        }
+    ]
+}

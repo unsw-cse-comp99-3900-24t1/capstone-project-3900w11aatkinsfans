@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:51",
+            "04:32",
+            "04:33",
+            "04:43"
+        ],
+        "label": "fill"
+    },
+    "clusterList": [
+        {
+            "phrase": "fill me out first then fill out the classes that depend on me",
+            "count": 3
+        },
+        {
+            "phrase": "fill me out first then fill out gt the classes that depend on me",
+            "count": 3
+        },
+        {
+            "phrase": "i'm giving you three months to get your act together you're going to appear for the o'levels exam privately if the school wants you to go to the matric section",
+            "count": 2
+        },
+        {
+            "phrase": "fill me out first then fill out gt gt the classes that depend on me",
+            "count": 1
+        }
+    ]
+}

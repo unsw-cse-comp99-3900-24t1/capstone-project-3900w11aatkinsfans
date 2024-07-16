@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:21",
+            "04:22"
+        ],
+        "label": "server"
+    },
+    "clusterList": [
+        {
+            "phrase": "server timeout retry",
+            "count": 1
+        },
+        {
+            "phrase": "sys webforms pagerequestmanagertimeoutexception the server request timeout",
+            "count": 1
+        },
+        {
+            "phrase": "abort retry give up",
+            "count": 1
+        }
+    ]
+}

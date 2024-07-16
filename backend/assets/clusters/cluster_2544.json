@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:10",
+            "03:32",
+            "03:33",
+            "03:47",
+            "04:15"
+        ],
+        "label": "till"
+    },
+    "clusterList": [
+        {
+            "phrase": "till death do us part",
+            "count": 2
+        },
+        {
+            "phrase": "when we dead awaken",
+            "count": 2
+        },
+        {
+            "phrase": "til death us do part",
+            "count": 1
+        },
+        {
+            "phrase": "well we go to after death",
+            "count": 1
+        },
+        {
+            "phrase": "till death alone shall part you",
+            "count": 1
+        }
+    ]
+}

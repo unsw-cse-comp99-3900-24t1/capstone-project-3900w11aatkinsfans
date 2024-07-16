@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:05",
+            "01:19",
+            "01:43",
+            "03:54",
+            "03:55"
+        ],
+        "label": "altering"
+    },
+    "clusterList": [
+        {
+            "phrase": "genetic engineering in humans commonly known as gene doping when mentioned in connection with athletic performance is certainly feasible but very impractical",
+            "count": 2
+        },
+        {
+            "phrase": "altering one's genetic makeup to impact athletic performance is unacceptable gene doping is cheating and it's dangerous professional sports organizations should ban it all athletes deserve to compete on an even playing field gene doping undermines that right",
+            "count": 1
+        },
+        {
+            "phrase": "sport discriminates against the genetically unfit sport is the province of the genetic elite or freak by allowing everyone to take performance enhancing drugs we level the playing field we remove the effects of genetic inequality far from being unfair allowing performance enhancement promotes equality",
+            "count": 1
+        },
+        {
+            "phrase": "nor can you ever get the level playing field they talk about plus the performance levels set by federations for elite athletes are so high that they need some of the drugs that are banned just to maintain their health",
+            "count": 1
+        },
+        {
+            "phrase": "sports make you health",
+            "count": 1
+        },
+        {
+            "phrase": "unfair to the athletes",
+            "count": 1
+        }
+    ]
+}

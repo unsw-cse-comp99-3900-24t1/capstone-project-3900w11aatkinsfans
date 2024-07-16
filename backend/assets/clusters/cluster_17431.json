@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:01"
+        ],
+        "label": "scope"
+    },
+    "clusterList": [
+        {
+            "phrase": "scope is similar to yahoo's pig which is a higher level language on top of hadoop or google's sawzall which is a higher level language on top of mapreduce but where pig focuses on and advocates a more imperative programming style scope looks much more like sql",
+            "count": 1
+        }
+    ]
+}

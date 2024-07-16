@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:51",
+            "03:37",
+            "04:28"
+        ],
+        "label": "met-rx"
+    },
+    "clusterList": [
+        {
+            "phrase": "met-rx chocolate roasted-peanut protein bars and bottles of a hard-to-find organic brew black forest berry honest tea",
+            "count": 1
+        },
+        {
+            "phrase": "today people want more out of their beverages we want health we want function and we want good flavor celsius green teas offer a non-carbonated choice for those consumers looking to burn calories we chose the peach mango and raspberry acai flavors because of their high appeal among target consumers",
+            "count": 1
+        },
+        {
+            "phrase": "spectrum diversi-tea and coffee house",
+            "count": 1
+        },
+        {
+            "phrase": "brilliant ruby red hue black currant menthol dried herb and oak aromas medium-full with good concentration this is a well-made cabernet with herbal overtones moderate tannins and tart acidity",
+            "count": 1
+        }
+    ]
+}

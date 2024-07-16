@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:23",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the current financial reporting model costs too much and delivers little useful information to government decision-makers",
+            "count": 1
+        },
+        {
+            "phrase": "the 2009 outlook the first by the department is lower than the 5 to-7 5 range issued by some private economists",
+            "count": 1
+        }
+    ]
+}

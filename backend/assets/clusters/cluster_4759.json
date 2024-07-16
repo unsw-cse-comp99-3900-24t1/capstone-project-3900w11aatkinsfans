@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:37",
+            "04:59"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey how does she know that car stuff",
+            "count": 1
+        },
+        {
+            "phrase": "it's her boyfriend's car actually i'm a creep aren't i",
+            "count": 1
+        },
+        {
+            "phrase": "you know what car she drives",
+            "count": 1
+        },
+        {
+            "phrase": "by herself driving the newly purchased bmw",
+            "count": 1
+        }
+    ]
+}

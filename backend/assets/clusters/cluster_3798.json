@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:56",
+            "02:19",
+            "02:34",
+            "03:55"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "am i to old for this",
+            "count": 2
+        },
+        {
+            "phrase": "it's time to grow up",
+            "count": 1
+        },
+        {
+            "phrase": "damn i'm too old for this shit",
+            "count": 1
+        },
+        {
+            "phrase": "you're never to old to learn",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:43"
+        ],
+        "label": "view"
+    },
+    "clusterList": [
+        {
+            "phrase": "view full profile",
+            "count": 1
+        },
+        {
+            "phrase": "view my profile",
+            "count": 1
+        }
+    ]
+}

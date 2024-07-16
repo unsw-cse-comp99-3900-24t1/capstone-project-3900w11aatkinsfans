@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:09",
+            "02:55"
+        ],
+        "label": "whether"
+    },
+    "clusterList": [
+        {
+            "phrase": "whether it's modeling clay dolls or crayons a small number of people can be counted on to use it for something vulgar",
+            "count": 2
+        },
+        {
+            "phrase": "whether it's modelling clay dolls or crayons a small number of people can be counted on to use it for something vulgar",
+            "count": 1
+        }
+    ]
+}

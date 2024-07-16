@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:09",
+            "00:29",
+            "00:37",
+            "01:51",
+            "02:28"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he could have been in a rehab facility",
+            "count": 3
+        },
+        {
+            "phrase": "my understanding is that what happened was completely accidental and that alcohol was not a factor",
+            "count": 2
+        },
+        {
+            "phrase": "he spent the last 20 years in prison and eight more years in mental hospitals and he didn't acquire the tools to deal with the real world",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:20",
+            "01:25",
+            "01:30",
+            "03:15",
+            "03:18",
+            "04:37"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "asia and europe in a global context shifting asymmetries in cultural flows",
+            "count": 2
+        },
+        {
+            "phrase": "a fervent defender of the mixing of cultures",
+            "count": 1
+        },
+        {
+            "phrase": "whipping up a local culture masochism and the cultural nationalists",
+            "count": 1
+        },
+        {
+            "phrase": "the clash of cultures in bali",
+            "count": 1
+        },
+        {
+            "phrase": "a clash of civilizations",
+            "count": 1
+        },
+        {
+            "phrase": "ah yes crumpets the food of the cultured",
+            "count": 1
+        },
+        {
+            "phrase": "there are several fine organizations on the right attempting to influence culture but they are a separate and dispersed lot",
+            "count": 1
+        }
+    ]
+}

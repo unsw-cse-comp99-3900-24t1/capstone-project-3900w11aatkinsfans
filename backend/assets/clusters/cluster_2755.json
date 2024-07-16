@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:50",
+            "01:18",
+            "03:21",
+            "03:45",
+            "03:46",
+            "04:05"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you have to work as a team and put aside your differences in order to get things done",
+            "count": 1
+        },
+        {
+            "phrase": "we know what they can bring to this team because they are proven players and they know a lot about what it takes to win",
+            "count": 1
+        },
+        {
+            "phrase": "just as no player is bigger than a team no team is bigger than a player's right to work",
+            "count": 1
+        },
+        {
+            "phrase": "this is the little train that could this is the sports team that said we're going to be your sports team and we're going to be the team that you feel apart of the most",
+            "count": 1
+        },
+        {
+            "phrase": "we're a team that's built a lot on chemistry and how we play together we play as a unit",
+            "count": 1
+        },
+        {
+            "phrase": "a talented team",
+            "count": 1
+        },
+        {
+            "phrase": "there's two things that really make a team",
+            "count": 1
+        }
+    ]
+}

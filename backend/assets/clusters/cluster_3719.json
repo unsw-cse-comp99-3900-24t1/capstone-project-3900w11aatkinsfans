@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "03:35",
+            "03:48",
+            "04:00",
+            "04:23"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our world has grown weary of greed exploitation and division of the tedium of false idols and piecemeal responses and the pain of false promises",
+            "count": 3
+        },
+        {
+            "phrase": "greed is a form of pollution and is a transgression of spiritual and moral law disappointment is certain if some act is done merely out of greed excessive greed blinds the mind do not be disillusioned by wants",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:51",
+            "01:00",
+            "02:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will kick your ass",
+            "count": 1
+        },
+        {
+            "phrase": "please sir could you be so kind as to kick my ass",
+            "count": 1
+        },
+        {
+            "phrase": "kick me in the ass if i fail",
+            "count": 1
+        },
+        {
+            "phrase": "i would kick his booty",
+            "count": 1
+        }
+    ]
+}

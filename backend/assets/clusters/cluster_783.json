@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:02",
+            "00:05",
+            "01:29",
+            "02:08",
+            "03:08",
+            "03:43",
+            "04:26",
+            "04:27",
+            "04:35",
+            "04:38",
+            "04:45",
+            "04:51",
+            "05:01",
+            "05:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "everyone in this government is responsible for a string of failures we must let the people decide through new elections",
+            "count": 6
+        },
+        {
+            "phrase": "this is a government that has come to the end of its road",
+            "count": 3
+        },
+        {
+            "phrase": "this government has reached an end national responsibility requires a return to the people and new elections",
+            "count": 2
+        },
+        {
+            "phrase": "the government is now doing everything including reshuffling the cabinet to prolong its life",
+            "count": 2
+        },
+        {
+            "phrase": "this government must ensure that no change of heart or government can turn this policy around",
+            "count": 1
+        },
+        {
+            "phrase": "the ruling party should honor its election promises now and revive the long-stalled reform of human rights in turkey",
+            "count": 1
+        },
+        {
+            "phrase": "won three elections by offering real change not just in policy but in the way we do politics we must do so again",
+            "count": 1
+        },
+        {
+            "phrase": "i believe in the initiative and referendum which should be used not to destroy representative government but to correct it whenever it becomes misrepresentative",
+            "count": 1
+        }
+    ]
+}

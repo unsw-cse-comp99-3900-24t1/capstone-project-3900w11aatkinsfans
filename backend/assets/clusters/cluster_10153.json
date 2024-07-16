@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "04:13"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what is it about gardeners",
+            "count": 1
+        },
+        {
+            "phrase": "landscaping for form and function in our turbulent times",
+            "count": 1
+        }
+    ]
+}

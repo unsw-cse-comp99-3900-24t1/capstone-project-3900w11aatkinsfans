@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "01:23",
+            "01:24",
+            "02:05",
+            "02:43",
+            "03:23",
+            "04:05",
+            "04:42",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was in excellent shape to be made in 1888",
+            "count": 6
+        },
+        {
+            "phrase": "i'm sure it was built according to the blueprints",
+            "count": 1
+        },
+        {
+            "phrase": "the question is whether it's built right",
+            "count": 1
+        },
+        {
+            "phrase": "it was by design",
+            "count": 1
+        },
+        {
+            "phrase": "it would have been built",
+            "count": 1
+        }
+    ]
+}

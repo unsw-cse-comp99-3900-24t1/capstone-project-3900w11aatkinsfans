@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:14",
+            "01:47",
+            "02:09",
+            "03:06",
+            "04:05",
+            "04:13",
+            "04:45"
+        ],
+        "label": "another"
+    },
+    "clusterList": [
+        {
+            "phrase": "another way to die",
+            "count": 3
+        },
+        {
+            "phrase": "to the grave",
+            "count": 3
+        },
+        {
+            "phrase": "nail in the coffin",
+            "count": 2
+        },
+        {
+            "phrase": "into the hollow",
+            "count": 1
+        },
+        {
+            "phrase": "coming out of the coffin",
+            "count": 1
+        }
+    ]
+}

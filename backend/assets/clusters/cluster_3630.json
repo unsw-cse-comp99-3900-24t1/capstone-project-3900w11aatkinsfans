@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:22",
+            "01:23",
+            "03:53"
+        ],
+        "label": "afghanistan"
+    },
+    "clusterList": [
+        {
+            "phrase": "afghanistan is facing a drought",
+            "count": 4
+        },
+        {
+            "phrase": "this situation has given rise to a degree of uncertainty for farmers on the continuance of assistance in ec declared areas exacerbated by the current review of national drought policy occurring at the same time as 26 ec declared regions of nsw are being reviewed",
+            "count": 1
+        }
+    ]
+}

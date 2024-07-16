@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:12",
+            "00:52",
+            "03:36",
+            "04:52"
+        ],
+        "label": "collective"
+    },
+    "clusterList": [
+        {
+            "phrase": "collective personal legends",
+            "count": 1
+        },
+        {
+            "phrase": "a legend in my own mind",
+            "count": 1
+        },
+        {
+            "phrase": "these people are legends in their field",
+            "count": 1
+        },
+        {
+            "phrase": "a legend in my time",
+            "count": 1
+        },
+        {
+            "phrase": "the legends group",
+            "count": 1
+        }
+    ]
+}

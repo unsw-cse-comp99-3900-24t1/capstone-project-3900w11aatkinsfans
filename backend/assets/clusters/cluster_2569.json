@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:26",
+            "01:13",
+            "01:19"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't believe that changes in the clinical use of vytorin are warranted",
+            "count": 1
+        },
+        {
+            "phrase": "we have to remember that the model is not the disease",
+            "count": 1
+        },
+        {
+            "phrase": "conformity helps maintain these buffers against disease",
+            "count": 1
+        },
+        {
+            "phrase": "we now have cells in culture that are genetically the same as in those with the disease",
+            "count": 1
+        },
+        {
+            "phrase": "the ability to make those kinds of measurements will expand research into this type of host-pathogen interaction",
+            "count": 1
+        },
+        {
+            "phrase": "what is clear is that by targeting an element involved directly in the infective process we may develop a line of drugs that work in collaboration with rather than in difference to the host environment including host immune responses",
+            "count": 1
+        },
+        {
+            "phrase": "hopefully this kind of approach can help solve the ongoing problem of bacterial drug resistance",
+            "count": 1
+        }
+    ]
+}

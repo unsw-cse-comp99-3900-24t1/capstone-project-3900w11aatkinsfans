@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:51",
+            "05:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a great deal of respect for speaker pelosi",
+            "count": 1
+        },
+        {
+            "phrase": "a congresswoman said thursday that her",
+            "count": 1
+        },
+        {
+            "phrase": "there are things in life worth fighting and dying for and one of em is making sure nancy pelosi doesn't become the house speaker",
+            "count": 1
+        }
+    ]
+}

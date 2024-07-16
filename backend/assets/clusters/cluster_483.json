@@ -1,0 +1,97 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:10",
+            "00:12",
+            "00:41",
+            "00:50",
+            "01:10",
+            "01:50",
+            "03:04",
+            "03:05",
+            "03:27",
+            "03:41",
+            "03:52",
+            "04:00",
+            "04:06",
+            "04:23",
+            "04:41",
+            "04:47",
+            "05:00"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all that's out there is lost young men looking for love",
+            "count": 8
+        },
+        {
+            "phrase": "love is a temple",
+            "count": 3
+        },
+        {
+            "phrase": "there's just this amazing sense of newfound love",
+            "count": 2
+        },
+        {
+            "phrase": "you will seek me and find me when you seek me with all your heart i will be found by you",
+            "count": 2
+        },
+        {
+            "phrase": "learn to love",
+            "count": 2
+        },
+        {
+            "phrase": "love will find a way",
+            "count": 1
+        },
+        {
+            "phrase": "can't help felling in love",
+            "count": 1
+        },
+        {
+            "phrase": "love like there is no tomorrow",
+            "count": 1
+        },
+        {
+            "phrase": "spread your love",
+            "count": 1
+        },
+        {
+            "phrase": "love is patient and kind",
+            "count": 1
+        },
+        {
+            "phrase": "love's gonna lead you back",
+            "count": 1
+        },
+        {
+            "phrase": "love is blind but marriage is an eye opener",
+            "count": 1
+        }
+    ]
+}

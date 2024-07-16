@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:15",
+            "03:15"
+        ],
+        "label": "hoyer"
+    },
+    "clusterList": [
+        {
+            "phrase": "prior to this announcement committee staff had been instructed that the existence of the ncsc was itself classified",
+            "count": 4
+        },
+        {
+            "phrase": "hoyer non-committal on state police spying investigation",
+            "count": 1
+        },
+        {
+            "phrase": "contributed to the analysis or assisted in the drafting of the august 1 2002 interrogation memo",
+            "count": 1
+        }
+    ]
+}

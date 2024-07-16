@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:07",
+            "03:18"
+        ],
+        "label": "his"
+    },
+    "clusterList": [
+        {
+            "phrase": "his fans are 6",
+            "count": 1
+        },
+        {
+            "phrase": "yes he's got two of them",
+            "count": 1
+        },
+        {
+            "phrase": "yeah he has",
+            "count": 1
+        }
+    ]
+}

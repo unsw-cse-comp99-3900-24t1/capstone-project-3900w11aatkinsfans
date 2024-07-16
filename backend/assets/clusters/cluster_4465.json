@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:28",
+            "01:55"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "more than just talk",
+            "count": 2
+        },
+        {
+            "phrase": "there needs to be communication people need to talk more",
+            "count": 1
+        },
+        {
+            "phrase": "i am truly saddened to think that friends peers and members of the community would question our intentions i will certainly try to improve lines of communication there is no doubt that we could do better-fortunately everyday presents a new opportunity to do so",
+            "count": 1
+        }
+    ]
+}

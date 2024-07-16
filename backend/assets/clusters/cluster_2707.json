@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:21",
+            "03:42",
+            "03:48",
+            "03:54"
+        ],
+        "label": "remember"
+    },
+    "clusterList": [
+        {
+            "phrase": "remember though darwin told him",
+            "count": 3
+        },
+        {
+            "phrase": "take that attitude with you darwin said",
+            "count": 3
+        },
+        {
+            "phrase": "he told them about the mice",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:04",
+            "03:34"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a mythic battle between good and evil played out in ancient china",
+            "count": 1
+        },
+        {
+            "phrase": "the axis of idiots",
+            "count": 1
+        },
+        {
+            "phrase": "axis of idiots",
+            "count": 1
+        }
+    ]
+}

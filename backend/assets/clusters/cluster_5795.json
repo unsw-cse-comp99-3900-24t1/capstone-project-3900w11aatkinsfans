@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:05"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an important article about using simple tips to prepare for financial crises thanks for reading",
+            "count": 2
+        },
+        {
+            "phrase": "we seem to be in the midst of a perfect storm leading to more bankruptcies high levels of debt high energy and raw materials costs and weakness in the u s economy",
+            "count": 1
+        }
+    ]
+}

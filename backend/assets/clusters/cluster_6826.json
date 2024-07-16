@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:05",
+            "04:21"
+        ],
+        "label": "seen"
+    },
+    "clusterList": [
+        {
+            "phrase": "seen his passion his determination his grace and his grit",
+            "count": 1
+        },
+        {
+            "phrase": "saxby of course is a very courageous man i know that because he's one of my hunting buddies",
+            "count": 1
+        },
+        {
+            "phrase": "he always seemed to get his way",
+            "count": 1
+        }
+    ]
+}

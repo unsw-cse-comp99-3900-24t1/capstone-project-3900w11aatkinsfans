@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:51",
+            "04:09"
+        ],
+        "label": "bring"
+    },
+    "clusterList": [
+        {
+            "phrase": "bring ourselves down",
+            "count": 2
+        },
+        {
+            "phrase": "don't put me down like this",
+            "count": 1
+        },
+        {
+            "phrase": "come on don't do this to me",
+            "count": 1
+        }
+    ]
+}

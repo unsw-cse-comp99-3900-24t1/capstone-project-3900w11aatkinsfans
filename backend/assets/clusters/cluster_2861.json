@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:20",
+            "01:00",
+            "01:37",
+            "01:58",
+            "03:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "our yard is our life",
+            "count": 3
+        },
+        {
+            "phrase": "the longest yard",
+            "count": 1
+        },
+        {
+            "phrase": "world's longest yardsale",
+            "count": 1
+        },
+        {
+            "phrase": "three yards and a cloud of dust",
+            "count": 1
+        }
+    ]
+}

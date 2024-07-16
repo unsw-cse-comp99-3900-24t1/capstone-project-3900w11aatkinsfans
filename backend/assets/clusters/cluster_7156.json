@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:02",
+            "04:14"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mission of the lodge is to provide free lodging in a warm homelike environment for people who have been diagnosed with cancer and are traveling from at least 50 miles outside new orleans to come here for some type of cancer treatment",
+            "count": 1
+        },
+        {
+            "phrase": "i think the thing that impresses me the most about the lodge is that it's a free lodging facility but also it's the support the patients and guests and caregivers give to one another while they're here",
+            "count": 1
+        },
+        {
+            "phrase": "the life initiative hotels addressing aids",
+            "count": 1
+        }
+    ]
+}

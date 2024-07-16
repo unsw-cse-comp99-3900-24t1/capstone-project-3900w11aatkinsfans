@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "04:28"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to be of use",
+            "count": 1
+        },
+        {
+            "phrase": "terms of use",
+            "count": 1
+        }
+    ]
+}

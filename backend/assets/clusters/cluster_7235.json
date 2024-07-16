@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:05",
+            "03:16"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know who's fishing if we ever get stuck on a deserted island",
+            "count": 1
+        },
+        {
+            "phrase": "they watched the espn outdoors tv show from last year they know how to fish and they have the confidence to do it",
+            "count": 1
+        },
+        {
+            "phrase": "everybody's fishing with these wind socks",
+            "count": 1
+        }
+    ]
+}

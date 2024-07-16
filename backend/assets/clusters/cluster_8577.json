@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:10"
+        ],
+        "label": "corsi"
+    },
+    "clusterList": [
+        {
+            "phrase": "corsi yahoo the books simon swift inc power",
+            "count": 1
+        },
+        {
+            "phrase": "created by david swift the creator of",
+            "count": 1
+        }
+    ]
+}

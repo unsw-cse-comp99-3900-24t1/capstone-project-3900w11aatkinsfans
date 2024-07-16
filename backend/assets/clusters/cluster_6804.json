@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:30",
+            "01:47"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the only thing that interferes with my learning is my education",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just trying to get better academically and otherwise",
+            "count": 1
+        },
+        {
+            "phrase": "a hard time concentrating in school",
+            "count": 1
+        }
+    ]
+}

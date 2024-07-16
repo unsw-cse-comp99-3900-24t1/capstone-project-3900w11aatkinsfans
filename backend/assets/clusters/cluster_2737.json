@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:29",
+            "02:57",
+            "04:01",
+            "04:05",
+            "04:28",
+            "05:00"
+        ],
+        "label": "woman"
+    },
+    "clusterList": [
+        {
+            "phrase": "woman what does she want",
+            "count": 1
+        },
+        {
+            "phrase": "all women are beautiful",
+            "count": 1
+        },
+        {
+            "phrase": "beauty is only skin deep",
+            "count": 1
+        },
+        {
+            "phrase": "the beauty is in the eye of the beholder",
+            "count": 1
+        },
+        {
+            "phrase": "naked woman reflection",
+            "count": 1
+        },
+        {
+            "phrase": "goddess with the beautiful buttocks",
+            "count": 1
+        },
+        {
+            "phrase": "i have to meet this beauty",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:47",
+            "03:06"
+        ],
+        "label": "i'd"
+    },
+    "clusterList": [
+        {
+            "phrase": "crash and burn",
+            "count": 2
+        },
+        {
+            "phrase": "i'd crashed and burned for the last time",
+            "count": 1
+        },
+        {
+            "phrase": "crashed and burned",
+            "count": 1
+        }
+    ]
+}

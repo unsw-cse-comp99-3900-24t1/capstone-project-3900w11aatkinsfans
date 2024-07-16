@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:40",
+            "01:43",
+            "02:26",
+            "03:18",
+            "03:48",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "you gotta see this",
+            "count": 3
+        },
+        {
+            "phrase": "i want you to see this",
+            "count": 1
+        },
+        {
+            "phrase": "come on i wanna see",
+            "count": 1
+        },
+        {
+            "phrase": "come up you have to see this",
+            "count": 1
+        },
+        {
+            "phrase": "come look at this",
+            "count": 1
+        }
+    ]
+}

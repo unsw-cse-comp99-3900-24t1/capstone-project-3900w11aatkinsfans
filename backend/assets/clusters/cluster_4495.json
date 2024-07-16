@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:15",
+            "04:24",
+            "04:33"
+        ],
+        "label": "whatever"
+    },
+    "clusterList": [
+        {
+            "phrase": "cat in residence",
+            "count": 2
+        },
+        {
+            "phrase": "whatever the case the cat needs a home and is probably hungry",
+            "count": 1
+        },
+        {
+            "phrase": "people would call in and say that the dog is sleeping more than usual they give the dog its favorite treat and it only nibbles at it and then drops it or they'd say the cat looks scruffy",
+            "count": 1
+        }
+    ]
+}

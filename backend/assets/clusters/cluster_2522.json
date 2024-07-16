@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "00:53",
+            "01:34",
+            "02:06",
+            "03:27",
+            "03:50",
+            "04:37"
+        ],
+        "label": "guys"
+    },
+    "clusterList": [
+        {
+            "phrase": "at the end of the day you're taking the field with a guy who doesn't want to play with you doesn't want to be there doesn't want to obviously effort-wise is just not there and that's disheartening and disappointing",
+            "count": 4
+        },
+        {
+            "phrase": "other teams i've been on they do that it hasn't happened here yet it doesn't mean guys aren't frustrated it means we go about it in a different way",
+            "count": 2
+        },
+        {
+            "phrase": "guys are trying to compete for spots and that's the way you want to play with intensity",
+            "count": 1
+        }
+    ]
+}

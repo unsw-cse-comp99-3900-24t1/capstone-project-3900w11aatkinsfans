@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:28",
+            "04:52"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm shocked that they're receiving awards for that night",
+            "count": 1
+        },
+        {
+            "phrase": "we are all very disappointed that our traditional awards ceremony will not take place this year and that millions of viewers worldwide will be deprived of seeing many of their favorite stars celebrating 2007's outstanding achievements in motion pictures and television",
+            "count": 1
+        },
+        {
+            "phrase": "we take some comfort however in knowing that this year's golden globe award recipients will be announced on the date originally scheduled",
+            "count": 1
+        }
+    ]
+}

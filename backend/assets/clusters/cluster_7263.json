@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:18",
+            "04:41"
+        ],
+        "label": "alexander"
+    },
+    "clusterList": [
+        {
+            "phrase": "alexander the great airport",
+            "count": 1
+        },
+        {
+            "phrase": "how are you getting to the airport",
+            "count": 1
+        },
+        {
+            "phrase": "people in airports",
+            "count": 1
+        }
+    ]
+}

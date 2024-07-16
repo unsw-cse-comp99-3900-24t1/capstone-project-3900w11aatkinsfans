@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:12",
+            "02:33",
+            "03:39"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i believe and profess all that the holy catholic church teaches believes and proclaims to be revealed by god",
+            "count": 1
+        },
+        {
+            "phrase": "ch vez is carrying out the work of god and i hope our priests here do the same",
+            "count": 1
+        },
+        {
+            "phrase": "we are building a religion",
+            "count": 1
+        },
+        {
+            "phrase": "i ask all of you to support and assist your bishops in combatting this evil",
+            "count": 1
+        }
+    ]
+}

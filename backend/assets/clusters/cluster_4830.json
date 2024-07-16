@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:37",
+            "01:46",
+            "03:39"
+        ],
+        "label": "drowning"
+    },
+    "clusterList": [
+        {
+            "phrase": "your body's many cries for water",
+            "count": 2
+        },
+        {
+            "phrase": "drowning in paper",
+            "count": 1
+        },
+        {
+            "phrase": "i could feel the tears brimming and sloshing in me like water in a glass that is unsteady and too full",
+            "count": 1
+        }
+    ]
+}

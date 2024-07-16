@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:48"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we consider ourselves the electoral college that oversees the popular vote",
+            "count": 1
+        },
+        {
+            "phrase": "or we go to an election",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:16",
+            "04:46"
+        ],
+        "label": "ketchup"
+    },
+    "clusterList": [
+        {
+            "phrase": "ketchup on a hot dog",
+            "count": 1
+        },
+        {
+            "phrase": "i won't put ketchup on a hot dog help yourself",
+            "count": 1
+        },
+        {
+            "phrase": "brother if you can date a yankee fan i can put ketchup on your hot dogs",
+            "count": 1
+        },
+        {
+            "phrase": "emperor tomato ketchup",
+            "count": 1
+        },
+        {
+            "phrase": "i know what let's hold a hot-dog-eating contest",
+            "count": 1
+        }
+    ]
+}

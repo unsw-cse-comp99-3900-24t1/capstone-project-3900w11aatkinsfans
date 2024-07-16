@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "04:37"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all pet stores are still selling cats and dogs",
+            "count": 1
+        },
+        {
+            "phrase": "we've tried to develop a store that continues the dogpatch of that era",
+            "count": 1
+        }
+    ]
+}

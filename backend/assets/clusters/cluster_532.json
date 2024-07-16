@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:09",
+            "00:19",
+            "00:27",
+            "00:32",
+            "00:51",
+            "01:07",
+            "01:24",
+            "01:30",
+            "01:47",
+            "03:10",
+            "03:19",
+            "03:51",
+            "04:05",
+            "04:13",
+            "04:24",
+            "04:27",
+            "04:32"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "the survival of the united states of america as we know it is at risk",
+            "count": 7
+        },
+        {
+            "phrase": "saved by the americans",
+            "count": 5
+        },
+        {
+            "phrase": "the end of america",
+            "count": 4
+        },
+        {
+            "phrase": "a red line for the united states of america",
+            "count": 3
+        },
+        {
+            "phrase": "death to america",
+            "count": 1
+        },
+        {
+            "phrase": "the survival of the united states of america as we know it",
+            "count": 1
+        },
+        {
+            "phrase": "this american life",
+            "count": 1
+        },
+        {
+            "phrase": "america saves everything",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:30",
+            "03:47",
+            "04:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't talk as much about the experience of illness as we talk about how to get over it how to stop it how to prevent it how to relieve it how you can be healthy if you really try we don't look inside the suffering past the wall of suffering to see what's behind it i think there's an enormous body of knowledge out there among people who are suffering that is untapped and if we could tap into it more we'd be less afraid and we'd know more how to cope when it happens to us",
+            "count": 1
+        },
+        {
+            "phrase": "this sickness will not end in death no it is for god's glory so that god's son may be glorified through it",
+            "count": 1
+        },
+        {
+            "phrase": "this sickness is not to end in death but for the glory of god so that the son of god may be glorified by it",
+            "count": 1
+        },
+        {
+            "phrase": "illness is one of the things that god seems to use in people's lives to bring them to a point of crisis so that they're finally asking the right questions about eternity",
+            "count": 1
+        }
+    ]
+}

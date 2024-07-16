@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "02:52",
+            "03:29",
+            "03:38",
+            "03:40",
+            "04:45",
+            "04:47"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i talked to junior he was very honest",
+            "count": 5
+        },
+        {
+            "phrase": "he said some real nice things i really appreciate it it was nice of him",
+            "count": 2
+        },
+        {
+            "phrase": "it was pretty simple to tell you the truth but it was nice to hear it from him",
+            "count": 1
+        }
+    ]
+}

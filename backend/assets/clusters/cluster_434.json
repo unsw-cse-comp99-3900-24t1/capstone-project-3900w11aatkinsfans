@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            10,
+            2,
+            1,
+            2,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:06",
+            "01:47",
+            "01:50",
+            "02:28",
+            "02:36",
+            "03:09",
+            "03:16",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i enjoy the quiet life i enjoy fishing from april through november maybe a little longer if the speckled trout are really showing up amp biting",
+            "count": 14
+        },
+        {
+            "phrase": "the fish they are easy to catch today",
+            "count": 10
+        },
+        {
+            "phrase": "i think the fish are still there but they're all stressed out if you're fishing a point this week that point is out of the water next week",
+            "count": 1
+        },
+        {
+            "phrase": "i only fished three hours i had several boat problems i'm happy with that",
+            "count": 1
+        }
+    ]
+}

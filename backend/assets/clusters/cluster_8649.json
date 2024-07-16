@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "03:38"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's just the chance of a lifetime to go to new york i've never been there before",
+            "count": 1
+        },
+        {
+            "phrase": "ah yes new york that's a very interesting place do you know about new yorkers who keep talking about the fact that they want to leave but never do",
+            "count": 1
+        }
+    ]
+}

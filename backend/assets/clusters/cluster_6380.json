@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "04:04"
+        ],
+        "label": "toy"
+    },
+    "clusterList": [
+        {
+            "phrase": "toy story midway mania",
+            "count": 1
+        },
+        {
+            "phrase": "toy story mania",
+            "count": 1
+        },
+        {
+            "phrase": "dragon the bruce lee story",
+            "count": 1
+        }
+    ]
+}

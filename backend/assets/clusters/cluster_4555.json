@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "02:13",
+            "02:56",
+            "04:05"
+        ],
+        "label": "da"
+    },
+    "clusterList": [
+        {
+            "phrase": "da teen party of the yr",
+            "count": 1
+        },
+        {
+            "phrase": "frat party games",
+            "count": 1
+        },
+        {
+            "phrase": "gross new party",
+            "count": 1
+        },
+        {
+            "phrase": "the heart and soul of the party",
+            "count": 1
+        }
+    ]
+}

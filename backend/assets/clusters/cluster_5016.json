@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "02:11",
+            "03:50",
+            "04:06"
+        ],
+        "label": "harming"
+    },
+    "clusterList": [
+        {
+            "phrase": "harming chinese people when she suggested the catastrophic quake last may was",
+            "count": 3
+        },
+        {
+            "phrase": "earthquake measuring 9 0 on the richter scale has hit beijing causing millions of casualties and putting the 2008 olympic games at risk",
+            "count": 1
+        }
+    ]
+}

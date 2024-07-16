@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a strategy that will create millions of new jobs that pay well and cannot be outsourced and one that will leave our children a world that is cleaner and safer",
+            "count": 7
+        },
+        {
+            "phrase": "it's a strategy that willcreate millions of new jobs and one that will leave ourchildren a world that is cleaner and safer",
+            "count": 5
+        }
+    ]
+}

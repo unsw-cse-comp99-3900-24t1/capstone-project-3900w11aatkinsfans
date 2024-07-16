@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "02:52"
+        ],
+        "label": "congratulations"
+    },
+    "clusterList": [
+        {
+            "phrase": "congratulations your account has been activated click here to login",
+            "count": 1
+        },
+        {
+            "phrase": "you locked your keys inside",
+            "count": 1
+        }
+    ]
+}

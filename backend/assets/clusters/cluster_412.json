@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "00:27",
+            "01:02",
+            "01:05",
+            "01:07",
+            "01:18",
+            "01:46",
+            "01:47",
+            "03:05",
+            "03:09",
+            "03:10",
+            "03:19",
+            "03:28",
+            "03:43",
+            "03:51",
+            "03:58",
+            "04:09",
+            "04:27",
+            "04:28",
+            "04:32",
+            "04:36",
+            "04:37",
+            "04:55",
+            "05:01",
+            "05:05"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's got a long way to go and there are a number of people in the party that have ambition",
+            "count": 16
+        },
+        {
+            "phrase": "falsifies the very essence of his candidacy",
+            "count": 6
+        },
+        {
+            "phrase": "and that he remains convinced that none of the candidates in the current field has captured the imagination of the party",
+            "count": 2
+        },
+        {
+            "phrase": "there is nothing more to this than the fact that he was describing that he was new to the political scene",
+            "count": 1
+        },
+        {
+            "phrase": "no surprise then that he is not standing in the leadership primary but clearly he decided to move quickly to remove any remaining doubt and so the party can move towards a leadership election without olmert hanging around the party like a millstone around its neck",
+            "count": 1
+        },
+        {
+            "phrase": "emphatic message that he is not a partisan politician",
+            "count": 1
+        }
+    ]
+}

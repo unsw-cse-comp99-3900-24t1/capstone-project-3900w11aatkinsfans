@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:28",
+            "02:24",
+            "03:34",
+            "04:29"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good moral character",
+            "count": 2
+        },
+        {
+            "phrase": "good i like your character moral integrity",
+            "count": 2
+        },
+        {
+            "phrase": "i am deeply sorry i really look at myself as a person who has high integrity and high character",
+            "count": 1
+        }
+    ]
+}

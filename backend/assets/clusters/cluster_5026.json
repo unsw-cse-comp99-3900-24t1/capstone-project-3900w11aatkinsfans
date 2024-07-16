@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:01",
+            "03:55"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but at the same time if i go back behind home plate and catch a foul tip in the mask and i'm not completely healed it's going to make my concussion a lot worse",
+            "count": 2
+        },
+        {
+            "phrase": "just remember you're not allowed to play basketball unless you get one of those face masks",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i'm back to playing basketball now that i have the face mask",
+            "count": 1
+        }
+    ]
+}

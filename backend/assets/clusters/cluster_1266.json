@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:32",
+            "00:53",
+            "01:42",
+            "01:50",
+            "02:33",
+            "04:29",
+            "04:31",
+            "04:46"
+        ],
+        "label": "ohh"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm a do the things that i want to do i ain't got a thing to prove to you i'm fine and dandy with the me inside i don't give a hoot about what you think",
+            "count": 5
+        },
+        {
+            "phrase": "i am better than you",
+            "count": 2
+        },
+        {
+            "phrase": "ohh no your not ohh here you come",
+            "count": 1
+        },
+        {
+            "phrase": "are you well you shouldn't be",
+            "count": 1
+        },
+        {
+            "phrase": "i can't be as good as the best",
+            "count": 1
+        },
+        {
+            "phrase": "i probably can't be as good as the best",
+            "count": 1
+        },
+        {
+            "phrase": "i won't be as good i ought to be",
+            "count": 1
+        },
+        {
+            "phrase": "garsh uh gee no it's not no i'm not i'm not that good",
+            "count": 1
+        }
+    ]
+}

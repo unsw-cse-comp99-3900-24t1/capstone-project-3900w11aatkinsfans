@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:11",
+            "04:07",
+            "04:31",
+            "04:40"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what if he's already gone by the time i get there",
+            "count": 1
+        },
+        {
+            "phrase": "let him walk on and off the boat from the dock let him stay in the boat a little and get used to the motion",
+            "count": 1
+        },
+        {
+            "phrase": "then take him out on short trips first",
+            "count": 1
+        },
+        {
+            "phrase": "put him in a body bag",
+            "count": 1
+        },
+        {
+            "phrase": "the first thing i'm going to do is meet with him and we're going to drive down there and show him around",
+            "count": 1
+        },
+        {
+            "phrase": "it would take him three hours to commute",
+            "count": 1
+        }
+    ]
+}

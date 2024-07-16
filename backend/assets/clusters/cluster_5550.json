@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:29",
+            "03:23",
+            "04:41"
+        ],
+        "label": "common"
+    },
+    "clusterList": [
+        {
+            "phrase": "common desktop of the future",
+            "count": 2
+        },
+        {
+            "phrase": "if you want to see the future look into a cloud",
+            "count": 1
+        },
+        {
+            "phrase": "if we could start over from scratch today taking advantage of everything we've learned and everything we know about the state of computing and networking today and our current concept of the future what would it look like",
+            "count": 1
+        }
+    ]
+}

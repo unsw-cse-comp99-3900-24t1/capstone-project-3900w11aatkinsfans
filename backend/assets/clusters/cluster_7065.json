@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:43",
+            "03:34"
+        ],
+        "label": "identifying"
+    },
+    "clusterList": [
+        {
+            "phrase": "identifying geohazards such as earthquakes and volcanoes is often a matter of life or death",
+            "count": 2
+        },
+        {
+            "phrase": "south asia is very important geologically because our goods are transferred through it",
+            "count": 1
+        }
+    ]
+}

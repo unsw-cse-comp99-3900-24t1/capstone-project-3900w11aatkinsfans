@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:36",
+            "03:32",
+            "03:48"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're depressed not stupid",
+            "count": 2
+        },
+        {
+            "phrase": "well look at it this way in 10 years of so we'll all laugh at how stupid we were etc",
+            "count": 1
+        },
+        {
+            "phrase": "we're really stupid and we've been stupid for a long time",
+            "count": 1
+        }
+    ]
+}

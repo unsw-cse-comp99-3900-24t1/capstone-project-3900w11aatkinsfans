@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:09",
+            "00:10",
+            "00:28",
+            "00:32",
+            "00:41",
+            "00:46",
+            "00:51",
+            "01:12",
+            "01:13",
+            "02:22",
+            "03:33",
+            "04:10",
+            "04:14",
+            "04:29"
+        ],
+        "label": "you've"
+    },
+    "clusterList": [
+        {
+            "phrase": "you've got to do what's right for the team i guess it's the right move for the team hopefully it is",
+            "count": 11
+        },
+        {
+            "phrase": "one of the things you've got to be able to do as a coach is handle different relationships and know how to motivate them it's a really outstanding testament to emmitt",
+            "count": 2
+        },
+        {
+            "phrase": "you think you're giving it your all but your coach knows what you can do and what you can offer",
+            "count": 1
+        },
+        {
+            "phrase": "it's about goals you set for yourself once i started in the program i had a goal to coach this team one day i'm here now it's a great opportunity for me when you're coaching a program like this great responsibility comes with it it's something i'm looking forward to",
+            "count": 1
+        },
+        {
+            "phrase": "the longer you coach the more you realize you don't have to have the best talent",
+            "count": 1
+        },
+        {
+            "phrase": "thanks for you help coach you saved me 80 00",
+            "count": 1
+        }
+    ]
+}

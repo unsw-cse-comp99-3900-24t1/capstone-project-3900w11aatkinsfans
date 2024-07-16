@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "03:23",
+            "04:21",
+            "04:28",
+            "04:46",
+            "04:55",
+            "05:03"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we see these threats from bluhm and contractors that they want to see this go through and yet we can't get information we should have",
+            "count": 4
+        },
+        {
+            "phrase": "we are checking with the rcmp and other agencies right now to see what we can find",
+            "count": 1
+        },
+        {
+            "phrase": "we will file a police report on errant agents",
+            "count": 1
+        },
+        {
+            "phrase": "officers have already taken information from many of those present but we are still asking anyone who thinks they may know something that will assist us with our enquiries to come forward",
+            "count": 1
+        }
+    ]
+}

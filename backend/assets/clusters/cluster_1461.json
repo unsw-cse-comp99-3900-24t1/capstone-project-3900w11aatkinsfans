@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:37",
+            "00:41",
+            "00:53",
+            "02:28",
+            "03:37",
+            "04:12"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can confirm the death of a british national in goiania brazil the body was discovered early on july 29",
+            "count": 3
+        },
+        {
+            "phrase": "next of kin have been informed and we are providing consular assistance to the family brazilian police are investigating",
+            "count": 3
+        },
+        {
+            "phrase": "we can confirm the death of a british national in goiania in brazil named cara maria burke",
+            "count": 3
+        },
+        {
+            "phrase": "we can confirm the death of a british national in goiania in brazil next of kin have been informed and we are providing consular assistance to the family",
+            "count": 1
+        },
+        {
+            "phrase": "we can confirm the death of a british national in goiania in brazil next of kin have been informed and we are providing consular assistance",
+            "count": 1
+        }
+    ]
+}

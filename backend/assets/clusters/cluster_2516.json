@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:33",
+            "00:48",
+            "02:00",
+            "02:02",
+            "02:56",
+            "04:28"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when it comes to the war on the poor you're either with the poor or against them",
+            "count": 4
+        },
+        {
+            "phrase": "listen to the voices of the poor",
+            "count": 1
+        },
+        {
+            "phrase": "rob the poor",
+            "count": 1
+        },
+        {
+            "phrase": "people need material aid medical care amp economic support not prayers amp preaching",
+            "count": 1
+        }
+    ]
+}

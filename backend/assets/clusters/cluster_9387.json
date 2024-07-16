@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "03:42"
+        ],
+        "label": "honey"
+    },
+    "clusterList": [
+        {
+            "phrase": "honey hush there's no need to scream",
+            "count": 1
+        },
+        {
+            "phrase": "first off you're already screaming",
+            "count": 1
+        }
+    ]
+}

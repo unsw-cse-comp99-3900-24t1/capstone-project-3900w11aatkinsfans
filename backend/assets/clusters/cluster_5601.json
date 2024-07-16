@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:43",
+            "03:48"
+        ],
+        "label": "monday"
+    },
+    "clusterList": [
+        {
+            "phrase": "monday marketing tip people buy benefits not features",
+            "count": 1
+        },
+        {
+            "phrase": "now they can do their own marketing it's a very empowering thing and it levels the playing field",
+            "count": 1
+        },
+        {
+            "phrase": "that's great then let's only offer this business to those who want the benefits the best part is that you can provide them with one of our great marketing tools and it will do the presenting i will be there with you to answer questions and help you help them get started how does that sound",
+            "count": 1
+        }
+    ]
+}

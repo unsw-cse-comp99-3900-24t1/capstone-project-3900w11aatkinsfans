@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "00:23"
+        ],
+        "label": "could"
+    },
+    "clusterList": [
+        {
+            "phrase": "could not connect to localhost's windows authentication source",
+            "count": 1
+        }
+    ]
+}

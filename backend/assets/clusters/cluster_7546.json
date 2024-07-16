@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:49",
+            "04:41"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's obvious to all of our staff that steven is a very special young man with great potential",
+            "count": 1
+        },
+        {
+            "phrase": "i think what's really important is the environment around an athlete and the atmosphere and the dynamic of a family because i see that with our junior tennis players and i think he's just really relaxed and at a good place and feels like he's done it all and doesn't feel pressure if i receive any credit it's just to make him feel relaxed but i i'm not out there hitting the ball",
+            "count": 1
+        },
+        {
+            "phrase": "the next person will have to be someone who understands that delicate balance between basketball and football members and making sure the interests of both are served",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:18",
+            "04:19"
+        ],
+        "label": "rated"
+    },
+    "clusterList": [
+        {
+            "phrase": "rated 12 for the following infrequent mild alcohol tobacco or drug use or references infrequent mild profanity or crude humor infrequent mild mature suggestive themes",
+            "count": 1
+        },
+        {
+            "phrase": "some strong language sexual material some drinking and brief smoking-all involving teens",
+            "count": 1
+        }
+    ]
+}

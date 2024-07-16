@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:10",
+            "03:12",
+            "03:58",
+            "04:03",
+            "04:27"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of packaging is designed to lengthen the shelf-life of the products that are being sold so if you take it out of the packaging there's a good chance that it will actually not last as long",
+            "count": 2
+        },
+        {
+            "phrase": "and those things have a limited shelf life",
+            "count": 2
+        },
+        {
+            "phrase": "what is the shelf life of cephalexin",
+            "count": 2
+        }
+    ]
+}

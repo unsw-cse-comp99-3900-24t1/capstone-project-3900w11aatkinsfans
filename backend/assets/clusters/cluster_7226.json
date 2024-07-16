@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "04:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we would undermine the u s mission here because they are so reliant on contractors",
+            "count": 1
+        },
+        {
+            "phrase": "clearly if you can't use american security contractors then you will have to use other contractors",
+            "count": 1
+        },
+        {
+            "phrase": "we have no intention of abandoning our friends or allowing this country of 170 000 sq km to become a staging ground for further attacks against americans all americans can be certain that we intend to complete the mission so that another generation of americans does not have to come back here and do it again",
+            "count": 1
+        }
+    ]
+}

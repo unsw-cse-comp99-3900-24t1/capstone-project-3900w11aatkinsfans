@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:12",
+            "01:06",
+            "01:33",
+            "02:13",
+            "02:28",
+            "02:42",
+            "02:43",
+            "03:42",
+            "03:47",
+            "03:55",
+            "04:15",
+            "04:17",
+            "04:23",
+            "04:28",
+            "04:29",
+            "04:32",
+            "04:54"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a sense of urgency to create value",
+            "count": 14
+        },
+        {
+            "phrase": "values and interests",
+            "count": 3
+        },
+        {
+            "phrase": "things of value",
+            "count": 2
+        },
+        {
+            "phrase": "coming from a background in business you're always concerned when you want to sell something of value and want to make sure the people who are buying it perceive it as valuable",
+            "count": 1
+        },
+        {
+            "phrase": "often it is the work and sacrifice one experiences in obtaining money for a worthwhile purpose that produces the most satisfaction",
+            "count": 1
+        },
+        {
+            "phrase": "the exploration of perceived value",
+            "count": 1
+        }
+    ]
+}

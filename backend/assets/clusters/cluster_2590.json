@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:05",
+            "02:25",
+            "02:40",
+            "02:49",
+            "04:18",
+            "04:41"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "the moment that the world is waiting for",
+            "count": 2
+        },
+        {
+            "phrase": "hey why are you standing in rain",
+            "count": 1
+        },
+        {
+            "phrase": "i come with the rain",
+            "count": 1
+        },
+        {
+            "phrase": "coming in the clouds",
+            "count": 1
+        },
+        {
+            "phrase": "oh god please stop the rain for just five minutes",
+            "count": 1
+        },
+        {
+            "phrase": "waiting for god",
+            "count": 1
+        }
+    ]
+}

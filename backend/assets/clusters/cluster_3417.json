@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:15",
+            "03:20",
+            "04:05",
+            "04:24"
+        ],
+        "label": "may"
+    },
+    "clusterList": [
+        {
+            "phrase": "may be effective in relieving symptoms of acute bronchitis in adults and children",
+            "count": 1
+        },
+        {
+            "phrase": "the son is responding well to treatment but the program in nova scotia only allows 12 hours a week and the child needs much more than that",
+            "count": 1
+        },
+        {
+            "phrase": "severe poorly controlled asthma",
+            "count": 1
+        },
+        {
+            "phrase": "asthmatic children treated with homeopathy",
+            "count": 1
+        },
+        {
+            "phrase": "homeopathy no help for asthmatic children",
+            "count": 1
+        },
+        {
+            "phrase": "our results strongly suggest that the reason that some children who've been given antibiotics appear to develop asthma is because they had a chest infection and the symptoms of the chest infection in young children can be confused with the start of asthma antibiotics are then given to treat this respiratory condition which may or may not be asthma and are not a cause as has been previously suggested",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:38",
+            "03:47"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can look anyplace and there are trees all over the place",
+            "count": 1
+        },
+        {
+            "phrase": "there are books written about the area",
+            "count": 1
+        },
+        {
+            "phrase": "i'd really like to see similar sized cities used for comparison purposes",
+            "count": 1
+        }
+    ]
+}

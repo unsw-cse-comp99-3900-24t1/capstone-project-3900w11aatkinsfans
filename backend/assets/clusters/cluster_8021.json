@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:14"
+        ],
+        "label": "epa"
+    },
+    "clusterList": [
+        {
+            "phrase": "epa was responsive to these petitions in our advanced notice of proposed rulemaking and we are moving ahead with that process",
+            "count": 1
+        },
+        {
+            "phrase": "we shall do whatever is required to maintain law and order in the area and ensure that the project proceeds according to plan",
+            "count": 1
+        }
+    ]
+}

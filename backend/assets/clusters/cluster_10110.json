@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "04:55"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things happening for a reason",
+            "count": 1
+        },
+        {
+            "phrase": "strange things happening everyday",
+            "count": 1
+        }
+    ]
+}

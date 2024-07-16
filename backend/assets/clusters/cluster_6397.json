@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:51",
+            "04:08"
+        ],
+        "label": "failed"
+    },
+    "clusterList": [
+        {
+            "phrase": "failed to achieve results",
+            "count": 1
+        },
+        {
+            "phrase": "what does it take to succeed a positive attitude well sure but that's hardly enough success however it's defined takes action and taking good and appropriate action takes skills some of these skills not enough though are taught in school not well enough either others are taught on the job and still others we learn from general life experience",
+            "count": 1
+        },
+        {
+            "phrase": "the secret of my success",
+            "count": 1
+        }
+    ]
+}

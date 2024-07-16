@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:35",
+            "04:18"
+        ],
+        "label": "king"
+    },
+    "clusterList": [
+        {
+            "phrase": "barons of suburbia",
+            "count": 2
+        },
+        {
+            "phrase": "king of quakecon",
+            "count": 1
+        },
+        {
+            "phrase": "phillipe in the monet garden",
+            "count": 1
+        }
+    ]
+}

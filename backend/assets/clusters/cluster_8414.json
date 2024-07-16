@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the parks system doesn't have a regular presence in jamesburg park this is public open space in the most urban state in the country and we're losing open space and nobody seems to care",
+            "count": 1
+        },
+        {
+            "phrase": "development will come if we can show that the unsavory street element can no longer flourish here parking is a great temporary answer and a proper interim activity",
+            "count": 1
+        }
+    ]
+}

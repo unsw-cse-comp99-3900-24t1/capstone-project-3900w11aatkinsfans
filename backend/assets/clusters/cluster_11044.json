@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "04:03"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are my principles",
+            "count": 1
+        },
+        {
+            "phrase": "what about sticking to principle",
+            "count": 1
+        }
+    ]
+}

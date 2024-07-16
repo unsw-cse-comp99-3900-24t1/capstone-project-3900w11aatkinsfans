@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "02:24",
+            "02:37",
+            "03:18",
+            "03:19",
+            "04:03",
+            "04:06",
+            "04:11",
+            "04:36"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "i had to record that",
+            "count": 2
+        },
+        {
+            "phrase": "it was like michael what are you doing",
+            "count": 2
+        },
+        {
+            "phrase": "you shook me all night long",
+            "count": 1
+        },
+        {
+            "phrase": "you were on stage when the electricity went out playing that song you wrote for me",
+            "count": 1
+        },
+        {
+            "phrase": "i was just singing",
+            "count": 1
+        },
+        {
+            "phrase": "it was like i was in a trance",
+            "count": 1
+        },
+        {
+            "phrase": "i was singing 9 to 5 and i choked and forgot the words in front of the president and in front of dolly parton who's like the president to me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:43",
+            "03:00",
+            "03:05"
+        ],
+        "label": "r"
+    },
+    "clusterList": [
+        {
+            "phrase": "r aising children is a difficult and selfless act that is also an important civic duty",
+            "count": 1
+        },
+        {
+            "phrase": "silly children life is for adults",
+            "count": 1
+        },
+        {
+            "phrase": "we've been working with kids for more than a century so many kids have come to us in crisis for one reason or another but the common denominator is that lots of parents were not spending meaningful time with their kids we thought it was time to bring this to national attention and what a better way than create a day that encourages parents to spend meaningful time with their children",
+            "count": 1
+        },
+        {
+            "phrase": "it's bad enough adults doing it but to have children in that environment where the dangers for violence and other things abound",
+            "count": 1
+        }
+    ]
+}

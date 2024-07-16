@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "01:55",
+            "02:05",
+            "02:28",
+            "04:23",
+            "04:28"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was a good day you can't be displeased with a 65 on this course or any course",
+            "count": 7
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:29"
+        ],
+        "label": "dysfunctional"
+    },
+    "clusterList": [
+        {
+            "phrase": "dysfunctional and counter-productive",
+            "count": 1
+        },
+        {
+            "phrase": "destructive and difficult to deal with",
+            "count": 1
+        }
+    ]
+}

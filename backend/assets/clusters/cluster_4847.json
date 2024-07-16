@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "04:18"
+        ],
+        "label": "yes"
+    },
+    "clusterList": [
+        {
+            "phrase": "yes yes i did it i'm a real owner",
+            "count": 3
+        },
+        {
+            "phrase": "yes i did it i enjoyed it and i plan to do it again at the earliest possible opportunity",
+            "count": 1
+        }
+    ]
+}

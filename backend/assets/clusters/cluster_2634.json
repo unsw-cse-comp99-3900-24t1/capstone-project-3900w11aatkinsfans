@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "02:12",
+            "02:32",
+            "02:46",
+            "04:06",
+            "04:41",
+            "05:05"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no place in this campaign for that",
+            "count": 5
+        },
+        {
+            "phrase": "it's not in there",
+            "count": 1
+        },
+        {
+            "phrase": "what do you mean there there",
+            "count": 1
+        }
+    ]
+}

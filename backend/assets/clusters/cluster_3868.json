@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:20",
+            "02:01",
+            "03:12",
+            "04:09"
+        ],
+        "label": "suffered"
+    },
+    "clusterList": [
+        {
+            "phrase": "they had a little girl i had to feed her and be very quiet so i didn t wake up the doctor s wife and give her breakfast and then when it was time for me to go to school i d knock on her door and the little girl would go into her room and then when i came home if i was more than five minutes late i was reprimanded and then every night i would have to clean thoroughly a different room and then when i was all done with my work then i could do my homework",
+            "count": 2
+        },
+        {
+            "phrase": "suffered a reaction to medication at home this evening and was taken to hospital",
+            "count": 1
+        },
+        {
+            "phrase": "it was gross but it was home",
+            "count": 1
+        },
+        {
+            "phrase": "urinated in my bedroom",
+            "count": 1
+        }
+    ]
+}

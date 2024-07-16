@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "00:46",
+            "01:01",
+            "03:10"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all of the exit polls were getting the wrong information",
+            "count": 1
+        },
+        {
+            "phrase": "more garbage from the race-baiting republicans",
+            "count": 1
+        },
+        {
+            "phrase": "i think the politicians are much more concerned about the polls than the economic data",
+            "count": 1
+        },
+        {
+            "phrase": "misrepresents themselves and their polls through biased questions and or faulty survey methodology",
+            "count": 1
+        },
+        {
+            "phrase": "misrepresent themselves and their polls",
+            "count": 1
+        }
+    ]
+}

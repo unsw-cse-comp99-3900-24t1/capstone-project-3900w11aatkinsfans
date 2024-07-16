@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:19",
+            "01:40",
+            "02:26",
+            "02:48",
+            "03:43",
+            "04:03",
+            "04:46",
+            "04:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is decided not to ban the party the court decided to impose partial financial penalties the party will not be banned but everybody should evaluate the decision very carefully the decision should be accepted as a very strong warning for akp six court members voted yes four people voted for imposing financial penalties and one person voted for rejection of the case",
+            "count": 3
+        },
+        {
+            "phrase": "they respect the court ruling but it is not the end we will fight until the end",
+            "count": 2
+        },
+        {
+            "phrase": "out of court settlement",
+            "count": 2
+        },
+        {
+            "phrase": "we have met or exceeded the constitutional requirements and their request for an injunction should be denied",
+            "count": 1
+        },
+        {
+            "phrase": "access denied in execution of an italian court authority injunction",
+            "count": 1
+        },
+        {
+            "phrase": "a motion to compel arbitration is analogous to a motion for injunctive relief",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not arguing that the commission wasn't right they were right it was a compliance issue and it's a fineable issue and we'll pay the fine",
+            "count": 1
+        }
+    ]
+}

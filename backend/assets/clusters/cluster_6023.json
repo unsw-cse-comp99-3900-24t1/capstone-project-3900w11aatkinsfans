@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "03:08",
+            "03:15"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this seller's vegetables are the freshest",
+            "count": 1
+        },
+        {
+            "phrase": "select grow and harvest crops to ensure peak qualities of freshness nutrition and taste",
+            "count": 1
+        },
+        {
+            "phrase": "i hadn't tasted this wine much since it was bottled last spring so when i brought a sip of it to my nose the other day i was astounded pure old-fashioned roses just like the books say litchis perhaps but certainly pineapple guava apricot honey the flavors are just as complex the balance chronometer precise the finish nearly endless the eleventh vintage of this wine may well be the best yet well known and always highly rated this is one of the northwest's best dessert wines every vintage",
+            "count": 1
+        }
+    ]
+}

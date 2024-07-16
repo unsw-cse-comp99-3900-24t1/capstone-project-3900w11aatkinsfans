@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:33"
+        ],
+        "label": "acts"
+    },
+    "clusterList": [
+        {
+            "phrase": "acts of bravery are not encouraged by law enforcement anywhere or anytime",
+            "count": 1
+        },
+        {
+            "phrase": "state not protecting innocent people",
+            "count": 1
+        }
+    ]
+}

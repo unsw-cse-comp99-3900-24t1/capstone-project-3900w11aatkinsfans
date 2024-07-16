@@ -1,0 +1,119 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            3,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:14",
+            "00:23",
+            "00:31",
+            "00:38",
+            "01:07",
+            "01:30",
+            "01:41",
+            "01:47",
+            "02:15",
+            "02:34",
+            "03:05",
+            "03:18",
+            "04:03",
+            "04:08",
+            "04:17",
+            "04:23"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "i believe it can be",
+            "count": 4
+        },
+        {
+            "phrase": "yes yes it is so",
+            "count": 2
+        },
+        {
+            "phrase": "yes that's it",
+            "count": 2
+        },
+        {
+            "phrase": "is that so",
+            "count": 2
+        },
+        {
+            "phrase": "well it may be",
+            "count": 1
+        },
+        {
+            "phrase": "well maybe it should be",
+            "count": 1
+        },
+        {
+            "phrase": "and isn't it",
+            "count": 1
+        },
+        {
+            "phrase": "ah yes it is",
+            "count": 1
+        },
+        {
+            "phrase": "yeah you are right",
+            "count": 1
+        },
+        {
+            "phrase": "it will be",
+            "count": 1
+        },
+        {
+            "phrase": "yeah it is",
+            "count": 1
+        },
+        {
+            "phrase": "it could be both",
+            "count": 1
+        },
+        {
+            "phrase": "not a problem is it",
+            "count": 1
+        },
+        {
+            "phrase": "well yes it is",
+            "count": 1
+        },
+        {
+            "phrase": "it could be",
+            "count": 1
+        },
+        {
+            "phrase": "oh here it is",
+            "count": 1
+        },
+        {
+            "phrase": "it sure is",
+            "count": 1
+        },
+        {
+            "phrase": "i think it is",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "05:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a special human resources sub committee will interview six candidates next week",
+            "count": 1
+        },
+        {
+            "phrase": "this six have been shortlisted and then the human resource selection committee will put out their selection to the board for its approval we will make an appointment within a couple of months",
+            "count": 1
+        },
+        {
+            "phrase": "i have offered to set up a meeting for the hrc senior staff including joe and directors with the national transactivists who are particularly angry at hrc right now it looks like october 2nd will be doable but it is still a work in progress",
+            "count": 1
+        }
+    ]
+}

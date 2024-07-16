@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "02:51",
+            "02:55",
+            "04:05",
+            "04:36"
+        ],
+        "label": "hold"
+    },
+    "clusterList": [
+        {
+            "phrase": "hold judges accountable",
+            "count": 2
+        },
+        {
+            "phrase": "i have been district attorney for the past eight years",
+            "count": 1
+        },
+        {
+            "phrase": "i have built a substantial record in improving the prosecution of criminal cases",
+            "count": 1
+        },
+        {
+            "phrase": "and you will be a splendid judge",
+            "count": 1
+        },
+        {
+            "phrase": "the public acts records and judicial proceedings of every other state",
+            "count": 1
+        }
+    ]
+}

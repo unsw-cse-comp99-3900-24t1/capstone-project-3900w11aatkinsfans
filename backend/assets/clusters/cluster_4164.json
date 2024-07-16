@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:42",
+            "04:45",
+            "04:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we think it common knowledge that the average person knows that municipal agents such as police and firemen and others are under the control and direction of the city governing body and more particularly under the direction and control of a single commissioner in measuring the performance or deficiencies of such groups praise or criticism is usually attached to the official in complete control of the body",
+            "count": 2
+        },
+        {
+            "phrase": "the commissioners of the city of montgomery",
+            "count": 1
+        },
+        {
+            "phrase": "they essentially trumped the county commissioners",
+            "count": 1
+        },
+        {
+            "phrase": "to the directions of the city inspectors",
+            "count": 1
+        }
+    ]
+}

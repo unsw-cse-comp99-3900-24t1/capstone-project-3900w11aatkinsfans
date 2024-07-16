@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "04:14",
+            "04:55"
+        ],
+        "label": "sex"
+    },
+    "clusterList": [
+        {
+            "phrase": "sex in the city's cosmopolitan cocktail along with vodka and lime juice cranberry juice isn't 100 juice",
+            "count": 1
+        },
+        {
+            "phrase": "more than a cocktail for hot flashes and fluctuating libido carla",
+            "count": 1
+        },
+        {
+            "phrase": "this vodka is different than all the others it retails for 49 95 it's distilled eight times from fresh organic kiwifruit it's very versatile",
+            "count": 1
+        }
+    ]
+}

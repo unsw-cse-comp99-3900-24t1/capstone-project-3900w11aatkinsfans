@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:50",
+            "03:34",
+            "03:55"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "they're central asian",
+            "count": 1
+        },
+        {
+            "phrase": "the ccba are old they're part of taiwan we are from red china",
+            "count": 1
+        },
+        {
+            "phrase": "7 chinese bros",
+            "count": 1
+        }
+    ]
+}

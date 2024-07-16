@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:09",
+            "01:14",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i told my husband oh my god a plane just flew over i've never seen one this low",
+            "count": 1
+        },
+        {
+            "phrase": "i couldn't hear the plane i just saw it but i thought it must've been headed to the airport about a mile away so i didn't think much of it",
+            "count": 1
+        },
+        {
+            "phrase": "tell me have you ever flown",
+            "count": 1
+        },
+        {
+            "phrase": "my dad is a pilot so when you hear about a plane crash it hits home",
+            "count": 1
+        },
+        {
+            "phrase": "they asked if i was sure that it was a plane and if we saw smoke and that kind of stuff",
+            "count": 1
+        }
+    ]
+}

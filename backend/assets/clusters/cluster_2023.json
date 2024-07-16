@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "00:47",
+            "01:05",
+            "01:13",
+            "01:38",
+            "01:47",
+            "02:33",
+            "02:52",
+            "04:45"
+        ],
+        "label": "let's"
+    },
+    "clusterList": [
+        {
+            "phrase": "whole of government",
+            "count": 3
+        },
+        {
+            "phrase": "a government big enough to give you everything you want is big enough to take away everything you have",
+            "count": 2
+        },
+        {
+            "phrase": "let's go back to the basics and say we're for small unintrusive government",
+            "count": 1
+        },
+        {
+            "phrase": "a government big enough to give you everything you want is strong enough to take everything you have",
+            "count": 1
+        },
+        {
+            "phrase": "every nation has the government it deserves",
+            "count": 1
+        },
+        {
+            "phrase": "a government big enough to do everything for you is big enough to take everything from you",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "01:25",
+            "02:00",
+            "02:43",
+            "03:18",
+            "04:36",
+            "04:38"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they needed to be killed",
+            "count": 2
+        },
+        {
+            "phrase": "they were running for their lives",
+            "count": 1
+        },
+        {
+            "phrase": "they run in and they had their guns out",
+            "count": 1
+        },
+        {
+            "phrase": "th-they were d d dead",
+            "count": 1
+        },
+        {
+            "phrase": "out of their reckless and disregard for human life lives could have been lost",
+            "count": 1
+        },
+        {
+            "phrase": "the groups wanted to kill him",
+            "count": 1
+        }
+    ]
+}

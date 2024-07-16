@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:36",
+            "00:56",
+            "01:32",
+            "01:33",
+            "01:43",
+            "01:51",
+            "02:23",
+            "02:24",
+            "02:55",
+            "03:43",
+            "03:54"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is a reason to hope that it's going to stay very low",
+            "count": 13
+        }
+    ]
+}

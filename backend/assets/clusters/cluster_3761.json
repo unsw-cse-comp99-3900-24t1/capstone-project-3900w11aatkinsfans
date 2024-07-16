@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            5
+        ],
+        "xLabels": [
+            "00:50"
+        ],
+        "label": "chill"
+    },
+    "clusterList": [
+        {
+            "phrase": "chill out twinkle toes you're gonna break those bricks in a minute",
+            "count": 1
+        },
+        {
+            "phrase": "ouch twinkle toes mind you don't break yourself",
+            "count": 1
+        },
+        {
+            "phrase": "pick your feet up twinkle toes i can feel your soles ripping",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not going to take it easy on you twinkle toes just because you lost your girlfriend",
+            "count": 1
+        },
+        {
+            "phrase": "i know you're there twinkle toes be careful",
+            "count": 1
+        }
+    ]
+}

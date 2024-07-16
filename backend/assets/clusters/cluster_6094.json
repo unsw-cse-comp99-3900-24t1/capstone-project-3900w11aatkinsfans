@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "02:22"
+        ],
+        "label": "age"
+    },
+    "clusterList": [
+        {
+            "phrase": "the winds of change were beginning to swirl",
+            "count": 2
+        },
+        {
+            "phrase": "age of turbulence",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "00:23",
+            "01:01",
+            "02:20",
+            "03:18",
+            "05:00"
+        ],
+        "label": "got"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think at the end of the day it was one of those situations that caught me off guard",
+            "count": 3
+        },
+        {
+            "phrase": "got away with it",
+            "count": 1
+        },
+        {
+            "phrase": "it caught me off guard",
+            "count": 1
+        },
+        {
+            "phrase": "i almost got caught for hell's sake",
+            "count": 1
+        },
+        {
+            "phrase": "got caught up in the moment",
+            "count": 1
+        }
+    ]
+}

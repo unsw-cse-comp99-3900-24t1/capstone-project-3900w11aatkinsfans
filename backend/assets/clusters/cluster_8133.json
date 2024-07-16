@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "04:00"
+        ],
+        "label": "diamond"
+    },
+    "clusterList": [
+        {
+            "phrase": "diamond in the rough",
+            "count": 1
+        },
+        {
+            "phrase": "diamonds in the back",
+            "count": 1
+        }
+    ]
+}

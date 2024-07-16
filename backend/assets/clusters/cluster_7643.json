@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "04:13",
+            "04:28"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a hot meal is just down the road if you're interested",
+            "count": 1
+        },
+        {
+            "phrase": "they don't have that on thursday honey would you like chicken strips",
+            "count": 1
+        },
+        {
+            "phrase": "chicken strips i want chicken strips",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "02:44",
+            "03:37",
+            "04:05",
+            "04:33"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are public streets",
+            "count": 1
+        },
+        {
+            "phrase": "the traffickers won't just give up",
+            "count": 1
+        },
+        {
+            "phrase": "where the streets have no name",
+            "count": 1
+        },
+        {
+            "phrase": "the streets were lined with people",
+            "count": 1
+        },
+        {
+            "phrase": "people aren't getting in the streets",
+            "count": 1
+        }
+    ]
+}

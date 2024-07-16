@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:24",
+            "00:58",
+            "01:38",
+            "01:47",
+            "02:01",
+            "02:19",
+            "03:00",
+            "03:41",
+            "04:02",
+            "04:19",
+            "05:01"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah i was more relaxed",
+            "count": 8
+        },
+        {
+            "phrase": "i really freaked out",
+            "count": 1
+        },
+        {
+            "phrase": "oh now i'm nervous",
+            "count": 1
+        },
+        {
+            "phrase": "why are you nervous",
+            "count": 1
+        },
+        {
+            "phrase": "we were scared we were screaming and shaking",
+            "count": 1
+        },
+        {
+            "phrase": "i wasn't that nervous",
+            "count": 1
+        }
+    ]
+}

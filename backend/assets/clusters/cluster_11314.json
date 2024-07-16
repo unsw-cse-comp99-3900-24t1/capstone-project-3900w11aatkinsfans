@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:55"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to hell with that magic",
+            "count": 1
+        },
+        {
+            "phrase": "to hell with it",
+            "count": 1
+        }
+    ]
+}

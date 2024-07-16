@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:05",
+            "03:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best local wine of the show went to a shiraz and silver medals were won by viognier and semillon among the bronze medals we had a merlot cabernet sauvignon chardonnay shiraz shiraz viognier verdelho and a chardonnay semillon blend",
+            "count": 1
+        },
+        {
+            "phrase": "the champagne of beers",
+            "count": 1
+        },
+        {
+            "phrase": "impressive selection of beer",
+            "count": 1
+        }
+    ]
+}

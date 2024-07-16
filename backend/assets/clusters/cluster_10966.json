@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "03:43"
+        ],
+        "label": "everything"
+    },
+    "clusterList": [
+        {
+            "phrase": "everything starts snowballing",
+            "count": 1
+        },
+        {
+            "phrase": "is it snowing",
+            "count": 1
+        }
+    ]
+}

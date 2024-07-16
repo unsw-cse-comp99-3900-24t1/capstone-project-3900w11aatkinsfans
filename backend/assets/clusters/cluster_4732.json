@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:53",
+            "03:35"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some poems don't rhyme and some stories don't have a clear beginning middle and end life is about not knowing having to change taking the moment and making the best of it without knowing what's going to happen next",
+            "count": 4
+        }
+    ]
+}

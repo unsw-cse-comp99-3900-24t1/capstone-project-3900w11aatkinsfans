@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:01",
+            "02:20",
+            "04:07"
+        ],
+        "label": "giving"
+    },
+    "clusterList": [
+        {
+            "phrase": "giving into his appetite",
+            "count": 2
+        },
+        {
+            "phrase": "i'm serious he's going to be hungry",
+            "count": 1
+        },
+        {
+            "phrase": "i bet that man is hungry let's make him a strawberry one of the cookie cutter pieces for play-doh",
+            "count": 1
+        }
+    ]
+}

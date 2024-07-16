@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "03:50",
+            "04:13",
+            "04:33"
+        ],
+        "label": "explain"
+    },
+    "clusterList": [
+        {
+            "phrase": "explain please for me",
+            "count": 1
+        },
+        {
+            "phrase": "it's a calculation",
+            "count": 1
+        },
+        {
+            "phrase": "how else can you explain it",
+            "count": 1
+        },
+        {
+            "phrase": "i really need someone to explain this stuff so that i can understand it",
+            "count": 1
+        },
+        {
+            "phrase": "could someone anyone explain this to me please",
+            "count": 1
+        }
+    ]
+}

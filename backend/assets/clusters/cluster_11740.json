@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:00"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some of my little friends say there is no santa claus",
+            "count": 1
+        },
+        {
+            "phrase": "please tell me the truth is there a santa claus",
+            "count": 1
+        }
+    ]
+}

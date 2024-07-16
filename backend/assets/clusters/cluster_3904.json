@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:32",
+            "02:02",
+            "02:09",
+            "03:27"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah first scene",
+            "count": 3
+        },
+        {
+            "phrase": "okay so i'm going to be like this during the scene",
+            "count": 1
+        },
+        {
+            "phrase": "eff this i'm going to see the movie now",
+            "count": 1
+        }
+    ]
+}

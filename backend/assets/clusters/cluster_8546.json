@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:09"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a hipper crowd of shushers",
+            "count": 1
+        },
+        {
+            "phrase": "there were people everywhere singing dancing and praying in groups",
+            "count": 1
+        }
+    ]
+}

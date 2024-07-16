@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "05:01"
+        ],
+        "label": "officer"
+    },
+    "clusterList": [
+        {
+            "phrase": "officer and a gentlemen",
+            "count": 1
+        },
+        {
+            "phrase": "officials leaders the gentlemen have arrived",
+            "count": 1
+        }
+    ]
+}

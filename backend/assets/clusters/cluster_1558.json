@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:15",
+            "02:05",
+            "02:28",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "power"
+    },
+    "clusterList": [
+        {
+            "phrase": "how will the dhs provide appropriate oversight to ensure that the contractors support efforts do not intrude on inherently governmental functions",
+            "count": 4
+        },
+        {
+            "phrase": "i am concerned that the scope of the implementation and the potential overuse of the new federal power line siting authority go beyond the narrow backstop authority that the committee intended when it crafted the provision",
+            "count": 4
+        },
+        {
+            "phrase": "power bill reduction and stabilization act of 2007",
+            "count": 1
+        },
+        {
+            "phrase": "if the executive branch believes it's convenient to request a new fast-track law for specific objectives or urgent measures it will be renewed",
+            "count": 1
+        },
+        {
+            "phrase": "unfortunately the infrastructure bank act hasn't gotten far in congress but it does serve as a tiny step in the right direction",
+            "count": 1
+        }
+    ]
+}

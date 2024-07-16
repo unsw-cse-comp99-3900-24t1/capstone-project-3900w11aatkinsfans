@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "00:32",
+            "01:57",
+            "02:08",
+            "02:22",
+            "03:38",
+            "03:48"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the surge is a great triumph",
+            "count": 2
+        },
+        {
+            "phrase": "a significant reason for this sustained progress",
+            "count": 2
+        },
+        {
+            "phrase": "the reason for this sustained progress is the success of the surge",
+            "count": 1
+        },
+        {
+            "phrase": "significant reason for this sustained progress is the success of the surge",
+            "count": 1
+        },
+        {
+            "phrase": "the success of the the surge is obvious to all",
+            "count": 1
+        },
+        {
+            "phrase": "surge is a success",
+            "count": 1
+        }
+    ]
+}

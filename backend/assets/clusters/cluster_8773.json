@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "04:24"
+        ],
+        "label": "wanting"
+    },
+    "clusterList": [
+        {
+            "phrase": "wanting to be a singer is definitely related to my father who always sang to me when i was little",
+            "count": 1
+        },
+        {
+            "phrase": "my mom and dad had all the great records",
+            "count": 1
+        }
+    ]
+}

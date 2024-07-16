@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:28"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why are they lanterns they give light",
+            "count": 1
+        },
+        {
+            "phrase": "because the light is so much better",
+            "count": 1
+        }
+    ]
+}

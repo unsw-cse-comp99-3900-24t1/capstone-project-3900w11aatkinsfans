@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:52"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this settlement is a positive development in the company's efforts to resolve the class action lawsuit and represents a major step forward in closing this chapter of the company's history",
+            "count": 1
+        },
+        {
+            "phrase": "this important settlement is an outstanding recovery for the defrauded investors not only is it a substantial percentage of estimated investment losses but monster's former ceo andrew mckelvey will justifiably bear some financial responsibility for the company's wrongdoing this case represents an important win in the battle against stock options backdating fraud middlesex should be applauded for its leadership role",
+            "count": 1
+        }
+    ]
+}

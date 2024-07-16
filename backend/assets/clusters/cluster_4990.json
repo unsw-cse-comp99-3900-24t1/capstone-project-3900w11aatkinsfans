@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:50",
+            "03:15",
+            "04:49"
+        ],
+        "label": "angelina"
+    },
+    "clusterList": [
+        {
+            "phrase": "angelina would own the part",
+            "count": 1
+        },
+        {
+            "phrase": "angelina would own the part my industry friends tell me she has already made inquiries about the role i can understand how it would pique her interest catwoman is batman's one true love",
+            "count": 1
+        },
+        {
+            "phrase": "angelina jolie wants to be catwoman",
+            "count": 1
+        },
+        {
+            "phrase": "rachel weisz announced that she will not be reprising her role of evelyn due to different interests with the screenplay",
+            "count": 1
+        }
+    ]
+}

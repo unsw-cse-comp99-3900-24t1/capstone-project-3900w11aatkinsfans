@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "03:09"
+        ],
+        "label": "trekking"
+    },
+    "clusterList": [
+        {
+            "phrase": "trekking acrss the wrld",
+            "count": 1
+        },
+        {
+            "phrase": "across the outback road race",
+            "count": 1
+        }
+    ]
+}

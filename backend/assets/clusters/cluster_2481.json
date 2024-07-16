@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:10",
+            "01:20",
+            "02:33",
+            "03:09",
+            "04:05",
+            "04:32"
+        ],
+        "label": "hot"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is thin soup",
+            "count": 2
+        },
+        {
+            "phrase": "hot soup much better than cold salad",
+            "count": 1
+        },
+        {
+            "phrase": "take 98 warren stirs soup",
+            "count": 1
+        },
+        {
+            "phrase": "what's a soup kitchen",
+            "count": 1
+        },
+        {
+            "phrase": "this soup is the perfect way to warm up on a cool autumn day",
+            "count": 1
+        },
+        {
+            "phrase": "head fish soup",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:28",
+            "03:55",
+            "04:09"
+        ],
+        "label": "clinton's"
+    },
+    "clusterList": [
+        {
+            "phrase": "clinton's version of bush",
+            "count": 2
+        },
+        {
+            "phrase": "3rd bush term",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:15",
+            "02:47"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for official use only",
+            "count": 4
+        },
+        {
+            "phrase": "for the protection of your files",
+            "count": 1
+        }
+    ]
+}

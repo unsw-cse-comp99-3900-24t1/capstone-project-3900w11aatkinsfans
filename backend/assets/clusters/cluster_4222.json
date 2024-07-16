@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:03",
+            "04:09",
+            "04:33"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it kinda reminds me of myself",
+            "count": 1
+        },
+        {
+            "phrase": "it's a terrible feeling because i feel like where do i go now",
+            "count": 1
+        },
+        {
+            "phrase": "it makes you cringe kind of scary",
+            "count": 1
+        },
+        {
+            "phrase": "it's really an eerie icky feeling it really makes you feel bad it's terrible",
+            "count": 1
+        },
+        {
+            "phrase": "i don't like that feeling per se i'm uncomfortable with it",
+            "count": 1
+        }
+    ]
+}

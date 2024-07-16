@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:51",
+            "02:57",
+            "03:44",
+            "04:04",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't know if somebody did this as a joke but as far as i know we have no plans of opening a place there",
+            "count": 1
+        },
+        {
+            "phrase": "we hope that this visit will be a step in that direction",
+            "count": 1
+        },
+        {
+            "phrase": "tourists are not being",
+            "count": 1
+        },
+        {
+            "phrase": "we are going to travel in a new city",
+            "count": 1
+        },
+        {
+            "phrase": "and then we'll do some touristing ourselves",
+            "count": 1
+        },
+        {
+            "phrase": "we just hope the tourists start to come back",
+            "count": 1
+        }
+    ]
+}

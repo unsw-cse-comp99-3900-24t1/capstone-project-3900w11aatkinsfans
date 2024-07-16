@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:24",
+            "02:00",
+            "03:00",
+            "04:03",
+            "04:55"
+        ],
+        "label": "merrill"
+    },
+    "clusterList": [
+        {
+            "phrase": "no one was expecting the idea of the star-ledger being sold",
+            "count": 2
+        },
+        {
+            "phrase": "merrill lynch's decision to sell a good chunk of its remaining cdos at 22 cents to the dollar has been widely praised as the firm finally recognizing the full extent of its losses on these toxic instruments this batch of 30 6 billion of cdos was already marked down to 11 1 billion now with the sale of it to lone star at a price of 6 7 billion merrill lynch is taking another 4 4 billion write-down and selling it at 22 of the original face value but is this a market-based sale no way calling this transaction a sale is a joke",
+            "count": 1
+        },
+        {
+            "phrase": "they offered us a considered buyout option for it",
+            "count": 1
+        },
+        {
+            "phrase": "the star-ledger announces large-scale buyout offer",
+            "count": 1
+        },
+        {
+            "phrase": "the owners of the star-ledger announced today they will sell the newspaper if they cannot win union concessions and persuade a large number of non-union full-time workers to take buyouts in the next two months",
+            "count": 1
+        },
+        {
+            "phrase": "the sale is among the self storage industry's largest-ever fee-simple transactions",
+            "count": 1
+        }
+    ]
+}

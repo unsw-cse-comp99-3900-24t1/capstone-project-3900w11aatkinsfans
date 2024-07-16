@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:43",
+            "02:25",
+            "03:18",
+            "03:51",
+            "04:05",
+            "05:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "they don't want me to tell you that",
+            "count": 2
+        },
+        {
+            "phrase": "i just want them to know that they didn't break me",
+            "count": 1
+        },
+        {
+            "phrase": "they're aware they asked the question i'd been honest",
+            "count": 1
+        },
+        {
+            "phrase": "they don't let me",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know maybe you'd be better off telling",
+            "count": 1
+        },
+        {
+            "phrase": "what they don't want you to know",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "01:20",
+            "01:50",
+            "01:57",
+            "02:02",
+            "02:22",
+            "04:03",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i already played against him six times and it was always close so i knew that i'm going to have a chance today",
+            "count": 5
+        },
+        {
+            "phrase": "i go against him every day in practice and i haven't seen him take one rep off yet",
+            "count": 2
+        },
+        {
+            "phrase": "i thought i played well against hamilton last week so i've shown the manager i can play at first team level",
+            "count": 1
+        },
+        {
+            "phrase": "it's good i knew moss personally and i hate to see him go at the same time it kind of helps my chances",
+            "count": 1
+        }
+    ]
+}

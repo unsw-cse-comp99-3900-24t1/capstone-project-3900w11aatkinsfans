@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:20",
+            "03:19"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's all make-believe isn't it",
+            "count": 2
+        },
+        {
+            "phrase": "an inescapable reality",
+            "count": 1
+        }
+    ]
+}

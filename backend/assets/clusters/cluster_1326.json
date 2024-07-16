@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:25",
+            "00:53",
+            "01:06",
+            "01:11",
+            "01:13",
+            "01:29",
+            "02:11",
+            "04:03",
+            "04:18",
+            "04:33",
+            "04:46"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was a hard decision i know i'm doing it for the right reasons",
+            "count": 5
+        },
+        {
+            "phrase": "at this point i'm not ready to make that decision",
+            "count": 1
+        },
+        {
+            "phrase": "the decision was mine and mine alone",
+            "count": 1
+        },
+        {
+            "phrase": "i still have to go out and work and do my job and compete and i will do that it just made my decision easier",
+            "count": 1
+        },
+        {
+            "phrase": "i have to make that decision",
+            "count": 1
+        },
+        {
+            "phrase": "at first there was some doubt about why i was wanting to do it",
+            "count": 1
+        },
+        {
+            "phrase": "i guess i don't really have a choice i think i'll just have to deal with it",
+            "count": 1
+        },
+        {
+            "phrase": "it is a decision i made for myself i like it and that's all that counts for young people think about it before you just jump off and do something you may regret later",
+            "count": 1
+        }
+    ]
+}

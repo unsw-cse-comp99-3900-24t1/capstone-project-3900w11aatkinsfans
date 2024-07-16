@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:03"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the california report",
+            "count": 1
+        },
+        {
+            "phrase": "california government in national perspective 5th edition",
+            "count": 1
+        }
+    ]
+}

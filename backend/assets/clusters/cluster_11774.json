@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "03:50"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not here everywhere else yeah it's pretty good",
+            "count": 1
+        },
+        {
+            "phrase": "it's a little bittersweet i really enjoyed my time here",
+            "count": 1
+        }
+    ]
+}

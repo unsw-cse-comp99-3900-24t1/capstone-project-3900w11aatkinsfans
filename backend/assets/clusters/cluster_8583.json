@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:19"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's been a while since i've posted an update",
+            "count": 1
+        },
+        {
+            "phrase": "after several hours yes we've had to wait this long a number of times recently all i hear is",
+            "count": 1
+        }
+    ]
+}

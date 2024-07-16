@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:09",
+            "03:15",
+            "03:17",
+            "03:29",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:03",
+            "04:13",
+            "04:23",
+            "04:28",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the thoughtless and selfish act took tania from us forever and put an end to the bright future that would have been tania's",
+            "count": 13
+        },
+        {
+            "phrase": "a thoughtless selfish act took tania from us forever and put an end to the bright future that would have been tania's",
+            "count": 2
+        },
+        {
+            "phrase": "the only thing that would bring satisfaction is to have tania restored to us",
+            "count": 2
+        }
+    ]
+}

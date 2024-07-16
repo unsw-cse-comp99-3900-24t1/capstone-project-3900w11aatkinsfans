@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            3,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:11",
+            "01:37",
+            "03:11",
+            "04:13",
+            "04:24",
+            "04:38"
+        ],
+        "label": "those"
+    },
+    "clusterList": [
+        {
+            "phrase": "those who cannot remember the past are condemned to repeat it",
+            "count": 10
+        },
+        {
+            "phrase": "turn back the hands of time",
+            "count": 1
+        },
+        {
+            "phrase": "who thus emerges as capable of both forgetting and remembering the past",
+            "count": 1
+        },
+        {
+            "phrase": "it's important to remember that history is always unfolding before our eyes",
+            "count": 1
+        }
+    ]
+}

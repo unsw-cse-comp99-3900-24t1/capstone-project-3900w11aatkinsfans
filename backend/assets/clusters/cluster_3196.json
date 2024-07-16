@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "02:15",
+            "02:55",
+            "03:05",
+            "03:37",
+            "04:13"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if a man is caught with a pet the pet will be immediately confiscated and the man will be forced to sign a document pledging not to repeat the act",
+            "count": 6
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:54",
+            "01:46",
+            "04:24"
+        ],
+        "label": "or"
+    },
+    "clusterList": [
+        {
+            "phrase": "or just lounge by the pool and soak in the sexually charged atmosphere",
+            "count": 2
+        },
+        {
+            "phrase": "if there is a pool a spa or any body of water it has to be either dry or clean",
+            "count": 1
+        },
+        {
+            "phrase": "you can bring wine to the pool",
+            "count": 1
+        }
+    ]
+}

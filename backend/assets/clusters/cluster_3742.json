@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "00:57",
+            "01:11",
+            "03:05",
+            "03:46"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the style of organized crime",
+            "count": 1
+        },
+        {
+            "phrase": "social organization and drug law enforcement",
+            "count": 1
+        },
+        {
+            "phrase": "sophisticated wealthy and vast criminal organization",
+            "count": 1
+        },
+        {
+            "phrase": "one of the most complex crime fighters around",
+            "count": 1
+        },
+        {
+            "phrase": "an epic tale of crime and corruption within the triad crime syndicate",
+            "count": 1
+        }
+    ]
+}

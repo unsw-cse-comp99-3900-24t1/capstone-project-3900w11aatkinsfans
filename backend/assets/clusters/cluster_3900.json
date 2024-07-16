@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "01:46",
+            "02:43",
+            "03:22",
+            "04:21"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's very flattering",
+            "count": 1
+        },
+        {
+            "phrase": "but at the same time it was flattering",
+            "count": 1
+        },
+        {
+            "phrase": "um i guess i'll take that as a compliment",
+            "count": 1
+        },
+        {
+            "phrase": "it's flattering to be mentioned",
+            "count": 1
+        },
+        {
+            "phrase": "it's flattering i'll say that much",
+            "count": 1
+        }
+    ]
+}

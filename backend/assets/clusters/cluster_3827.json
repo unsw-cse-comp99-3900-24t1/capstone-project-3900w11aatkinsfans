@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:54"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so how'd you like my cooking",
+            "count": 1
+        },
+        {
+            "phrase": "gosh im really hungry wonder what you made",
+            "count": 1
+        },
+        {
+            "phrase": "hey wat about the cake you made i want to taste them",
+            "count": 1
+        },
+        {
+            "phrase": "so how'd you like the cake",
+            "count": 1
+        },
+        {
+            "phrase": "these were delicious sweet but not cloying the cake was very tender and moist and the icing was soft",
+            "count": 1
+        }
+    ]
+}

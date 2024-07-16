@@ -1,0 +1,141 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            4,
+            1,
+            2,
+            1,
+            1,
+            3,
+            5,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:01",
+            "00:15",
+            "00:29",
+            "01:23",
+            "01:50",
+            "02:28",
+            "02:37",
+            "03:09",
+            "03:12",
+            "03:41",
+            "03:46",
+            "03:48",
+            "03:54",
+            "03:57",
+            "04:04",
+            "04:18",
+            "04:23",
+            "04:24",
+            "04:28",
+            "04:32",
+            "04:46",
+            "04:47"
+        ],
+        "label": "hellboy"
+    },
+    "clusterList": [
+        {
+            "phrase": "pirates of the caribbean",
+            "count": 6
+        },
+        {
+            "phrase": "the blues brothers",
+            "count": 3
+        },
+        {
+            "phrase": "hellboy the wild hunt",
+            "count": 2
+        },
+        {
+            "phrase": "barney's great adventure the movie",
+            "count": 2
+        },
+        {
+            "phrase": "the adventures of gulliver",
+            "count": 2
+        },
+        {
+            "phrase": "the new adventures of huckleberry finn",
+            "count": 2
+        },
+        {
+            "phrase": "the awesome adventures of frankie stargazer",
+            "count": 2
+        },
+        {
+            "phrase": "tales of the ookie brothers",
+            "count": 2
+        },
+        {
+            "phrase": "the lost boys 2",
+            "count": 1
+        },
+        {
+            "phrase": "the bosko trilogy",
+            "count": 1
+        },
+        {
+            "phrase": "the boondock saints",
+            "count": 1
+        },
+        {
+            "phrase": "butch cassidy and the sundance kid",
+            "count": 1
+        },
+        {
+            "phrase": "the adventures of dotty and bluebell",
+            "count": 1
+        },
+        {
+            "phrase": "the beautiful outsiders",
+            "count": 1
+        },
+        {
+            "phrase": "the pirates of the caribbean",
+            "count": 1
+        },
+        {
+            "phrase": "pirates of the great lakes",
+            "count": 1
+        },
+        {
+            "phrase": "the wayans brothers",
+            "count": 1
+        },
+        {
+            "phrase": "the adventures of rocky and bullwinkle",
+            "count": 1
+        },
+        {
+            "phrase": "tales of the ookie brothers a book for children and adults who love dogs",
+            "count": 1
+        },
+        {
+            "phrase": "legends of the fall",
+            "count": 1
+        },
+        {
+            "phrase": "lost boys the tribe",
+            "count": 1
+        }
+    ]
+}

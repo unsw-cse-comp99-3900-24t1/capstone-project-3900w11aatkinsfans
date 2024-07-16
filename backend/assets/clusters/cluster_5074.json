@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:33",
+            "04:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i got my associate's degree but i was definitely planning on going and getting a higher degree in criminal justice my ultimate goal was to be a police officer",
+            "count": 1
+        },
+        {
+            "phrase": "being a police officer is definitely something i wanted to do but now that i'm into mma i've totally fallen in love with the sport and i'm starting to realize that i do have potential with my hard work to maybe one day be a world champion",
+            "count": 1
+        },
+        {
+            "phrase": "but someone was asking me the other day if you were planning on going into the professional program and i realized i wasn't sure that i'd asked you what's your goal",
+            "count": 1
+        },
+        {
+            "phrase": "originally i wanted to be an engineer",
+            "count": 1
+        }
+    ]
+}

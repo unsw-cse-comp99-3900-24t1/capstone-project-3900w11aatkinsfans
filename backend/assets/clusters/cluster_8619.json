@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:47"
+        ],
+        "label": "sometimes"
+    },
+    "clusterList": [
+        {
+            "phrase": "sometimes they'll do 10 so i'll do 8 it's pretty competitive i guess",
+            "count": 1
+        },
+        {
+            "phrase": "if you start from almost zero it's easy to triple",
+            "count": 1
+        }
+    ]
+}

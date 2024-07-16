@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "02:01",
+            "02:10",
+            "02:25",
+            "04:37"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "yes i am guilty what do you want me to say",
+            "count": 2
+        },
+        {
+            "phrase": "when you admit to guilt the next thing people say is what are you going to do to make it right",
+            "count": 1
+        },
+        {
+            "phrase": "well if everyone else is doing it there's no need to feel guilty",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not going to blame my actions on being messed up on drugs or anything else like that i'm not going to do that at all but i'm not the big evil person that everyone thinks i am",
+            "count": 1
+        },
+        {
+            "phrase": "this will be the first time in my life that for the most part i've taken responsibility for anything i've ever done",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            12,
+            2,
+            12,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:10",
+            "01:37",
+            "01:51",
+            "02:18",
+            "02:39",
+            "03:28",
+            "03:38",
+            "03:39",
+            "04:08",
+            "04:09",
+            "04:45",
+            "04:46"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "the path to 9 11",
+            "count": 12
+        },
+        {
+            "phrase": "9 11 business as usual",
+            "count": 4
+        },
+        {
+            "phrase": "lying about 9 11 easy as abc",
+            "count": 4
+        },
+        {
+            "phrase": "based on the work of the 9 11 commission",
+            "count": 4
+        },
+        {
+            "phrase": "9 11 was an inside job prisonplanet com",
+            "count": 3
+        },
+        {
+            "phrase": "9 11 was a inside job",
+            "count": 2
+        },
+        {
+            "phrase": "9-11 six years later",
+            "count": 2
+        },
+        {
+            "phrase": "between 2001 and 2006 we were busy creating homeland security that clinton could have done after the first attack on the world trade center in 1993",
+            "count": 2
+        },
+        {
+            "phrase": "it was interesting it was soon after 9 11",
+            "count": 1
+        },
+        {
+            "phrase": "and then september 11 happened",
+            "count": 1
+        },
+        {
+            "phrase": "path to 9 11",
+            "count": 1
+        },
+        {
+            "phrase": "the terrorists who flew 2 airplanes into the world trade center buildings were wrong and it was an evil act",
+            "count": 1
+        }
+    ]
+}

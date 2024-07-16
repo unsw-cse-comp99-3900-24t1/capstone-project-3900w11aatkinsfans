@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "02:42",
+            "03:18",
+            "03:29"
+        ],
+        "label": "where"
+    },
+    "clusterList": [
+        {
+            "phrase": "where do you live",
+            "count": 1
+        },
+        {
+            "phrase": "never know where everyone is",
+            "count": 1
+        },
+        {
+            "phrase": "where the heck are you crystal",
+            "count": 1
+        },
+        {
+            "phrase": "you know i don't know where the fuck i am",
+            "count": 1
+        }
+    ]
+}

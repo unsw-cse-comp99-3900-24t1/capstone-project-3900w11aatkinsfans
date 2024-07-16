@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "00:48",
+            "04:41"
+        ],
+        "label": "we'd"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'd prank each other all the time",
+            "count": 1
+        },
+        {
+            "phrase": "we would always do whatever's coolest for the game",
+            "count": 1
+        },
+        {
+            "phrase": "we do the weird stuff",
+            "count": 1
+        },
+        {
+            "phrase": "we'd do the weird stuff",
+            "count": 1
+        }
+    ]
+}

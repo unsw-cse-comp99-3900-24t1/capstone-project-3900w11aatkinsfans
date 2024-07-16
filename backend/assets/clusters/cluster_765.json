@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:10",
+            "00:48",
+            "01:40",
+            "02:13",
+            "02:15",
+            "02:26",
+            "02:32",
+            "03:15",
+            "03:36",
+            "03:45",
+            "03:48",
+            "04:03",
+            "04:05",
+            "04:13",
+            "04:41",
+            "04:50"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't know",
+            "count": 4
+        },
+        {
+            "phrase": "it's not like we know and we're not saying",
+            "count": 2
+        },
+        {
+            "phrase": "we don't want to be told",
+            "count": 2
+        },
+        {
+            "phrase": "we don't want to look at this stuff",
+            "count": 2
+        },
+        {
+            "phrase": "so what does that actually mean we don't know",
+            "count": 1
+        },
+        {
+            "phrase": "i can tell you we have nothing to do with it",
+            "count": 1
+        },
+        {
+            "phrase": "neither of us knew",
+            "count": 1
+        },
+        {
+            "phrase": "we know not what",
+            "count": 1
+        },
+        {
+            "phrase": "we have nothing to do with that",
+            "count": 1
+        },
+        {
+            "phrase": "we just don't know sometimes",
+            "count": 1
+        },
+        {
+            "phrase": "we already know that",
+            "count": 1
+        },
+        {
+            "phrase": "anything else we don't know",
+            "count": 1
+        }
+    ]
+}

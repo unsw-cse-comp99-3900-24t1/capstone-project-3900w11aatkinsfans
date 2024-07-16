@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:11",
+            "02:51",
+            "03:55",
+            "04:27"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people are prepared for the worst but it is still going to be pretty ugly",
+            "count": 3
+        },
+        {
+            "phrase": "it's not going to be pretty",
+            "count": 1
+        },
+        {
+            "phrase": "it's hideous no one will be willing to buy it and it scares the family to even look at it",
+            "count": 1
+        }
+    ]
+}

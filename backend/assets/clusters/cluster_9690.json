@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "05:05"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when the time is ripe",
+            "count": 1
+        },
+        {
+            "phrase": "ripe for the picking",
+            "count": 1
+        }
+    ]
+}

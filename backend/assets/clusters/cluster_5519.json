@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:13",
+            "01:15",
+            "04:31"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just moved my mom out to atlanta with me i bought her a townhouse so i don't have to go too far she's my closest companion",
+            "count": 2
+        },
+        {
+            "phrase": "we have this every year for the people who have moved into monroe township within the past eight to 10 months",
+            "count": 1
+        },
+        {
+            "phrase": "we come back on a regular basis to visit family and relocating to the houston area is something we've been looking at for some time",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "02:39",
+            "03:47",
+            "03:48",
+            "03:55"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we think part of this site is community land",
+            "count": 1
+        },
+        {
+            "phrase": "we want the community to feel part of this place",
+            "count": 1
+        },
+        {
+            "phrase": "i think we would fit in very very well and would like to be contributing to the community",
+            "count": 1
+        },
+        {
+            "phrase": "i like to do something for the community",
+            "count": 1
+        },
+        {
+            "phrase": "it's the community what's rewarding is coming together to create a place in the city that's beneficial to the community and yourself and your friends",
+            "count": 1
+        }
+    ]
+}

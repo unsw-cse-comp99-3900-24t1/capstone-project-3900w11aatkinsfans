@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:02"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no option is off the table",
+            "count": 2
+        },
+        {
+            "phrase": "all options are on the table",
+            "count": 2
+        },
+        {
+            "phrase": "you pick 2 option with the",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "04:18"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have you heard of the new chinese restaurant near the studio",
+            "count": 1
+        },
+        {
+            "phrase": "one in the chinese restaurant",
+            "count": 1
+        },
+        {
+            "phrase": "sanlitun is a very famous place in beijing it's centrally located if you look at this iconic area here it really will become a very unique shopping experience",
+            "count": 1
+        }
+    ]
+}

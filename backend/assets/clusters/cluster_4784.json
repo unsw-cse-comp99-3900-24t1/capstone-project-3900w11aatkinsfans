@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:05",
+            "03:59",
+            "05:04"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm homeless because i choose to be",
+            "count": 1
+        },
+        {
+            "phrase": "homeless guy you're the first one to buzz in give me your answer",
+            "count": 1
+        },
+        {
+            "phrase": "always ask about homelessness",
+            "count": 1
+        },
+        {
+            "phrase": "the face of homelessness",
+            "count": 1
+        }
+    ]
+}

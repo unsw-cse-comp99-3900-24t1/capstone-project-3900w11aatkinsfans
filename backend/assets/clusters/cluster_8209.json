@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:22"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an increasingly dishonourable campaign",
+            "count": 1
+        },
+        {
+            "phrase": "these campaigns are tough",
+            "count": 1
+        }
+    ]
+}

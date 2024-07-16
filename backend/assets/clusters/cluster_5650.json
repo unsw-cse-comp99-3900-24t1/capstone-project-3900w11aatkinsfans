@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:41",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the good book teach you",
+            "count": 1
+        },
+        {
+            "phrase": "i'd like to buy more supplemental materials so i'm not just using textbooks and materials that come with it",
+            "count": 1
+        },
+        {
+            "phrase": "the southern review of books",
+            "count": 1
+        }
+    ]
+}

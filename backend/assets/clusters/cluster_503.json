@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            3,
+            1,
+            1,
+            2,
+            3,
+            2,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:20",
+            "00:23",
+            "00:27",
+            "00:29",
+            "00:51",
+            "01:15",
+            "01:37",
+            "01:56",
+            "02:22",
+            "03:18",
+            "03:19",
+            "04:08",
+            "04:13"
+        ],
+        "label": "her"
+    },
+    "clusterList": [
+        {
+            "phrase": "her phone got cut off",
+            "count": 6
+        },
+        {
+            "phrase": "she was kind of secluded she'd talk but not much",
+            "count": 6
+        },
+        {
+            "phrase": "when i first met her my hand was down her blouse",
+            "count": 3
+        },
+        {
+            "phrase": "she hustled us",
+            "count": 1
+        },
+        {
+            "phrase": "seemed like things were fine and then all of a sudden she just said that she thought that we were different people now what does that even mean do you know because i sure as fuck don't i just miss her so much my name's brian by the way",
+            "count": 1
+        },
+        {
+            "phrase": "dude when we were talking she wasn't looking she was gazing",
+            "count": 1
+        },
+        {
+            "phrase": "so i was typing to you and there was dead silence on the phone and forgot i was on the phone with my mom and she randomly started talking and it startled me",
+            "count": 1
+        },
+        {
+            "phrase": "well yes earlier on i mean she seemed nice",
+            "count": 1
+        },
+        {
+            "phrase": "we were but i guess i'm not good enough for her or somethin",
+            "count": 1
+        },
+        {
+            "phrase": "she said we were gonna start a family together anyway and then she goes behind my back and does somethin like that",
+            "count": 1
+        },
+        {
+            "phrase": "just forget it she wasn't going to tell you unless you guys had a nasty break-up",
+            "count": 1
+        },
+        {
+            "phrase": "oh shoot do you think she heard us",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            6,
+            6,
+            1,
+            3,
+            3,
+            1,
+            2,
+            2,
+            6,
+            1,
+            3,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:06",
+            "00:28",
+            "00:36",
+            "00:37",
+            "01:18",
+            "01:23",
+            "01:33",
+            "01:57",
+            "02:25",
+            "03:06",
+            "03:14",
+            "03:18",
+            "03:48",
+            "04:06",
+            "04:13",
+            "04:37",
+            "04:38"
+        ],
+        "label": "close"
+    },
+    "clusterList": [
+        {
+            "phrase": "this play closes tonight don't miss it",
+            "count": 23
+        },
+        {
+            "phrase": "how to play",
+            "count": 4
+        },
+        {
+            "phrase": "play for a run",
+            "count": 4
+        },
+        {
+            "phrase": "state of play",
+            "count": 3
+        },
+        {
+            "phrase": "too short to play",
+            "count": 3
+        },
+        {
+            "phrase": "playing by the rules",
+            "count": 2
+        },
+        {
+            "phrase": "close and play",
+            "count": 1
+        },
+        {
+            "phrase": "play with it",
+            "count": 1
+        },
+        {
+            "phrase": "playing the game",
+            "count": 1
+        },
+        {
+            "phrase": "level the playing field",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "03:24"
+        ],
+        "label": "kind"
+    },
+    "clusterList": [
+        {
+            "phrase": "kind words can be short and easy to speak but their echoes are truly endless",
+            "count": 1
+        },
+        {
+            "phrase": "words will always retain their power words offer the means to meaning and for those who will listen the enunciation of truth",
+            "count": 1
+        }
+    ]
+}

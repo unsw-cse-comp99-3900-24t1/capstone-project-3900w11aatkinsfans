@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:31"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these greens here are absolutely championship greens",
+            "count": 1
+        },
+        {
+            "phrase": "going green is not a fad",
+            "count": 1
+        }
+    ]
+}

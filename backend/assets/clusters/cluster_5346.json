@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:32",
+            "03:46",
+            "04:06",
+            "04:36"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "i knew it was safer but i refused to believe it i still had the same image of trash-filled streets and decaying buildings when we drove through the city that first night i was in shock",
+            "count": 2
+        },
+        {
+            "phrase": "at nighttime that area is pretty desolate there weren't a lot of people around who might have seen the vandalism",
+            "count": 1
+        },
+        {
+            "phrase": "the old city has a charm of its own and we have been regularly exploring it we never thought such a disaster would strike there",
+            "count": 1
+        }
+    ]
+}

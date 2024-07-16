@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1,
+            5
+        ],
+        "xLabels": [
+            "01:14",
+            "01:29",
+            "01:47"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is regrettable we have had to take the difficult decision to restructure our glasgow office but falling demand for passports means ips must make decisions to maintain our high standards across the business",
+            "count": 2
+        },
+        {
+            "phrase": "customers will still receive the same first-rate service when applying for passports and glasgow's public counter will remain open to provide assistance including issuing urgent and emergency passports",
+            "count": 2
+        },
+        {
+            "phrase": "i am very disappointed and fear this is the nail in the coffin for the future of passport services in scotland",
+            "count": 2
+        },
+        {
+            "phrase": "when the government is attempting to talk up its border security credentials it is nonsensical for them to be making swingeing cuts to the last remaining passport office in scotland",
+            "count": 2
+        },
+        {
+            "phrase": "the passport office is a vital public service and people across glasgow will be affected by the decision to axe over 100 staff",
+            "count": 2
+        },
+        {
+            "phrase": "both scotland's governments now need to tackle this strike and protect public services",
+            "count": 1
+        }
+    ]
+}

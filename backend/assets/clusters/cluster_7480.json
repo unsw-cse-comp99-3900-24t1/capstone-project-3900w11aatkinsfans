@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:36",
+            "03:51",
+            "03:59"
+        ],
+        "label": "olmert"
+    },
+    "clusterList": [
+        {
+            "phrase": "olmert was a contradiction",
+            "count": 2
+        },
+        {
+            "phrase": "prove that god does does not exist",
+            "count": 1
+        }
+    ]
+}

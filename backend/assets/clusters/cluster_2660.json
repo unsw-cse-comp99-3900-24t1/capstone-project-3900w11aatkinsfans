@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:37",
+            "02:36",
+            "03:42",
+            "04:06",
+            "04:32",
+            "04:41"
+        ],
+        "label": "government"
+    },
+    "clusterList": [
+        {
+            "phrase": "government and web 2 0",
+            "count": 1
+        },
+        {
+            "phrase": "web as platform",
+            "count": 1
+        },
+        {
+            "phrase": "web 2 0 sites are completely dynamic sites that change on a day to day basis allowing user-uploadable content and tool uploads from third-party sites",
+            "count": 1
+        },
+        {
+            "phrase": "the need for a reformulated version of html was felt primarily because world wide web content now needs to be delivered to many devices like mobile devices apart from traditional desktop computers where extra resources cannot be devoted to support the additional complexity of html syntax",
+            "count": 1
+        },
+        {
+            "phrase": "it's a conceptual framework for combining web technologies for user interaction",
+            "count": 1
+        },
+        {
+            "phrase": "cross-platform is obviously important",
+            "count": 1
+        },
+        {
+            "phrase": "what exactly is web 2 0",
+            "count": 1
+        }
+    ]
+}

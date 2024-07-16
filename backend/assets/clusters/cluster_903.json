@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:37",
+            "01:07",
+            "01:47",
+            "01:52",
+            "02:06",
+            "02:14",
+            "02:25",
+            "02:43",
+            "03:10",
+            "03:51",
+            "04:21",
+            "04:28",
+            "04:32",
+            "04:46",
+            "04:55"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what will you tell your children",
+            "count": 6
+        },
+        {
+            "phrase": "one thing we all know is that children lie",
+            "count": 3
+        },
+        {
+            "phrase": "when i talk to kids i let them know that it's great being ludacris but it's not so good being ludicrous",
+            "count": 2
+        },
+        {
+            "phrase": "when a kid says something the school district takes their word and the teacher is just thrown under the rug so to speak",
+            "count": 1
+        },
+        {
+            "phrase": "any parent knows the worst thing in the world is for something to happen to your kids",
+            "count": 1
+        },
+        {
+            "phrase": "now you guys know you can't say those words mommy just said right i only said them because i'm a grown-up and i can when you're a grown up you can use them too but until then you better not say them m-kay",
+            "count": 1
+        },
+        {
+            "phrase": "kids say the darndest things",
+            "count": 1
+        },
+        {
+            "phrase": "worst way to entertain your kids ever introducing the tot-tanic",
+            "count": 1
+        }
+    ]
+}

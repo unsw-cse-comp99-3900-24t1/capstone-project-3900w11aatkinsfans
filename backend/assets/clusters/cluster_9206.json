@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:55"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're fascinated by the mechanism but we know nothing about whether it will be useful long-term",
+            "count": 1
+        },
+        {
+            "phrase": "the antikythera mechanism is of crucial importance for the history of science and technology",
+            "count": 1
+        }
+    ]
+}

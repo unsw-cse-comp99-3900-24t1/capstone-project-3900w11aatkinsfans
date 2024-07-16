@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "01:25",
+            "02:19",
+            "03:18",
+            "04:32",
+            "04:33"
+        ],
+        "label": "was"
+    },
+    "clusterList": [
+        {
+            "phrase": "was that all",
+            "count": 1
+        },
+        {
+            "phrase": "isn't all that",
+            "count": 1
+        },
+        {
+            "phrase": "is that what this is all about",
+            "count": 1
+        },
+        {
+            "phrase": "that's all you've got",
+            "count": 1
+        },
+        {
+            "phrase": "oh is that all",
+            "count": 1
+        },
+        {
+            "phrase": "are you all right",
+            "count": 1
+        },
+        {
+            "phrase": "nice but that's all",
+            "count": 1
+        }
+    ]
+}

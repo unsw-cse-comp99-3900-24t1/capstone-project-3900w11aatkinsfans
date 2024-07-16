@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "04:28",
+            "05:03"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a contest what price",
+            "count": 1
+        },
+        {
+            "phrase": "in on the bidding process but no details can be discussed at this time",
+            "count": 1
+        },
+        {
+            "phrase": "the minimum bid was advertised as 1",
+            "count": 1
+        },
+        {
+            "phrase": "this is a legitimate bid i wasn't going to bid 1 i offered 1 per foot for the 145-foot-long bridge plus 5 to show them that i'm not a cheapskate",
+            "count": 1
+        }
+    ]
+}

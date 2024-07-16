@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:19",
+            "01:23",
+            "03:11",
+            "03:34",
+            "03:38",
+            "04:35",
+            "05:04"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "the message sent today is that no company is above the law",
+            "count": 2
+        },
+        {
+            "phrase": "the proposed sale of entrepreneur media was only contemplated because of a very good offer not because the company is in any trouble in fact we are debt free and have been for the past 5 years",
+            "count": 2
+        },
+        {
+            "phrase": "this is a very simple case management of public companies have been sent a signal today that there are certain conditions that legally must be met prior to the sale of a publicly traded company",
+            "count": 1
+        },
+        {
+            "phrase": "legal proceedings to parties involved in the acquisition agreement to secure the immediate registration of share transfer of the chinese entities",
+            "count": 1
+        },
+        {
+            "phrase": "years ago the shareholder was the typical plaintiff in a securities case today the adversaries are much more varied and resourceful making the cases more complex to litigate and settle",
+            "count": 1
+        },
+        {
+            "phrase": "navigating the board of patent appeals and interferences in light of the ksr decision",
+            "count": 1
+        }
+    ]
+}

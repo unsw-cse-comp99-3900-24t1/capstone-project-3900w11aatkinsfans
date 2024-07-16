@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "03:24"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because i need a good night's sleep and i just can't do it with you and the dog snoring",
+            "count": 1
+        },
+        {
+            "phrase": "don't sleep with dogs that lie",
+            "count": 1
+        }
+    ]
+}

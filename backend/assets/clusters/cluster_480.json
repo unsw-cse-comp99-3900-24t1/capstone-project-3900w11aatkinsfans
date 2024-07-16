@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2,
+            3,
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:51",
+            "00:53",
+            "01:00",
+            "01:07",
+            "01:18",
+            "01:47",
+            "02:14",
+            "03:10",
+            "03:42",
+            "03:51",
+            "04:04",
+            "04:32",
+            "04:45"
+        ],
+        "label": "he'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "he'll receive a tremendous reception",
+            "count": 11
+        },
+        {
+            "phrase": "he's been one of the most excited people to be here",
+            "count": 7
+        },
+        {
+            "phrase": "he'll surprise a lot of people",
+            "count": 6
+        }
+    ]
+}

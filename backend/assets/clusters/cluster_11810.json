@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "02:10"
+        ],
+        "label": "closer"
+    },
+    "clusterList": [
+        {
+            "phrase": "closer to the flame",
+            "count": 1
+        },
+        {
+            "phrase": "sitting on fire",
+            "count": 1
+        }
+    ]
+}

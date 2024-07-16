@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:25",
+            "01:06",
+            "01:47",
+            "02:01",
+            "02:15",
+            "02:28",
+            "03:09",
+            "03:34",
+            "03:48",
+            "04:28"
+        ],
+        "label": "american"
+    },
+    "clusterList": [
+        {
+            "phrase": "instead of proposing legislation which will just add more to the 68 million unused acres i think we should try something that might be a little better than that",
+            "count": 7
+        },
+        {
+            "phrase": "we could protect the crops somehow we could reimburse the farmers that have crop damage and call it a day",
+            "count": 2
+        },
+        {
+            "phrase": "american farmers are planting 324 million acres this year up 4 million acres from 2007 too much of the best land is waterlogged however indiana and illinois have been the worst hit",
+            "count": 1
+        },
+        {
+            "phrase": "that means getting the most out of every acre of farm land with innovative crop protection products",
+            "count": 1
+        }
+    ]
+}

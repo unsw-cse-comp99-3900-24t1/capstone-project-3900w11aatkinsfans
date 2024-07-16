@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "03:10",
+            "04:10"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how will we manage the money we both make",
+            "count": 1
+        },
+        {
+            "phrase": "we are debt free and have been for the past 5 years",
+            "count": 1
+        },
+        {
+            "phrase": "we are currently negotiating with others in order to do the same or at least write off some of the debts",
+            "count": 1
+        }
+    ]
+}

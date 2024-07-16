@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:32",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:24",
+            "03:48",
+            "04:09",
+            "04:28",
+            "04:42",
+            "04:45"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our goal is to try to break through here",
+            "count": 7
+        },
+        {
+            "phrase": "it's tough we've been having to piece things together all year",
+            "count": 2
+        },
+        {
+            "phrase": "we've just got to keep working and see if we can break through",
+            "count": 1
+        },
+        {
+            "phrase": "obviously it is going to take a bit of time but we have something to work towards now",
+            "count": 1
+        },
+        {
+            "phrase": "basically all it says is we're getting back to work",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:20",
+            "03:14",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the olpc-xo device is slightly cheaper than the other products because of lower processor and motherboard cost and battery and packaging cost",
+            "count": 1
+        },
+        {
+            "phrase": "the t-mobile shadow built by htc is the first windows mobile 6 device to sport microsoft's new neo home screen neo is an attempt at making the power of a smartphone accessible to novice users users that have traditionally shied away from such devices because of its complexity on top of that the shadow has a very compelling design and offers messaging fans a new 20 key qwerty-like keypad that should make the phone's xt9 predictive text input system both faster and more accurate that's something that goes well with the shadows built-in im clients email and sms support and large 2 6 display",
+            "count": 1
+        },
+        {
+            "phrase": "a new technology called multi-touch",
+            "count": 1
+        },
+        {
+            "phrase": "even the multi-touch interface is so much more powerful and flexible than in the past allowing you to zoom in scroll quickly or contract images",
+            "count": 1
+        }
+    ]
+}

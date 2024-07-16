@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "02:24",
+            "04:06",
+            "04:21"
+        ],
+        "label": "lynn"
+    },
+    "clusterList": [
+        {
+            "phrase": "lynn thinks her son is too young to marry",
+            "count": 1
+        },
+        {
+            "phrase": "if you see britney she won't be with her kids",
+            "count": 1
+        },
+        {
+            "phrase": "oh that poor woman she just can't get it together so irresponsible sometimes she doesn't even put socks on her kids",
+            "count": 1
+        },
+        {
+            "phrase": "why does our daughter have to stay with that free willy looking miserable bitch",
+            "count": 1
+        },
+        {
+            "phrase": "he never let her play with other kids he said she might catch something",
+            "count": 1
+        }
+    ]
+}

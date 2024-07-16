@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:27",
+            "02:18"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for years there has been a back and forth on the issue of complete privatisation and internationalisation of the dns core resource management the topic nearly led to a failure of the",
+            "count": 1
+        },
+        {
+            "phrase": "that it is important to clarify that we are not in discussions with either party to change the respective roles of the department icann or verisign regarding the management of the authoritative root zone file nor do we have any plans to undertake such discussions",
+            "count": 1
+        },
+        {
+            "phrase": "consistent with public statements made by the united states government starting in 2000 and reinforced by the 2005 u s principles on the internet's domain name and addressing system the department while open to operational efficiency measures that address governments legitimate public policy and sovereignty concerns with respect to the management of their cctld has no plans to transition management of the authoritative root zone file to icann as suggested in the psc documents",
+            "count": 1
+        },
+        {
+            "phrase": "the iaea is considered as the only pertinent technical organization to deal with this issue",
+            "count": 1
+        }
+    ]
+}

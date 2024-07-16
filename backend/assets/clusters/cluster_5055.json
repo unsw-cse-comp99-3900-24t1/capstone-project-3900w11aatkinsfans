@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "02:09",
+            "04:13",
+            "04:18"
+        ],
+        "label": "break"
+    },
+    "clusterList": [
+        {
+            "phrase": "go with the flow",
+            "count": 2
+        },
+        {
+            "phrase": "break the flow",
+            "count": 1
+        },
+        {
+            "phrase": "going with the flow could be quite interesting",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "00:51",
+            "00:57",
+            "01:06",
+            "03:19",
+            "03:40"
+        ],
+        "label": "country"
+    },
+    "clusterList": [
+        {
+            "phrase": "country music in general is behind fred thompson for president",
+            "count": 4
+        },
+        {
+            "phrase": "the singing revolution",
+            "count": 3
+        },
+        {
+            "phrase": "country music's hottest singer-songwriter",
+            "count": 1
+        }
+    ]
+}

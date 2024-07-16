@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:38",
+            "02:07",
+            "02:38",
+            "03:02",
+            "03:28",
+            "03:29",
+            "04:09"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "the great danger is that policy becomes divorced from events on the ground the only responsible course is to ensure that decisions on troop levels and other matters reflect the demands of the battlefield to reduce forces ignorant of or despite the consequences would be to risk disaster",
+            "count": 2
+        },
+        {
+            "phrase": "outsourcing war while filling in troop gaps has disturbing consequences",
+            "count": 2
+        },
+        {
+            "phrase": "to revert to outright global military confrontation but the risk of miscalculation or conflict arising out of economic coercion has increased",
+            "count": 1
+        },
+        {
+            "phrase": "that the united states should stress victory over rather than coexistence with this menace",
+            "count": 1
+        },
+        {
+            "phrase": "the risk of escalation of tension in the border area and a resumption of hostilities by accident or design following the withdrawal of unmee remains a reality",
+            "count": 1
+        },
+        {
+            "phrase": "a resumption of hostilities by accident or design following the withdrawal of unmee remains a reality",
+            "count": 1
+        }
+    ]
+}

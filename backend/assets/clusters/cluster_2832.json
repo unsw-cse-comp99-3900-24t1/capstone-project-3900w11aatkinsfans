@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:23",
+            "00:25",
+            "02:36",
+            "03:05",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have not found one bone of my children yet and there he is alive",
+            "count": 5
+        },
+        {
+            "phrase": "i want to find my father and kill him he will be sorry for ever leaving me behind",
+            "count": 1
+        }
+    ]
+}

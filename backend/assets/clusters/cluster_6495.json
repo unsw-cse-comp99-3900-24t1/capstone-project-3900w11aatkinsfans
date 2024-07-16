@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "03:24",
+            "04:00"
+        ],
+        "label": "miles"
+    },
+    "clusterList": [
+        {
+            "phrase": "miles what happened",
+            "count": 1
+        },
+        {
+            "phrase": "miles runs the voodoo down",
+            "count": 1
+        },
+        {
+            "phrase": "beaten by a mile",
+            "count": 1
+        }
+    ]
+}

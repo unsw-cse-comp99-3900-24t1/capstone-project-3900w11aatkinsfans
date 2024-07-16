@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:27",
+            "04:15"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we do some very sophisticated photoshop work",
+            "count": 1
+        },
+        {
+            "phrase": "really good photoshop job",
+            "count": 1
+        }
+    ]
+}

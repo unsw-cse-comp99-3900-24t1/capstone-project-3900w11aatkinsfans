@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:11",
+            "02:15",
+            "02:39",
+            "03:18",
+            "03:42",
+            "04:00",
+            "04:18"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my body is experiencing such and such",
+            "count": 1
+        },
+        {
+            "phrase": "the doctor will just tell you what you need to do and prescribe you meds",
+            "count": 1
+        },
+        {
+            "phrase": "yeah you probably have crohn's",
+            "count": 1
+        },
+        {
+            "phrase": "i got sore throat i go see doctor",
+            "count": 1
+        },
+        {
+            "phrase": "we need a doctor",
+            "count": 1
+        },
+        {
+            "phrase": "get a doctor then",
+            "count": 1
+        },
+        {
+            "phrase": "i think i have my period",
+            "count": 1
+        },
+        {
+            "phrase": "kidding again you should really get that checked out",
+            "count": 1
+        },
+        {
+            "phrase": "wash your problem",
+            "count": 1
+        },
+        {
+            "phrase": "check with your doctor before using",
+            "count": 1
+        }
+    ]
+}

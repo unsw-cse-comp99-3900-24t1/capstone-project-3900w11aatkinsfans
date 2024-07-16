@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "01:15",
+            "01:49",
+            "03:27",
+            "03:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "fannie and freddie are a major accident waiting to happen",
+            "count": 2
+        },
+        {
+            "phrase": "are you suggesting that we all would be better off if the government let fannie and freddie go bk",
+            "count": 2
+        },
+        {
+            "phrase": "i think the ultimate solution is a nationalization of both fannie and freddie and i hope a restructuring in that nationalization and then split them up into five or ten separate entities and sell them back into the market",
+            "count": 1
+        }
+    ]
+}

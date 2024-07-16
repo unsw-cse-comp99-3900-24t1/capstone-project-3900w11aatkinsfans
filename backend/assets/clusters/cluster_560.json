@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:25",
+            "01:06",
+            "01:13",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "4-h"
+    },
+    "clusterList": [
+        {
+            "phrase": "4-h continues to positively impact our nation's future by providing quality hands-on science programs to kids that potentially spark a life-long interest in fields of science and engineering i congratulate all the 4-h members and staff on the launch of their new initiative which will lay the ground work for america to continue to be competitive economically and technologically in the future",
+            "count": 7
+        },
+        {
+            "phrase": "4-h is a solution to america's need for future leaders in science engineering and technology",
+            "count": 7
+        },
+        {
+            "phrase": "over the last century 4-h has had a positive impact on tens of millions of young people many of whom are involved in scientific careers today our university-based curriculum not only engages youth at an early age and stimulates curiosity about the sciences but also helps unleash the power of youth to pursue successful careers and positions of leadership in these fields",
+            "count": 7
+        },
+        {
+            "phrase": "to control the scientific high ground and earn a seat on the world's high technology board we will make some serious efforts to strengthen our nation's competence",
+            "count": 1
+        }
+    ]
+}

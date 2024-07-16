@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:23",
+            "04:36"
+        ],
+        "label": "slept"
+    },
+    "clusterList": [
+        {
+            "phrase": "slept with every girl in town",
+            "count": 1
+        },
+        {
+            "phrase": "that i didn't drink every pub dry and sleep with every woman on the planet",
+            "count": 1
+        },
+        {
+            "phrase": "i've never had anything happen to me before my wife sent me an e-mail saying i should have been number one",
+            "count": 1
+        }
+    ]
+}

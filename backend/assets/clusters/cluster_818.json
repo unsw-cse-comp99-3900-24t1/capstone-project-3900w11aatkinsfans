@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:24",
+            "00:27",
+            "01:06",
+            "01:42",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i enjoy fishing camping hiking mushroom hunting goofing around with my family and of course playing games on pogo recently i've created a pseudo internet caf in my sunroom and we have the ability to have three people logged in at one time",
+            "count": 14
+        },
+        {
+            "phrase": "i don't own a laptop iphone or any other wireless device with internet access but because of some new productivity practices i can run my entire blog without having a pc currently in my home",
+            "count": 2
+        },
+        {
+            "phrase": "i set it up because i couldn't use the internet at my office and i found it very inconvenient and not very private to go to an internet caf",
+            "count": 1
+        }
+    ]
+}

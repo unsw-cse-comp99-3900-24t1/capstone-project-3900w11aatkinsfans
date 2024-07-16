@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:15",
+            "04:45",
+            "04:49"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best part is the view",
+            "count": 2
+        },
+        {
+            "phrase": "that includes having the vision and the big picture for what's best for everyone",
+            "count": 1
+        },
+        {
+            "phrase": "it's been the biggest adventure of my life to see our vision become one",
+            "count": 1
+        }
+    ]
+}

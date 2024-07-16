@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:24",
+            "00:29",
+            "00:36",
+            "00:46",
+            "02:33",
+            "03:00",
+            "03:15",
+            "03:18",
+            "04:03",
+            "04:45"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "my eyes are open barely",
+            "count": 2
+        },
+        {
+            "phrase": "you can't see me",
+            "count": 2
+        },
+        {
+            "phrase": "all seeing eye",
+            "count": 1
+        },
+        {
+            "phrase": "there in the sunglasses",
+            "count": 1
+        },
+        {
+            "phrase": "look me in the eyes",
+            "count": 1
+        },
+        {
+            "phrase": "hey look at me",
+            "count": 1
+        },
+        {
+            "phrase": "look at you cute dress girl",
+            "count": 1
+        },
+        {
+            "phrase": "look look right in front of you",
+            "count": 1
+        },
+        {
+            "phrase": "open your eyes if you will",
+            "count": 1
+        },
+        {
+            "phrase": "i'm glad you blinded me now i don't have to look at your ugly face ever again",
+            "count": 1
+        },
+        {
+            "phrase": "at last i got to see the ugly face",
+            "count": 1
+        },
+        {
+            "phrase": "turn around look at me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:16",
+            "00:24",
+            "00:27",
+            "00:40",
+            "00:48",
+            "00:53",
+            "00:56",
+            "01:01",
+            "01:18",
+            "01:24",
+            "01:29",
+            "01:56",
+            "02:20",
+            "02:32",
+            "02:38",
+            "03:05",
+            "03:17",
+            "03:41",
+            "03:42",
+            "03:43",
+            "03:46",
+            "03:51",
+            "03:56",
+            "04:18"
+        ],
+        "label": "based"
+    },
+    "clusterList": [
+        {
+            "phrase": "fraudulent nonperformance of a job",
+            "count": 10
+        },
+        {
+            "phrase": "a hypocrite and a fraud",
+            "count": 5
+        },
+        {
+            "phrase": "liars and hypocrites",
+            "count": 5
+        },
+        {
+            "phrase": "dishonesty fraud deceit or misrepresentation",
+            "count": 3
+        },
+        {
+            "phrase": "confusion mistake and deception",
+            "count": 3
+        },
+        {
+            "phrase": "based on faulty and misleading information",
+            "count": 1
+        },
+        {
+            "phrase": "dishonest and dishonorable",
+            "count": 1
+        },
+        {
+            "phrase": "losing ethical credibility",
+            "count": 1
+        },
+        {
+            "phrase": "and is actually a misrepresentation",
+            "count": 1
+        },
+        {
+            "phrase": "dishonest and disruptive",
+            "count": 1
+        },
+        {
+            "phrase": "false scandalous and malicious",
+            "count": 1
+        }
+    ]
+}

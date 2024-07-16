@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:32",
+            "00:43",
+            "01:46",
+            "02:14",
+            "03:46",
+            "03:56",
+            "04:05"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it would be a family picnic opportunity for people to come and relax and to celebrate canada said lee",
+            "count": 3
+        },
+        {
+            "phrase": "among america's fourth of july celebrations",
+            "count": 2
+        },
+        {
+            "phrase": "there are not going to be the fireworks that some had expected",
+            "count": 2
+        },
+        {
+            "phrase": "do you think they are going to do anything special here for the 4th of july",
+            "count": 1
+        }
+    ]
+}

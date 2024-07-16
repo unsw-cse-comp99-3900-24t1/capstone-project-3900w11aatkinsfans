@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:33",
+            "03:47",
+            "04:05"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is your daily routine starting to get a bit well predictable it's not necessarily that what you do is boring routines have their purpose many people like them as it gives some comfort and security however sometimes it gets too comfortable and leads to a lack of action here are a few simple things you can do without altering your routine too much",
+            "count": 2
+        },
+        {
+            "phrase": "you've reached the machine you know the routine",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to get up about 5 o'clock and start the whole routine again",
+            "count": 1
+        },
+        {
+            "phrase": "routine check up",
+            "count": 1
+        }
+    ]
+}

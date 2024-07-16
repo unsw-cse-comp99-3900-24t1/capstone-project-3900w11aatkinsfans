@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:07",
+            "01:24",
+            "01:47",
+            "04:28",
+            "04:37",
+            "04:45"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm kind of unique i really love the game and i go out and play for fun i think with annika it's a lot of hard work every time she tees it up she's expected to win her work ethic is just grind grind work out hit balls",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think annika could come out here and finish 15th on the money list and live with herself me i'm ok with that i enjoy what i do i love playing golf but it's not the end of the world for me",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think annika could come out here and finish you know 15th or 12th on the money list and live with herself",
+            "count": 2
+        },
+        {
+            "phrase": "i think if she wants to be a golfer she should really concentrate on being on the women's tour and dealing with them and learning to win winning is what we are out here for but i just don't see the interest really on being on the men's tour i thought she had quit that idea but obviously not",
+            "count": 1
+        },
+        {
+            "phrase": "annika wants a family and she doesn't think she can have a family and play the quality of golf she's used to",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think annika could come back out here and finish 12th on the money list and live with herself",
+            "count": 1
+        }
+    ]
+}

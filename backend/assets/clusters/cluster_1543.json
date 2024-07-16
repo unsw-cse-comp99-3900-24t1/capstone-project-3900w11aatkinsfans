@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "01:09",
+            "01:30",
+            "03:14",
+            "03:36",
+            "03:55",
+            "04:27",
+            "04:28"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in style and vibe",
+            "count": 5
+        },
+        {
+            "phrase": "what we are talking about here is substance and not style",
+            "count": 4
+        },
+        {
+            "phrase": "style over substance",
+            "count": 1
+        },
+        {
+            "phrase": "style and substance",
+            "count": 1
+        }
+    ]
+}

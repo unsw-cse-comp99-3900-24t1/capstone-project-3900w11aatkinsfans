@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "01:19",
+            "01:25",
+            "01:30",
+            "01:32",
+            "01:40",
+            "02:24",
+            "02:26",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "04:05",
+            "04:08",
+            "04:13",
+            "04:19"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's at stake here goes to the very core of the values of the military and the nation itself",
+            "count": 6
+        },
+        {
+            "phrase": "i think the ones that are coming today know what they're up against they show their mettle in the fact that they commit during a time of war and knowing that there is a potential that they will have to deploy",
+            "count": 2
+        },
+        {
+            "phrase": "every military action causes a military response this is the fundamental rule this is what military people are about if there is a military action if there is a change in strategic posture there is a counter-change of strategic posture you can read it in every military textbook so there is nothing surprising there are not even questions to be asked about",
+            "count": 2
+        },
+        {
+            "phrase": "war is waged by regimented civilian masses who have gone from the autonomy of citizenship to military obedience for a time of unknown duration and who are plunged into a raging inferno where staying alive rather than being intelligent or courageous is the main objective and where even victory is a distant abstraction military service can rarely have seemed less noble than it did to the millions of men plucked from civilian life and trapped in the trenches war is the political state furthest removed from normal civilian life it is a purely instinctive business totally removed from other interests and intellectual pursuits an army at war is a social order in which individuals no longer exist and whose inhumanity creates a sort of inertia that is almost impossible to break",
+            "count": 1
+        },
+        {
+            "phrase": "leadership in military matters",
+            "count": 1
+        },
+        {
+            "phrase": "encouraging soldiers to disobey superiors",
+            "count": 1
+        },
+        {
+            "phrase": "does culture matter the military utility of cultural knowledge",
+            "count": 1
+        },
+        {
+            "phrase": "projection of military values and army tradition on to the navy",
+            "count": 1
+        },
+        {
+            "phrase": "disrespects the military",
+            "count": 1
+        },
+        {
+            "phrase": "the higher aspects of military sentiment",
+            "count": 1
+        },
+        {
+            "phrase": "would be hard pressed to accept that view of the military civilian distinction",
+            "count": 1
+        }
+    ]
+}

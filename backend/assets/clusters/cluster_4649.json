@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:32",
+            "02:15",
+            "02:41"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is much to tell and celebrate in the tough day-to-day work that our soldiers are doing in one of the most challenging environments any army has ever faced",
+            "count": 3
+        },
+        {
+            "phrase": "being here in the shasta-trinity forest with the other members of my unit has been a rough but rewarding mission i'm proud to be here and i'm very proud of my fellow soldiers who are serving here with me",
+            "count": 1
+        }
+    ]
+}

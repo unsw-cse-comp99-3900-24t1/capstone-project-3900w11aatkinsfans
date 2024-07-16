@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:51"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how do you handle access control or auditing suppose i migrate an instance of a virtual machine from rack a to rack b is one a locking rack that needs a physical badge to get to the console and the other not does the vm hypervisor allow for separation of administrators a and b so a can only logically touch systems a and administrator b only touches b how are you re-upping the risk assessment based on the architecture change",
+            "count": 1
+        }
+    ]
+}

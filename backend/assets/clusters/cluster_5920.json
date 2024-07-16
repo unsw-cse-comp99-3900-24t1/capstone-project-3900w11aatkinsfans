@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "02:44"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look at that guy staring out the window at us",
+            "count": 1
+        },
+        {
+            "phrase": "i went looking for him everywhere i spent all day on the streets calling his name i couldn't believe it was happening",
+            "count": 1
+        },
+        {
+            "phrase": "if he couldn't see me he would scream he did some very strange things he would stare at the sun until he passed out but to have him back was amazing",
+            "count": 1
+        }
+    ]
+}

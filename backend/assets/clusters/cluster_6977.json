@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:20",
+            "05:04"
+        ],
+        "label": "game"
+    },
+    "clusterList": [
+        {
+            "phrase": "game highlights sports news and clips",
+            "count": 1
+        },
+        {
+            "phrase": "love to watch sports",
+            "count": 1
+        },
+        {
+            "phrase": "man's favorite sport",
+            "count": 1
+        }
+    ]
+}

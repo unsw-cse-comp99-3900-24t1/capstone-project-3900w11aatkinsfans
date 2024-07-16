@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "03:17",
+            "03:33",
+            "04:01",
+            "04:55"
+        ],
+        "label": "beware"
+    },
+    "clusterList": [
+        {
+            "phrase": "am i a tech freak no",
+            "count": 2
+        },
+        {
+            "phrase": "i am neither geek nor nerd i am not a hacker a phreaker a programmer or any variety of technoid dweeb",
+            "count": 2
+        },
+        {
+            "phrase": "beware if you aren't a hard-core hacker you'd best surf right back where you came from",
+            "count": 1
+        }
+    ]
+}

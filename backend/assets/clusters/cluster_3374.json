@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "01:20",
+            "01:58",
+            "03:57",
+            "04:50",
+            "04:51"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a lot of people are losing their house because they take the money to buy a new car or go on a vacation",
+            "count": 1
+        },
+        {
+            "phrase": "in a district like ours it's one of those costs we have to figure out how to work into our budget",
+            "count": 1
+        },
+        {
+            "phrase": "rural areas are hard to get financed",
+            "count": 1
+        },
+        {
+            "phrase": "there's a lot of money in the city we are not a poor city we are a poorly managed city",
+            "count": 1
+        },
+        {
+            "phrase": "people want all done when they move down here they don't want to have to renovate",
+            "count": 1
+        },
+        {
+            "phrase": "cdbg funds can quickly help cities rebuild",
+            "count": 1
+        }
+    ]
+}

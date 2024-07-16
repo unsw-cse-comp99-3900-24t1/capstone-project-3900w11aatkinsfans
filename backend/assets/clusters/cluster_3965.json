@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "02:06",
+            "02:20",
+            "03:09",
+            "04:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last lecture",
+            "count": 4
+        },
+        {
+            "phrase": "i know all the numbers and that will be the first lecture",
+            "count": 1
+        }
+    ]
+}

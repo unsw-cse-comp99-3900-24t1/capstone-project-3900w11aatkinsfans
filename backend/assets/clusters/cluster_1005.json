@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:17",
+            "02:23",
+            "03:05",
+            "03:17",
+            "03:29",
+            "03:47",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:13",
+            "04:19",
+            "04:23",
+            "04:28"
+        ],
+        "label": "hillary"
+    },
+    "clusterList": [
+        {
+            "phrase": "there was never any intention to insult paula wriedt and any suggestion to the contrary is grossly unfair",
+            "count": 11
+        },
+        {
+            "phrase": "hillary hated on you so that b amp is irrelevant",
+            "count": 1
+        },
+        {
+            "phrase": "hillary hated on you so that expletive is irrelevant",
+            "count": 1
+        },
+        {
+            "phrase": "you're likable enough hillary",
+            "count": 1
+        },
+        {
+            "phrase": "hillary hated on you so that bleep is irrelevant",
+            "count": 1
+        }
+    ]
+}

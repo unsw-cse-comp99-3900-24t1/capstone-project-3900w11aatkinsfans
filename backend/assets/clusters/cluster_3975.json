@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:14",
+            "03:55",
+            "04:03",
+            "04:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "still i was surprised because i did think the tigers were still in it",
+            "count": 2
+        },
+        {
+            "phrase": "the cardinals and brewers ain't going away",
+            "count": 1
+        },
+        {
+            "phrase": "but how do they expect to beat the yankees or red sox then hmm",
+            "count": 1
+        },
+        {
+            "phrase": "is red sox nation in shock right now",
+            "count": 1
+        }
+    ]
+}

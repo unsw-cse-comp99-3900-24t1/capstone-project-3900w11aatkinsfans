@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:36",
+            "01:47",
+            "01:48",
+            "01:51",
+            "02:15",
+            "02:32",
+            "03:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is no surprise to our staff affected employees were informed of this before these changes occurred",
+            "count": 3
+        },
+        {
+            "phrase": "i'm very disappointed not to have been informed",
+            "count": 3
+        },
+        {
+            "phrase": "i would be surprised if someone made a change without at least informing him rogge",
+            "count": 2
+        },
+        {
+            "phrase": "i would be surprised if someone made a change without at least informing",
+            "count": 1
+        }
+    ]
+}

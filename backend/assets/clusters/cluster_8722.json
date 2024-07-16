@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:52"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what a great faucet if you like things that are ugly",
+            "count": 1
+        },
+        {
+            "phrase": "design your own faucet",
+            "count": 1
+        }
+    ]
+}

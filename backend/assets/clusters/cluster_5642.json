@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:22",
+            "04:29"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you may experience network-related problems after you install windows server 2003 sp2 or the scalable networking pack on a windows server 2003-based computer",
+            "count": 2
+        },
+        {
+            "phrase": "it is no longer feasible or affordable to purchase the most capable multimission platform and then limit its use to tailored mission areas or focus on specific threats",
+            "count": 1
+        }
+    ]
+}

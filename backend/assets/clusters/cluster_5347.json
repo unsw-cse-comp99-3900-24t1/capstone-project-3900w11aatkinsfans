@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "02:57",
+            "03:46",
+            "04:06"
+        ],
+        "label": "many"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are still in a country where there are people who wish us harm so i can't say i feel completely safe",
+            "count": 2
+        },
+        {
+            "phrase": "many people like me have really risked our lives including in jail to try and let the world know what is happening and that is enough in my opinion",
+            "count": 1
+        },
+        {
+            "phrase": "this is not the way i should have been treated it is hurtful to see myself being treated this way in a country i love would protect and where i've done everything i can to engage with and be a good citizen",
+            "count": 1
+        }
+    ]
+}

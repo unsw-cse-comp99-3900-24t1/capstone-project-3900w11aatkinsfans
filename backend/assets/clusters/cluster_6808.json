@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:48",
+            "04:55"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "even world-class chefs go home to picky children",
+            "count": 1
+        },
+        {
+            "phrase": "they may be kings in their kitchens but even world-class chefs go home to picky children",
+            "count": 1
+        },
+        {
+            "phrase": "they won't be professional in going after the best food",
+            "count": 1
+        }
+    ]
+}

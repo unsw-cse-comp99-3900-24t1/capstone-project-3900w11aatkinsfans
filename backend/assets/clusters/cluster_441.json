@@ -1,0 +1,111 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:14",
+            "00:38",
+            "00:51",
+            "01:47",
+            "01:48",
+            "02:23",
+            "02:24",
+            "02:46",
+            "02:56",
+            "02:57",
+            "03:02",
+            "03:12",
+            "03:19",
+            "03:24",
+            "04:03",
+            "04:05",
+            "04:06",
+            "04:19",
+            "04:22"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "people who are doing this",
+            "count": 5
+        },
+        {
+            "phrase": "lots of people",
+            "count": 3
+        },
+        {
+            "phrase": "these people are also human",
+            "count": 3
+        },
+        {
+            "phrase": "the right people",
+            "count": 2
+        },
+        {
+            "phrase": "people of color",
+            "count": 2
+        },
+        {
+            "phrase": "these are my people",
+            "count": 2
+        },
+        {
+            "phrase": "people are just things",
+            "count": 1
+        },
+        {
+            "phrase": "there are those who just",
+            "count": 1
+        },
+        {
+            "phrase": "real everyday people",
+            "count": 1
+        },
+        {
+            "phrase": "who the hell are these people and what am i doing here",
+            "count": 1
+        },
+        {
+            "phrase": "there are some who say",
+            "count": 1
+        },
+        {
+            "phrase": "the american people",
+            "count": 1
+        },
+        {
+            "phrase": "the beautiful people",
+            "count": 1
+        },
+        {
+            "phrase": "what do you mean some people",
+            "count": 1
+        },
+        {
+            "phrase": "people who are",
+            "count": 1
+        }
+    ]
+}

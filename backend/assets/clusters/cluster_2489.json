@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:33",
+            "00:57",
+            "01:10",
+            "01:25",
+            "03:27",
+            "04:28"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "zero flight hours",
+            "count": 3
+        },
+        {
+            "phrase": "why aren't we flying",
+            "count": 1
+        },
+        {
+            "phrase": "there ain't no flights",
+            "count": 1
+        },
+        {
+            "phrase": "even though they're going to random destinations and small airports they have the option of not flying if they don't want to with the airlines there is the pressure to make the flight to make the connection to not inconvenience your passengers",
+            "count": 1
+        },
+        {
+            "phrase": "fly the friendless skies",
+            "count": 1
+        }
+    ]
+}

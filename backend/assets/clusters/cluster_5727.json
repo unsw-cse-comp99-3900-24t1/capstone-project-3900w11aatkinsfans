@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:33",
+            "03:24"
+        ],
+        "label": "shouldn't"
+    },
+    "clusterList": [
+        {
+            "phrase": "shouldn't exception filters do the trick without the need to rethrow explicitly",
+            "count": 3
+        }
+    ]
+}

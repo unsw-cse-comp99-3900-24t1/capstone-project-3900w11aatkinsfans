@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "04:04",
+            "04:46"
+        ],
+        "label": "almost"
+    },
+    "clusterList": [
+        {
+            "phrase": "almost a perversion of the 20th century",
+            "count": 1
+        },
+        {
+            "phrase": "the 20th century killed those ideologies of rigid forms of economic and social theory and their passing causes little regret",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest demonstration of the historical failure of the capitalist model",
+            "count": 1
+        }
+    ]
+}

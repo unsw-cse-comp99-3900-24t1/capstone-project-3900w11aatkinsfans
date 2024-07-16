@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:03",
+            "01:09",
+            "03:55"
+        ],
+        "label": "straight"
+    },
+    "clusterList": [
+        {
+            "phrase": "straight to grandma's",
+            "count": 3
+        },
+        {
+            "phrase": "straight to grandma's here i go",
+            "count": 1
+        },
+        {
+            "phrase": "aunt lisa aunt lisa look they gotta couch",
+            "count": 1
+        },
+        {
+            "phrase": "uh it's the same as it your house grandma",
+            "count": 1
+        },
+        {
+            "phrase": "without you your grandma would be going nuts trying to beat me",
+            "count": 1
+        }
+    ]
+}

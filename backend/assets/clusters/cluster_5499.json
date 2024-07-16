@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "04:06",
+            "04:24"
+        ],
+        "label": "guitar"
+    },
+    "clusterList": [
+        {
+            "phrase": "curtis is one of the top five soul singers in the world",
+            "count": 2
+        },
+        {
+            "phrase": "guitar hero fingerpickin singer songwriters of the 90s",
+            "count": 1
+        },
+        {
+            "phrase": "curtis has absolutely amazing ears",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "03:05",
+            "03:17",
+            "03:19",
+            "03:22",
+            "03:24",
+            "04:13",
+            "04:52"
+        ],
+        "label": "backup"
+    },
+    "clusterList": [
+        {
+            "phrase": "connection could not be established",
+            "count": 4
+        },
+        {
+            "phrase": "a database-related exception occurred",
+            "count": 2
+        },
+        {
+            "phrase": "backup failed error",
+            "count": 1
+        },
+        {
+            "phrase": "an error occurred applying attributes to the file the parameter is incorrect",
+            "count": 1
+        },
+        {
+            "phrase": "the following error occurred",
+            "count": 1
+        },
+        {
+            "phrase": "a general exception occurred",
+            "count": 1
+        },
+        {
+            "phrase": "the iphone iphone cannot be restored an unknown error has occured 6 why does this happen can anybody help me",
+            "count": 1
+        }
+    ]
+}

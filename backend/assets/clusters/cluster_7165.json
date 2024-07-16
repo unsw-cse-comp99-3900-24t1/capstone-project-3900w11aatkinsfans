@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:05",
+            "04:04"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "it does not affect me in any way",
+            "count": 2
+        },
+        {
+            "phrase": "why should i care it didn't affect me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "02:23",
+            "03:28"
+        ],
+        "label": "holding"
+    },
+    "clusterList": [
+        {
+            "phrase": "holding the hotel",
+            "count": 1
+        },
+        {
+            "phrase": "your hotel is that way",
+            "count": 1
+        },
+        {
+            "phrase": "stay in the hotel and rest",
+            "count": 1
+        }
+    ]
+}

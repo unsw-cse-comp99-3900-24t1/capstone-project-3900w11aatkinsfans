@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:25",
+            "04:45",
+            "04:51"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a business plan helps you keep your finger on the pulse of your progress",
+            "count": 1
+        },
+        {
+            "phrase": "then a year later i got the chance to work on a",
+            "count": 1
+        },
+        {
+            "phrase": "two years after graduating i was pursuing my business plan",
+            "count": 1
+        },
+        {
+            "phrase": "my plan b is to go get another job exactly like the one i have now",
+            "count": 1
+        }
+    ]
+}

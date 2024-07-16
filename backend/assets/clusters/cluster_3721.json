@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "02:13",
+            "02:25",
+            "02:57"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you think you are going to get rich and live comfortably from a career writing fiction you are wrong",
+            "count": 2
+        },
+        {
+            "phrase": "the only difference between reality and fiction is that fiction has to be credible mark twain",
+            "count": 1
+        },
+        {
+            "phrase": "realism seen broadly as truthfulness to the way things are cannot be mere verisimilitude cannot be mere lifelikeness or lifesameness but what i must call lifeness life on the page life bought to different life by the highest artistry and it cannot be a genre instead is makes other forms of fiction seem like genres for realism of this kind lifeness is the origin it teaches everything else it schools its own truants it is what allows magic realism hysterical realism fantasy science fiction even thrillers to exist",
+            "count": 1
+        },
+        {
+            "phrase": "ms whitnum is a writer of fiction and that is utter fiction",
+            "count": 1
+        }
+    ]
+}

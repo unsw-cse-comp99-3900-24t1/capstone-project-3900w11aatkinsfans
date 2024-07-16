@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:50",
+            "03:11",
+            "03:51"
+        ],
+        "label": "they'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "they'll jump in after me",
+            "count": 1
+        },
+        {
+            "phrase": "bring them here to me",
+            "count": 1
+        },
+        {
+            "phrase": "if there's an opening there they find me",
+            "count": 1
+        },
+        {
+            "phrase": "so you'll just come in here and there will be a bunch of chicks walking around in there",
+            "count": 1
+        }
+    ]
+}

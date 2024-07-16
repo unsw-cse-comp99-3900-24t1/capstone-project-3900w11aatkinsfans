@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:38",
+            "04:51",
+            "04:55"
+        ],
+        "label": "majority"
+    },
+    "clusterList": [
+        {
+            "phrase": "majority consent modification",
+            "count": 2
+        },
+        {
+            "phrase": "letter of consent",
+            "count": 1
+        }
+    ]
+}

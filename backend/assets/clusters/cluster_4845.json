@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:18"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh mark my words lou there's something creepy about that young man",
+            "count": 3
+        },
+        {
+            "phrase": "whoa dat's dat creepy guy from before ain't it",
+            "count": 1
+        }
+    ]
+}

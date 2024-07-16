@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i already knew that intel the company i've worked for the last 12 years was",
+            "count": 3
+        },
+        {
+            "phrase": "bill gates established the software industry as we know it today",
+            "count": 1
+        },
+        {
+            "phrase": "established the pc industry as we know it",
+            "count": 1
+        }
+    ]
+}

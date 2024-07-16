@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "01:46",
+            "03:32"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "picnic in the garden",
+            "count": 2
+        },
+        {
+            "phrase": "no need to be embarrased we can always have picnics like this",
+            "count": 1
+        },
+        {
+            "phrase": "hey look at the picnic tables",
+            "count": 1
+        }
+    ]
+}

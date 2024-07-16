@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "01:33",
+            "02:14"
+        ],
+        "label": "loves"
+    },
+    "clusterList": [
+        {
+            "phrase": "loves those who do good",
+            "count": 5
+        }
+    ]
+}

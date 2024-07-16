@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the team takes care not to make the gravestones in wow's pivotal cemeteries too gothic-looking those tombstones belong in diablo",
+            "count": 1
+        },
+        {
+            "phrase": "cemetery of microbes",
+            "count": 1
+        }
+    ]
+}

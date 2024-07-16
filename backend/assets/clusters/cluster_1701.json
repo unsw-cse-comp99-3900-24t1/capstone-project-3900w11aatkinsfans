@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "02:00",
+            "02:22",
+            "02:42",
+            "02:52",
+            "03:00",
+            "03:19",
+            "03:34",
+            "04:36"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "babies that age are kind of meh",
+            "count": 2
+        },
+        {
+            "phrase": "these kids underestimate us smart moms",
+            "count": 2
+        },
+        {
+            "phrase": "yeah babies are cute and all but just wait until puberty",
+            "count": 1
+        },
+        {
+            "phrase": "there's nothing worse than being nine months pregnant due any day and having no clue what you're going to call this child",
+            "count": 1
+        },
+        {
+            "phrase": "i look at em now and they are healthy they are doing everything that normal 1-year-olds are supposed to do",
+            "count": 1
+        },
+        {
+            "phrase": "for some moms it's a legacy for their baby",
+            "count": 1
+        },
+        {
+            "phrase": "isn't it sad children like that",
+            "count": 1
+        },
+        {
+            "phrase": "my baby must be very advanced he's way ahead of the other 11 month olds",
+            "count": 1
+        }
+    ]
+}

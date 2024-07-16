@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:20",
+            "00:43",
+            "01:01",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:00",
+            "05:05"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "who's on crack",
+            "count": 8
+        },
+        {
+            "phrase": "is this like a gang or something",
+            "count": 1
+        },
+        {
+            "phrase": "for fear of losing their lives at the hands of los zetas a group of hitmen who are part of the gulf cartel and who last week claimed the crimes murders of three police officers and one",
+            "count": 1
+        },
+        {
+            "phrase": "members of the mafia",
+            "count": 1
+        }
+    ]
+}

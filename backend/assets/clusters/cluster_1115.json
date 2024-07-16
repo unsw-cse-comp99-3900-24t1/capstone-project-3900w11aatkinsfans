@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            9,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:29",
+            "04:03",
+            "04:51"
+        ],
+        "label": "red"
+    },
+    "clusterList": [
+        {
+            "phrase": "red wine could help prevent breast cancer",
+            "count": 2
+        },
+        {
+            "phrase": "red wine will help prevent breast cancer",
+            "count": 2
+        },
+        {
+            "phrase": "so therefore in the world of journalists red wine prevents breast cancer in people",
+            "count": 1
+        },
+        {
+            "phrase": "red wine could help prevent cancer",
+            "count": 1
+        },
+        {
+            "phrase": "we don't know whether red wine will prevent cancer",
+            "count": 1
+        },
+        {
+            "phrase": "the association between alcohol and breast cancer may be causal",
+            "count": 1
+        },
+        {
+            "phrase": "the journalists suggest red wine could prevent breast cancer in people",
+            "count": 1
+        },
+        {
+            "phrase": "our study was carried out on female participants only and it should be recognised that there is evidence to suggest that women may be more susceptible to some of the genetically harmful effects of alcohol than men perhaps due to differences in fat to water ratio or liver mass to body weight ratio",
+            "count": 1
+        },
+        {
+            "phrase": "because of this it would be interesting to examine gender differences in the possible effects of alcohol on the development of rhinitis",
+            "count": 1
+        },
+        {
+            "phrase": "we also found that if one or both parents had asthma the participant was more likely to have perennial ar and this was exacerbated in women who drank over 14 drinks a week",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of people drink as a way to relax but studies have shown that alcohol directly impacts fertility in women it's thought to affect reproductive hormones leading to an abnormal menstrual cycle",
+            "count": 1
+        },
+        {
+            "phrase": "according to the surgeon general women should not drink alcoholic beverages during pregnancy because of the risk of birth defects",
+            "count": 1
+        }
+    ]
+}

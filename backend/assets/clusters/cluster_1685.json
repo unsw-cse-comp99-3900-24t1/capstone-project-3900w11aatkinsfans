@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:18",
+            "01:34",
+            "02:49",
+            "03:30",
+            "03:41",
+            "04:33",
+            "04:42",
+            "05:01"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're in first place and we control our destiny",
+            "count": 4
+        },
+        {
+            "phrase": "arise and take our stand for freedom as in the olden time",
+            "count": 2
+        },
+        {
+            "phrase": "we challenge french soldiers to a game of lacrosse if we win we get freedom if they win well they can pick",
+            "count": 1
+        },
+        {
+            "phrase": "we won freedom right",
+            "count": 1
+        },
+        {
+            "phrase": "we cannot capture and kill our way to victory",
+            "count": 1
+        },
+        {
+            "phrase": "hated us for our freedoms",
+            "count": 1
+        }
+    ]
+}

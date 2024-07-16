@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:51"
+        ],
+        "label": "during"
+    },
+    "clusterList": [
+        {
+            "phrase": "during one or more arguments",
+            "count": 1
+        },
+        {
+            "phrase": "if you just repeat the arguments",
+            "count": 1
+        }
+    ]
+}

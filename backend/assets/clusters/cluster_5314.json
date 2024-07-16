@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:32",
+            "04:31",
+            "04:38"
+        ],
+        "label": "dead"
+    },
+    "clusterList": [
+        {
+            "phrase": "most presidents were sort of in the middle",
+            "count": 2
+        },
+        {
+            "phrase": "dead white presidents",
+            "count": 1
+        },
+        {
+            "phrase": "dead presidents and civil war generals",
+            "count": 1
+        }
+    ]
+}

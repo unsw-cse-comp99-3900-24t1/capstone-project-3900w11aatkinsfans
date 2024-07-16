@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "02:14",
+            "03:38",
+            "03:39"
+        ],
+        "label": "result"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the asset mbs which now backs up our currency an asset that no one else wants if they were to dump these securities on the market today the value of these stocks would go straight to 0 but that is literally the asset that is behind our currency it is a very serious situation",
+            "count": 2
+        },
+        {
+            "phrase": "result in a significant negative wealth shock",
+            "count": 1
+        },
+        {
+            "phrase": "beware the money changers",
+            "count": 1
+        },
+        {
+            "phrase": "the collapse of the housing bubble the bursting of the nasdaq bubble stock markets plunging",
+            "count": 1
+        }
+    ]
+}

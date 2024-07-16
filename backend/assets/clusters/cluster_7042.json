@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:28",
+            "04:55",
+            "05:04"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who is beautiful now",
+            "count": 1
+        },
+        {
+            "phrase": "look at mackenzie we obviously make beautiful babies",
+            "count": 1
+        },
+        {
+            "phrase": "wow what a beautiful little boy",
+            "count": 1
+        }
+    ]
+}

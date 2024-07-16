@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "03:10",
+            "03:42"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an interweb sideshow of great distinction and absolutely spiffing podcasts",
+            "count": 1
+        },
+        {
+            "phrase": "however our biggest opportunities will be worth pursuing only when we achieve our vision of twitter as a global communication utility",
+            "count": 1
+        },
+        {
+            "phrase": "the widest possible dissemination of information from diverse and antagonistic sources",
+            "count": 1
+        }
+    ]
+}

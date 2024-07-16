@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "05:00"
+        ],
+        "label": "sweet"
+    },
+    "clusterList": [
+        {
+            "phrase": "sweet and short",
+            "count": 1
+        },
+        {
+            "phrase": "not too short",
+            "count": 1
+        }
+    ]
+}

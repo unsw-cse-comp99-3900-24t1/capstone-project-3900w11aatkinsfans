@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "02:33",
+            "03:38"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if the whole business collapses it does not mean much",
+            "count": 1
+        },
+        {
+            "phrase": "we will freeze the value of the district at 18 million all taxing entities will continue to receive revenue at the 18 million rate",
+            "count": 1
+        },
+        {
+            "phrase": "if something should happen or nothing happens after a year or two it would shut down and the money accumulated would go to the taxing entities",
+            "count": 1
+        },
+        {
+            "phrase": "if this authority were not continued there would be some loss of revenue",
+            "count": 1
+        }
+    ]
+}

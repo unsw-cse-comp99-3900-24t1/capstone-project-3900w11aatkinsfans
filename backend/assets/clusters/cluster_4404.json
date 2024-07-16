@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:06",
+            "03:42",
+            "03:43"
+        ],
+        "label": "haven't"
+    },
+    "clusterList": [
+        {
+            "phrase": "haven't heard a thing",
+            "count": 1
+        },
+        {
+            "phrase": "nothing you have ever heard before",
+            "count": 1
+        },
+        {
+            "phrase": "yeah have you heard anything new lately",
+            "count": 1
+        },
+        {
+            "phrase": "what did you hear",
+            "count": 1
+        }
+    ]
+}

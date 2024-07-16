@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "03:11",
+            "04:09",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i heard a loud crash and then bang bang bang",
+            "count": 1
+        },
+        {
+            "phrase": "suddenly there was this raucous incredibly loud noise it was unbelievable the noise that was being produced we really had no idea where it was coming from originally until it settled down afterwards and we realized there had been a rock slide",
+            "count": 1
+        },
+        {
+            "phrase": "didn't even hear anything i just saw it went poof and then smoke and that was it no sound or nothin no bang or boom or anything",
+            "count": 1
+        },
+        {
+            "phrase": "what i remember is a loud crashing noise and then being hit repeatedly by the car door and then being upside down and looking at the bottom of brian's truck",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:12",
+            "03:43",
+            "04:35",
+            "04:50"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and if they thought there was any profit they'd be on us like a ton of bricks",
+            "count": 1
+        },
+        {
+            "phrase": "maybe we needed to communicate more about what we would do with revenue that was generated",
+            "count": 1
+        },
+        {
+            "phrase": "we'd have made a fortune",
+            "count": 1
+        },
+        {
+            "phrase": "far less profitable than what we would have liked",
+            "count": 1
+        },
+        {
+            "phrase": "we were surprised by the amount of business we got from it",
+            "count": 1
+        }
+    ]
+}

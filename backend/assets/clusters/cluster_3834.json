@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "00:57",
+            "01:47",
+            "02:10",
+            "03:18"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he said she said",
+            "count": 3
+        },
+        {
+            "phrase": "self how could she show me she was contrite",
+            "count": 1
+        },
+        {
+            "phrase": "oh my gosh did you see what happened to that woman",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "01:40",
+            "02:26"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "well it's my job to talk and i want that and it's my choice i want to get the message out",
+            "count": 2
+        },
+        {
+            "phrase": "i'm not taking the job it's too risky for us we wouldn't be able to communicate very often and i can't do that to us",
+            "count": 1
+        }
+    ]
+}

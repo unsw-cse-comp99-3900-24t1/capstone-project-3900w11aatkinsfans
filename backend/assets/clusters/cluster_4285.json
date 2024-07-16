@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "02:14",
+            "02:29",
+            "04:29",
+            "05:05"
+        ],
+        "label": "design"
+    },
+    "clusterList": [
+        {
+            "phrase": "design is a waste of time we have a really ugly site",
+            "count": 1
+        },
+        {
+            "phrase": "see first that the design is wise and just that ascertained pursue it resolutely",
+            "count": 1
+        },
+        {
+            "phrase": "the design is too awful",
+            "count": 1
+        },
+        {
+            "phrase": "the design isn't good enough",
+            "count": 1
+        },
+        {
+            "phrase": "great design but the type looks like an afterthought",
+            "count": 1
+        }
+    ]
+}

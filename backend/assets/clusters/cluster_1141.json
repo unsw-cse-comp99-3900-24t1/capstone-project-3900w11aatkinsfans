@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "01:57",
+            "02:09",
+            "02:14",
+            "02:19",
+            "02:23",
+            "02:24",
+            "02:28",
+            "03:05",
+            "03:06",
+            "03:14",
+            "03:32",
+            "04:33"
+        ],
+        "label": "really"
+    },
+    "clusterList": [
+        {
+            "phrase": "copy of the pre-agreement document",
+            "count": 10
+        },
+        {
+            "phrase": "really no problem that's awesome wait shit i need a passport don't i",
+            "count": 1
+        },
+        {
+            "phrase": "i am sorry ma'am i am not hearing your signature in our system",
+            "count": 1
+        },
+        {
+            "phrase": "but they should have at least consulted me don't you think so if you'd send along a new passport to the address enclosed i'll start packing",
+            "count": 1
+        },
+        {
+            "phrase": "very well their are other documents here that you have to verify and sign after that i'll take care of the rest",
+            "count": 1
+        }
+    ]
+}

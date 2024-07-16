@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:36",
+            "04:28"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're a very sad people",
+            "count": 1
+        },
+        {
+            "phrase": "we are horrible people",
+            "count": 1
+        },
+        {
+            "phrase": "it's a sad day for america",
+            "count": 1
+        }
+    ]
+}

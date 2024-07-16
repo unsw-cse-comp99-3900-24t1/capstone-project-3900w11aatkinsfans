@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            6,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "03:01",
+            "03:02",
+            "03:28",
+            "04:09",
+            "04:12",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "why did the chicken cross the road",
+            "count": 9
+        },
+        {
+            "phrase": "we took all the eggs out of the nest",
+            "count": 1
+        },
+        {
+            "phrase": "coming home to roost",
+            "count": 1
+        },
+        {
+            "phrase": "the chickens had come home to roost",
+            "count": 1
+        }
+    ]
+}

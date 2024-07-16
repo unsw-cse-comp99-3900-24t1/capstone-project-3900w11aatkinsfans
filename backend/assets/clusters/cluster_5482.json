@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:23",
+            "04:19",
+            "04:52"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the unprintable word",
+            "count": 1
+        },
+        {
+            "phrase": "piece of paper",
+            "count": 1
+        },
+        {
+            "phrase": "mere pieces of paper",
+            "count": 1
+        },
+        {
+            "phrase": "bits and pieces",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:24"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if your boss is an idiot and is still allowed to work for your company then you need to find a job at a different company",
+            "count": 1
+        },
+        {
+            "phrase": "hold specific employment",
+            "count": 1
+        }
+    ]
+}

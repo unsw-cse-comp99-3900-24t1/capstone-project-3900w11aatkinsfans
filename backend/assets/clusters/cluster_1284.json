@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:12",
+            "00:27",
+            "00:39",
+            "00:42",
+            "00:51",
+            "01:04",
+            "01:20",
+            "01:47",
+            "02:39"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the balancing fuel will be coal",
+            "count": 4
+        },
+        {
+            "phrase": "fuels from heaven",
+            "count": 2
+        },
+        {
+            "phrase": "the use of vegetable oils for engine fuels may seem insignificant today but such oils may become in course of time as important as petroleum and the coal tar products of the present time",
+            "count": 1
+        },
+        {
+            "phrase": "ruan has a long tradition of seeking and implementing strategic fuel conservation measures which not only controls costs but helps protect the environment",
+            "count": 1
+        },
+        {
+            "phrase": "hydrogen is the fuel of the future and always will be",
+            "count": 1
+        },
+        {
+            "phrase": "dangerous over-reliance on carbon-based fuels",
+            "count": 1
+        },
+        {
+            "phrase": "clean and truly renewable",
+            "count": 1
+        },
+        {
+            "phrase": "bio diesel will have good financial benefits at the moment it costs quite a lot compared to crude oil but we have crude oil only for another 40 or 50 years before we go to that stage we should start and look at other possible sources",
+            "count": 1
+        }
+    ]
+}

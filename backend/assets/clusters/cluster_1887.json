@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:36",
+            "01:37",
+            "02:09",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the open minds forum",
+            "count": 5
+        },
+        {
+            "phrase": "anonymous internet forum",
+            "count": 2
+        },
+        {
+            "phrase": "anonymous yet secure",
+            "count": 1
+        },
+        {
+            "phrase": "database haters anonymous",
+            "count": 1
+        }
+    ]
+}

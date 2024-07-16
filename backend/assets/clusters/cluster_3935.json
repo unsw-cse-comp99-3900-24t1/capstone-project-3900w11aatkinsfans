@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:41",
+            "01:50",
+            "02:01",
+            "03:15"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "they're marketing their services to not only foreign governments but to fortune 500 corporations",
+            "count": 2
+        },
+        {
+            "phrase": "the process by which a multinational enterprise mne enters and invests in a target foreign country in pursuit of the strategic objectives",
+            "count": 1
+        },
+        {
+            "phrase": "endeavor's genius has been to get the establishment in these countries together not to kill these entrepreneurial companies but to support them",
+            "count": 1
+        },
+        {
+            "phrase": "you've got around 190 000 private military contractors out there doing all sorts of roles everything from armed security work to logistics and running base operations and things like that they work for all sorts of hundreds of different companies and again they're coming from around the world",
+            "count": 1
+        }
+    ]
+}

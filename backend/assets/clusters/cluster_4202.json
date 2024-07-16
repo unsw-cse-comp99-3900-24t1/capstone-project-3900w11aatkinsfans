@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:36",
+            "02:48",
+            "03:58",
+            "04:03",
+            "04:28"
+        ],
+        "label": "scars"
+    },
+    "clusterList": [
+        {
+            "phrase": "bringing back broadway",
+            "count": 2
+        },
+        {
+            "phrase": "scars on broadway",
+            "count": 1
+        },
+        {
+            "phrase": "broadway negro please when do we get out of here",
+            "count": 1
+        },
+        {
+            "phrase": "best of broadway",
+            "count": 1
+        }
+    ]
+}

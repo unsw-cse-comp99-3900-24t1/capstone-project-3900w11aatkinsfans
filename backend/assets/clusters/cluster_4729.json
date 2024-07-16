@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:52",
+            "01:47",
+            "02:42"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's one interesting yarn",
+            "count": 1
+        },
+        {
+            "phrase": "every real knitter knows what i am talking about",
+            "count": 1
+        },
+        {
+            "phrase": "sticking to its knitting",
+            "count": 1
+        },
+        {
+            "phrase": "this won't make sense to anyone who doesn't knit but",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:47",
+            "02:02",
+            "02:32",
+            "03:13",
+            "03:46",
+            "03:54",
+            "04:28",
+            "04:31"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well i've had lunch today but i'm thinking maybe there is some pie",
+            "count": 2
+        },
+        {
+            "phrase": "well i could share my lunch",
+            "count": 1
+        },
+        {
+            "phrase": "hey vix got any lunch plans",
+            "count": 1
+        },
+        {
+            "phrase": "quickie today at lunch",
+            "count": 1
+        },
+        {
+            "phrase": "what's for lunch",
+            "count": 1
+        },
+        {
+            "phrase": "we always provide a meal with our programs and activities and we carry lunches to those who can't make it",
+            "count": 1
+        },
+        {
+            "phrase": "co-worker are you hungry do you want to go grab lunch",
+            "count": 1
+        },
+        {
+            "phrase": "lunch is ordered in every single day",
+            "count": 1
+        },
+        {
+            "phrase": "you just had your lunch that is andys lunch",
+            "count": 1
+        }
+    ]
+}

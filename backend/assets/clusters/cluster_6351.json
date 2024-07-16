@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:07",
+            "02:24"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not that the internet is broken",
+            "count": 2
+        },
+        {
+            "phrase": "yeah it would be hard to break it now to completely stop using the internet",
+            "count": 1
+        }
+    ]
+}

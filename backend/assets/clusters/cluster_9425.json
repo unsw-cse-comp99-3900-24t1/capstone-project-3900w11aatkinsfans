@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "02:28"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why are you so obsessed with staying alive",
+            "count": 1
+        },
+        {
+            "phrase": "hanging on for dear life and dying",
+            "count": 1
+        }
+    ]
+}

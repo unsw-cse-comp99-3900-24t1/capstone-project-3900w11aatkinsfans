@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:34",
+            "01:14",
+            "04:04"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's pretty unheard of for so much accommodation to be available and there's no denying things have been slow",
+            "count": 2
+        },
+        {
+            "phrase": "for these people accommodation and food is a major issue so further to that we are in the planning stages of setting up some transitional and support accommodation in esperance for people with mental illness",
+            "count": 1
+        },
+        {
+            "phrase": "this is an issue i am very passionate about depending on funding i would hope we could get that accommodation set up within 12 months",
+            "count": 1
+        }
+    ]
+}

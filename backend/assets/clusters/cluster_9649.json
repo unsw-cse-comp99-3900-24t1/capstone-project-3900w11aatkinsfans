@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "02:43"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you should probably read this",
+            "count": 1
+        },
+        {
+            "phrase": "you should write about it",
+            "count": 1
+        }
+    ]
+}

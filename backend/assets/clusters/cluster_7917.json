@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:18",
+            "04:46"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i fell in love with new orleans right away",
+            "count": 1
+        },
+        {
+            "phrase": "we thought well that was pretty good but what about san francisco to sydney",
+            "count": 1
+        }
+    ]
+}

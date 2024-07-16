@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:10",
+            "00:34",
+            "04:08",
+            "04:13",
+            "04:54"
+        ],
+        "label": "during"
+    },
+    "clusterList": [
+        {
+            "phrase": "war is not healthy for children and other living things",
+            "count": 6
+        },
+        {
+            "phrase": "during war all institutions and organs of the state and of public opinion become directly or indirectly weapons of war this is particularly true of the press no government waging a serious war will allow publications to exist on its territory that openly or indirectly support the enemy still more so in a civil war the nature of the latter is such that each of the struggling sides has in the rear of its armies considerable circles of the population who support the enemy in war where both success and failure are repaid by death hostile agents who penetrate into the rear are subject to execution this is inhumane but no one ever considered war-or all the more civil war-to be a school of humanity",
+            "count": 1
+        },
+        {
+            "phrase": "health care not warfare",
+            "count": 1
+        },
+        {
+            "phrase": "war is the health of the state",
+            "count": 1
+        }
+    ]
+}

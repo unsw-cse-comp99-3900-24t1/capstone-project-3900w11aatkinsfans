@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:03",
+            "01:09",
+            "02:24"
+        ],
+        "label": "initial"
+    },
+    "clusterList": [
+        {
+            "phrase": "initial media coverage from the recent canadian g8 launch event has been highly positive",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:32",
+            "01:23",
+            "03:50"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is gonna get messy",
+            "count": 1
+        },
+        {
+            "phrase": "embrace the messy",
+            "count": 1
+        },
+        {
+            "phrase": "making a mess of everything",
+            "count": 1
+        },
+        {
+            "phrase": "you're just messy that's all there is to it but i still love you even if you're so messy",
+            "count": 1
+        }
+    ]
+}

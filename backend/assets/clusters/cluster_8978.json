@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:25"
+        ],
+        "label": "public"
+    },
+    "clusterList": [
+        {
+            "phrase": "public works inspector",
+            "count": 1
+        },
+        {
+            "phrase": "an inspector came to check me and the",
+            "count": 1
+        }
+    ]
+}

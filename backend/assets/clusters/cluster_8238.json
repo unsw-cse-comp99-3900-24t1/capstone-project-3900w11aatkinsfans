@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "04:28"
+        ],
+        "label": "unwelcome"
+    },
+    "clusterList": [
+        {
+            "phrase": "unwelcome sexual advances request for sexual favors and or other inappropriate verbal written or physical conduct of a sexual nature directed toward others",
+            "count": 1
+        },
+        {
+            "phrase": "vulgarity is raised to a lively art",
+            "count": 1
+        }
+    ]
+}

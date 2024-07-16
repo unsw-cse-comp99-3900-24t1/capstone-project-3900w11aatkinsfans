@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:06",
+            "01:10",
+            "01:33",
+            "01:51",
+            "02:09",
+            "02:14",
+            "04:18"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it will allow them the fair and just compensation that they've been seeking in an expeditious manner",
+            "count": 5
+        },
+        {
+            "phrase": "we think it will allow them the fair and just compensation that they've been seeking in an expeditious manner",
+            "count": 3
+        }
+    ]
+}

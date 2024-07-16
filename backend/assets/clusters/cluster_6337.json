@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "00:56",
+            "03:28"
+        ],
+        "label": "libertarians"
+    },
+    "clusterList": [
+        {
+            "phrase": "libertarians may differ on this issue but i've always been an open-borders libertarian",
+            "count": 1
+        },
+        {
+            "phrase": "this is one of those realpolitik issues where i fall off the strict libertarian bandwagon ideally",
+            "count": 1
+        },
+        {
+            "phrase": "as every libertarian must they often have to go into extended explanations about theory or some civics caveat or crunch when what they are really trying to say is",
+            "count": 1
+        }
+    ]
+}

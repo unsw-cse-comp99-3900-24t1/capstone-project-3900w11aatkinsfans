@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            6,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:52",
+            "01:20",
+            "01:37",
+            "01:40",
+            "02:02",
+            "02:09",
+            "02:26",
+            "03:14",
+            "04:04",
+            "04:41"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "snit you continually amaze me with how much of a liar and",
+            "count": 4
+        },
+        {
+            "phrase": "lying by implication",
+            "count": 4
+        },
+        {
+            "phrase": "show me one gal who says that and i'll show you a liar",
+            "count": 3
+        },
+        {
+            "phrase": "i'm not going to retract any of it every word i said was true",
+            "count": 2
+        },
+        {
+            "phrase": "i'm not a liar all the money i have is here",
+            "count": 2
+        },
+        {
+            "phrase": "you really shouldn't lie like that everyone else notices that you are not honest and you have no honor",
+            "count": 2
+        },
+        {
+            "phrase": "you want the truth you can't handle the truth",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not a liar i just bend the truth without realizing it that's all",
+            "count": 1
+        }
+    ]
+}

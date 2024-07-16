@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:29",
+            "00:53",
+            "01:07",
+            "01:46",
+            "02:42",
+            "03:05",
+            "03:18"
+        ],
+        "label": "ooh"
+    },
+    "clusterList": [
+        {
+            "phrase": "ooh you're one of the only ones who will be okay",
+            "count": 1
+        },
+        {
+            "phrase": "hey is anyone in there is everyone okay",
+            "count": 1
+        },
+        {
+            "phrase": "oh your ears are red are you ok",
+            "count": 1
+        },
+        {
+            "phrase": "oh fuck oh no oh shit are you ok",
+            "count": 1
+        },
+        {
+            "phrase": "everything's going to be ok",
+            "count": 1
+        },
+        {
+            "phrase": "actually it's quite ok with me",
+            "count": 1
+        },
+        {
+            "phrase": "does it look as though i'm okay",
+            "count": 1
+        },
+        {
+            "phrase": "klump are you alright",
+            "count": 1
+        },
+        {
+            "phrase": "i know i know you'll be alright",
+            "count": 1
+        },
+        {
+            "phrase": "are you alright down there",
+            "count": 1
+        }
+    ]
+}

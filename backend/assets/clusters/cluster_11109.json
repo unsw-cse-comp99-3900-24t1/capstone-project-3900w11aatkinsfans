@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "03:20"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two for the show",
+            "count": 1
+        },
+        {
+            "phrase": "four through the s a p",
+            "count": 1
+        }
+    ]
+}

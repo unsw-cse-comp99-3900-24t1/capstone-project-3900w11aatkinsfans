@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:13",
+            "01:52",
+            "02:33",
+            "03:55"
+        ],
+        "label": "kick"
+    },
+    "clusterList": [
+        {
+            "phrase": "kick the bottle",
+            "count": 5
+        }
+    ]
+}

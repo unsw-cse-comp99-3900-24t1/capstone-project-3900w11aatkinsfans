@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:01",
+            "02:10"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have some responsibility because i went and made another movie",
+            "count": 1
+        },
+        {
+            "phrase": "when i'm making a movie",
+            "count": 1
+        },
+        {
+            "phrase": "i work as though making the movie by hand i give all i have in filming",
+            "count": 1
+        }
+    ]
+}

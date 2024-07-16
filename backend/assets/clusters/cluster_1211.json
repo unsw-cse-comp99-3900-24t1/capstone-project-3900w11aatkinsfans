@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            3,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:42",
+            "01:23",
+            "01:58",
+            "02:43",
+            "03:23",
+            "04:05"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have a further responsibility to treat the whole patient both mentally and physically allowing patients to use tobacco products while in our care defeats this purpose",
+            "count": 10
+        },
+        {
+            "phrase": "pregnant women who smoke not only compromise their own health but that of their baby",
+            "count": 1
+        },
+        {
+            "phrase": "cigarette smoking during pregnancy increases the risk of complications premature delivery low birth weight infants and still birth",
+            "count": 1
+        },
+        {
+            "phrase": "nursing mothers who smoke pass on nicotine to their babies through breast milk",
+            "count": 1
+        }
+    ]
+}

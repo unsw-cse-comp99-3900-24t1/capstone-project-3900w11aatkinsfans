@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "04:12"
+        ],
+        "label": "any"
+    },
+    "clusterList": [
+        {
+            "phrase": "any factor other than sex",
+            "count": 2
+        },
+        {
+            "phrase": "bona fide factor other than sex",
+            "count": 1
+        }
+    ]
+}

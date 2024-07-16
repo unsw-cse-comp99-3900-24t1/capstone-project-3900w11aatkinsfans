@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:22",
+            "00:24",
+            "00:32",
+            "00:51",
+            "00:56",
+            "01:06",
+            "01:10",
+            "01:16",
+            "01:51",
+            "02:14",
+            "02:25",
+            "02:55",
+            "03:05",
+            "03:38",
+            "03:46",
+            "04:17",
+            "04:27",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know that i don't look like the americans who've previously spoken in this great city",
+            "count": 14
+        },
+        {
+            "phrase": "i don't look like the americans who've previously spoken in this great city",
+            "count": 2
+        },
+        {
+            "phrase": "i know that i don't look like the americans who've previously spoken in this great city the journey that led me here is improbable my mother was born in the heartland of america but my father grew up herding goats in kenya his father my grandfather was a cook a domestic servant to the british",
+            "count": 1
+        },
+        {
+            "phrase": "you americans what is wrong with you and the crazy way you see your family i would never say that about my mother",
+            "count": 1
+        },
+        {
+            "phrase": "i know that i don t look like the americans who ve previously spoken in this great city",
+            "count": 1
+        },
+        {
+            "phrase": "and why wouldn't i have an accent i wasn't born here",
+            "count": 1
+        }
+    ]
+}

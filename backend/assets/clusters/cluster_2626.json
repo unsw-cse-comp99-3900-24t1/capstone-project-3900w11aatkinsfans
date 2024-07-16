@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:07",
+            "02:02",
+            "02:32",
+            "04:04",
+            "04:41"
+        ],
+        "label": "right"
+    },
+    "clusterList": [
+        {
+            "phrase": "and let others enjoy the privilege to do so too",
+            "count": 4
+        },
+        {
+            "phrase": "right you have a lot of duties being a leader",
+            "count": 1
+        },
+        {
+            "phrase": "it has been a privilege to do the job",
+            "count": 1
+        },
+        {
+            "phrase": "it's been such an honor to be able to hire such good folks",
+            "count": 1
+        }
+    ]
+}

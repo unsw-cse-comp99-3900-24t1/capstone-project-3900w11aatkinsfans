@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:24",
+            "02:17",
+            "03:51",
+            "05:04"
+        ],
+        "label": "blaaaah"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are lots of false starts where the band can't get it together",
+            "count": 2
+        },
+        {
+            "phrase": "blaaaah ok so do you have any idea wait check that question how about will you be able to figure out who and what and why this recording was dropped here i mean it was literally airmailed and was that an eno track followed by firesign",
+            "count": 1
+        },
+        {
+            "phrase": "overcast songs plus 2 previously unreleased songs and is due out august 19th via",
+            "count": 1
+        },
+        {
+            "phrase": "we kick off this week's results show not with a group medley but a group song",
+            "count": 1
+        }
+    ]
+}

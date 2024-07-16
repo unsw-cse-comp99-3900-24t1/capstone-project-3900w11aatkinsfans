@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "04:58"
+        ],
+        "label": "inflict"
+    },
+    "clusterList": [
+        {
+            "phrase": "struggle within the ranks",
+            "count": 3
+        },
+        {
+            "phrase": "inflict the biggest losses in the ranks of the enemy and decrease to the minimum your own losses",
+            "count": 2
+        },
+        {
+            "phrase": "there's dissension in the ranks",
+            "count": 1
+        }
+    ]
+}

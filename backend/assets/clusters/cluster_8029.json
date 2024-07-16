@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:06"
+        ],
+        "label": "pets"
+    },
+    "clusterList": [
+        {
+            "phrase": "pets may help patients with type 1 diabetes through aiding them when hypoglycemic",
+            "count": 1
+        },
+        {
+            "phrase": "take canine glucose sensing to a new level of sophistication",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "04:00"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's on a weds night",
+            "count": 1
+        },
+        {
+            "phrase": "at a wedding see the video below",
+            "count": 1
+        }
+    ]
+}

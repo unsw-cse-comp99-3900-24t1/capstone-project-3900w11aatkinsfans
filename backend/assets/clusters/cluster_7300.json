@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:46",
+            "03:21"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll admit mgs has not had success in the mmo space and that happened under my leadership so i take full responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "microsoft's mmo difficulties",
+            "count": 1
+        },
+        {
+            "phrase": "i'll admit microsoft game studios has not had success in the mmo space and that happened under my leadership so i take full responsibility",
+            "count": 1
+        }
+    ]
+}

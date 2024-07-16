@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "04:03"
+        ],
+        "label": "who's"
+    },
+    "clusterList": [
+        {
+            "phrase": "who's the one whose name begins with a j and ends with an n",
+            "count": 1
+        },
+        {
+            "phrase": "two names on each line",
+            "count": 1
+        }
+    ]
+}

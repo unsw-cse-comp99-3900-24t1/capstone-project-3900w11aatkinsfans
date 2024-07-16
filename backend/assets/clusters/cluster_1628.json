@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "mr"
+    },
+    "clusterList": [
+        {
+            "phrase": "mr gore has a bit of a reputation for flip-flopping and corner-cutting",
+            "count": 6
+        },
+        {
+            "phrase": "how thankful i am that god did not allow gore to be elected to an office",
+            "count": 4
+        }
+    ]
+}

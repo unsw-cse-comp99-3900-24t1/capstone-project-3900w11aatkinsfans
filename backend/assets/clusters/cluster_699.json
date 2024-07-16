@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:10",
+            "00:15",
+            "00:22",
+            "00:24",
+            "00:48",
+            "01:19",
+            "01:39",
+            "02:13",
+            "02:33",
+            "02:43",
+            "04:28",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the perfect storm",
+            "count": 4
+        },
+        {
+            "phrase": "where there is smoke there is fire",
+            "count": 2
+        },
+        {
+            "phrase": "a fire rain",
+            "count": 2
+        },
+        {
+            "phrase": "forest fire winter",
+            "count": 2
+        },
+        {
+            "phrase": "when it rains it pours",
+            "count": 2
+        },
+        {
+            "phrase": "september in the rain",
+            "count": 1
+        },
+        {
+            "phrase": "fire and rain",
+            "count": 1
+        },
+        {
+            "phrase": "the weather project",
+            "count": 1
+        },
+        {
+            "phrase": "conventional fires by contrasting slowly emit much cooler smoke into the troposphere where it is rapidly and constantly dissipated including by rainfall kinda like a squid leaking ink into water",
+            "count": 1
+        },
+        {
+            "phrase": "waiting for the rain",
+            "count": 1
+        },
+        {
+            "phrase": "faces come out of the rain",
+            "count": 1
+        },
+        {
+            "phrase": "man up and face the rain",
+            "count": 1
+        }
+    ]
+}

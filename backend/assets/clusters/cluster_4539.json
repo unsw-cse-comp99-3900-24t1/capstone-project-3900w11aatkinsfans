@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "01:00",
+            "03:48"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if tries like folau's keep happening i'm sure rugby league will look to have aerial coaches fulltime to give players advice",
+            "count": 2
+        },
+        {
+            "phrase": "wanted coachmen must be sober industrious and reliable no irish need apply",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sure there's sensitivity around what coaches can and can't do and how much of a risk they're prepared to take with players in danger of suspension it does play a big part in your thinking at this point in the season",
+            "count": 1
+        }
+    ]
+}

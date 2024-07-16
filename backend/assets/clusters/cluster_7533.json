@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:37",
+            "04:09"
+        ],
+        "label": "low-paid"
+    },
+    "clusterList": [
+        {
+            "phrase": "low-paid councils and hospital staff across the country will be able",
+            "count": 1
+        },
+        {
+            "phrase": "these people are in very high demand overseas there's an international market for specialists and it's pretty hard for us to keep up with salaries overseas but we can provide a supportive environment and encourage specialists to stay on it's a very real benefit both for the vet hospital the vet school in terms of teaching capability and for new zealand to have access to these very skilled vets",
+            "count": 1
+        },
+        {
+            "phrase": "it's a substantial contribution to vet education and one which both the institute and the wider profession will benefit from",
+            "count": 1
+        }
+    ]
+}

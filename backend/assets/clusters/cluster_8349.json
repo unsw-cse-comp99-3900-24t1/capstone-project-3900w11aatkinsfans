@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:34"
+        ],
+        "label": "robert"
+    },
+    "clusterList": [
+        {
+            "phrase": "robert rogers puppet show bugtown follies",
+            "count": 1
+        },
+        {
+            "phrase": "the lone and mildly terrified white kid played with unassuming humor by hunter parrish",
+            "count": 1
+        }
+    ]
+}

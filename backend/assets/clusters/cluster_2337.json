@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:04",
+            "01:07",
+            "01:25",
+            "04:03",
+            "04:21",
+            "04:54",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mechanism still contains many mysteries",
+            "count": 2
+        },
+        {
+            "phrase": "in some sense there have been breakthroughs",
+            "count": 2
+        },
+        {
+            "phrase": "i think it's a very interesting discovery",
+            "count": 1
+        },
+        {
+            "phrase": "really interesting hypothesis",
+            "count": 1
+        },
+        {
+            "phrase": "it's a really new avenue of research",
+            "count": 1
+        },
+        {
+            "phrase": "this is a major discovery with enormous implications",
+            "count": 1
+        }
+    ]
+}

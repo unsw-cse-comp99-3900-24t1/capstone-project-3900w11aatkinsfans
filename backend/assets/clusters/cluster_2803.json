@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:20",
+            "01:42",
+            "03:54",
+            "04:28",
+            "04:37",
+            "04:45"
+        ],
+        "label": "food"
+    },
+    "clusterList": [
+        {
+            "phrase": "the rba went too far with its rate hikes nobody wants to see retail spending falling as quickly as this",
+            "count": 2
+        },
+        {
+            "phrase": "food prices soaring worldwide thanks to freak weather global economy changes",
+            "count": 1
+        },
+        {
+            "phrase": "with reduced consumer spending businesses have cut back on advertising",
+            "count": 1
+        },
+        {
+            "phrase": "when things get weaker economically the saying is people drink more beer and go fishing",
+            "count": 1
+        },
+        {
+            "phrase": "the economic downturn impacts how people shop",
+            "count": 1
+        },
+        {
+            "phrase": "consumers have really pulled back on their spending the middle-american consumer is hurting so we are hurting",
+            "count": 1
+        }
+    ]
+}

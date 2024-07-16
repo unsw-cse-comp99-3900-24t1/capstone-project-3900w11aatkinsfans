@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:08",
+            "03:11",
+            "04:13",
+            "04:32"
+        ],
+        "label": "pays"
+    },
+    "clusterList": [
+        {
+            "phrase": "pays her bills",
+            "count": 1
+        },
+        {
+            "phrase": "it's not complex it's simple don't spend more than you make we manage to work within our income",
+            "count": 1
+        },
+        {
+            "phrase": "a cash handout but will help by paying some of the bills after they've been incurred",
+            "count": 1
+        },
+        {
+            "phrase": "there are bills to pay and work to be done",
+            "count": 1
+        }
+    ]
+}

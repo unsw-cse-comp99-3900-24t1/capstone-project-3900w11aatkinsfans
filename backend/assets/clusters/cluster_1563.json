@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:24",
+            "00:33",
+            "02:14",
+            "02:48",
+            "04:00",
+            "04:17",
+            "04:38",
+            "05:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a chance for skilled and experienced executives to bring a fresh perspective in their new portfolio areas",
+            "count": 3
+        },
+        {
+            "phrase": "what are the cultural foundations and current trends that will shape this marketplace",
+            "count": 2
+        },
+        {
+            "phrase": "it's partially to offset the challenges in the physical market with the expertise we have",
+            "count": 1
+        },
+        {
+            "phrase": "apple wants it to be a bigger more profitable industry",
+            "count": 1
+        },
+        {
+            "phrase": "companies like wal-mart will give more shelf space to those companies that can reduce their footprint employees demanding more from companies they work for is another clear force that creates a compelling business need it's tough enough to compete for the best talent without turning them off on values-driven and environmental issues",
+            "count": 1
+        },
+        {
+            "phrase": "i think it should be a much broader effort all the services that we use and buy should also be subject to the same scrutiny",
+            "count": 1
+        },
+        {
+            "phrase": "we support the setting up of the industries in these areas but at the same time the companies should give first preference to the locals",
+            "count": 1
+        },
+        {
+            "phrase": "we already have three companies monopolising the market ifit becomes two companies and a more monopolistic market it wouldbe easier for them to control the market and prices and thatwould have more of a negative impact on consumers",
+            "count": 1
+        }
+    ]
+}

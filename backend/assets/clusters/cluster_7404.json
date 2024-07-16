@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:43",
+            "04:24"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "the pollution will cause their lungs to decrease in diameter so they will not be able to take as much air into their lungs which will affect their performance",
+            "count": 2
+        },
+        {
+            "phrase": "they are environmental nightmares and they need to be addressed",
+            "count": 1
+        }
+    ]
+}

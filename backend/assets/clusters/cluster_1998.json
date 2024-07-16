@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:34",
+            "01:10",
+            "02:23",
+            "03:09",
+            "03:11",
+            "03:54",
+            "04:14",
+            "04:45"
+        ],
+        "label": "like"
+    },
+    "clusterList": [
+        {
+            "phrase": "like a bunch of pests",
+            "count": 1
+        },
+        {
+            "phrase": "insectropolis bugs on the go",
+            "count": 1
+        },
+        {
+            "phrase": "a bug's life",
+            "count": 1
+        },
+        {
+            "phrase": "parade of bugs",
+            "count": 1
+        },
+        {
+            "phrase": "the bug man",
+            "count": 1
+        },
+        {
+            "phrase": "guess i'd rather talk to you about bugs than nothing with nobody",
+            "count": 1
+        },
+        {
+            "phrase": "speaking of bugs",
+            "count": 1
+        },
+        {
+            "phrase": "the potato bug",
+            "count": 1
+        },
+        {
+            "phrase": "the only bug i don't like is a wasp",
+            "count": 1
+        }
+    ]
+}

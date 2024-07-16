@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "03:39",
+            "04:09",
+            "04:10",
+            "04:13"
+        ],
+        "label": "however"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will continue to do everything we can to help him continue his academic career and achieve his goal of graduation",
+            "count": 3
+        },
+        {
+            "phrase": "however i can tell you that we are taking all that is necessary to be ready and to step up and to fulfill our requirements play our role in this transitional time",
+            "count": 1
+        },
+        {
+            "phrase": "need to do more to honour our commitments",
+            "count": 1
+        }
+    ]
+}

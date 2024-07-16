@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "00:47",
+            "01:51"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're aware of the situation we have collected samples from the pupils and sent them to the laboratory for analyses",
+            "count": 1
+        },
+        {
+            "phrase": "notified us they had a potential release of chemicals",
+            "count": 1
+        },
+        {
+            "phrase": "we found through a lab test that there were dangerous chemicals but it began with the school accountability report card",
+            "count": 1
+        }
+    ]
+}

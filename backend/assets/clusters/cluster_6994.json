@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "02:44",
+            "03:18"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's birdy he is just a big sook he cries a lot",
+            "count": 1
+        },
+        {
+            "phrase": "when we got him back he was lean and thin and he cried all the time",
+            "count": 1
+        },
+        {
+            "phrase": "for your information this is a kitten and can you please hold him for a second he won't stop crying",
+            "count": 1
+        }
+    ]
+}

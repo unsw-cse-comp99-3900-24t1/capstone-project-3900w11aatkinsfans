@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "03:42"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow that was a minor inconvenience",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            4,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "00:56",
+            "01:20",
+            "02:00",
+            "02:02",
+            "02:09",
+            "03:18",
+            "03:42"
+        ],
+        "label": "okay"
+    },
+    "clusterList": [
+        {
+            "phrase": "alright i'm gonna allow it",
+            "count": 6
+        },
+        {
+            "phrase": "don't bring me down",
+            "count": 3
+        },
+        {
+            "phrase": "okay little fella i'm going to let you down now",
+            "count": 1
+        },
+        {
+            "phrase": "it's ok just please come back dont do this please",
+            "count": 1
+        },
+        {
+            "phrase": "don't bring me down brrrruce",
+            "count": 1
+        },
+        {
+            "phrase": "i'll come back don't worry",
+            "count": 1
+        },
+        {
+            "phrase": "alright i'm not going to be easy on you",
+            "count": 1
+        },
+        {
+            "phrase": "okay well you showed it to me now put me down",
+            "count": 1
+        }
+    ]
+}

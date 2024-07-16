@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:36"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a truck packed with central security personnel arrived and arrested 14 of the 30 demonstrators while the rest managed to flee",
+            "count": 1
+        },
+        {
+            "phrase": "the passengers pulled the chain to stop the train immediately and people started jumping out of the train",
+            "count": 1
+        }
+    ]
+}

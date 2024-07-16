@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the world according to monsanto",
+            "count": 1
+        },
+        {
+            "phrase": "the alliance for abundant food and energy in washington d c was created by archer daniels midland co dupont co deere amp co monsanto co and the renewable fuels association",
+            "count": 1
+        }
+    ]
+}

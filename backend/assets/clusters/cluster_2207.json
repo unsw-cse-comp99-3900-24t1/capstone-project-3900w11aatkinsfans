@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:38",
+            "01:48",
+            "02:01",
+            "02:28",
+            "03:28",
+            "04:09",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "surrogates and high-profile supporters have their place in the campaign",
+            "count": 2
+        },
+        {
+            "phrase": "activities specifically related to raising campaign resources",
+            "count": 2
+        },
+        {
+            "phrase": "i heard they are interested to contribute through the grassroots and we welcome their ideas",
+            "count": 1
+        },
+        {
+            "phrase": "we'll primarily be providing more tools to engage with the campaign directly as well as to spreading the message and getting the word out to voters",
+            "count": 1
+        },
+        {
+            "phrase": "as a result the powers that be-who are basically politicians constantly vying for re-election-prefer to spend that money on more glamorous things that get noticed by the public",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think it could be successful without a campaign like that people need to know what they're voting for",
+            "count": 1
+        }
+    ]
+}

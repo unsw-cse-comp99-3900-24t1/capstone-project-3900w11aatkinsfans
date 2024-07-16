@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "05:00"
+        ],
+        "label": "mrs"
+    },
+    "clusterList": [
+        {
+            "phrase": "mrs smith do you realize these are birth control pills",
+            "count": 1
+        },
+        {
+            "phrase": "mrs smith i assure you there is absolutely nothing in these that",
+            "count": 1
+        },
+        {
+            "phrase": "this is not a pill this is a program",
+            "count": 1
+        }
+    ]
+}

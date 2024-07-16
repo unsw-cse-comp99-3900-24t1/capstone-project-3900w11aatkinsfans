@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:27",
+            "04:13",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the ucla music library's archive of american popular music is a research collection covering the history of popular music in the united states from 1790 through the present",
+            "count": 1
+        },
+        {
+            "phrase": "in some cases these songs will transcend their times and become permanent fixtures in the nation's patriotic songbook",
+            "count": 1
+        },
+        {
+            "phrase": "the 16 concept albums that followed his most remarkable achievement and among america's enduring cultural treasures defied public taste and redirected it toward what would be known as the great american songbook",
+            "count": 1
+        }
+    ]
+}

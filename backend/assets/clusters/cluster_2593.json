@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:40",
+            "02:26",
+            "03:27",
+            "03:29",
+            "04:14",
+            "04:28"
+        ],
+        "label": "timetable"
+    },
+    "clusterList": [
+        {
+            "phrase": "unofficial deadline for the deal has long been july 31 also the white house announced late on wednesday that president bush would make a statement on iraq on thursday morning",
+            "count": 3
+        },
+        {
+            "phrase": "timetable for withdrawal",
+            "count": 2
+        },
+        {
+            "phrase": "us presidential candidate barack obama talks about sixteen months that we think would be the right time frame for a withdrawal with the possibility of slight changes",
+            "count": 2
+        }
+    ]
+}

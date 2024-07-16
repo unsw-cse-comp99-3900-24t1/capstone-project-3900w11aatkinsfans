@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "04:26"
+        ],
+        "label": "sumthin's"
+    },
+    "clusterList": [
+        {
+            "phrase": "sumthin's gotta give",
+            "count": 5
+        },
+        {
+            "phrase": "the big give",
+            "count": 1
+        }
+    ]
+}

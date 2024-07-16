@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:04",
+            "02:01",
+            "04:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i really think they'd have to do five movies",
+            "count": 1
+        },
+        {
+            "phrase": "i will not be pitching art films i want to make mainstream tentpole projects",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to have to worry about how the pre-sales are going i want to make the movie",
+            "count": 1
+        },
+        {
+            "phrase": "i want to make good movies that could potentially be a hit",
+            "count": 1
+        },
+        {
+            "phrase": "i have made two thrillers that doesn't mean i don't like other genres i want to do other genres this film has got shocks and surprises but it is not a thriller it is more of a personal story it doesn't have blood or guns",
+            "count": 1
+        }
+    ]
+}

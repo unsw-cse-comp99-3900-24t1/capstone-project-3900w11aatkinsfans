@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "03:20",
+            "04:47",
+            "04:59"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it really doesn't matter how many years they're getting",
+            "count": 2
+        },
+        {
+            "phrase": "more of a five-year-guy than a 20-year-guy",
+            "count": 1
+        },
+        {
+            "phrase": "they know they haven't got 10 years left of their career so they want to make the most of it",
+            "count": 1
+        }
+    ]
+}

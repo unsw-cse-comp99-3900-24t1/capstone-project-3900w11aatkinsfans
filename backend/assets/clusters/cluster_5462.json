@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:19",
+            "04:13",
+            "04:49"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't have data to say which one way complements best but from the scientific side there's been a lot of talk of what the next step should be",
+            "count": 1
+        },
+        {
+            "phrase": "then your claim is simply false because there is no scientific consensus that the outcomes you list are",
+            "count": 1
+        },
+        {
+            "phrase": "honest scientific studies don't start with the conclusion and then work backwards from there",
+            "count": 1
+        },
+        {
+            "phrase": "the best evidence is scientific evidence",
+            "count": 1
+        }
+    ]
+}

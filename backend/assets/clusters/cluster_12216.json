@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can't think of a worse idea than",
+            "count": 1
+        },
+        {
+            "phrase": "no one has said it is a bad idea",
+            "count": 1
+        }
+    ]
+}

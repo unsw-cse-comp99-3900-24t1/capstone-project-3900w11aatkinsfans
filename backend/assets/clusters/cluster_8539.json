@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:27"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the sixth sense",
+            "count": 1
+        },
+        {
+            "phrase": "the happening vs the sixth sense",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:11",
+            "00:50",
+            "03:14",
+            "03:47",
+            "04:46"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "clearly has other priorities",
+            "count": 2
+        },
+        {
+            "phrase": "an absolute priority",
+            "count": 1
+        },
+        {
+            "phrase": "in matters of prioritizing what needs to be done immediately always supercedes what is seemingly important",
+            "count": 1
+        },
+        {
+            "phrase": "that's the no 1 priority",
+            "count": 1
+        },
+        {
+            "phrase": "which should be a higher priority for the",
+            "count": 1
+        }
+    ]
+}

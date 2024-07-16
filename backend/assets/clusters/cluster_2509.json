@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:04",
+            "01:07",
+            "03:08",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "obama"
+    },
+    "clusterList": [
+        {
+            "phrase": "obama is the first presidential candidate to refuse federal funds in a general election",
+            "count": 5
+        },
+        {
+            "phrase": "i'm not the usual white candidate",
+            "count": 1
+        },
+        {
+            "phrase": "but as support for obama developed and it was likely obama would be the nominee i said to tim if that guy comes to you and offers you a cogent argument for vice president you have to consider it",
+            "count": 1
+        }
+    ]
+}

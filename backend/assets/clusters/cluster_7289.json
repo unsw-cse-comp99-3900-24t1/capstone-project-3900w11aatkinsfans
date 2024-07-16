@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:19",
+            "03:27",
+            "05:04"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we understand residents being concerned",
+            "count": 1
+        },
+        {
+            "phrase": "a group of concerned citizens",
+            "count": 1
+        },
+        {
+            "phrase": "at least they seem like they're doing everything they can to not make it a burden on the residents",
+            "count": 1
+        }
+    ]
+}

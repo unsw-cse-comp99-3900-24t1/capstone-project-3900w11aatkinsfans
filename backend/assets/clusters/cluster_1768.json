@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:30",
+            "00:51",
+            "01:19",
+            "01:25",
+            "02:50",
+            "03:35",
+            "04:04",
+            "04:17"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but when you have two or three of them it just really helps you focus in a little bit more",
+            "count": 5
+        },
+        {
+            "phrase": "it's just basically using your head your mind to help your body",
+            "count": 2
+        },
+        {
+            "phrase": "but i start focusing a day or two before the sideline is coming because that's the stuff that really matters",
+            "count": 1
+        },
+        {
+            "phrase": "but you know that you do better if you get it over with first thing in the morning",
+            "count": 1
+        },
+        {
+            "phrase": "it's good for the environment it's good for my mind i love it it's a great way to start and end your day",
+            "count": 1
+        }
+    ]
+}

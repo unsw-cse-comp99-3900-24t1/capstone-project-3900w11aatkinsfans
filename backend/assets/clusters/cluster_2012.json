@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:10",
+            "00:38",
+            "01:07",
+            "01:33",
+            "04:13",
+            "04:28",
+            "04:29",
+            "04:33"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was an important hour for us",
+            "count": 3
+        },
+        {
+            "phrase": "miraculously we did get the show up but not without very significant and unnecessary stress placed on us by the last-minute cut",
+            "count": 1
+        },
+        {
+            "phrase": "well though we needed a bit of rest no",
+            "count": 1
+        },
+        {
+            "phrase": "we went a little longer than i thought we were going to go wednesday night so we backed off just a hair",
+            "count": 1
+        },
+        {
+            "phrase": "we just felt at the end of the day",
+            "count": 1
+        },
+        {
+            "phrase": "it felt quite like time off for us",
+            "count": 1
+        },
+        {
+            "phrase": "we said no time and again and we were doing that right up until the final minute",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:59",
+            "03:47",
+            "04:08",
+            "04:32"
+        ],
+        "label": "hard"
+    },
+    "clusterList": [
+        {
+            "phrase": "next time i say we've been in tougher spots than this i mean this",
+            "count": 2
+        },
+        {
+            "phrase": "hard to defend",
+            "count": 1
+        },
+        {
+            "phrase": "tougher to play against",
+            "count": 1
+        }
+    ]
+}

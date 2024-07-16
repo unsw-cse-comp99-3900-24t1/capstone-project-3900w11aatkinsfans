@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            8,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:06",
+            "01:19",
+            "03:48",
+            "04:15",
+            "04:28"
+        ],
+        "label": "intensive"
+    },
+    "clusterList": [
+        {
+            "phrase": "if a patient is scheduled for a physical he or she may tune up by changing their regimen for a few days and throw off their test results causing doctors to miss the patient's usual pattern of high blood sugar",
+            "count": 4
+        },
+        {
+            "phrase": "could greatly enhance how well we're able to identify people with diabetes",
+            "count": 4
+        },
+        {
+            "phrase": "intensive research has been devoted to the development of hypoglycemia alarms",
+            "count": 1
+        },
+        {
+            "phrase": "hypoglycemia alarm dogs could provide an important aid to patients with poor awareness of symptoms particularly those prone to night-time episodes or who live alone",
+            "count": 1
+        },
+        {
+            "phrase": "peculiar behavior during the patient's hypoglycemic attacks",
+            "count": 1
+        },
+        {
+            "phrase": "reduced awareness of hypoglycemia and does not wake up during nocturnal episodes",
+            "count": 1
+        },
+        {
+            "phrase": "all were clearly able to sense hypoglycemia accurately under circumstances when the patients themselves were initially unaware of falling glucose levels",
+            "count": 1
+        },
+        {
+            "phrase": "formal calculations of sensitivity and specificity are not possible but each dog showed his or her specific behaviors only when the patient had documented hypoglycemia",
+            "count": 1
+        },
+        {
+            "phrase": "research is urgently needed to determine whether dogs can be trained to recognize and react to early signs of hypoglycemia",
+            "count": 1
+        },
+        {
+            "phrase": "most patients we diagnose come to us because of a sudden change in vision maybe their vision is blurry and they have never worn glasses and they are concerned we are often the first doctor they see we end up being the ones who determine they have diabetes and refer them to other medical experts for follow-up treatment",
+            "count": 1
+        }
+    ]
+}

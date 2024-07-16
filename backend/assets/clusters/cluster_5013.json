@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:55",
+            "02:32",
+            "04:31"
+        ],
+        "label": "honey"
+    },
+    "clusterList": [
+        {
+            "phrase": "somebody get a f-ing corn dog in his hand now",
+            "count": 2
+        },
+        {
+            "phrase": "honey wake up the dog got sprayed by a skunk",
+            "count": 1
+        },
+        {
+            "phrase": "the dog was sprayed by a skunk again",
+            "count": 1
+        }
+    ]
+}

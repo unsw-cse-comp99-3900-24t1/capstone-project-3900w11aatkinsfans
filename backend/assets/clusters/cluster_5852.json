@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:52",
+            "03:03",
+            "03:27"
+        ],
+        "label": "looking"
+    },
+    "clusterList": [
+        {
+            "phrase": "the vision thing",
+            "count": 2
+        },
+        {
+            "phrase": "looking like a deer in the headlights",
+            "count": 1
+        }
+    ]
+}

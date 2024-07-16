@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "02:46",
+            "03:34"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now i can't because of some little game or some little ploy it's not fair to me i showed up to work i do the job i was asked to do",
+            "count": 1
+        },
+        {
+            "phrase": "i worked hard when i worked and played hard when i played",
+            "count": 1
+        },
+        {
+            "phrase": "you do what you want if you're not back at work at noon tomorrow you won't have any stuff to pick up i am not playing this game i have worked so hard to get the insanity out of my life and you're just bringing it back in droves i can't do it",
+            "count": 1
+        }
+    ]
+}

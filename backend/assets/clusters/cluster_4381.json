@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:37",
+            "01:11"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as we said yesterday we agree with david that the whole party should pull together take the fight to the tories and focus on dealing with the real issues affecting people's lives",
+            "count": 1
+        },
+        {
+            "phrase": "we're rejigging the party organisation so we're fit to win and fit to deliver our programme for government",
+            "count": 1
+        },
+        {
+            "phrase": "rather than the odd spin mission morris iemma should get on and fix the problems in nsw and the politics will take care of itself",
+            "count": 1
+        },
+        {
+            "phrase": "it really does have to be about coming together in a bitterly divided time very tough issues very divided it's a time for people who want to roll up their sleeves and get results and i'm a guy who really says results ought to come first it's not legislative wins and losses or who's in today and out tomorrow it's results that can be measured in peoples lives",
+            "count": 1
+        }
+    ]
+}

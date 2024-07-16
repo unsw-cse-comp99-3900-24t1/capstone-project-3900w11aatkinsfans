@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:56",
+            "01:38",
+            "01:51",
+            "02:19",
+            "02:39",
+            "03:09",
+            "03:15",
+            "03:18",
+            "03:34",
+            "03:56"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you go home you will experience many things the only thing you need to worry about are signs of infection",
+            "count": 2
+        },
+        {
+            "phrase": "we haven't spoken to your doctor yet but i don't want to make you wait any longer",
+            "count": 1
+        },
+        {
+            "phrase": "i'll be training and getting treatment over the next few days to confirm my participation by monday",
+            "count": 1
+        },
+        {
+            "phrase": "blah blah i'm not leaving i need to speak to a different doctor",
+            "count": 1
+        },
+        {
+            "phrase": "i will leave a message for your doctor",
+            "count": 1
+        },
+        {
+            "phrase": "this is my first time coming i learned about the clinic from a friend of mine who read about it on someone else's blog",
+            "count": 1
+        },
+        {
+            "phrase": "ok pick up your antibiotics in an hour at kaiser",
+            "count": 1
+        },
+        {
+            "phrase": "i'll call a doctor for this",
+            "count": 1
+        },
+        {
+            "phrase": "i think you need to get some treatment i'll go get the first aid kit",
+            "count": 1
+        },
+        {
+            "phrase": "only 1 day left huh well i want you to know that if you ever want some patient clinic experience or advice or even just support on the side all you have to do is call please keep us in the loop with how you're doing and let me know if there's anything i can do",
+            "count": 1
+        },
+        {
+            "phrase": "i have a doctor's appointment later this morning and it doesn't make a lot of sense to come in and leave again and kill an hour of work time on the road when my doctor is a mile from my house so i'm going to make my calls at home and come in after the appointment call me if you need anything",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "04:00"
+        ],
+        "label": "looking"
+    },
+    "clusterList": [
+        {
+            "phrase": "looking for interesting products to review that dont really haveanywhere else to be reviewed for our second book",
+            "count": 1
+        },
+        {
+            "phrase": "book reviews from behind bars",
+            "count": 1
+        }
+    ]
+}

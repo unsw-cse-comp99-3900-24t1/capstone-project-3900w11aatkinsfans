@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:48",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the violence in american cities has a direct cause and effect related to what is taking place in mexico",
+            "count": 1
+        },
+        {
+            "phrase": "in the u s there will be violence but it's local decentralized a small dose compared to mexico",
+            "count": 1
+        },
+        {
+            "phrase": "this is a state without control incapable at a local or national level of combating the narcos",
+            "count": 1
+        },
+        {
+            "phrase": "there's a real disconnect in this country between what people perceive is the state of indigent defense and what it is",
+            "count": 1
+        }
+    ]
+}

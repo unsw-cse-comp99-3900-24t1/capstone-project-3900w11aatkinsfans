@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:36",
+            "02:51"
+        ],
+        "label": "once"
+    },
+    "clusterList": [
+        {
+            "phrase": "once upon dickson",
+            "count": 1
+        },
+        {
+            "phrase": "once upon a time",
+            "count": 1
+        },
+        {
+            "phrase": "once upon a time in the west",
+            "count": 1
+        }
+    ]
+}

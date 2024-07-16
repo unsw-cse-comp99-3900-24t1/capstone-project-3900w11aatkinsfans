@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "02:51",
+            "04:46"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that was the loudest thing i've ever heard so what were you saying",
+            "count": 1
+        },
+        {
+            "phrase": "that is so not what i was hoping to hear",
+            "count": 1
+        },
+        {
+            "phrase": "hey thats not what i am hearing",
+            "count": 1
+        }
+    ]
+}

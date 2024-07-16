@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:21",
+            "01:34",
+            "04:36"
+        ],
+        "label": "schools"
+    },
+    "clusterList": [
+        {
+            "phrase": "schools on facebook",
+            "count": 1
+        },
+        {
+            "phrase": "education week's digital directions learning even when schools are closed",
+            "count": 1
+        },
+        {
+            "phrase": "from past experience in looking at how this has played out in other regions there seems to be a near certainty that legitimate and useful educational sites will be inadvertently blocked as a part of any effort of this sort",
+            "count": 1
+        },
+        {
+            "phrase": "dozens of plainwell elementary school students who have trouble reading will come to school an hour early next fall",
+            "count": 1
+        }
+    ]
+}

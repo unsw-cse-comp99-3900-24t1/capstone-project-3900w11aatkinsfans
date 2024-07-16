@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:51",
+            "02:09",
+            "02:14",
+            "02:23",
+            "02:24",
+            "02:28",
+            "02:40",
+            "02:51",
+            "03:14",
+            "03:33",
+            "04:28",
+            "04:29",
+            "04:37",
+            "05:05"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "consumers used the stimulus check more for basic necessities as opposed to more discretionary items",
+            "count": 8
+        },
+        {
+            "phrase": "they had warned after the first quarter that the whole year might be soft because of all the problems everybody knows about the strong dollar the weak u s economy and the weak u s financial markets and that's basically what hurt them",
+            "count": 3
+        },
+        {
+            "phrase": "the stimulus checks are having an impact in spite of the energy prices",
+            "count": 2
+        },
+        {
+            "phrase": "it's clear that gordon brown failed to prepare our economy during his 10 years at the treasury and now hard-pressed families are paying the price",
+            "count": 1
+        },
+        {
+            "phrase": "this shows that the stimulus package is clearly working",
+            "count": 1
+        },
+        {
+            "phrase": "this stimulus package is just barely starting",
+            "count": 1
+        },
+        {
+            "phrase": "clearly the stimulus plan has supported the u s economy during this difficult period and couldn't have been timelier",
+            "count": 1
+        },
+        {
+            "phrase": "bipartisan economic stimulus plan that was passed in february",
+            "count": 1
+        }
+    ]
+}

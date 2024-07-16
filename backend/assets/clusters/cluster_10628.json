@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "04:37"
+        ],
+        "label": "more"
+    },
+    "clusterList": [
+        {
+            "phrase": "more than i should",
+            "count": 1
+        },
+        {
+            "phrase": "more than made up for it",
+            "count": 1
+        }
+    ]
+}

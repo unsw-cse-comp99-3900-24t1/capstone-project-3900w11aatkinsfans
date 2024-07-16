@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            3,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:06",
+            "00:19",
+            "00:27",
+            "00:46",
+            "01:07",
+            "01:11",
+            "01:47",
+            "02:10",
+            "02:14",
+            "02:39",
+            "03:10",
+            "03:27",
+            "03:29",
+            "03:51",
+            "04:05",
+            "04:09",
+            "04:18",
+            "04:22",
+            "04:24",
+            "04:28",
+            "04:32"
+        ],
+        "label": "back"
+    },
+    "clusterList": [
+        {
+            "phrase": "everything's on the table",
+            "count": 11
+        },
+        {
+            "phrase": "seat at the table",
+            "count": 6
+        },
+        {
+            "phrase": "on the ropes",
+            "count": 3
+        },
+        {
+            "phrase": "everything is on the table",
+            "count": 3
+        },
+        {
+            "phrase": "off the table",
+            "count": 2
+        },
+        {
+            "phrase": "on the spot",
+            "count": 2
+        },
+        {
+            "phrase": "back on the table",
+            "count": 1
+        },
+        {
+            "phrase": "its on the table",
+            "count": 1
+        },
+        {
+            "phrase": "nothing off the table",
+            "count": 1
+        },
+        {
+            "phrase": "was off the table",
+            "count": 1
+        }
+    ]
+}

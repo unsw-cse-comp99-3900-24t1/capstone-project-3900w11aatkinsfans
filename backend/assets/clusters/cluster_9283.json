@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "04:28"
+        ],
+        "label": "buying"
+    },
+    "clusterList": [
+        {
+            "phrase": "buying and selling electronics or camera equipments online is a sketchy arena",
+            "count": 1
+        },
+        {
+            "phrase": "it's more lucrative to put up a camera",
+            "count": 1
+        }
+    ]
+}

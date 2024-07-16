@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "03:10",
+            "03:46",
+            "03:51",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the puffy chair",
+            "count": 4
+        },
+        {
+            "phrase": "the drowsy chaperone",
+            "count": 2
+        },
+        {
+            "phrase": "the nappy diatribe",
+            "count": 1
+        }
+    ]
+}

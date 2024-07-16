@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:56"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at the present we don't have an emergency",
+            "count": 1
+        },
+        {
+            "phrase": "my boss the general manager is calling an emergency meeting i need to go",
+            "count": 1
+        }
+    ]
+}

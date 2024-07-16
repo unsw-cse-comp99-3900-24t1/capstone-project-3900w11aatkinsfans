@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:06",
+            "02:13",
+            "04:28",
+            "04:36"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we need something new",
+            "count": 1
+        },
+        {
+            "phrase": "we have ab unch of new stuff that we're going to show here",
+            "count": 1
+        },
+        {
+            "phrase": "we're always introducing new and exciting dishes",
+            "count": 1
+        },
+        {
+            "phrase": "it's not that we've put anything new in",
+            "count": 1
+        },
+        {
+            "phrase": "we're ready for something new something fresh",
+            "count": 1
+        }
+    ]
+}

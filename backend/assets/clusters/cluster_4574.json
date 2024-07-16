@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:24",
+            "01:16",
+            "05:00"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my two kids call him grandpa henry",
+            "count": 1
+        },
+        {
+            "phrase": "my dad is the father of the century",
+            "count": 1
+        },
+        {
+            "phrase": "i've been blessed in my life to know some of the greatest figures of the last hundred years",
+            "count": 1
+        },
+        {
+            "phrase": "i had learned to call thee father",
+            "count": 1
+        }
+    ]
+}

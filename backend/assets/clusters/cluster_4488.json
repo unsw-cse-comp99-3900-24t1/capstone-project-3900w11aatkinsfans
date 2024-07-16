@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "03:18",
+            "04:12",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "are you smarter than a 5th grader",
+            "count": 3
+        },
+        {
+            "phrase": "the dumbest smart kid we know",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:16",
+            "00:42",
+            "01:10",
+            "01:32",
+            "02:22",
+            "03:24",
+            "04:05",
+            "04:18"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's not supposed to do that",
+            "count": 2
+        },
+        {
+            "phrase": "he often does more than that on the gallops",
+            "count": 1
+        },
+        {
+            "phrase": "he does so much with his body",
+            "count": 1
+        },
+        {
+            "phrase": "it's what he does all the time",
+            "count": 1
+        },
+        {
+            "phrase": "i would say he knew exactly what he was doing when he was doing it all the time",
+            "count": 1
+        },
+        {
+            "phrase": "oh kobe's doing it all every night",
+            "count": 1
+        },
+        {
+            "phrase": "he does about twice as much as other guys do",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know what he does all day",
+            "count": 1
+        },
+        {
+            "phrase": "watches over his word to perform it",
+            "count": 1
+        }
+    ]
+}

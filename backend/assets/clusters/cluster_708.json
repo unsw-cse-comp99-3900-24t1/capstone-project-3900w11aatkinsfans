@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:56",
+            "01:32",
+            "01:37",
+            "02:15",
+            "02:27",
+            "02:35",
+            "02:56",
+            "03:37",
+            "04:03",
+            "04:18",
+            "04:42"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is still exciting and i would like to stay longer",
+            "count": 14
+        },
+        {
+            "phrase": "i don't think so i think it's a year for me to step up and start over again",
+            "count": 2
+        },
+        {
+            "phrase": "i would like to do another one next year",
+            "count": 1
+        },
+        {
+            "phrase": "now i'm going to continue at least another year maybe two maybe more",
+            "count": 1
+        },
+        {
+            "phrase": "so what have you been doing for five years",
+            "count": 1
+        }
+    ]
+}

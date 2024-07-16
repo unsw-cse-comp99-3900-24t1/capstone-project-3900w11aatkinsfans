@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:22",
+            "02:00",
+            "04:31"
+        ],
+        "label": "neurotechnology"
+    },
+    "clusterList": [
+        {
+            "phrase": "mice are very good at running as far as they can",
+            "count": 3
+        },
+        {
+            "phrase": "neurotechnology based on the neurophysiology and behavior of animal models",
+            "count": 1
+        }
+    ]
+}

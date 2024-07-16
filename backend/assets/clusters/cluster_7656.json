@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "04:29",
+            "05:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a network of individuals companies and organizations who are interested in learning defining mentoring teaching and consulting on the frameworks skills methods and tools of modern knowledge work",
+            "count": 1
+        },
+        {
+            "phrase": "group coaching programs and workshops are important in introducing our business coaching concepts to business owners many of whom eventually become one-on-one coaching clients",
+            "count": 1
+        },
+        {
+            "phrase": "business image coaching",
+            "count": 1
+        }
+    ]
+}

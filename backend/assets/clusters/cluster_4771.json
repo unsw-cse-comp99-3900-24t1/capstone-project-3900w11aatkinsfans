@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:24",
+            "01:52",
+            "02:47"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was a bad double i would have loved to make a bogey but a double is always a bad way to finish",
+            "count": 3
+        },
+        {
+            "phrase": "in fact the one double he allowed making a bad dive for the fukudome ball",
+            "count": 1
+        }
+    ]
+}

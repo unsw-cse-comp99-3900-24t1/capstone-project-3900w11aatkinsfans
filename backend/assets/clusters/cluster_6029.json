@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:56",
+            "04:27"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we just decided heck we're only a few months into development of this we'll just change the name",
+            "count": 1
+        },
+        {
+            "phrase": "last year here we announced quake zero this was an idea that had been born mere weeks before quakecon here we were being a little haphazard about it and i get up and i talk about it and some domain-squatter goes and grabs some of the internet names they offered us a considered buyout option for it but we just decided heck we're only a month into the development of this we're just going to change the name and avoid paying the little blackmailers",
+            "count": 1
+        },
+        {
+            "phrase": "all they're doing is churning out the same stuff they do every four years all you have to do is change the name",
+            "count": 1
+        }
+    ]
+}

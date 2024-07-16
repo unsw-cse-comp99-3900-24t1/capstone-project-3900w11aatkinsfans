@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "03:41"
+        ],
+        "label": "increasing"
+    },
+    "clusterList": [
+        {
+            "phrase": "increasing the sport's profile has in a roundabout way helped lots of locals become fitter",
+            "count": 1
+        },
+        {
+            "phrase": "that's the kind of stuff that lance armstrong and endurance athletes aim for",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "04:45",
+            "04:51"
+        ],
+        "label": "day"
+    },
+    "clusterList": [
+        {
+            "phrase": "day in the life of julia amp lia",
+            "count": 1
+        },
+        {
+            "phrase": "i'm very much a modern woman and i'm probably a little bit more wild and spontaneous than julia is so i was bringing to julia probably a more earthy quality",
+            "count": 1
+        },
+        {
+            "phrase": "michelle dockery shows dazzling star quality as eliza",
+            "count": 1
+        }
+    ]
+}

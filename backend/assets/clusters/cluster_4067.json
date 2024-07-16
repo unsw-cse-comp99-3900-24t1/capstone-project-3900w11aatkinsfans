@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "02:19",
+            "02:55",
+            "03:52",
+            "03:54"
+        ],
+        "label": "getting"
+    },
+    "clusterList": [
+        {
+            "phrase": "getting down to business",
+            "count": 2
+        },
+        {
+            "phrase": "going out of business sale",
+            "count": 1
+        },
+        {
+            "phrase": "we turn away 90 of the business that walks through the door",
+            "count": 1
+        },
+        {
+            "phrase": "kill off businesses",
+            "count": 1
+        }
+    ]
+}

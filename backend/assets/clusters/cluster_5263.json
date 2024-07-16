@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:55",
+            "04:59",
+            "05:03"
+        ],
+        "label": "connection"
+    },
+    "clusterList": [
+        {
+            "phrase": "cannot conect to server probeer het later opnieuw",
+            "count": 2
+        },
+        {
+            "phrase": "connection was reset",
+            "count": 1
+        },
+        {
+            "phrase": "unconnected has disconnected",
+            "count": 1
+        }
+    ]
+}

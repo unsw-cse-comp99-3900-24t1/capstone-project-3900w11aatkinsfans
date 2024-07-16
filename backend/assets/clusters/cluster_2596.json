@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:14",
+            "02:10"
+        ],
+        "label": "statement"
+    },
+    "clusterList": [
+        {
+            "phrase": "statement of responsibility",
+            "count": 4
+        },
+        {
+            "phrase": "the statement of responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "condemn the fault and not the actor of it",
+            "count": 1
+        },
+        {
+            "phrase": "failure is an event not a person",
+            "count": 1
+        }
+    ]
+}

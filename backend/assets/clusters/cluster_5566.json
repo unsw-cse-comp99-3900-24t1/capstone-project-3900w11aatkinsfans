@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:32",
+            "03:42",
+            "03:47"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is hard to distinguish between you moral culpability for this crime",
+            "count": 2
+        },
+        {
+            "phrase": "i will vehemently deny that the police are doing anything wrong",
+            "count": 1
+        },
+        {
+            "phrase": "when it describes police action certainly i feel it reflects on me as an individual",
+            "count": 1
+        }
+    ]
+}

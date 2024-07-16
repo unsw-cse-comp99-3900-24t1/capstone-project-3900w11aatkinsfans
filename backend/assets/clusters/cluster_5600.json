@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:50",
+            "04:24"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've never done anything like this before",
+            "count": 1
+        },
+        {
+            "phrase": "i am never ever doing this again",
+            "count": 1
+        },
+        {
+            "phrase": "this is the first time i'm out with my friend naked i've never done this before",
+            "count": 1
+        }
+    ]
+}

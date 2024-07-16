@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "03:04"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a useful tool in spite of the hours it takes to do it",
+            "count": 1
+        },
+        {
+            "phrase": "they were an extremely handy tool for their owners enabling them to carry out timekeeping and other calculations",
+            "count": 1
+        }
+    ]
+}

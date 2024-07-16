@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "04:05"
+        ],
+        "label": "from"
+    },
+    "clusterList": [
+        {
+            "phrase": "from other countries",
+            "count": 1
+        },
+        {
+            "phrase": "both in britain and germany",
+            "count": 1
+        }
+    ]
+}

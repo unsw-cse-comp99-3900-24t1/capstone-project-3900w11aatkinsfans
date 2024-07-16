@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:20",
+            "01:01",
+            "01:08",
+            "02:20",
+            "03:14",
+            "03:17",
+            "03:33",
+            "03:35",
+            "03:41",
+            "04:32"
+        ],
+        "label": "telephone"
+    },
+    "clusterList": [
+        {
+            "phrase": "cause it's a cold world when you're out there all alone so many times i wanted to pick up the phone and tell you ooh baby baby i miss your loving so",
+            "count": 3
+        },
+        {
+            "phrase": "and i don't like to text message because i'd rather call somebody on the telephone",
+            "count": 2
+        },
+        {
+            "phrase": "telephone call or even a text message",
+            "count": 1
+        },
+        {
+            "phrase": "we don't want to sound like some stern schoolmistress telling people don't text on your cell phone but when you're texting look around",
+            "count": 1
+        },
+        {
+            "phrase": "i text message more than i talk on the cell phone",
+            "count": 1
+        },
+        {
+            "phrase": "try text messaging on a mobile",
+            "count": 1
+        },
+        {
+            "phrase": "i must be a little old fashioned i don't own a cell phone and never have",
+            "count": 1
+        },
+        {
+            "phrase": "i have this aversion to telephones and i don't know why it's a relief to know that i'm not the only one",
+            "count": 1
+        }
+    ]
+}

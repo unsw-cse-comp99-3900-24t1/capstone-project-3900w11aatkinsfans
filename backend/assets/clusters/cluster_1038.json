@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:42",
+            "01:02",
+            "01:23",
+            "02:05",
+            "02:43",
+            "03:18",
+            "03:23",
+            "03:46",
+            "04:05",
+            "04:08",
+            "04:09",
+            "04:21"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is one of the most unimaginable things to actually happen to a child",
+            "count": 7
+        },
+        {
+            "phrase": "how would i feel if that were my parent sibling or child",
+            "count": 1
+        },
+        {
+            "phrase": "no their mom did that",
+            "count": 1
+        },
+        {
+            "phrase": "i had every reason not to tell you i'm glad amy told you though because now you can see that it was a good thing i did it your own kid would have been your great-niece or great-nephew",
+            "count": 1
+        },
+        {
+            "phrase": "whoa whoa whoa you didn't say anything to the kid or the parents or anything",
+            "count": 1
+        },
+        {
+            "phrase": "honey i blew up the kid",
+            "count": 1
+        },
+        {
+            "phrase": "what if it was our child",
+            "count": 1
+        },
+        {
+            "phrase": "but she never was a child he never gave her the chance he was trying to make a child prodigy of her",
+            "count": 1
+        }
+    ]
+}

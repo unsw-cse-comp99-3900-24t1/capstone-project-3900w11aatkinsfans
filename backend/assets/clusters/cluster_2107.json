@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:27",
+            "02:05",
+            "03:37",
+            "04:26",
+            "04:33",
+            "04:42",
+            "05:03"
+        ],
+        "label": "by"
+    },
+    "clusterList": [
+        {
+            "phrase": "foreigners must respect chinese laws while in china and must not harm china's national security or damage social order",
+            "count": 3
+        },
+        {
+            "phrase": "china asks the us to abide by the basic norms of international relations stop interfering in the internal affairs of china by means of making use of so-called religious and human rights",
+            "count": 2
+        },
+        {
+            "phrase": "by arranging such a meeting between its leader and these people and making irresponsible remarks on china's human rights and religious situation the us side has rudely interfered in china's internal affairs and sent a seriously wrong message to anti-china hostile forces",
+            "count": 1
+        },
+        {
+            "phrase": "moral notions should not be appealed to in international relations",
+            "count": 1
+        },
+        {
+            "phrase": "to continue to engage the chinese government on its human rights record in regard to freedom of religion when they travel to china",
+            "count": 1
+        }
+    ]
+}

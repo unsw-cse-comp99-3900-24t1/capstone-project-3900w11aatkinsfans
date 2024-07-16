@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:09",
+            "01:14",
+            "02:15",
+            "03:48"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if the car companies were to do this they could build a car that would cost no more than a conventional car but they have to build at least 100 000 to 500 000 units a year",
+            "count": 1
+        },
+        {
+            "phrase": "the honda accord is a very popular car to purchase and so there are going to be more of them needing parts",
+            "count": 1
+        },
+        {
+            "phrase": "today's trucks are grossly over-engineered for towing and hauling that's why ford is doing this new f-100 project the biggest engine you'll be able to get in it will be a six-cylinder",
+            "count": 1
+        },
+        {
+            "phrase": "though the new facility will be built to manufacture three-four models an overwhelming part of the capacity will be used to produce the small car first",
+            "count": 1
+        },
+        {
+            "phrase": "we are working on the new design the model is yet to be finalized we plan to have petrol as well as diesel versions the small car will not compete with the upcoming nano of tata motors touted to be the world's cheapest car",
+            "count": 1
+        }
+    ]
+}

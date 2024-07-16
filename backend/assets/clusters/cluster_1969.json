@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:23",
+            "00:41",
+            "01:33",
+            "02:51",
+            "03:38",
+            "03:43",
+            "03:51",
+            "04:00"
+        ],
+        "label": "they're"
+    },
+    "clusterList": [
+        {
+            "phrase": "they're going to say i'm a risky guy",
+            "count": 5
+        },
+        {
+            "phrase": "you know never met the woman but but you know what they're gonna try to argue is that somehow i'm too risky",
+            "count": 2
+        },
+        {
+            "phrase": "they're going to say that i am a risky guy",
+            "count": 1
+        },
+        {
+            "phrase": "what they're going to try to argue is that i'm too risky basically what they're saying is they didn't do a good job but i'm too risky",
+            "count": 1
+        }
+    ]
+}

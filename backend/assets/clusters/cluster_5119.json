@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "02:00",
+            "02:31"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've spent a whole bunch of money on yet another new school building and you're going to have to finish paying for it",
+            "count": 1
+        },
+        {
+            "phrase": "the trouble is the council doesn't clean their drains out they should have one large single culvert there the council should talk to locals and see what they have to say",
+            "count": 1
+        },
+        {
+            "phrase": "that's a lot of money and we should have class a drainage and we don't",
+            "count": 1
+        },
+        {
+            "phrase": "we're hoping to have a comprehensive drainage study contracted in october",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "02:01"
+        ],
+        "label": "serious"
+    },
+    "clusterList": [
+        {
+            "phrase": "serious command failure",
+            "count": 1
+        },
+        {
+            "phrase": "never give up on a command",
+            "count": 1
+        }
+    ]
+}

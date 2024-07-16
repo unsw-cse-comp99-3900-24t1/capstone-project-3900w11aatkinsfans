@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:10",
+            "01:43",
+            "02:10"
+        ],
+        "label": "actually"
+    },
+    "clusterList": [
+        {
+            "phrase": "actually the language in that particular paragraph is quite weak",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:10",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:22"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "did anyone look at the scoreboard",
+            "count": 3
+        },
+        {
+            "phrase": "the score original samples",
+            "count": 1
+        },
+        {
+            "phrase": "not anybody in their right mind that would say these are good scores",
+            "count": 1
+        },
+        {
+            "phrase": "i have no idea what the score is",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:37",
+            "03:19"
+        ],
+        "label": "britney"
+    },
+    "clusterList": [
+        {
+            "phrase": "britney and lee hit it off immediately",
+            "count": 2
+        },
+        {
+            "phrase": "britney and lee hit it off immediately a source told",
+            "count": 1
+        },
+        {
+            "phrase": "he is her perfect type she loves guys who work out and he is in great shape from his days serving in the israeli army",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "03:18",
+            "03:32"
+        ],
+        "label": "apple"
+    },
+    "clusterList": [
+        {
+            "phrase": "apple fails to patch critical exploited dns flaw",
+            "count": 1
+        },
+        {
+            "phrase": "dns patching has probably slowed down because the procedure effectively requires customer-facing dns servers to be segregated from the domain-hosting servers",
+            "count": 1
+        },
+        {
+            "phrase": "the worst week of 2008 two unpatched microsoft zero-days the big domain name system problem patch and remote code execution bugs in novell edirectory and sun's jre",
+            "count": 1
+        }
+    ]
+}

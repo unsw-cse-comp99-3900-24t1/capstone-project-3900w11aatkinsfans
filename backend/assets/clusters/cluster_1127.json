@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "02:15",
+            "02:46",
+            "02:50",
+            "02:51",
+            "02:55",
+            "03:05",
+            "03:09",
+            "03:18",
+            "03:27",
+            "03:38",
+            "04:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's extremely important if something happened to one of us she'd always be taken care of",
+            "count": 9
+        },
+        {
+            "phrase": "the worst thing that will happen is that she'll have loose stool",
+            "count": 1
+        },
+        {
+            "phrase": "what makes me really mad is the fact that if that happens she will have been able to go through her whole life without having to really worry about anything",
+            "count": 1
+        },
+        {
+            "phrase": "she won't talk if she doesn't feel like it",
+            "count": 1
+        },
+        {
+            "phrase": "this will be a great experience for her",
+            "count": 1
+        },
+        {
+            "phrase": "these kinds of things just happen sometimes i'm sure she'll be alright",
+            "count": 1
+        }
+    ]
+}

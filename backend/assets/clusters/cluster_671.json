@@ -1,0 +1,117 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:22",
+            "00:36",
+            "00:56",
+            "01:24",
+            "01:37",
+            "02:10",
+            "02:16",
+            "02:19",
+            "03:18",
+            "03:43",
+            "04:03",
+            "04:06",
+            "04:10",
+            "04:28",
+            "04:51",
+            "04:54",
+            "05:00",
+            "05:04"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this time is different",
+            "count": 3
+        },
+        {
+            "phrase": "it's about time",
+            "count": 2
+        },
+        {
+            "phrase": "it's high time",
+            "count": 1
+        },
+        {
+            "phrase": "the time has come",
+            "count": 1
+        },
+        {
+            "phrase": "time is money now",
+            "count": 1
+        },
+        {
+            "phrase": "there is time for everything",
+            "count": 1
+        },
+        {
+            "phrase": "this time of change",
+            "count": 1
+        },
+        {
+            "phrase": "well it's about time then isn't it",
+            "count": 1
+        },
+        {
+            "phrase": "it's always about time with me isn't it",
+            "count": 1
+        },
+        {
+            "phrase": "it's it's over",
+            "count": 1
+        },
+        {
+            "phrase": "that way about time",
+            "count": 1
+        },
+        {
+            "phrase": "it's the right time",
+            "count": 1
+        },
+        {
+            "phrase": "it is time",
+            "count": 1
+        },
+        {
+            "phrase": "but the time has come",
+            "count": 1
+        },
+        {
+            "phrase": "it is time for someone",
+            "count": 1
+        },
+        {
+            "phrase": "four years my friend it's time it's time",
+            "count": 1
+        },
+        {
+            "phrase": "but i think we are just in time",
+            "count": 1
+        }
+    ]
+}

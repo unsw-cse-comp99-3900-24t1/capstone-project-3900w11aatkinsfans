@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "00:34",
+            "04:00"
+        ],
+        "label": "ultimately"
+    },
+    "clusterList": [
+        {
+            "phrase": "ultimately i think our goal is the same to create a safer and better world for all of us",
+            "count": 1
+        },
+        {
+            "phrase": "our role is to dream a better world",
+            "count": 1
+        },
+        {
+            "phrase": "but i also believe in what we're trying to accomplish",
+            "count": 1
+        },
+        {
+            "phrase": "people want to have fun and be part of the solution we're doing what we can to make saving the planet a more pleasant experience",
+            "count": 1
+        }
+    ]
+}

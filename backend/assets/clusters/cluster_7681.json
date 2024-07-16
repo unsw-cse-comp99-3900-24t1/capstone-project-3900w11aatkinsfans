@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:36",
+            "04:59",
+            "05:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i dug out some of the ancestral bourbon",
+            "count": 1
+        },
+        {
+            "phrase": "i still have a bottle of schwegmann's bourbon old piety and burgundy",
+            "count": 1
+        },
+        {
+            "phrase": "i've been spending some of my spare time these past few weeks rummaging around in the whiskey bar archives trying to decide what if any of it is worth keeping",
+            "count": 1
+        }
+    ]
+}

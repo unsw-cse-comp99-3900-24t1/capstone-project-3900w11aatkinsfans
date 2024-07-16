@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:08"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these are the cards we're dealt",
+            "count": 1
+        },
+        {
+            "phrase": "we cannot change the cards we are dealt just how we play the cards",
+            "count": 1
+        }
+    ]
+}

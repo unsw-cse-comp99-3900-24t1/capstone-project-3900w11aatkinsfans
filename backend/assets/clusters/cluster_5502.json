@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:46",
+            "02:55",
+            "04:27",
+            "04:39"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this just came together and we're not good enough to make a corresponding move yet",
+            "count": 1
+        },
+        {
+            "phrase": "we tried to deal both of them but we couldn't",
+            "count": 1
+        },
+        {
+            "phrase": "that's right we tried to move both of them that was our preference but when we got to the deadline today and didn't have any interest we just felt it was better to deal with it this way for our ballclub going forward difficult decisions i love both people but it just didn't work out here",
+            "count": 1
+        },
+        {
+            "phrase": "we tried to move both of them that was our preference when we got to the deadline today and just didn't have any interest we felt it was better to deal with it this way",
+            "count": 1
+        }
+    ]
+}

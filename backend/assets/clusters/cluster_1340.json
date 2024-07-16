@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:43",
+            "01:19",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "were"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh there's no bullets in there",
+            "count": 9
+        },
+        {
+            "phrase": "were executed by more than one hundred-forty ak-47 bullet impacts",
+            "count": 1
+        },
+        {
+            "phrase": "we don't know if there were two bullets",
+            "count": 1
+        },
+        {
+            "phrase": "there could have been two bullets but the lead composition data shows there could be anywhere from one to five bullets",
+            "count": 1
+        }
+    ]
+}

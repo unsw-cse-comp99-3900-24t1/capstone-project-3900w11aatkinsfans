@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:24",
+            "04:03",
+            "04:53"
+        ],
+        "label": "once"
+    },
+    "clusterList": [
+        {
+            "phrase": "once i decided that this week has started now and it's a different week a different tournament another major championship you know i can put that last week behind me until i get home next week",
+            "count": 2
+        },
+        {
+            "phrase": "i wasn't even taking it even though i said i was that was my intent to start taking it that day but i never did",
+            "count": 1
+        },
+        {
+            "phrase": "i've been taking it for quite a long time",
+            "count": 1
+        }
+    ]
+}

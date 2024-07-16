@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:11",
+            "01:47"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my daughter later told me that at 12 14 a m she was up in her upstairs bedroom and she saw daddy in the driveway crying with the officers and knew something was wrong",
+            "count": 1
+        },
+        {
+            "phrase": "i knew i couldn't go to the local police for protection because they would be the first men that merril jessop would contact to hunt me down",
+            "count": 1
+        },
+        {
+            "phrase": "well last week my wife ran off with a cop and i thought you were trying to bring her back to me",
+            "count": 1
+        }
+    ]
+}

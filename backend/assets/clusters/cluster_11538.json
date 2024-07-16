@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:50"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't worry we're at my place",
+            "count": 1
+        },
+        {
+            "phrase": "jo we're going on ahead of you okay",
+            "count": 1
+        }
+    ]
+}

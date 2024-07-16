@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:37",
+            "01:39"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am going to give up spinning",
+            "count": 1
+        },
+        {
+            "phrase": "let's go into spin cycle",
+            "count": 1
+        },
+        {
+            "phrase": "spin cycle enabled",
+            "count": 1
+        },
+        {
+            "phrase": "going through the spin cycle",
+            "count": 1
+        }
+    ]
+}

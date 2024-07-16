@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:52",
+            "01:11",
+            "01:20",
+            "01:24",
+            "01:29",
+            "01:32",
+            "03:27",
+            "04:15",
+            "04:33",
+            "04:56"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "if he is i'll be rooting for him as a person just not in the games we play",
+            "count": 8
+        },
+        {
+            "phrase": "he's my quarterback",
+            "count": 2
+        },
+        {
+            "phrase": "i'll always root for justin but i'll never root for ohio state",
+            "count": 1
+        },
+        {
+            "phrase": "i can't root for him anymore",
+            "count": 1
+        }
+    ]
+}

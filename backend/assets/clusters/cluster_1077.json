@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:07",
+            "00:24",
+            "00:36",
+            "00:48",
+            "01:05",
+            "01:41",
+            "01:47",
+            "01:55",
+            "02:10",
+            "02:20",
+            "02:25",
+            "03:36",
+            "04:36"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the next doom game will look like it's built on another engine as it uses three times the horsepower",
+            "count": 7
+        },
+        {
+            "phrase": "the next doom game",
+            "count": 1
+        },
+        {
+            "phrase": "xbox 360 games will start to look better as a result",
+            "count": 1
+        },
+        {
+            "phrase": "if quake live is successful the next thing that we might look at is wolfenstein enemy territory",
+            "count": 1
+        },
+        {
+            "phrase": "you can expect the doom game to look like it's developed with the next-generation graphics technology",
+            "count": 1
+        },
+        {
+            "phrase": "given the game some graphics and mechanics tweaking to help differentiate it from the hasbro original",
+            "count": 1
+        },
+        {
+            "phrase": "doom 4 multiplayer will not be as good of a multiplayer as quake live is but it should still be good and we will intend it to be better than doom 3 or quake 4 multiplayer",
+            "count": 1
+        },
+        {
+            "phrase": "the next doom",
+            "count": 1
+        }
+    ]
+}

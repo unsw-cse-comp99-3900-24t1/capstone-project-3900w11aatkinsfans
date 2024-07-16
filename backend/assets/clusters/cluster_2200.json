@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:06",
+            "01:46",
+            "02:32",
+            "02:37",
+            "03:15",
+            "04:44"
+        ],
+        "label": "geek"
+    },
+    "clusterList": [
+        {
+            "phrase": "geek culture is here to stay",
+            "count": 2
+        },
+        {
+            "phrase": "the geeks were right",
+            "count": 2
+        },
+        {
+            "phrase": "i've been called a geek an anorak and even a nutter in australia i don't care none of us cares you take the word people are calling you and you desensitise it if that's what we are then that's what we are and we'll keep on going",
+            "count": 1
+        },
+        {
+            "phrase": "five or six years ago were called nerds and geeks",
+            "count": 1
+        },
+        {
+            "phrase": "talk of all things geeky",
+            "count": 1
+        },
+        {
+            "phrase": "beauty and the geek",
+            "count": 1
+        }
+    ]
+}

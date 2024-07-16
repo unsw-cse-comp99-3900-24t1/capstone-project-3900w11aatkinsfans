@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:50",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:13",
+            "04:32"
+        ],
+        "label": "gore"
+    },
+    "clusterList": [
+        {
+            "phrase": "gore calls for electrical power conversion",
+            "count": 6
+        },
+        {
+            "phrase": "i talk a lot about our energy resources but the best resource in america is the brain power and the optimism of the american people",
+            "count": 1
+        },
+        {
+            "phrase": "wind energy means that's american energy produced in montana with montana workers",
+            "count": 1
+        }
+    ]
+}

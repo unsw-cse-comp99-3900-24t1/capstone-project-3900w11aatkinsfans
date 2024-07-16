@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "04:33",
+            "05:01"
+        ],
+        "label": "please"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't worry about it just lay down and give up jesus is coming",
+            "count": 2
+        },
+        {
+            "phrase": "please don't talk about when jesus gets crucified that makes me nervous",
+            "count": 1
+        }
+    ]
+}

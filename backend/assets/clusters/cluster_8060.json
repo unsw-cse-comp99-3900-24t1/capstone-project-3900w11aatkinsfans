@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "05:01"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you think about this video here is the you tube link",
+            "count": 1
+        },
+        {
+            "phrase": "hey psycho why are you laughing so hard at a commercial",
+            "count": 1
+        }
+    ]
+}

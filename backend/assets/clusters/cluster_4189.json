@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:40",
+            "01:41",
+            "01:50",
+            "03:55"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not going to sit here and say oh god please forgive me so someone can feel better",
+            "count": 1
+        },
+        {
+            "phrase": "i met someone on monday and i'm in love with him i'm sorry",
+            "count": 1
+        },
+        {
+            "phrase": "it's ok sarah i won't lie and say i wasn't a bit shocked last night but it's ok i just want to be there for you i love you",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry fall very easily from my lips",
+            "count": 1
+        },
+        {
+            "phrase": "we always ended the conversation i love you",
+            "count": 1
+        }
+    ]
+}

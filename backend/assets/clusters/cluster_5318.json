@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "03:39",
+            "03:43",
+            "04:16"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the program is a head scratcher to think people are going to come forward and walk away from their life here it shows how desperate and delusional this administration has gotten in dealing with illegal immigration",
+            "count": 2
+        },
+        {
+            "phrase": "the program basically gives an opportunity to those seeking an organized way to self-deport",
+            "count": 1
+        },
+        {
+            "phrase": "this would permit those who want to self-deport to do so in an organized manner",
+            "count": 1
+        }
+    ]
+}

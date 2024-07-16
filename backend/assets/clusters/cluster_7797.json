@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:00"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is wabi-sabi",
+            "count": 1
+        },
+        {
+            "phrase": "no this machine it is wabi-sabi",
+            "count": 1
+        }
+    ]
+}

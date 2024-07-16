@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:53",
+            "01:18",
+            "01:19",
+            "01:33",
+            "02:33",
+            "02:52",
+            "03:35",
+            "03:56",
+            "04:13",
+            "04:33",
+            "04:37"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm tired of them they're tired of me",
+            "count": 7
+        },
+        {
+            "phrase": "i hate the gooks",
+            "count": 1
+        },
+        {
+            "phrase": "thank god i'm not like them",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sick of them they're sick of me",
+            "count": 1
+        },
+        {
+            "phrase": "aren't they beautiful",
+            "count": 1
+        },
+        {
+            "phrase": "look at them they're so cute",
+            "count": 1
+        }
+    ]
+}

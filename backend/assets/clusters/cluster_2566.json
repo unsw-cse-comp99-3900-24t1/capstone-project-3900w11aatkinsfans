@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:52",
+            "01:06",
+            "01:18",
+            "03:01",
+            "03:05",
+            "03:27"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "we need you to work for peace",
+            "count": 4
+        },
+        {
+            "phrase": "to build an islamic society",
+            "count": 1
+        },
+        {
+            "phrase": "to promote enduring peace in the muslim world we must start working today for the economic empowerment and the social welfare of our peoples",
+            "count": 1
+        },
+        {
+            "phrase": "we continue to devise programmes as fruits of this assembly that will advance peace and development for the benefit of country especially the poor it should no longer necessary to lose lives on both sides of conflicts when so many opportunities are now available to improve the people's welfare",
+            "count": 1
+        }
+    ]
+}

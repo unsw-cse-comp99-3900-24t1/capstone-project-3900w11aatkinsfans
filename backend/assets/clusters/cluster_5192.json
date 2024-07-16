@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "02:25",
+            "05:00",
+            "05:05"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's under the legal amount but that's all one can say about it",
+            "count": 1
+        },
+        {
+            "phrase": "it's illegal and yet it's a ubiquitous part of l a culture",
+            "count": 1
+        },
+        {
+            "phrase": "no doubt it's illegal what they did",
+            "count": 1
+        },
+        {
+            "phrase": "so it's against the law to get you horny",
+            "count": 1
+        }
+    ]
+}

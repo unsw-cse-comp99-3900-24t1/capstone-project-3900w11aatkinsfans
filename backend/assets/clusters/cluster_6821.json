@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:31",
+            "02:51"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "why don't we all put dog collars on and zap each other through the airport",
+            "count": 2
+        },
+        {
+            "phrase": "people just wouldn't bother travelling that distance it's too far they would just give the whole board system away they wouldn't get the vets to brucellosis test their sheep or they wouldn't get their dogs vaccinated they'd just give up",
+            "count": 1
+        }
+    ]
+}

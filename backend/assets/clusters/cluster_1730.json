@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:43",
+            "02:01",
+            "02:47",
+            "02:51",
+            "02:55",
+            "03:26",
+            "03:27",
+            "04:06",
+            "04:19"
+        ],
+        "label": "among"
+    },
+    "clusterList": [
+        {
+            "phrase": "there were screams and people crying as they looked for their lost children ms macgregor said",
+            "count": 3
+        },
+        {
+            "phrase": "they had terror in their eyes",
+            "count": 2
+        },
+        {
+            "phrase": "some people were puking some people were crying some people were shocked",
+            "count": 2
+        },
+        {
+            "phrase": "among the victims were a few who said that children had been dragged from their beds at night screaming and had then disappeared",
+            "count": 1
+        },
+        {
+            "phrase": "kids were screaming",
+            "count": 1
+        },
+        {
+            "phrase": "and that was the moment the family's suppressed emotions brimmed over",
+            "count": 1
+        }
+    ]
+}

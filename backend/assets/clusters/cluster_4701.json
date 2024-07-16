@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:01",
+            "03:38",
+            "03:50"
+        ],
+        "label": "out"
+    },
+    "clusterList": [
+        {
+            "phrase": "out of the woods",
+            "count": 1
+        },
+        {
+            "phrase": "babe in the woods",
+            "count": 1
+        },
+        {
+            "phrase": "a way through the wilderness",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes people leave you half way through the woods",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "02:04",
+            "02:05",
+            "03:18",
+            "04:13",
+            "05:04"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this place i'm taking you to there's something gt gt that will help you something important",
+            "count": 1
+        },
+        {
+            "phrase": "this place i'm taking you to there's something gt gt gt that will help you something important",
+            "count": 1
+        },
+        {
+            "phrase": "you don't have to join for me to give you a little help",
+            "count": 1
+        },
+        {
+            "phrase": "i can help the next guest",
+            "count": 1
+        },
+        {
+            "phrase": "no honestly we don't need your help do we krusha",
+            "count": 1
+        },
+        {
+            "phrase": "ok i will help you but i cannot do it now while everyone is watching me you will have to stay late tonight",
+            "count": 1
+        },
+        {
+            "phrase": "we all need a little help",
+            "count": 1
+        }
+    ]
+}

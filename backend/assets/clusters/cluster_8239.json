@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:09"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're fortunate enough to have a private instructor out with us who is with us every day so we practice",
+            "count": 1
+        },
+        {
+            "phrase": "it's always fun practising but we're very blessed it happened so quickly",
+            "count": 1
+        }
+    ]
+}

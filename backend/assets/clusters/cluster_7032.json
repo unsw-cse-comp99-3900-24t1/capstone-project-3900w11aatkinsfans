@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:41",
+            "02:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i won't go negative",
+            "count": 1
+        },
+        {
+            "phrase": "i don't see why people are so negative",
+            "count": 1
+        },
+        {
+            "phrase": "you can't be negative",
+            "count": 1
+        }
+    ]
+}

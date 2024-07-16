@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "02:11",
+            "04:09"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a surgical internship of the type we are hosting provides training that is the equivalent of a phd it takes just as much time and effort but provides a different pathway to high-end skills",
+            "count": 2
+        },
+        {
+            "phrase": "the internship is the first step towards specialisation",
+            "count": 2
+        },
+        {
+            "phrase": "the training is the clinical equivalent of a phd it takes just as much time and effort but provides a different pathway to high-end skills",
+            "count": 1
+        }
+    ]
+}

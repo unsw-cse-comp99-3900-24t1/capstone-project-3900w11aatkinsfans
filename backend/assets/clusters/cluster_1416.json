@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:32",
+            "00:51",
+            "01:09",
+            "01:37",
+            "01:56",
+            "02:22",
+            "03:23",
+            "04:08",
+            "04:13"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm thinking that she's probably been there for a number of years",
+            "count": 6
+        },
+        {
+            "phrase": "wow look how close to her it's getting",
+            "count": 2
+        },
+        {
+            "phrase": "that's how we know she's 40 this year",
+            "count": 1
+        },
+        {
+            "phrase": "she's old she's allowed to be like that",
+            "count": 1
+        },
+        {
+            "phrase": "actually what i was thinking was i wish tina crouse was a couple years older",
+            "count": 1
+        },
+        {
+            "phrase": "wow she's so grown already",
+            "count": 1
+        }
+    ]
+}

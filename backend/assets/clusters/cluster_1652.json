@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:37",
+            "00:56",
+            "01:40",
+            "02:26",
+            "02:50",
+            "02:51",
+            "04:37",
+            "04:41"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "why do you treat me that way i'm a human being and i don't deserve this kind of treatment",
+            "count": 2
+        },
+        {
+            "phrase": "what matters is how we treat one another and making the world a better place",
+            "count": 2
+        },
+        {
+            "phrase": "how can i help others",
+            "count": 1
+        },
+        {
+            "phrase": "treat people as if they were what they ought to be and you help them to become what they are capable of being",
+            "count": 1
+        },
+        {
+            "phrase": "treat others the way you would like to be treated",
+            "count": 1
+        },
+        {
+            "phrase": "treat others as they treat you",
+            "count": 1
+        },
+        {
+            "phrase": "you hate to see that happen to anybody but we just treat everyone the same",
+            "count": 1
+        },
+        {
+            "phrase": "play nice with others",
+            "count": 1
+        }
+    ]
+}

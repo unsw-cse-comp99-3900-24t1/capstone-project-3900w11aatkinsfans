@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:04",
+            "04:29",
+            "04:32"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if he'd been president we wouldn't have had these bush administration messes the past eight years",
+            "count": 6
+        },
+        {
+            "phrase": "if he'd been president we wouldn't have hadthese bush administration messes the past eight years",
+            "count": 5
+        },
+        {
+            "phrase": "but thankfully we had jorge posada at the time this is all about 2008",
+            "count": 2
+        },
+        {
+            "phrase": "after seven years of a go-it-alone presidency perhaps i should expect nothing more from this white house",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:21",
+            "04:41",
+            "04:55"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you haven't moved away from pittsburgh you're probably not appreciating it the way that you should be because you really don't know what it's like outside",
+            "count": 2
+        },
+        {
+            "phrase": "why would you move to pittsburgh",
+            "count": 1
+        }
+    ]
+}

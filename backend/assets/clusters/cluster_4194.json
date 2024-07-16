@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "03:55",
+            "04:04",
+            "04:23",
+            "05:01"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "i find that to be very distressing these patients are not physically or emotionally well enough to travel out of province it's a huge life disruption for them it would be very stressful they've suffered enough",
+            "count": 3
+        },
+        {
+            "phrase": "now they can have the visit with their primary care provider see the nurse see the mental health provider all in one easy visit",
+            "count": 1
+        },
+        {
+            "phrase": "far too often we see people who have been in a stable environment like graylands hospital shipped back to esperance on the bus without adequate support",
+            "count": 1
+        }
+    ]
+}

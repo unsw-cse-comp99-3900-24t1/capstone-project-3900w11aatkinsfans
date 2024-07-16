@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "00:46",
+            "04:24",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is bad in many areas",
+            "count": 1
+        },
+        {
+            "phrase": "i find it bizarre because this is common in europe but when you talk about it in canada they're afraid",
+            "count": 1
+        },
+        {
+            "phrase": "it's prevalent more often than not",
+            "count": 1
+        },
+        {
+            "phrase": "it's sporadic but it seems to be more prevalent in the more rural areas",
+            "count": 1
+        }
+    ]
+}

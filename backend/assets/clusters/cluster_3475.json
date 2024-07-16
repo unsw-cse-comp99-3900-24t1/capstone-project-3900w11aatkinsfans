@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "02:06",
+            "02:10",
+            "04:15"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my violent heart",
+            "count": 2
+        },
+        {
+            "phrase": "in the mood for love",
+            "count": 2
+        },
+        {
+            "phrase": "in the mood",
+            "count": 1
+        },
+        {
+            "phrase": "in the beloved",
+            "count": 1
+        }
+    ]
+}

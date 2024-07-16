@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "01:51",
+            "03:15",
+            "03:42"
+        ],
+        "label": "loudly"
+    },
+    "clusterList": [
+        {
+            "phrase": "loudly and rudely",
+            "count": 2
+        },
+        {
+            "phrase": "how rude of me",
+            "count": 1
+        },
+        {
+            "phrase": "i'm kidding you get annoyed easily and you can't take a joke what is wrong with you",
+            "count": 1
+        }
+    ]
+}

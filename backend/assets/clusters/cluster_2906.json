@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:40",
+            "03:01",
+            "03:15",
+            "03:55"
+        ],
+        "label": "within"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will do whatever is required to help them and that includes counseling",
+            "count": 4
+        },
+        {
+            "phrase": "within reason you will help them to change things",
+            "count": 1
+        },
+        {
+            "phrase": "we just want them to know there's other options and people do care about them and we can help them make a difference in their lives",
+            "count": 1
+        }
+    ]
+}

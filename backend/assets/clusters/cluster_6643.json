@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:06",
+            "04:05"
+        ],
+        "label": "hands"
+    },
+    "clusterList": [
+        {
+            "phrase": "hands off iran",
+            "count": 2
+        },
+        {
+            "phrase": "it is absolutely clear that neither the united states nor israel can tolerate a nuclear-armed iran",
+            "count": 1
+        }
+    ]
+}

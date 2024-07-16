@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:13",
+            "05:04"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this was a very time-consuming process",
+            "count": 1
+        },
+        {
+            "phrase": "how could it have taken so long",
+            "count": 1
+        },
+        {
+            "phrase": "how could it have only taken seven days",
+            "count": 1
+        }
+    ]
+}

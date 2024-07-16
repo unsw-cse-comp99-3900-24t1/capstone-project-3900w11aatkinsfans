@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            9,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:19",
+            "00:51",
+            "01:32",
+            "04:13"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are no actors in this club",
+            "count": 14
+        },
+        {
+            "phrase": "simon also has no interest in a film",
+            "count": 1
+        }
+    ]
+}

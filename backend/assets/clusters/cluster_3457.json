@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5
+        ],
+        "xLabels": [
+            "01:13",
+            "04:28"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a flavorful week",
+            "count": 1
+        },
+        {
+            "phrase": "thirsty third thursdays",
+            "count": 1
+        },
+        {
+            "phrase": "no mac and cheese today",
+            "count": 1
+        },
+        {
+            "phrase": "mac and cheese on monday",
+            "count": 1
+        },
+        {
+            "phrase": "they only have mac and cheese on mondays",
+            "count": 1
+        },
+        {
+            "phrase": "no mac and cheese today no mac-a-roni and cheese",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:04"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the hydrogen side of the cell is only two electrons per molecule the oxygen side is four electrons per molecule",
+            "count": 1
+        },
+        {
+            "phrase": "there is a rule in electrochemistry that the more electrons you have the more complicated the process is",
+            "count": 1
+        }
+    ]
+}

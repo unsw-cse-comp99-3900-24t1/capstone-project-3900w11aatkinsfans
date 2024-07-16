@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            10,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:29",
+            "01:34",
+            "03:14",
+            "04:03",
+            "04:33"
+        ],
+        "label": "lawrence"
+    },
+    "clusterList": [
+        {
+            "phrase": "the black goat with a thousand young",
+            "count": 10
+        },
+        {
+            "phrase": "lawrence of arabia",
+            "count": 2
+        },
+        {
+            "phrase": "race to witch mountain",
+            "count": 2
+        },
+        {
+            "phrase": "people of the mountains",
+            "count": 1
+        },
+        {
+            "phrase": "memoirs of a mountaineer",
+            "count": 1
+        }
+    ]
+}

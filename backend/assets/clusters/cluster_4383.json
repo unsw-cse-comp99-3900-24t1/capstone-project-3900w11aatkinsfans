@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:32",
+            "02:13"
+        ],
+        "label": "she's"
+    },
+    "clusterList": [
+        {
+            "phrase": "she's not the easiest filly in the world but she's run here three times and won twice and finished second in this last year so she obviously likes the place",
+            "count": 1
+        },
+        {
+            "phrase": "i don't really know where she'll go next i'd expect her to go to stud next year as she's done her stuff",
+            "count": 1
+        },
+        {
+            "phrase": "she hasn't been ridden now for probably four or five years but she can still canter about",
+            "count": 1
+        },
+        {
+            "phrase": "she'll be very happy the tours are getting shorter i think the 15-month tour was not a good idea",
+            "count": 1
+        }
+    ]
+}

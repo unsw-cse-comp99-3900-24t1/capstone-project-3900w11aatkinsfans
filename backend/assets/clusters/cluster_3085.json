@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:09",
+            "01:47",
+            "01:48"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are proud to add another high-quality asset to our portfolio lazer inox is a well-recognized and respected brand name in a highly specialized niche and we are eager to assist them in executing their growth plan",
+            "count": 2
+        },
+        {
+            "phrase": "has ensured the future of the brand and has preserved jobs",
+            "count": 1
+        },
+        {
+            "phrase": "schottenstein stores corporation is one of the premier private retail institutions in america not only do they understand and appreciate the value of the steuben brand and its quality products they are enthusiastic about adding steuben to their family of luxury brands",
+            "count": 1
+        },
+        {
+            "phrase": "steuben glass is a national treasure i am excited and pleased to be able to ensure that steuben synonymous with quality will become a member of the schottenstein portfolio of world class luxury brands",
+            "count": 1
+        },
+        {
+            "phrase": "while it was an extremely difficult decision to sell steuben we are tremendously pleased that jay schottenstein is committed to continuing the steuben brand's tradition and history we look forward to our partnership",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "03:18",
+            "03:59"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you want to know why you didn't get promoted with everyone else that's why",
+            "count": 1
+        },
+        {
+            "phrase": "well how does a promotion sound to you",
+            "count": 1
+        },
+        {
+            "phrase": "a promotion really oh my i what kind of promotion",
+            "count": 1
+        },
+        {
+            "phrase": "he gave me a promotion",
+            "count": 1
+        },
+        {
+            "phrase": "you got a promotion congratulations amy",
+            "count": 1
+        },
+        {
+            "phrase": "promotion promotion promotion",
+            "count": 1
+        }
+    ]
+}

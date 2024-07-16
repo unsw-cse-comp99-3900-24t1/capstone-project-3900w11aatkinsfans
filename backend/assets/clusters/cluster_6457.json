@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:14",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can go tanning if i want to and i want to",
+            "count": 1
+        },
+        {
+            "phrase": "it's a self administered product you purchase the product rent the light no different than going to a tanning bed",
+            "count": 1
+        },
+        {
+            "phrase": "learn about the benefits of tanning and the myths",
+            "count": 1
+        }
+    ]
+}

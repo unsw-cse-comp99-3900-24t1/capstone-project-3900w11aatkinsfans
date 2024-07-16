@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "02:55",
+            "03:17",
+            "03:29",
+            "04:37"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "my family and i deserve to know why but have to accept we may never get an answer and can only wonder if it was for the fun of it",
+            "count": 2
+        },
+        {
+            "phrase": "this is a terrific opportunity for children with disabilities and their families to gather and share in fun and entertaining experiences",
+            "count": 1
+        },
+        {
+            "phrase": "creating managing and implementing memorable community events with good humor and hard work",
+            "count": 1
+        },
+        {
+            "phrase": "we're always trying to create some kind of event that is family-friendly and encourages people to have fun",
+            "count": 1
+        }
+    ]
+}

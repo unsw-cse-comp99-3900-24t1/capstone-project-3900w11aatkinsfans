@@ -1,0 +1,123 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:10",
+            "00:11",
+            "01:06",
+            "01:30",
+            "01:34",
+            "01:43",
+            "02:00",
+            "02:27",
+            "02:59",
+            "03:04",
+            "03:27",
+            "03:46",
+            "04:03",
+            "04:28",
+            "04:36",
+            "04:38",
+            "05:04"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "city that floats",
+            "count": 4
+        },
+        {
+            "phrase": "smiling faces beautiful places",
+            "count": 2
+        },
+        {
+            "phrase": "our city really loved it",
+            "count": 1
+        },
+        {
+            "phrase": "highly prestigious location",
+            "count": 1
+        },
+        {
+            "phrase": "it's a good first impression for the city",
+            "count": 1
+        },
+        {
+            "phrase": "the queen city",
+            "count": 1
+        },
+        {
+            "phrase": "fresno the best little city in the u s a",
+            "count": 1
+        },
+        {
+            "phrase": "god in this city",
+            "count": 1
+        },
+        {
+            "phrase": "venice of the east",
+            "count": 1
+        },
+        {
+            "phrase": "the windy city",
+            "count": 1
+        },
+        {
+            "phrase": "romancing the city",
+            "count": 1
+        },
+        {
+            "phrase": "clean uncluttered city",
+            "count": 1
+        },
+        {
+            "phrase": "london by the sea",
+            "count": 1
+        },
+        {
+            "phrase": "the city of good neighbors",
+            "count": 1
+        },
+        {
+            "phrase": "dangerous and disgusting city to live in",
+            "count": 1
+        },
+        {
+            "phrase": "florence of the north",
+            "count": 1
+        },
+        {
+            "phrase": "state of the city",
+            "count": 1
+        },
+        {
+            "phrase": "it's a beautiful town with a lot of history",
+            "count": 1
+        },
+        {
+            "phrase": "this place is beautiful",
+            "count": 1
+        }
+    ]
+}

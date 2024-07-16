@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:32",
+            "03:01",
+            "03:14"
+        ],
+        "label": "form"
+    },
+    "clusterList": [
+        {
+            "phrase": "choose your own adventure",
+            "count": 2
+        },
+        {
+            "phrase": "form of a misguided adventure",
+            "count": 1
+        },
+        {
+            "phrase": "a vacation is not an adventure it is a reprieve from reality true adventure takes daring and a willing embrace of all that is unknown",
+            "count": 1
+        },
+        {
+            "phrase": "create your own adventure",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "04:27"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the loyalty and dedication of many of these friends of dan brings a tear to my eye every time i think of it",
+            "count": 1
+        },
+        {
+            "phrase": "i know that it has given me valuable friendships for the years to come and has also taught me the importance of giving it still amazes me that even after five years there are still some great stories about dan to be told",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to root for every one of these guys they're all very close friends of mine i invited a lot of them to my wedding",
+            "count": 1
+        }
+    ]
+}

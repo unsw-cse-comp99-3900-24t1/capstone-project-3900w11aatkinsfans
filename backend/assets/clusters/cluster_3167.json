@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            5,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:29"
+        ],
+        "label": "unlawful"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will severely punish airlines which experience aircraft occupations and other incidents as a result of service reasons which originate with the airline",
+            "count": 2
+        },
+        {
+            "phrase": "unlawful job actions that resulted in hundreds of flights being canceled and impacted thousands of customers and employees",
+            "count": 1
+        },
+        {
+            "phrase": "a very serious attack on employees by issuing an inaccurate and misleading media statement concerning the pilots at united airlines",
+            "count": 1
+        },
+        {
+            "phrase": "this latest union-busting tactic is condemned for what it is a corrupt attempt to distract workers and travelers of united airlines from the failures of current executives",
+            "count": 1
+        },
+        {
+            "phrase": "the notion that any frontline employee of united airlines is responsible for the failures of united executives is laughable not content to destroy labor relations and to destroy the passenger experience the geniuses that run this airline have also destroyed shareholder value in the past year with all the major metrics of corporate performance at an all-time low current management has lost its reason to continue in charge of the airline",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "00:58",
+            "02:44",
+            "03:24",
+            "04:00",
+            "04:19"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he got his feet wet but he wasn't strong enough",
+            "count": 1
+        },
+        {
+            "phrase": "he couldn't help himself",
+            "count": 1
+        },
+        {
+            "phrase": "it stands to reason he needed some help",
+            "count": 1
+        },
+        {
+            "phrase": "he had a rough day",
+            "count": 1
+        },
+        {
+            "phrase": "did not even spare his motherland from his deplorable act",
+            "count": 1
+        },
+        {
+            "phrase": "he couldn't know the why of everything",
+            "count": 1
+        }
+    ]
+}

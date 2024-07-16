@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:42",
+            "03:50",
+            "04:22"
+        ],
+        "label": "whenever"
+    },
+    "clusterList": [
+        {
+            "phrase": "whenever you find yourself on the side of the majority it's time to pause and reflect",
+            "count": 3
+        },
+        {
+            "phrase": "it's so hard for me to concentrate right now",
+            "count": 1
+        }
+    ]
+}

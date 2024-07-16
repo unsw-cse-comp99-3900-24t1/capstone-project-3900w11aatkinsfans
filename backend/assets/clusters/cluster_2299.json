@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:51",
+            "03:18",
+            "03:35",
+            "03:50",
+            "04:04",
+            "04:47",
+            "04:49"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no secret to it",
+            "count": 2
+        },
+        {
+            "phrase": "it's no secret",
+            "count": 2
+        },
+        {
+            "phrase": "maybe it's because i know too many secrets",
+            "count": 1
+        },
+        {
+            "phrase": "don't worry i won't let any of the others know you're here you can be our little secret okay",
+            "count": 1
+        },
+        {
+            "phrase": "if i tell you now it won't be a surprise anymore now will it",
+            "count": 1
+        },
+        {
+            "phrase": "the real secret what you think about talk about and get off your a and do something about comes about",
+            "count": 1
+        }
+    ]
+}

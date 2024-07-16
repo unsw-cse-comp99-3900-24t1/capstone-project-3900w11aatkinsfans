@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:19",
+            "03:18",
+            "04:59"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not going to help my situation",
+            "count": 2
+        },
+        {
+            "phrase": "don't worry u'll get to lose to me some other time i promiss",
+            "count": 1
+        },
+        {
+            "phrase": "i won't hurt you not if you co-operate close your eyes",
+            "count": 1
+        }
+    ]
+}

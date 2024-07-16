@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "01:33",
+            "02:33"
+        ],
+        "label": "tony"
+    },
+    "clusterList": [
+        {
+            "phrase": "tony understands me he appreciates my talent he's the first person i've spiritually connected with",
+            "count": 2
+        },
+        {
+            "phrase": "tony understands me he appreciates my talent he's the first person i've spiritually connected with i'm a girl that loves to be in love i love love",
+            "count": 1
+        },
+        {
+            "phrase": "most of the guys i dated were captivated by my heart but they had different ways of trying to get to me",
+            "count": 1
+        },
+        {
+            "phrase": "most of the guys i dated were captivated by my heart but they had different ways of trying to get to me tony understands me he appreciates my talent he's the first person i've spiritually connected with",
+            "count": 1
+        }
+    ]
+}

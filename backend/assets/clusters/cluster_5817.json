@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:19",
+            "04:36"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i see your mouth in slow motion when you sing",
+            "count": 1
+        },
+        {
+            "phrase": "you're not hearing it or you're not seeing it",
+            "count": 1
+        },
+        {
+            "phrase": "the melody of the voice parts is very difficult to sing particularly without the underlying chords to keep you oriented have you tried singing this song in the shower lately",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:12",
+            "03:29"
+        ],
+        "label": "think"
+    },
+    "clusterList": [
+        {
+            "phrase": "think of me",
+            "count": 1
+        },
+        {
+            "phrase": "you thinking of me this early in the morning",
+            "count": 1
+        }
+    ]
+}

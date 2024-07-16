@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "02:01",
+            "03:06"
+        ],
+        "label": "was"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was nice to go bogey-free i haven't done that in a while",
+            "count": 3
+        },
+        {
+            "phrase": "was at a very interesting discount and pay it when you can",
+            "count": 1
+        }
+    ]
+}

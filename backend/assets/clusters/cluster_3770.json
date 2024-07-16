@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:55",
+            "03:05",
+            "03:11"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're going to work together as a group i don't want kevin lowe going anywhere he's one of the reasons that i came here he'll be involved as much as he wants to be involved and i look forward to that",
+            "count": 3
+        },
+        {
+            "phrase": "i told kevin from the first day that we spoke about the edmonton job i knew that i wanted to work with him",
+            "count": 1
+        },
+        {
+            "phrase": "it became very easy for me there's a big plan in place obviously in edmonton that's the exciting part for me",
+            "count": 1
+        }
+    ]
+}

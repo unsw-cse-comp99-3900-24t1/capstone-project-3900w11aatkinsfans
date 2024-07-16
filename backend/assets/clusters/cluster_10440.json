@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:05",
+            "02:23"
+        ],
+        "label": "apple"
+    },
+    "clusterList": [
+        {
+            "phrase": "apple has a priority list of features and we got as far as we could down that list with this model",
+            "count": 1
+        },
+        {
+            "phrase": "the single most desirable feature",
+            "count": 1
+        }
+    ]
+}

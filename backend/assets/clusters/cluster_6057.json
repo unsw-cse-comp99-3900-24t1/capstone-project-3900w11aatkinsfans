@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "04:33",
+            "04:49"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the thick of it",
+            "count": 1
+        },
+        {
+            "phrase": "thick as a brick",
+            "count": 1
+        },
+        {
+            "phrase": "thick and rich",
+            "count": 1
+        }
+    ]
+}

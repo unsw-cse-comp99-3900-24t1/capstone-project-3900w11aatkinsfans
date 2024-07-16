@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:33",
+            "01:51"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well it was nice talking to you guys",
+            "count": 1
+        },
+        {
+            "phrase": "bob saget is one of the true nice guys i've apologized to him in advance for what this evening holds in store for him",
+            "count": 1
+        },
+        {
+            "phrase": "nice is such an insipid word but he was such a fine person to work with he always gave it his all",
+            "count": 1
+        }
+    ]
+}

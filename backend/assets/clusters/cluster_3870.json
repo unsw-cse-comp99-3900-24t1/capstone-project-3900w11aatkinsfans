@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "01:47",
+            "02:48",
+            "04:04",
+            "04:06"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't even know what i shot",
+            "count": 2
+        },
+        {
+            "phrase": "if you're telling me i did it then i did it but do i remember shooting her no",
+            "count": 1
+        },
+        {
+            "phrase": "i came out here and i shot him like this",
+            "count": 1
+        },
+        {
+            "phrase": "i am sorry i had to shoot",
+            "count": 1
+        }
+    ]
+}

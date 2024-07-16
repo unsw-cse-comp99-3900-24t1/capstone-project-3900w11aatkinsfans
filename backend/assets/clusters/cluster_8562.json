@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "04:47"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good runs will end with some good results there",
+            "count": 1
+        },
+        {
+            "phrase": "they're still going to score a ton of runs",
+            "count": 1
+        }
+    ]
+}

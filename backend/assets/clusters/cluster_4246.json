@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:05",
+            "04:18",
+            "04:28",
+            "04:59"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why did you leave buffalo and why did you come back",
+            "count": 1
+        },
+        {
+            "phrase": "i actually wanted to come back after katrina",
+            "count": 1
+        },
+        {
+            "phrase": "the people here are some of the best people so i wanted to come back to do something for new orleans",
+            "count": 1
+        },
+        {
+            "phrase": "part of the reason i wanted to come back for the third time was that we had a few years where our financial situation was a little precarious after 9-11 people weren't travelling as much ticket sales were down and that was hurting the bottom line i saw that coming out in our annual general meeting and i wanted to come back to see if i could help fix that situation",
+            "count": 1
+        },
+        {
+            "phrase": "just before the hurricane i lost my home i had a cancer operation that i tell friends was a trip to hell and back and robert died when katrina hit what little we did have left we lost in the flood",
+            "count": 1
+        }
+    ]
+}

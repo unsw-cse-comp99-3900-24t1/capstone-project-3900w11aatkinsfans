@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:41",
+            "01:01",
+            "04:24",
+            "04:28"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to kill a mockingbird",
+            "count": 2
+        },
+        {
+            "phrase": "killed by a story arc",
+            "count": 1
+        },
+        {
+            "phrase": "the bride of frankenstein",
+            "count": 1
+        },
+        {
+            "phrase": "the curse of frankenstein",
+            "count": 1
+        },
+        {
+            "phrase": "jaws the revenge",
+            "count": 1
+        }
+    ]
+}

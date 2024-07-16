@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "03:41",
+            "04:21"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the meeting already finished",
+            "count": 1
+        },
+        {
+            "phrase": "wait move it to the next meeting today",
+            "count": 1
+        },
+        {
+            "phrase": "the meeting we have to get there now",
+            "count": 1
+        }
+    ]
+}

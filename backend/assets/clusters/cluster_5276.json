@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:57",
+            "03:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the cat was alive and not alive",
+            "count": 1
+        },
+        {
+            "phrase": "swinging a dead horse",
+            "count": 1
+        },
+        {
+            "phrase": "leave dead dogs alone-don't swing them",
+            "count": 1
+        },
+        {
+            "phrase": "swinging a dead cat",
+            "count": 1
+        }
+    ]
+}

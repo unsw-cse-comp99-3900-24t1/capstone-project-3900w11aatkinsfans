@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:05",
+            "02:15",
+            "02:22",
+            "03:35"
+        ],
+        "label": "some"
+    },
+    "clusterList": [
+        {
+            "phrase": "some of our guys have inherent breathing issues and to put them in this environment it's worrisome for sure",
+            "count": 5
+        }
+    ]
+}

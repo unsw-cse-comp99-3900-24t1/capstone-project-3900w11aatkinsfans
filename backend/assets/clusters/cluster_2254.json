@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "02:28",
+            "02:29",
+            "02:47",
+            "02:51",
+            "03:22",
+            "05:01"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "so really it should be just as exciting and good golf as there's been in the past",
+            "count": 2
+        },
+        {
+            "phrase": "the field is still the same as it was in the past there's just one guy missing so really it should be just as exciting and good golf as there's been in the past",
+            "count": 1
+        },
+        {
+            "phrase": "you shouldn't have to depend on golf skills to win this tournament but we'll win it anyway",
+            "count": 1
+        },
+        {
+            "phrase": "the field is still the same as it was in the past there's just one guy missing so it really should be just as exciting and good golf as there's been in the past",
+            "count": 1
+        },
+        {
+            "phrase": "there's a lot of golf left being medalist would be great but match play is where you're going to win the tournament",
+            "count": 1
+        },
+        {
+            "phrase": "we've gotten a lot of repeat teams already but we'd love to have a team of all female golfers",
+            "count": 1
+        },
+        {
+            "phrase": "they have been the most passionate and keen participants in this unique tournament",
+            "count": 1
+        }
+    ]
+}

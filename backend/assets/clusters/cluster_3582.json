@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "03:10",
+            "03:47"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with 30 per cent of australia's skilled tradespeople in the pre-retirement window a trade career can offer many opportunities and rewards",
+            "count": 1
+        },
+        {
+            "phrase": "if you semiretire at age 62 and if you're taking social security benefits that is money you don't have to pull from retirement assets",
+            "count": 1
+        },
+        {
+            "phrase": "you will want to choose a retirement age based on your circumstances so you will have sufficient income when you need it",
+            "count": 1
+        },
+        {
+            "phrase": "retirement without borders",
+            "count": 1
+        },
+        {
+            "phrase": "of the 103 electricities full and part-time employees 29 earn six-figure salaries and 23 earn between 80 000 and 100 000 a year",
+            "count": 1
+        }
+    ]
+}

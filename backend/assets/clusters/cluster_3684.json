@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:46",
+            "00:50",
+            "01:04",
+            "01:11"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the difference between obama and osama is just a little b",
+            "count": 1
+        },
+        {
+            "phrase": "i have never made fun of obama's name i have repeatedly pointed out it is a proud name it means",
+            "count": 1
+        },
+        {
+            "phrase": "top ten signs barack omabais overconfident",
+            "count": 1
+        },
+        {
+            "phrase": "trying to tar him as arrogant out of touch and unprepared for the presidency",
+            "count": 1
+        },
+        {
+            "phrase": "arrogant out of touch and unprepared for the presidency",
+            "count": 1
+        }
+    ]
+}

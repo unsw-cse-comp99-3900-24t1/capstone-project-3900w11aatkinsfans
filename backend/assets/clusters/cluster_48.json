@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3,
+            3,
+            3,
+            1,
+            2,
+            1,
+            9,
+            9,
+            2,
+            9,
+            5,
+            1,
+            1,
+            1,
+            5,
+            1,
+            2,
+            2,
+            1,
+            3,
+            1,
+            3,
+            3,
+            1,
+            2,
+            4,
+            1,
+            5,
+            3
+        ],
+        "xLabels": [
+            "00:14",
+            "00:32",
+            "00:33",
+            "00:48",
+            "01:01",
+            "01:20",
+            "01:28",
+            "01:32",
+            "01:42",
+            "01:43",
+            "01:48",
+            "02:06",
+            "02:11",
+            "02:28",
+            "02:37",
+            "02:42",
+            "03:15",
+            "03:19",
+            "03:48",
+            "03:52",
+            "04:04",
+            "04:08",
+            "04:28",
+            "04:31",
+            "04:32",
+            "04:36",
+            "04:45",
+            "05:01",
+            "05:04",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the mummy tomb of the dragon emperor",
+            "count": 43
+        },
+        {
+            "phrase": "tomb of the dragon emperor",
+            "count": 25
+        },
+        {
+            "phrase": "the mummy returns",
+            "count": 18
+        },
+        {
+            "phrase": "the mummy's shroud",
+            "count": 1
+        },
+        {
+            "phrase": "the tomb of the dragon emperor",
+            "count": 1
+        },
+        {
+            "phrase": "the mummy curse of the dragon emperor",
+            "count": 1
+        }
+    ]
+}

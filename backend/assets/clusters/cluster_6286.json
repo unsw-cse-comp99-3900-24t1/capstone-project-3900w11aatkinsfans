@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:51",
+            "03:34"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we believed in slavery for 18 and a half centuries before we came to know god's will for us with respect to people of colour",
+            "count": 1
+        },
+        {
+            "phrase": "when have you made people into slaves whereas they were born free",
+            "count": 1
+        },
+        {
+            "phrase": "the new slaves",
+            "count": 1
+        }
+    ]
+}

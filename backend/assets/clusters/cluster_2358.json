@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "00:32",
+            "01:03",
+            "01:06",
+            "03:18",
+            "04:04",
+            "04:45"
+        ],
+        "label": "came"
+    },
+    "clusterList": [
+        {
+            "phrase": "had it coming",
+            "count": 2
+        },
+        {
+            "phrase": "came to be",
+            "count": 1
+        },
+        {
+            "phrase": "oh so you came here randomly huh",
+            "count": 1
+        },
+        {
+            "phrase": "or was that me i want me to come",
+            "count": 1
+        },
+        {
+            "phrase": "come along then",
+            "count": 1
+        },
+        {
+            "phrase": "i came here to win",
+            "count": 1
+        },
+        {
+            "phrase": "then came you",
+            "count": 1
+        }
+    ]
+}

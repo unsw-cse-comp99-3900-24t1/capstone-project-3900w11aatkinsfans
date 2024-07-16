@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:28",
+            "01:20",
+            "04:13",
+            "04:21"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are very pleased that an outstanding group of emit employees will be joining the exterran team",
+            "count": 2
+        },
+        {
+            "phrase": "this group will have a great work ethic and this group will have a great spirit about it",
+            "count": 1
+        },
+        {
+            "phrase": "we'll be able to make a good group out of what we have and have some support people",
+            "count": 1
+        },
+        {
+            "phrase": "it is a good community we all work together we all help one another so we'll pull though",
+            "count": 1
+        }
+    ]
+}

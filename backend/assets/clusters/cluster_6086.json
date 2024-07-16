@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:28",
+            "02:15"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it seems microsoft's sponsorship of the asf is being mis-reported as membership for example",
+            "count": 1
+        },
+        {
+            "phrase": "is registered by rolex in classes 9 14 37 and also by the ford motor company in class 12",
+            "count": 1
+        },
+        {
+            "phrase": "refers to microsoft whose",
+            "count": 1
+        }
+    ]
+}

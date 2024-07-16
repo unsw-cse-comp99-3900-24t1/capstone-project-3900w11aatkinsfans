@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:37"
+        ],
+        "label": "inappropriate"
+    },
+    "clusterList": [
+        {
+            "phrase": "inappropriate working attitude",
+            "count": 2
+        }
+    ]
+}

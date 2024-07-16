@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:01",
+            "01:43",
+            "03:05",
+            "03:19",
+            "03:55",
+            "03:56"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "need a big huge flat parking lot and a drive through",
+            "count": 2
+        },
+        {
+            "phrase": "you only have to look down the main street before you could never find a car park in town but now you always get one",
+            "count": 1
+        },
+        {
+            "phrase": "lots of vacant spaces to be occupied",
+            "count": 1
+        },
+        {
+            "phrase": "we're blocking off the entire parking lot",
+            "count": 1
+        },
+        {
+            "phrase": "plenty of available parking",
+            "count": 1
+        },
+        {
+            "phrase": "at the east end of where we are going to develop the new field there will be an area developed for parking by the people who use the field and also to help with access into it through the parking lot that is adjacent to the building that is there today",
+            "count": 1
+        }
+    ]
+}

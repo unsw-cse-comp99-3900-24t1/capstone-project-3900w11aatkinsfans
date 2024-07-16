@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:37",
+            "02:46"
+        ],
+        "label": "yo"
+    },
+    "clusterList": [
+        {
+            "phrase": "yo who's all coming tonight",
+            "count": 1
+        },
+        {
+            "phrase": "are you even there listening to my pitiful pleas",
+            "count": 1
+        },
+        {
+            "phrase": "i just stayed up listened and waited for morning",
+            "count": 1
+        }
+    ]
+}

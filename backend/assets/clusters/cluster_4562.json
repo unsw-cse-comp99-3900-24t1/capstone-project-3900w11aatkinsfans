@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:47",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the last two games have been really bad",
+            "count": 2
+        },
+        {
+            "phrase": "we probably could go in right now on offense and defense and probably play a game although i don't know how varied and productive we would be",
+            "count": 1
+        },
+        {
+            "phrase": "that is where it started to go bad we're playing good so hopefully that is where it starts to go great",
+            "count": 1
+        }
+    ]
+}

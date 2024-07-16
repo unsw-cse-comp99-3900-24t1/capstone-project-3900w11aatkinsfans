@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "01:10",
+            "04:51"
+        ],
+        "label": "take"
+    },
+    "clusterList": [
+        {
+            "phrase": "take this miley cyrus quiz",
+            "count": 1
+        },
+        {
+            "phrase": "hannah montana and miley cyrus best of both worlds concert",
+            "count": 1
+        },
+        {
+            "phrase": "e mc2 miley cyrus's last album hanna montana meets miley cyrus sprung up to number one last summer with 326 000 copies",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:20",
+            "01:52",
+            "02:14",
+            "02:37",
+            "03:03",
+            "03:47",
+            "04:40"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not even my knee i can't even bend down to line up a putt because my thighs hurt so much",
+            "count": 2
+        },
+        {
+            "phrase": "i'm questionable because my knee hurts",
+            "count": 1
+        },
+        {
+            "phrase": "my hamstring was just a bit tight i don't know if it was after playing three games last week but i told the manager i didn't want to take any chances",
+            "count": 1
+        },
+        {
+            "phrase": "my knee's been shaky for a while now it was nothing that was ever too much of a concern to let me play or anything like that but it's been like that for a while it wasn't too long after i got it initially fixed that it was like that",
+            "count": 1
+        },
+        {
+            "phrase": "i never used the injury as an excuse",
+            "count": 1
+        },
+        {
+            "phrase": "that's the way it goes it's football it's a physical game you're going to get beat up you're going to get hurt there's a difference between being injured and being hurt if you're injured you can't play if you're hurt you play through the pain and do what you have to do",
+            "count": 1
+        },
+        {
+            "phrase": "i had a bit of a niggly injury to the groin a few weeks ago nothing serious brosque said",
+            "count": 1
+        }
+    ]
+}

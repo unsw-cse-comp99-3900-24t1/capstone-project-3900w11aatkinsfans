@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "03:24",
+            "04:08",
+            "04:22"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's nice to be back on my feet",
+            "count": 2
+        },
+        {
+            "phrase": "you have very interesting feet",
+            "count": 1
+        },
+        {
+            "phrase": "i haven't asked them but i'm sure women like looking at a man's calves or if a man has them nice ankles",
+            "count": 1
+        }
+    ]
+}

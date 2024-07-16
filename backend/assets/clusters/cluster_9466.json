@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "03:46"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're a mess and soaking wet",
+            "count": 1
+        },
+        {
+            "phrase": "a mess right now",
+            "count": 1
+        }
+    ]
+}

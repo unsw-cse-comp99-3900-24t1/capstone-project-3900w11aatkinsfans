@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:30",
+            "00:56",
+            "01:20",
+            "01:50",
+            "02:02",
+            "02:09",
+            "02:39",
+            "03:28",
+            "04:50",
+            "05:00"
+        ],
+        "label": "please"
+    },
+    "clusterList": [
+        {
+            "phrase": "well i think i'll excuse myself from this conversation right now",
+            "count": 3
+        },
+        {
+            "phrase": "please excuse my hands",
+            "count": 1
+        },
+        {
+            "phrase": "there's no excuse",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just not that into you",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sorry please excuse me",
+            "count": 1
+        },
+        {
+            "phrase": "yes of course please excuse us",
+            "count": 1
+        },
+        {
+            "phrase": "oh excuse me please",
+            "count": 1
+        },
+        {
+            "phrase": "please excuse me too i wasn't watching for you",
+            "count": 1
+        },
+        {
+            "phrase": "sorry that was me excuse me",
+            "count": 1
+        },
+        {
+            "phrase": "please forgive me",
+            "count": 1
+        }
+    ]
+}

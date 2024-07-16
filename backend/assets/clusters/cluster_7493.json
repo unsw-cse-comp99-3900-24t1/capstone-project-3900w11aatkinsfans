@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:06",
+            "03:58",
+            "04:04"
+        ],
+        "label": "notice"
+    },
+    "clusterList": [
+        {
+            "phrase": "notice and takedown",
+            "count": 1
+        },
+        {
+            "phrase": "until further notice",
+            "count": 1
+        },
+        {
+            "phrase": "closed until further notice",
+            "count": 1
+        }
+    ]
+}

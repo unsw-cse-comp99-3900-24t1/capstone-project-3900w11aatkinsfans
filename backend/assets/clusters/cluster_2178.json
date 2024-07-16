@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:19",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "he indecisively blows his whistle foul no two fouls",
+            "count": 6
+        },
+        {
+            "phrase": "at this time there is no suspicion of foul play",
+            "count": 1
+        },
+        {
+            "phrase": "no evidence of foul play",
+            "count": 1
+        }
+    ]
+}

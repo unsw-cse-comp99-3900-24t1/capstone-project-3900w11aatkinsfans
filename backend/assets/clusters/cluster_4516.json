@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:19",
+            "01:00",
+            "04:22"
+        ],
+        "label": "any"
+    },
+    "clusterList": [
+        {
+            "phrase": "any of these words",
+            "count": 4
+        }
+    ]
+}

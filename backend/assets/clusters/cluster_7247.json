@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:43",
+            "02:08"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i totally see why people follow convention people don't want other people to be different and they don't want them to be happy when they're different because then the implication is that they could live differently too a lot of people just can't face that",
+            "count": 1
+        },
+        {
+            "phrase": "wah wah woe is me it's so hard to be me because i'm a woman and people judge me",
+            "count": 1
+        },
+        {
+            "phrase": "i'm just enjoying myself a lot more i don't think i was all that easygoing back then i feel comfortable being myself",
+            "count": 1
+        }
+    ]
+}

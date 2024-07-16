@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "01:38",
+            "02:22",
+            "03:24"
+        ],
+        "label": "black"
+    },
+    "clusterList": [
+        {
+            "phrase": "black women between the ages of 25 and 44 are 13 times more likely to die of the disease than their counterparts",
+            "count": 1
+        },
+        {
+            "phrase": "as many as 9 7 million children die each year before their fifth birthday largely due to preventable causes like measles malaria and diarrhoea that is 26 000 children every day",
+            "count": 1
+        },
+        {
+            "phrase": "our test helps to distinguish between a big lymph node due to infectious disease and one that's caused by a tumor",
+            "count": 1
+        },
+        {
+            "phrase": "i believe that conservatively 15 to 20 of all cancer is caused by infections however the number could be larger maybe double",
+            "count": 1
+        },
+        {
+            "phrase": "unfortunately the public as well as many health-care workers are unaware of the significance of chronic infection as a potentially preventable cause of cancer",
+            "count": 1
+        }
+    ]
+}

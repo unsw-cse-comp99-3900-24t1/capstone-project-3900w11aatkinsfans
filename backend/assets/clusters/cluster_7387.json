@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:50",
+            "04:56"
+        ],
+        "label": "electronic"
+    },
+    "clusterList": [
+        {
+            "phrase": "electronic shop in hong kong",
+            "count": 1
+        },
+        {
+            "phrase": "we ship t-shirts as far away as new zealand and china",
+            "count": 1
+        },
+        {
+            "phrase": "buyers need cambodian goods to arrive at the market on time if goods do not arrive on time buyers will stop ordering from cambodia",
+            "count": 1
+        }
+    ]
+}

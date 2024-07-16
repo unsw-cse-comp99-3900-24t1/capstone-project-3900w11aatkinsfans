@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:23",
+            "01:02",
+            "01:10",
+            "01:43",
+            "02:10",
+            "02:27",
+            "02:35"
+        ],
+        "label": "having"
+    },
+    "clusterList": [
+        {
+            "phrase": "having icc language in the text sends the wrong message to a man who has presided over genocide",
+            "count": 6
+        },
+        {
+            "phrase": "sends the wrong signal to a man who presided over genocide",
+            "count": 1
+        },
+        {
+            "phrase": "we made it clear from the beginning that trying to introduce the icc language into a simple roll-over resolution was problematic",
+            "count": 1
+        }
+    ]
+}

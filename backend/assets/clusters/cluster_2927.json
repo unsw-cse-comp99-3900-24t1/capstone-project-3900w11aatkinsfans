@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "cheering"
+    },
+    "clusterList": [
+        {
+            "phrase": "cheering hooting and salivating you'd expect at a campus rally",
+            "count": 6
+        }
+    ]
+}

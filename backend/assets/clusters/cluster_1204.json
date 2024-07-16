@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            3,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "achieving"
+    },
+    "clusterList": [
+        {
+            "phrase": "achieving the goal before this decade is out of landing a man on the moon and returning him safely to the earth",
+            "count": 6
+        },
+        {
+            "phrase": "when president john f kennedy challenged our nation to land a man on the moon and bring him back safely in 10 years many people doubted we could accomplish that goal",
+            "count": 5
+        },
+        {
+            "phrase": "if america could land a man on the moon in 10 years why can't it",
+            "count": 1
+        },
+        {
+            "phrase": "if we can socalize a program and put a man on the moon why can t we",
+            "count": 1
+        }
+    ]
+}

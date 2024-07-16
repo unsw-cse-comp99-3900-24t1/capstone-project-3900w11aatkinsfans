@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:30",
+            "04:21"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that n is not as good as me",
+            "count": 1
+        },
+        {
+            "phrase": "that's not good",
+            "count": 1
+        },
+        {
+            "phrase": "that ain't good",
+            "count": 1
+        }
+    ]
+}

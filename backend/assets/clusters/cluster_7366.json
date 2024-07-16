@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:35",
+            "03:51",
+            "03:53"
+        ],
+        "label": "corporately"
+    },
+    "clusterList": [
+        {
+            "phrase": "when the archbishop of canterbury invited these american bishops to participate in the lambeth conference in the face of the unrelenting commitment of the american church to bless sinful behaviour we were stunned further betrayal",
+            "count": 2
+        },
+        {
+            "phrase": "corporately the american house of bishops asked for forgiveness last year",
+            "count": 1
+        }
+    ]
+}

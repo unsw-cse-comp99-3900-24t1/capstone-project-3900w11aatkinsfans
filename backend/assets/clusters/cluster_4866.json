@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "02:24",
+            "03:14",
+            "04:45"
+        ],
+        "label": "firm"
+    },
+    "clusterList": [
+        {
+            "phrase": "firm but very gracious a classy guy who promotes his chefs",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't think it was very professional",
+            "count": 1
+        },
+        {
+            "phrase": "he's a special worker",
+            "count": 1
+        },
+        {
+            "phrase": "he is a police officer with a lot of experience",
+            "count": 1
+        }
+    ]
+}

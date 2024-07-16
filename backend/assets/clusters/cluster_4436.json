@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:56",
+            "02:14",
+            "03:34"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you have to think of it like how apple has retail stores across the",
+            "count": 1
+        },
+        {
+            "phrase": "the ability for our customers to login into their existing amazon com account provides unparalleled convenience",
+            "count": 1
+        },
+        {
+            "phrase": "it's not about the one retailer it's about what has been going on at olg",
+            "count": 1
+        },
+        {
+            "phrase": "the enhancements announced today well help our customers create richer shopping experiences for their consumers and more effectively merchandise their products in multiple global channels",
+            "count": 1
+        }
+    ]
+}

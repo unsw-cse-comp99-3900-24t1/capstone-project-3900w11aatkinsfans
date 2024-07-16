@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:38",
+            "01:56",
+            "03:01",
+            "03:43",
+            "05:03"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not one of those guys that tries to act all big time",
+            "count": 1
+        },
+        {
+            "phrase": "i am fortunate enough to have a lot of friends there a lot are in the acting industry",
+            "count": 1
+        },
+        {
+            "phrase": "see you have 2 talk thies things out u cant just act on stuff",
+            "count": 1
+        },
+        {
+            "phrase": "what to do when not acting",
+            "count": 1
+        },
+        {
+            "phrase": "usually i'm a very shy person but acting is an outlet i can be anything i want to and not have to worry",
+            "count": 1
+        },
+        {
+            "phrase": "just be yourself and act naturally don't be sneaky or overly",
+            "count": 1
+        }
+    ]
+}

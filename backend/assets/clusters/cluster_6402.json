@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "02:02",
+            "03:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the record on getting marine species listed on the species at risk act is not good and so we're saying the department of oceans and fisheries should be putting a ban on these fisheries until they get more accurate science",
+            "count": 2
+        },
+        {
+            "phrase": "considering the current and future impacts of climate change these regulations are an important step towards giving our oceans and fisheries the best chance for survival",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:13",
+            "04:42"
+        ],
+        "label": "everybody"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody knows it i know it the players know it we have to get five or six players in before the season starts",
+            "count": 1
+        },
+        {
+            "phrase": "i know at this point last year i had no clue",
+            "count": 1
+        },
+        {
+            "phrase": "every year i think it's a question mark for every team",
+            "count": 1
+        }
+    ]
+}

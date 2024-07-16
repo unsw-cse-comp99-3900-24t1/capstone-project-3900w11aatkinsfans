@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:33",
+            "01:33",
+            "02:14",
+            "03:26",
+            "04:06"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are so many mixed feelings because last night they were almost positive there was something wrong with my nerve which could ultimately have been more serious",
+            "count": 2
+        },
+        {
+            "phrase": "i tried to lay down at 4 o'clock this morning and i was up 10 minutes later because every time i close my eyes i see this man in the window with some guy's head i just smoked a cigarette with an hour before",
+            "count": 2
+        },
+        {
+            "phrase": "there are so many mixed feelings because on wednesday night they were almost positive there was something wrong with my nerve which could have ultimately been much more serious",
+            "count": 1
+        },
+        {
+            "phrase": "there are so many mixed feelings because last night they were almost positive there was something wrong with my nerve which could have ultimately been much more serious",
+            "count": 1
+        }
+    ]
+}

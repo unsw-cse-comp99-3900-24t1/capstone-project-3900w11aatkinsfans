@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:24",
+            "03:48"
+        ],
+        "label": "y'know"
+    },
+    "clusterList": [
+        {
+            "phrase": "y'know we could make a fifth movie about indiana jones",
+            "count": 1
+        },
+        {
+            "phrase": "trilogy of idiots",
+            "count": 1
+        },
+        {
+            "phrase": "indiana jones amp the kingdom of the crystal skull",
+            "count": 1
+        }
+    ]
+}

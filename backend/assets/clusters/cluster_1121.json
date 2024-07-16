@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "00:04",
+            "00:23",
+            "01:16",
+            "01:47",
+            "02:14",
+            "02:19",
+            "03:18",
+            "03:20",
+            "03:23"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "if there was something else that made sense i would've done it",
+            "count": 2
+        },
+        {
+            "phrase": "i admit that i did it but i did not intend to threaten",
+            "count": 1
+        },
+        {
+            "phrase": "what i did was absolutely wrong",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't want to do that",
+            "count": 1
+        },
+        {
+            "phrase": "yeah well you should've thought of that before you did it",
+            "count": 1
+        },
+        {
+            "phrase": "yeah what was that about i thought you wanted to do that with me",
+            "count": 1
+        },
+        {
+            "phrase": "i don't regret making the comments at all",
+            "count": 1
+        },
+        {
+            "phrase": "but that's why i wanted to",
+            "count": 1
+        },
+        {
+            "phrase": "you weren't meant to do that",
+            "count": 1
+        },
+        {
+            "phrase": "that was a very stupid thing to do",
+            "count": 1
+        },
+        {
+            "phrase": "i know what you're mad about but i swear i had good reason to do what i did",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't mean to do that it's been a funny day",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't intend for that to happen",
+            "count": 1
+        }
+    ]
+}

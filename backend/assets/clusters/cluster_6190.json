@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:03",
+            "04:21"
+        ],
+        "label": "having"
+    },
+    "clusterList": [
+        {
+            "phrase": "having a by-election involves a lot of work at this time we should be focusing on solving the problems faced by the people and not on pursuing one's personal ambitions",
+            "count": 1
+        },
+        {
+            "phrase": "do not resort to political movements engage in formalism leaders need to be sober-minded and do not let work be influenced",
+            "count": 1
+        },
+        {
+            "phrase": "if a leader isn't passionate about the strategy he she wants others to follow then the results will be marginal and difficult to measure",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:06",
+            "01:46",
+            "02:25",
+            "02:39",
+            "03:06",
+            "03:48",
+            "04:28",
+            "04:31",
+            "04:45"
+        ],
+        "label": "even"
+    },
+    "clusterList": [
+        {
+            "phrase": "even the most timorous teenage girl couldn't conceive of bella as intimidating it's hard to imagine a person more insecure or a situation better set up to magnify her insecurities",
+            "count": 7
+        },
+        {
+            "phrase": "c'mon phoebe olivia may be a little direct at times but she isn't cruel at least not deliberately",
+            "count": 1
+        },
+        {
+            "phrase": "he might be using olivia to make phoebe jealous and olivia might be free after all",
+            "count": 1
+        },
+        {
+            "phrase": "sarah is bubbly without overacting she is very raw sensitive and natural reason enough to herald her arrival in the acting department",
+            "count": 1
+        },
+        {
+            "phrase": "julia doesn't feel like she fits in but she's also bound by her family and her upbringing",
+            "count": 1
+        }
+    ]
+}

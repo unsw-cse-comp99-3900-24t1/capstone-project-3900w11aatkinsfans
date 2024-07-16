@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:42"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this issue is a result of the migration of javax",
+            "count": 1
+        },
+        {
+            "phrase": "this problem is fixed in weblogic server 9 2 mp1",
+            "count": 1
+        }
+    ]
+}

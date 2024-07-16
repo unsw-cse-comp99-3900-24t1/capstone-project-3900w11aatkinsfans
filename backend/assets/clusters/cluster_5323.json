@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:27",
+            "03:41",
+            "03:51",
+            "03:54"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you fly everyday of the year there are probably going to be four or five days you wish you were somewhere else",
+            "count": 1
+        },
+        {
+            "phrase": "even though the cost of flying and everything is going up if you can plan ahead we are having a great time",
+            "count": 1
+        },
+        {
+            "phrase": "right now we're going to hold off on boarding until the plane gets here",
+            "count": 1
+        },
+        {
+            "phrase": "well this is going to be a long flight for you now isn't it",
+            "count": 1
+        }
+    ]
+}

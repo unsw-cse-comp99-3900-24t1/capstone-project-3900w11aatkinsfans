@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "03:38"
+        ],
+        "label": "behind"
+    },
+    "clusterList": [
+        {
+            "phrase": "behind the scenes of any business are dramas and yes there are chefs and owners that rant and rave",
+            "count": 2
+        },
+        {
+            "phrase": "definitely recieved some help in some of the production aspects in on the",
+            "count": 1
+        }
+    ]
+}

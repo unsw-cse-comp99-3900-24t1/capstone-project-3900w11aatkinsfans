@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:20",
+            "00:59",
+            "01:30",
+            "01:38",
+            "03:41",
+            "03:47"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "the australian company",
+            "count": 2
+        },
+        {
+            "phrase": "they were from a couple of different companies",
+            "count": 1
+        },
+        {
+            "phrase": "best company on line",
+            "count": 1
+        },
+        {
+            "phrase": "they are canadian companies and subject to canadian and international law",
+            "count": 1
+        },
+        {
+            "phrase": "looks as though we have company",
+            "count": 1
+        },
+        {
+            "phrase": "a kinney services company",
+            "count": 1
+        },
+        {
+            "phrase": "construction firm a",
+            "count": 1
+        }
+    ]
+}

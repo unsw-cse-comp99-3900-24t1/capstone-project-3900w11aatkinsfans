@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "03:34",
+            "04:22",
+            "04:49"
+        ],
+        "label": "half"
+    },
+    "clusterList": [
+        {
+            "phrase": "half the energy that goes into it comes out as heat",
+            "count": 2
+        },
+        {
+            "phrase": "more of it's getting converted to energy",
+            "count": 1
+        },
+        {
+            "phrase": "don't get beat by the heat boost your energy with effervescence",
+            "count": 1
+        }
+    ]
+}

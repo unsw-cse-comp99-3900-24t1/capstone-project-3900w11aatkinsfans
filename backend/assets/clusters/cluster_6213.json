@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "04:13",
+            "04:21"
+        ],
+        "label": "six"
+    },
+    "clusterList": [
+        {
+            "phrase": "six degrees of separation",
+            "count": 3
+        }
+    ]
+}

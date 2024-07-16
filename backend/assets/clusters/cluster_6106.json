@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:46",
+            "03:24"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is my document",
+            "count": 2
+        },
+        {
+            "phrase": "the writing is on the wall",
+            "count": 1
+        }
+    ]
+}

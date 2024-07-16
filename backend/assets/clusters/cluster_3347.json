@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "01:52",
+            "02:31",
+            "02:51",
+            "03:12",
+            "03:19"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this was the first contact the state transportation department has had with tsa regarding sonia",
+            "count": 2
+        },
+        {
+            "phrase": "at first i think no then again i've worked for three years for the tsa as a federal air marshal and i've seen some outrageous things",
+            "count": 2
+        },
+        {
+            "phrase": "tsa has been aware of issues surrounding her employment for some time",
+            "count": 1
+        },
+        {
+            "phrase": "transportation security specialist pitt declined to discuss her job responsibilities her length of employment with the federal agency or her salary",
+            "count": 1
+        }
+    ]
+}

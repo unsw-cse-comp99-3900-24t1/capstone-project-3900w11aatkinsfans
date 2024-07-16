@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:33",
+            "03:56"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the taxi driver waiting for us was astonished at what was happening",
+            "count": 1
+        },
+        {
+            "phrase": "i was your taxi driver",
+            "count": 1
+        },
+        {
+            "phrase": "i had finally gotten out of the cab",
+            "count": 1
+        }
+    ]
+}

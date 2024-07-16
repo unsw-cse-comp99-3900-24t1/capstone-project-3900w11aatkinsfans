@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:27",
+            "04:38"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in this dialogue we are not discussing doctrines or creeds",
+            "count": 2
+        },
+        {
+            "phrase": "those who say that art should not propagate doctrines usually refer to doctrines that are opposed to their own",
+            "count": 1
+        },
+        {
+            "phrase": "incompatible with their belief in the undifferentiated one",
+            "count": 1
+        }
+    ]
+}

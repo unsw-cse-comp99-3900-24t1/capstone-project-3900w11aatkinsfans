@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:38",
+            "04:28",
+            "04:59"
+        ],
+        "label": "many"
+    },
+    "clusterList": [
+        {
+            "phrase": "many look at the vitality of this emerging world and conclude that the united states has had its day",
+            "count": 1
+        },
+        {
+            "phrase": "asean is a place where the united states can remain should remain actively engaged with nations who are saying say wait a minute we're your friends as well don't just focus on the big guys think about us",
+            "count": 1
+        },
+        {
+            "phrase": "our relations with south korea with japan and with china have never been better",
+            "count": 1
+        },
+        {
+            "phrase": "our relations with your country thailand south korea with japan and china have never been stronger",
+            "count": 1
+        }
+    ]
+}

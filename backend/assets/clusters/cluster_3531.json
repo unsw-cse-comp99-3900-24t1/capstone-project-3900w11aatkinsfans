@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "01:58",
+            "02:05",
+            "04:13"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on the hydrogen side platinum works well",
+            "count": 3
+        },
+        {
+            "phrase": "the system can duplicate the water splitting reaction that occurs during photosynthesis",
+            "count": 1
+        },
+        {
+            "phrase": "we have thus a 100 electric vehicle but which is mixed battery-hydrogen with regard to filling up with energy providing great flexibility in its use",
+            "count": 1
+        }
+    ]
+}

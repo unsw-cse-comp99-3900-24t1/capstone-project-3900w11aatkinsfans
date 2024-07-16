@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:04",
+            "01:06",
+            "01:33",
+            "01:47",
+            "02:00",
+            "02:28",
+            "03:06",
+            "03:09",
+            "03:48",
+            "03:51",
+            "03:55",
+            "04:28"
+        ],
+        "label": "use"
+    },
+    "clusterList": [
+        {
+            "phrase": "use it or lose it",
+            "count": 7
+        },
+        {
+            "phrase": "remove this page immediately",
+            "count": 2
+        },
+        {
+            "phrase": "remove this before use",
+            "count": 1
+        },
+        {
+            "phrase": "how to lose your cuil 20 seconds after launch",
+            "count": 1
+        },
+        {
+            "phrase": "stop using it immediately",
+            "count": 1
+        },
+        {
+            "phrase": "how do i get rid of this quickly",
+            "count": 1
+        }
+    ]
+}

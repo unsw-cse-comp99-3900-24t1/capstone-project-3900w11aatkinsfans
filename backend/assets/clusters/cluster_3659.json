@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:53",
+            "02:33",
+            "03:54"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he wiped out once and totaled his bike in vashon island but that surely didn't stop him he soon bought another bike from the widow of a previous owner who died in a motorcycle accident",
+            "count": 2
+        },
+        {
+            "phrase": "my father marcel raced dirt modifieds and was racing in middletown new york some time around 1992 and he wrecked his car during the heat race",
+            "count": 2
+        },
+        {
+            "phrase": "bmx biker cheats death",
+            "count": 1
+        }
+    ]
+}

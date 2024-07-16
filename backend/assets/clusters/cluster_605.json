@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:07",
+            "00:09",
+            "00:23",
+            "00:25",
+            "01:02",
+            "01:03",
+            "01:24",
+            "01:29",
+            "01:32",
+            "01:37",
+            "01:42",
+            "01:47",
+            "02:10",
+            "02:18",
+            "02:28",
+            "02:29",
+            "02:46",
+            "02:47",
+            "04:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the guy that's won here every year is not here and all the losers are still here",
+            "count": 10
+        },
+        {
+            "phrase": "all the losers are still here",
+            "count": 8
+        },
+        {
+            "phrase": "they are sore losers",
+            "count": 1
+        },
+        {
+            "phrase": "there is nobody left who cares",
+            "count": 1
+        },
+        {
+            "phrase": "no one comes here to lose",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:15",
+            "02:25",
+            "03:51"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are going to have to cut spending the time has come for america to cut up its credit cards",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of ordinary americans borrowed a lot more money then they could afford to pay back running up enormous credit card bills and borrowing against the value of their homes now comes the day of reckoning",
+            "count": 1
+        },
+        {
+            "phrase": "we don't accept credit cards",
+            "count": 1
+        },
+        {
+            "phrase": "america to cut up its credit card",
+            "count": 1
+        }
+    ]
+}

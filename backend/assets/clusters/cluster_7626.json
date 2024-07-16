@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:42",
+            "04:26"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it had nothing to do with style",
+            "count": 1
+        },
+        {
+            "phrase": "but i think the style outlets that i respect a lot are style section",
+            "count": 1
+        },
+        {
+            "phrase": "small space big style",
+            "count": 1
+        }
+    ]
+}

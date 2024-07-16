@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:25",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "stop"
+    },
+    "clusterList": [
+        {
+            "phrase": "stop excessive energy speculation act",
+            "count": 14
+        },
+        {
+            "phrase": "there have now been several pieces of legislation introduced to address speculation in the energy markets and there have been several hearings held in many different senate committees on the topic",
+            "count": 7
+        }
+    ]
+}

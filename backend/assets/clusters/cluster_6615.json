@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:16",
+            "02:46"
+        ],
+        "label": "pictures"
+    },
+    "clusterList": [
+        {
+            "phrase": "pictures for soldier boy",
+            "count": 1
+        },
+        {
+            "phrase": "war rugs from afghanistan",
+            "count": 1
+        },
+        {
+            "phrase": "this is the army son",
+            "count": 1
+        }
+    ]
+}

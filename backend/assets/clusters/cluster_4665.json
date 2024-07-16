@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "03:54",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i like you lift weights and exercise to get strong",
+            "count": 1
+        },
+        {
+            "phrase": "the workouts that are always fun and challenging",
+            "count": 1
+        },
+        {
+            "phrase": "if i can sit around and continue to drink beer and do whatever i want to do without any exercise it just sounds like a good idea to me",
+            "count": 1
+        },
+        {
+            "phrase": "i would work out everyday own a gym teach people to eat right and get in shape",
+            "count": 1
+        }
+    ]
+}

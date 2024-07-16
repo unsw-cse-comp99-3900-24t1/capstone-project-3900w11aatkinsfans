@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "04:32"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my job is to comfort the afflicted and afflict the comfortable",
+            "count": 1
+        },
+        {
+            "phrase": "it is my job to comfort",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:58",
+            "01:19",
+            "03:06",
+            "03:19",
+            "04:32",
+            "04:33",
+            "04:51",
+            "04:54"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is not a condition that kills you acutely it is a condition that erodes your health over time",
+            "count": 5
+        },
+        {
+            "phrase": "don't use medical terms around me",
+            "count": 1
+        },
+        {
+            "phrase": "is not associated with any adverse health effect",
+            "count": 1
+        },
+        {
+            "phrase": "to an erroneous categorization of mostly elderly and female subjects as having an intermediate stage of a lethal disease",
+            "count": 1
+        },
+        {
+            "phrase": "it's the humidity that kills you",
+            "count": 1
+        },
+        {
+            "phrase": "this is not a condition that kills you acutely",
+            "count": 1
+        },
+        {
+            "phrase": "not sufficient to be the cause of death i would lean towards this cause of death being related to intoxication of morphine",
+            "count": 1
+        }
+    ]
+}

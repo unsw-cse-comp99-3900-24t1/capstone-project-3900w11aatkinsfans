@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:29",
+            "00:37",
+            "02:04"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's a man without a country at this point",
+            "count": 3
+        },
+        {
+            "phrase": "he hasn't been out of his country",
+            "count": 1
+        }
+    ]
+}

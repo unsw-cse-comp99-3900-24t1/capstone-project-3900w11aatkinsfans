@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "03:14",
+            "04:54"
+        ],
+        "label": "speak"
+    },
+    "clusterList": [
+        {
+            "phrase": "speak to them",
+            "count": 1
+        },
+        {
+            "phrase": "you have to let them know you believe in them",
+            "count": 1
+        },
+        {
+            "phrase": "you can't help but yell for them",
+            "count": 1
+        }
+    ]
+}

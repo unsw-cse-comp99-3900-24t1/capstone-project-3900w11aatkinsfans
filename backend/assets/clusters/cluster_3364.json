@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:25",
+            "01:33",
+            "02:01",
+            "03:12",
+            "03:18"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my face when you left me left me there to die",
+            "count": 1
+        },
+        {
+            "phrase": "where is my brother you're gone",
+            "count": 1
+        },
+        {
+            "phrase": "what am i going to do without you",
+            "count": 1
+        },
+        {
+            "phrase": "i don't wanna miss a thing",
+            "count": 1
+        },
+        {
+            "phrase": "i want youse to know dat i'm really gonna miss ya",
+            "count": 1
+        },
+        {
+            "phrase": "i'll miss ya though",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "01:50",
+            "03:00"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have campaigned hard for every vote in every corner of the state and we're going to finish this race working for the support of everyday missourians in small towns and big cities alike",
+            "count": 1
+        },
+        {
+            "phrase": "as we traveled the state collecting signatures and explaining this proposed ballot measure we were struck by how many coloradans overwhelmingly agreed with this common sense ethical approach to government",
+            "count": 1
+        },
+        {
+            "phrase": "this is what wyoming stands for that's why we've got the overwhelming majority in the state legislature people believe in those republican principles and that's why we elect the people that we do",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:28",
+            "01:46",
+            "02:48",
+            "05:03"
+        ],
+        "label": "with"
+    },
+    "clusterList": [
+        {
+            "phrase": "with so much space available to us during the resort takeover you're sure to find the room you desire",
+            "count": 2
+        },
+        {
+            "phrase": "listen you don't want to spend your life on a plane why not hire a bunch of cadets and send them out to do your bidding",
+            "count": 1
+        },
+        {
+            "phrase": "official shot down academy hotel idea",
+            "count": 1
+        },
+        {
+            "phrase": "have you ever wondered why we don't have a hotel within the confines of the air force academy grounds",
+            "count": 1
+        }
+    ]
+}

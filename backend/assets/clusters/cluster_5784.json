@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:24",
+            "04:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will not drop this issue until a public written retraction is offered",
+            "count": 1
+        },
+        {
+            "phrase": "we've been told that allocation has already been approved and wouldn't be touched",
+            "count": 1
+        },
+        {
+            "phrase": "they haven't lived up to their agreements and now they are coming back and saying we want to rezone it as a pud and in effect they are saying they are breaking their agreement",
+            "count": 1
+        }
+    ]
+}

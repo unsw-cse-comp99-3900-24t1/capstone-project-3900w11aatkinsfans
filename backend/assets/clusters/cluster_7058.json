@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "02:35",
+            "03:08"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this may sting a little",
+            "count": 1
+        },
+        {
+            "phrase": "sweet the sting",
+            "count": 1
+        },
+        {
+            "phrase": "thank you sting",
+            "count": 1
+        }
+    ]
+}

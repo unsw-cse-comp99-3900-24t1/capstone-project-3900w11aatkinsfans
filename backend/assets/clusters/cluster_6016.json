@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:19",
+            "03:11"
+        ],
+        "label": "aiding"
+    },
+    "clusterList": [
+        {
+            "phrase": "aiding persons to sell and be in possession of tobacco manufactured in canada that was not packed and was not stamped in conformity with the excise act",
+            "count": 2
+        },
+        {
+            "phrase": "aiding persons to sell and be in possession of tobacco manufactured in canada that was not packed and was not stamped",
+            "count": 1
+        }
+    ]
+}

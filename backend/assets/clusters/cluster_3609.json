@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:09",
+            "03:46",
+            "04:29",
+            "04:36"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think he should apologise",
+            "count": 2
+        },
+        {
+            "phrase": "kevan gosper's felt it necessary to come out and apologise he clearly at some stage has been under the impression and you showed me the bit of paper saying there would be restrictions he didn't know that he's apologised",
+            "count": 2
+        },
+        {
+            "phrase": "he didn't know that he's apologised",
+            "count": 1
+        }
+    ]
+}

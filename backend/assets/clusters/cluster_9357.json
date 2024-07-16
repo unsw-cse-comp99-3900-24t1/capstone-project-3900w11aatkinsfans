@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the optimist see opportunity in every danger the pessimist see danger in every opportunity",
+            "count": 1
+        },
+        {
+            "phrase": "a pessimist is one who makes difficulties of his opportunities an optimist is one who makes opportunities of his difficulties",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:18",
+            "00:29",
+            "00:42",
+            "01:01"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are all more than the skin we are in",
+            "count": 2
+        },
+        {
+            "phrase": "we were supposed to be more people",
+            "count": 1
+        },
+        {
+            "phrase": "we must not always compare ourselves with those who are below us",
+            "count": 1
+        },
+        {
+            "phrase": "why do you care about us humans why are you concerned for us weaklings",
+            "count": 1
+        },
+        {
+            "phrase": "we are less than human",
+            "count": 1
+        },
+        {
+            "phrase": "we are better than most of the world",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "02:47",
+            "03:06",
+            "03:48",
+            "04:03",
+            "04:23",
+            "04:33",
+            "04:46"
+        ],
+        "label": "effectively"
+    },
+    "clusterList": [
+        {
+            "phrase": "when properly structured",
+            "count": 3
+        },
+        {
+            "phrase": "effectively and definitively",
+            "count": 1
+        },
+        {
+            "phrase": "in the interest of consistency",
+            "count": 1
+        },
+        {
+            "phrase": "clear and convincing",
+            "count": 1
+        },
+        {
+            "phrase": "efficient and effective",
+            "count": 1
+        },
+        {
+            "phrase": "significant and effective",
+            "count": 1
+        }
+    ]
+}

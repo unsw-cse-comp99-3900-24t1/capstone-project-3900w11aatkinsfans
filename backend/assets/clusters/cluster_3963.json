@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "04:07",
+            "04:45"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no quality control mechanism at the courthouse",
+            "count": 2
+        },
+        {
+            "phrase": "you can file anything and the district clerk has to take it there is a quality control mechanism at the eeoc and she never made a complaint there",
+            "count": 2
+        },
+        {
+            "phrase": "there needs to be a followup commission or report to iron out the excruciating details",
+            "count": 1
+        }
+    ]
+}

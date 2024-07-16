@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:11",
+            "01:46",
+            "02:14",
+            "03:01",
+            "03:18",
+            "03:37",
+            "03:41",
+            "03:43",
+            "03:50",
+            "04:10",
+            "04:18",
+            "04:28",
+            "04:33",
+            "04:52"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all these things and more",
+            "count": 4
+        },
+        {
+            "phrase": "all of the above",
+            "count": 3
+        },
+        {
+            "phrase": "one of those things",
+            "count": 2
+        },
+        {
+            "phrase": "all of it",
+            "count": 1
+        },
+        {
+            "phrase": "just one more thing",
+            "count": 1
+        },
+        {
+            "phrase": "only two things",
+            "count": 1
+        },
+        {
+            "phrase": "things that go",
+            "count": 1
+        },
+        {
+            "phrase": "every little thing",
+            "count": 1
+        },
+        {
+            "phrase": "and another thing",
+            "count": 1
+        },
+        {
+            "phrase": "all that you can",
+            "count": 1
+        },
+        {
+            "phrase": "oh and one more thing",
+            "count": 1
+        },
+        {
+            "phrase": "all these things that i've done",
+            "count": 1
+        },
+        {
+            "phrase": "of course anything else",
+            "count": 1
+        }
+    ]
+}

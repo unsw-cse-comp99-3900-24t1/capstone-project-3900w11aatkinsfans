@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:07",
+            "01:11",
+            "01:25",
+            "01:32",
+            "01:37",
+            "01:47",
+            "02:16",
+            "02:38",
+            "03:10",
+            "03:51",
+            "04:17",
+            "04:31"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are seeing more bicyclists on the road because of the price of gas and we see more of these",
+            "count": 5
+        },
+        {
+            "phrase": "with upward of 60 vehicles getting seven miles per gallon for a single national tour the impact can be pretty staggering",
+            "count": 5
+        },
+        {
+            "phrase": "demand for fuel-efficient vehicles is so strong that the customer is willing to buy used ones at a significant premium",
+            "count": 1
+        },
+        {
+            "phrase": "this is what we hoped to achieve when we started the company three years ago to build a car with zero emissions that people would love to drive",
+            "count": 1
+        },
+        {
+            "phrase": "that means there will be 80 per cent more trucks on what we already have",
+            "count": 1
+        },
+        {
+            "phrase": "with gas the way it is 35 miles round-trip that's 6 to 8 a day at 3 to 4 a gallon",
+            "count": 1
+        }
+    ]
+}

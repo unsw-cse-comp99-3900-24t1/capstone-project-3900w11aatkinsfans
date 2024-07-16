@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:38",
+            "01:02",
+            "01:06",
+            "01:07",
+            "01:33",
+            "01:37",
+            "01:38",
+            "03:18",
+            "03:34",
+            "04:41"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as with any program there are tricks you can do to make programs run better",
+            "count": 7
+        },
+        {
+            "phrase": "i have tested the computers and am happy with their performance",
+            "count": 3
+        },
+        {
+            "phrase": "windows vista capable",
+            "count": 1
+        },
+        {
+            "phrase": "vista is a rich os",
+            "count": 1
+        },
+        {
+            "phrase": "have u tried vista what's the matter with the performances",
+            "count": 1
+        }
+    ]
+}

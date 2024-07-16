@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:13",
+            "01:52",
+            "04:20",
+            "04:47"
+        ],
+        "label": "would"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm just sayin the podcast hosted by",
+            "count": 2
+        },
+        {
+            "phrase": "would you like to do some sort of podcast it would be cool",
+            "count": 1
+        },
+        {
+            "phrase": "the official band of candian sic podcasting",
+            "count": 1
+        },
+        {
+            "phrase": "the literary world's best podcast",
+            "count": 1
+        },
+        {
+            "phrase": "promoting your podcast",
+            "count": 1
+        },
+        {
+            "phrase": "tricks of the podcasting masters",
+            "count": 1
+        }
+    ]
+}

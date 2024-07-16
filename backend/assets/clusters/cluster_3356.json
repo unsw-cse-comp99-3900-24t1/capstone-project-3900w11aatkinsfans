@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:29",
+            "03:01",
+            "03:18",
+            "03:51",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "who just happened to be in the vicinity",
+            "count": 2
+        },
+        {
+            "phrase": "i just want to know if you saw me",
+            "count": 1
+        },
+        {
+            "phrase": "i know people who died there",
+            "count": 1
+        },
+        {
+            "phrase": "never met anyone who was actually from there",
+            "count": 1
+        },
+        {
+            "phrase": "do you know who i saw over there",
+            "count": 1
+        }
+    ]
+}

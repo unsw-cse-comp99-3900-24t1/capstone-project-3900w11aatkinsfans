@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            2,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:48",
+            "03:55",
+            "04:28",
+            "04:36"
+        ],
+        "label": "in-game"
+    },
+    "clusterList": [
+        {
+            "phrase": "in-game voice chat is an enhanced new feature gamers of all levels can enjoy now soe's players can easily talk to one another and better enjoy the online gaming experience",
+            "count": 3
+        },
+        {
+            "phrase": "the integration of station voice into these initial games was seamless and we look forward to incorporating this added gaming experience into other soe titles as well as implementing the next phase of features to come soon",
+            "count": 3
+        },
+        {
+            "phrase": "soe's commitment to the player experience and their game communities is unrivalled and presents an incredible opportunity to demonstrate the power of voice",
+            "count": 2
+        },
+        {
+            "phrase": "through a magnificent implementation soe has delivered high quality voice chat seamless access instant groups intuitive controls and a fantastic and immersive experience for their players",
+            "count": 2
+        },
+        {
+            "phrase": "well they can chat via skype",
+            "count": 2
+        }
+    ]
+}

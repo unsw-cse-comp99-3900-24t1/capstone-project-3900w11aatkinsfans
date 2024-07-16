@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:24",
+            "00:34"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there have been at least three marine biodiversity hotspots during the past 50 million years",
+            "count": 1
+        },
+        {
+            "phrase": "we investigators spent 20 years attempting to learn about these animals on the high seas and temperate ocean waters with only slow progress",
+            "count": 1
+        },
+        {
+            "phrase": "among those species the 36 bird species are the scarce species in global scale",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "02:27",
+            "03:19",
+            "04:28",
+            "04:52"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you just believe in yourself and all things are possible",
+            "count": 1
+        },
+        {
+            "phrase": "you have to have some belief in yourself",
+            "count": 1
+        },
+        {
+            "phrase": "don't ask yourself what the world needs ask yourself what makes you come alive and then go do it because what the world needs is people who have come alive",
+            "count": 1
+        },
+        {
+            "phrase": "you are made by god and for god and until you understand that life will never make sense",
+            "count": 1
+        },
+        {
+            "phrase": "you have to believe in yourself you can't give up when you're on stage",
+            "count": 1
+        }
+    ]
+}

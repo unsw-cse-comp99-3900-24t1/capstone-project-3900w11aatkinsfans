@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:28",
+            "04:05",
+            "04:08",
+            "04:45"
+        ],
+        "label": "today's"
+    },
+    "clusterList": [
+        {
+            "phrase": "in his column charles krauthammer analyzes one of bush's public statements which leads him to state the signal is unmistakable",
+            "count": 4
+        },
+        {
+            "phrase": "today's decision in washington d c is very encouraging it is clear that the trial will begin and conclude prior to the general election this means that the senator's innocence will be confirmed before alaskans go to the ballot box in november",
+            "count": 1
+        },
+        {
+            "phrase": "deal directly with internal white house deliberative communications relating to foreign policy and national security decisions the justice department said in a letter to the panel's chairman representative henry waxman",
+            "count": 1
+        }
+    ]
+}

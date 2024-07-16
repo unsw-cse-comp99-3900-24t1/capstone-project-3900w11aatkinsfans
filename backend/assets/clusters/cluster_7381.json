@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:38",
+            "03:50",
+            "03:51"
+        ],
+        "label": "sometimes"
+    },
+    "clusterList": [
+        {
+            "phrase": "sometimes love finds you when you're not looking",
+            "count": 1
+        },
+        {
+            "phrase": "its better to have loved and lost than never to love at all",
+            "count": 1
+        },
+        {
+            "phrase": "absence makes the heart grow fonder",
+            "count": 1
+        }
+    ]
+}

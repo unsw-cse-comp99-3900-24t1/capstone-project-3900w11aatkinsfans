@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:22",
+            "03:28",
+            "04:09"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "she'll keep all those damn immigrants out",
+            "count": 2
+        },
+        {
+            "phrase": "what are they gonna do deport her to kentucky",
+            "count": 1
+        }
+    ]
+}

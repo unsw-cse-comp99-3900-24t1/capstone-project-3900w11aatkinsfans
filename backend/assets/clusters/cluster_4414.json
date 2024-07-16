@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:47",
+            "03:42",
+            "04:45"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our biggest concern over the next couple of days is more slips along areas like the thames coast rd",
+            "count": 1
+        },
+        {
+            "phrase": "we want to make ohio's highways as safe as possible we want to make the public aware that these things are occurring and the highway patrol is investigating these incidents and trends throughout the state",
+            "count": 1
+        },
+        {
+            "phrase": "it hasn't gone unnoticed by me that biketopia will still need roads that are safe for cyclists and nice enough to be considered",
+            "count": 1
+        },
+        {
+            "phrase": "i have been down this road many times so we are not going to panic about it",
+            "count": 1
+        }
+    ]
+}

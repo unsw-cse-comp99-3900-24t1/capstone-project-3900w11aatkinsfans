@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "02:33",
+            "03:18",
+            "03:19",
+            "03:48",
+            "04:32",
+            "04:47"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "i actually did meet him in vegas",
+            "count": 2
+        },
+        {
+            "phrase": "he who i'd like to meet",
+            "count": 1
+        },
+        {
+            "phrase": "did you guys meet the miz he's a horrible horrible guy",
+            "count": 1
+        },
+        {
+            "phrase": "maybe i'll go look for him later then",
+            "count": 1
+        },
+        {
+            "phrase": "i need to meet him he's a very funny guy",
+            "count": 1
+        },
+        {
+            "phrase": "having his phone number is a great resource for me",
+            "count": 1
+        }
+    ]
+}

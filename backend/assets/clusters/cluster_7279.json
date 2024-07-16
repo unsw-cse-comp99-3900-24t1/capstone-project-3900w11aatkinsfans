@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:21",
+            "04:28",
+            "04:33"
+        ],
+        "label": "also"
+    },
+    "clusterList": [
+        {
+            "phrase": "also with you",
+            "count": 1
+        },
+        {
+            "phrase": "i can handle that",
+            "count": 1
+        },
+        {
+            "phrase": "well i'm fine with that",
+            "count": 1
+        }
+    ]
+}

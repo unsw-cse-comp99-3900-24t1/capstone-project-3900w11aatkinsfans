@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:47",
+            "03:27"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we think it's a business that has great potential and a great future",
+            "count": 1
+        },
+        {
+            "phrase": "it's good for business",
+            "count": 1
+        },
+        {
+            "phrase": "business has been very good we love it",
+            "count": 1
+        }
+    ]
+}

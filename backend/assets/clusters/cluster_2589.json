@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:06",
+            "01:24",
+            "02:42",
+            "04:42",
+            "05:02"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "always believed everywhere and by all",
+            "count": 2
+        },
+        {
+            "phrase": "i had been raised in the baptist church and all my life i had known of god but never knew him until my wife and i began working through a failed marriage",
+            "count": 1
+        },
+        {
+            "phrase": "christians are wonderful",
+            "count": 1
+        },
+        {
+            "phrase": "be still and know that i am god",
+            "count": 1
+        },
+        {
+            "phrase": "a committed christian",
+            "count": 1
+        },
+        {
+            "phrase": "think back on those early days when you first learned about christ",
+            "count": 1
+        }
+    ]
+}

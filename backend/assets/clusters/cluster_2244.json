@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:00",
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:54",
+            "04:45"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "no way really",
+            "count": 3
+        },
+        {
+            "phrase": "well sort of",
+            "count": 1
+        },
+        {
+            "phrase": "sort of not in the way you're thinking of",
+            "count": 1
+        },
+        {
+            "phrase": "don't really care",
+            "count": 1
+        },
+        {
+            "phrase": "no really you're not talking either",
+            "count": 1
+        },
+        {
+            "phrase": "it ain't necessarily so",
+            "count": 1
+        }
+    ]
+}

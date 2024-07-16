@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "00:11",
+            "00:29",
+            "02:14",
+            "02:52",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "03:43",
+            "04:13",
+            "04:51",
+            "04:54"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is unacceptable",
+            "count": 8
+        },
+        {
+            "phrase": "it'll be ok",
+            "count": 2
+        },
+        {
+            "phrase": "is this okay",
+            "count": 1
+        },
+        {
+            "phrase": "don't feel this it's ok",
+            "count": 1
+        },
+        {
+            "phrase": "is this right for me",
+            "count": 1
+        },
+        {
+            "phrase": "it's all right",
+            "count": 1
+        }
+    ]
+}

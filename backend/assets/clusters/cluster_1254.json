@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:00",
+            "02:02",
+            "02:13",
+            "02:50",
+            "02:52",
+            "03:14",
+            "04:13"
+        ],
+        "label": "enough"
+    },
+    "clusterList": [
+        {
+            "phrase": "enough wind power blows through the midwest corridor every day to also meet 100 percent of u s electricity demand",
+            "count": 3
+        },
+        {
+            "phrase": "in the next 50 years the world needs 16 terawatts by the end of the century we'll need around 30",
+            "count": 3
+        },
+        {
+            "phrase": "for the first time generation from wind exceeded generation from hydro and became the largest renewables technology in terms of electricity generated",
+            "count": 3
+        },
+        {
+            "phrase": "scientists have confirmed that enough solar energy falls on the surface of the earth every 40 minutes to meet 100 percent of the entire world's energy needs for a full year",
+            "count": 1
+        },
+        {
+            "phrase": "and enough wind power blows through the midwest corridor every day to also meet 100 percent of u s electricity demand",
+            "count": 1
+        },
+        {
+            "phrase": "we import 70 percent of our energy",
+            "count": 1
+        },
+        {
+            "phrase": "across europe renewable energy-based inverters registered growth of 36 7 per cent in 2007 as compared to 2006",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "02:09",
+            "02:39",
+            "03:01",
+            "04:31"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "highly reliable sources",
+            "count": 2
+        },
+        {
+            "phrase": "a reliable source who cannot be named",
+            "count": 1
+        },
+        {
+            "phrase": "i have found your site to be one of the most reliable and accurate than the host of bad ones on the internet",
+            "count": 1
+        },
+        {
+            "phrase": "very very informative with lots of links to sources",
+            "count": 1
+        }
+    ]
+}

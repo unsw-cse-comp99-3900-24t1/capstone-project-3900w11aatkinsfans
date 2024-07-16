@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:27",
+            "02:50",
+            "03:38"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "how come the boss won't talk to her",
+            "count": 2
+        },
+        {
+            "phrase": "well you're her boss and she's your your your whatever",
+            "count": 1
+        },
+        {
+            "phrase": "i hate my boss she's so rude to the college students because she knows we're going to leave at the end of the summer she can be such a bitch sometimes",
+            "count": 1
+        }
+    ]
+}

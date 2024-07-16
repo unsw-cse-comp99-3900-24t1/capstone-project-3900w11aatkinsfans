@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:10",
+            "02:11",
+            "03:19"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was one of those ah hah moments",
+            "count": 1
+        },
+        {
+            "phrase": "it brought me back it almost brought me to tears",
+            "count": 1
+        },
+        {
+            "phrase": "yeah that was my favorite for a long time",
+            "count": 1
+        },
+        {
+            "phrase": "we all missed it me included",
+            "count": 1
+        }
+    ]
+}

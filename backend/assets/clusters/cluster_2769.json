@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:05",
+            "01:07",
+            "01:23",
+            "01:50",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i found it scary seeing as how i used to take greyhounds to canada i doubt i ever will again especially now",
+            "count": 6
+        },
+        {
+            "phrase": "go greyhound and leave the driving to us",
+            "count": 1
+        }
+    ]
+}

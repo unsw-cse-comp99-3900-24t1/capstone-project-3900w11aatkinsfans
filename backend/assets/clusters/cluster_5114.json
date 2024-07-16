@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:57",
+            "02:01",
+            "02:28"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are some people with government portfolios who are supporting us because they are worried about their own security",
+            "count": 2
+        },
+        {
+            "phrase": "why isn't the government doing anything to reinforce public order and citizens safety",
+            "count": 1
+        },
+        {
+            "phrase": "unfortunately it seems no one in our government is bothered by the fact that the public no longer trusts our so-called leaders to keep us safe",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:19",
+            "03:39"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do we americans really want good government",
+            "count": 1
+        },
+        {
+            "phrase": "a new poll out thursday indicates that fewer than a quarter of americans think things are going well in the country",
+            "count": 1
+        },
+        {
+            "phrase": "the modern welfare state highly touted as soaking the rich to subsidize the poor does no such thing in fact soaking the rich would have disastrous effects not just for the rich but for the poor and middle class themselves for it is the rich who provide a proportionately greater amount of saving investment capital entrepreneurial foresight and financing of technological innovation that has brought the united states to by far the highest standard of living for the mass of the people of any country in history",
+            "count": 1
+        }
+    ]
+}

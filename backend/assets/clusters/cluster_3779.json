@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:14",
+            "00:51",
+            "01:46",
+            "02:18"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a joint responsibility everyone provides a piece of the puzzle we have our criminal system that provides a piece of the puzzle our judicial system that enforces torts that provides a piece of the puzzle we have our virtual world provider and then the community itself does its own enforcement and that is a piece of the puzzle it's a shared responsibility and it would be a mistake to focus on only one aspect",
+            "count": 3
+        },
+        {
+            "phrase": "a more secure world our shared responsibility",
+            "count": 1
+        },
+        {
+            "phrase": "the problem with the world comes from the fact that we don't trust ourselves therefore we don't trust each other we spend all our resources building stronger locks and bigger walls to lock ourselves in",
+            "count": 1
+        }
+    ]
+}

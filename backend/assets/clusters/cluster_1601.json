@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:18",
+            "00:48",
+            "00:58",
+            "01:38",
+            "02:19",
+            "03:00",
+            "03:41",
+            "04:19",
+            "05:01"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's something i'm working toward there's a lot of music here and a lot of different tastes i would like people in the u s to know not only who i am but what i have to say there are not many singers from asia who have been successful here despite that america is a wonderful place for music the place i've always said that my ultimate goal is to win a grammy award maybe by doing that i could really attract a lot of fans here",
+            "count": 8
+        },
+        {
+            "phrase": "one of the best musical talents that this country has ever produced",
+            "count": 1
+        },
+        {
+            "phrase": "remember that music should primarily be an art-form to showcase singing songwriting and instrumental talent",
+            "count": 1
+        }
+    ]
+}

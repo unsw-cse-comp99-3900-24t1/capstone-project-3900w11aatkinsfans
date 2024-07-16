@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:09"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the cellular industry currently is an industry where we don't have heavy regulation",
+            "count": 1
+        },
+        {
+            "phrase": "it's not regulating use",
+            "count": 1
+        }
+    ]
+}

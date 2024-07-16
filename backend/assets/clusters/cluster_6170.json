@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "00:48",
+            "00:51"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this announcement is a huge success for america's nursing homes and the millions of people they serve",
+            "count": 2
+        },
+        {
+            "phrase": "2 million will go a long way to help care for people who rely on medicaid",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "01:38",
+            "02:14",
+            "02:42",
+            "02:43",
+            "03:23",
+            "03:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "what we've shown is if you use more than one model you can get entirely different results so based on studies that used only one model maybe we have no view at all of what the impacts are going to be",
+            "count": 4
+        },
+        {
+            "phrase": "it's important because it tells us there is a risk in using just one model it's quite true that you should have different approaches and methods it just makes the results more robust",
+            "count": 4
+        },
+        {
+            "phrase": "the doctrine of double effect reflections on theoretical and practical issues",
+            "count": 1
+        },
+        {
+            "phrase": "then if you look at the industry-funded research it's almost opposite-only one out of every four papers shows an effect",
+            "count": 1
+        },
+        {
+            "phrase": "factors that may affect future results",
+            "count": 1
+        }
+    ]
+}

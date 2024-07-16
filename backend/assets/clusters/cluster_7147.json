@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "03:00",
+            "03:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the animator needs to be something of an ophthalmologist as well to understand and master these techniques",
+            "count": 1
+        },
+        {
+            "phrase": "animation master classes",
+            "count": 1
+        },
+        {
+            "phrase": "siggraph animation mother",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:37",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i really like the smell of gasoline",
+            "count": 1
+        },
+        {
+            "phrase": "oh i'm makin you feel queasy have you smelled yerself recently",
+            "count": 1
+        },
+        {
+            "phrase": "oh i didn't realise i was making a smell",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:55",
+            "03:35"
+        ],
+        "label": "nurses"
+    },
+    "clusterList": [
+        {
+            "phrase": "nurses and other health workers are already struggling to cope with almost daily increases in the cost of basic necessities such a food and energy",
+            "count": 1
+        },
+        {
+            "phrase": "in 2006 fewer than one percent of all chinese adults consumed a diet with less than 10 percent of energy derived from fat",
+            "count": 1
+        }
+    ]
+}

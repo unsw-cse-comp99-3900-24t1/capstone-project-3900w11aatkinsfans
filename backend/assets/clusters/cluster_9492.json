@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:48"
+        ],
+        "label": "potassium"
+    },
+    "clusterList": [
+        {
+            "phrase": "potassium oxide tom and jerry the rugrats amigos para siempre hey i love that song",
+            "count": 1
+        },
+        {
+            "phrase": "movin out anthony's song",
+            "count": 1
+        }
+    ]
+}

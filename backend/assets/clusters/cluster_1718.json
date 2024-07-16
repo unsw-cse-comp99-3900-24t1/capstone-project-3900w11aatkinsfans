@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "00:57",
+            "01:04",
+            "01:37",
+            "02:02",
+            "02:33",
+            "04:13"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "those conspiracies that are too incredible to be believed are",
+            "count": 3
+        },
+        {
+            "phrase": "most readers will be shocked by the clear record of history linking adolf hitler and the roman catholic church in a conspiracy to exterminate the jews",
+            "count": 2
+        },
+        {
+            "phrase": "have been condemned as misleading",
+            "count": 1
+        },
+        {
+            "phrase": "i won't say whoooole falsehoods",
+            "count": 1
+        },
+        {
+            "phrase": "the willingness of muslims to believe blatant lies",
+            "count": 1
+        },
+        {
+            "phrase": "these are lies lies lies hitler's propaganda minister joseph goebbels said if you tell a monstrous lie people will believe you because they cannot imagine anyone making up such an outrageous falsehood then if evidence is shown to contradict the lie you dismiss it as irrelevant or misguided finally when the truth is disclosed it is too late nobody cares or wants to know",
+            "count": 1
+        },
+        {
+            "phrase": "all politics is grounded in lies deceits cover-ups and distortions of reality",
+            "count": 1
+        }
+    ]
+}

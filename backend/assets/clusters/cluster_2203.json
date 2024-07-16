@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:00",
+            "01:23",
+            "01:47",
+            "03:39",
+            "03:57",
+            "04:28",
+            "04:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best rapper alive",
+            "count": 1
+        },
+        {
+            "phrase": "boxing's greatest hits",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest cricketer the united states ever produced and thus the greatest sportsperson in american history",
+            "count": 1
+        },
+        {
+            "phrase": "who's the greatest of all time",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest guest mc of all time",
+            "count": 1
+        },
+        {
+            "phrase": "greatest trilogies of all time",
+            "count": 1
+        },
+        {
+            "phrase": "there's no question he was the most gifted athlete that i ever had in 40 years",
+            "count": 1
+        },
+        {
+            "phrase": "the best was lebron james who made a big difference",
+            "count": 1
+        }
+    ]
+}

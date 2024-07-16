@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "03:05",
+            "03:27",
+            "04:05",
+            "04:10",
+            "05:01"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is this kind of misplaced priorities that is making america less secure",
+            "count": 4
+        },
+        {
+            "phrase": "i just think the single most important issue we're faced with in this election is the future of the republic national security global war on terror et cetera the vice president continued",
+            "count": 1
+        },
+        {
+            "phrase": "providing there isn't a fallback in the security position my sense is that security today would not need to improve further in order for us to see quite significant investment",
+            "count": 1
+        }
+    ]
+}

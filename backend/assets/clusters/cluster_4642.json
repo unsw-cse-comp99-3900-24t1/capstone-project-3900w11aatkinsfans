@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:34",
+            "04:28"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as an anti-democratic party protest",
+            "count": 1
+        },
+        {
+            "phrase": "the first national multi-issue protest",
+            "count": 1
+        },
+        {
+            "phrase": "the march on saturday sept 29 was a departure in tone and make-up from many past anti-war demonstrations it was a serious and highly successful effort to involve more community-based organizations and issues and to link the struggle against the war with the struggles against racism oppression and economic injustice at home",
+            "count": 1
+        },
+        {
+            "phrase": "day without immigrants protest",
+            "count": 1
+        }
+    ]
+}

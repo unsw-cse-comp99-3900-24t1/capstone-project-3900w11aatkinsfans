@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:01",
+            "00:48",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "04:13"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at the 14 installations where gao administered its survey 103 service members indicated that they had been sexually assaulted within the preceding 12 months of these 52 service members indicated that they did not report the sexual assault",
+            "count": 6
+        },
+        {
+            "phrase": "at that point the officers apologized to us for the inconvenience and said that everything was clear on our record",
+            "count": 1
+        },
+        {
+            "phrase": "the conduct described in this report does not occur again at the department",
+            "count": 1
+        },
+        {
+            "phrase": "did not suppress or inappropriately influence any report",
+            "count": 1
+        },
+        {
+            "phrase": "fema did not suppress or inappropriately influence any report",
+            "count": 1
+        }
+    ]
+}

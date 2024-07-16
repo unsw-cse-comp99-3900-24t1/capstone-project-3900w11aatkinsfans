@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:46",
+            "04:05",
+            "04:15"
+        ],
+        "label": "pitting"
+    },
+    "clusterList": [
+        {
+            "phrase": "pitting oversight and accountability for public funds against the autonomy of churches synagogues and mosques",
+            "count": 1
+        },
+        {
+            "phrase": "any rational definition of their authority",
+            "count": 1
+        },
+        {
+            "phrase": "any use of force justified by appeal to divine authority",
+            "count": 1
+        },
+        {
+            "phrase": "firm reliance on the protection of divine providence",
+            "count": 1
+        },
+        {
+            "phrase": "in those circumstances mr church's conduct required denunciation and deterrence in a manner that could not be achieved by the imposition of home detention",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:29",
+            "02:28"
+        ],
+        "label": "drug"
+    },
+    "clusterList": [
+        {
+            "phrase": "drug research needs serendipity",
+            "count": 2
+        },
+        {
+            "phrase": "drug companies tend to get enamored with their own research",
+            "count": 1
+        }
+    ]
+}

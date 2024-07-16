@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "00:40",
+            "03:47"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i suppose it's a little outdated",
+            "count": 1
+        },
+        {
+            "phrase": "it was just ugly outdated that's all",
+            "count": 1
+        },
+        {
+            "phrase": "my feeling is that the data is already outdated",
+            "count": 1
+        }
+    ]
+}

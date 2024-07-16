@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "04:01",
+            "04:23",
+            "04:54"
+        ],
+        "label": "prostitution"
+    },
+    "clusterList": [
+        {
+            "phrase": "prostitution and human trafficking for sexual purposes is a serious barrier for social equality and equality between the sexes",
+            "count": 1
+        },
+        {
+            "phrase": "it's not legalising it's decriminalising of the prostitutes most of them are in it not by choice",
+            "count": 1
+        },
+        {
+            "phrase": "polarizing viewpoints on sex trafficking",
+            "count": 1
+        },
+        {
+            "phrase": "engaging in an act of prostitution",
+            "count": 1
+        }
+    ]
+}

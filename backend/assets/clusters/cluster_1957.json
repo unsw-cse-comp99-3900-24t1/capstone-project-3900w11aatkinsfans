@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:34",
+            "01:38",
+            "02:32",
+            "03:02",
+            "03:22",
+            "03:42",
+            "03:55",
+            "03:56"
+        ],
+        "label": "rock"
+    },
+    "clusterList": [
+        {
+            "phrase": "let there be rock",
+            "count": 3
+        },
+        {
+            "phrase": "rock the vote",
+            "count": 1
+        },
+        {
+            "phrase": "ac dc let there be rock",
+            "count": 1
+        },
+        {
+            "phrase": "rock the cradle",
+            "count": 1
+        },
+        {
+            "phrase": "dont stop the rock this life",
+            "count": 1
+        },
+        {
+            "phrase": "knock the rock",
+            "count": 1
+        },
+        {
+            "phrase": "thag kill this with rock",
+            "count": 1
+        }
+    ]
+}

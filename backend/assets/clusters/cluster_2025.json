@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:12",
+            "00:18",
+            "01:10",
+            "01:56",
+            "02:56",
+            "04:03",
+            "04:18",
+            "05:00"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've seen a lot of changes over the last 40 years good and bad",
+            "count": 1
+        },
+        {
+            "phrase": "that's when everything changed for me",
+            "count": 1
+        },
+        {
+            "phrase": "in some way changed for the better",
+            "count": 1
+        },
+        {
+            "phrase": "i don't expect any major changes",
+            "count": 1
+        },
+        {
+            "phrase": "and quite honestly they haven't made that many changes",
+            "count": 1
+        },
+        {
+            "phrase": "are looking for some change",
+            "count": 1
+        },
+        {
+            "phrase": "but it has changed",
+            "count": 1
+        },
+        {
+            "phrase": "things are more stable now and starting to grow maybe it's not in the numbers yet but things are improving",
+            "count": 1
+        },
+        {
+            "phrase": "now it's totally different from several days ago",
+            "count": 1
+        }
+    ]
+}

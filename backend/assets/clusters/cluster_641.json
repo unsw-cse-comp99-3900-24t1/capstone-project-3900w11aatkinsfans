@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3,
+            1,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:01",
+            "00:19",
+            "00:27",
+            "00:46",
+            "01:07",
+            "02:33",
+            "03:10",
+            "03:37",
+            "03:51",
+            "04:32"
+        ],
+        "label": "temperatures"
+    },
+    "clusterList": [
+        {
+            "phrase": "the vast expanses of glaciers massed on average 1 6 miles deep contain enough water to raise sea levels worldwide by 23 feet should they melt or otherwise slip into the ocean they would flood coastal capitals submerge tropical islands and generally redraw the world's atlases the infusion of fresh water could slow or shut down the ocean's currents plunging europe into bitter winter",
+            "count": 5
+        },
+        {
+            "phrase": "current coastal temperatures are about 1 c below their 1940 values",
+            "count": 5
+        },
+        {
+            "phrase": "colors indicate ice-sheet elevation change rate in cm year from satellite altimeter data 1992-2003 the spatially averaged increase is 5 4 0 2 cm year",
+            "count": 5
+        },
+        {
+            "phrase": "temperatures by-and-large over the summer have been near normal with no real extremes",
+            "count": 1
+        },
+        {
+            "phrase": "the work is based on research of past periods of climatic change including the little ice age in the 1700s when europe shivered the thames froze over and harvests failed",
+            "count": 1
+        },
+        {
+            "phrase": "equilibrium globally averaged surface air temperature change for a doubling of co2 for the atmosphere coupled to a non-dynamic slab ocean",
+            "count": 1
+        },
+        {
+            "phrase": "the above chart shows the range of global temperature through the last 500 million years",
+            "count": 1
+        },
+        {
+            "phrase": "north pole may be ice free for the first time this summer",
+            "count": 1
+        }
+    ]
+}

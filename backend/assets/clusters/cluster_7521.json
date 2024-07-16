@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "04:06",
+            "04:38"
+        ],
+        "label": "trying"
+    },
+    "clusterList": [
+        {
+            "phrase": "trying to help ryan out",
+            "count": 1
+        },
+        {
+            "phrase": "life of ryan",
+            "count": 1
+        },
+        {
+            "phrase": "life of brian",
+            "count": 1
+        }
+    ]
+}

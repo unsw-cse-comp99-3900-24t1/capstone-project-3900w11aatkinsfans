@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "04:19",
+            "04:45",
+            "05:01"
+        ],
+        "label": "keeping"
+    },
+    "clusterList": [
+        {
+            "phrase": "the survey of distance",
+            "count": 2
+        },
+        {
+            "phrase": "keeping an acceptable distance",
+            "count": 1
+        },
+        {
+            "phrase": "you can't put them near people they need to be at least a mile away",
+            "count": 1
+        }
+    ]
+}

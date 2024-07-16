@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:25"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the alpha and omega",
+            "count": 1
+        },
+        {
+            "phrase": "alpha and omega",
+            "count": 1
+        }
+    ]
+}

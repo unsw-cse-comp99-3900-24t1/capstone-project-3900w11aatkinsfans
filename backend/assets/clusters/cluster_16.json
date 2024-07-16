@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            82,
+            82,
+            15
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "04:56"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not the man it's the movement",
+            "count": 154
+        },
+        {
+            "phrase": "it s not the man it s the movement",
+            "count": 25
+        }
+    ]
+}

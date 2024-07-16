@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:07",
+            "03:10",
+            "04:04",
+            "04:28",
+            "05:00"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "not unlike the technology that will be used on the new star wars movies",
+            "count": 4
+        },
+        {
+            "phrase": "the mobile will become the most important digital device on a number of different levels more people have web connected mobiles than connected pcs and that's already happened outside n america and europe the pc itself is going to be either leapfrogged or annihilated",
+            "count": 1
+        },
+        {
+            "phrase": "we think sports and entertainment sites will love the technology",
+            "count": 1
+        },
+        {
+            "phrase": "we anticipate that many people will take advantage of this convenient new service",
+            "count": 1
+        },
+        {
+            "phrase": "the mouse will be even more popular than it is today as a result",
+            "count": 1
+        }
+    ]
+}

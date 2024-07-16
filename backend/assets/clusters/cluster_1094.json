@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1,
+            4,
+            4
+        ],
+        "xLabels": [
+            "01:13",
+            "01:20",
+            "01:33",
+            "02:02",
+            "02:09"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's legal coach",
+            "count": 12
+        },
+        {
+            "phrase": "a lot of the athletic directors in the county didn't like the way he implemented it but you have to give him credit",
+            "count": 1
+        },
+        {
+            "phrase": "fake head coach",
+            "count": 1
+        }
+    ]
+}

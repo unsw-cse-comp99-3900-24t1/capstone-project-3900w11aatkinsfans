@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:01"
+        ],
+        "label": "www"
+    },
+    "clusterList": [
+        {
+            "phrase": "www harrypotter com",
+            "count": 1
+        },
+        {
+            "phrase": "www harrypotter co uk",
+            "count": 1
+        }
+    ]
+}

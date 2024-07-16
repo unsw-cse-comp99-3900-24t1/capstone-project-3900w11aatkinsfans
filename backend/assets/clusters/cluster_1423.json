@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:17",
+            "00:48",
+            "01:37",
+            "02:55",
+            "03:06",
+            "03:55",
+            "04:29",
+            "04:49",
+            "04:54",
+            "04:59",
+            "05:04"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you're just driving around you might not notice it",
+            "count": 5
+        },
+        {
+            "phrase": "it used to be you'd see three bikes at a traffic light now you see 12",
+            "count": 2
+        },
+        {
+            "phrase": "i've got to keep my eye on the road every second",
+            "count": 1
+        },
+        {
+            "phrase": "there's that orange truck i see it everywhere it's following me",
+            "count": 1
+        },
+        {
+            "phrase": "nobody really notices traffic",
+            "count": 1
+        },
+        {
+            "phrase": "can i see the engine sit in the drivers seat honk the horn get your number",
+            "count": 1
+        },
+        {
+            "phrase": "i know somebody has seen that car because there's not another one on the road like it",
+            "count": 1
+        }
+    ]
+}

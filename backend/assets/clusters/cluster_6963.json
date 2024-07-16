@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:16",
+            "03:40",
+            "04:55"
+        ],
+        "label": "finding"
+    },
+    "clusterList": [
+        {
+            "phrase": "finding a doctor",
+            "count": 1
+        },
+        {
+            "phrase": "it's so difficult to go up against a doctor here",
+            "count": 1
+        },
+        {
+            "phrase": "i know a good doctor for your husband",
+            "count": 1
+        }
+    ]
+}

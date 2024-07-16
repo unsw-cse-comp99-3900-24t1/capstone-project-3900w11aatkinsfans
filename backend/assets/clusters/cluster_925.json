@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:32",
+            "01:05",
+            "01:15",
+            "01:25",
+            "01:40",
+            "02:14",
+            "02:26",
+            "03:38",
+            "03:50",
+            "03:51",
+            "04:46",
+            "04:56"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "the hidden battle for the world food system",
+            "count": 6
+        },
+        {
+            "phrase": "there was food from all over the world",
+            "count": 1
+        },
+        {
+            "phrase": "must fulfill its mission of providing the nation with the food which is today needed so urgently",
+            "count": 1
+        },
+        {
+            "phrase": "nature's perfect food",
+            "count": 1
+        },
+        {
+            "phrase": "a book for people concerned about world hunger",
+            "count": 1
+        },
+        {
+            "phrase": "all the food blogs in the world",
+            "count": 1
+        },
+        {
+            "phrase": "local food initiatives in a global context",
+            "count": 1
+        },
+        {
+            "phrase": "culture of wellness",
+            "count": 1
+        },
+        {
+            "phrase": "a world of healthy food",
+            "count": 1
+        },
+        {
+            "phrase": "world food summit",
+            "count": 1
+        },
+        {
+            "phrase": "sustainable food security for all people",
+            "count": 1
+        }
+    ]
+}

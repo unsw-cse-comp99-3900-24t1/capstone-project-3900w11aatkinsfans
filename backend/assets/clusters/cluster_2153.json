@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:24",
+            "01:02",
+            "02:29",
+            "03:12",
+            "04:28",
+            "05:00"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was twelve years old the first time i walked on water",
+            "count": 2
+        },
+        {
+            "phrase": "we sailed for about an hour and a half then decided to head in to avoid damaging the mast in a capsize but not before some radical downwind surfing",
+            "count": 1
+        },
+        {
+            "phrase": "with a little practice the seals swam in the right direction 100 of the time",
+            "count": 1
+        },
+        {
+            "phrase": "i had caught two waves and was heading out again when i spotted the shark circling about 30 metres away",
+            "count": 1
+        },
+        {
+            "phrase": "i immediately paddled for shore as fast as i could",
+            "count": 1
+        },
+        {
+            "phrase": "paddling on one side of the canoe and then the other keeps the boat going forward",
+            "count": 1
+        },
+        {
+            "phrase": "this is my only my second time sailing this route dude",
+            "count": 1
+        }
+    ]
+}

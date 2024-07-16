@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:14",
+            "00:29",
+            "03:12"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "but i never knew that you existed",
+            "count": 2
+        },
+        {
+            "phrase": "it would be as if i never existed",
+            "count": 1
+        },
+        {
+            "phrase": "would never be anything",
+            "count": 1
+        }
+    ]
+}

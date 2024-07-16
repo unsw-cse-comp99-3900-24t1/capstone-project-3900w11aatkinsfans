@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:20",
+            "02:22"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well the big companies don't do it so why should i",
+            "count": 1
+        },
+        {
+            "phrase": "you could get somebody to do it but they wouldn't save you very much money because the potential for making a lot of money isn't there",
+            "count": 1
+        },
+        {
+            "phrase": "i had to form a company to do that",
+            "count": 1
+        }
+    ]
+}

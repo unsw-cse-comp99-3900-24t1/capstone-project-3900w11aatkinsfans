@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:42"
+        ],
+        "label": "horses"
+    },
+    "clusterList": [
+        {
+            "phrase": "horses tell us who we are",
+            "count": 1
+        },
+        {
+            "phrase": "we're the same with horses that we are with people",
+            "count": 1
+        },
+        {
+            "phrase": "see what i mean about a horse telling us who we are",
+            "count": 1
+        }
+    ]
+}

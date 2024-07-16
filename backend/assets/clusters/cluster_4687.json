@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "03:10",
+            "04:42"
+        ],
+        "label": "didn't"
+    },
+    "clusterList": [
+        {
+            "phrase": "didn't finish first or second but he and his father finished",
+            "count": 2
+        },
+        {
+            "phrase": "after completing his task",
+            "count": 1
+        },
+        {
+            "phrase": "they were still waiting for him",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:01",
+            "01:28",
+            "01:43",
+            "02:51",
+            "02:55",
+            "03:48",
+            "04:27",
+            "04:52"
+        ],
+        "label": "giant"
+    },
+    "clusterList": [
+        {
+            "phrase": "the incredible hulk",
+            "count": 4
+        },
+        {
+            "phrase": "giant breast monster",
+            "count": 3
+        },
+        {
+            "phrase": "edward norton as the hulk but he's a slimy little weasel he's too little to be the hulk",
+            "count": 1
+        },
+        {
+            "phrase": "the incredible hulk vs hulk",
+            "count": 1
+        },
+        {
+            "phrase": "okay that incarnation of the hulk seems to be running its course time to come up with something else",
+            "count": 1
+        }
+    ]
+}

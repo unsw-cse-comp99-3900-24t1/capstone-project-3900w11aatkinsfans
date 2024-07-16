@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "01:04",
+            "01:08",
+            "01:20",
+            "01:32",
+            "01:34",
+            "02:05",
+            "02:19",
+            "03:23",
+            "04:23"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not positive of the reasons behind this past year's infestation but we have invaded their territory",
+            "count": 7
+        },
+        {
+            "phrase": "also the heat and very little rain have probably caused them to be more active in order to find food",
+            "count": 7
+        },
+        {
+            "phrase": "they're having a hard time feeding themselves and their children especially with the gas prices being so high and all the other utility costs increasing as well many people don't have the extra money to buy the food",
+            "count": 1
+        },
+        {
+            "phrase": "there they will learn what those critters are and then come back here go out to the beach look at them in their natural environment it's that kind of working together that makes a community a better place",
+            "count": 1
+        },
+        {
+            "phrase": "we've eliminated their food sources we've eliminated their ability to find available housing so as a consequence it's pushing them down farther and farther into an area where they can find fresh water and food usually that's going to be around people",
+            "count": 1
+        }
+    ]
+}

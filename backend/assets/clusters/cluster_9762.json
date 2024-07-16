@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:24",
+            "04:15"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey david who is brea",
+            "count": 1
+        },
+        {
+            "phrase": "hey there's david omg",
+            "count": 1
+        }
+    ]
+}

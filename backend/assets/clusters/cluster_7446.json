@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:55",
+            "03:52"
+        ],
+        "label": "especially"
+    },
+    "clusterList": [
+        {
+            "phrase": "especially as we didn't have things like sugar soap and scrubbing pads also the roof needed repaired and it hadn't been done before we started work which was bad planning",
+            "count": 1
+        },
+        {
+            "phrase": "we're trying something really new here right before we started someone dumped a huge load of asphalt on black street and we're just past cleaning that up",
+            "count": 1
+        },
+        {
+            "phrase": "when we first walked through there were all these parts and tires and carts and grease and dirt it took months of cleaning",
+            "count": 1
+        }
+    ]
+}

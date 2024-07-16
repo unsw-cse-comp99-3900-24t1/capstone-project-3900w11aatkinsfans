@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "01:20"
+        ],
+        "label": "congressman"
+    },
+    "clusterList": [
+        {
+            "phrase": "congressman clyburn and other leaders across the country",
+            "count": 1
+        },
+        {
+            "phrase": "my friend congressman john dingell the chairman of the house energy and commerce committee has shown his legislative skill and care for the american people for more than fifty years",
+            "count": 1
+        }
+    ]
+}

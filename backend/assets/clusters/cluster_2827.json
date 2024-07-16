@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "04:13"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "most but not all commanders support the programs",
+            "count": 6
+        }
+    ]
+}

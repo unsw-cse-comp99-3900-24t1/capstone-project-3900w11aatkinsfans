@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "04:08",
+            "04:32"
+        ],
+        "label": "add"
+    },
+    "clusterList": [
+        {
+            "phrase": "one from column a one from column b",
+            "count": 2
+        },
+        {
+            "phrase": "add to one row a multiple of another row",
+            "count": 1
+        }
+    ]
+}

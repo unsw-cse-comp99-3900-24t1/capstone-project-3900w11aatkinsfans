@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:27",
+            "03:59"
+        ],
+        "label": "outsourcing"
+    },
+    "clusterList": [
+        {
+            "phrase": "outsourcing is the new trend in the pharma industry",
+            "count": 1
+        },
+        {
+            "phrase": "big pharma is evil",
+            "count": 1
+        }
+    ]
+}

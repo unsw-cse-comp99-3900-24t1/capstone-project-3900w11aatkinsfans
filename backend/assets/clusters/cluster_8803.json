@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "03:15"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh you're with your parent no problem",
+            "count": 1
+        },
+        {
+            "phrase": "your son seems fine too but perhaps a tad too young",
+            "count": 1
+        }
+    ]
+}

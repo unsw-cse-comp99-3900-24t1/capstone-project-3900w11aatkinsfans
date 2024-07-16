@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:00",
+            "02:06",
+            "03:14",
+            "03:18",
+            "04:09"
+        ],
+        "label": "cook"
+    },
+    "clusterList": [
+        {
+            "phrase": "he doesn't want to cook for awhile",
+            "count": 2
+        },
+        {
+            "phrase": "cook bernard matthews",
+            "count": 1
+        },
+        {
+            "phrase": "what's cooking with jamie oliver",
+            "count": 1
+        },
+        {
+            "phrase": "man how cooky",
+            "count": 1
+        },
+        {
+            "phrase": "wow he cooks too",
+            "count": 1
+        }
+    ]
+}

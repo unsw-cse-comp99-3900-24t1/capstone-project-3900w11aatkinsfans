@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:07",
+            "02:15",
+            "02:46",
+            "04:13",
+            "04:32"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "just for the record i am married but mrs chen is my mother",
+            "count": 1
+        },
+        {
+            "phrase": "for the record i am married and mrs chen is my mother",
+            "count": 1
+        },
+        {
+            "phrase": "my doctor and my best friend",
+            "count": 1
+        },
+        {
+            "phrase": "my wife's passed away several years ago we have one daughter married",
+            "count": 1
+        },
+        {
+            "phrase": "i'm married but my mother is mrs chen",
+            "count": 1
+        }
+    ]
+}

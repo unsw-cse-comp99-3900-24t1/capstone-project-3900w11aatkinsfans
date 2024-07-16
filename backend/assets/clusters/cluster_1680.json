@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:38",
+            "01:07",
+            "01:29",
+            "02:19",
+            "03:10",
+            "03:27",
+            "03:46",
+            "03:51",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i had just come out of the cotton fields and corn fields",
+            "count": 5
+        },
+        {
+            "phrase": "i was walking in the woods following the signal with my receiver trying to find the turtle and i walked into an area where some large trees had fallen down",
+            "count": 2
+        },
+        {
+            "phrase": "i'm working in the garden",
+            "count": 1
+        },
+        {
+            "phrase": "i was outside working in the yard",
+            "count": 1
+        },
+        {
+            "phrase": "sorry had to mow the lawn",
+            "count": 1
+        }
+    ]
+}

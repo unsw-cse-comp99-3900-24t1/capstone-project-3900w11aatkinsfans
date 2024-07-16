@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:46",
+            "04:55",
+            "05:05"
+        ],
+        "label": "molina"
+    },
+    "clusterList": [
+        {
+            "phrase": "molina is one of the premier backups in the game today he stepped up and did a tremendous job holding the fort down while we were going through our stuff with jorge",
+            "count": 2
+        },
+        {
+            "phrase": "molina tony pena tells me that the pitchers are doing a good job of covering the runners we're going to try our best to cut the running game out",
+            "count": 1
+        },
+        {
+            "phrase": "do you think the dodgers are giving up matt kemp",
+            "count": 1
+        }
+    ]
+}

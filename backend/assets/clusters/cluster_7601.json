@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:21",
+            "04:33",
+            "04:55"
+        ],
+        "label": "woe"
+    },
+    "clusterList": [
+        {
+            "phrase": "woe be unto you if you weren't there on time",
+            "count": 3
+        }
+    ]
+}

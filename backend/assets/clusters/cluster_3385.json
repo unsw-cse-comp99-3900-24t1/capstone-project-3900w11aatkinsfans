@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:13",
+            "04:04",
+            "04:13",
+            "04:41"
+        ],
+        "label": "religious"
+    },
+    "clusterList": [
+        {
+            "phrase": "we must not confuse dissent with disloyalty",
+            "count": 4
+        },
+        {
+            "phrase": "religious leanings give him insight into both sides of the struggle",
+            "count": 1
+        },
+        {
+            "phrase": "a true a great spiritual life cannot take place unless the state has risen to a position of pre-eminence in the world of man the curtailment of liberty thus becomes justified with this need of raising the state to its rightful position",
+            "count": 1
+        }
+    ]
+}

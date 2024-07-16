@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "01:43",
+            "03:48"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah so gross that i almost threw up and besides that perv was going to be voted off sooner or later",
+            "count": 1
+        },
+        {
+            "phrase": "dude i know it was pretty gross",
+            "count": 1
+        },
+        {
+            "phrase": "wow it was natural man",
+            "count": 1
+        }
+    ]
+}

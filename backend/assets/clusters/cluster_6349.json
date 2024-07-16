@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "04:23"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we need this exit",
+            "count": 1
+        },
+        {
+            "phrase": "hi we're going to be taking the next exit we will be turning around and going back to catch an exit we missed",
+            "count": 1
+        },
+        {
+            "phrase": "exit this section",
+            "count": 1
+        }
+    ]
+}

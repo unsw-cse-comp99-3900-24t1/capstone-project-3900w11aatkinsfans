@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "03:38"
+        ],
+        "label": "you're"
+    },
+    "clusterList": [
+        {
+            "phrase": "you're treating probability estimates that at this point represent little more than educated guesses as if they were empirical facts",
+            "count": 1
+        },
+        {
+            "phrase": "you keep pretending that all probability estimates are educated guesses they're not",
+            "count": 1
+        },
+        {
+            "phrase": "as i said the reliability of some probability estimates is much better than others because our knowledge and understanding of some phenomena is much better than others",
+            "count": 1
+        },
+        {
+            "phrase": "or overly detailed information that may",
+            "count": 1
+        }
+    ]
+}

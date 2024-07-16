@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:32",
+            "01:45"
+        ],
+        "label": "c"
+    },
+    "clusterList": [
+        {
+            "phrase": "c hildren's innocence",
+            "count": 1
+        },
+        {
+            "phrase": "loveliness of original innocence",
+            "count": 1
+        },
+        {
+            "phrase": "innocence and clean hands",
+            "count": 1
+        }
+    ]
+}

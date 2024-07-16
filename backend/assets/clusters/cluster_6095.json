@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:24"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will get your message across",
+            "count": 2
+        },
+        {
+            "phrase": "our message is something for everyone to think about",
+            "count": 1
+        }
+    ]
+}

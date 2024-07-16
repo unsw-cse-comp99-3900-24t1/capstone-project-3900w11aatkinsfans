@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:38"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my worst possible room 101",
+            "count": 1
+        },
+        {
+            "phrase": "hartmann why is your room a mess",
+            "count": 1
+        }
+    ]
+}

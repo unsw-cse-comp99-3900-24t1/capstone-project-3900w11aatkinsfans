@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "03:17",
+            "03:37"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "fatigue is something we identify after a seizure",
+            "count": 2
+        },
+        {
+            "phrase": "it's common for animals to sense a seizure in their owners and some dogs can even be trained to warn a person of an impending seizure",
+            "count": 1
+        },
+        {
+            "phrase": "dogs are very aware of what is normal and not normal behavior in their owners they can sense the muscles tightening up and the oncoming of spasms and other things that might signal the onset of a seizure dogs are great about reading body language of their owners and can sense a shift change in people",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:50",
+            "04:31"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is a perfectly understandable reaction on the part of the electoral commission they could well end up in a situation where they are called on to address whether a candidate's expenses are political without legal clarity at which point they know they will face all sorts of challenges",
+            "count": 1
+        },
+        {
+            "phrase": "it is just plain unethical for recipients of no-bid contracts to be funding the election campaigns of those who dole out these contracts",
+            "count": 1
+        },
+        {
+            "phrase": "because i had someone with me from the campaign it should have been clear i am opposed to these types of deals",
+            "count": 1
+        }
+    ]
+}

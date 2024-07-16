@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:48",
+            "01:02"
+        ],
+        "label": "speed"
+    },
+    "clusterList": [
+        {
+            "phrase": "speed matters in a showdown between gunslingers but it is out of place in a court",
+            "count": 2
+        },
+        {
+            "phrase": "speed matters in a showdown between gunslingers but it has no place in court",
+            "count": 1
+        }
+    ]
+}

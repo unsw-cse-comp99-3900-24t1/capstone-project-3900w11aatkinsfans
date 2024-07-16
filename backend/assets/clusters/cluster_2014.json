@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:30",
+            "02:42",
+            "02:52",
+            "02:55",
+            "03:14",
+            "03:23",
+            "04:00",
+            "04:13"
+        ],
+        "label": "transportation"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have some of the highest uv intensity in the world with drought and climate change finding ways to use water more efficiently is always important to us",
+            "count": 2
+        },
+        {
+            "phrase": "we require some testing so that we know what's in the emissions and whether that will impact human health that's crucial to our efforts to clean the air",
+            "count": 2
+        },
+        {
+            "phrase": "transportation is the leading contributor to bc's greenhouse gas emissions accounting for approximately 36 per cent of the total in 2006",
+            "count": 1
+        },
+        {
+            "phrase": "but carbon dioxide is necessary for life on earth and i have a difficult time calling something so fundamentally important a",
+            "count": 1
+        },
+        {
+            "phrase": "despite lower emissions levels of pollution",
+            "count": 1
+        },
+        {
+            "phrase": "campus greening is still at the heart of what we do but with a renewed purpose encouraging campuses to make lowering emissions of carbon dioxide and other greenhouse gases the goal of greening efforts",
+            "count": 1
+        },
+        {
+            "phrase": "as a result the deployment of these technologies coupled with emissions reductions at existing facilities will dramatically improve air quality in the four corners region",
+            "count": 1
+        }
+    ]
+}

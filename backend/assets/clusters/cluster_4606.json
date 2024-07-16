@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:14",
+            "00:30",
+            "03:06"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "home is not a social network it's focused on games it's a visual representation of the playstation community",
+            "count": 2
+        },
+        {
+            "phrase": "it wants the game to be released one way or another",
+            "count": 1
+        },
+        {
+            "phrase": "it's the only game on facebook that allows you to play the game the way you want to",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            6
+        ],
+        "xLabels": [
+            "02:32"
+        ],
+        "label": "error"
+    },
+    "clusterList": [
+        {
+            "phrase": "error while importing urlconf r s",
+            "count": 4
+        },
+        {
+            "phrase": "error while importing urlconf mysite urls",
+            "count": 2
+        }
+    ]
+}

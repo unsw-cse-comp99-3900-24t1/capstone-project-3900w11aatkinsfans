@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:49",
+            "02:32",
+            "03:17"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is an opportunity that steve could not pass up and we are in full support of his decision to advance his career",
+            "count": 2
+        },
+        {
+            "phrase": "we aspire to be great and it'll take many bodies to do that we feel we've assembled a managerial group that can get that done steve will do more of the day-to-day stuff as gm which was beginning to wear on me in some respects",
+            "count": 1
+        },
+        {
+            "phrase": "i knew steve would get a chance somewhere down the road",
+            "count": 1
+        }
+    ]
+}

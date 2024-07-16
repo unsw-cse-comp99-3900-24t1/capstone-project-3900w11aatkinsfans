@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:09",
+            "01:33"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm making a difference",
+            "count": 1
+        },
+        {
+            "phrase": "make a difference",
+            "count": 1
+        },
+        {
+            "phrase": "making difference makers",
+            "count": 1
+        }
+    ]
+}

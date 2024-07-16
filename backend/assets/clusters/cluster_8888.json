@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:00"
+        ],
+        "label": "leave"
+    },
+    "clusterList": [
+        {
+            "phrase": "leave out all the rest",
+            "count": 1
+        },
+        {
+            "phrase": "what leave all this",
+            "count": 1
+        }
+    ]
+}

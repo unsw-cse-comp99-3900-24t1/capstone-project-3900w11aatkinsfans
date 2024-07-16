@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:16",
+            "01:00",
+            "04:18"
+        ],
+        "label": "neil"
+    },
+    "clusterList": [
+        {
+            "phrase": "neil patrick harris was perfect as the aspiring villain and bumbling romantic dr horrible",
+            "count": 2
+        },
+        {
+            "phrase": "it could have been cary grant for all i know spitting on people",
+            "count": 1
+        },
+        {
+            "phrase": "oh i mean keith oberman who acting like bill oreilly",
+            "count": 1
+        }
+    ]
+}

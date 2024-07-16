@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "01:33",
+            "03:48"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "strangers with candy",
+            "count": 2
+        },
+        {
+            "phrase": "the business of strangers",
+            "count": 1
+        },
+        {
+            "phrase": "they're like kids in a candy store",
+            "count": 1
+        }
+    ]
+}

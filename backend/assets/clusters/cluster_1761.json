@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32",
+            "01:51",
+            "02:15",
+            "04:03",
+            "04:32"
+        ],
+        "label": "gina"
+    },
+    "clusterList": [
+        {
+            "phrase": "gina cobb is proof that not all lawyers deserve the death penalty",
+            "count": 5
+        },
+        {
+            "phrase": "get a judge to agree and you are good to go",
+            "count": 2
+        },
+        {
+            "phrase": "i could not agree more with the judge good for her",
+            "count": 1
+        },
+        {
+            "phrase": "while i do wish the judge had used different words to describe the city in which i live i do give her credit for handing out a stiff sentence it's quite clear the majority of society wants stiff sentences for violent crimes and it is a judge's duty to serve society's interests through interpretation of the law",
+            "count": 1
+        },
+        {
+            "phrase": "the acts of some are not a reflection on the city as a whole and the judge should be ashamed at her lack of temperament in situations she presides over",
+            "count": 1
+        }
+    ]
+}

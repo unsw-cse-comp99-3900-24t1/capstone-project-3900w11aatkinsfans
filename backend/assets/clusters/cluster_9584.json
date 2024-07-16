@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "03:59"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this accessory is not made to work with iphone",
+            "count": 1
+        },
+        {
+            "phrase": "not supporting the iphone",
+            "count": 1
+        }
+    ]
+}

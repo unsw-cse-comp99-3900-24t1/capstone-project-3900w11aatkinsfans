@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:56",
+            "03:04",
+            "03:18",
+            "04:22"
+        ],
+        "label": "maybe"
+    },
+    "clusterList": [
+        {
+            "phrase": "maybe it was more than that",
+            "count": 1
+        },
+        {
+            "phrase": "it actually could have been i hate to say it it could have been a lot lower",
+            "count": 1
+        },
+        {
+            "phrase": "it was under 100 so it wasn't a significant amount but still surprising that it was there and no one knew about it",
+            "count": 1
+        },
+        {
+            "phrase": "it was only a few",
+            "count": 1
+        }
+    ]
+}

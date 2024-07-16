@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:37",
+            "03:20",
+            "03:32",
+            "04:15"
+        ],
+        "label": "clothes"
+    },
+    "clusterList": [
+        {
+            "phrase": "clothes should not be too small otherwise this makes people feel you are unreliable",
+            "count": 2
+        },
+        {
+            "phrase": "clothes do make the man naked people have little or no influence on society",
+            "count": 1
+        },
+        {
+            "phrase": "every outfit you wear is a statement",
+            "count": 1
+        },
+        {
+            "phrase": "when a consumer decides to buy something to dress he she isn't just buying some pieces of well-sewn cloths",
+            "count": 1
+        }
+    ]
+}

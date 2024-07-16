@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:38",
+            "02:42",
+            "03:18",
+            "03:19"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in china the top leadership are all of the same mindset china opened up 30 years ago but our economic miracle was driven by intense resource use that produced great pollution and recently unrest",
+            "count": 3
+        },
+        {
+            "phrase": "continuous strategic dialogue with china",
+            "count": 2
+        },
+        {
+            "phrase": "china is one ascendant state with the potential for competing with the united states",
+            "count": 1
+        },
+        {
+            "phrase": "we think the chinese government needs to heed those concerns that if china is going to demonstrate it is truly moving forward as a modern society this is part of it",
+            "count": 1
+        }
+    ]
+}

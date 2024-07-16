@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:41",
+            "05:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the purpose of mr dion's carbon tax is to raise money for the federal government so that he can spend it",
+            "count": 1
+        },
+        {
+            "phrase": "gov rick perry of texas is asking the environmental protection agency to temporarily waive regulations requiring the oil industry to blend ever-increasing amounts of ethanol into gasoline a decision is expected in the next few weeks",
+            "count": 1
+        },
+        {
+            "phrase": "he'll raise taxes on electricity",
+            "count": 1
+        }
+    ]
+}

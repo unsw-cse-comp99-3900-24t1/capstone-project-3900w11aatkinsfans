@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            10,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:00",
+            "01:06",
+            "01:30",
+            "01:37",
+            "03:03",
+            "03:50",
+            "04:18",
+            "04:32",
+            "04:35",
+            "04:36",
+            "05:04",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i want to hold your hand",
+            "count": 11
+        },
+        {
+            "phrase": "i can't hold it over you",
+            "count": 1
+        },
+        {
+            "phrase": "can't touch this",
+            "count": 1
+        },
+        {
+            "phrase": "open your hand",
+            "count": 1
+        },
+        {
+            "phrase": "your hand in mine",
+            "count": 1
+        },
+        {
+            "phrase": "hold me like you used to",
+            "count": 1
+        },
+        {
+            "phrase": "hold on to yourself",
+            "count": 1
+        },
+        {
+            "phrase": "i push my fingers into my eyes",
+            "count": 1
+        },
+        {
+            "phrase": "use your fingers",
+            "count": 1
+        },
+        {
+            "phrase": "use your fingers to hold me open",
+            "count": 1
+        },
+        {
+            "phrase": "don't say anything just hold me",
+            "count": 1
+        },
+        {
+            "phrase": "wrapped around your finger",
+            "count": 1
+        },
+        {
+            "phrase": "move your hands",
+            "count": 1
+        }
+    ]
+}

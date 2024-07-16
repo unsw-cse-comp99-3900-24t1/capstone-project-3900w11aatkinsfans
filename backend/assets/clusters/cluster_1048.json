@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:56",
+            "01:09",
+            "01:40",
+            "02:08",
+            "02:26",
+            "02:27",
+            "02:50",
+            "02:52",
+            "03:18",
+            "04:06",
+            "04:28",
+            "04:29",
+            "04:36"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know who this person is",
+            "count": 2
+        },
+        {
+            "phrase": "is that you",
+            "count": 2
+        },
+        {
+            "phrase": "we are all one",
+            "count": 1
+        },
+        {
+            "phrase": "who am i becoming through this",
+            "count": 1
+        },
+        {
+            "phrase": "i'm pretty confident in who i am",
+            "count": 1
+        },
+        {
+            "phrase": "be the one",
+            "count": 1
+        },
+        {
+            "phrase": "it's not you it's me",
+            "count": 1
+        },
+        {
+            "phrase": "yes that's me",
+            "count": 1
+        },
+        {
+            "phrase": "i am the spider",
+            "count": 1
+        },
+        {
+            "phrase": "i am someone that sees you for what you really are",
+            "count": 1
+        },
+        {
+            "phrase": "this is who i am naturally",
+            "count": 1
+        },
+        {
+            "phrase": "it's not really who i picture myself as",
+            "count": 1
+        }
+    ]
+}

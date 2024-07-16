@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:18",
+            "01:01",
+            "01:51",
+            "02:02",
+            "02:20",
+            "02:39",
+            "03:18",
+            "03:29",
+            "03:43",
+            "04:19"
+        ],
+        "label": "of"
+    },
+    "clusterList": [
+        {
+            "phrase": "of course not",
+            "count": 2
+        },
+        {
+            "phrase": "not this year",
+            "count": 2
+        },
+        {
+            "phrase": "not at the moment",
+            "count": 2
+        },
+        {
+            "phrase": "of course not not right now",
+            "count": 1
+        },
+        {
+            "phrase": "well not really",
+            "count": 1
+        },
+        {
+            "phrase": "don't be so sure of that",
+            "count": 1
+        },
+        {
+            "phrase": "you know not because you ask not",
+            "count": 1
+        },
+        {
+            "phrase": "why then but not now",
+            "count": 1
+        },
+        {
+            "phrase": "but not tonight",
+            "count": 1
+        }
+    ]
+}

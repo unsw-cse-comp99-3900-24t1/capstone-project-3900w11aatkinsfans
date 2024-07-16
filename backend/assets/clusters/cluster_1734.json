@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:10",
+            "04:18",
+            "04:28",
+            "04:32"
+        ],
+        "label": "gun"
+    },
+    "clusterList": [
+        {
+            "phrase": "gun remains in his home unloaded and locked or disassembled rendering it useless until",
+            "count": 6
+        },
+        {
+            "phrase": "active shooter situation",
+            "count": 2
+        },
+        {
+            "phrase": "man with a gun",
+            "count": 1
+        },
+        {
+            "phrase": "the man with the golden gun",
+            "count": 1
+        }
+    ]
+}

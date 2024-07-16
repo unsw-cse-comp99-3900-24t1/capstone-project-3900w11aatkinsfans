@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:20",
+            "00:23",
+            "02:40",
+            "02:46",
+            "04:00",
+            "04:47"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "when we come up against teams who've got tall wingers it will be good to have some professional advice",
+            "count": 2
+        },
+        {
+            "phrase": "they have been very proactive and have worked hard recently on improving their image both within the league and within the ararat community",
+            "count": 1
+        },
+        {
+            "phrase": "there's not many portuguese players",
+            "count": 1
+        },
+        {
+            "phrase": "the new boys have brought enthusiasm and we know that they were key players for their former sides who won their respective leagues",
+            "count": 1
+        },
+        {
+            "phrase": "such players should be proud that they are playing in a team like labasa which has given them fame as prominent soccer players in the country",
+            "count": 1
+        },
+        {
+            "phrase": "these young players like wayne rooney cristiano ronaldo and nani just have to look at players like ryan",
+            "count": 1
+        },
+        {
+            "phrase": "you have paul scholes and gary neville too they are the hardest working players in training because they want to improve",
+            "count": 1
+        }
+    ]
+}

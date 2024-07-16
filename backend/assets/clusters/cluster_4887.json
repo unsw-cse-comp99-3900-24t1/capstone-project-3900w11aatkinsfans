@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:47",
+            "02:42",
+            "04:05"
+        ],
+        "label": "politics"
+    },
+    "clusterList": [
+        {
+            "phrase": "politics have hijacked saarc's economic agenda",
+            "count": 2
+        },
+        {
+            "phrase": "he is trying to reframe the argument about the economy",
+            "count": 1
+        },
+        {
+            "phrase": "rather than bring home necessary resources to meet the needs of his district vito fossella is embracing dick cheney and his big oil money to resurrect his failing campaign",
+            "count": 1
+        }
+    ]
+}

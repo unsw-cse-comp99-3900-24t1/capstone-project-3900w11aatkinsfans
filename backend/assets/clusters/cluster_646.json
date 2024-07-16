@@ -1,0 +1,89 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:33",
+            "00:41",
+            "00:51",
+            "01:13",
+            "01:23",
+            "01:43",
+            "02:14",
+            "02:42",
+            "02:46",
+            "03:01",
+            "03:35",
+            "04:00",
+            "04:05",
+            "04:27"
+        ],
+        "label": "christianity"
+    },
+    "clusterList": [
+        {
+            "phrase": "faith and globalization",
+            "count": 5
+        },
+        {
+            "phrase": "we live in a culture where the catholic ideal of marriage being a gift of self and being open to life are often challenged by society and even family",
+            "count": 2
+        },
+        {
+            "phrase": "we are just trying to find common ground for religions to work together as intended by god",
+            "count": 2
+        },
+        {
+            "phrase": "this tradition has also been faithfully maintained by the oriental churches",
+            "count": 2
+        },
+        {
+            "phrase": "not something exotic and oriental but simple christianity",
+            "count": 2
+        },
+        {
+            "phrase": "christianity is essentially the cultural and moral acknowledgement of the sacrificial origins of our culture and our society the end of religion and even scientific atheism itself has been produced by a religion christianity",
+            "count": 1
+        },
+        {
+            "phrase": "deep down among religious intellectuals there is no quarrel but dialogue and discussion",
+            "count": 1
+        },
+        {
+            "phrase": "catholic schools are at once places of evangelization of complete formation of inculturation of apprenticeship in a lively dialogue between young people of different religions and social backgrounds",
+            "count": 1
+        },
+        {
+            "phrase": "when it comes to religion what type of person",
+            "count": 1
+        },
+        {
+            "phrase": "the major spiritual dynamics and forces of social change within our muslim american community",
+            "count": 1
+        },
+        {
+            "phrase": "in human culture religion is something people do",
+            "count": 1
+        },
+        {
+            "phrase": "religion is alive and well and killing itself",
+            "count": 1
+        }
+    ]
+}

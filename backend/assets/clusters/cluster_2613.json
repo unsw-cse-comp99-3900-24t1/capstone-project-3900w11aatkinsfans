@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:23",
+            "00:50",
+            "02:04",
+            "03:28",
+            "04:09",
+            "04:10"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the iraqi government has made political progress as well",
+            "count": 3
+        },
+        {
+            "phrase": "saddam's goal is to achieve the lifting of u n sanctions while retaining and enhancing iraq's weapons of mass destruction programs we cannot we must not and we will not let him succeed",
+            "count": 2
+        },
+        {
+            "phrase": "for progress to really occur across iraq they're going to have to remedy that",
+            "count": 2
+        }
+    ]
+}

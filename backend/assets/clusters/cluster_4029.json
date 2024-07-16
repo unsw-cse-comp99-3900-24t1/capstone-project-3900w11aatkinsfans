@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:23",
+            "04:36",
+            "04:47",
+            "05:01"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all the various versions or editions of our software products are sold online and are worth almost 1 000 at retail with this program we offer our customers a safe and convenient online shopping service",
+            "count": 1
+        },
+        {
+            "phrase": "nearly 20 million windows mobile smartphone licenses",
+            "count": 1
+        },
+        {
+            "phrase": "i don't have all my sales collateral on the blackberry i still carry around my laptop with the data sheets and price sheets",
+            "count": 1
+        },
+        {
+            "phrase": "wow look i can buy an imac for only 999",
+            "count": 1
+        },
+        {
+            "phrase": "well if you get one you get a discount on every purchase and all i need is an email to register you in the computer you'll get coupons in your mailbox oh and i will also need a phone number",
+            "count": 1
+        }
+    ]
+}

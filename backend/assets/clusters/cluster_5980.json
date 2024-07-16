@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:01",
+            "02:20"
+        ],
+        "label": "out"
+    },
+    "clusterList": [
+        {
+            "phrase": "i basically stepped outside of my comfort zone and i came up with something that i can honestly say is for everyone",
+            "count": 2
+        },
+        {
+            "phrase": "out of our comfort zone",
+            "count": 1
+        }
+    ]
+}

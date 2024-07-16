@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:14",
+            "01:38",
+            "03:01",
+            "03:12",
+            "03:15",
+            "03:27",
+            "04:03",
+            "04:08",
+            "04:13",
+            "04:27",
+            "04:51"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these actions by the defense department are inexplicable",
+            "count": 7
+        },
+        {
+            "phrase": "there are other actions they can take",
+            "count": 3
+        },
+        {
+            "phrase": "the fbi considers threats of violence against united states government employees due to their enforcement and or investigative activities very serious matters",
+            "count": 1
+        },
+        {
+            "phrase": "i t is well-established that those subject to enforcement action may not file a separate challenge but must raise any defenses they have in the enforcement case itself",
+            "count": 1
+        },
+        {
+            "phrase": "but despite these warnings few actions were taken by pentagon leadership or kbr officials",
+            "count": 1
+        }
+    ]
+}

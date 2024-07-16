@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:28",
+            "01:23",
+            "01:42",
+            "03:09",
+            "04:33"
+        ],
+        "label": "they've"
+    },
+    "clusterList": [
+        {
+            "phrase": "they've lost a friend they've lost a teammate they've lost a brother and that's not easy",
+            "count": 3
+        },
+        {
+            "phrase": "they've lost a friend a teammate a brother",
+            "count": 2
+        },
+        {
+            "phrase": "they are friends again and often meet",
+            "count": 1
+        }
+    ]
+}

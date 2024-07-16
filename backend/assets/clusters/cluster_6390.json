@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:13",
+            "01:15"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but these guys you're never going to know anything until the last minute anyway",
+            "count": 2
+        },
+        {
+            "phrase": "but these guys you're never going to know anything until the last minute anyway that's what i've been told i've heard those same rumours and that would be really cool right",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:33",
+            "03:00",
+            "03:18",
+            "03:38",
+            "04:08",
+            "04:24",
+            "04:33",
+            "04:54"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "right and wrong",
+            "count": 2
+        },
+        {
+            "phrase": "that ain't right",
+            "count": 1
+        },
+        {
+            "phrase": "you think i'm joking right wrong",
+            "count": 1
+        },
+        {
+            "phrase": "duh something isn't right",
+            "count": 1
+        },
+        {
+            "phrase": "this is wrong",
+            "count": 1
+        },
+        {
+            "phrase": "right all the wrong",
+            "count": 1
+        },
+        {
+            "phrase": "is that right are you sure",
+            "count": 1
+        }
+    ]
+}

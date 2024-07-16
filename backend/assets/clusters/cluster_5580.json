@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:32",
+            "01:32",
+            "03:22"
+        ],
+        "label": "positive"
+    },
+    "clusterList": [
+        {
+            "phrase": "banking real estate and construction sectors",
+            "count": 2
+        },
+        {
+            "phrase": "positive sign that the lenders continue to support the process",
+            "count": 1
+        },
+        {
+            "phrase": "based on this preliminary assessment the combined projects may be on the smaller side of what would attract significant market interest as a sip however from a risk transfer perspective this project is feasible as a sip or a developer leaseback where the private partner would be responsible for designing building financing and maintaining the facilities according to performance specifications provided by the province",
+            "count": 1
+        }
+    ]
+}

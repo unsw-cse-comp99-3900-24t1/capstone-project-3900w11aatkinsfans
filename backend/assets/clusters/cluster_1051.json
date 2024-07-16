@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:18",
+            "01:01",
+            "01:05",
+            "01:06",
+            "01:07",
+            "01:15",
+            "01:28",
+            "01:55",
+            "02:06",
+            "03:24",
+            "03:41",
+            "04:05"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll be going to hell",
+            "count": 6
+        },
+        {
+            "phrase": "go to hell",
+            "count": 2
+        },
+        {
+            "phrase": "if you're going through hell before the devil even knows",
+            "count": 2
+        },
+        {
+            "phrase": "if you're going through hell",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to die in there",
+            "count": 1
+        },
+        {
+            "phrase": "you will be like god knowing good and evil",
+            "count": 1
+        },
+        {
+            "phrase": "i think i'm going to cry",
+            "count": 1
+        }
+    ]
+}

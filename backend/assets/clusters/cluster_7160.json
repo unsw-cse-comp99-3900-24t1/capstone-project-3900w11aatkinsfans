@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:02",
+            "03:42",
+            "03:55"
+        ],
+        "label": "shoulder"
+    },
+    "clusterList": [
+        {
+            "phrase": "shoulder to the plow",
+            "count": 3
+        }
+    ]
+}

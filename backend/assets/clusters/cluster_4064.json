@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:31",
+            "02:47",
+            "05:03"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and i'm sure you'll see hiring freezes and layoffs",
+            "count": 2
+        },
+        {
+            "phrase": "there is no argument that non-farm payrolls will drop for the seventh month in a row but that may not stifle the dollar's rally",
+            "count": 1
+        },
+        {
+            "phrase": "as of this date there will be no layoffs",
+            "count": 1
+        },
+        {
+            "phrase": "as of this date that's the last thing anyone wants to do but that is as of this date layoffs are not on the table as we speak",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:32",
+            "01:01",
+            "01:50",
+            "02:24"
+        ],
+        "label": "introduction"
+    },
+    "clusterList": [
+        {
+            "phrase": "introduction to st athanasius",
+            "count": 1
+        },
+        {
+            "phrase": "they were looking for a theologian a preacher and a cultural interpreter",
+            "count": 1
+        },
+        {
+            "phrase": "young professed born-again christians who were extremely devoted to the church and to whitesel",
+            "count": 1
+        },
+        {
+            "phrase": "a pastor's assessment of richard abanes",
+            "count": 1
+        },
+        {
+            "phrase": "unabashedly open about his spirituality",
+            "count": 1
+        }
+    ]
+}

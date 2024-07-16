@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:57",
+            "02:22",
+            "02:38",
+            "03:23",
+            "04:47",
+            "04:55",
+            "05:05"
+        ],
+        "label": "guys"
+    },
+    "clusterList": [
+        {
+            "phrase": "they got two players who won't add up to what griffey is",
+            "count": 2
+        },
+        {
+            "phrase": "that was as tough a back-to-back combination in a lineup as you're ever going to see",
+            "count": 2
+        },
+        {
+            "phrase": "you just can't continue to give two or three guys for rental players",
+            "count": 2
+        },
+        {
+            "phrase": "guys who were available were not better than the guys we have in the clubhouse i like our guys i like the guys we have coming off the disabled list and i like our internal options",
+            "count": 1
+        },
+        {
+            "phrase": "third and possibly fourth roster spots",
+            "count": 1
+        },
+        {
+            "phrase": "that was as tough as back-to-back guys in the lineup as you're going to see",
+            "count": 1
+        }
+    ]
+}

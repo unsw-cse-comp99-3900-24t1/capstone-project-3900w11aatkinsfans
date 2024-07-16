@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "03:32",
+            "04:56"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we had the difficulties initially of finding the records obtaining them",
+            "count": 1
+        },
+        {
+            "phrase": "i then completed my bachelor's degree and started to look for a job and this time also i was asked to produce identification documents which i do not have",
+            "count": 1
+        },
+        {
+            "phrase": "some people have information papers but their names are not on the list others claim information papers never reached them",
+            "count": 1
+        }
+    ]
+}

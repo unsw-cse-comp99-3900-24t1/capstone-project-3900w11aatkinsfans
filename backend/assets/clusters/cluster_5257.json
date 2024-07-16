@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:29",
+            "03:18",
+            "04:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i adore cars i'm a petrol head the only time i will give up driving my sports car is when i am too bloody old to get into it",
+            "count": 2
+        },
+        {
+            "phrase": "you say can't like the word car",
+            "count": 1
+        },
+        {
+            "phrase": "if you like the car you're driving you're giving too much credit to the car maker",
+            "count": 1
+        }
+    ]
+}

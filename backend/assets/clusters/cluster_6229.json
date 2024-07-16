@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:47",
+            "04:24"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm 10 at-bats in and not having an at-bat in over two years i'm pretty pleased",
+            "count": 1
+        },
+        {
+            "phrase": "i still got the bat speed",
+            "count": 1
+        },
+        {
+            "phrase": "quick to the batmobile",
+            "count": 1
+        }
+    ]
+}

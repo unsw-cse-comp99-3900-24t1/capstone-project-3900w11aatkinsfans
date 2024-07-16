@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "03:47",
+            "04:27"
+        ],
+        "label": "express"
+    },
+    "clusterList": [
+        {
+            "phrase": "express mail international",
+            "count": 1
+        },
+        {
+            "phrase": "inter s internacional",
+            "count": 1
+        },
+        {
+            "phrase": "outlet world of pasco country",
+            "count": 1
+        }
+    ]
+}

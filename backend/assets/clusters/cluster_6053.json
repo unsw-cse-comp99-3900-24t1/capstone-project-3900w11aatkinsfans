@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:37",
+            "03:18"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have nothing that has high fructose corn syrup we have no hydrogenated oils at all no trans fats",
+            "count": 1
+        },
+        {
+            "phrase": "high-fructose corn syrup here i come",
+            "count": 1
+        },
+        {
+            "phrase": "virtually no trans fats",
+            "count": 1
+        }
+    ]
+}

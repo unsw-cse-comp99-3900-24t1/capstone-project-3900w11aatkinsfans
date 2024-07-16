@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:05",
+            "03:10",
+            "04:36"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "new low in labor relations",
+            "count": 1
+        },
+        {
+            "phrase": "the relatively few skilled workers",
+            "count": 1
+        },
+        {
+            "phrase": "the minimum wage",
+            "count": 1
+        },
+        {
+            "phrase": "data showing an extra one million employees have been relegated from full-time to part-time jobs over the last year a pattern that has disguised the true level of weakness in the labour market",
+            "count": 1
+        }
+    ]
+}

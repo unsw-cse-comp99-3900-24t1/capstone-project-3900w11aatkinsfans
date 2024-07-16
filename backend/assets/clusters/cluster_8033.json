@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:38"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but it's a grand old lady",
+            "count": 1
+        },
+        {
+            "phrase": "when she's an old lady",
+            "count": 1
+        }
+    ]
+}

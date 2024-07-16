@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "03:18"
+        ],
+        "label": "retail"
+    },
+    "clusterList": [
+        {
+            "phrase": "retail store manager assistant manager",
+            "count": 1
+        },
+        {
+            "phrase": "voice of the customer",
+            "count": 1
+        }
+    ]
+}

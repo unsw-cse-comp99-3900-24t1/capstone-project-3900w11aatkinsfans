@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:20",
+            "03:10"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how about we don't make this anymore complicated than it is",
+            "count": 1
+        },
+        {
+            "phrase": "everything should be made as simple as possible but not simpler",
+            "count": 1
+        },
+        {
+            "phrase": "it's simpler than you think",
+            "count": 1
+        }
+    ]
+}

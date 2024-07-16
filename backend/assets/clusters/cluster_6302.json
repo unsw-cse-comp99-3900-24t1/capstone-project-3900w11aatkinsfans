@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "05:03"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on the battlefield",
+            "count": 2
+        },
+        {
+            "phrase": "since world war ii",
+            "count": 1
+        }
+    ]
+}

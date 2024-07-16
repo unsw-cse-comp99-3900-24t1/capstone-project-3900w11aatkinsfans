@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:13",
+            "03:55"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we went in there with a scoop stretcher and a couple of guys and brought him back through the water to the road",
+            "count": 1
+        },
+        {
+            "phrase": "he was swept into the paddock and stayed in the car until some locals and the fire service got him out they were standing in water that was at least waist deep",
+            "count": 1
+        },
+        {
+            "phrase": "if dogs would have come at least i would have known that they were not in the woods and a little creek i was afraid they might have gone to the park and get attacked by a dog maybe",
+            "count": 1
+        },
+        {
+            "phrase": "kind of went into a ravine in racine",
+            "count": 1
+        }
+    ]
+}

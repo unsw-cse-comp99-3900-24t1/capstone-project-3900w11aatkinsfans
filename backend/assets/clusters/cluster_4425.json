@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:29",
+            "00:37",
+            "00:48"
+        ],
+        "label": "frequently"
+    },
+    "clusterList": [
+        {
+            "phrase": "frequently people will have some kind of identification",
+            "count": 3
+        },
+        {
+            "phrase": "detected an individual",
+            "count": 1
+        }
+    ]
+}

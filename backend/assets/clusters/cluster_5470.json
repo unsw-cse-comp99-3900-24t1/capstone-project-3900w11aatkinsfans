@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:30",
+            "02:01",
+            "02:51"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there was no way anyone could survive that",
+            "count": 1
+        },
+        {
+            "phrase": "why didn't those two halves explode",
+            "count": 1
+        },
+        {
+            "phrase": "they would have been completely wiped out",
+            "count": 1
+        },
+        {
+            "phrase": "they didn't insulate it or nothing",
+            "count": 1
+        }
+    ]
+}

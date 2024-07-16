@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:04",
+            "01:46",
+            "02:56",
+            "03:31",
+            "03:37",
+            "03:59",
+            "04:38",
+            "04:56"
+        ],
+        "label": "call"
+    },
+    "clusterList": [
+        {
+            "phrase": "harold call me",
+            "count": 6
+        },
+        {
+            "phrase": "call me harold",
+            "count": 5
+        }
+    ]
+}

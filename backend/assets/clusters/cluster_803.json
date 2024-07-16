@@ -1,0 +1,91 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:15",
+            "00:23",
+            "00:56",
+            "01:37",
+            "01:47",
+            "02:33",
+            "03:45",
+            "03:46",
+            "03:48",
+            "04:24",
+            "04:41",
+            "04:42",
+            "05:04"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "of all the people",
+            "count": 2
+        },
+        {
+            "phrase": "everyone in the",
+            "count": 2
+        },
+        {
+            "phrase": "among many others",
+            "count": 2
+        },
+        {
+            "phrase": "millions of americans",
+            "count": 2
+        },
+        {
+            "phrase": "there's always a lot of people watching",
+            "count": 1
+        },
+        {
+            "phrase": "a large group of people",
+            "count": 1
+        },
+        {
+            "phrase": "wow it's not that many people there",
+            "count": 1
+        },
+        {
+            "phrase": "dude there's a lot of white people up here",
+            "count": 1
+        },
+        {
+            "phrase": "the general population",
+            "count": 1
+        },
+        {
+            "phrase": "look at these crowds",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of people close to the situation",
+            "count": 1
+        },
+        {
+            "phrase": "two or three dozen people",
+            "count": 1
+        },
+        {
+            "phrase": "a whole lot of people responded",
+            "count": 1
+        }
+    ]
+}

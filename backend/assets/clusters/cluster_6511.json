@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "02:33",
+            "03:27"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this study identifies the specific neuronal process involved and helps explain relapse even after rehabilitative therapy or long-term abstinence",
+            "count": 1
+        },
+        {
+            "phrase": "clients perceptions of how reorientation therapy and self-help can promote changes in sexual orientation",
+            "count": 1
+        },
+        {
+            "phrase": "mindful solutions for addiction and relapse prevention",
+            "count": 1
+        }
+    ]
+}

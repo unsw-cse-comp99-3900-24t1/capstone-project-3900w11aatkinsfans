@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "03:59",
+            "04:03",
+            "04:04",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it's a great idea i think it'll stop a lot of the problems that they had down here they've increased police patrols i've seen many people get arrested and a lot of fights so i think it'll definitely help",
+            "count": 1
+        },
+        {
+            "phrase": "you read about this stuff happening in the bigger cities but don't think it's going to happen in a town like albury but i guess we are getting bigger now",
+            "count": 1
+        },
+        {
+            "phrase": "manchester is becoming just another urban combat zone just read the paper or watch tv the first 10 minutes of news or front page of the paper is always about crime in manchester",
+            "count": 1
+        },
+        {
+            "phrase": "i am upset that judge abramson said our city is an unsafe place to live yes we have crime but we also have people who are trying to clean it up when you state that we are a crime-ridden city you send the wrong message",
+            "count": 1
+        },
+        {
+            "phrase": "from what i've learned about the tragedy it had a huge impact on the city and this community",
+            "count": 1
+        },
+        {
+            "phrase": "this is a high-crime area",
+            "count": 1
+        }
+    ]
+}

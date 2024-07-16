@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:09",
+            "00:20",
+            "00:27",
+            "00:53",
+            "01:02",
+            "01:17",
+            "01:32",
+            "01:47",
+            "01:50",
+            "02:29",
+            "02:42",
+            "03:02",
+            "04:41"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "miss hilton was neither asked nor did she give permission for the use of her likeness in the ad and has no further comment",
+            "count": 6
+        },
+        {
+            "phrase": "miss hilton was not asked nor did she give permission for the use of her likeness in the ad and has no further comment",
+            "count": 5
+        },
+        {
+            "phrase": "she hasn't even seen the ad",
+            "count": 1
+        },
+        {
+            "phrase": "miss hilton was neither asked nor did she give permission for the use of her likeness",
+            "count": 1
+        },
+        {
+            "phrase": "were not glamour models or pamela anderson",
+            "count": 1
+        },
+        {
+            "phrase": "miss hilton was neither asked nor did she give permission for the use",
+            "count": 1
+        }
+    ]
+}

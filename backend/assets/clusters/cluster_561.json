@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            3,
+            1,
+            1,
+            3,
+            1,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:25",
+            "01:47",
+            "02:19",
+            "03:09",
+            "03:10",
+            "03:43",
+            "03:51",
+            "04:31"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when obama walked on stage",
+            "count": 6
+        },
+        {
+            "phrase": "many journalists in the audience leapt to their feet and applauded enthusiastically after being told not to do so during a two-minute break halfway through the event journalists ran to the stage to snap photos of obama",
+            "count": 6
+        },
+        {
+            "phrase": "obama received a standing ovation from many in the audience at the start and end of his appearance there was also a rush toward the stage after his speech as obama shook hands and signed autographs one journalist was also overheard wishing him luck while another squealed he touched me as she left the ballroom",
+            "count": 6
+        },
+        {
+            "phrase": "is surrounded by silence as he departs the applause doesn't even carry as far as backstage his shoes make a clicking sound on the wooden floor the crowd was not merciless in its reaction just honest the senator from illinois is recognizably not the product which he is being sold as at the beginning he was described as a rising african-american star that was back when people were still being modest then the political marketing people reached up onto the top shelf and started referring to him as the new kennedy the new martin luther king jr the first black president",
+            "count": 1
+        },
+        {
+            "phrase": "there was a great applause from the audience when he says this dialogue",
+            "count": 1
+        },
+        {
+            "phrase": "free hugs sign some poor guy was holding without much enthusiasm in the middle of the crowd no i did not approach him to find out what the deal was",
+            "count": 1
+        },
+        {
+            "phrase": "is surrounded by silence as he departs the applause doesn't even carry as far as backstage his shoes make a clicking sound on the wooden floor the crowd was not merciless in its reaction just honest the senator from illinois is recognizably not the product which he is being sold as at the beginning he was described as a rising african-american star that was back when people still were still being modest then the political marketing people reached up onto the top shelf and started referring to him as the new kennedy the new martin luther king jr the first black president",
+            "count": 1
+        }
+    ]
+}

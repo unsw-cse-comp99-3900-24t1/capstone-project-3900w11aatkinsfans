@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "01:40",
+            "02:26",
+            "03:56",
+            "04:33"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "happy birthday tata i hope you see a hundred years it would be nice for this country and we wish to thank you for what you did for this country",
+            "count": 2
+        },
+        {
+            "phrase": "we're a fabulous country you know i have seen america at its very best in seven and a half years i marvel at the entrepreneurial spirit in our country i love the fact that people go from nothing to something our small business owners are great people i love the fact that we've got people who understand the dangers we face understand we're facing ideological people that use murder to achieve their objectives and want to hurt us again here at home",
+            "count": 1
+        },
+        {
+            "phrase": "it's really been a blessing just to come back home",
+            "count": 1
+        },
+        {
+            "phrase": "we english are a warm and welcoming people",
+            "count": 1
+        }
+    ]
+}

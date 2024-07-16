@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            8,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:05",
+            "02:20",
+            "03:01",
+            "04:19",
+            "04:22"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "why so serious",
+            "count": 14
+        },
+        {
+            "phrase": "omg are you serious",
+            "count": 2
+        },
+        {
+            "phrase": "this is very serious",
+            "count": 1
+        }
+    ]
+}

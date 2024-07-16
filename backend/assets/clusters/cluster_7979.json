@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "04:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the color of money",
+            "count": 1
+        },
+        {
+            "phrase": "introducing itemized bills",
+            "count": 1
+        }
+    ]
+}

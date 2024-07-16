@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "03:00"
+        ],
+        "label": "library"
+    },
+    "clusterList": [
+        {
+            "phrase": "library 2 0",
+            "count": 1
+        },
+        {
+            "phrase": "just a utility library",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:52",
+            "01:00",
+            "01:01",
+            "01:23",
+            "01:41",
+            "03:51",
+            "04:31"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a very small number of individuals",
+            "count": 3
+        },
+        {
+            "phrase": "but then again how would you feel if you were having 100 to 200 people over for dinner every night",
+            "count": 2
+        },
+        {
+            "phrase": "with more than 4000 users",
+            "count": 1
+        },
+        {
+            "phrase": "don't add more than 400 people",
+            "count": 1
+        },
+        {
+            "phrase": "i'll be happy with 1 000 people",
+            "count": 1
+        },
+        {
+            "phrase": "i wasn't counting people",
+            "count": 1
+        }
+    ]
+}

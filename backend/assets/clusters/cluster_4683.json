@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "01:47",
+            "03:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is iraq as we witnessed it living and moving among its cities and citizens for months on end",
+            "count": 1
+        },
+        {
+            "phrase": "meanwhile the war in iraq continues and now the war in afghanistan appears to be getting worse",
+            "count": 1
+        },
+        {
+            "phrase": "we got distracted by iraq",
+            "count": 1
+        },
+        {
+            "phrase": "fall back men afghanistan is a nasty war we can never win britain's commanders ignored every warning that the taliban were the toughest fighters on earth",
+            "count": 1
+        }
+    ]
+}

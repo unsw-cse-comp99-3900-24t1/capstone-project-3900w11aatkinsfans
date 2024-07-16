@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:24",
+            "01:36",
+            "02:00",
+            "02:39",
+            "03:10",
+            "03:38"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is really a work in progress",
+            "count": 4
+        },
+        {
+            "phrase": "it's your best work yet",
+            "count": 1
+        },
+        {
+            "phrase": "i should do my work soon",
+            "count": 1
+        },
+        {
+            "phrase": "please i would so love to begin work immediately",
+            "count": 1
+        },
+        {
+            "phrase": "will have a new assignment",
+            "count": 1
+        },
+        {
+            "phrase": "i just need some space and time to work on it",
+            "count": 1
+        }
+    ]
+}

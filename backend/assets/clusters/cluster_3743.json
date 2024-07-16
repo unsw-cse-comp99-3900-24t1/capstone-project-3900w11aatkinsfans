@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:11",
+            "01:52",
+            "03:55",
+            "04:36"
+        ],
+        "label": "report"
+    },
+    "clusterList": [
+        {
+            "phrase": "report a violation",
+            "count": 2
+        },
+        {
+            "phrase": "we said it was not legal it was unfair but they didn't solve our problems",
+            "count": 1
+        },
+        {
+            "phrase": "we don't think it was a violation or any negligence on his part",
+            "count": 1
+        },
+        {
+            "phrase": "the most important question that remains is a very technical issue under the law",
+            "count": 1
+        }
+    ]
+}

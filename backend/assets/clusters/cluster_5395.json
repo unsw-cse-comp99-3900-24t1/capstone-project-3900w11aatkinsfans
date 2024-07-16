@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "02:05",
+            "04:01",
+            "04:03"
+        ],
+        "label": "any"
+    },
+    "clusterList": [
+        {
+            "phrase": "the situation is critical we are currently on life support",
+            "count": 2
+        },
+        {
+            "phrase": "any support from family",
+            "count": 1
+        },
+        {
+            "phrase": "on life support",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:30",
+            "01:41",
+            "01:47",
+            "02:42",
+            "03:00",
+            "03:34",
+            "04:05",
+            "04:28",
+            "04:40"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "major accident waiting to happen",
+            "count": 6
+        },
+        {
+            "phrase": "have caused tragic accidents across the country",
+            "count": 1
+        },
+        {
+            "phrase": "we can make it look like an accident",
+            "count": 1
+        },
+        {
+            "phrase": "we can't drive by a car accident because only we can help",
+            "count": 1
+        },
+        {
+            "phrase": "bbm there's been an accident",
+            "count": 1
+        }
+    ]
+}

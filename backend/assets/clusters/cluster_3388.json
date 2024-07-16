@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:56",
+            "03:28",
+            "03:43",
+            "03:51",
+            "04:09"
+        ],
+        "label": "another"
+    },
+    "clusterList": [
+        {
+            "phrase": "not a damn thing",
+            "count": 3
+        },
+        {
+            "phrase": "another thing to consider",
+            "count": 1
+        },
+        {
+            "phrase": "my kinda thing",
+            "count": 1
+        },
+        {
+            "phrase": "no not a thing",
+            "count": 1
+        }
+    ]
+}

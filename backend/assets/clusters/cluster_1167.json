@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "00:25",
+            "00:51",
+            "01:06",
+            "01:47",
+            "02:28",
+            "02:51",
+            "03:09",
+            "03:38",
+            "03:39",
+            "03:48",
+            "04:28"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a complex issue but we cannot shy away from action we should not play politics with such an urgent crisis we must come together to act now that is what georgians want and it is what we as policymakers want",
+            "count": 7
+        },
+        {
+            "phrase": "my fellow citizens we are embroiled in the greatest financial crisis our nation has ever faced and we will have to take emergency action to keep the entire system from melting down",
+            "count": 2
+        },
+        {
+            "phrase": "crisis the palestinians are going through is a national crisis that requires bringing together the efforts of all to reach solutions to the problems storming the palestinian domestic arena",
+            "count": 1
+        },
+        {
+            "phrase": "we are really good at doing crisis",
+            "count": 1
+        },
+        {
+            "phrase": "the crisis is upon us",
+            "count": 1
+        },
+        {
+            "phrase": "leadership in times of crisis",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:06",
+            "01:24",
+            "03:01",
+            "03:02",
+            "03:05",
+            "03:28",
+            "03:48",
+            "04:23",
+            "05:05"
+        ],
+        "label": "fulfilling"
+    },
+    "clusterList": [
+        {
+            "phrase": "fulfilling your immediate wants and needs betrays a poverty of ambition",
+            "count": 4
+        },
+        {
+            "phrase": "the envy of the world",
+            "count": 2
+        },
+        {
+            "phrase": "envy and selfish ambition",
+            "count": 1
+        },
+        {
+            "phrase": "selfish greedy and uncaring",
+            "count": 1
+        },
+        {
+            "phrase": "if what you say about human motivation is true all acts are selfish then what would it be like contrafactually to encounter an unselfish act",
+            "count": 1
+        },
+        {
+            "phrase": "selfishness is not a means to an end",
+            "count": 1
+        }
+    ]
+}

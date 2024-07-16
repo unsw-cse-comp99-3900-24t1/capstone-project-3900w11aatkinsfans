@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:02",
+            "02:20"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's a ring i'm less interested in",
+            "count": 1
+        },
+        {
+            "phrase": "the gardner's gold ring",
+            "count": 1
+        },
+        {
+            "phrase": "is this ring too much like that love letter ring of colleen baran s",
+            "count": 1
+        }
+    ]
+}

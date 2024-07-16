@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:47",
+            "04:58",
+            "04:59"
+        ],
+        "label": "personally"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's got a tough time coming up obviously and i think if you asked him he would say he wouldn't want to be anyplace else",
+            "count": 2
+        },
+        {
+            "phrase": "personally and professionally but he's earned the right to pursue whatever opportunities he thinks will make him happy",
+            "count": 1
+        },
+        {
+            "phrase": "he's young but he's mature and has a feel beyond his experience level he deserves this opportunity",
+            "count": 1
+        }
+    ]
+}

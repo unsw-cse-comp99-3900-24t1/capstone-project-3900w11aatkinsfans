@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:23",
+            "01:38",
+            "02:00"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's a very fundamental problem here that no-one really wants to talk about",
+            "count": 2
+        },
+        {
+            "phrase": "we can't even have a conversation everybody has a right to their opinion we're not here to judge people we're here to talk about solutions",
+            "count": 1
+        },
+        {
+            "phrase": "we talk to people who are not even aware of the argument not aware of the issues",
+            "count": 1
+        }
+    ]
+}

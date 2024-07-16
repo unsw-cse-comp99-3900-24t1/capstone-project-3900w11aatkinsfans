@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:41",
+            "05:00"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is all in their heads actually",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes just really sometimes we should poke our head out of the echo chamber",
+            "count": 1
+        },
+        {
+            "phrase": "i mean honestly sometimes we just don't understand where their heads are at",
+            "count": 1
+        }
+    ]
+}

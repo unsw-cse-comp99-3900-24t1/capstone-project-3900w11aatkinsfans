@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:10"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an even-handed system of tax credits",
+            "count": 2
+        },
+        {
+            "phrase": "fair value accounting",
+            "count": 1
+        }
+    ]
+}

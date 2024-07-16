@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:39",
+            "04:05"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no don't do it comparing apples and oranges is wrong",
+            "count": 1
+        },
+        {
+            "phrase": "but it's like apples and oranges",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "01:52",
+            "01:55"
+        ],
+        "label": "looked"
+    },
+    "clusterList": [
+        {
+            "phrase": "looked to be shot",
+            "count": 1
+        },
+        {
+            "phrase": "first person shooting",
+            "count": 1
+        },
+        {
+            "phrase": "shoot first and ask questions later",
+            "count": 1
+        }
+    ]
+}

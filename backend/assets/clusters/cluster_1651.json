@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:56",
+            "01:06",
+            "02:19",
+            "02:56",
+            "03:18",
+            "04:18"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "so what do you think",
+            "count": 2
+        },
+        {
+            "phrase": "what do you think",
+            "count": 2
+        },
+        {
+            "phrase": "why do you think that",
+            "count": 1
+        },
+        {
+            "phrase": "what do we think i can tell you what i think",
+            "count": 1
+        },
+        {
+            "phrase": "what did you think",
+            "count": 1
+        },
+        {
+            "phrase": "well how do you feel about that",
+            "count": 1
+        },
+        {
+            "phrase": "need my feedback",
+            "count": 1
+        },
+        {
+            "phrase": "that's what you think",
+            "count": 1
+        }
+    ]
+}

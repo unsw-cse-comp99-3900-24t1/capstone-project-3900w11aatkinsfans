@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "03:34",
+            "03:42"
+        ],
+        "label": "bloggers"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you think yahoo is skimming their publishers or do you think it is a temporary reporting glitch",
+            "count": 2
+        },
+        {
+            "phrase": "bloggers complained in the call",
+            "count": 1
+        }
+    ]
+}

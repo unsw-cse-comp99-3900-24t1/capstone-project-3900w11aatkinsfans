@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:41",
+            "01:19",
+            "04:03",
+            "04:26",
+            "04:33"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my memory is a little foggy",
+            "count": 1
+        },
+        {
+            "phrase": "may save some browser memory",
+            "count": 1
+        },
+        {
+            "phrase": "these potentiated synapses are persistent regardless of what your new behavior is and because the memory is still maintained it could trigger relapse when the conditions are repeated",
+            "count": 1
+        },
+        {
+            "phrase": "is there anything that might refresh your memory",
+            "count": 1
+        },
+        {
+            "phrase": "with working memory you're just keeping it active until you use it",
+            "count": 1
+        },
+        {
+            "phrase": "10 great apps to preserve memories",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:00"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know that tito wouldn't have went out like that",
+            "count": 1
+        },
+        {
+            "phrase": "we hoped to get him at the fight and he didn't turn up to that",
+            "count": 1
+        }
+    ]
+}

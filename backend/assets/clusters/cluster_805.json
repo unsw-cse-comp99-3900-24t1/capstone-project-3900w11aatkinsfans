@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:27",
+            "00:48",
+            "00:51",
+            "00:56",
+            "01:32",
+            "01:37",
+            "02:15",
+            "02:56",
+            "03:37",
+            "04:18",
+            "04:51"
+        ],
+        "label": "stay"
+    },
+    "clusterList": [
+        {
+            "phrase": "stay the course",
+            "count": 9
+        },
+        {
+            "phrase": "stay the course stay the course",
+            "count": 3
+        },
+        {
+            "phrase": "let the course win the battle and i'll win the war in the end",
+            "count": 2
+        },
+        {
+            "phrase": "i'm as gracious in defeat as i am in victory",
+            "count": 1
+        },
+        {
+            "phrase": "and you who were already conquered in your greatest victories what will you be in the approaching defeat",
+            "count": 1
+        },
+        {
+            "phrase": "give me this one last fighting chance to crash the wall i'll get to you you are a war worth dying for tonight give me this one last fighting chance to be the kid who caved you in it'd be so easy to lose myself to you",
+            "count": 1
+        }
+    ]
+}

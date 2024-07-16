@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:25",
+            "03:18",
+            "03:41",
+            "03:51",
+            "04:33"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't go there",
+            "count": 1
+        },
+        {
+            "phrase": "oh i could never live there",
+            "count": 1
+        },
+        {
+            "phrase": "i'm never going back there",
+            "count": 1
+        },
+        {
+            "phrase": "you'll never get there in time",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not going to go there",
+            "count": 1
+        },
+        {
+            "phrase": "why haven't you gone",
+            "count": 1
+        },
+        {
+            "phrase": "it's the best place to be i never miss one",
+            "count": 1
+        }
+    ]
+}

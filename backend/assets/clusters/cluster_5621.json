@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "03:23",
+            "03:56"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one of their own",
+            "count": 2
+        },
+        {
+            "phrase": "one of the lucky ones",
+            "count": 1
+        }
+    ]
+}

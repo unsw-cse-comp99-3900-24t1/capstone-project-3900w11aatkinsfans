@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "03:48",
+            "04:56"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow s rest system was the first of its kind and people don't stop and think about its effects on people psychologically that there is actually a bonus for coming back to the game but playing for a long time is not a great thing",
+            "count": 1
+        },
+        {
+            "phrase": "age of conan released with some initial success",
+            "count": 1
+        },
+        {
+            "phrase": "we did see some of our players leave but about 40 of those players have returned to world of warcraft",
+            "count": 1
+        },
+        {
+            "phrase": "age of conan released with some initial success a couple of months ago and we did see some of our players leave to try the game however we've seen about 40 percent of those players return to world of warcraft",
+            "count": 1
+        }
+    ]
+}

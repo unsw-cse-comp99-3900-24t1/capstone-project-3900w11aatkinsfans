@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "01:50",
+            "04:36"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the candle of",
+            "count": 1
+        },
+        {
+            "phrase": "the big glow",
+            "count": 1
+        },
+        {
+            "phrase": "the legend of the flame tree",
+            "count": 1
+        }
+    ]
+}

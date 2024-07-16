@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:21",
+            "03:21",
+            "03:44",
+            "04:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "200 000 physicians and around 16 000 hospitals and medical centres despite this it is recommended that you take out comprehensive medical insurance before traveling",
+            "count": 2
+        },
+        {
+            "phrase": "the clinic is a separate care center in the green zone with full access to the main stadium",
+            "count": 1
+        },
+        {
+            "phrase": "we will visit every hospital in the group of 43 previously designated as gp plus hospitals",
+            "count": 1
+        },
+        {
+            "phrase": "hey i've got an idea how about we go to our pharmacy benefit management division and get the medical profiles of our members and prospective sub here",
+            "count": 1
+        }
+    ]
+}

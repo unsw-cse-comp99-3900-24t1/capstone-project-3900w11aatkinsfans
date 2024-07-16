@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "04:28",
+            "04:41"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this weekend only you will never find a better deal",
+            "count": 2
+        },
+        {
+            "phrase": "serveraday rocks i want wednesday's side deal 1",
+            "count": 1
+        },
+        {
+            "phrase": "serveraday rocks i want wednesday's side deal 2",
+            "count": 1
+        },
+        {
+            "phrase": "peak early this year when msft announced its tender offer",
+            "count": 1
+        }
+    ]
+}

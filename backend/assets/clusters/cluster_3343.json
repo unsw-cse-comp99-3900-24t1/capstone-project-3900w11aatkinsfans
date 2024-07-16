@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:15",
+            "03:06",
+            "03:10",
+            "05:01"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "looking for a boyfriend to marry",
+            "count": 2
+        },
+        {
+            "phrase": "how to get married in massachusetts",
+            "count": 1
+        },
+        {
+            "phrase": "very well i want to get a wife an a mistress",
+            "count": 1
+        },
+        {
+            "phrase": "how to propose marriage in seventeen easy steps",
+            "count": 1
+        },
+        {
+            "phrase": "and what of marriage master",
+            "count": 1
+        }
+    ]
+}

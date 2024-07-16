@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:56",
+            "02:37",
+            "02:54",
+            "03:38",
+            "03:41",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is a lot of recognition in oracle all the way to top management that enterprise 2 0 is changing the business layout",
+            "count": 2
+        },
+        {
+            "phrase": "we look back on the multiples we sold the businesses on and they look like damn good multiples now don't they",
+            "count": 1
+        },
+        {
+            "phrase": "itx has a number of very strong products like sun and hp that they represent strongly and attract a certain type of reseller",
+            "count": 1
+        },
+        {
+            "phrase": "we are excited that oracle is adding gks's training software to oracle's product family",
+            "count": 1
+        },
+        {
+            "phrase": "they're inphase asking an awful lot of a material that has not been well-developed i suspect they're having a lot of trouble getting this to market",
+            "count": 1
+        },
+        {
+            "phrase": "adm monsanto and others have seen their own profits soar in recent years as booming demand for agricultural products in emerging markets has pushed up commodity prices and spurred additional production",
+            "count": 1
+        }
+    ]
+}

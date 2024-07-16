@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:15",
+            "03:39",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i want to cut taxes for middle-class families ordinary folks who are working hard and playing by the rules",
+            "count": 1
+        },
+        {
+            "phrase": "conclusion if you stick to the conservative working rules you should have a fairly short meeting with your tax advisor if you want to use the aggressive rule arm yourself with plenty of data and be prepared to receive a larger invoice for professional services rendered",
+            "count": 1
+        },
+        {
+            "phrase": "constantly search ing for ways to responsibly lower your tax burden",
+            "count": 1
+        },
+        {
+            "phrase": "find legislative solutions to pressure the irs and better enable them to collect on the nearly us 345 billion annually of legally owed but unpaid taxes",
+            "count": 1
+        }
+    ]
+}

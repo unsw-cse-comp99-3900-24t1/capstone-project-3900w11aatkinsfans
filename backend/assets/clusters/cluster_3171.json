@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:07",
+            "00:15",
+            "00:29",
+            "00:37",
+            "01:37",
+            "01:42"
+        ],
+        "label": "whenever"
+    },
+    "clusterList": [
+        {
+            "phrase": "whenever we've had people come to us after automobile accidents the most common thing is someone shows up looking for them",
+            "count": 3
+        },
+        {
+            "phrase": "they told me that she had been involved in an accident and i interrupted the deputy because i then remembered that message that came across the screen and that was the and that was the first time then that i knew",
+            "count": 1
+        },
+        {
+            "phrase": "we always see someone who was texting or calling who would not have been in that accident had it not been for the phone",
+            "count": 1
+        },
+        {
+            "phrase": "among teens and young adults in particular who are arriving in emergency departments with serious and sometimes fatal injuries because they were not paying attention while texting",
+            "count": 1
+        }
+    ]
+}

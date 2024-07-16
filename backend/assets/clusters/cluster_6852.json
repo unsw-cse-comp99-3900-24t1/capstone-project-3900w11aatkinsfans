@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:56",
+            "02:34",
+            "03:55"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to get to the bird's nest",
+            "count": 2
+        },
+        {
+            "phrase": "the birdcage is open",
+            "count": 1
+        }
+    ]
+}

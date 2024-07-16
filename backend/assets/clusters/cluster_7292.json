@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:06",
+            "03:20"
+        ],
+        "label": "ravishing"
+    },
+    "clusterList": [
+        {
+            "phrase": "ravishing beyond mortal words",
+            "count": 1
+        },
+        {
+            "phrase": "positively mind-blowing zest for life",
+            "count": 1
+        },
+        {
+            "phrase": "from mindless enthusiasm to sordid self-destruction",
+            "count": 1
+        }
+    ]
+}

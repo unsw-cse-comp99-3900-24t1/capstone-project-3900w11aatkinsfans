@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:15",
+            "03:12",
+            "04:14",
+            "04:31",
+            "05:04"
+        ],
+        "label": "bob"
+    },
+    "clusterList": [
+        {
+            "phrase": "bob amp tom show",
+            "count": 1
+        },
+        {
+            "phrase": "the woody woodpecker show",
+            "count": 1
+        },
+        {
+            "phrase": "dave amp drunk chuck birthday show",
+            "count": 1
+        },
+        {
+            "phrase": "the billy bush show",
+            "count": 1
+        },
+        {
+            "phrase": "if lt's supposed to do a talk show i don't know i don't really know but boy amp kris is okay",
+            "count": 1
+        },
+        {
+            "phrase": "show do tom",
+            "count": 1
+        }
+    ]
+}

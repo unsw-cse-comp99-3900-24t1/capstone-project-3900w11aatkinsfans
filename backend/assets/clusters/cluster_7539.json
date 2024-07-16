@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "02:51",
+            "04:10"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's hard to keep consistency that you need over a period of time",
+            "count": 1
+        },
+        {
+            "phrase": "but da consistency is patheytik",
+            "count": 1
+        },
+        {
+            "phrase": "i'm looking for consistency",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "02:56",
+            "04:24"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i brought him all sorts of shit",
+            "count": 2
+        },
+        {
+            "phrase": "i took him a pair of sneakers",
+            "count": 1
+        },
+        {
+            "phrase": "and he became so happy he started to cry i told him that the sneakers were motivation to heal quickly and exercise his legs so that soon he could get up and play basketball his eyes began to sparkle with a new light of hope and all he could say was thank you words were too much but he gave me the most heartfelt handshake i have ever received and i will remember it forever",
+            "count": 1
+        },
+        {
+            "phrase": "what did you send him",
+            "count": 1
+        }
+    ]
+}

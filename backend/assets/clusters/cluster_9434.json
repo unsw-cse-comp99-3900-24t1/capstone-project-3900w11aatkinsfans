@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "02:05"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is it everything you'd hoped for",
+            "count": 1
+        },
+        {
+            "phrase": "it's everything we hoped it would be",
+            "count": 1
+        }
+    ]
+}

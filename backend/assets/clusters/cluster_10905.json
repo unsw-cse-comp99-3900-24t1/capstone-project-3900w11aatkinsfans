@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "03:09"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all the world's an oyster",
+            "count": 1
+        },
+        {
+            "phrase": "world is your oyster",
+            "count": 1
+        }
+    ]
+}

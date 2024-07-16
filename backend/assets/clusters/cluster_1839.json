@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:19",
+            "00:33",
+            "00:38",
+            "00:47",
+            "02:24",
+            "02:46",
+            "03:39"
+        ],
+        "label": "discipline"
+    },
+    "clusterList": [
+        {
+            "phrase": "punishment from god",
+            "count": 2
+        },
+        {
+            "phrase": "why does god let bad things happen to good people",
+            "count": 2
+        },
+        {
+            "phrase": "discipline and punish",
+            "count": 1
+        },
+        {
+            "phrase": "to torment oneself",
+            "count": 1
+        },
+        {
+            "phrase": "punished in accordance with sharia",
+            "count": 1
+        },
+        {
+            "phrase": "with this promise he knew that ultimately justice would be done and god would not allow the institutionalized persecution and promotion of idolatry to go unpunished",
+            "count": 1
+        },
+        {
+            "phrase": "the great harm done by some priests",
+            "count": 1
+        }
+    ]
+}

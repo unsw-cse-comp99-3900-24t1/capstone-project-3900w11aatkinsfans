@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:38",
+            "04:10"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was quite funny",
+            "count": 1
+        },
+        {
+            "phrase": "wow that was freaking awesome",
+            "count": 1
+        },
+        {
+            "phrase": "it was kind of groundbreaking",
+            "count": 1
+        }
+    ]
+}

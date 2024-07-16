@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "02:24",
+            "02:57",
+            "03:06",
+            "03:18",
+            "04:23",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we knew that graham had got out of hospital on wednesday but for graham to walk into the club was overwhelming for the players",
+            "count": 3
+        },
+        {
+            "phrase": "we knew graham got out of hospital on wednesday but for graham to walk into the club was overwhelming for the players",
+            "count": 2
+        },
+        {
+            "phrase": "the club's been really great",
+            "count": 2
+        },
+        {
+            "phrase": "for graham to walk into the club it was overwhelming for the players it's just terrific to see graham back",
+            "count": 1
+        }
+    ]
+}

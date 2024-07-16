@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            3,
+            2,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:27",
+            "00:48",
+            "01:00",
+            "01:01",
+            "01:07",
+            "01:47",
+            "02:50",
+            "03:10",
+            "03:51",
+            "04:23",
+            "04:32",
+            "04:33"
+        ],
+        "label": "race"
+    },
+    "clusterList": [
+        {
+            "phrase": "turn ing the white house into a waffle house",
+            "count": 6
+        },
+        {
+            "phrase": "white house or nothing",
+            "count": 4
+        },
+        {
+            "phrase": "the big yellow house",
+            "count": 2
+        },
+        {
+            "phrase": "for the first black president paint the white house black",
+            "count": 2
+        },
+        {
+            "phrase": "painting the white house black",
+            "count": 2
+        },
+        {
+            "phrase": "paint the white house black",
+            "count": 2
+        },
+        {
+            "phrase": "race for the white house with david gregory",
+            "count": 1
+        },
+        {
+            "phrase": "the house called white",
+            "count": 1
+        },
+        {
+            "phrase": "the old dark house",
+            "count": 1
+        },
+        {
+            "phrase": "the first black president is destined and it's meant to be paint the white house black",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:39",
+            "01:51",
+            "03:20",
+            "03:23",
+            "03:50"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a blend of folk and rock quirk and charm",
+            "count": 1
+        },
+        {
+            "phrase": "indian rockabilly and swing",
+            "count": 1
+        },
+        {
+            "phrase": "a hundred-acre playground for music lovers and rock enthusiasts",
+            "count": 1
+        },
+        {
+            "phrase": "plastic songs for deadflowers",
+            "count": 1
+        },
+        {
+            "phrase": "bluegrass music has been waiting for a record like this for a long long time",
+            "count": 1
+        },
+        {
+            "phrase": "stripped-down acoustic anti-folk series of short stories set against a background of acoustic guitar and poetical raps",
+            "count": 1
+        }
+    ]
+}

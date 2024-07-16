@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:49",
+            "03:09",
+            "03:18"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is beautiful films can't change the world but the people who watch them can",
+            "count": 1
+        },
+        {
+            "phrase": "aaaaaaaaaaaahhhhh this film is won-der-ful it's so good you're really going to love it it's a beautiful film",
+            "count": 1
+        },
+        {
+            "phrase": "you know this film is quite beautiful in its own way",
+            "count": 1
+        }
+    ]
+}

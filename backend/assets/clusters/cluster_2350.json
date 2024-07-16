@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:23",
+            "01:36",
+            "03:01",
+            "04:32",
+            "04:56",
+            "05:01"
+        ],
+        "label": "pork"
+    },
+    "clusterList": [
+        {
+            "phrase": "pork amp beans",
+            "count": 1
+        },
+        {
+            "phrase": "we ve moved from a nuevo flamenco sound into the brown sound that had its roots in my old neighborhood of east la and was made popular by bands like war tierra and el chicano the best way to describe it is to say it s jazz mixed with rock and latin rhythms",
+            "count": 1
+        },
+        {
+            "phrase": "regret amp the grave",
+            "count": 1
+        },
+        {
+            "phrase": "poncho amp lefty",
+            "count": 1
+        },
+        {
+            "phrase": "snow white amp the seven dwarves",
+            "count": 1
+        },
+        {
+            "phrase": "classic country amp western swing",
+            "count": 1
+        },
+        {
+            "phrase": "rock amp roll boot camp",
+            "count": 1
+        },
+        {
+            "phrase": "jack's big music show",
+            "count": 1
+        }
+    ]
+}

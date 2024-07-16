@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:53",
+            "02:28"
+        ],
+        "label": "checking"
+    },
+    "clusterList": [
+        {
+            "phrase": "check the argument of i",
+            "count": 2
+        },
+        {
+            "phrase": "checking your numbers",
+            "count": 1
+        },
+        {
+            "phrase": "check the value of i",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "04:33"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey it'd be fun to try fighting without using my hands",
+            "count": 1
+        },
+        {
+            "phrase": "papa don't worry i'm alright be strong and don't give up the fight",
+            "count": 1
+        }
+    ]
+}

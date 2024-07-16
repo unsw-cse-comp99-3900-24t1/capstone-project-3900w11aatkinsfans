@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:31",
+            "03:22",
+            "03:38"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our lease is up in october so we thought it was a good time to take advantage of their lease pull ahead",
+            "count": 1
+        },
+        {
+            "phrase": "did you read the lease",
+            "count": 1
+        },
+        {
+            "phrase": "once the lease is up you don't know what's going to happen",
+            "count": 1
+        }
+    ]
+}

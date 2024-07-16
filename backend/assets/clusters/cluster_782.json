@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:42",
+            "01:23",
+            "02:43",
+            "03:23",
+            "04:05",
+            "04:09",
+            "04:21",
+            "04:28",
+            "04:46",
+            "04:55"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "as a health care organization committed to the health and safety of our patients we have a responsibility to take a leadership role on this major health issue",
+            "count": 10
+        },
+        {
+            "phrase": "pending the completion of the review we will respond appropriately",
+            "count": 4
+        },
+        {
+            "phrase": "our highest priority throughout has been the care and wellbeing of our patients and we have acted as quickly as possible to make sure that the review was carried out thoroughly and effectively",
+            "count": 1
+        },
+        {
+            "phrase": "this will have an immensely beneficial effect for existing staff who at present already work long hours and regularly return after a full day to attend to critically ill or debilitated patients as the referral centre for a large area of new zealand we regularly have patients arriving in need of very close care or monitoring it also enhances the quality of care we can offer clients and moves us towards receiving accreditation from the new zealand veterinary association as a bestpractice hospital a goal we would like to achieve to show our support for a very good initiative",
+            "count": 1
+        },
+        {
+            "phrase": "feel satisfied that all policies and procedures and clinical oversight and areas we've identified in the letter are really working well",
+            "count": 1
+        }
+    ]
+}

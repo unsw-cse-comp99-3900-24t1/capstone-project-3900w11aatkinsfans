@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:30",
+            "00:51",
+            "01:19"
+        ],
+        "label": "did"
+    },
+    "clusterList": [
+        {
+            "phrase": "did y'all see adam catch those six footballs",
+            "count": 4
+        }
+    ]
+}

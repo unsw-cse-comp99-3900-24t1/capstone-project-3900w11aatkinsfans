@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:22",
+            "02:24",
+            "03:00",
+            "03:13",
+            "04:03",
+            "04:33",
+            "05:03"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's been planned for months",
+            "count": 1
+        },
+        {
+            "phrase": "i t's an ongoing process that might take as long as a month",
+            "count": 1
+        },
+        {
+            "phrase": "it will be tremendously hard",
+            "count": 1
+        },
+        {
+            "phrase": "there's a process in place and we're going to wait to see how that process plays out",
+            "count": 1
+        },
+        {
+            "phrase": "i think it's going to speed the process up a little bit",
+            "count": 1
+        },
+        {
+            "phrase": "it's been a very long drawn out process and hopefully it will all be good in the end",
+            "count": 1
+        },
+        {
+            "phrase": "it's just not going to be a quick process",
+            "count": 1
+        },
+        {
+            "phrase": "it's going to be a long process",
+            "count": 1
+        }
+    ]
+}

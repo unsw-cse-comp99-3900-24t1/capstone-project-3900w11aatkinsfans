@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:11",
+            "00:19",
+            "00:56",
+            "01:28",
+            "01:41",
+            "02:05",
+            "02:10",
+            "02:11",
+            "03:01",
+            "03:29",
+            "05:04"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they help us plan measurements we're making within reach of the robotic arm and interpret those measurements on a wider scale",
+            "count": 10
+        },
+        {
+            "phrase": "the extended mission will be time to explore other areas within reach of our robotic arm",
+            "count": 3
+        },
+        {
+            "phrase": "we have lots more to explore within reach of the robotic arm",
+            "count": 1
+        }
+    ]
+}

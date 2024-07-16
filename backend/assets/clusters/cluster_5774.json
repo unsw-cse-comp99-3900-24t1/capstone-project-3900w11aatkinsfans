@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:00",
+            "02:24"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this technique could give us remarkable control over light",
+            "count": 1
+        },
+        {
+            "phrase": "real-time demonstration of what the flash can do",
+            "count": 1
+        },
+        {
+            "phrase": "this gave us lighting cues and textures",
+            "count": 1
+        }
+    ]
+}

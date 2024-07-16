@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            4
+        ],
+        "xLabels": [
+            "00:29",
+            "00:34",
+            "00:39",
+            "01:15",
+            "03:41",
+            "03:59",
+            "04:09"
+        ],
+        "label": "your"
+    },
+    "clusterList": [
+        {
+            "phrase": "your heavy-handed attempts to inject the fcc into the middle of that process threaten to hijack the evolution of the internet to everyone's detriment",
+            "count": 5
+        },
+        {
+            "phrase": "i continue to believe that is imperative that all consumers have unfettered access to the internet",
+            "count": 1
+        },
+        {
+            "phrase": "we would like to see self-regulation make progress to give the public confidence that isps are taking reasonable steps to improve the safety of the online environment for internet users",
+            "count": 1
+        },
+        {
+            "phrase": "if isps do not act then there is a risk that regulation will be imposed as the community increasingly demands a safer internet netsafe recognises that isps are best placed to know what actions are required to create the safer environment we are seeking",
+            "count": 1
+        },
+        {
+            "phrase": "if progress towards self-regulation slows we could see growing calls from government and organisations like netsafe and others who wish for stronger online enforcement determining legislative action that could hurt telcos isps and the public at large",
+            "count": 1
+        },
+        {
+            "phrase": "internetnz has worked with isps to develop a draft code of practice that provides a framework for self-regulation it is important that isps consider this matter seriously a pragmatic industry-led process can still achieve public buy-in and government support",
+            "count": 1
+        }
+    ]
+}

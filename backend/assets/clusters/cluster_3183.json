@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not going to take off my clothes because i have the dutch embassy waiting for me outside",
+            "count": 2
+        },
+        {
+            "phrase": "i'm not going to take off my underwear there is an embassy waiting outside for me",
+            "count": 2
+        },
+        {
+            "phrase": "i know that there is an embassy waiting for you take off your underwear",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:13",
+            "01:15",
+            "02:14",
+            "03:55"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you pick up a two foot eight inch 81 3 centimetres human being and throw him to the floor it hurts",
+            "count": 3
+        },
+        {
+            "phrase": "i ran down there and blew the kid up",
+            "count": 1
+        },
+        {
+            "phrase": "in the course of a fight that involved carlos and other people carlos picked up mr mayfield and slammed him head first into the pavement",
+            "count": 1
+        }
+    ]
+}

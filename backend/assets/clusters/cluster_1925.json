@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "01:33",
+            "01:51",
+            "01:52",
+            "02:37",
+            "03:11"
+        ],
+        "label": "network"
+    },
+    "clusterList": [
+        {
+            "phrase": "network comprised of machines under the control of a single user",
+            "count": 2
+        },
+        {
+            "phrase": "the digital and connected home",
+            "count": 2
+        },
+        {
+            "phrase": "the network is the computer",
+            "count": 2
+        },
+        {
+            "phrase": "out of network",
+            "count": 1
+        },
+        {
+            "phrase": "you're creating a separate network that happens to reside on a box",
+            "count": 1
+        },
+        {
+            "phrase": "it's all about the networking and it's all about the knowledge",
+            "count": 1
+        }
+    ]
+}

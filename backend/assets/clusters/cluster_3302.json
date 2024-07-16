@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:22",
+            "02:32",
+            "02:42",
+            "03:50",
+            "04:07",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i try not to think about it",
+            "count": 2
+        },
+        {
+            "phrase": "no matter what",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know what my thinking is right now",
+            "count": 1
+        },
+        {
+            "phrase": "who cares what you think",
+            "count": 1
+        }
+    ]
+}

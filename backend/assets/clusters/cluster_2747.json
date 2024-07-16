@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "01:19",
+            "02:28",
+            "03:10",
+            "03:51",
+            "03:59"
+        ],
+        "label": "knee"
+    },
+    "clusterList": [
+        {
+            "phrase": "knee pain is one of the most common musculoskeletal complaints that bring people to their doctor",
+            "count": 1
+        },
+        {
+            "phrase": "the physical pain after surgery wasn't bad but there were a lot of lifestyle adjustments i maintained regular weekly sessions with my therapist and managed to learn how to exist without using food",
+            "count": 1
+        },
+        {
+            "phrase": "i'm all right except i will continue my therapy because of arthritic pain muscles around the operated area which is normal",
+            "count": 1
+        },
+        {
+            "phrase": "i was in so much pain the kind that doesn't allow you to even get comfortable i couldn't sleep sit stand lift anything tie my shoes or even pick up my toddler until i began the program at the arizona back institute i had undergone normal physical therapy two epidural injections and loads of pain medication with no relief by the third week of treatment at the institute i felt no pain",
+            "count": 1
+        },
+        {
+            "phrase": "data was collected from twenty-two medical centers for patients who received vax-d therapy for low pain which was sometimes accompanied by referred leg pain only patients who received at least ten sessions and had a diagnosis of herniated disc degenerative disc or facet syndrome which were confirmed by diagnostic imaging were included in this study a total of 778 cases the data contained the patients quantitative assessments of their own pain mobility and ability to carry out the usual activities of daily living the treatment was successful in 72 of the 778 cases when success was defined as a reduction in pain to 0 or 1 on a 0-5 scale improvements in mobility and activities of daily living correlated strongly with pain reduction",
+            "count": 1
+        },
+        {
+            "phrase": "prior to the introduction of vax-d a non-surgical method for disc decompression was unavailable in numerous studies conventional traction has never demonstrated a reduction of intradiscal pressure to negative ranges on the contrary many traction devices actually caused an increase due to reflex muscle spasm",
+            "count": 1
+        },
+        {
+            "phrase": "vax-d is the most promising non-surgical medical treatment for lumbar pain to be developed in many years",
+            "count": 1
+        }
+    ]
+}

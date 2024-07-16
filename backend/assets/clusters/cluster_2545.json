@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:40",
+            "02:26",
+            "02:29",
+            "03:10",
+            "03:32",
+            "04:51"
+        ],
+        "label": "show"
+    },
+    "clusterList": [
+        {
+            "phrase": "put all the money on the table here",
+            "count": 2
+        },
+        {
+            "phrase": "show me the money",
+            "count": 1
+        },
+        {
+            "phrase": "pictures on money",
+            "count": 1
+        },
+        {
+            "phrase": "show it to me",
+            "count": 1
+        },
+        {
+            "phrase": "show-me the money vamos ao que interessa",
+            "count": 1
+        },
+        {
+            "phrase": "show me something",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "03:41",
+            "03:52",
+            "04:00"
+        ],
+        "label": "shining"
+    },
+    "clusterList": [
+        {
+            "phrase": "shining on the goups",
+            "count": 3
+        },
+        {
+            "phrase": "the shining kermit",
+            "count": 2
+        },
+        {
+            "phrase": "gary's shining moment",
+            "count": 1
+        }
+    ]
+}

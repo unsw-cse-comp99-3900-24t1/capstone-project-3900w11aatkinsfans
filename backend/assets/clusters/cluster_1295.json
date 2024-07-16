@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:47",
+            "02:20",
+            "03:01",
+            "03:10",
+            "03:15",
+            "03:34",
+            "03:42",
+            "03:51",
+            "04:23",
+            "04:32",
+            "05:05"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not in my backyard",
+            "count": 5
+        },
+        {
+            "phrase": "there's no outside",
+            "count": 5
+        },
+        {
+            "phrase": "you know not to go outside right",
+            "count": 1
+        },
+        {
+            "phrase": "you see my back yard is",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:05",
+            "01:43",
+            "01:46",
+            "01:50",
+            "03:05",
+            "03:50"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is a terrible situation to be in",
+            "count": 5
+        },
+        {
+            "phrase": "you don't know if you are acting right it's a tough situation to be in",
+            "count": 1
+        },
+        {
+            "phrase": "it's an unfortunate situation but we have to work through the situation",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:39",
+            "03:05",
+            "05:05"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he looked like a man in a hurry",
+            "count": 1
+        },
+        {
+            "phrase": "he was getting it quick",
+            "count": 1
+        },
+        {
+            "phrase": "he ran so fast",
+            "count": 1
+        },
+        {
+            "phrase": "it was all his speed he boxed much more than i thought he would",
+            "count": 1
+        }
+    ]
+}

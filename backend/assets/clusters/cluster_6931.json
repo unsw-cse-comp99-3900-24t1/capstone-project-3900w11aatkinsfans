@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "02:09"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's just the way the data turned out",
+            "count": 1
+        },
+        {
+            "phrase": "there was a technical move which has since been reversed that caused quite a stir and that move was reversed because there was a desire to take a look at this database as a whole",
+            "count": 1
+        },
+        {
+            "phrase": "it has been pointed out that there are multiple inaccuracies in the database so essentially we wanted to reset back to where we were take a thoughtful and comprehensive look at the database how the database itself functions as well as the interagency process that supports the database function",
+            "count": 1
+        }
+    ]
+}

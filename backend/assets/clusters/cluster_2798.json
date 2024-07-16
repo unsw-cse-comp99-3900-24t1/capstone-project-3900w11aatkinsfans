@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:51",
+            "00:57",
+            "01:09",
+            "01:18",
+            "03:22",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "being a part of the iso 9001 standard adds to kyocera's distinction as a world-class company we will continue to monitor our processes to ensure that we maintain this distinction",
+            "count": 3
+        },
+        {
+            "phrase": "the microsoft windows server 2003 scalable networking pack release",
+            "count": 2
+        },
+        {
+            "phrase": "racked up in clusters at data centers around the world",
+            "count": 1
+        },
+        {
+            "phrase": "windows mobile device center",
+            "count": 1
+        }
+    ]
+}

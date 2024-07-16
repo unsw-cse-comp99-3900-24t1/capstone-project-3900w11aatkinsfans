@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:25",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:48",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is good news for peanut producers in georgia",
+            "count": 7
+        },
+        {
+            "phrase": "i live in eugene four days a week and the rest i'm in kellogg",
+            "count": 1
+        },
+        {
+            "phrase": "what god no it's only an hour to kellogg i live in kellogg oregon",
+            "count": 1
+        },
+        {
+            "phrase": "there's a kellogg oregon",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "02:24",
+            "02:46"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we must treat these magnificent animals with the respect and dignity they deserve",
+            "count": 1
+        },
+        {
+            "phrase": "it's a national disgrace that these magnificent animals are still hunted at all and that they are so cruelly treated when brought ashore",
+            "count": 1
+        },
+        {
+            "phrase": "i have the utmost respect for them",
+            "count": 1
+        }
+    ]
+}

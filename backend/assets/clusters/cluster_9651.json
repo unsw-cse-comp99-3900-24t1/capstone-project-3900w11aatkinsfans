@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:18",
+            "03:05"
+        ],
+        "label": "throw"
+    },
+    "clusterList": [
+        {
+            "phrase": "throw it like you're really mad",
+            "count": 1
+        },
+        {
+            "phrase": "throw it to me",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "04:05"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's with the peas",
+            "count": 1
+        },
+        {
+            "phrase": "sugar snap peas are magical and i will tell you why",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:16",
+            "03:46"
+        ],
+        "label": "thank"
+    },
+    "clusterList": [
+        {
+            "phrase": "thank you for your interest in xyz corporation though you background is impressive we have decided to go with another candidate who's willing to suck our ahem",
+            "count": 1
+        },
+        {
+            "phrase": "true but i am the owner of the branch office that fact alone should blunt most of the criticism who can argue that i'm not local listen with your help i think i can win this bid furthermore if i do win it you can reap some direct benefits with that kind of business i can afford to hire an accountant and i'll make it worthwhile for you to transfer jobs i can offer you an up-front bonus of 15 000 on top of that i'll increase your salary by 20 percent that should solve most of your financial difficulties after all we have been friends since day one and what are friends for",
+            "count": 1
+        },
+        {
+            "phrase": "jean my wife would be ecstatic if i were able to improve our financial position as quickly as this opportunity affords i certainly hope that you win the bid what kind of help can i provide",
+            "count": 1
+        }
+    ]
+}

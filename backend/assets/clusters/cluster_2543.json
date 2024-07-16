@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:02",
+            "01:21",
+            "04:37"
+        ],
+        "label": "cannot"
+    },
+    "clusterList": [
+        {
+            "phrase": "media player classic",
+            "count": 3
+        },
+        {
+            "phrase": "cannot play this file please go to our website",
+            "count": 1
+        },
+        {
+            "phrase": "media player classic homecinema",
+            "count": 1
+        },
+        {
+            "phrase": "yet the original played perfectly before i copied it with dvd fab i also tried real and gizmo's top pick media player classic-similar messages from both of them",
+            "count": 1
+        },
+        {
+            "phrase": "urn xmpp tmp jingle apps rtp media",
+            "count": 1
+        }
+    ]
+}

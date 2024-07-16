@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:29",
+            "02:06",
+            "02:33",
+            "03:34",
+            "03:42"
+        ],
+        "label": "has"
+    },
+    "clusterList": [
+        {
+            "phrase": "has dishonored himself and brought discredit to the house and merits the censure of the house for same",
+            "count": 5
+        },
+        {
+            "phrase": "injure him in his public office or impute misconduct to him in his office or want of official integrity or want of fidelity to a public trust",
+            "count": 1
+        }
+    ]
+}

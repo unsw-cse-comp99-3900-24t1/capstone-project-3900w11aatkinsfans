@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "00:11",
+            "00:51",
+            "01:07",
+            "02:51"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll tell you what you need to know when you need to know it and you'll like it",
+            "count": 10
+        }
+    ]
+}

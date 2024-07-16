@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "02:02",
+            "03:38",
+            "04:21",
+            "04:36"
+        ],
+        "label": "having"
+    },
+    "clusterList": [
+        {
+            "phrase": "having a bunch of extra signs in intersections is detrimental to traffic safety",
+            "count": 1
+        },
+        {
+            "phrase": "so they can actually see the road that they took and the road that i took they can see the difference",
+            "count": 1
+        },
+        {
+            "phrase": "every person who operates a motor vehicle on the highway or premises open to the public",
+            "count": 1
+        },
+        {
+            "phrase": "pedestrians have the right-of-way",
+            "count": 1
+        },
+        {
+            "phrase": "could the city put up a sign that says merge later or something similar to educate the majority of drivers that don't seem to get it",
+            "count": 1
+        }
+    ]
+}

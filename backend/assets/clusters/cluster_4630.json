@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:32",
+            "03:09",
+            "04:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i can do everyday normal stuff i can pick up suitcases pick up all kinds of stuff and it doesn't really bother me",
+            "count": 2
+        },
+        {
+            "phrase": "i can't go more than 72 hours without shopping but i don't think i'm excessive",
+            "count": 1
+        },
+        {
+            "phrase": "still when i do everyday stuff it doesn't really bother me",
+            "count": 1
+        }
+    ]
+}

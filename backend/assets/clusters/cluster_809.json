@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            3,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:11",
+            "00:41",
+            "01:04",
+            "01:37",
+            "02:18",
+            "04:08",
+            "04:18",
+            "04:29",
+            "04:39",
+            "04:45"
+        ],
+        "label": "ok"
+    },
+    "clusterList": [
+        {
+            "phrase": "take him please we'll even pay his salary while he plays for you just take him",
+            "count": 7
+        },
+        {
+            "phrase": "gonzalez is coming over here mainly because of the guzman injury and we need him to play shortstop",
+            "count": 2
+        },
+        {
+            "phrase": "ok what's his name we'll take him",
+            "count": 1
+        },
+        {
+            "phrase": "most likely to be the next 1b acquisition",
+            "count": 1
+        },
+        {
+            "phrase": "if i was going to trade somebody it wouldn't be him",
+            "count": 1
+        },
+        {
+            "phrase": "paloschi is staying because he is the only striker we have available a",
+            "count": 1
+        },
+        {
+            "phrase": "there's no way to underestimate how much we need to get him back",
+            "count": 1
+        },
+        {
+            "phrase": "we might get a few injuries and he might come in and have that fairytale finish",
+            "count": 1
+        },
+        {
+            "phrase": "i'd rather trade him and get something out of the deal",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know if we were going to move him up or down but we'll start there",
+            "count": 1
+        }
+    ]
+}

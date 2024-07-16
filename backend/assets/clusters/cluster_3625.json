@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:30",
+            "01:32",
+            "02:14",
+            "04:50"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "she's just happy to get into this business as well",
+            "count": 2
+        },
+        {
+            "phrase": "you find her company pleasurable",
+            "count": 1
+        },
+        {
+            "phrase": "linda's broad experience in operations finance including divisional controllership manufacturing and costing and treasury with large multi-national manufacturers and public technology companies aligns well with the strategic initiatives we must execute to realize our operational and financial goals her strong experience base and proven management capabilities will greatly strengthen our senior management team",
+            "count": 1
+        },
+        {
+            "phrase": "is very much appreciated she works by conference call and other ways since she is often far away our area is 155 square kilometres with 105 lakes and only 2 000 houses",
+            "count": 1
+        }
+    ]
+}

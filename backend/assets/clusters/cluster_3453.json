@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:48",
+            "00:52",
+            "03:18",
+            "04:18",
+            "04:28"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "as you wish",
+            "count": 3
+        },
+        {
+            "phrase": "i most certainly won't",
+            "count": 1
+        },
+        {
+            "phrase": "if ever i wish to yes and why do you ask",
+            "count": 1
+        },
+        {
+            "phrase": "no i don't wish that",
+            "count": 1
+        }
+    ]
+}

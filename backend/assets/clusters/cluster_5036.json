@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "02:04",
+            "03:41"
+        ],
+        "label": "operation"
+    },
+    "clusterList": [
+        {
+            "phrase": "operation noble shield",
+            "count": 1
+        },
+        {
+            "phrase": "early wci shield",
+            "count": 1
+        },
+        {
+            "phrase": "the wb shield",
+            "count": 1
+        },
+        {
+            "phrase": "the shield returns",
+            "count": 1
+        }
+    ]
+}

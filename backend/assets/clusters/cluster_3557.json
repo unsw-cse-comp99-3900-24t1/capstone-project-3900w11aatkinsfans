@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:05",
+            "02:25",
+            "03:05",
+            "03:44"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the times they are a-changin",
+            "count": 1
+        },
+        {
+            "phrase": "the times demand a radical new phase",
+            "count": 1
+        },
+        {
+            "phrase": "the days are long and the years are short",
+            "count": 1
+        },
+        {
+            "phrase": "signs of the times",
+            "count": 1
+        },
+        {
+            "phrase": "the days go so slow and the years go so fast",
+            "count": 1
+        }
+    ]
+}

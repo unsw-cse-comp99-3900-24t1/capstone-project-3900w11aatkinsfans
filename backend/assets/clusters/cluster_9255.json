@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "05:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am not a dolphin i do not work for food",
+            "count": 1
+        },
+        {
+            "phrase": "lobster won't take you to work",
+            "count": 1
+        }
+    ]
+}

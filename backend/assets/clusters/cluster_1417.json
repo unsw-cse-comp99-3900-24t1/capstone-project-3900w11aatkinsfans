@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            3,
+            1
+        ],
+        "xLabels": [
+            "03:47",
+            "03:51",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:13",
+            "04:23",
+            "04:28",
+            "04:32"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he went out of his way to say that he didn't say that and i think you've got to take him on face value",
+            "count": 9
+        },
+        {
+            "phrase": "why should i say anything myself isn't it obvious that i agree with him",
+            "count": 2
+        },
+        {
+            "phrase": "i understand why some people have trouble with him because he says things sometimes that i'm not sure he actually even means",
+            "count": 1
+        }
+    ]
+}

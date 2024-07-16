@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "00:55",
+            "00:56",
+            "01:29",
+            "01:40",
+            "01:50",
+            "02:08",
+            "02:13",
+            "02:24",
+            "02:26",
+            "02:28",
+            "02:46",
+            "02:47",
+            "03:08",
+            "03:34",
+            "04:26",
+            "04:59",
+            "05:05"
+        ],
+        "label": "evidence"
+    },
+    "clusterList": [
+        {
+            "phrase": "this program has helped us to take potential mass murderers off the streets before they have a chance to kill",
+            "count": 5
+        },
+        {
+            "phrase": "evidence shows that people with mental health problems are in fact far more likely to be the victims of violent crime than the perpetrators",
+            "count": 2
+        },
+        {
+            "phrase": "social issues crime and safety issues are at the bottom of the list",
+            "count": 2
+        },
+        {
+            "phrase": "crime rates and irresponsibility among negroes are a fact of life which must be faced",
+            "count": 2
+        },
+        {
+            "phrase": "homicide rates in the usa are triple those in canada",
+            "count": 1
+        },
+        {
+            "phrase": "more prisons create more offenders and make communities less safe",
+            "count": 1
+        },
+        {
+            "phrase": "when you have violent crime people start getting involved and that helps address the overall crime rate",
+            "count": 1
+        },
+        {
+            "phrase": "domestic violence can pretty much stem from any crime and lead to any crime",
+            "count": 1
+        },
+        {
+            "phrase": "if a violent aggressor comes into their assembly and starts shooting someone these armed individuals can take actions immediately to bring that to a stop",
+            "count": 1
+        },
+        {
+            "phrase": "i know that when after-school program are funded and more kids have something to do we're going to see that spike in juvenile crime start to diminish",
+            "count": 1
+        },
+        {
+            "phrase": "more guns less crime understanding crime and gun control laws",
+            "count": 1
+        },
+        {
+            "phrase": "tough on crime tough on the causes of crime",
+            "count": 1
+        }
+    ]
+}

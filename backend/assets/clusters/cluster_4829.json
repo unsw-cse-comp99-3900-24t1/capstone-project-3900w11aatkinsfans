@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:27",
+            "01:14"
+        ],
+        "label": "purchase"
+    },
+    "clusterList": [
+        {
+            "phrase": "purchase new subscription",
+            "count": 1
+        },
+        {
+            "phrase": "display renew subscriptions",
+            "count": 1
+        },
+        {
+            "phrase": "i was actually waiting for pay day to get my renewals and it just happened to fall on the last day of the month",
+            "count": 1
+        },
+        {
+            "phrase": "why new subscriptions only why not a discount renewals",
+            "count": 1
+        }
+    ]
+}

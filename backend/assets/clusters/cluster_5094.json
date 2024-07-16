@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:56",
+            "02:23",
+            "02:34",
+            "03:43"
+        ],
+        "label": "instant"
+    },
+    "clusterList": [
+        {
+            "phrase": "instant english service for translation",
+            "count": 2
+        },
+        {
+            "phrase": "as a freelancer you can charge around rs 1 000 per page for any translation work that you do",
+            "count": 1
+        },
+        {
+            "phrase": "we're in the first stages of planning some agencies will have to translate documents online some with branch offices may have to hire people",
+            "count": 1
+        }
+    ]
+}

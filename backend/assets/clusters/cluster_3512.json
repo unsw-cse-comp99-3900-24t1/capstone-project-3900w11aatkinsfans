@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:38",
+            "03:39",
+            "04:09",
+            "04:13"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "at this time jamar and his family need to focus their attention on the issues that have brought jamar to this point",
+            "count": 4
+        },
+        {
+            "phrase": "at this time jamar and his family need to focus their attention on the issues that have brought jamar to this point weber said in a statement posted on the team's web site",
+            "count": 1
+        }
+    ]
+}

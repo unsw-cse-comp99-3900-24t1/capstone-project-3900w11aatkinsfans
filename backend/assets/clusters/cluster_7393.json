@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:37",
+            "03:42"
+        ],
+        "label": "lieberman"
+    },
+    "clusterList": [
+        {
+            "phrase": "lieberman took a different tack saying the ad simply compares the two candidates in a",
+            "count": 1
+        },
+        {
+            "phrase": "the matter contained in the advertisement was equally false as to both parties",
+            "count": 1
+        },
+        {
+            "phrase": "as the advertisement made no attacks of a personal character upon any individual and otherwise met the advertising acceptability standards promulgated",
+            "count": 1
+        }
+    ]
+}

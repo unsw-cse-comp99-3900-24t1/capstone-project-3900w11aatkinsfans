@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:47",
+            "01:57",
+            "02:09",
+            "02:23",
+            "02:24",
+            "02:28",
+            "02:51",
+            "03:06",
+            "03:24",
+            "03:33",
+            "04:23",
+            "04:28",
+            "05:01"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you came out here with us you'd see that we have supportive crowds who really ask us about the issues",
+            "count": 15
+        }
+    ]
+}

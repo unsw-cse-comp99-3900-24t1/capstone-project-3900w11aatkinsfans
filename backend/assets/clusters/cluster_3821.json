@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:19",
+            "04:06",
+            "04:12",
+            "04:51"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how awesome are your deeds so great is your power that your enemies cringe before you",
+            "count": 1
+        },
+        {
+            "phrase": "god be merciful to me a sinner",
+            "count": 1
+        },
+        {
+            "phrase": "so many people want to bring me down and i can't wait to prove them wrong if they believe what they read about me they automatically persecute and torment me",
+            "count": 1
+        },
+        {
+            "phrase": "false words are not only evil in themselves but they infect the soul with evil",
+            "count": 1
+        },
+        {
+            "phrase": "blessed is he who is insulted because of me",
+            "count": 1
+        }
+    ]
+}

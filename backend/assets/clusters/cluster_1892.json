@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:56",
+            "01:05",
+            "01:19",
+            "01:43",
+            "02:28",
+            "04:19",
+            "04:23"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "he was dead before we realized what was going on",
+            "count": 2
+        },
+        {
+            "phrase": "when we saw the head we knew he was dead",
+            "count": 2
+        },
+        {
+            "phrase": "why don't we pretend he didn't die just for a bit",
+            "count": 1
+        },
+        {
+            "phrase": "and then he was shot dead",
+            "count": 1
+        },
+        {
+            "phrase": "he was found dead with his head in a bucket of water",
+            "count": 1
+        },
+        {
+            "phrase": "there was a big hole in his head and we couldn't save his life",
+            "count": 1
+        },
+        {
+            "phrase": "i always knew he would wind up dead",
+            "count": 1
+        }
+    ]
+}

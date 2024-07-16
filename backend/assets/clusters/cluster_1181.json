@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "00:43",
+            "01:07",
+            "01:15",
+            "01:19",
+            "03:28",
+            "04:09",
+            "04:13",
+            "04:20",
+            "04:28",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we the people",
+            "count": 3
+        },
+        {
+            "phrase": "we are for real",
+            "count": 1
+        },
+        {
+            "phrase": "no we are one",
+            "count": 1
+        },
+        {
+            "phrase": "we try our best",
+            "count": 1
+        },
+        {
+            "phrase": "where were we",
+            "count": 1
+        },
+        {
+            "phrase": "we are starstuff",
+            "count": 1
+        },
+        {
+            "phrase": "we are italians we are italians",
+            "count": 1
+        },
+        {
+            "phrase": "to be who we are",
+            "count": 1
+        },
+        {
+            "phrase": "we are the beaver",
+            "count": 1
+        },
+        {
+            "phrase": "we are revolutionaries",
+            "count": 1
+        },
+        {
+            "phrase": "and what's about us",
+            "count": 1
+        }
+    ]
+}

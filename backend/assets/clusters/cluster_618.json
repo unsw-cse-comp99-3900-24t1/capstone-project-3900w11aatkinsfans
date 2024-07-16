@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "01:23",
+            "01:47",
+            "01:52",
+            "02:01",
+            "02:07",
+            "02:15",
+            "02:23",
+            "02:28",
+            "02:32",
+            "02:35",
+            "02:42",
+            "04:08",
+            "04:32",
+            "04:46",
+            "04:51",
+            "05:01"
+        ],
+        "label": "mary"
+    },
+    "clusterList": [
+        {
+            "phrase": "lady by the sea",
+            "count": 6
+        },
+        {
+            "phrase": "the white mary",
+            "count": 4
+        },
+        {
+            "phrase": "mary grace and hope in christ",
+            "count": 2
+        },
+        {
+            "phrase": "marys of the sea",
+            "count": 2
+        },
+        {
+            "phrase": "the little mermaid",
+            "count": 2
+        },
+        {
+            "phrase": "a mother ship",
+            "count": 1
+        },
+        {
+            "phrase": "the seabase and true love",
+            "count": 1
+        },
+        {
+            "phrase": "the pirate mistress",
+            "count": 1
+        },
+        {
+            "phrase": "the love boat",
+            "count": 1
+        },
+        {
+            "phrase": "the white ship",
+            "count": 1
+        }
+    ]
+}

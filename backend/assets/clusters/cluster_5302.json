@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:57",
+            "03:36",
+            "04:18",
+            "04:24"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the trolley problem",
+            "count": 1
+        },
+        {
+            "phrase": "the short bus",
+            "count": 1
+        },
+        {
+            "phrase": "move that bus",
+            "count": 1
+        },
+        {
+            "phrase": "eeee this bus so old surely very uncomfortable one",
+            "count": 1
+        }
+    ]
+}

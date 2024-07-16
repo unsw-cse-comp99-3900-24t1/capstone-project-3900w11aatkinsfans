@@ -1,0 +1,97 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:14",
+            "01:01",
+            "01:05",
+            "02:14",
+            "02:17",
+            "03:17",
+            "03:18",
+            "03:48",
+            "03:50",
+            "04:05",
+            "04:18",
+            "04:23",
+            "04:24",
+            "04:45"
+        ],
+        "label": "oooh"
+    },
+    "clusterList": [
+        {
+            "phrase": "baby it's cold outside",
+            "count": 3
+        },
+        {
+            "phrase": "oooh it's cold in here",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know that it is that hot",
+            "count": 2
+        },
+        {
+            "phrase": "it is hot",
+            "count": 2
+        },
+        {
+            "phrase": "how terribly hot it is in here",
+            "count": 1
+        },
+        {
+            "phrase": "it's not hot here that's why we're here",
+            "count": 1
+        },
+        {
+            "phrase": "it's too hard hot",
+            "count": 1
+        },
+        {
+            "phrase": "it's really cold out here",
+            "count": 1
+        },
+        {
+            "phrase": "wow is it hot in here",
+            "count": 1
+        },
+        {
+            "phrase": "it's too hot outside",
+            "count": 1
+        },
+        {
+            "phrase": "it is too hot this is not good for my wife and family",
+            "count": 1
+        },
+        {
+            "phrase": "it's getting cold",
+            "count": 1
+        },
+        {
+            "phrase": "due to weather",
+            "count": 1
+        },
+        {
+            "phrase": "10 things to do when its hot outside",
+            "count": 1
+        }
+    ]
+}

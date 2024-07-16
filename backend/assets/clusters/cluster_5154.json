@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:33",
+            "02:14",
+            "02:49"
+        ],
+        "label": "impress"
+    },
+    "clusterList": [
+        {
+            "phrase": "why are women so self centered",
+            "count": 2
+        },
+        {
+            "phrase": "impress the ladies",
+            "count": 1
+        },
+        {
+            "phrase": "a lot of women are jealous",
+            "count": 1
+        }
+    ]
+}

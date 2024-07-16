@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:51",
+            "03:37",
+            "03:41",
+            "04:07"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never heard any such claims until after she was fired and most of the allegations occurred while we were both with another firm and before i was with my new firm she called and asked to come to work for us",
+            "count": 2
+        },
+        {
+            "phrase": "you serve for 23 years it's within the legal rights of the contract to give her severance pay",
+            "count": 1
+        },
+        {
+            "phrase": "lease termination and severance costs",
+            "count": 1
+        },
+        {
+            "phrase": "unreasonable and excessive severance provision",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:01",
+            "03:18",
+            "03:59"
+        ],
+        "label": "faints"
+    },
+    "clusterList": [
+        {
+            "phrase": "faints into darkness",
+            "count": 1
+        },
+        {
+            "phrase": "your soul was coming out your eyes",
+            "count": 1
+        },
+        {
+            "phrase": "bright eyes burning like fire bright eyes how can you close and fail",
+            "count": 1
+        },
+        {
+            "phrase": "night brings terror strange alien forms move restlessly across the face of the earth fear horror and death follow in their wake the sky is dark the moon has not yet risen the stars seem too frightened to shine",
+            "count": 1
+        }
+    ]
+}

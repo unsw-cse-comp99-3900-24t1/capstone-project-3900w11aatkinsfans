@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:19",
+            "02:00",
+            "02:33",
+            "02:46",
+            "04:08"
+        ],
+        "label": "come"
+    },
+    "clusterList": [
+        {
+            "phrase": "take all comers",
+            "count": 2
+        },
+        {
+            "phrase": "come what may",
+            "count": 1
+        },
+        {
+            "phrase": "cum with me bitch",
+            "count": 1
+        },
+        {
+            "phrase": "come on over",
+            "count": 1
+        },
+        {
+            "phrase": "come with me bill",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "00:51",
+            "01:56",
+            "02:25",
+            "04:44"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are likely to be subordinate to measures to promote local participation in government and economic programs to spur developments as well as efforts to understand and address the grievances that often lie at the heart of insurgencies",
+            "count": 3
+        },
+        {
+            "phrase": "multi-pronged strategy that is military force development and empowerment of the people using force alone is not the answer",
+            "count": 1
+        },
+        {
+            "phrase": "measures to promote local participation in government and economic programs to spur development as well as efforts to understand and address the grievances that often lie at the heart of insurgencies",
+            "count": 1
+        }
+    ]
+}

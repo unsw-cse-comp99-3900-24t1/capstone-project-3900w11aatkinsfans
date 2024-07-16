@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "00:56",
+            "01:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think this announcement today of a major new sponsor for australian rules football that hasn't been involved before really does show that we can put together a serious business case",
+            "count": 2
+        },
+        {
+            "phrase": "we may be a small state population-wise but we have a long proud history of australian football being played in tasmania we are passionate supporters of the game and increasingly we're seeing that we can put together a sustainable business case",
+            "count": 2
+        },
+        {
+            "phrase": "the afl was reluctant to give tom wills the recognition he deserves we started working towards this in november last year but now they've afl come on board and it's really good they have got kevin sheedy to come up here",
+            "count": 1
+        }
+    ]
+}

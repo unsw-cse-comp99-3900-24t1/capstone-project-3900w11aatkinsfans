@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:36",
+            "01:50",
+            "04:59"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because we moved them along",
+            "count": 1
+        },
+        {
+            "phrase": "we were involved we couldn't get where they wanted to be and we couldn't get where we wanted to be",
+            "count": 1
+        },
+        {
+            "phrase": "we just couldn't get where they wanted to be and we couldn't get where we wanted to be",
+            "count": 1
+        }
+    ]
+}

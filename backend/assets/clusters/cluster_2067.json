@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:58",
+            "01:38",
+            "02:19",
+            "03:00",
+            "03:41",
+            "04:19",
+            "05:01"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they said you can take your shoes off this is family stuff so i did",
+            "count": 8
+        }
+    ]
+}

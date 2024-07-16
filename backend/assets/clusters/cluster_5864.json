@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "04:05",
+            "04:10"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when iraq decided whose plan for their future was better it seems they had a different opinion",
+            "count": 1
+        },
+        {
+            "phrase": "mr gates and mr cheney made some comments about military choice according to the problems that the americans face and their disastrous situation in iraq and afghanistan and their interior problems we think it would be unlikely the americans would take the decision to get themselves into a new fiasco the consequences of which they themselves have acknowledged would be painful for the region and the world",
+            "count": 1
+        },
+        {
+            "phrase": "you have to balance it in terms of a world view of iraq as opposed to matching iraq to whatever countries in the world you would judge to be best in terms of governance",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:32",
+            "01:52",
+            "02:51",
+            "03:43",
+            "03:54"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are so many things i could do to make this taste better",
+            "count": 1
+        },
+        {
+            "phrase": "taste exactly like a non-vegan grunt",
+            "count": 1
+        },
+        {
+            "phrase": "that's the flavor of what i'm finding",
+            "count": 1
+        },
+        {
+            "phrase": "its drinking the water thats so sweet",
+            "count": 1
+        },
+        {
+            "phrase": "this little treat is near the puddings and is to die for it's kind of like an apple pie with sugar-free custard on top it's listed as a dietary exchange for dairy and fiber but is tasty too",
+            "count": 1
+        }
+    ]
+}

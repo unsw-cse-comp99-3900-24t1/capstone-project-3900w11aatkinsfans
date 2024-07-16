@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:56"
+        ],
+        "label": "very"
+    },
+    "clusterList": [
+        {
+            "phrase": "very well welcome to my factory",
+            "count": 1
+        },
+        {
+            "phrase": "welcome to setup",
+            "count": 1
+        }
+    ]
+}

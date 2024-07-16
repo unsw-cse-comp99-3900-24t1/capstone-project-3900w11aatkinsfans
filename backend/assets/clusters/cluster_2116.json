@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:30",
+            "01:08",
+            "02:00",
+            "03:35",
+            "04:13",
+            "04:17",
+            "04:32"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "after a long and careful study it was clear it was not the same people giving the sample",
+            "count": 2
+        },
+        {
+            "phrase": "it's an animal study and it's a relatively small sample",
+            "count": 2
+        },
+        {
+            "phrase": "but after thursday morning's tests for the first time in a while they were able to give me a different answer and a different problem",
+            "count": 1
+        },
+        {
+            "phrase": "and if everything was all right when the samples were given and it was confirmed by the protocol i think that the wada officers but not the athletes should be questioned when it was discovered that the samples were different",
+            "count": 1
+        },
+        {
+            "phrase": "they were obviously giving someone else's samples",
+            "count": 1
+        },
+        {
+            "phrase": "that's why the samples were so different the coffee we got last year probably came from different farmers than the ones who grew the samples this year",
+            "count": 1
+        }
+    ]
+}

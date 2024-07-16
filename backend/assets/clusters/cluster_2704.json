@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:27",
+            "04:11",
+            "04:36",
+            "04:54"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm pretty internally motivated i have never needed anyone to tell me to get up kind of thing",
+            "count": 3
+        },
+        {
+            "phrase": "his motivation is that he just hates to lose",
+            "count": 2
+        },
+        {
+            "phrase": "i don't need any extra motivation my motivation is to win",
+            "count": 1
+        },
+        {
+            "phrase": "everybody wants to win but being around here and getting to learn from each other is inspirational",
+            "count": 1
+        }
+    ]
+}

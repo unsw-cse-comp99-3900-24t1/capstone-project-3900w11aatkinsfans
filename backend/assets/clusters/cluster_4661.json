@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:40",
+            "01:00",
+            "01:13"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a scriptmanager control must exist on the current page",
+            "count": 2
+        },
+        {
+            "phrase": "the control with id productupdatepanel requires a scriptmanager can't find scriptmanager make sure it's added before you use this control etc",
+            "count": 2
+        }
+    ]
+}

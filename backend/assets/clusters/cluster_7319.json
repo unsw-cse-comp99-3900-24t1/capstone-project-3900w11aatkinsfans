@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:24",
+            "04:15",
+            "04:35"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the win is obviously why you play because if you keep score you want to win",
+            "count": 1
+        },
+        {
+            "phrase": "it's just another opponent that you have to play well against in order to get to the next step",
+            "count": 1
+        },
+        {
+            "phrase": "and then the next time the player comes in maybe you win it back from them",
+            "count": 1
+        }
+    ]
+}

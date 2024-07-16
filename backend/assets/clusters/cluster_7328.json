@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:27"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the opinion that art should have nothing to do with politics is itself a political attitude",
+            "count": 1
+        },
+        {
+            "phrase": "apolitical art and artless politics are the fruit of a divide-and conquer strategy that weakens both art and politics ignite each other and need each other",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think it is the function of art to be pleasing art is not democratic",
+            "count": 1
+        }
+    ]
+}

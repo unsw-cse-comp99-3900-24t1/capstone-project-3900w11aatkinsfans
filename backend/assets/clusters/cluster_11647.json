@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:50",
+            "04:28"
+        ],
+        "label": "doctor"
+    },
+    "clusterList": [
+        {
+            "phrase": "doctor and boy",
+            "count": 1
+        },
+        {
+            "phrase": "tammy and the doctor",
+            "count": 1
+        }
+    ]
+}

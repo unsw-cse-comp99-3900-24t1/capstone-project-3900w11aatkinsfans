@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:01",
+            "01:03",
+            "03:17",
+            "04:28"
+        ],
+        "label": "intersections"
+    },
+    "clusterList": [
+        {
+            "phrase": "intersections create over 70 percent of traffic accidents",
+            "count": 1
+        },
+        {
+            "phrase": "the trends unfortunately are increasing both in terms of accident numbers and in rates",
+            "count": 1
+        },
+        {
+            "phrase": "i would hope people wouldn't single out this kind of accident and say it's because of the program but recognize that there's just an inhernet risk of accident in lots of the things we all do",
+            "count": 1
+        },
+        {
+            "phrase": "motor vehicle accidents are not really easy there's no two accidents the same and we'd really prefer people weren't involved in accidents like this",
+            "count": 1
+        },
+        {
+            "phrase": "about 30 percent of accidents are secondary accidents and about 20 percent of those usually involve an injury or fatality so we look at these as being a safety tool",
+            "count": 1
+        }
+    ]
+}

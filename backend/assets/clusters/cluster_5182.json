@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "02:14",
+            "02:57"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i need to stand up for what i know is right",
+            "count": 1
+        },
+        {
+            "phrase": "which i agree i did a lot of stand-up i'm comfortable in my stand-up now",
+            "count": 1
+        },
+        {
+            "phrase": "do you need help to stand up",
+            "count": 1
+        },
+        {
+            "phrase": "help your friend stand up",
+            "count": 1
+        }
+    ]
+}

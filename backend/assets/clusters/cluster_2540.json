@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "00:27",
+            "01:00",
+            "01:37",
+            "02:19",
+            "03:00"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "now i know where my 4",
+            "count": 2
+        },
+        {
+            "phrase": "we're at the location you told us and there is no body here",
+            "count": 1
+        },
+        {
+            "phrase": "i missed my location",
+            "count": 1
+        },
+        {
+            "phrase": "where's my phone",
+            "count": 1
+        },
+        {
+            "phrase": "where were you on sunday",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know where my polling place is",
+            "count": 1
+        }
+    ]
+}

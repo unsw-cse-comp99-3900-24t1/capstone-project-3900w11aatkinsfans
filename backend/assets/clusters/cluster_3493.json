@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:50",
+            "02:14",
+            "02:22"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to be honest i didn't think that it would happen in this tournament because last week i played really bad",
+            "count": 2
+        },
+        {
+            "phrase": "my no 1 priority is not to go back to junior but if it happens playing in this tournament is a huge thing in itself so i don't think it will be disappointing at all",
+            "count": 2
+        },
+        {
+            "phrase": "it's really confusing my opponents and i could see it happening",
+            "count": 1
+        }
+    ]
+}

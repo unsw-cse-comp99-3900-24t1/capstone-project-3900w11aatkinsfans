@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "03:11",
+            "04:55"
+        ],
+        "label": "altogether"
+    },
+    "clusterList": [
+        {
+            "phrase": "altogether a great number of institutes took part in both studies",
+            "count": 1
+        },
+        {
+            "phrase": "in the second year of amgen scholars we saw a 40 percent increase in applicants compared to the first year of the program",
+            "count": 1
+        },
+        {
+            "phrase": "advanced group of scientific and technological work in national institutions of higher learning",
+            "count": 1
+        }
+    ]
+}

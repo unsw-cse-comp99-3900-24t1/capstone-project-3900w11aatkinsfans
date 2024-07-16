@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:25",
+            "02:29",
+            "04:03",
+            "04:22"
+        ],
+        "label": "scotland"
+    },
+    "clusterList": [
+        {
+            "phrase": "scotland here we come",
+            "count": 3
+        },
+        {
+            "phrase": "great british cooking",
+            "count": 2
+        },
+        {
+            "phrase": "scotland for dummies",
+            "count": 1
+        },
+        {
+            "phrase": "curious scotland tales from a hidden history",
+            "count": 1
+        },
+        {
+            "phrase": "scotland and its whiskies",
+            "count": 1
+        }
+    ]
+}

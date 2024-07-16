@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:52",
+            "01:33"
+        ],
+        "label": "return"
+    },
+    "clusterList": [
+        {
+            "phrase": "return scan mask 0 amp 0x0080",
+            "count": 3
+        }
+    ]
+}

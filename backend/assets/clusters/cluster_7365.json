@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:13",
+            "02:23",
+            "04:29"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am going for it now because tomorrow may never come",
+            "count": 2
+        },
+        {
+            "phrase": "i should probably get over to d myself make sure everything's ready for tomorrow",
+            "count": 1
+        }
+    ]
+}

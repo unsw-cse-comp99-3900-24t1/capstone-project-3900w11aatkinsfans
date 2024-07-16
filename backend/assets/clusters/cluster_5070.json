@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "02:51",
+            "04:55",
+            "05:05"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i made some phone calls and threw some ideas out but we weren't really close to anything",
+            "count": 2
+        },
+        {
+            "phrase": "we've got a couple ideas",
+            "count": 1
+        },
+        {
+            "phrase": "we're trying to figure out some ideas for it",
+            "count": 1
+        }
+    ]
+}

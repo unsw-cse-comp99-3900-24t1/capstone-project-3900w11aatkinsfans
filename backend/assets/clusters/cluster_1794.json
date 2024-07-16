@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "01:42",
+            "02:29",
+            "03:56",
+            "04:24",
+            "04:29"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have not accepted any of the proposals the government is now getting organised this is a normal process",
+            "count": 2
+        },
+        {
+            "phrase": "there is no basis for the state assembly to demand such a thing",
+            "count": 1
+        },
+        {
+            "phrase": "pas rejects any form of cooperation with umno or bari-san nasional at state or federal level we will not be forming any government with them this is no longer an issue",
+            "count": 1
+        },
+        {
+            "phrase": "this organization does not exercise any regional sovereignty over the west bank",
+            "count": 1
+        },
+        {
+            "phrase": "unfortunately local power has been taken away so that the decision rests entirely with the state government",
+            "count": 1
+        },
+        {
+            "phrase": "pas leaders have assured me that they have no desire of leaving the pakatan and joining barisan national front or merging with umno",
+            "count": 1
+        },
+        {
+            "phrase": "the issue of umno's offer to pas therefore does not arise",
+            "count": 1
+        },
+        {
+            "phrase": "pas leaders have assured me that they have no desire of leaving the pakatan and joining the barisan or merging with umno",
+            "count": 1
+        }
+    ]
+}

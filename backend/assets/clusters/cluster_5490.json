@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "03:06",
+            "04:32",
+            "04:55"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not saying we didn't have that in the past but now we've got bigger guys that can run",
+            "count": 2
+        },
+        {
+            "phrase": "we had lamarr in mind because they have similar body types and approaches to rushing",
+            "count": 1
+        },
+        {
+            "phrase": "we needed a guy in that capacity to add to the competition when we lost kevin marion a couple of days back",
+            "count": 1
+        }
+    ]
+}

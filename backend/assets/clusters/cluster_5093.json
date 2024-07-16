@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "02:55",
+            "04:18"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because if you're comfortable then nothing will change to change our community we need to step outside our comfort zone so are we willing to be uncomfortable",
+            "count": 1
+        },
+        {
+            "phrase": "we are all going to be uncomfortable for a while if we are going to create serious community change are we willing to do so",
+            "count": 1
+        },
+        {
+            "phrase": "that makes more people willing to move out of our comfort zones",
+            "count": 1
+        },
+        {
+            "phrase": "why don't we go upstairs to your room and make ourselves more comfortable",
+            "count": 1
+        }
+    ]
+}

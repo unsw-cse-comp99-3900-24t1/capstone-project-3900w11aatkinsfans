@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:06",
+            "02:24",
+            "04:09"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm getting reps first team second team third team",
+            "count": 2
+        },
+        {
+            "phrase": "you want to be out there getting the reps but i'm just trying to get mental reps back there and be ready to go today",
+            "count": 2
+        }
+    ]
+}

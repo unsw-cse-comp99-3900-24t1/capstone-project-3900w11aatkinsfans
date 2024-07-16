@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "01:09",
+            "01:52",
+            "01:55",
+            "04:28"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a black male thing",
+            "count": 1
+        },
+        {
+            "phrase": "black gold original mix",
+            "count": 1
+        },
+        {
+            "phrase": "oakland raiders training camp silver black and blue",
+            "count": 1
+        },
+        {
+            "phrase": "a whiter shade of pale",
+            "count": 1
+        },
+        {
+            "phrase": "not black enough",
+            "count": 1
+        }
+    ]
+}

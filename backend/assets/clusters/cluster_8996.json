@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:02"
+        ],
+        "label": "overplayed"
+    },
+    "clusterList": [
+        {
+            "phrase": "overplayed his hand",
+            "count": 1
+        },
+        {
+            "phrase": "letting him off the hook",
+            "count": 1
+        }
+    ]
+}

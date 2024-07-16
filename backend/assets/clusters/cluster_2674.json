@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "03:00",
+            "03:10",
+            "03:51",
+            "04:28",
+            "04:32"
+        ],
+        "label": "little"
+    },
+    "clusterList": [
+        {
+            "phrase": "little ice age",
+            "count": 5
+        },
+        {
+            "phrase": "the beginning of the big thaw",
+            "count": 1
+        },
+        {
+            "phrase": "when the earth shook and the",
+            "count": 1
+        }
+    ]
+}

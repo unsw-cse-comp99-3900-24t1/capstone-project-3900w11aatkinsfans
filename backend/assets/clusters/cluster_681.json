@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:16",
+            "00:32",
+            "00:33",
+            "00:45",
+            "00:48",
+            "01:10",
+            "01:37",
+            "01:42",
+            "02:02",
+            "03:14",
+            "04:03",
+            "04:13",
+            "05:05"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "we ask for more but clients cannot give us more because they have no money",
+            "count": 7
+        },
+        {
+            "phrase": "our average loan size is 5m so we aren't going to have thousands of clients",
+            "count": 2
+        },
+        {
+            "phrase": "we deal with everybody but we don't make loans below 250 000 simply because we're just not geared to that level of business",
+            "count": 2
+        },
+        {
+            "phrase": "that being said we would have to have a minimum value of 500 000 of collateral that we were lending on",
+            "count": 2
+        },
+        {
+            "phrase": "we have an unused facility of 50m to lend",
+            "count": 1
+        },
+        {
+            "phrase": "a really small proportion of our client base",
+            "count": 1
+        },
+        {
+            "phrase": "even if i shut the business down i want the people to know that we never cheated one customer ever not even overcharged i bet there's not a company in the state that makes less per loan than we do i'm saying we do it in volume",
+            "count": 1
+        },
+        {
+            "phrase": "how about the 120 people we employ the other 80 to 100 or so who work for us as appraisers and closers that work in association with the mortgage industry",
+            "count": 1
+        },
+        {
+            "phrase": "smallest amount of debt",
+            "count": 1
+        },
+        {
+            "phrase": "my advice to small business is to be very careful and wary of loans to cover cash flow in a downturn in the economy",
+            "count": 1
+        }
+    ]
+}

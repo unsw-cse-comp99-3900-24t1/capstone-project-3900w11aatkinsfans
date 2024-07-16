@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:30",
+            "00:40",
+            "00:50",
+            "04:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was able physically to come back and play",
+            "count": 1
+        },
+        {
+            "phrase": "i had to scratch and claw my way into this league",
+            "count": 1
+        },
+        {
+            "phrase": "i had to become more of a playmaker with the tight checking and the rise of maclean on my team",
+            "count": 1
+        },
+        {
+            "phrase": "coming back to this team would be disappointing because it would mean i didn't make it in l a",
+            "count": 1
+        },
+        {
+            "phrase": "the 7th corps came looking for players and i tried out and made it",
+            "count": 1
+        }
+    ]
+}

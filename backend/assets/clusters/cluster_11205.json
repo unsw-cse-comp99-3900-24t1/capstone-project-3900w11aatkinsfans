@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:10",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i only had two beers",
+            "count": 1
+        },
+        {
+            "phrase": "all beer all the time",
+            "count": 1
+        }
+    ]
+}

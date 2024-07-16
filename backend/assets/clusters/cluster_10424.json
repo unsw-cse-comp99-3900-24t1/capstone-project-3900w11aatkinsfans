@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:02"
+        ],
+        "label": "facebook"
+    },
+    "clusterList": [
+        {
+            "phrase": "facebook facelift 5 things i like vs 5 things i dislike",
+            "count": 1
+        },
+        {
+            "phrase": "what do you love hate want to know about social networks",
+            "count": 1
+        }
+    ]
+}

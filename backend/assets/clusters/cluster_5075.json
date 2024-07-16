@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:10",
+            "02:14",
+            "04:42"
+        ],
+        "label": "on"
+    },
+    "clusterList": [
+        {
+            "phrase": "on paper this is my toughest fight we prepared though we watched a lot of tapes and i learned from them i really worked hard these past few fights and i am at my best i prepared",
+            "count": 2
+        },
+        {
+            "phrase": "but i tried my best i wanted to be focused on myself on my game on what i have to do in order to win i'm pleased you know how i handled the whole situation happy to get through this match",
+            "count": 1
+        },
+        {
+            "phrase": "one of the best things ever is that after the fight randy couture came up to me and said let's not focus on the win or loss let's focus on your performance",
+            "count": 1
+        }
+    ]
+}

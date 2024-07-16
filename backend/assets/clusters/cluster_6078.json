@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:29"
+        ],
+        "label": "emotionally"
+    },
+    "clusterList": [
+        {
+            "phrase": "emotionally honest friedman allows readers to experience things alongside him rather than merely gasp in awe at his heroics or sit clucking in judgment",
+            "count": 2
+        },
+        {
+            "phrase": "you couldn't even question his stories because you could see emotion in his face as he told them",
+            "count": 1
+        }
+    ]
+}

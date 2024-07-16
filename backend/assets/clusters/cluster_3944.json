@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:09",
+            "04:03",
+            "04:05",
+            "04:27"
+        ],
+        "label": "south-ish"
+    },
+    "clusterList": [
+        {
+            "phrase": "south-ish and west-ish of the galleria",
+            "count": 1
+        },
+        {
+            "phrase": "far east perl",
+            "count": 1
+        },
+        {
+            "phrase": "place of mexitli",
+            "count": 1
+        },
+        {
+            "phrase": "second city of the empire",
+            "count": 1
+        },
+        {
+            "phrase": "athens of the south",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            5,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:02",
+            "00:11",
+            "00:19",
+            "01:41",
+            "02:10",
+            "02:11",
+            "03:01",
+            "03:29",
+            "04:44"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a 30-watt light bulb giving us a laser show on mars",
+            "count": 9
+        },
+        {
+            "phrase": "when you can't make them see the light make them feel the heat",
+            "count": 5
+        },
+        {
+            "phrase": "hot soft light",
+            "count": 1
+        }
+    ]
+}

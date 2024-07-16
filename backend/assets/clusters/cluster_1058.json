@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:25",
+            "02:02",
+            "02:33",
+            "02:36",
+            "03:23",
+            "03:28",
+            "03:29",
+            "03:38",
+            "03:46",
+            "04:01",
+            "04:06",
+            "04:56",
+            "04:59"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is home",
+            "count": 2
+        },
+        {
+            "phrase": "i got my house already",
+            "count": 2
+        },
+        {
+            "phrase": "everybody wants to come home early",
+            "count": 2
+        },
+        {
+            "phrase": "to welcome home",
+            "count": 1
+        },
+        {
+            "phrase": "you want to go home now you are strong enough",
+            "count": 1
+        },
+        {
+            "phrase": "coming home to you",
+            "count": 1
+        },
+        {
+            "phrase": "return to home",
+            "count": 1
+        },
+        {
+            "phrase": "who wants to go home and get drunk",
+            "count": 1
+        },
+        {
+            "phrase": "i want to go to cassanda's house",
+            "count": 1
+        },
+        {
+            "phrase": "there must be another way i simply must get home",
+            "count": 1
+        },
+        {
+            "phrase": "i just want my daughter home",
+            "count": 1
+        }
+    ]
+}

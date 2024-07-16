@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:23",
+            "00:51",
+            "01:07",
+            "01:52",
+            "03:28",
+            "03:41",
+            "03:42"
+        ],
+        "label": "asking"
+    },
+    "clusterList": [
+        {
+            "phrase": "asking for flowers",
+            "count": 3
+        },
+        {
+            "phrase": "the flowers the gorgeous mystic multi-colored flowers are not the flowers of life but people yes people are the true flowers of life and it has been a most precious pleasure to have temporarily strolled in your garden",
+            "count": 1
+        },
+        {
+            "phrase": "hey look at the flowers",
+            "count": 1
+        },
+        {
+            "phrase": "do you dream about flowers",
+            "count": 1
+        },
+        {
+            "phrase": "are these the flowers you picked for me",
+            "count": 1
+        },
+        {
+            "phrase": "okay yes-they're mine",
+            "count": 1
+        }
+    ]
+}

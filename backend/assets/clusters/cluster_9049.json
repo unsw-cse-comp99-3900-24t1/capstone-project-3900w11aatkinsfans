@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "04:54"
+        ],
+        "label": "everybody"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody was already on the ground and motionless",
+            "count": 1
+        },
+        {
+            "phrase": "all seated on the ground",
+            "count": 1
+        }
+    ]
+}

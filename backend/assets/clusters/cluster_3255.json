@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "02:01",
+            "02:19",
+            "04:15",
+            "04:41",
+            "04:45"
+        ],
+        "label": "damn"
+    },
+    "clusterList": [
+        {
+            "phrase": "damn it and we were almost out of here",
+            "count": 1
+        },
+        {
+            "phrase": "we got smacked heaps we could not get out and i blanked out",
+            "count": 1
+        },
+        {
+            "phrase": "it was clear we had to get out of there",
+            "count": 1
+        },
+        {
+            "phrase": "when we got behind it could've been a situation where they said oh boy here we go again but it wasn't like that at all",
+            "count": 1
+        },
+        {
+            "phrase": "the way we were",
+            "count": 1
+        },
+        {
+            "phrase": "and we had to regroup",
+            "count": 1
+        }
+    ]
+}

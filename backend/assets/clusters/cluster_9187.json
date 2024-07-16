@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "05:05"
+        ],
+        "label": "diluting"
+    },
+    "clusterList": [
+        {
+            "phrase": "diluting the value of his good name",
+            "count": 1
+        },
+        {
+            "phrase": "clear his name before the election",
+            "count": 1
+        }
+    ]
+}

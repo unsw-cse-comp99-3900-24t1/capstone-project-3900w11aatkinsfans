@@ -1,0 +1,107 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:07",
+            "00:18",
+            "00:22",
+            "00:23",
+            "00:34",
+            "00:36",
+            "00:46",
+            "00:51",
+            "01:25",
+            "01:47",
+            "02:02",
+            "02:14",
+            "03:34",
+            "03:35",
+            "03:37",
+            "03:42",
+            "03:43",
+            "04:04",
+            "04:28",
+            "04:36",
+            "04:37"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a little bit like a free lunch without the calories",
+            "count": 10
+        },
+        {
+            "phrase": "free food and beer",
+            "count": 2
+        },
+        {
+            "phrase": "free and reduced meals",
+            "count": 2
+        },
+        {
+            "phrase": "we say you get a month's worth of meals in two hours",
+            "count": 2
+        },
+        {
+            "phrase": "i have to do it as i want my family to have good meals every day",
+            "count": 1
+        },
+        {
+            "phrase": "nourished not just fed",
+            "count": 1
+        },
+        {
+            "phrase": "we create meals based on what we put in not what we leave out",
+            "count": 1
+        },
+        {
+            "phrase": "cheap food policy",
+            "count": 1
+        },
+        {
+            "phrase": "food isn't cheap",
+            "count": 1
+        },
+        {
+            "phrase": "based on fairly conservative assumptions the total impact of these nutrition-related components of poor diet inactivity and obesity on medical costs to treat noncommunicable diseases labor productivity and national production are very large",
+            "count": 1
+        },
+        {
+            "phrase": "the menu is not the meal",
+            "count": 1
+        },
+        {
+            "phrase": "there is no free lunch",
+            "count": 1
+        },
+        {
+            "phrase": "expensive food and simple solutions",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "01:06",
+            "01:15",
+            "01:22",
+            "01:55",
+            "02:00",
+            "02:05",
+            "02:19",
+            "02:45",
+            "02:57",
+            "03:24",
+            "04:28",
+            "04:31",
+            "04:55",
+            "05:04"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "not only a real possibility but a probability",
+            "count": 3
+        },
+        {
+            "phrase": "i have to be realistic and i don't see a big chance",
+            "count": 2
+        },
+        {
+            "phrase": "what are my chances",
+            "count": 2
+        },
+        {
+            "phrase": "a pretty good chance",
+            "count": 1
+        },
+        {
+            "phrase": "haven't a chance",
+            "count": 1
+        },
+        {
+            "phrase": "but there are definitely no guarantees",
+            "count": 1
+        },
+        {
+            "phrase": "no way not a chance",
+            "count": 1
+        },
+        {
+            "phrase": "there is only one possibility",
+            "count": 1
+        },
+        {
+            "phrase": "one in one hundred billion chances but that would be cool you",
+            "count": 1
+        },
+        {
+            "phrase": "there is zero chance",
+            "count": 1
+        },
+        {
+            "phrase": "well that's the logic of i don't think that's unthinkable the question will be one of timing",
+            "count": 1
+        },
+        {
+            "phrase": "the impossible is possible",
+            "count": 1
+        },
+        {
+            "phrase": "more likely than not",
+            "count": 1
+        }
+    ]
+}

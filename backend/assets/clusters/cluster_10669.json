@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:14"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the port authority will attempt to refloat the iron king at the next high tide around 10 30am local time friday",
+            "count": 1
+        },
+        {
+            "phrase": "hoped the vessel would be moved on the next high tide which is around 1248 aest",
+            "count": 1
+        }
+    ]
+}

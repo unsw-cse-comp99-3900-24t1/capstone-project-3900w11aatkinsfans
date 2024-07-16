@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            22,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:10",
+            "00:11",
+            "00:32",
+            "00:51",
+            "01:07",
+            "01:21",
+            "01:34",
+            "02:02",
+            "02:14",
+            "02:51",
+            "03:14",
+            "03:18",
+            "04:41"
+        ],
+        "label": "www"
+    },
+    "clusterList": [
+        {
+            "phrase": "apple is pushing how green this is but it macbook air is",
+            "count": 22
+        },
+        {
+            "phrase": "www apple com",
+            "count": 5
+        },
+        {
+            "phrase": "been apple about it",
+            "count": 5
+        },
+        {
+            "phrase": "apple is a company that is pushed by a vision",
+            "count": 1
+        },
+        {
+            "phrase": "apple education k-12",
+            "count": 1
+        },
+        {
+            "phrase": "an apple a day",
+            "count": 1
+        },
+        {
+            "phrase": "complete the following sentence the apple iphone is",
+            "count": 1
+        },
+        {
+            "phrase": "that's not apple",
+            "count": 1
+        },
+        {
+            "phrase": "you want an apple",
+            "count": 1
+        },
+        {
+            "phrase": "you've gotta ask apple about that",
+            "count": 1
+        },
+        {
+            "phrase": "apple is the only company",
+            "count": 1
+        }
+    ]
+}

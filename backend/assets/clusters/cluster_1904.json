@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:27",
+            "00:53",
+            "01:51",
+            "02:24",
+            "04:19",
+            "04:33",
+            "04:42"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not going to address speculation",
+            "count": 5
+        },
+        {
+            "phrase": "i don't want to speculate right now",
+            "count": 2
+        },
+        {
+            "phrase": "don't waste your time on speculating and wait until the announcement",
+            "count": 1
+        },
+        {
+            "phrase": "it's probably premature to speculate although sometimes it is fun to speculate",
+            "count": 1
+        }
+    ]
+}

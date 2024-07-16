@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:08",
+            "03:12",
+            "03:13",
+            "04:55"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you have to understand the difference between needs and wants",
+            "count": 2
+        },
+        {
+            "phrase": "hierarchy of needs",
+            "count": 1
+        },
+        {
+            "phrase": "they have to have a need",
+            "count": 1
+        }
+    ]
+}

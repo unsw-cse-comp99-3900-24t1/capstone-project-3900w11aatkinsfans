@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:33",
+            "02:56",
+            "03:05",
+            "03:18",
+            "04:33"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well how in the world did this happen",
+            "count": 1
+        },
+        {
+            "phrase": "this happened that happened then this happened",
+            "count": 1
+        },
+        {
+            "phrase": "that didn't just happen",
+            "count": 1
+        },
+        {
+            "phrase": "always happened though",
+            "count": 1
+        },
+        {
+            "phrase": "oh sh that happened too slowly damn damn damn if it doesn't happen quickly it's no good",
+            "count": 1
+        },
+        {
+            "phrase": "that was gone pretty quickly",
+            "count": 1
+        }
+    ]
+}

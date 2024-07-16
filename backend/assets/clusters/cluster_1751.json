@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:36",
+            "01:00",
+            "01:10",
+            "01:13",
+            "01:18",
+            "01:57",
+            "03:34",
+            "04:23"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in this time of war america is grateful to all the men and women who have stepped up forward to defend us",
+            "count": 2
+        },
+        {
+            "phrase": "hey i'm a wounded war vet",
+            "count": 1
+        },
+        {
+            "phrase": "your national guard troops did this to me",
+            "count": 1
+        },
+        {
+            "phrase": "i wanted to take the opportunity to reassure you of my highest respect and support for you your mission and your people at this critical time",
+            "count": 1
+        },
+        {
+            "phrase": "what helped me in the reporting was the candor of the soldiers and their families",
+            "count": 1
+        },
+        {
+            "phrase": "it's really nice to be able to talk to older veterans and at the same time the guys who served at the same time as me",
+            "count": 1
+        },
+        {
+            "phrase": "a few of the older veterans came up to me and thanked me and i just returned the favor and said the same thing to them thanks",
+            "count": 1
+        },
+        {
+            "phrase": "freedom team salute is a testament to the army's commitment to continually reach out and recognize all veterans who served and the sacrifices they made for this country",
+            "count": 1
+        },
+        {
+            "phrase": "thank you for your service to your country",
+            "count": 1
+        }
+    ]
+}

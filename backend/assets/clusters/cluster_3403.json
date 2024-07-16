@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:46",
+            "02:04",
+            "03:14",
+            "03:18",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "we can't explain it",
+            "count": 2
+        },
+        {
+            "phrase": "i can't figure it out",
+            "count": 1
+        },
+        {
+            "phrase": "i've been asking for it but i have not seen that level of understanding",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know it just came to me",
+            "count": 1
+        },
+        {
+            "phrase": "i can't understand i can't bear this",
+            "count": 1
+        }
+    ]
+}

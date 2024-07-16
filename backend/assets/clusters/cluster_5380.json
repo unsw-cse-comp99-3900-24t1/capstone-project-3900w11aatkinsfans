@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:33",
+            "02:19",
+            "03:22"
+        ],
+        "label": "bowled"
+    },
+    "clusterList": [
+        {
+            "phrase": "bowled a fantastic spell",
+            "count": 2
+        },
+        {
+            "phrase": "i think 350 to 400 runs should be a good total on this wicket",
+            "count": 1
+        },
+        {
+            "phrase": "but he has been coming to mumbai recently because of cricket",
+            "count": 1
+        }
+    ]
+}

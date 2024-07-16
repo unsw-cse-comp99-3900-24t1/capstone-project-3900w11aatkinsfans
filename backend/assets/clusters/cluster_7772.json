@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:00"
+        ],
+        "label": "run"
+    },
+    "clusterList": [
+        {
+            "phrase": "run out of town",
+            "count": 1
+        },
+        {
+            "phrase": "loser leaves town",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            4,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:41",
+            "02:14",
+            "02:15",
+            "03:48",
+            "04:07",
+            "04:10",
+            "04:24"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "the four horseman",
+            "count": 3
+        },
+        {
+            "phrase": "legend of the condor heroes",
+            "count": 2
+        },
+        {
+            "phrase": "there's a witch a warrior and a seer",
+            "count": 1
+        },
+        {
+            "phrase": "a warrior that can glide in s-shaped course to attack",
+            "count": 1
+        },
+        {
+            "phrase": "the ultimate fighter 7",
+            "count": 1
+        },
+        {
+            "phrase": "the last samurai",
+            "count": 1
+        },
+        {
+            "phrase": "conan the barbarian",
+            "count": 1
+        },
+        {
+            "phrase": "the rainbow-headed warrior",
+            "count": 1
+        },
+        {
+            "phrase": "the legend of the condor heroes",
+            "count": 1
+        },
+        {
+            "phrase": "the 13th warrior",
+            "count": 1
+        }
+    ]
+}

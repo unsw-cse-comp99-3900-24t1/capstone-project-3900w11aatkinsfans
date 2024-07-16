@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:55",
+            "04:36"
+        ],
+        "label": "e-mail"
+    },
+    "clusterList": [
+        {
+            "phrase": "e-mail me when somenone replies to this comment",
+            "count": 2
+        }
+    ]
+}

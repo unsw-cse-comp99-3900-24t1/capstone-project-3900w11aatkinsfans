@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:27",
+            "01:01",
+            "01:10",
+            "01:15",
+            "01:18",
+            "01:38",
+            "01:46",
+            "01:57",
+            "02:32",
+            "02:42",
+            "03:05",
+            "04:18",
+            "04:36"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if you build it they will come",
+            "count": 3
+        },
+        {
+            "phrase": "we have projects that are ready to start construction",
+            "count": 3
+        },
+        {
+            "phrase": "we'll have a prototype ready by 2010",
+            "count": 3
+        },
+        {
+            "phrase": "we're going to have a working set of tools for them to do the most creative work with it",
+            "count": 2
+        },
+        {
+            "phrase": "i mean we're going to have to rebuild it's just a pile of rubble",
+            "count": 1
+        },
+        {
+            "phrase": "build it and they will come",
+            "count": 1
+        },
+        {
+            "phrase": "it's come down to this there's going to be a new pipeline built who's going to build it",
+            "count": 1
+        },
+        {
+            "phrase": "at some point something will be built",
+            "count": 1
+        },
+        {
+            "phrase": "it's being built in 13 months",
+            "count": 1
+        }
+    ]
+}

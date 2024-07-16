@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "02:24",
+            "02:39",
+            "02:44"
+        ],
+        "label": "by"
+    },
+    "clusterList": [
+        {
+            "phrase": "by 2012 our cancer services can and should becom",
+            "count": 1
+        },
+        {
+            "phrase": "treatment of advanced cancer that is meant to prolong life or change the course of this disease is not a covered benefit of the oregon health plan",
+            "count": 1
+        },
+        {
+            "phrase": "when the oregon health plan was created it was 15 years ago and there were not all the chemotherapy drugs that there are today",
+            "count": 1
+        },
+        {
+            "phrase": "wagner was notified that the oregon health plan wouldn't cover the treatment but that it would cover palliative or comfort care including if she chose doctor-assisted suicide",
+            "count": 1
+        }
+    ]
+}

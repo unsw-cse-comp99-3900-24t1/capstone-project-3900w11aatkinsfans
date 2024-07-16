@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "01:29",
+            "02:24",
+            "03:32"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "they say that they feel",
+            "count": 2
+        },
+        {
+            "phrase": "well you understand how they feel",
+            "count": 1
+        },
+        {
+            "phrase": "they say what say they let them say",
+            "count": 1
+        },
+        {
+            "phrase": "they're disappointed in themselves",
+            "count": 1
+        }
+    ]
+}

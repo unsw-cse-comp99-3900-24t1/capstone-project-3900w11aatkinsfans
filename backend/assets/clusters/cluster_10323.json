@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:52",
+            "02:14"
+        ],
+        "label": "rent"
+    },
+    "clusterList": [
+        {
+            "phrase": "rent a players",
+            "count": 1
+        },
+        {
+            "phrase": "for a rental player",
+            "count": 1
+        }
+    ]
+}

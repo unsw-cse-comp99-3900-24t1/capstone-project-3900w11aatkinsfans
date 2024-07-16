@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:48",
+            "04:51"
+        ],
+        "label": "knack"
+    },
+    "clusterList": [
+        {
+            "phrase": "knack of cooling",
+            "count": 2
+        },
+        {
+            "phrase": "cool things down",
+            "count": 1
+        }
+    ]
+}

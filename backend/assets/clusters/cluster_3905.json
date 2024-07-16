@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2
+        ],
+        "xLabels": [
+            "01:32",
+            "04:45"
+        ],
+        "label": "bats"
+    },
+    "clusterList": [
+        {
+            "phrase": "bats are very good at living in high-stress environments",
+            "count": 1
+        },
+        {
+            "phrase": "bats are major ecological role players",
+            "count": 1
+        },
+        {
+            "phrase": "we haven't known much about basic bat biology before this",
+            "count": 1
+        },
+        {
+            "phrase": "most people aren't real warm and fuzzy about bats but bats are an important part of our ecosystem",
+            "count": 1
+        },
+        {
+            "phrase": "bats are really good at eating insects that's their job",
+            "count": 1
+        }
+    ]
+}

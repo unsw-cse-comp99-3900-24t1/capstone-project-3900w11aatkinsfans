@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:29",
+            "01:06",
+            "03:23"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's one of those names you hate when you're growing up",
+            "count": 1
+        },
+        {
+            "phrase": "you think i don't know what it's like to be called names",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know the reason why i am the only one who doesn't have a nickname",
+            "count": 1
+        },
+        {
+            "phrase": "i hate the head of my son's school",
+            "count": 1
+        }
+    ]
+}

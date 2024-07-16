@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:09",
+            "01:51",
+            "04:02",
+            "04:45"
+        ],
+        "label": "hot"
+    },
+    "clusterList": [
+        {
+            "phrase": "hot fights summer in the city",
+            "count": 1
+        },
+        {
+            "phrase": "unlike other jazz events this one is free plus they get to enjoy food and drink in a very relaxed atmosphere",
+            "count": 1
+        },
+        {
+            "phrase": "taking place in golden gate park where the summer of love was launched 41 years ago this festival has a lineup that includes beck tom petty ben harper steve winwood devendra banhart plus tents for poetry comedy and even yoga",
+            "count": 1
+        },
+        {
+            "phrase": "there's no more beautiful american venue than red rocks high in the rocky mountains so this is a great summer destination to see rising stars vampire weekend foals tv on the radio and band of horses",
+            "count": 1
+        },
+        {
+            "phrase": "with multiple stages vip hospitality tents for vip guests a vendor marketplace and plenty of food and tasty treats the music is only half the fun as guests enjoy a wide variety of entertainment and cuisine",
+            "count": 1
+        },
+        {
+            "phrase": "this is a summer unlike any other we've had at the island resort amp casino",
+            "count": 1
+        },
+        {
+            "phrase": "there are a lot of wonderful venues in denton with live music and i am really impressed with who they are bringing in",
+            "count": 1
+        }
+    ]
+}

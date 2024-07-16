@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:29",
+            "03:10"
+        ],
+        "label": "wow"
+    },
+    "clusterList": [
+        {
+            "phrase": "wow today is quiet",
+            "count": 1
+        },
+        {
+            "phrase": "boy it sure is quiet tonight",
+            "count": 1
+        }
+    ]
+}

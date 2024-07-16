@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:39",
+            "05:01"
+        ],
+        "label": "hanging"
+    },
+    "clusterList": [
+        {
+            "phrase": "hanging on the telephone",
+            "count": 2
+        },
+        {
+            "phrase": "i'm at work you dialed my cell phone",
+            "count": 1
+        },
+        {
+            "phrase": "the telephone to the dead",
+            "count": 1
+        }
+    ]
+}

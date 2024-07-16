@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "02:36"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're too big to fail",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think we're getting anywhere i think we're repeating ourselves failure upon failure",
+            "count": 1
+        }
+    ]
+}

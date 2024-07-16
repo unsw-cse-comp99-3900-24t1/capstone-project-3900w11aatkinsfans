@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "01:41",
+            "03:42"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they put their pants on one leg at a time the same as we do",
+            "count": 1
+        },
+        {
+            "phrase": "the others put their pants on over their shorts or put a sweatshirt on over top of their tshirt",
+            "count": 1
+        },
+        {
+            "phrase": "the michigan players put their pants on one leg at a time same as everybody else",
+            "count": 1
+        }
+    ]
+}

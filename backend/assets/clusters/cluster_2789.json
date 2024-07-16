@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:30",
+            "02:09",
+            "02:57",
+            "04:33"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "how could i help this person",
+            "count": 2
+        },
+        {
+            "phrase": "help them to overcome the details of daily life hardships which are so many nowadays",
+            "count": 2
+        },
+        {
+            "phrase": "is there something i can create that will help people",
+            "count": 1
+        },
+        {
+            "phrase": "i want to help but i don't know where to start",
+            "count": 1
+        },
+        {
+            "phrase": "read articles about people who need help and talk about them",
+            "count": 1
+        }
+    ]
+}

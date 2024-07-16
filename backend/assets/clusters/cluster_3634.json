@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:37",
+            "01:00",
+            "02:00",
+            "04:28",
+            "04:47"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no significance for financial markets but it underscores the end chinese internet censorship a call for your voice by amnesty",
+            "count": 2
+        },
+        {
+            "phrase": "traders did not like the economic news today",
+            "count": 1
+        },
+        {
+            "phrase": "any weakness in the stock a buying opportunity",
+            "count": 1
+        },
+        {
+            "phrase": "notwithstanding volatile markets these are disappointing results",
+            "count": 1
+        }
+    ]
+}

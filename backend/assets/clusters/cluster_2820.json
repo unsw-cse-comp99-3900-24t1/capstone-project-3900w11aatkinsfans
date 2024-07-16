@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:10",
+            "01:51",
+            "04:18",
+            "04:21",
+            "04:55"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm sure it'll be appealed and it'll go on into next year and it'll become a moot issue",
+            "count": 2
+        },
+        {
+            "phrase": "i'm sure it will be appealed and it will go on into next year and it will become a moot issue",
+            "count": 2
+        },
+        {
+            "phrase": "we are reviewing the decision",
+            "count": 1
+        },
+        {
+            "phrase": "following the decision we were considering offering reinstatement but that is on hold since the union appealed the decision",
+            "count": 1
+        }
+    ]
+}

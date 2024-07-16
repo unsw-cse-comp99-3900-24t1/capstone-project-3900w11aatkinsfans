@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:33",
+            "01:06",
+            "02:00",
+            "04:13"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a capable ship which meets the requirements for which it was designed",
+            "count": 1
+        },
+        {
+            "phrase": "the navy brings a certain set of skills dealing with maritime operations",
+            "count": 1
+        },
+        {
+            "phrase": "modifying the ddg-1000s to support these missions is unaffordable from the navy's standpoint",
+            "count": 1
+        },
+        {
+            "phrase": "does this ship have the correct capabilities that our navy needs in the future",
+            "count": 1
+        },
+        {
+            "phrase": "it will be capable of transporting army and marine corps company-sized units with their vehicles or reconfigure to become a troop transport for an infantry battalion its 35-45 nautical miles per hour speed allows for rapid deployment and maneuver of conventional or special operations forces the jhsv will not be a combatant vessel its construction will be similar to high-speed commercial ferries used around the world and the design will include a flight deck and an off-load ramp which can be lowered on a pier or quay wall allowing vehicles to quickly drive off the ship jhsv's shallow draft will allow it access to small austere ports common in developing countries this makes the jhsv an extremely flexible asset ideal for three types of missions support of relief operations in small or damaged ports as a flexible logistics support vessel for the joint commander or as the key enabler for rapid transport of a marine light armored reconnaissance company or an army stryker unit",
+            "count": 1
+        },
+        {
+            "phrase": "the navy and the nation need submarines like new hampshire and i am confident that she will support the missions for which she was designed",
+            "count": 1
+        }
+    ]
+}

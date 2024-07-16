@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:28",
+            "02:46",
+            "03:19",
+            "04:42"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "the whole scope of human sexuality has got to be enlarged",
+            "count": 2
+        },
+        {
+            "phrase": "this was a way to overturn imperialism the patriarchy capitalism all kinds of oppressions and it was the sexual revolution",
+            "count": 1
+        },
+        {
+            "phrase": "increased sexual oppression",
+            "count": 1
+        }
+    ]
+}

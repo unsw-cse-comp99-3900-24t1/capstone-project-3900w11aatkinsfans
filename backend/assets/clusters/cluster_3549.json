@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:16",
+            "03:38",
+            "03:59"
+        ],
+        "label": "commitment"
+    },
+    "clusterList": [
+        {
+            "phrase": "commitment to transparency",
+            "count": 3
+        },
+        {
+            "phrase": "beginning of transparency legitimacy and counter-corruption",
+            "count": 1
+        },
+        {
+            "phrase": "beginning of transparency legitimacy and 12 corruption",
+            "count": 1
+        }
+    ]
+}

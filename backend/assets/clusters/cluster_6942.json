@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:11",
+            "03:06",
+            "04:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think that john is probably the most well-rounded person i have been with",
+            "count": 2
+        },
+        {
+            "phrase": "and i've had my differences with john over the years but i think he's the right man for the job at this time",
+            "count": 1
+        }
+    ]
+}

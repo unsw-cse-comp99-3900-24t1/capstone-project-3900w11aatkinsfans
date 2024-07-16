@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            10,
+            8
+        ],
+        "xLabels": [
+            "00:14",
+            "00:19",
+            "00:29",
+            "00:47",
+            "01:02",
+            "01:47",
+            "02:20",
+            "02:22",
+            "02:24",
+            "03:50"
+        ],
+        "label": "hope"
+    },
+    "clusterList": [
+        {
+            "phrase": "believe what you want",
+            "count": 10
+        },
+        {
+            "phrase": "change we can believe in",
+            "count": 9
+        },
+        {
+            "phrase": "hope and change",
+            "count": 3
+        },
+        {
+            "phrase": "change you can believe in",
+            "count": 2
+        },
+        {
+            "phrase": "you really don't think that a person can change",
+            "count": 1
+        },
+        {
+            "phrase": "be the change you want to see in this world",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:04"
+        ],
+        "label": "over"
+    },
+    "clusterList": [
+        {
+            "phrase": "over and over again we made architectural and technical design decisions that would yield an instrumentation framework that would be not just safe powerful and flexible but also usable the subtle bit here is that many of those decisions were not at the surface of the system where the discussion on the linux list seems to be currently mired but in its guts",
+            "count": 1
+        },
+        {
+            "phrase": "over and over again we made architectural and technical design decisions that would yield a distributed vcs be not just safe powerful and flexible but also usable the subtle bit here is that many of those decisions were not at the surface of the system where the discussions going on at the moment seem to be currently mired but in its guts",
+            "count": 1
+        }
+    ]
+}

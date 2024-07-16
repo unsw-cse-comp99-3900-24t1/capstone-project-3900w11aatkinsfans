@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05"
+        ],
+        "label": "extremely"
+    },
+    "clusterList": [
+        {
+            "phrase": "extremely interested in making things",
+            "count": 2
+        }
+    ]
+}

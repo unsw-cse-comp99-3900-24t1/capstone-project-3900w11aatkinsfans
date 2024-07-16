@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:39",
+            "01:15",
+            "03:00",
+            "03:21",
+            "03:38",
+            "03:41",
+            "03:59"
+        ],
+        "label": "find"
+    },
+    "clusterList": [
+        {
+            "phrase": "find better ways to manage traffic",
+            "count": 4
+        },
+        {
+            "phrase": "is hardly overwhelmed with traffic",
+            "count": 1
+        },
+        {
+            "phrase": "more bandwidth in more places",
+            "count": 1
+        },
+        {
+            "phrase": "mainstream easy to use service and integrate it into their core traffic stream",
+            "count": 1
+        },
+        {
+            "phrase": "develop a neutral traffic-management protocol that singles out bandwidth hogs regardless of application",
+            "count": 1
+        },
+        {
+            "phrase": "subject to reasonable network management",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:33",
+            "03:27",
+            "03:46"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey mike i was excited to see the jar arrived on saturday quick delivery i really appreciate all of the help i will definitely recommend your website to everyone i know it's been a great experience",
+            "count": 1
+        },
+        {
+            "phrase": "great product support service and shipping a great guy you wont be disappointed",
+            "count": 1
+        },
+        {
+            "phrase": "excellent product delivered promptly very happy",
+            "count": 1
+        },
+        {
+            "phrase": "i love your company's products",
+            "count": 1
+        },
+        {
+            "phrase": "great work for terrific clients",
+            "count": 1
+        }
+    ]
+}

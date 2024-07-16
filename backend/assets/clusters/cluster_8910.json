@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "03:13"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have you noticed that anyone driving slower than you is a f ing idiot and that all of those who drive faster than you is a f ing maniac",
+            "count": 1
+        },
+        {
+            "phrase": "we get to do things we might not do ourselves because many of us do not like to drive at night",
+            "count": 1
+        }
+    ]
+}

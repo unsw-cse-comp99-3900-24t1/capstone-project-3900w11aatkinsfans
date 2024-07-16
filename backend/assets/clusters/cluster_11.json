@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            82,
+            82,
+            1,
+            1,
+            1,
+            1,
+            1,
+            15
+        ],
+        "xLabels": [
+            "00:28",
+            "01:33",
+            "01:40",
+            "02:26",
+            "04:03",
+            "04:27",
+            "04:32",
+            "04:33",
+            "04:45",
+            "04:56"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "who's paying for the conventions",
+            "count": 154
+        },
+        {
+            "phrase": "who s paying for the conventions",
+            "count": 25
+        },
+        {
+            "phrase": "going to the national convention is a privilege",
+            "count": 2
+        },
+        {
+            "phrase": "this is a private event and we have to respect the privacy of individuals attending the convention",
+            "count": 1
+        },
+        {
+            "phrase": "events amherst international dickinson society convention",
+            "count": 1
+        },
+        {
+            "phrase": "call to the convention",
+            "count": 1
+        },
+        {
+            "phrase": "i have got to be there i am just trying to figure some way to get into the convention",
+            "count": 1
+        },
+        {
+            "phrase": "we had 560 000 people for our weeklong convention last year most of them are members but you don't have to be a member to attend",
+            "count": 1
+        }
+    ]
+}

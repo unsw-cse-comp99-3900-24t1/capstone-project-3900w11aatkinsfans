@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "04:09",
+            "04:17"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "we wanted to eliminate the advantage microsoft has with the office monopoly and this eliminates that advantage for microsoft because now a user can choose to use alfresco as easily as they would choose to use sharepoint",
+            "count": 2
+        },
+        {
+            "phrase": "you can now stand up an alfresco labs server next to a sharepoint server and office will not be able to tell the difference between the two",
+            "count": 1
+        }
+    ]
+}

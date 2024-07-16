@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "02:01",
+            "03:02"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't feel him in a way that i feel i have to call ghostbusters but i've been haunted by elvis in the sense that when i knew him he was very sweet but also seriously into drugs",
+            "count": 2
+        },
+        {
+            "phrase": "i've been haunted by wishing he could have lived longer because i'm from memphis and i've had the fame thing too",
+            "count": 2
+        },
+        {
+            "phrase": "i don't feel him presley in a way that i feel i have to call ghostbusters but i've been haunted by the sense that when i knew him he was very sweet but also seriously into drugs",
+            "count": 1
+        },
+        {
+            "phrase": "so i've been haunted by wishing he could have lived longer because i'm from memphis and i've had the fame thing too maybe i could have helped him",
+            "count": 1
+        }
+    ]
+}

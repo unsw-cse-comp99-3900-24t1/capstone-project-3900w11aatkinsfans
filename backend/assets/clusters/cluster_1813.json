@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:20",
+            "01:29",
+            "01:46",
+            "02:02",
+            "02:14",
+            "04:18"
+        ],
+        "label": "refused"
+    },
+    "clusterList": [
+        {
+            "phrase": "they didn't tell us anything i guess they just took the money and ran who knows",
+            "count": 2
+        },
+        {
+            "phrase": "refused to identify any of these donors",
+            "count": 1
+        },
+        {
+            "phrase": "and they didn't give me back my money either",
+            "count": 1
+        },
+        {
+            "phrase": "they received no money whatsoever",
+            "count": 1
+        },
+        {
+            "phrase": "we were not owed very much at all",
+            "count": 1
+        },
+        {
+            "phrase": "i thought there would be an opportunity for them to make at least a partial payment but that did not occur",
+            "count": 1
+        },
+        {
+            "phrase": "no payments for 90 days",
+            "count": 1
+        },
+        {
+            "phrase": "the cash on hand was nothing",
+            "count": 1
+        }
+    ]
+}

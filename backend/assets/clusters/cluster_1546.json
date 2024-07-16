@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:19",
+            "01:47",
+            "01:50",
+            "03:10",
+            "03:15",
+            "03:48",
+            "03:51",
+            "04:09",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the considerable presence within the scientific community",
+            "count": 6
+        },
+        {
+            "phrase": "the results are discoveries like these",
+            "count": 1
+        },
+        {
+            "phrase": "mad science presents up up and away",
+            "count": 1
+        },
+        {
+            "phrase": "this is probably the most important single discovery of the century",
+            "count": 1
+        },
+        {
+            "phrase": "modern modern science",
+            "count": 1
+        },
+        {
+            "phrase": "the machine as a whole was not just showing high science showing astronomy but was linking science to the cultural cycles of the greeks",
+            "count": 1
+        }
+    ]
+}

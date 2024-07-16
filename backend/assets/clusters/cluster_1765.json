@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:48",
+            "02:46",
+            "03:14",
+            "04:01",
+            "05:05"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've been a rangers fan all my life and i can tell you there's been plenty of fucking crying in baseball",
+            "count": 5
+        },
+        {
+            "phrase": "and i said chad i have seen a lot of baseball games and the one thing you just did is the one thing we've been trying to avoid you just let 54 000 people back in this game we can agree to disagree on that but i would bet the farm that cabrera wasn't throwing at him in that situation",
+            "count": 1
+        },
+        {
+            "phrase": "i told ozzie when he was walking in that they got griffey so we signed barry bonds",
+            "count": 1
+        },
+        {
+            "phrase": "and it just wasn't me it was our whole team everybody was feeling the type of player he was",
+            "count": 1
+        },
+        {
+            "phrase": "to us it was just baseball",
+            "count": 1
+        },
+        {
+            "phrase": "i got to face josh beckett one of the best players in baseball",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:38",
+            "02:24",
+            "03:06",
+            "04:23"
+        ],
+        "label": "those"
+    },
+    "clusterList": [
+        {
+            "phrase": "those people who come here and break our laws will be removed",
+            "count": 1
+        },
+        {
+            "phrase": "we've seen a turn of the tide in terms of illegal immigration",
+            "count": 1
+        },
+        {
+            "phrase": "from may to april 2007 there is an actual uptick in the number of illegals in the country which falls off after the legislation fails it seems as if the discussion of legalization had some effect on the decision to come or go or both",
+            "count": 1
+        },
+        {
+            "phrase": "monthly data collected by the census bureau through may 2008 shows a significant decline in the number of less-educated young hispanic immigrants in the country the evidence indicates that the illegal immigrant population may have declined by over one million in the last year there are strong indications immigration enforcement is responsible for at least part of the decline the economy also is likely playing a role",
+            "count": 1
+        },
+        {
+            "phrase": "homeward bound recent immigration enforcement and the decline in the illegal alien population",
+            "count": 1
+        }
+    ]
+}

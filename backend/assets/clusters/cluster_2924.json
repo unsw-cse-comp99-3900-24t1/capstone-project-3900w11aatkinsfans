@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:27",
+            "01:05",
+            "01:29",
+            "02:15"
+        ],
+        "label": "leader"
+    },
+    "clusterList": [
+        {
+            "phrase": "leader of the labour party in the scottish parliament",
+            "count": 1
+        },
+        {
+            "phrase": "leader of labour in scotland",
+            "count": 1
+        },
+        {
+            "phrase": "new labour mark i",
+            "count": 1
+        },
+        {
+            "phrase": "i can't quite understand why he is so focused on labour",
+            "count": 1
+        },
+        {
+            "phrase": "voice for scottish labour",
+            "count": 1
+        },
+        {
+            "phrase": "directly working under the prime minister",
+            "count": 1
+        }
+    ]
+}

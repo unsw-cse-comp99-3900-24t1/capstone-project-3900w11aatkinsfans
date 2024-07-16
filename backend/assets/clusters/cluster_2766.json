@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "02:18",
+            "04:13",
+            "04:22",
+            "05:01"
+        ],
+        "label": "effects"
+    },
+    "clusterList": [
+        {
+            "phrase": "a nuclear strike capability against the western hemisphere",
+            "count": 2
+        },
+        {
+            "phrase": "effects of nuclear weapons",
+            "count": 1
+        },
+        {
+            "phrase": "if even a crude nuclear weapon were detonated anywhere between 40 kilometers to 400 kilometers above the earth in a split-second it would generate an electro-magnetic pulse emp that would cripple military and civilian communications power transportation water food and other infrastructure",
+            "count": 1
+        },
+        {
+            "phrase": "secret swift and extraordinary buildup of communist missiles in an area well known to have a special and historical relationship to the united states and the nations of the western hemisphere",
+            "count": 1
+        },
+        {
+            "phrase": "to regard any nuclear missile launched from cuba against any nation in the western hemisphere as an attack on the united states requiring a full retaliatory response upon the soviet union",
+            "count": 1
+        },
+        {
+            "phrase": "and it is probably the easiest a single scud missile carrying a single nuclear weapon detonated at the appropriate altitude would interact with the earth's atmosphere producing an electromagnetic pulse radiating down to the surface at the speed of light depending on the location and size of the blast the effect would be to knock out already stressed power grids and other electrical systems across much or even all of the continental united states for months if not years",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4
+        ],
+        "xLabels": [
+            "04:45",
+            "04:49"
+        ],
+        "label": "eis"
+    },
+    "clusterList": [
+        {
+            "phrase": "washington state ferries is facing serious financial and operational challenges",
+            "count": 2
+        },
+        {
+            "phrase": "the washington state ferry service is very clean which is something people take for granted",
+            "count": 2
+        },
+        {
+            "phrase": "eis required for harbor improvements and barges",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:09"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well bianca i'm not going to tell you what the doctor thinks it is",
+            "count": 1
+        },
+        {
+            "phrase": "normally this type of question wouldn't be questionable in a medical setting but when my sister answered her she looked at her with a face and widened eyes and she said",
+            "count": 1
+        }
+    ]
+}

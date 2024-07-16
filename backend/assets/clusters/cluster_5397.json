@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "03:36",
+            "04:05",
+            "04:45"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're in the midst of our annual convention which started monday and concludes sunday",
+            "count": 2
+        },
+        {
+            "phrase": "how was the convention",
+            "count": 1
+        },
+        {
+            "phrase": "damn it looks like a convention",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3
+        ],
+        "xLabels": [
+            "01:30",
+            "01:37"
+        ],
+        "label": "simon"
+    },
+    "clusterList": [
+        {
+            "phrase": "simon son of john do you love me",
+            "count": 2
+        },
+        {
+            "phrase": "oooohhh your eyes your whiskers i want to kiss you",
+            "count": 1
+        },
+        {
+            "phrase": "oh uncle johnny i didn't know you could look so handsome",
+            "count": 1
+        },
+        {
+            "phrase": "uncle johnny i love you i'm licking your eyeball",
+            "count": 1
+        }
+    ]
+}

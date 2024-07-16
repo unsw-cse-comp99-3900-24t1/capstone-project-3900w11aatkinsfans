@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:59",
+            "01:19",
+            "03:01",
+            "04:47"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if there were 70 mile per hour winds there is no way that aircraft should have been in that vicinity or landing",
+            "count": 1
+        },
+        {
+            "phrase": "i calculate that this team would have had to have left the twin cities at about the same time the wellstone plane was taking off",
+            "count": 1
+        },
+        {
+            "phrase": "i saw the plane making its final approach and it appeared nothing was wrong we'd just had a lot of wind but it had calmed down a bit and mostly subsided by that time",
+            "count": 1
+        },
+        {
+            "phrase": "by the time it's believed the plane went down the winds were down to 5 to 10 miles per hour out of the south",
+            "count": 1
+        }
+    ]
+}

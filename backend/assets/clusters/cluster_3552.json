@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:14",
+            "01:18",
+            "01:32",
+            "03:01"
+        ],
+        "label": "must"
+    },
+    "clusterList": [
+        {
+            "phrase": "must actually do this",
+            "count": 2
+        },
+        {
+            "phrase": "must actually do",
+            "count": 2
+        },
+        {
+            "phrase": "had to do this",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "02:06",
+            "03:45",
+            "03:56",
+            "04:40"
+        ],
+        "label": "tailoring"
+    },
+    "clusterList": [
+        {
+            "phrase": "but it's not like i'm sitting in here saying oh my god i can't wait to pitch again when my time comes my time comes",
+            "count": 2
+        },
+        {
+            "phrase": "tailoring pitch counts to the individual",
+            "count": 1
+        },
+        {
+            "phrase": "i always want to pitch doesn't matter who is in front of you i'll just have to get to work and figure him out",
+            "count": 1
+        },
+        {
+            "phrase": "johnny is a big striker who has to be heavily marked even by two men so this should open up some space and a few opportunities for me to run off him that will take some of the pressure off me",
+            "count": 1
+        }
+    ]
+}

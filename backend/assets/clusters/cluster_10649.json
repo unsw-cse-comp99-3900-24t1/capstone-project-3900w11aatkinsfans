@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "02:22"
+        ],
+        "label": "third"
+    },
+    "clusterList": [
+        {
+            "phrase": "third place is good",
+            "count": 1
+        },
+        {
+            "phrase": "second place is not what we came for",
+            "count": 1
+        }
+    ]
+}

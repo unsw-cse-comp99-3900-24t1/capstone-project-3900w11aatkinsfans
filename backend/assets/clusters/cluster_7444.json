@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "03:51",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't need people we need checks",
+            "count": 1
+        },
+        {
+            "phrase": "the checks they're just not there",
+            "count": 1
+        },
+        {
+            "phrase": "they have people who can write bigger checks i guess",
+            "count": 1
+        }
+    ]
+}

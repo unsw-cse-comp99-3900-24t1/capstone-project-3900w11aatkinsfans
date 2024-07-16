@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:57",
+            "01:19",
+            "01:24",
+            "03:09",
+            "03:22",
+            "04:04",
+            "04:06",
+            "04:59"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "is there a contingency plan what is it when are they going to reveal it why have they not told us yet what that plan is",
+            "count": 2
+        },
+        {
+            "phrase": "we will accept all proposals and discuss them",
+            "count": 1
+        },
+        {
+            "phrase": "the full house and senate are expected to consider the matter later this year",
+            "count": 1
+        },
+        {
+            "phrase": "the talks will start but we must be very careful i have some personal concerns",
+            "count": 1
+        },
+        {
+            "phrase": "we will need to wait until we receive details of how the executive's required cuts will be achieved",
+            "count": 1
+        },
+        {
+            "phrase": "we will decide in the halls of congress how to conduct our affairs in iraq based upon polls and politics and we're going to impose this on people",
+            "count": 1
+        },
+        {
+            "phrase": "we are confident we will agree on a draft for the ministerial policy statement",
+            "count": 1
+        },
+        {
+            "phrase": "we have heard only anecdotal support for the plan",
+            "count": 1
+        }
+    ]
+}

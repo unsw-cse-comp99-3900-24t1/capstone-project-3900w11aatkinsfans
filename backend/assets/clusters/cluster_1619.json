@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:10",
+            "01:43",
+            "03:01",
+            "03:10",
+            "03:18",
+            "03:51",
+            "04:19",
+            "04:28"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "all you need is love",
+            "count": 3
+        },
+        {
+            "phrase": "i should be alone",
+            "count": 2
+        },
+        {
+            "phrase": "a million people in a room surround you yet you feel most alone if the one you love does not love you in return",
+            "count": 1
+        },
+        {
+            "phrase": "i am not ready for a relationship",
+            "count": 1
+        },
+        {
+            "phrase": "i'm tired of being alone",
+            "count": 1
+        },
+        {
+            "phrase": "it's alright my love you don't have to do anything more if you don't want to",
+            "count": 1
+        },
+        {
+            "phrase": "my capacity for love is unbounded",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:20",
+            "01:39",
+            "02:02",
+            "02:09",
+            "04:03"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wish you were still a washing machine",
+            "count": 3
+        },
+        {
+            "phrase": "the quane's laundry",
+            "count": 2
+        },
+        {
+            "phrase": "the washing machine",
+            "count": 1
+        }
+    ]
+}

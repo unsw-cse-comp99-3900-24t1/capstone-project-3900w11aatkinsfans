@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:14",
+            "03:23",
+            "03:43",
+            "03:54",
+            "04:27",
+            "04:41"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "so her pedigree and her physical structure are what make her very marketable and the fact that she's red is the icing on the cake",
+            "count": 2
+        },
+        {
+            "phrase": "i think they made the right decision she is a lot more photogenic than i am and at the end of the day they are looking for a model",
+            "count": 2
+        },
+        {
+            "phrase": "no that can't be is her face just red",
+            "count": 1
+        },
+        {
+            "phrase": "i e that photo is totally photoshopped",
+            "count": 1
+        },
+        {
+            "phrase": "vile images of kathy sierra",
+            "count": 1
+        }
+    ]
+}

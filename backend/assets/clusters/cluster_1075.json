@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "00:34",
+            "00:57",
+            "00:59",
+            "01:02",
+            "01:06",
+            "01:07",
+            "01:33",
+            "01:37",
+            "02:05",
+            "02:14",
+            "02:47",
+            "03:34"
+        ],
+        "label": "java"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've been able to come up with a java applet that for all intents and purposes is an image",
+            "count": 8
+        },
+        {
+            "phrase": "java technology restrictions",
+            "count": 1
+        },
+        {
+            "phrase": "this is aimed at developers looking to deploy across multiple screens looking to leverage the java ubiquity",
+            "count": 1
+        },
+        {
+            "phrase": "javafx gives us the advantage of tying into those tried and true java apis that are vital to our app so while the tools are lacking they are going to be there",
+            "count": 1
+        },
+        {
+            "phrase": "mobile python rapid prototyping of applications on the mobile platform",
+            "count": 1
+        },
+        {
+            "phrase": "new content that combines the best capabilities of the existing java platform with new immersive media services which can be securely accessed from mobile phones desktop browsers tv and other consumer devices",
+            "count": 1
+        },
+        {
+            "phrase": "the midori documents indicate that the company has not decided what user interface abstractions are appropriate when applications cut across boundaries or how to combine the best qualities of rich client applications and web applications",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "01:04",
+            "01:13",
+            "01:15",
+            "01:42",
+            "02:24",
+            "02:39",
+            "03:39"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "great mental physical and nervous pain and suffering",
+            "count": 4
+        },
+        {
+            "phrase": "everyone with the red cross was patient helpful and sympathetic",
+            "count": 1
+        },
+        {
+            "phrase": "sickest subgroups of patients",
+            "count": 1
+        },
+        {
+            "phrase": "as of right and not on sufferance",
+            "count": 1
+        },
+        {
+            "phrase": "sympathy with all sufferers",
+            "count": 1
+        },
+        {
+            "phrase": "people deserve relief of their suffering not giving them an overdose",
+            "count": 1
+        },
+        {
+            "phrase": "crying for a medic",
+            "count": 1
+        }
+    ]
+}

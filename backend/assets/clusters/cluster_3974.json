@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "01:56",
+            "02:24",
+            "03:51",
+            "04:33"
+        ],
+        "label": "everyone's"
+    },
+    "clusterList": [
+        {
+            "phrase": "love it or hate it",
+            "count": 2
+        },
+        {
+            "phrase": "everyone's getting into it it's really pretty great for us all to do together it's really gratifying",
+            "count": 1
+        },
+        {
+            "phrase": "we love it our families love it our friends love it-and we're pretty sure lots of other folks are going to love it as well",
+            "count": 1
+        },
+        {
+            "phrase": "i suppose 35 years later to find that people are so fascinated by it and have so enjoyed it is slightly overwhelming and all the comments on the youtube site they're so positive it is marvelous that so many people are getting so much enjoyment out of it",
+            "count": 1
+        }
+    ]
+}

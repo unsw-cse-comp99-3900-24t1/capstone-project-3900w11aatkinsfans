@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "02:01",
+            "03:34",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the prevalence of hearing loss in the united states is predicted to rise significantly because of an aging population and the growing use of personal listening devices indeed there is concern that we may be facing an epidemic of hearing impairment",
+            "count": 2
+        },
+        {
+            "phrase": "well that's been the joy really that as a result of the development by cochlear limited here in australia 120 000 people worldwide now have hearing as a result in some 80 countries",
+            "count": 1
+        },
+        {
+            "phrase": "loss of hearing",
+            "count": 1
+        },
+        {
+            "phrase": "statistics show that half of the population over the age of 60 can expect to have trouble with their hearing",
+            "count": 1
+        }
+    ]
+}

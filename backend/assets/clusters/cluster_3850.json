@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "03:54",
+            "04:05",
+            "04:28",
+            "04:37"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "some said the rebates would not have an impact well they were wrong",
+            "count": 2
+        },
+        {
+            "phrase": "in both cases it was a blatant bid to evade payment of duty and gst in the case of the cigarettes the tax involved was in excess of 2 million while the tax on the tobacco would have been more than 1 3 million",
+            "count": 1
+        },
+        {
+            "phrase": "the tax rebate hike will give a break to the ailing clothing exporters and help ease the concern over an unemployment spurt",
+            "count": 1
+        },
+        {
+            "phrase": "before long i believe the tax rebates now underway will help strengthen the case for permanent tax relief we're giving the american economy a shot of energy at the right time and in the right way and in the months to come the american people will once again prove why our economy remains the envy of the world",
+            "count": 1
+        }
+    ]
+}

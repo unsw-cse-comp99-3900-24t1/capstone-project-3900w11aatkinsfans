@@ -1,0 +1,115 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:11",
+            "00:18",
+            "00:43",
+            "00:47",
+            "01:20",
+            "01:52",
+            "02:01",
+            "02:02",
+            "02:09",
+            "02:11",
+            "02:19",
+            "02:33",
+            "02:56",
+            "03:34",
+            "03:42",
+            "03:54",
+            "04:49"
+        ],
+        "label": "little"
+    },
+    "clusterList": [
+        {
+            "phrase": "fondue three different cheeses melted that's what you're tasting gorgonzola muenster and cottage",
+            "count": 6
+        },
+        {
+            "phrase": "peanut butter and jelly",
+            "count": 2
+        },
+        {
+            "phrase": "little debbie snack cakes",
+            "count": 1
+        },
+        {
+            "phrase": "they have great desserts like the bread pudding",
+            "count": 1
+        },
+        {
+            "phrase": "sinful tart of peanut butter and cream cheese mousse with dark chocolate chips and vanilla ice cream served with a sabayon of fruits",
+            "count": 1
+        },
+        {
+            "phrase": "the popcorn looks delicious i would like to have some please",
+            "count": 1
+        },
+        {
+            "phrase": "plain chocolate cake",
+            "count": 1
+        },
+        {
+            "phrase": "full serving of nuts with a splash of yummyness",
+            "count": 1
+        },
+        {
+            "phrase": "cheesy garlic biscuits a la red lobster step by step easy recipe",
+            "count": 1
+        },
+        {
+            "phrase": "recipe best cookies ever",
+            "count": 1
+        },
+        {
+            "phrase": "coffe cake and a look in the pram",
+            "count": 1
+        },
+        {
+            "phrase": "pear and chocolate in a jam",
+            "count": 1
+        },
+        {
+            "phrase": "belgian chocolates are the best",
+            "count": 1
+        },
+        {
+            "phrase": "peanut butter fudge cake",
+            "count": 1
+        },
+        {
+            "phrase": "the dulce de leche is so yummy the chocolate mint and mocha are also good but this is my fave sort of like butterscotch only better",
+            "count": 1
+        },
+        {
+            "phrase": "i liked the apples and cream flavor and wished i'd had some vanilla wafers to crumble on top",
+            "count": 1
+        },
+        {
+            "phrase": "dororich is a crushed gelatin and cream sweet",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "03:24",
+            "04:24",
+            "05:01"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "john belushi wants to talk to you",
+            "count": 2
+        },
+        {
+            "phrase": "he is just trying to keep us safe",
+            "count": 2
+        },
+        {
+            "phrase": "a goal of attempting to talk to him",
+            "count": 1
+        }
+    ]
+}

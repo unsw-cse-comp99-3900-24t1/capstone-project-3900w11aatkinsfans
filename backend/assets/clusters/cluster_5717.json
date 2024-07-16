@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "03:29",
+            "04:10"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just wish they hadn't fined me 10 000",
+            "count": 2
+        },
+        {
+            "phrase": "they wiped my credit pretty well clean i can't get auto financing i can't get a job because they pull your credit",
+            "count": 1
+        }
+    ]
+}

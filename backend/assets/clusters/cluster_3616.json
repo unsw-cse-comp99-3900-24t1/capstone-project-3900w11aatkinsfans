@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:20",
+            "03:37",
+            "04:41"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well the software 2 0 is for the iphone and this is an itouch it doesn't really work well with the itouch but there will be a new release soon",
+            "count": 1
+        },
+        {
+            "phrase": "why free software and apple's iphone don't mix",
+            "count": 1
+        },
+        {
+            "phrase": "software is different",
+            "count": 1
+        },
+        {
+            "phrase": "better yet if nokia can figure out how to make symbian more like the iphone platform",
+            "count": 1
+        },
+        {
+            "phrase": "and make it simple to port iphone apps to the symbian platform",
+            "count": 1
+        }
+    ]
+}

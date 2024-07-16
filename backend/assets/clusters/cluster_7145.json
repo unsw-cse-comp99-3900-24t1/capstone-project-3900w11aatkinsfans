@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:59",
+            "03:36",
+            "05:05"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i definitely won't run on pudge",
+            "count": 2
+        },
+        {
+            "phrase": "i don't run on anybody so i definitely won't run on pudge",
+            "count": 1
+        }
+    ]
+}

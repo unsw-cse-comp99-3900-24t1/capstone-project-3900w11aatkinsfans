@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:02",
+            "03:18",
+            "03:42",
+            "04:18"
+        ],
+        "label": "god"
+    },
+    "clusterList": [
+        {
+            "phrase": "god told me to",
+            "count": 1
+        },
+        {
+            "phrase": "and what if i did",
+            "count": 1
+        },
+        {
+            "phrase": "then you have to forgive me",
+            "count": 1
+        },
+        {
+            "phrase": "told you so",
+            "count": 1
+        }
+    ]
+}

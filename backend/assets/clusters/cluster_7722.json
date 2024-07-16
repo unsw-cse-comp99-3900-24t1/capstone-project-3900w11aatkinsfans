@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:47",
+            "04:55",
+            "05:05"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "not too many players leave there happy it's been very well documented over the years i think back to mo vaughn and nomar garciaparra it goes on and on",
+            "count": 2
+        },
+        {
+            "phrase": "not too many players leave there happy it's been very well documented over the years mike greenwell roger clemens mo vaughn nomar garciaparra",
+            "count": 1
+        }
+    ]
+}

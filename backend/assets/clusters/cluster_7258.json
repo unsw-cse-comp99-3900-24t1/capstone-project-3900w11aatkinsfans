@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "03:18"
+        ],
+        "label": "look"
+    },
+    "clusterList": [
+        {
+            "phrase": "look lizard-boy you're trespassing on our turf",
+            "count": 1
+        },
+        {
+            "phrase": "you must be pretty stupid trespassing into our part of the jungle",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't know i was trespassing",
+            "count": 1
+        }
+    ]
+}

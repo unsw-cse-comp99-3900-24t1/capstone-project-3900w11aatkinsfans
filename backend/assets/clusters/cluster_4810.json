@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:51",
+            "01:10",
+            "03:39"
+        ],
+        "label": "calls"
+    },
+    "clusterList": [
+        {
+            "phrase": "calls to action",
+            "count": 1
+        },
+        {
+            "phrase": "i let it serve the action",
+            "count": 1
+        },
+        {
+            "phrase": "call to action",
+            "count": 1
+        },
+        {
+            "phrase": "these times call for action and today i promise you there will be action",
+            "count": 1
+        }
+    ]
+}

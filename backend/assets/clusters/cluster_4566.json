@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:48",
+            "02:37",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the princess is here",
+            "count": 1
+        },
+        {
+            "phrase": "princess for a day",
+            "count": 1
+        },
+        {
+            "phrase": "see a princess or two at fantasyland",
+            "count": 1
+        },
+        {
+            "phrase": "a princess sits and a prince stands",
+            "count": 1
+        }
+    ]
+}

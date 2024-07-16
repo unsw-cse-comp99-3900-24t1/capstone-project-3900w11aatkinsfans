@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:11",
+            "03:08",
+            "03:41",
+            "04:27"
+        ],
+        "label": "more"
+    },
+    "clusterList": [
+        {
+            "phrase": "more is always more",
+            "count": 1
+        },
+        {
+            "phrase": "a whole lot more",
+            "count": 1
+        },
+        {
+            "phrase": "this increase is startling",
+            "count": 1
+        },
+        {
+            "phrase": "that's a huge increase",
+            "count": 1
+        },
+        {
+            "phrase": "but wait there's more",
+            "count": 1
+        }
+    ]
+}

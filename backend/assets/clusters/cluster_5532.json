@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:46",
+            "01:56",
+            "03:18"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we see this in montreal we see this in quebec city we see this in big cities but not in small places",
+            "count": 2
+        },
+        {
+            "phrase": "this is no big deal it's just like home only narrower streets",
+            "count": 1
+        },
+        {
+            "phrase": "people from other areas say that you guys don't make much down there",
+            "count": 1
+        }
+    ]
+}

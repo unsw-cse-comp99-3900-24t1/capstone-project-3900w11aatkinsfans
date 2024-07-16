@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:24",
+            "02:46",
+            "03:14"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the overall result of the conference was a resounding success as all the objectives were met",
+            "count": 1
+        },
+        {
+            "phrase": "i was impressed with what they were able to do",
+            "count": 1
+        },
+        {
+            "phrase": "i'm pleased with the results so far",
+            "count": 1
+        },
+        {
+            "phrase": "we were very happy with the results",
+            "count": 1
+        },
+        {
+            "phrase": "a smashing success",
+            "count": 1
+        }
+    ]
+}

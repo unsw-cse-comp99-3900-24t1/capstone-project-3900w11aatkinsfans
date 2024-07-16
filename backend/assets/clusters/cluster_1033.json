@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:38",
+            "00:46",
+            "01:04",
+            "03:01",
+            "03:21",
+            "04:04",
+            "04:28",
+            "04:37"
+        ],
+        "label": "new"
+    },
+    "clusterList": [
+        {
+            "phrase": "the economic environment is pretty tough",
+            "count": 3
+        },
+        {
+            "phrase": "china's domestic economy is facing increasing challenges and difficulties",
+            "count": 3
+        },
+        {
+            "phrase": "provides one of the few bright spots in an otherwise gloomy economic picture",
+            "count": 2
+        },
+        {
+            "phrase": "new york state and the united states are experiencing a downturn in the economy that is worse than the energy crisis of 30 years ago that is greater than the economic recession of 40 years ago and may yet be as challenging to the american population as even the great depression this crisis is as undeniable as it is dangerous",
+            "count": 1
+        },
+        {
+            "phrase": "it is even worse today compounded by the drought over the past decade the high australian dollar and subsidised international competition making the economics of farming very difficult",
+            "count": 1
+        },
+        {
+            "phrase": "yes the economy is tough right now",
+            "count": 1
+        },
+        {
+            "phrase": "the issue of economics is not something i've understood as well as i should",
+            "count": 1
+        },
+        {
+            "phrase": "a slumping economy a broken foreign policy and an energy crisis",
+            "count": 1
+        },
+        {
+            "phrase": "these are tough economic times",
+            "count": 1
+        }
+    ]
+}

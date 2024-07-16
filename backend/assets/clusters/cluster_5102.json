@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:48",
+            "04:19"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "federal indian law",
+            "count": 3
+        },
+        {
+            "phrase": "there have to be agreements in place between law enforcement agencies and the district attorney for example",
+            "count": 1
+        }
+    ]
+}

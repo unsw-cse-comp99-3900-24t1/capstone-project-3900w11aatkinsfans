@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:05",
+            "00:50",
+            "01:33",
+            "01:52"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are delighted to have awarded these individuals the appropriate badges to celebrate the birthday of scouting all badge winners should feel proud that they have inspired so many young people to challenge themselves and try new activities and adventures",
+            "count": 2
+        },
+        {
+            "phrase": "our people will enjoy the medals more than ever",
+            "count": 2
+        },
+        {
+            "phrase": "i applaud all of the veterans participating as they strive to achieve their goals during this week of athletic competition",
+            "count": 1
+        },
+        {
+            "phrase": "it's really inspiring to see how motivated they are to come and win these and then to see the big smiles when they wear those medals",
+            "count": 1
+        }
+    ]
+}

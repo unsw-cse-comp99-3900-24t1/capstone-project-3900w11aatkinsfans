@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "03:18"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it stops the hunger",
+            "count": 1
+        },
+        {
+            "phrase": "it's also a handy eating tool",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "03:14",
+            "04:51"
+        ],
+        "label": "light-activated"
+    },
+    "clusterList": [
+        {
+            "phrase": "light-activated rfid tag",
+            "count": 1
+        },
+        {
+            "phrase": "any rfid tags of my type out there",
+            "count": 1
+        },
+        {
+            "phrase": "i have no interest in or with any rfid company of any type my experience has always been purely investigative scientific",
+            "count": 1
+        },
+        {
+            "phrase": "daily rfid's superior printing and encapsulation produce attractive durable tags and the passive rfid inlays give us long read range while keeping the investment low",
+            "count": 1
+        },
+        {
+            "phrase": "auto-id sensor networks provide rfid systems with the ability to manage data collected from a network's edge",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:07",
+            "01:06",
+            "01:33",
+            "04:37",
+            "04:45"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it just seems that i cannot put 18 holes together",
+            "count": 3
+        },
+        {
+            "phrase": "i don't know what to do it's so disappointing that i can't post something low it seems like i can't play 18 holes",
+            "count": 2
+        },
+        {
+            "phrase": "i don't know what to do i can't post something low it seems like i can't play 18 holes",
+            "count": 1
+        }
+    ]
+}

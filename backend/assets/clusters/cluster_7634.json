@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:43",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the photo you attempted to upload is too large please upload a smaller image file",
+            "count": 1
+        },
+        {
+            "phrase": "problem the scalemode parameter you have attempted to pass with the value of",
+            "count": 1
+        },
+        {
+            "phrase": "problem adding new resize target",
+            "count": 1
+        }
+    ]
+}

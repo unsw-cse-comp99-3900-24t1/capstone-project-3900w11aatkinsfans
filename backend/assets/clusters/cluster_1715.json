@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:27",
+            "00:57",
+            "01:07",
+            "01:16",
+            "01:47",
+            "02:28",
+            "02:38",
+            "04:13",
+            "04:56"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "bush's failed policies",
+            "count": 3
+        },
+        {
+            "phrase": "what the president would like to do",
+            "count": 1
+        },
+        {
+            "phrase": "the bush administration's western hemisphere policy",
+            "count": 1
+        },
+        {
+            "phrase": "the obama's act",
+            "count": 1
+        },
+        {
+            "phrase": "the president's policy",
+            "count": 1
+        },
+        {
+            "phrase": "an american president has got to know two things one the nature of the person he's dealing with and the nature of the government he's dealing with and the pressures that government feels",
+            "count": 1
+        },
+        {
+            "phrase": "it shall be the policy of this nation",
+            "count": 1
+        },
+        {
+            "phrase": "given the bush administration's preventive war doctrine",
+            "count": 1
+        }
+    ]
+}

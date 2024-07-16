@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:00",
+            "03:19",
+            "04:08",
+            "04:45"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "not ready for combat",
+            "count": 4
+        },
+        {
+            "phrase": "no point trying to be a hero before the battle actually begins",
+            "count": 1
+        },
+        {
+            "phrase": "hail the conquering hero",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:01",
+            "01:04",
+            "01:20",
+            "02:42"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've tested this site and found it safe to use",
+            "count": 4
+        },
+        {
+            "phrase": "may be more toxic than the active ingredient",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:14",
+            "01:01",
+            "02:24",
+            "02:42",
+            "04:15"
+        ],
+        "label": "brain"
+    },
+    "clusterList": [
+        {
+            "phrase": "a different kind of crazy",
+            "count": 2
+        },
+        {
+            "phrase": "brain shut up",
+            "count": 1
+        },
+        {
+            "phrase": "a definition of madness",
+            "count": 1
+        },
+        {
+            "phrase": "stop the insanity",
+            "count": 1
+        },
+        {
+            "phrase": "utter and complete insanity",
+            "count": 1
+        },
+        {
+            "phrase": "insane in the brain",
+            "count": 1
+        }
+    ]
+}

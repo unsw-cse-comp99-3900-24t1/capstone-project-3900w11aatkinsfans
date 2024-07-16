@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "04:03",
+            "04:36",
+            "04:44"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there will be a full 24-hour period when we won't have a place because we have to move out by noon on the 31st and we can't move in until noon on the first",
+            "count": 1
+        },
+        {
+            "phrase": "we don't have to file until saturday",
+            "count": 1
+        },
+        {
+            "phrase": "our office opens at 8 30",
+            "count": 1
+        },
+        {
+            "phrase": "as one with an occupancy not to exceed 14 consecutive days",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "03:18"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "in before christmas was our plan and you never know we might still get there",
+            "count": 2
+        },
+        {
+            "phrase": "heh do you remember when we were out in this exact spot on christmas day",
+            "count": 1
+        }
+    ]
+}

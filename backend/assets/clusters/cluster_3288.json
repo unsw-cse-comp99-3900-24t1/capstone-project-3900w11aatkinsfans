@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "02:38",
+            "02:51",
+            "03:43",
+            "04:28"
+        ],
+        "label": "big"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the beginning of the end of thaksin era but of course thaksin's influence is still lingering in thai society",
+            "count": 2
+        },
+        {
+            "phrase": "big thai experience",
+            "count": 1
+        },
+        {
+            "phrase": "the thai the thai people were just fabulous and always have been",
+            "count": 1
+        },
+        {
+            "phrase": "it seems that the views of the thai side have been consistently overlooked",
+            "count": 1
+        },
+        {
+            "phrase": "thais love thais",
+            "count": 1
+        }
+    ]
+}

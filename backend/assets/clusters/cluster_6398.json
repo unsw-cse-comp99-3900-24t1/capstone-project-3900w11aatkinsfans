@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "01:24",
+            "04:47"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how to wait",
+            "count": 1
+        },
+        {
+            "phrase": "i guess all you can do at this point is wait and see what happens",
+            "count": 1
+        },
+        {
+            "phrase": "i wanted to wait until after this start before i called",
+            "count": 1
+        }
+    ]
+}

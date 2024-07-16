@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "03:43",
+            "03:54"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know many people are very sensitive to things such as weight and that you really made me feel uncomfortable",
+            "count": 1
+        },
+        {
+            "phrase": "i think my energy level back then was so high that i just made people uneasy",
+            "count": 1
+        },
+        {
+            "phrase": "i kept expressing a really persistent fear i had of restricting my comfort foods i felt to truly lose weight i couldn't ever eat the things i loved hamburgers ice cream chocolate bacon cheese and cookies",
+            "count": 1
+        }
+    ]
+}

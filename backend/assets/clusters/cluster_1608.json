@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "00:27",
+            "02:32",
+            "02:40",
+            "03:28",
+            "04:31"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is he one of us",
+            "count": 3
+        },
+        {
+            "phrase": "one of us",
+            "count": 3
+        },
+        {
+            "phrase": "it says he's just like one of us",
+            "count": 2
+        },
+        {
+            "phrase": "not one of us",
+            "count": 1
+        },
+        {
+            "phrase": "it can't be him so it must be us",
+            "count": 1
+        }
+    ]
+}

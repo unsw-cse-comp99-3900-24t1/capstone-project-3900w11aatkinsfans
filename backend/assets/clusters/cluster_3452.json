@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:50",
+            "03:56",
+            "04:05",
+            "04:31",
+            "04:38"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he seemed very pleased with the opportunity he's going to get here",
+            "count": 2
+        },
+        {
+            "phrase": "he's shocked at what he has done",
+            "count": 1
+        },
+        {
+            "phrase": "i'm pleased not only that he has stepped up but that so many others have supported my re-election",
+            "count": 1
+        },
+        {
+            "phrase": "i feel like he's going to do a great job",
+            "count": 1
+        },
+        {
+            "phrase": "i am pleased to say",
+            "count": 1
+        }
+    ]
+}

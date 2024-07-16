@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "02:02",
+            "02:33"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he who is mighty has done great things for me",
+            "count": 1
+        },
+        {
+            "phrase": "he is very sincere and very powerful",
+            "count": 1
+        },
+        {
+            "phrase": "he's a great voice for freedom and limited government",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:36",
+            "04:45"
+        ],
+        "label": "while"
+    },
+    "clusterList": [
+        {
+            "phrase": "while the fire was raging on one side there was complete darkness on the other except the railway line there is no other way to access this place",
+            "count": 1
+        },
+        {
+            "phrase": "one of the original fire stations was out that way",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:46",
+            "01:16",
+            "02:57"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can fool all of the people some of the time and some of the people all of the time but you can not fool all of the people all of the time",
+            "count": 2
+        },
+        {
+            "phrase": "you can fool some of the people some of the time but you can't fool all the people all the time",
+            "count": 1
+        },
+        {
+            "phrase": "you can fool all the people some of the time some of the people all the time but not all the people all the time",
+            "count": 1
+        }
+    ]
+}

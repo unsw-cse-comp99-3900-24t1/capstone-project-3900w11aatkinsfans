@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:03",
+            "02:01",
+            "02:59",
+            "03:50",
+            "04:38",
+            "04:41"
+        ],
+        "label": "hes"
+    },
+    "clusterList": [
+        {
+            "phrase": "hes not a good singer",
+            "count": 1
+        },
+        {
+            "phrase": "it's nothing about him",
+            "count": 1
+        },
+        {
+            "phrase": "damn boy what's wrong with you",
+            "count": 1
+        },
+        {
+            "phrase": "he must have a thyroid problem",
+            "count": 1
+        },
+        {
+            "phrase": "what is wrong with this boy",
+            "count": 1
+        },
+        {
+            "phrase": "is he ok is something wrong",
+            "count": 1
+        },
+        {
+            "phrase": "no he's just tired",
+            "count": 1
+        }
+    ]
+}

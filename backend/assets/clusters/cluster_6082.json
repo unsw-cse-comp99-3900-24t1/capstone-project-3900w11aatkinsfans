@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:51",
+            "04:18"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "check spelling as i type",
+            "count": 2
+        },
+        {
+            "phrase": "have to spell it when you say it",
+            "count": 1
+        }
+    ]
+}

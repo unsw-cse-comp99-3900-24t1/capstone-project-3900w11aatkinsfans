@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "01:23",
+            "03:54",
+            "04:24",
+            "04:27",
+            "04:32"
+        ],
+        "label": "top"
+    },
+    "clusterList": [
+        {
+            "phrase": "a 200-seat italian restaurant located in a hyper-affluent new york suburb",
+            "count": 2
+        },
+        {
+            "phrase": "top of the world restaurant",
+            "count": 1
+        },
+        {
+            "phrase": "with one's life savings on the line to open a franchise restaurant in the chicago suburbs detailed market studies are a must read though taste diet and lifestyle trends play heavily in restaurants intent on succeeding quantifying observable demographics of customers age income education ethnicity are critical profitability factors market companies also study site characteristics of a pending store such as traffic flow and volume parking ingress egress lanes and visibility",
+            "count": 1
+        },
+        {
+            "phrase": "fast food central",
+            "count": 1
+        },
+        {
+            "phrase": "two regional restaurants",
+            "count": 1
+        },
+        {
+            "phrase": "the district at coolsprings galleria will feature smaller anchors than those that exist at the current mall such as macy's and dillard's",
+            "count": 1
+        },
+        {
+            "phrase": "my friends have been raving about a new italian restaurant that serves really great food i've never been there would you like to try it out with me",
+            "count": 1
+        }
+    ]
+}

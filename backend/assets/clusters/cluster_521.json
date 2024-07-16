@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:40",
+            "00:48",
+            "00:51",
+            "00:53",
+            "01:01",
+            "01:18",
+            "01:56",
+            "02:22",
+            "02:32",
+            "02:44",
+            "03:05",
+            "03:46",
+            "03:51",
+            "04:08",
+            "04:13",
+            "04:15",
+            "04:19",
+            "04:31",
+            "04:37"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for his obviously dying sister",
+            "count": 10
+        },
+        {
+            "phrase": "he murdered his wife",
+            "count": 7
+        },
+        {
+            "phrase": "the traffickers told his wife they would kill us too",
+            "count": 1
+        },
+        {
+            "phrase": "the wife of his youth",
+            "count": 1
+        },
+        {
+            "phrase": "he fondled them actually raped one of the victims",
+            "count": 1
+        },
+        {
+            "phrase": "who killed kenny",
+            "count": 1
+        },
+        {
+            "phrase": "the assassination of jesse james",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think he knew who he was stabbing",
+            "count": 1
+        }
+    ]
+}

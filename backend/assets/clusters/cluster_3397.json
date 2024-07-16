@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "01:17",
+            "03:50",
+            "04:04",
+            "04:31"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "and we're going to face them a lot",
+            "count": 2
+        },
+        {
+            "phrase": "why the heck we're constantly dealing with them",
+            "count": 1
+        },
+        {
+            "phrase": "we will take the issues as they come",
+            "count": 1
+        },
+        {
+            "phrase": "sooner or later we're going to have to deal with them",
+            "count": 1
+        },
+        {
+            "phrase": "we want to make it as inconvenient for them as possible",
+            "count": 1
+        }
+    ]
+}

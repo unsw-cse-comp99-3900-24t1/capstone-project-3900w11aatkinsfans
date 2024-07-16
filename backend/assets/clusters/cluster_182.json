@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            4,
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:02",
+            "00:08",
+            "00:09",
+            "00:12",
+            "00:27",
+            "00:29",
+            "00:37",
+            "01:06",
+            "01:33",
+            "01:46",
+            "01:47",
+            "01:51",
+            "02:00",
+            "02:05",
+            "02:28",
+            "02:32",
+            "02:55",
+            "03:14",
+            "04:15",
+            "04:17",
+            "04:23",
+            "04:28",
+            "04:29",
+            "04:32",
+            "04:54"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is still a lot of anger and frustration among shareholders right now",
+            "count": 16
+        },
+        {
+            "phrase": "i hope there will be enough shareholder pressure at this meeting for the board to realize they need to bring in someone else to run the company",
+            "count": 15
+        },
+        {
+            "phrase": "no matter how strongly a large number of shareholders feel about the board's previous actions",
+            "count": 11
+        },
+        {
+            "phrase": "in today's corporate governance system where large mutual funds control so much of the stock it is extremely difficult to oust an entire board no matter how strongly a large number of shareholders feel about the board's previous actions",
+            "count": 1
+        }
+    ]
+}

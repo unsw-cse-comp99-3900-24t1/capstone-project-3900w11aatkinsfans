@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "03:18",
+            "03:19",
+            "03:29",
+            "04:19"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "he's going to be respectful",
+            "count": 3
+        },
+        {
+            "phrase": "duh don't worry he'll be okay",
+            "count": 1
+        },
+        {
+            "phrase": "he's doing fine all being well he won't need any more skin grafts",
+            "count": 1
+        }
+    ]
+}

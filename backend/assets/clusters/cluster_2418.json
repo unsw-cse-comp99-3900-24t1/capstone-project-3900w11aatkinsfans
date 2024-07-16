@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:32",
+            "02:06",
+            "02:19",
+            "03:01",
+            "03:24",
+            "04:17"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i spend a lot of money on food i spend a lot of money on medication i spend a lot of money on books to learn about animals",
+            "count": 2
+        },
+        {
+            "phrase": "what do you do for a living what are your ambitions do you want to have a happy life and have a family",
+            "count": 2
+        },
+        {
+            "phrase": "there are two types of education one should teach us how to make a living and the other how to live",
+            "count": 1
+        },
+        {
+            "phrase": "i make a ton of money",
+            "count": 1
+        },
+        {
+            "phrase": "all i am doing is trying to make a living",
+            "count": 1
+        }
+    ]
+}

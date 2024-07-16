@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "02:08"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the war is not just a story that's being played out in iraq it's played out every day here on the home front",
+            "count": 1
+        },
+        {
+            "phrase": "in fact as should have been apparent to president bush and senator mccain the central front in the war on terror is not iraq and it never was",
+            "count": 1
+        }
+    ]
+}

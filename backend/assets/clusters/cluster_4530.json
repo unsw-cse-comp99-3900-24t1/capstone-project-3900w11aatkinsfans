@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "02:20",
+            "04:15"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when the record comes out read the label",
+            "count": 3
+        },
+        {
+            "phrase": "the brewery is the first release on in ovation records an independent label based in downey",
+            "count": 1
+        }
+    ]
+}

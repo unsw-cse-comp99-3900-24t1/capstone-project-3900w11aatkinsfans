@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:42",
+            "03:47",
+            "03:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the big guns",
+            "count": 1
+        },
+        {
+            "phrase": "the magic gun",
+            "count": 1
+        },
+        {
+            "phrase": "the naked gun",
+            "count": 1
+        },
+        {
+            "phrase": "the pain gun",
+            "count": 1
+        }
+    ]
+}

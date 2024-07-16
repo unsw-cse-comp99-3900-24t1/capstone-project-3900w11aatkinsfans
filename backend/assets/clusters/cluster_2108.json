@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:27",
+            "01:07",
+            "01:42",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "olpc"
+    },
+    "clusterList": [
+        {
+            "phrase": "computer world posted a expressed disappointment that the doubling rate for price performance of pv is 10 years rather than 18 months for transistors which of these two has the facts on their side",
+            "count": 6
+        },
+        {
+            "phrase": "olpc is going to bring the cost down to a lot less than us 100 much sooner than three years",
+            "count": 1
+        },
+        {
+            "phrase": "typically has been used as a benchmark for evaluating the cost-effectiveness of all new technologies",
+            "count": 1
+        }
+    ]
+}

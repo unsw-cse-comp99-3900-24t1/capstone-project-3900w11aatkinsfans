@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "03:48",
+            "04:45"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey is that a webskins",
+            "count": 1
+        },
+        {
+            "phrase": "it's a webkinz not a webkinz they are really fun you go on this site and you get to play with them and feed them and stuff",
+            "count": 1
+        },
+        {
+            "phrase": "it's a webkinz",
+            "count": 1
+        },
+        {
+            "phrase": "make the widget",
+            "count": 1
+        },
+        {
+            "phrase": "i can't believe it's a girdle",
+            "count": 1
+        }
+    ]
+}

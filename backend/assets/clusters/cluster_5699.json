@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:16",
+            "02:44",
+            "03:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the fact that something has become old now gives rise to the demand that it must be immortal",
+            "count": 1
+        },
+        {
+            "phrase": "a 5 percent chance of survival after five years",
+            "count": 1
+        },
+        {
+            "phrase": "and on and on it will go until say 2050 when if they're lucky the last of the boomers will be living out their days in the young at heart chorus",
+            "count": 1
+        }
+    ]
+}

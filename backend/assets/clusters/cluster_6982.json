@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "02:20",
+            "03:43"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well that's two hours i'll never get back",
+            "count": 1
+        },
+        {
+            "phrase": "uhh idk thought you needed time",
+            "count": 1
+        },
+        {
+            "phrase": "it's just that it's that i i need some time",
+            "count": 1
+        }
+    ]
+}

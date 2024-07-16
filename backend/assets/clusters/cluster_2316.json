@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            4,
+            4
+        ],
+        "xLabels": [
+            "04:04",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we cannot dedicate we cannot consecrate we cannot hallow this ground the brave men living and dead who struggled here have consecrated it far above our poor power to add or detract",
+            "count": 4
+        },
+        {
+            "phrase": "we cannot dedicate we can not consecrate we can not hallow this ground",
+            "count": 4
+        }
+    ]
+}

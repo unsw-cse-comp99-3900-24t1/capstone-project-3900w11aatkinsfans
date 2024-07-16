@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:09",
+            "02:15",
+            "05:00"
+        ],
+        "label": "now's"
+    },
+    "clusterList": [
+        {
+            "phrase": "now's a good time for a beer",
+            "count": 1
+        },
+        {
+            "phrase": "you've been brought here for drinking",
+            "count": 1
+        },
+        {
+            "phrase": "i just came down to get a drink",
+            "count": 1
+        }
+    ]
+}

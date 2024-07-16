@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:46",
+            "01:06",
+            "01:18",
+            "02:28",
+            "03:15"
+        ],
+        "label": "where's"
+    },
+    "clusterList": [
+        {
+            "phrase": "where's the beef",
+            "count": 3
+        },
+        {
+            "phrase": "on the hoof",
+            "count": 1
+        },
+        {
+            "phrase": "it's a meat market",
+            "count": 1
+        },
+        {
+            "phrase": "there is shit in our beef",
+            "count": 1
+        }
+    ]
+}

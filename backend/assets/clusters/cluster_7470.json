@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:57",
+            "04:33"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two heads are better then one",
+            "count": 1
+        },
+        {
+            "phrase": "which looks better one or two",
+            "count": 1
+        },
+        {
+            "phrase": "two laroches are better than one",
+            "count": 1
+        }
+    ]
+}

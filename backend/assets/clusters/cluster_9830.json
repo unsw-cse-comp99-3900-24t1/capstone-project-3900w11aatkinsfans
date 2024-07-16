@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "02:00"
+        ],
+        "label": "sins"
+    },
+    "clusterList": [
+        {
+            "phrase": "sins of omission",
+            "count": 1
+        },
+        {
+            "phrase": "i write sins",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "01:41"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i will take the stand",
+            "count": 2
+        },
+        {
+            "phrase": "i'll show you where to stand",
+            "count": 1
+        }
+    ]
+}

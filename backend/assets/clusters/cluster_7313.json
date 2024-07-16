@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:23",
+            "04:05",
+            "04:47"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've replaced my roundhouse kick with this book",
+            "count": 3
+        }
+    ]
+}

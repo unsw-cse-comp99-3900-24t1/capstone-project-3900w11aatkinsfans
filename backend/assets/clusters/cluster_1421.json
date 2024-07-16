@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "00:18",
+            "02:25",
+            "02:33",
+            "02:39",
+            "03:44",
+            "03:59",
+            "04:13",
+            "04:31",
+            "04:46",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the day has come",
+            "count": 2
+        },
+        {
+            "phrase": "leave nothing for tomorrow which can be done today",
+            "count": 1
+        },
+        {
+            "phrase": "one more day one more day one more day",
+            "count": 1
+        },
+        {
+            "phrase": "never put off till tomorrow what you could do today",
+            "count": 1
+        },
+        {
+            "phrase": "is today too soon it is only",
+            "count": 1
+        },
+        {
+            "phrase": "tomorrow is going to be different",
+            "count": 1
+        },
+        {
+            "phrase": "die another day",
+            "count": 1
+        },
+        {
+            "phrase": "if tomorrow were a dream",
+            "count": 1
+        },
+        {
+            "phrase": "it could happen again tomorrow",
+            "count": 1
+        },
+        {
+            "phrase": "tell anyone about this and you won't live to see another day",
+            "count": 1
+        },
+        {
+            "phrase": "the universe is telling me it's all okay my days ahead will be colorful",
+            "count": 1
+        }
+    ]
+}

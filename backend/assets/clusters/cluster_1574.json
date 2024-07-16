@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:27",
+            "01:09",
+            "01:47",
+            "02:14",
+            "02:29",
+            "03:10",
+            "03:51",
+            "04:31",
+            "04:51",
+            "05:04"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "this additional 10 million will help to expand the task force's presence in florida",
+            "count": 7
+        },
+        {
+            "phrase": "it helps with state funding",
+            "count": 1
+        },
+        {
+            "phrase": "the us house of representatives thursday approved a nearly 50-billion-dollar aid package to halt the spread of hiv aids in the developing world over the next five years",
+            "count": 1
+        },
+        {
+            "phrase": "releasing these funds now will help iowans rebuild from a devastating loss we want to work with our partners on the federal level and appreciate what they have done so far and we strongly encourage them to work with us",
+            "count": 1
+        },
+        {
+            "phrase": "housing rescue bill",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "03:22",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the industry is in for a pretty tough five or six years",
+            "count": 1
+        },
+        {
+            "phrase": "they do provide good-paying jobs as well well above the state average and of course this company is now moving from their racing team specialty to manufacturing goods as well",
+            "count": 1
+        },
+        {
+            "phrase": "they don't have to do the hard work anymore their job is packaging what's been provided to them",
+            "count": 1
+        }
+    ]
+}

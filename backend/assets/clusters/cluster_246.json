@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1,
+            2,
+            1,
+            3,
+            1,
+            2,
+            1,
+            3,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:06",
+            "00:11",
+            "00:18",
+            "00:25",
+            "00:27",
+            "00:46",
+            "01:07",
+            "01:20",
+            "01:38",
+            "01:47",
+            "02:09",
+            "02:13",
+            "02:26",
+            "02:32",
+            "02:33",
+            "02:46",
+            "02:47",
+            "02:51",
+            "03:00",
+            "03:06",
+            "03:10",
+            "03:41",
+            "03:51",
+            "04:32",
+            "04:41"
+        ],
+        "label": "meet"
+    },
+    "clusterList": [
+        {
+            "phrase": "meet the press",
+            "count": 29
+        },
+        {
+            "phrase": "in the media",
+            "count": 1
+        },
+        {
+            "phrase": "news they can use",
+            "count": 1
+        },
+        {
+            "phrase": "in the press",
+            "count": 1
+        },
+        {
+            "phrase": "in the news",
+            "count": 1
+        },
+        {
+            "phrase": "i got the news",
+            "count": 1
+        },
+        {
+            "phrase": "in the mail",
+            "count": 1
+        },
+        {
+            "phrase": "where is the news",
+            "count": 1
+        }
+    ]
+}

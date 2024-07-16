@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:09"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's the accident it's very hard to accept that my grandsons are dead",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't say it was either way dad's dead and we found our little boy",
+            "count": 1
+        }
+    ]
+}

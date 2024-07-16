@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:22",
+            "00:53",
+            "01:25",
+            "03:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i guess that cost me the match which is hard to accept",
+            "count": 2
+        },
+        {
+            "phrase": "practically a complete match",
+            "count": 1
+        },
+        {
+            "phrase": "are practically a complete match",
+            "count": 1
+        },
+        {
+            "phrase": "trying to find a match is just hard",
+            "count": 1
+        }
+    ]
+}

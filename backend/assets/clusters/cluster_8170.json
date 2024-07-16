@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:19"
+        ],
+        "label": "long"
+    },
+    "clusterList": [
+        {
+            "phrase": "long march into night",
+            "count": 1
+        },
+        {
+            "phrase": "drop the idea of a big march on sunday august 24th",
+            "count": 1
+        }
+    ]
+}

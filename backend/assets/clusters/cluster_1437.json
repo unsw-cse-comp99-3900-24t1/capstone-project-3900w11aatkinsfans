@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:23",
+            "01:23",
+            "02:44",
+            "03:09",
+            "03:23",
+            "03:37",
+            "04:15",
+            "04:52"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what do you mean you don't eat meat",
+            "count": 1
+        },
+        {
+            "phrase": "koreans don't eat chicken they eat meat and maybe a little seafood meat is very important in the korean diet",
+            "count": 1
+        },
+        {
+            "phrase": "you ate meat",
+            "count": 1
+        },
+        {
+            "phrase": "no amount of processed meat is considered safe to eat",
+            "count": 1
+        },
+        {
+            "phrase": "don't eat alone",
+            "count": 1
+        },
+        {
+            "phrase": "we don t cook meat to order",
+            "count": 1
+        },
+        {
+            "phrase": "if it's not meat it's not dinner",
+            "count": 1
+        },
+        {
+            "phrase": "yeah you never go out to eat",
+            "count": 1
+        },
+        {
+            "phrase": "the immorality of eating meat",
+            "count": 1
+        },
+        {
+            "phrase": "oh i can't live without eating meat",
+            "count": 1
+        },
+        {
+            "phrase": "no meat baked beans",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "02:39"
+        ],
+        "label": "martha"
+    },
+    "clusterList": [
+        {
+            "phrase": "martha why aren't you calling me back",
+            "count": 1
+        },
+        {
+            "phrase": "why don't you go ahead deborah there's someone i need to speak with",
+            "count": 1
+        }
+    ]
+}

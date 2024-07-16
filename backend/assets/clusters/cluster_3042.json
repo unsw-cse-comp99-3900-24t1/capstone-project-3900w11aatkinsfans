@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:00",
+            "02:13",
+            "02:14",
+            "03:05",
+            "04:38"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when winston says no he means no yeah right",
+            "count": 6
+        }
+    ]
+}

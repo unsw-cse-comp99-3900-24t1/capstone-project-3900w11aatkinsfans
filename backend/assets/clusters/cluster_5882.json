@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:03",
+            "03:02"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the penny gap",
+            "count": 3
+        }
+    ]
+}

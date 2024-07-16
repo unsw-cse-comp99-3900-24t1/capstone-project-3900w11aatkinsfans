@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:29",
+            "02:39"
+        ],
+        "label": "needed"
+    },
+    "clusterList": [
+        {
+            "phrase": "needed more training",
+            "count": 1
+        },
+        {
+            "phrase": "very well trained",
+            "count": 1
+        },
+        {
+            "phrase": "provide s realistic training",
+            "count": 1
+        }
+    ]
+}

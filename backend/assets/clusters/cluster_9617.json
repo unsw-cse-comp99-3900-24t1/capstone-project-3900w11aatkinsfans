@@ -1,0 +1,19 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:15"
+        ],
+        "label": "should"
+    },
+    "clusterList": [
+        {
+            "phrase": "should we have fenced out developers",
+            "count": 2
+        }
+    ]
+}

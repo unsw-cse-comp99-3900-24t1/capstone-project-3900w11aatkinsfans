@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:35",
+            "04:33"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how long have you been in town",
+            "count": 1
+        },
+        {
+            "phrase": "we only went to town about once a week",
+            "count": 1
+        }
+    ]
+}

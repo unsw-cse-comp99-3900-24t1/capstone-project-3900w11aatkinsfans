@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:12",
+            "00:29"
+        ],
+        "label": "ask"
+    },
+    "clusterList": [
+        {
+            "phrase": "freely you have received freely give",
+            "count": 2
+        },
+        {
+            "phrase": "ask and ye shall receive",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:56",
+            "02:28",
+            "03:14"
+        ],
+        "label": "translink"
+    },
+    "clusterList": [
+        {
+            "phrase": "translink needs to proceed on the basis of a tolled bridge if it's going to be able to respond with the urgency required to address the problems created by the pattullo",
+            "count": 2
+        },
+        {
+            "phrase": "i presently support the tolling option",
+            "count": 1
+        },
+        {
+            "phrase": "get rid of all toll booths in the next four years",
+            "count": 1
+        }
+    ]
+}

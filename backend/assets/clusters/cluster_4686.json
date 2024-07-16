@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:09",
+            "02:24",
+            "04:49"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well i don't think riding in a fighter plane and getting shot down is a qualification to be president",
+            "count": 2
+        },
+        {
+            "phrase": "i don't think riding in a fighter plane and getting shot down is a qualification to be president",
+            "count": 2
+        }
+    ]
+}

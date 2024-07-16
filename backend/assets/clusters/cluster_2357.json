@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:52",
+            "03:15",
+            "03:31",
+            "03:48",
+            "04:29",
+            "04:45",
+            "04:50"
+        ],
+        "label": "where"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it got old about 2004",
+            "count": 2
+        },
+        {
+            "phrase": "where was this five years ago",
+            "count": 1
+        },
+        {
+            "phrase": "about 12 years ago in london",
+            "count": 1
+        },
+        {
+            "phrase": "still in its infancy",
+            "count": 1
+        },
+        {
+            "phrase": "recent memory you're talking about 1963",
+            "count": 1
+        },
+        {
+            "phrase": "it was forty years ago today",
+            "count": 1
+        },
+        {
+            "phrase": "thirty-five years ago it was very slow here",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:48",
+            "01:40",
+            "01:41",
+            "02:13",
+            "03:06",
+            "03:13",
+            "04:29",
+            "04:45"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am extremely humbled and grateful that nbc news is giving me this opportunity",
+            "count": 2
+        },
+        {
+            "phrase": "the community response has been really positive and people are really excited about what we're doing",
+            "count": 2
+        },
+        {
+            "phrase": "these are the stories that we live for at nbc news across all our platforms we are offering an unprecedented amount of convention coverage and we stand ready to field an incredibly talented and deeply knowledgeable team",
+            "count": 1
+        },
+        {
+            "phrase": "behold mighty media of news corp bbc and nbc nothing to worry about as it's being taken care of",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to have a press conference at 11 a m saturday at that time we're going to reveal some facts that's going to be quite stunning to the community",
+            "count": 1
+        },
+        {
+            "phrase": "we are very happy that we can respond to our audience needs of getting news as it happens",
+            "count": 1
+        },
+        {
+            "phrase": "it is encouraging news",
+            "count": 1
+        },
+        {
+            "phrase": "month of encouraging news",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:29",
+            "04:21"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a david and goliath victory",
+            "count": 1
+        },
+        {
+            "phrase": "this is a david-and-goliath confrontation but we believe we'll have enough stones in the sling to knock this out",
+            "count": 1
+        }
+    ]
+}

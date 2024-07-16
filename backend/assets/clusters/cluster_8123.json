@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:09"
+        ],
+        "label": "xyz"
+    },
+    "clusterList": [
+        {
+            "phrase": "xyz not elsewhere classified",
+            "count": 1
+        },
+        {
+            "phrase": "not elsewhere classified",
+            "count": 1
+        }
+    ]
+}

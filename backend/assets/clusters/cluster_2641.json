@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:29",
+            "00:39",
+            "02:16",
+            "02:57",
+            "05:01"
+        ],
+        "label": "miss"
+    },
+    "clusterList": [
+        {
+            "phrase": "its called the american dream because you have to be asleep to beleive it",
+            "count": 4
+        },
+        {
+            "phrase": "miss american dream since i was 17",
+            "count": 1
+        },
+        {
+            "phrase": "it's the american dream",
+            "count": 1
+        },
+        {
+            "phrase": "you're the american dream girl the american dream",
+            "count": 1
+        }
+    ]
+}

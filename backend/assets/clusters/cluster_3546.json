@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:46",
+            "01:47",
+            "02:01",
+            "03:01"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i see the temperature between india and pakistan intensifying rather than cooling",
+            "count": 2
+        },
+        {
+            "phrase": "but said it the event was consistent with the theory that the current arctic climate isn't rebuilding ice sheets",
+            "count": 1
+        },
+        {
+            "phrase": "there was a lot of heat complaints from texas to the point of beyond what it had been seven or eight years ago",
+            "count": 1
+        },
+        {
+            "phrase": "all of that is due to the above normal precipitation we had in the last year",
+            "count": 1
+        }
+    ]
+}

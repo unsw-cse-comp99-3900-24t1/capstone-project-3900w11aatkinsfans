@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "04:08"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well do you see my name on the computer",
+            "count": 1
+        },
+        {
+            "phrase": "no it not it mine it has my name on it see",
+            "count": 1
+        }
+    ]
+}

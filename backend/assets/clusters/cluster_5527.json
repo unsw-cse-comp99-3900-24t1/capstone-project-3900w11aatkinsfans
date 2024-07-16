@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:23",
+            "04:32"
+        ],
+        "label": "aticonfig-screen"
+    },
+    "clusterList": [
+        {
+            "phrase": "aticonfig-screen 0 0",
+            "count": 2
+        },
+        {
+            "phrase": "oracle 10g database installation screen will appear",
+            "count": 1
+        },
+        {
+            "phrase": "database upgrade assistant welcome screen",
+            "count": 1
+        }
+    ]
+}

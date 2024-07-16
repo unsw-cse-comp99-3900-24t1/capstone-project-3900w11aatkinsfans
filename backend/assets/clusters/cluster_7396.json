@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:42",
+            "04:45"
+        ],
+        "label": "such"
+    },
+    "clusterList": [
+        {
+            "phrase": "such a change in department leadership was necessary following the mishandling of the 311 information hotline and crime camera programs",
+            "count": 1
+        },
+        {
+            "phrase": "the reference to respondent as police commissioner is clear from the ad in addition the jury heard the testimony of a newspaper editor a real estate and insurance man the sales manager of a men's clothing store a food equipment man a service station operator and the operator of a truck line for whom respondent had formerly worked each of these witnesses stated that he associated the statements with respondent",
+            "count": 1
+        },
+        {
+            "phrase": "he has worked for more than 30 years as a police officer and chief",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:56",
+            "01:51"
+        ],
+        "label": "lesser"
+    },
+    "clusterList": [
+        {
+            "phrase": "lesser of two evils",
+            "count": 1
+        },
+        {
+            "phrase": "and he's known as the sinister one",
+            "count": 1
+        },
+        {
+            "phrase": "evil mob-connected guy",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            4,
+            4
+        ],
+        "xLabels": [
+            "00:57",
+            "01:20",
+            "02:02",
+            "02:09"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh my god what the bleep is that it's incredible",
+            "count": 6
+        },
+        {
+            "phrase": "they make an excellent bleep picture",
+            "count": 3
+        },
+        {
+            "phrase": "you motherbleepin bleepsuckers",
+            "count": 3
+        },
+        {
+            "phrase": "what the bleep do we know",
+            "count": 1
+        }
+    ]
+}

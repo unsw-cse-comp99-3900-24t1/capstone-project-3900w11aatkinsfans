@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:19",
+            "00:23",
+            "00:28",
+            "01:42",
+            "02:29",
+            "02:59",
+            "03:55",
+            "03:59",
+            "04:07",
+            "04:49"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "hip hip hop",
+            "count": 4
+        },
+        {
+            "phrase": "i don't know what a rapper is",
+            "count": 2
+        },
+        {
+            "phrase": "i am constantly amazed by it that's the line that runs through the album we speak many languages and come from many cultures but wherever i go in the world there is one universal culture of hip hop",
+            "count": 1
+        },
+        {
+            "phrase": "hip hop saved my life",
+            "count": 1
+        },
+        {
+            "phrase": "hip hip jorge",
+            "count": 1
+        },
+        {
+            "phrase": "this sounds like shitty hip hop",
+            "count": 1
+        },
+        {
+            "phrase": "with a little booty hip hop to mix it up",
+            "count": 1
+        },
+        {
+            "phrase": "hip new craze",
+            "count": 1
+        },
+        {
+            "phrase": "hip and fresh",
+            "count": 1
+        },
+        {
+            "phrase": "best hip-hop blog",
+            "count": 1
+        }
+    ]
+}

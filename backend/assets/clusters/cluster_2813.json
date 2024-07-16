@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:14",
+            "01:41",
+            "03:42",
+            "03:44",
+            "03:58",
+            "05:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a great opportunity for us to show chinese readers what first-class journalism we can deliver",
+            "count": 2
+        },
+        {
+            "phrase": "we will provide sufficient access to the internet for reporters",
+            "count": 2
+        },
+        {
+            "phrase": "they mean international news seekers can access the bbc's multimedia content wherever they are and whenever they like in these territories",
+            "count": 1
+        },
+        {
+            "phrase": "the content on these sites should be scanned in real time",
+            "count": 1
+        },
+        {
+            "phrase": "we are going to do our best to facilitate the foreign media to do their reporting work through the internet",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "02:14",
+            "04:28"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he needs to do it with regularity",
+            "count": 1
+        },
+        {
+            "phrase": "not being his normal self",
+            "count": 1
+        },
+        {
+            "phrase": "trying to make himself more regular",
+            "count": 1
+        }
+    ]
+}

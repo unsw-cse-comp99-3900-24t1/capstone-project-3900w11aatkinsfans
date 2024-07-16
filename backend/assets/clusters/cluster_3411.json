@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "02:24",
+            "04:00",
+            "04:09",
+            "05:03",
+            "05:04"
+        ],
+        "label": "free"
+    },
+    "clusterList": [
+        {
+            "phrase": "free the fish",
+            "count": 1
+        },
+        {
+            "phrase": "there's plenty of fish in the sea",
+            "count": 1
+        },
+        {
+            "phrase": "fish be with you",
+            "count": 1
+        },
+        {
+            "phrase": "hey y'all catch all them fish",
+            "count": 1
+        },
+        {
+            "phrase": "shut up and fish",
+            "count": 1
+        },
+        {
+            "phrase": "when i get a hold of you i'm gonna gut you like a fish and drink your blood",
+            "count": 1
+        }
+    ]
+}

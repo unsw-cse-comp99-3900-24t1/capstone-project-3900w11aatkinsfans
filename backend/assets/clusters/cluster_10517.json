@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:10"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i never sought positions of authority but was often asked to fill positions and elected to more demanding roles in the organisation by my peers",
+            "count": 1
+        },
+        {
+            "phrase": "who has given you the authority to say what is good and what is bad",
+            "count": 1
+        }
+    ]
+}

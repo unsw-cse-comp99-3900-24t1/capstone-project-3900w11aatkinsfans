@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "01:04",
+            "01:37",
+            "02:51",
+            "03:18"
+        ],
+        "label": "hi"
+    },
+    "clusterList": [
+        {
+            "phrase": "hi i'm the black guy look at me",
+            "count": 1
+        },
+        {
+            "phrase": "ignoring the fact that his mother was white",
+            "count": 1
+        },
+        {
+            "phrase": "he's the closest thing to black i got here",
+            "count": 1
+        },
+        {
+            "phrase": "what do you mean it sounded like a black man",
+            "count": 1
+        },
+        {
+            "phrase": "he called me goodness i told him about tobias he said it don't matter if he's black or white and then he of course burst into song he's good but oh well i mean it doesn't matter if tobias is black or white it wouldn't matter if he was blue with green polka-dots at least kremlings don't usually judge one another on color at least not as much as humans do a black human isn't a bad human i'm so glad to be a kremling",
+            "count": 1
+        }
+    ]
+}

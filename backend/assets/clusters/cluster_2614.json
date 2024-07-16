@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:52",
+            "03:18",
+            "03:27"
+        ],
+        "label": "uhhhh"
+    },
+    "clusterList": [
+        {
+            "phrase": "uhhhh i don't think i've ever used that word",
+            "count": 2
+        },
+        {
+            "phrase": "i just thought i had heard it used before",
+            "count": 2
+        },
+        {
+            "phrase": "man i don't think i've ever used that word before i bet these things are really going to annoy me soon",
+            "count": 1
+        },
+        {
+            "phrase": "heh i like that word",
+            "count": 1
+        },
+        {
+            "phrase": "i cannot find any good use for the term",
+            "count": 1
+        }
+    ]
+}

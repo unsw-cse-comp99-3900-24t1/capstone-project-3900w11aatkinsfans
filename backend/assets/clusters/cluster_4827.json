@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:13",
+            "00:29",
+            "01:13",
+            "02:00"
+        ],
+        "label": "something"
+    },
+    "clusterList": [
+        {
+            "phrase": "something needs to be done about talk radio",
+            "count": 1
+        },
+        {
+            "phrase": "rockford radio sucks",
+            "count": 1
+        },
+        {
+            "phrase": "better than radio it's",
+            "count": 1
+        },
+        {
+            "phrase": "radio for video websites the easy way",
+            "count": 1
+        }
+    ]
+}

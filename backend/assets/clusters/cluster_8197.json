@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "03:11"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have all been very respectful but we won't let our guard down",
+            "count": 1
+        },
+        {
+            "phrase": "but that would mean letting our guard down",
+            "count": 1
+        }
+    ]
+}

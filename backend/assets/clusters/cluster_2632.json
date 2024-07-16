@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:37",
+            "01:51",
+            "02:05",
+            "02:07",
+            "02:55",
+            "04:18"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the clock is ticking on jerry everybody knows that",
+            "count": 5
+        },
+        {
+            "phrase": "you know it's jerry he's an idiot",
+            "count": 1
+        },
+        {
+            "phrase": "jerry remember it's not a lie if you believe it",
+            "count": 1
+        }
+    ]
+}

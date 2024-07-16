@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "02:36",
+            "03:10",
+            "03:13"
+        ],
+        "label": "gone"
+    },
+    "clusterList": [
+        {
+            "phrase": "paper ducks the service said would show up in fall never did except on computer screens in washington d c",
+            "count": 3
+        },
+        {
+            "phrase": "gone are the days of waiting for the mail to arrive before our clients can see the video we captured with streaming media our clients can access the system and see the video in seconds",
+            "count": 1
+        }
+    ]
+}

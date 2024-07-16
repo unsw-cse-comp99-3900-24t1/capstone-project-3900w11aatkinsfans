@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "02:14",
+            "02:42",
+            "02:43",
+            "03:23"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what we need is a whole array of models that all make different assumptions and then we look for conclusions that are reasonably robust",
+            "count": 4
+        },
+        {
+            "phrase": "if there's a lesson to be learned based on this article that would be to use a wide range of models and a wide range of scenarios fair enough i don't know how you could try to refute that",
+            "count": 4
+        }
+    ]
+}

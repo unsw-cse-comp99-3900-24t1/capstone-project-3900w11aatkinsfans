@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:38"
+        ],
+        "label": "warn"
+    },
+    "clusterList": [
+        {
+            "phrase": "warn pom for x is invalid reason not a v4 0 0 pom",
+            "count": 1
+        },
+        {
+            "phrase": "already received two written warnings",
+            "count": 1
+        }
+    ]
+}

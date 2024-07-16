@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            4
+        ],
+        "xLabels": [
+            "00:46",
+            "01:38"
+        ],
+        "label": "chuck"
+    },
+    "clusterList": [
+        {
+            "phrase": "chuck it smith",
+            "count": 2
+        },
+        {
+            "phrase": "chuck barris game shows inc",
+            "count": 1
+        },
+        {
+            "phrase": "chuck barris games inc",
+            "count": 1
+        },
+        {
+            "phrase": "chuck barris games shows inc",
+            "count": 1
+        },
+        {
+            "phrase": "a chuck barris production",
+            "count": 1
+        }
+    ]
+}

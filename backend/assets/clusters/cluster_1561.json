@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            3,
+            3
+        ],
+        "xLabels": [
+            "00:32",
+            "01:14",
+            "04:26",
+            "04:28",
+            "04:31"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "we now know that the immune system of patients recovering from chemotherapy is malleable so we just need to find the best immunologic approach to exploit this window of opportunity",
+            "count": 3
+        },
+        {
+            "phrase": "the good news was the surprisingly nice t cell response patients had to the flu vaccination even relatively soon after completing chemotherapy",
+            "count": 3
+        },
+        {
+            "phrase": "that shows that the general idea of using immunotherapy following chemotherapy to prevent recurrence is not a flawed one chemotherapy depleted the immune system but we could restore it",
+            "count": 3
+        },
+        {
+            "phrase": "this would open up the possibility of producing a large supply of immune-matched cells to that patient that could be used in transplantation methodologies",
+            "count": 1
+        },
+        {
+            "phrase": "for every person put on treatment more get infected we cannot sustain a successful response if we do not get on top of prevention",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "03:42"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people know to be deeply skeptical of what they read on the front of a supermarket tabloid",
+            "count": 1
+        },
+        {
+            "phrase": "the truth popularity or social utility of the ideas and beliefs which are offered",
+            "count": 1
+        }
+    ]
+}

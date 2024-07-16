@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "00:24",
+            "03:48",
+            "05:04"
+        ],
+        "label": "oodles"
+    },
+    "clusterList": [
+        {
+            "phrase": "oodles of enticing recipes",
+            "count": 2
+        },
+        {
+            "phrase": "adding all the essential ingredients",
+            "count": 1
+        },
+        {
+            "phrase": "baking has none of that",
+            "count": 1
+        }
+    ]
+}

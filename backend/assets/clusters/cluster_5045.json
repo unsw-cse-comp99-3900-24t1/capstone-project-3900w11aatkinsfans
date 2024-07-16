@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "02:46",
+            "03:27"
+        ],
+        "label": "found"
+    },
+    "clusterList": [
+        {
+            "phrase": "found that there is a growing level of commitment",
+            "count": 4
+        }
+    ]
+}

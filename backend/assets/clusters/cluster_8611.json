@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:28"
+        ],
+        "label": "off"
+    },
+    "clusterList": [
+        {
+            "phrase": "off bering augusta between san felipe and woodway",
+            "count": 1
+        },
+        {
+            "phrase": "homewood closer than st louis",
+            "count": 1
+        }
+    ]
+}

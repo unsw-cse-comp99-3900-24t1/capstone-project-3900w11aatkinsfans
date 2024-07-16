@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:53",
+            "01:37",
+            "03:51",
+            "04:09",
+            "04:56"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the first time in my life i have asked for a speedy trial",
+            "count": 4
+        },
+        {
+            "phrase": "this is the first time in my life i'm asking for a speedy trial",
+            "count": 1
+        }
+    ]
+}

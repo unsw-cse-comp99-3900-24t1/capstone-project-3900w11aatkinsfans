@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:40",
+            "04:59"
+        ],
+        "label": "while"
+    },
+    "clusterList": [
+        {
+            "phrase": "while customers thought the new menu items were great they missed the old favorites",
+            "count": 1
+        },
+        {
+            "phrase": "the result we have brought back the old favorites and are keeping all the great new menu items",
+            "count": 1
+        },
+        {
+            "phrase": "every old menu that this place has",
+            "count": 1
+        }
+    ]
+}

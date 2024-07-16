@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "04:18",
+            "04:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best reparations we can provide are good schools in the inner city and jobs for people that are unemployed",
+            "count": 1
+        },
+        {
+            "phrase": "the best reparations we can provide are good schools in the inner city and jobs for people who are unemployed",
+            "count": 1
+        },
+        {
+            "phrase": "list of demands reparation",
+            "count": 1
+        }
+    ]
+}

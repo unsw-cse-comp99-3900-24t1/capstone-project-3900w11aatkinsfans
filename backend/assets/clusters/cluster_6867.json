@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:31",
+            "04:10",
+            "04:37"
+        ],
+        "label": "hayley"
+    },
+    "clusterList": [
+        {
+            "phrase": "hayley always said that she wouldn't go to the camp if paula did",
+            "count": 2
+        },
+        {
+            "phrase": "she had some bad luck at the meadowlands and kind of needed a break from there",
+            "count": 1
+        }
+    ]
+}

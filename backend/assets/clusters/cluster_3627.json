@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:51",
+            "03:05",
+            "03:11",
+            "04:33"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "savings and loan scandal keating five",
+            "count": 3
+        },
+        {
+            "phrase": "the government last night issued an emergency pledge to northern rock savers that their money is safe after a third day of queues outside branches threatened to spread across the banking system",
+            "count": 1
+        },
+        {
+            "phrase": "savings catch up",
+            "count": 1
+        }
+    ]
+}

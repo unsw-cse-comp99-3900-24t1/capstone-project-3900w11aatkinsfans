@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:27"
+        ],
+        "label": "have"
+    },
+    "clusterList": [
+        {
+            "phrase": "have a man around the house",
+            "count": 1
+        },
+        {
+            "phrase": "man in the street",
+            "count": 1
+        }
+    ]
+}

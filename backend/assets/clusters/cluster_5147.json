@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:43",
+            "02:51",
+            "03:56",
+            "04:59"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we don't like the fact that we allowed their fans to come into our park and have a four-day party but that's our fault",
+            "count": 3
+        },
+        {
+            "phrase": "because we don't fill the stadium every night we have to keep these payrolls moderate",
+            "count": 1
+        }
+    ]
+}

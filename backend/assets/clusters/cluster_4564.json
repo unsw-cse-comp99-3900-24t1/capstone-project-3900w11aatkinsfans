@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "00:24",
+            "03:19",
+            "04:29"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the respect that they've given me plus what i see them achieve in life is what totally blows me away",
+            "count": 1
+        },
+        {
+            "phrase": "they feel like i have to go out there and go above and beyond in order to get their attention and respect",
+            "count": 1
+        },
+        {
+            "phrase": "be courteous to all but intimate with few and let those few be well tried before you give them your confidence",
+            "count": 1
+        },
+        {
+            "phrase": "but if you turn around and make it uncomfortable for them to be there what incentive do they have to ever come back you can't just start ripping into them and obviously that's a lot harder to do anyway when someone is just sitting across from you",
+            "count": 1
+        }
+    ]
+}

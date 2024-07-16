@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:06",
+            "01:40",
+            "02:26",
+            "04:04",
+            "04:05"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you think those people are going to help you",
+            "count": 2
+        },
+        {
+            "phrase": "he's definitely going to help them out",
+            "count": 1
+        },
+        {
+            "phrase": "we're here to give them that assistance",
+            "count": 1
+        },
+        {
+            "phrase": "i don't know if they're going to help us out or not but we're going to try",
+            "count": 1
+        },
+        {
+            "phrase": "they're going to get help from whoever's available",
+            "count": 1
+        }
+    ]
+}

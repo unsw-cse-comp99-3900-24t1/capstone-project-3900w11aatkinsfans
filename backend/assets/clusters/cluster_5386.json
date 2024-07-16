@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "03:50",
+            "03:58",
+            "04:28"
+        ],
+        "label": "balls"
+    },
+    "clusterList": [
+        {
+            "phrase": "balls to this",
+            "count": 1
+        },
+        {
+            "phrase": "they've got you by the balls",
+            "count": 1
+        },
+        {
+            "phrase": "never had the balls",
+            "count": 1
+        },
+        {
+            "phrase": "it'll take balls but it always works",
+            "count": 1
+        }
+    ]
+}

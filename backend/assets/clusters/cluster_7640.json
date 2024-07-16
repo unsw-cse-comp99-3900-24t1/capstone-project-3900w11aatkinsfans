@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:57",
+            "04:28"
+        ],
+        "label": "turn"
+    },
+    "clusterList": [
+        {
+            "phrase": "turn their guns",
+            "count": 1
+        },
+        {
+            "phrase": "steal right under their noses",
+            "count": 1
+        },
+        {
+            "phrase": "steal blatantly from them",
+            "count": 1
+        }
+    ]
+}

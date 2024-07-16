@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "02:14",
+            "03:48"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you only live twice",
+            "count": 3
+        },
+        {
+            "phrase": "what the hell you only live once",
+            "count": 1
+        },
+        {
+            "phrase": "you only live once",
+            "count": 1
+        }
+    ]
+}

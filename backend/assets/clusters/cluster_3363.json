@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:15",
+            "03:14",
+            "03:23",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "immorality the morality of those who are having a better time",
+            "count": 2
+        },
+        {
+            "phrase": "this appeared as a moral dilemma",
+            "count": 2
+        },
+        {
+            "phrase": "the emotional construction of morals",
+            "count": 1
+        },
+        {
+            "phrase": "state the theory as a theory of the moral rightness of action",
+            "count": 1
+        }
+    ]
+}

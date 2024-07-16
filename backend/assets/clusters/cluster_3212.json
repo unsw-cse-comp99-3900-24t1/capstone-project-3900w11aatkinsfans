@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:56",
+            "02:20",
+            "02:26",
+            "03:55",
+            "04:52"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my flagship issue",
+            "count": 6
+        }
+    ]
+}

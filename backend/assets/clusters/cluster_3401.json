@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:34",
+            "01:46",
+            "03:27",
+            "03:51"
+        ],
+        "label": "any"
+    },
+    "clusterList": [
+        {
+            "phrase": "any press is good press as long as they spell your name right",
+            "count": 1
+        },
+        {
+            "phrase": "there is no such thing as bad press",
+            "count": 1
+        },
+        {
+            "phrase": "there is no such thing as bad press as long as they spell your name right",
+            "count": 1
+        },
+        {
+            "phrase": "tryck i norrbotten is extremely focused on quality we currently work to a very high standard but we think the goss magnum 4 press will help us to improve even further we have our sights set on winning the competition once again",
+            "count": 1
+        },
+        {
+            "phrase": "you can do anything with this press",
+            "count": 1
+        },
+        {
+            "phrase": "any press is good press",
+            "count": 1
+        }
+    ]
+}

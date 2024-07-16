@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:14",
+            "00:27",
+            "01:07",
+            "02:39",
+            "03:10",
+            "03:51",
+            "04:32",
+            "04:51"
+        ],
+        "label": "most"
+    },
+    "clusterList": [
+        {
+            "phrase": "i don't think i'm very good at some of the things that themodern political system rewards and requires and i've foundother ways to make a difference and to serve the publicinterests",
+            "count": 5
+        },
+        {
+            "phrase": "i've been working my entire adult life to help build an america where economic justice is being served",
+            "count": 2
+        },
+        {
+            "phrase": "most of my life i've worked for civil service that really didn't afford me the opportunity to step out in the world of politics",
+            "count": 1
+        },
+        {
+            "phrase": "i'm standing because i believe i've got experience i've served the community at local government level for eight-and-a-half years",
+            "count": 1
+        }
+    ]
+}

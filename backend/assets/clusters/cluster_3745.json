@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "01:55",
+            "03:48",
+            "04:04",
+            "04:54"
+        ],
+        "label": "can't"
+    },
+    "clusterList": [
+        {
+            "phrase": "can't take my eyes off of you",
+            "count": 1
+        },
+        {
+            "phrase": "you can't take it with you",
+            "count": 1
+        },
+        {
+            "phrase": "you can't keep your hands off it",
+            "count": 1
+        },
+        {
+            "phrase": "i can't hear you",
+            "count": 1
+        },
+        {
+            "phrase": "you have no right to put your hands on me",
+            "count": 1
+        }
+    ]
+}

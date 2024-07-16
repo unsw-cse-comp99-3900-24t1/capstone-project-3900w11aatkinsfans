@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:07",
+            "01:09",
+            "01:41",
+            "01:56",
+            "02:15",
+            "03:01",
+            "04:15",
+            "04:46"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "eww your boobs are tiny",
+            "count": 3
+        },
+        {
+            "phrase": "what do you call a girl with one leg shorter than the other",
+            "count": 1
+        },
+        {
+            "phrase": "you have shorter legs",
+            "count": 1
+        },
+        {
+            "phrase": "so my legs are short huh",
+            "count": 1
+        },
+        {
+            "phrase": "you know your legs are going to take over 2 hours because they are really big",
+            "count": 1
+        },
+        {
+            "phrase": "the bottom of your leg is the same size as the top of mine usually when women come in their 2 legs are the size of one of yours",
+            "count": 1
+        },
+        {
+            "phrase": "you must be this tall",
+            "count": 1
+        },
+        {
+            "phrase": "that's your knee",
+            "count": 1
+        },
+        {
+            "phrase": "its not the pants that are making your bum look big",
+            "count": 1
+        },
+        {
+            "phrase": "the legs appear to be too long in proportion to the body",
+            "count": 1
+        },
+        {
+            "phrase": "you're in pretty good shape for a man of your size",
+            "count": 1
+        }
+    ]
+}

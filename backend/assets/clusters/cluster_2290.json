@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:47",
+            "02:55",
+            "03:05",
+            "03:27",
+            "03:34",
+            "03:38",
+            "04:04"
+        ],
+        "label": "ohhhhh"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the dining rooms the tables were bolted down but nothing else was and everything just went flying",
+            "count": 6
+        },
+        {
+            "phrase": "ohhhhh and then they had to go inside",
+            "count": 1
+        },
+        {
+            "phrase": "in the dinning rooms the tables were bolted down but nothing else was and everything just went flying",
+            "count": 1
+        }
+    ]
+}

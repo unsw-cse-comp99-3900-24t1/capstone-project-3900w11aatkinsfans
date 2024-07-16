@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:42",
+            "01:46",
+            "01:47",
+            "02:14",
+            "04:05"
+        ],
+        "label": "twitter"
+    },
+    "clusterList": [
+        {
+            "phrase": "twitter security team was notified on 31-july-2008",
+            "count": 5
+        },
+        {
+            "phrase": "twitter updates for 2008-06-05",
+            "count": 1
+        }
+    ]
+}

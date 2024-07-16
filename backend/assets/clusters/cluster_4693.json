@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:12",
+            "02:14",
+            "02:38"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our summer drilling program is now underway in west central alberta with drilling operations in the deep basin scheduled to start within the next week",
+            "count": 2
+        },
+        {
+            "phrase": "the approximate 135 to 140 million increase in full-year 2008 capital spending is primarily for the acquisition of additional acreage to support future drilling and the installation of gathering and production facilities which must be built to handle the increased production that is expected in various areas to a lesser extent capital spending will increase due to increased drilling in a number of plays the production benefits from our enhanced drilling efforts along with our expanded acreage base and production facilities are expected to become apparent in late 2008 and early 2009",
+            "count": 1
+        },
+        {
+            "phrase": "we are planning to drill up to 30 shallow scout holes to determine the area's geothermal gradient that is the level of high-grade heat which can be used for the generation of geothermal base-load electricity",
+            "count": 1
+        }
+    ]
+}

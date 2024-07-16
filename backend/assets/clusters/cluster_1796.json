@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            6,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:12",
+            "01:37",
+            "03:37"
+        ],
+        "label": "not"
+    },
+    "clusterList": [
+        {
+            "phrase": "ponder on this",
+            "count": 6
+        },
+        {
+            "phrase": "no time to think",
+            "count": 2
+        },
+        {
+            "phrase": "not thinking logically",
+            "count": 1
+        }
+    ]
+}

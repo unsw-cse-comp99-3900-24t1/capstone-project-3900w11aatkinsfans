@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:20",
+            "03:39",
+            "05:01"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "because god refuses to be understood",
+            "count": 2
+        },
+        {
+            "phrase": "if god had wanted us to have better weapons of math instruction he would have given us more fingers and toes",
+            "count": 1
+        },
+        {
+            "phrase": "god does not play dice",
+            "count": 1
+        },
+        {
+            "phrase": "i am convinced that he god does not play dice",
+            "count": 1
+        },
+        {
+            "phrase": "god does not care about our mathematical difficulties he integrates empirically",
+            "count": 1
+        }
+    ]
+}

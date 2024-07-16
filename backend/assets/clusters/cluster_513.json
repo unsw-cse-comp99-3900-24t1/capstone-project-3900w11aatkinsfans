@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:22",
+            "00:24",
+            "00:36",
+            "00:46",
+            "00:56",
+            "01:32",
+            "01:33",
+            "01:37",
+            "02:08",
+            "02:15",
+            "02:23",
+            "02:24",
+            "02:55",
+            "03:00",
+            "03:41",
+            "03:43",
+            "03:46",
+            "03:54",
+            "04:06",
+            "04:53"
+        ],
+        "label": "general"
+    },
+    "clusterList": [
+        {
+            "phrase": "the progress is still reversible",
+            "count": 19
+        },
+        {
+            "phrase": "general petraeus and ambassador to iraq ryan crocker caution that the progress is still reversible but they report that there now appears to be a degree of durability to the gains we have made",
+            "count": 2
+        },
+        {
+            "phrase": "overall i think a year from now we will have made a fair amount of progress if we stay the course",
+            "count": 1
+        },
+        {
+            "phrase": "caution that the progress is still reversible",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "04:22",
+            "04:37"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "how can we cheer her up",
+            "count": 1
+        },
+        {
+            "phrase": "throwing her under the bus",
+            "count": 1
+        },
+        {
+            "phrase": "shoot the singer",
+            "count": 1
+        }
+    ]
+}

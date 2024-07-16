@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "00:48"
+        ],
+        "label": "as"
+    },
+    "clusterList": [
+        {
+            "phrase": "as the summer months approach i wish to assure you the serious attention which the congregation gives to the prospect of corporate unity raised in that letter",
+            "count": 1
+        },
+        {
+            "phrase": "as soon as the congregation is in position to respond more definitely concerning the proposals you have sent we will inform you",
+            "count": 1
+        },
+        {
+            "phrase": "i would like to publicly thank frank demonico chairman of the pastoral council for his ongoing communication with me and for the council for recognizing our need for the building",
+            "count": 1
+        }
+    ]
+}

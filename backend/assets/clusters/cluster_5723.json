@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:44",
+            "02:57"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it was quite a crazy radical move",
+            "count": 2
+        },
+        {
+            "phrase": "now he was vastly radicalized",
+            "count": 1
+        }
+    ]
+}

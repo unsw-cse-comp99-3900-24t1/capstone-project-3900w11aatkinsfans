@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:29",
+            "01:39",
+            "04:24"
+        ],
+        "label": "here"
+    },
+    "clusterList": [
+        {
+            "phrase": "here is why you don't do drugs",
+            "count": 2
+        },
+        {
+            "phrase": "i've never done drugs in my life anyone who knows me knows that i am so adamantly opposed to them",
+            "count": 1
+        },
+        {
+            "phrase": "from my experience it's not a good drug to just be out there",
+            "count": 1
+        }
+    ]
+}

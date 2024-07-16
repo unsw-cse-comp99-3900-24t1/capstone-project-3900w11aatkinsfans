@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:56",
+            "03:48",
+            "04:03"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they said they were paying more attention to the race",
+            "count": 2
+        },
+        {
+            "phrase": "its pretty clear that democrats as a party owe blacks a big apology",
+            "count": 2
+        }
+    ]
+}

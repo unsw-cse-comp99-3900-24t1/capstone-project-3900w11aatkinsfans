@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:42",
+            "04:24"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when they first brought kevin in they told me he was a guy who was similar to me",
+            "count": 1
+        },
+        {
+            "phrase": "all i heard for months was i don't like brandon that reminds me of this jerk i went to high school with and on and on it went",
+            "count": 1
+        },
+        {
+            "phrase": "he just kicked death's ass and said no way man i'm not ready whenever i get whiny i think about curtis and a couple of other friends and what they've been through and i shut the f up",
+            "count": 1
+        }
+    ]
+}

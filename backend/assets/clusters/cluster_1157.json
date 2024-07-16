@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:46",
+            "01:00",
+            "01:43",
+            "02:00",
+            "02:27",
+            "02:47",
+            "03:23",
+            "04:04",
+            "04:15",
+            "04:19",
+            "04:41"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "transportation security specialist",
+            "count": 8
+        },
+        {
+            "phrase": "well the rural nature of our network doesn't allow us to have airport-style security doesn't make it practical for us to do that we're working with transport canada to review inner-city bus security",
+            "count": 2
+        },
+        {
+            "phrase": "we have put cctv cameras in the buses we also check the buses once they come to the depot says gm best uttam khobragade",
+            "count": 2
+        },
+        {
+            "phrase": "we are working with transport canada to review inter-city bus security",
+            "count": 1
+        }
+    ]
+}

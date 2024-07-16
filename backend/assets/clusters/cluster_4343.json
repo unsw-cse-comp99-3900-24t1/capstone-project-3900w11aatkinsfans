@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:08",
+            "03:37",
+            "05:01",
+            "05:04"
+        ],
+        "label": "associate"
+    },
+    "clusterList": [
+        {
+            "phrase": "associate rightly or wrongly to a person",
+            "count": 1
+        },
+        {
+            "phrase": "the bottom line is if there is some reason like the person's prejudice causes them to commit the offense that's going to come out anyway",
+            "count": 1
+        },
+        {
+            "phrase": "self-identify as gay lesbian bisexual or transgender or who are questioning their sexual or gender identity",
+            "count": 1
+        },
+        {
+            "phrase": "in situations where the stereotype is applicable one is at risk of confirming it as a self-characterization both to one's self and to others who know the stereotype",
+            "count": 1
+        },
+        {
+            "phrase": "i try not to conform to stereotypes",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:05",
+            "04:22"
+        ],
+        "label": "potentially"
+    },
+    "clusterList": [
+        {
+            "phrase": "potentially all the legacy companies are gone now",
+            "count": 1
+        },
+        {
+            "phrase": "we've been studying privatization for close to 30 years",
+            "count": 1
+        }
+    ]
+}

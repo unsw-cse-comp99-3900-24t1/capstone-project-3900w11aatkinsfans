@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:14",
+            "03:48",
+            "04:44"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we interviewed the people who have inspired us with the hope that they will inspire and teach others",
+            "count": 2
+        },
+        {
+            "phrase": "we have filled influence with the most interesting challenging creative people we know the ones who helped pave the way for us and our generation",
+            "count": 1
+        },
+        {
+            "phrase": "they thank us for making their jobs easier and for giving them better ideas for how to teach a concept",
+            "count": 1
+        }
+    ]
+}

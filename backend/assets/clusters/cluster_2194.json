@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:01",
+            "03:24"
+        ],
+        "label": "mohammed"
+    },
+    "clusterList": [
+        {
+            "phrase": "mohammed take off your underwear",
+            "count": 2
+        },
+        {
+            "phrase": "mohammed you have to sign on this",
+            "count": 2
+        },
+        {
+            "phrase": "mohammed is unconscious and he cannot at all do anything or sign any paper",
+            "count": 2
+        },
+        {
+            "phrase": "no i don't do that i am arab and muslim",
+            "count": 2
+        }
+    ]
+}

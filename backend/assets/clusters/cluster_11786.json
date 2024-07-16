@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:05"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "there are zombies down there in case you haven't noticed",
+            "count": 1
+        },
+        {
+            "phrase": "we don't have a phone we're totally surrounded and there are zombies all over the lower level",
+            "count": 1
+        }
+    ]
+}

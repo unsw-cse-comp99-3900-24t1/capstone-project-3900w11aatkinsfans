@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:42",
+            "00:51",
+            "00:52",
+            "01:07"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "they can have effects on reproduction some pharmaceuticals estrogens testosterone some pesticides the endocrine system is the one that produces hormones and it is very very sensitive and there are chemicals in the water that influence the endocrine system of fish",
+            "count": 3
+        },
+        {
+            "phrase": "we found that in fish that do have temperature-dependent sex determination tsd a rise in water temperature of just 1 5 degrees celsius can change the male-to-female ratio from 1 1 to 3 1",
+            "count": 2
+        }
+    ]
+}

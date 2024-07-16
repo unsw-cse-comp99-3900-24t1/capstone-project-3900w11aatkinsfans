@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:48",
+            "04:32"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when you're own have died when there's no more pride when your soul is frozen is that enough when your heart is broken a thousand times will that be only is that enough",
+            "count": 2
+        },
+        {
+            "phrase": "when you get older your heart dies",
+            "count": 1
+        }
+    ]
+}

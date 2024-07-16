@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "04:04",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "outright barbarous how the violent language of the right poisons american democracy",
+            "count": 2
+        },
+        {
+            "phrase": "the worst enemy of truth and freedom in our society is the compact majority",
+            "count": 1
+        }
+    ]
+}

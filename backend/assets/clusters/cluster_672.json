@@ -1,0 +1,123 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:14",
+            "00:36",
+            "00:53",
+            "01:02",
+            "01:10",
+            "02:32",
+            "03:15",
+            "03:18",
+            "03:38",
+            "03:47",
+            "03:51",
+            "04:00",
+            "04:05",
+            "04:08",
+            "04:23"
+        ],
+        "label": "things"
+    },
+    "clusterList": [
+        {
+            "phrase": "things we can do",
+            "count": 1
+        },
+        {
+            "phrase": "what shall we do",
+            "count": 1
+        },
+        {
+            "phrase": "basically what we're gonna do is dance",
+            "count": 1
+        },
+        {
+            "phrase": "what do we do with it now",
+            "count": 1
+        },
+        {
+            "phrase": "what would we do",
+            "count": 1
+        },
+        {
+            "phrase": "i'm not sure what else we are going to do but we are certainly going to try what happened there this week there's no way we could have even anticipated that",
+            "count": 1
+        },
+        {
+            "phrase": "what are we supposed to do",
+            "count": 1
+        },
+        {
+            "phrase": "what's your plan",
+            "count": 1
+        },
+        {
+            "phrase": "duh and what are we going to do",
+            "count": 1
+        },
+        {
+            "phrase": "what are you going to do to me",
+            "count": 1
+        },
+        {
+            "phrase": "what will you do next",
+            "count": 1
+        },
+        {
+            "phrase": "going to be one of the first things we have",
+            "count": 1
+        },
+        {
+            "phrase": "we kind of don't know what's next",
+            "count": 1
+        },
+        {
+            "phrase": "let us show you what we're going to",
+            "count": 1
+        },
+        {
+            "phrase": "what the heck are we doing here anyway",
+            "count": 1
+        },
+        {
+            "phrase": "well what else are we going to do",
+            "count": 1
+        },
+        {
+            "phrase": "what the hell are we going to do now",
+            "count": 1
+        },
+        {
+            "phrase": "what are we going to do",
+            "count": 1
+        },
+        {
+            "phrase": "what will we do",
+            "count": 1
+        },
+        {
+            "phrase": "so what should we do",
+            "count": 1
+        }
+    ]
+}

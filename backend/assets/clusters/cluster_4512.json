@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "01:50",
+            "04:03",
+            "04:18"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll definitely get back up on the horse but probably not alone he said beijing olympics",
+            "count": 1
+        },
+        {
+            "phrase": "betraying olympic values",
+            "count": 1
+        },
+        {
+            "phrase": "you're telling me to wear what chinese are ordered to smarten up for olympics",
+            "count": 1
+        },
+        {
+            "phrase": "you've ruined our fun they said ridiculous they are just trying to make fun of china",
+            "count": 1
+        }
+    ]
+}

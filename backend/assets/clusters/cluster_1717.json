@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:18",
+            "00:27",
+            "00:46",
+            "01:00",
+            "01:28",
+            "02:47",
+            "02:50",
+            "04:45"
+        ],
+        "label": "you've"
+    },
+    "clusterList": [
+        {
+            "phrase": "now i admit we did it really well but that shouldn't be a strike against me",
+            "count": 3
+        },
+        {
+            "phrase": "i was more aggressive in the strike zone",
+            "count": 2
+        },
+        {
+            "phrase": "you've been out there all day running in and then the decision gets turned down you can chunter as much as you want at the umpire but you've got to get on with it it was an aimless rant i went in to see aleem afterwards and apologised i shook his hand and we're friends again",
+            "count": 1
+        },
+        {
+            "phrase": "it was tough because i know everybody in the whole stadium and every player they know i'm not trying to hit a-rod",
+            "count": 1
+        },
+        {
+            "phrase": "as soon as i blew the final whistle one of the kio kio players came over to abuse me",
+            "count": 1
+        },
+        {
+            "phrase": "unfortunately the jgr pitch didn't take",
+            "count": 1
+        },
+        {
+            "phrase": "i wanted six innings out of him and he gave me nine",
+            "count": 1
+        }
+    ]
+}

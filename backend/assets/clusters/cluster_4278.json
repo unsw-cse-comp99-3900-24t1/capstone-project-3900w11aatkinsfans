@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:58",
+            "02:23",
+            "03:21",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have magical power",
+            "count": 1
+        },
+        {
+            "phrase": "the way of the lord",
+            "count": 1
+        },
+        {
+            "phrase": "what about god",
+            "count": 1
+        },
+        {
+            "phrase": "god of power and might",
+            "count": 1
+        },
+        {
+            "phrase": "power is the greatest aphrodisiac",
+            "count": 1
+        }
+    ]
+}

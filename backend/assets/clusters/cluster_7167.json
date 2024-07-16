@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "03:05",
+            "03:18"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you lazy sack of shit you need to get off the couch and get a damn job",
+            "count": 1
+        },
+        {
+            "phrase": "get up and do some useful work to fix your fuckingly low life you lazy bastards don't be such a whiner and spoiled brat sheesh",
+            "count": 1
+        },
+        {
+            "phrase": "you know being lazy is the worst fault i can think of",
+            "count": 1
+        }
+    ]
+}

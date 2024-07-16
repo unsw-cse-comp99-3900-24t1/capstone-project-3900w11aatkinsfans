@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:05",
+            "03:19",
+            "03:23",
+            "03:24",
+            "04:13"
+        ],
+        "label": "incubation"
+    },
+    "clusterList": [
+        {
+            "phrase": "some of microsoft's senior testers and i was reminded of that task today when i found out that james whittaker has started blogging if you're interested in testing these are great places to see inside the minds of some of the industry",
+            "count": 3
+        },
+        {
+            "phrase": "incubation software project",
+            "count": 2
+        },
+        {
+            "phrase": "microsoft's plans for post-windows os revealed",
+            "count": 1
+        }
+    ]
+}

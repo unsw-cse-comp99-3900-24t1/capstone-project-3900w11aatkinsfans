@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "04:33",
+            "04:36"
+        ],
+        "label": "we'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "we'll take what we can get",
+            "count": 1
+        },
+        {
+            "phrase": "we are lucky we have the money to get what we want we want to be the best",
+            "count": 1
+        },
+        {
+            "phrase": "we trade what we truly have",
+            "count": 1
+        }
+    ]
+}

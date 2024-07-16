@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "01:50",
+            "03:37"
+        ],
+        "label": "bearer"
+    },
+    "clusterList": [
+        {
+            "phrase": "bearer of the image",
+            "count": 1
+        },
+        {
+            "phrase": "the serpeant bearer",
+            "count": 1
+        },
+        {
+            "phrase": "moribito guardian of the spirit",
+            "count": 1
+        }
+    ]
+}

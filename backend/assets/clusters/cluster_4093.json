@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:18",
+            "01:04",
+            "04:36"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i get done with college football i'll let it out",
+            "count": 2
+        },
+        {
+            "phrase": "am i happy with that no i want to be a starter",
+            "count": 1
+        },
+        {
+            "phrase": "if you find joy in football then you will play beautiful",
+            "count": 1
+        },
+        {
+            "phrase": "our main focus is to play football in jacksonville and come out with a win",
+            "count": 1
+        }
+    ]
+}

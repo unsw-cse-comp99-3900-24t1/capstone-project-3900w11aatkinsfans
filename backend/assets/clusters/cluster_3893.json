@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:24",
+            "01:47",
+            "03:18",
+            "04:36"
+        ],
+        "label": "talk"
+    },
+    "clusterList": [
+        {
+            "phrase": "talk about embarrassment you know it was just uncalled for",
+            "count": 1
+        },
+        {
+            "phrase": "i was embarrassed when he gave me the red card",
+            "count": 1
+        },
+        {
+            "phrase": "he is embarrassing us again",
+            "count": 1
+        },
+        {
+            "phrase": "duh was the pok mon scaring you",
+            "count": 1
+        },
+        {
+            "phrase": "he just knew it would embarrass me",
+            "count": 1
+        }
+    ]
+}

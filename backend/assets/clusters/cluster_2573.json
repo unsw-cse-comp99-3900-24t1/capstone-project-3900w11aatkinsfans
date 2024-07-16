@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:41",
+            "03:01",
+            "03:46",
+            "04:41"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "well americans what nothin better to do why don't you kick yourself out you're an immigrant too",
+            "count": 3
+        },
+        {
+            "phrase": "the americans don't want you to return",
+            "count": 1
+        },
+        {
+            "phrase": "get out of the united states",
+            "count": 1
+        },
+        {
+            "phrase": "what american doesn't want",
+            "count": 1
+        },
+        {
+            "phrase": "some countries quickly dismissed the u",
+            "count": 1
+        }
+    ]
+}

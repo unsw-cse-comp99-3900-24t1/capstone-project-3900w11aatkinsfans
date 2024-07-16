@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:00",
+            "01:06",
+            "01:39",
+            "03:27"
+        ],
+        "label": "great"
+    },
+    "clusterList": [
+        {
+            "phrase": "great barrier reef theme parks",
+            "count": 1
+        },
+        {
+            "phrase": "the walk offers a unique opportunity for hikers to traverse five national parks 38 ocean beaches countless headlands and our magnificent harbour",
+            "count": 1
+        },
+        {
+            "phrase": "parks and natural attractions",
+            "count": 1
+        },
+        {
+            "phrase": "parks for the people",
+            "count": 1
+        },
+        {
+            "phrase": "industrial tourism and the national parks",
+            "count": 1
+        }
+    ]
+}

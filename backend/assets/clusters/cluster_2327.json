@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "01:43",
+            "04:13",
+            "04:28",
+            "04:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the man and the rich white folks keep this city back vote democratic",
+            "count": 6
+        },
+        {
+            "phrase": "the shift began in the late 1960s when urban regions from financial centers such as new york and chicago to old industrial cities such as detroit and cleveland began to suffer a massive exodus of predominantly white middle-class residents this left behind an increasingly impoverished highly minority population with very little proclivity to support conservative or even moderate republicans today in some cities mostly old industrial centers in the east and midwest this population remains dominant and is likely to vote in huge numbers for obama most of these cities suffer poverty rates at least 50 percent higher than the national average at the same time some other cities such as new york chicago boston san francisco seattle and portland have done far better they have done so by attracting a population of well-educated white professionals pockets of this demographic to be sure also exist in some hard-hit industrial cities but the new urban affluents tend to concentrate in cities with industries such as financial services and media that provide excitement and the prospect of high-wage employment in a glamorous setting many new urbanites tend to be students or professionals enjoying city life during their first highly experimental years of adulthood at this point they are most open to liberal ideas and causes they have yet to worry much about taxes and crime issues that drive people to the center as they grow older marry and raise families many in this cohort particularly those who do not ascend into the upper classes leave the urban core for the suburbs or other more affordable regions",
+            "count": 1
+        },
+        {
+            "phrase": "the shift from the suburbs toward the urban core is most pronounced as talented ambitious people trade more space for shorter commutes",
+            "count": 1
+        }
+    ]
+}

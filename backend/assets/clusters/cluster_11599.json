@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the day peter retired i thought ken was going to cry",
+            "count": 1
+        },
+        {
+            "phrase": "ken thought he was catching up to peter",
+            "count": 1
+        }
+    ]
+}

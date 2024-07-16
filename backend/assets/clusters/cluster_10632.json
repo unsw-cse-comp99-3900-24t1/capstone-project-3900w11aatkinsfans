@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:20",
+            "04:06"
+        ],
+        "label": "squeezing"
+    },
+    "clusterList": [
+        {
+            "phrase": "squeezing of the chest",
+            "count": 1
+        },
+        {
+            "phrase": "squeezing like that won't help",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "04:03"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i do not choose to run for president in 1928",
+            "count": 1
+        },
+        {
+            "phrase": "well i've been approached for president of the united states but i've declined so far",
+            "count": 1
+        }
+    ]
+}

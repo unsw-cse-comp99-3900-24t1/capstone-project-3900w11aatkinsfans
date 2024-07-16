@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:51",
+            "01:55",
+            "02:24",
+            "03:38",
+            "04:41"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's not practical for us",
+            "count": 3
+        },
+        {
+            "phrase": "is it practical",
+            "count": 1
+        },
+        {
+            "phrase": "it's not totally practical but because it's easy people are already all over it",
+            "count": 1
+        },
+        {
+            "phrase": "is this really useful",
+            "count": 1
+        }
+    ]
+}

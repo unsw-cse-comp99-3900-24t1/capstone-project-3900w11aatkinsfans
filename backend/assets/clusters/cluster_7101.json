@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:44",
+            "04:17"
+        ],
+        "label": "flat"
+    },
+    "clusterList": [
+        {
+            "phrase": "was straight up and down",
+            "count": 2
+        },
+        {
+            "phrase": "flat to down slightly",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:46",
+            "01:37",
+            "01:58"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we are working very hard to minimize the impact to the landowners",
+            "count": 3
+        },
+        {
+            "phrase": "we look at stuff like this and these are people's homes this is maybe all that they own all that they have",
+            "count": 1
+        },
+        {
+            "phrase": "these homes and this land feature wonderfully unique details from intricate architecture to elegant and stunning gardens and pathways it's been clear to us from the beginning that everything has been deeply cared for with the hope of allowing this region to be adored for generations to come",
+            "count": 1
+        }
+    ]
+}

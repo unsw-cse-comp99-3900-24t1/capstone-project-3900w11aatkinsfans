@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "03:43",
+            "03:46",
+            "03:58",
+            "04:09",
+            "04:31",
+            "04:51"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "what the chinese tried to do was infiltrate their security to see who in china the tibet movement was talking to",
+            "count": 7
+        },
+        {
+            "phrase": "these people have since long been engaged in anti-china splittism and hostile sabotage under the banner of so-called",
+            "count": 1
+        }
+    ]
+}

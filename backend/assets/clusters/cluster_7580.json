@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:50",
+            "03:09",
+            "03:47"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "do the american people want to elect the world's biggest celebrity or do they want to elect an american hero",
+            "count": 2
+        },
+        {
+            "phrase": "hey he's a celebrity and cool but does that mean he's going to be a good president",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "04:17"
+        ],
+        "label": "creatinism"
+    },
+    "clusterList": [
+        {
+            "phrase": "creatinism is an american institutin",
+            "count": 1
+        },
+        {
+            "phrase": "fellows of the institute whose initials are ab",
+            "count": 1
+        }
+    ]
+}

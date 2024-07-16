@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:27",
+            "04:13"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but we are now focusing on our response to the court",
+            "count": 2
+        },
+        {
+            "phrase": "no way of assessing how the seizure of the box may have forever compromised the defendant's ability to present an effective defense",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "02:31"
+        ],
+        "label": "write"
+    },
+    "clusterList": [
+        {
+            "phrase": "write once run anywhere",
+            "count": 1
+        },
+        {
+            "phrase": "write once run every where",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:23",
+            "02:26",
+            "03:50"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but the dynamic is different this year because of the presidential election",
+            "count": 2
+        },
+        {
+            "phrase": "the story of the election through the summer months has been a close race that simply does not seem to want to change obama has generally been in the lead and it is significant that mccain has never held even a 1-point lead among registered voters in gallup poll daily tracking since obama clinched the democratic nomination in early june still the relative stability of the race even in the aftermath of such a high-visibility event as obama's foreign trip coupled of course with the mccain campaign's vigorous efforts to defuse its impact continues to suggest that it may be the conventions in late august and early september that will offer the next potential timeframe for significant and or sustained change",
+            "count": 1
+        },
+        {
+            "phrase": "you sit down with your team and you look at what the numbers are you look at the upcoming primaries what the prospects are you talk about can we go to the convention would mike huckabee and myself and others have enough delegates that we can keep sen mccain from getting the nomination and end up going to the convention i mean you go through all the scenarios and one by one you say well no that one doesn't work that's not realistic and oh that one doesn't work that's not realistic we're not going to do well in that state you go through that kind of process and that's what led to our conclusion that it was very unlikely that i would be able to win the nomination given the success through super tuesday was it possible yes was it very likely no",
+            "count": 1
+        }
+    ]
+}

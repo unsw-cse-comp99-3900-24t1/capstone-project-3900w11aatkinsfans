@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:13",
+            "04:27",
+            "04:32",
+            "04:45"
+        ],
+        "label": "declaration"
+    },
+    "clusterList": [
+        {
+            "phrase": "declaration of intent",
+            "count": 3
+        },
+        {
+            "phrase": "phase of declaration to a phase of implementation and action",
+            "count": 1
+        }
+    ]
+}

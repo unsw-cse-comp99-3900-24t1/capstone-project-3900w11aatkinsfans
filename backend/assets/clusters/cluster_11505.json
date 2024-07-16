@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "03:37"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that man wants to give us a crab",
+            "count": 1
+        },
+        {
+            "phrase": "no he really wants to give us some crabs",
+            "count": 1
+        }
+    ]
+}

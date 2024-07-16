@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:24",
+            "03:52"
+        ],
+        "label": "our"
+    },
+    "clusterList": [
+        {
+            "phrase": "our extremely dedicated and hard-working staff are particularly busy at the moment",
+            "count": 1
+        },
+        {
+            "phrase": "we're at the point now where we have enough staff that one of us could be gone more often than we are",
+            "count": 1
+        }
+    ]
+}

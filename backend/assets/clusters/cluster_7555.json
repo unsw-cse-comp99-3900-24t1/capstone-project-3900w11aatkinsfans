@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:41",
+            "04:29",
+            "04:36"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i wish them well",
+            "count": 1
+        },
+        {
+            "phrase": "looked like they were on a holiday",
+            "count": 1
+        },
+        {
+            "phrase": "i sadly had to give them back to my friend because they were really nice",
+            "count": 1
+        }
+    ]
+}

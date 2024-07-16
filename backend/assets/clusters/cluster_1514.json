@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:33",
+            "02:24",
+            "02:45",
+            "03:05",
+            "03:30",
+            "03:36",
+            "03:50",
+            "04:05",
+            "04:06",
+            "04:51"
+        ],
+        "label": "public"
+    },
+    "clusterList": [
+        {
+            "phrase": "public opinion deserves to be",
+            "count": 1
+        },
+        {
+            "phrase": "there are different opinions out there and i understand that and i respect those opinions",
+            "count": 1
+        },
+        {
+            "phrase": "my opinion is my opinion another person",
+            "count": 1
+        },
+        {
+            "phrase": "0 opinions for",
+            "count": 1
+        },
+        {
+            "phrase": "out of nowhere and i would like to know your personal opinion kap",
+            "count": 1
+        },
+        {
+            "phrase": "only people with a right to an opinion",
+            "count": 1
+        },
+        {
+            "phrase": "this is my own personal opinion",
+            "count": 1
+        },
+        {
+            "phrase": "even if you really don't agree with what i think",
+            "count": 1
+        },
+        {
+            "phrase": "its the only opinion that matters because i am man",
+            "count": 1
+        },
+        {
+            "phrase": "this isn't even good enough for me to formulate an opinion on",
+            "count": 1
+        },
+        {
+            "phrase": "other people's opinions",
+            "count": 1
+        }
+    ]
+}

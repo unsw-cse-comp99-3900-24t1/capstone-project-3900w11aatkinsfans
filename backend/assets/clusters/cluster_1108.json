@@ -1,0 +1,73 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:20",
+            "00:23",
+            "00:38",
+            "01:01",
+            "01:47",
+            "02:20",
+            "02:29",
+            "02:32",
+            "03:18",
+            "04:21",
+            "04:46",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "he just wants to be left alone",
+            "count": 3
+        },
+        {
+            "phrase": "change his life around and get a fresh start",
+            "count": 3
+        },
+        {
+            "phrase": "the hardest thing is he is really petrified all you want to do is give him a big cuddle and say it's alright but you're not allowed to do that",
+            "count": 2
+        },
+        {
+            "phrase": "your love alone is not enough",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to be alone anymore",
+            "count": 1
+        },
+        {
+            "phrase": "be on his own",
+            "count": 1
+        },
+        {
+            "phrase": "i want to move on with my life i'm trying to graduate high school and forget about this i try not to think about it but it's hard because all i can think about is what if he's out there around other kids",
+            "count": 1
+        },
+        {
+            "phrase": "he has to learn to be alone just get on with your life",
+            "count": 1
+        },
+        {
+            "phrase": "he can control how i feel and he doesn't like the way you and i love one another",
+            "count": 1
+        }
+    ]
+}

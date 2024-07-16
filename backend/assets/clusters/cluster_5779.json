@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:15",
+            "04:33"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that was definitely something in the back of my mind",
+            "count": 1
+        },
+        {
+            "phrase": "different thoughts kept coming into my head",
+            "count": 1
+        },
+        {
+            "phrase": "the thing going through my mind was what was i going to see around the corner",
+            "count": 1
+        }
+    ]
+}

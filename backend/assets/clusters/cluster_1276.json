@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:03",
+            "00:04",
+            "00:30",
+            "00:56",
+            "01:33",
+            "03:01",
+            "03:19",
+            "03:20",
+            "05:04"
+        ],
+        "label": "surprisingly"
+    },
+    "clusterList": [
+        {
+            "phrase": "is strangely written",
+            "count": 4
+        },
+        {
+            "phrase": "well written and very balanced",
+            "count": 2
+        },
+        {
+            "phrase": "the quite remarkably different style of your writing",
+            "count": 2
+        },
+        {
+            "phrase": "surprisingly well written",
+            "count": 1
+        },
+        {
+            "phrase": "it is written",
+            "count": 1
+        },
+        {
+            "phrase": "here's a book i wrote",
+            "count": 1
+        },
+        {
+            "phrase": "you're a really good writer",
+            "count": 1
+        }
+    ]
+}

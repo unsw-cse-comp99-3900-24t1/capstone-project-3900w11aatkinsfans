@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:10"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we were visiting the dog he still had the chain and everything and i would go to loosen it up and he would get out and try to run away dad told me not to do that",
+            "count": 1
+        },
+        {
+            "phrase": "it upsets me that he is my dog and then i trusted my dad with the dog and he neglects it and abuses it it's not right i haven't gotten to talk with him about it yet but i'm still really upset about it and i wish he wouldn't have done it",
+            "count": 1
+        },
+        {
+            "phrase": "break up the chain",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:35",
+            "04:14",
+            "05:04"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i spoke to him yesterday in the hospital his two fingers are pretty mashed but we're figuring out a way to shoot around it kind of write it in the story",
+            "count": 2
+        },
+        {
+            "phrase": "his two fingers are pretty mashed but we're figuring out a way to shoot around it kind of write it in the story",
+            "count": 1
+        }
+    ]
+}

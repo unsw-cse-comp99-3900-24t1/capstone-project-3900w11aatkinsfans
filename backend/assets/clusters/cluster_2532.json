@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:30",
+            "01:54",
+            "03:05",
+            "03:42",
+            "04:32"
+        ],
+        "label": "honor"
+    },
+    "clusterList": [
+        {
+            "phrase": "respect is earned ii",
+            "count": 3
+        },
+        {
+            "phrase": "honor all men honor the king",
+            "count": 1
+        },
+        {
+            "phrase": "for there is no respect of persons with god",
+            "count": 1
+        },
+        {
+            "phrase": "but fortunately because of the dignity and respect that is shown to everybody we see hope every single day",
+            "count": 1
+        },
+        {
+            "phrase": "do unto others as you would have them do unto you",
+            "count": 1
+        }
+    ]
+}

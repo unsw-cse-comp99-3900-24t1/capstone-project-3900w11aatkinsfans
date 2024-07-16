@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:16",
+            "02:22",
+            "02:51"
+        ],
+        "label": "privacy"
+    },
+    "clusterList": [
+        {
+            "phrase": "privacy awareness week is an opportune time to review your practices and procedures for handling personal information",
+            "count": 1
+        },
+        {
+            "phrase": "the presentation examines the risks inherent in managing information in today's technology-enabled business world and provides some guidance on how to deal with these risks",
+            "count": 1
+        },
+        {
+            "phrase": "the presentation examines the risks inherent in managing information in today's technology-enabled business world and provides some guidance on how to deal with these risks by generating increasing numbers of transactions and volumes of information data documents web content and records information technologies have stimulated the generation of even more information and at a faster rate practical approaches to mitigate information risk management are often overlooked by organisations",
+            "count": 1
+        }
+    ]
+}

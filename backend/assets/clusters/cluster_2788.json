@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "00:51",
+            "01:19",
+            "03:23",
+            "03:51",
+            "04:05",
+            "04:47"
+        ],
+        "label": "long"
+    },
+    "clusterList": [
+        {
+            "phrase": "i was wrong this is the road ahead",
+            "count": 3
+        },
+        {
+            "phrase": "long way round",
+            "count": 2
+        },
+        {
+            "phrase": "ahead of the curve",
+            "count": 1
+        },
+        {
+            "phrase": "there's a long hard yet sweet road ahead",
+            "count": 1
+        }
+    ]
+}

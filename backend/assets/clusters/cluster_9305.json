@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "03:50"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is an awesome summer drink to serve on the deck while the grill warms up",
+            "count": 1
+        },
+        {
+            "phrase": "drinks food and connecting at summermash",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:34",
+            "04:08",
+            "04:20"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he has to run away because we have to chase him",
+            "count": 3
+        },
+        {
+            "phrase": "he has to run away-because we have to chase him",
+            "count": 1
+        }
+    ]
+}

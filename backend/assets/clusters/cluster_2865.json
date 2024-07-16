@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:20",
+            "01:05",
+            "03:18",
+            "03:24",
+            "03:38"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it's going to be months that we're working our way through this period clearly months but again it's a safe banking system a sound banking system our regulators are on top of it this is a very manageable situation",
+            "count": 2
+        },
+        {
+            "phrase": "spread of banking panic forces ministers to guarantee savings",
+            "count": 1
+        },
+        {
+            "phrase": "solutions and services faces a hard time trying to meet its target for the full financial year having achieved an ebit margin of only 2 6 for the first nine months of the year",
+            "count": 1
+        },
+        {
+            "phrase": "the bank is aware of situation and we are quite comfortable as we have the tools in place to monitor the situation which complement our existing capability in both hawk-i and two factor authentication",
+            "count": 1
+        },
+        {
+            "phrase": "you could have most of the us banking system wiped out so this is a total disaster",
+            "count": 1
+        }
+    ]
+}

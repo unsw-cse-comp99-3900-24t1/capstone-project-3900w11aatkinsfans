@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26",
+            "03:59",
+            "04:04",
+            "04:41",
+            "04:49"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the tools of conquest do not necessarily come with bombs and explosions and fallout there are weapons that are simply thoughts attitudes prejudices to be found only in the minds of men",
+            "count": 4
+        },
+        {
+            "phrase": "the victory over taliban tyrants is a victory for humanist values",
+            "count": 2
+        },
+        {
+            "phrase": "from the tyranny of the taliban is a watershed event that could reverberate for years the warm embrace by ordinary people of the freedom to do ordinary things is a major victory for western humanist values",
+            "count": 2
+        },
+        {
+            "phrase": "the weapon of a position that has been turned into a culture builds the homeland of the resistance it has become the culture of the generations that will realize the dream of annihilating that plundering entity allow me to commemorate a great legendary commander the martyred hero and mujahid imad mughniya i would like to say just one thing hajj imad we will only be worthy of the blood you sacrificed when we force this enemy to long for your times",
+            "count": 1
+        },
+        {
+            "phrase": "we recognise the threat we recognise that we have to fight against terrorism but we also think very strongly as we always have that sri lanka is fundamentally a democracy and that a democracy needs to be extended to all its citizens",
+            "count": 1
+        }
+    ]
+}

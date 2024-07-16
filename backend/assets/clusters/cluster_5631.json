@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:06",
+            "05:01"
+        ],
+        "label": "justice"
+    },
+    "clusterList": [
+        {
+            "phrase": "justice in egypt is not blindfolded",
+            "count": 1
+        },
+        {
+            "phrase": "this man pleads for justice we care about anwar more than we care about this man that is very odd he needs justice that is what he is crying for we cannot ignore that",
+            "count": 1
+        },
+        {
+            "phrase": "alleviating this problem demands all sides exercise prudence consult on an equal basis and strive to cooperate not rashly push for sanctions indictments verdicts and even issuing arrest warrants",
+            "count": 1
+        }
+    ]
+}

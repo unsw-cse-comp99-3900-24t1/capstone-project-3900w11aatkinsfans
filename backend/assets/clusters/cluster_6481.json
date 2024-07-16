@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:13",
+            "01:24"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "these were national guard units so they weren't full-time soldiers",
+            "count": 1
+        },
+        {
+            "phrase": "these were people who knew each other one of the soldiers was a national guard recruiter who was serving with his brother there were real ties there to their families their neighbors and their community",
+            "count": 1
+        },
+        {
+            "phrase": "two lifeguards on duty were seated in lifeguard stations within the occupied areas while there were no persons in the wading area three lifeguards were required nonetheless",
+            "count": 1
+        }
+    ]
+}

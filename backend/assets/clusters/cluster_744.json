@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "00:34",
+            "01:06",
+            "01:10",
+            "01:30",
+            "01:37",
+            "01:51",
+            "02:10",
+            "02:29",
+            "02:31",
+            "03:02",
+            "03:14",
+            "03:41",
+            "03:48",
+            "03:51",
+            "04:28"
+        ],
+        "label": "something"
+    },
+    "clusterList": [
+        {
+            "phrase": "something which has never occurred since time immemorial a young woman did not fart in her husband's lap",
+            "count": 16
+        },
+        {
+            "phrase": "something that did happen some chick farted on her husband's lap",
+            "count": 1
+        },
+        {
+            "phrase": "something which has never occured since time immemo rial a young woman did not fart in her husband's lap",
+            "count": 1
+        }
+    ]
+}

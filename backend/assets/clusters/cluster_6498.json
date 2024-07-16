@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:15",
+            "02:33",
+            "03:09"
+        ],
+        "label": "sweet"
+    },
+    "clusterList": [
+        {
+            "phrase": "sweet home chicago",
+            "count": 1
+        },
+        {
+            "phrase": "the upstate cupcake cafe",
+            "count": 1
+        },
+        {
+            "phrase": "sweet home alabama and",
+            "count": 1
+        }
+    ]
+}

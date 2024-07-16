@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "02:11",
+            "03:42"
+        ],
+        "label": "opportunity"
+    },
+    "clusterList": [
+        {
+            "phrase": "opportunity to demonstrate compassion on human rights and freedom",
+            "count": 1
+        },
+        {
+            "phrase": "as the whole world knows by now thousands of southern negro students are engaged in widespread non-violent demonstrations in positive affirmation of the right to live in human dignity as guaranteed by the u s constitution and the bill of rights",
+            "count": 1
+        },
+        {
+            "phrase": "we in the south who are struggling daily for dignity and freedom warmly endorse this appeal",
+            "count": 1
+        },
+        {
+            "phrase": "we in the south warmly endorse this appeal",
+            "count": 1
+        }
+    ]
+}

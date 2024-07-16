@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            6
+        ],
+        "xLabels": [
+            "00:00",
+            "03:18"
+        ],
+        "label": "aaah"
+    },
+    "clusterList": [
+        {
+            "phrase": "aaah ok doll i'll have some of that pomegran-night and cranberry",
+            "count": 1
+        },
+        {
+            "phrase": "uh huh now where are the tea bags i need a cuppa",
+            "count": 1
+        },
+        {
+            "phrase": "thankyou sir now i just need to find my favorite mug and i'll be okie-dokie",
+            "count": 1
+        },
+        {
+            "phrase": "i've brought you some tea and crumpets for brekkie",
+            "count": 1
+        },
+        {
+            "phrase": "yes of course bring those crumpets over here then i haven't eaten anything all morning",
+            "count": 1
+        },
+        {
+            "phrase": "my mother sometimes sends me presents from wales she sent me a package of crumpets last week therefore sir i am sharing them with you",
+            "count": 1
+        },
+        {
+            "phrase": "do you want some breakfast i can make toast with british bread",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "02:01",
+            "03:10",
+            "04:31"
+        ],
+        "label": "bizarre"
+    },
+    "clusterList": [
+        {
+            "phrase": "bizarre and misguided",
+            "count": 1
+        },
+        {
+            "phrase": "it is a mistake to confound strangeness with mystery",
+            "count": 1
+        },
+        {
+            "phrase": "what is the weirdest strangest thing about this story and why",
+            "count": 1
+        },
+        {
+            "phrase": "very very unusual",
+            "count": 1
+        }
+    ]
+}

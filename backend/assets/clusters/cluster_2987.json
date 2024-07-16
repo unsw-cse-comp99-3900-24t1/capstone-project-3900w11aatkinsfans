@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "01:47",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "understand"
+    },
+    "clusterList": [
+        {
+            "phrase": "i tell you the truth it is hard for a rich man to enter the kingdom of heaven again i tell you it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of god",
+            "count": 4
+        },
+        {
+            "phrase": "understand therefore that the lord thy god giveth thee not this good land to possess it for thy righteousness for thou art a stiffnecked people",
+            "count": 1
+        },
+        {
+            "phrase": "between the jew and the greek for the same lord over all is rich unto all that call upon him",
+            "count": 1
+        }
+    ]
+}

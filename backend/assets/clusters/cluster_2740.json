@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "01:51",
+            "02:01",
+            "03:55",
+            "04:28",
+            "04:41"
+        ],
+        "label": "john's"
+    },
+    "clusterList": [
+        {
+            "phrase": "john's been a celebrity ever since he was shot down",
+            "count": 5
+        },
+        {
+            "phrase": "is he a big dancer no",
+            "count": 1
+        },
+        {
+            "phrase": "i'm saying it's very clear he has celebrity status",
+            "count": 1
+        }
+    ]
+}

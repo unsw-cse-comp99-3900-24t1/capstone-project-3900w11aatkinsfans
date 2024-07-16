@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "02:22",
+            "03:37",
+            "03:46",
+            "03:55"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "but what are you going to do today if he serves like that maybe if i got the first set i would be sitting here and it would be different but that's not the case",
+            "count": 3
+        },
+        {
+            "phrase": "it's tough to beat a guy like that with a second serve",
+            "count": 2
+        }
+    ]
+}

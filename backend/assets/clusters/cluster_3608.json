@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:20",
+            "01:05",
+            "01:19",
+            "01:20"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i didn't need that this year",
+            "count": 3
+        },
+        {
+            "phrase": "we didn't need these",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't need that this year he said with a laugh",
+            "count": 1
+        }
+    ]
+}

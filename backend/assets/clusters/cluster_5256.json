@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:05",
+            "03:18"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when i brought boyfriends home they would ask me why is everyone shouting",
+            "count": 1
+        },
+        {
+            "phrase": "what's all the shouting about dad",
+            "count": 1
+        },
+        {
+            "phrase": "don't you speak to me or my son like that",
+            "count": 1
+        },
+        {
+            "phrase": "why are you yelling at our dad",
+            "count": 1
+        }
+    ]
+}

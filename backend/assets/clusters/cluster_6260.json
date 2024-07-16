@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "04:08",
+            "04:45"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i guess the answer to that would be no",
+            "count": 1
+        },
+        {
+            "phrase": "yes in a certain sense",
+            "count": 1
+        },
+        {
+            "phrase": "my theory would be the",
+            "count": 1
+        }
+    ]
+}

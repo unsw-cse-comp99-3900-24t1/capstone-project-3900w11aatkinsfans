@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:15",
+            "01:34"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an itch in time",
+            "count": 1
+        },
+        {
+            "phrase": "bites of the day",
+            "count": 1
+        }
+    ]
+}

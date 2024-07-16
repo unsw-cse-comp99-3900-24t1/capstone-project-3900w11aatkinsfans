@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:23",
+            "03:36"
+        ],
+        "label": "betty"
+    },
+    "clusterList": [
+        {
+            "phrase": "betty beetle's birthday party",
+            "count": 1
+        },
+        {
+            "phrase": "a 3-foot wedding cake fortune tellers twilight series trivia and a costume competition",
+            "count": 1
+        }
+    ]
+}

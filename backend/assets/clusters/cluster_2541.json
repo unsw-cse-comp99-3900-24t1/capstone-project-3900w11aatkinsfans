@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:00",
+            "02:43",
+            "04:00",
+            "04:28",
+            "04:41",
+            "05:04"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to be the man you gotta beat the man",
+            "count": 3
+        },
+        {
+            "phrase": "in bokum you have to be a man",
+            "count": 1
+        },
+        {
+            "phrase": "the man you've become",
+            "count": 1
+        },
+        {
+            "phrase": "no man comes close to representing the man i want to be",
+            "count": 1
+        },
+        {
+            "phrase": "a man's gotta do what a man's gotta do",
+            "count": 1
+        }
+    ]
+}

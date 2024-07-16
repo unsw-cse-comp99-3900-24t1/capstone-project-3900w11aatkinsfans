@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:04"
+        ],
+        "label": "living"
+    },
+    "clusterList": [
+        {
+            "phrase": "living there can be a nightmare and i feel so sorry for people who still live with all those troubles",
+            "count": 1
+        },
+        {
+            "phrase": "be it ever so horrid there's no place like hell",
+            "count": 1
+        }
+    ]
+}

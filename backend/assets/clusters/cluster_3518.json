@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:14",
+            "02:44",
+            "02:57",
+            "04:05"
+        ],
+        "label": "dude"
+    },
+    "clusterList": [
+        {
+            "phrase": "dude read this",
+            "count": 3
+        },
+        {
+            "phrase": "read the thread",
+            "count": 1
+        },
+        {
+            "phrase": "read me read me",
+            "count": 1
+        }
+    ]
+}

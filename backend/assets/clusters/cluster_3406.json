@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "01:37",
+            "01:40",
+            "02:01",
+            "02:26",
+            "04:56"
+        ],
+        "label": "these"
+    },
+    "clusterList": [
+        {
+            "phrase": "so you were giving them talking points",
+            "count": 3
+        },
+        {
+            "phrase": "these are just talking points right now",
+            "count": 1
+        },
+        {
+            "phrase": "me not saying something and you not writing it down are two completely different things",
+            "count": 1
+        },
+        {
+            "phrase": "hi if you're talking about what i thought you were talking about",
+            "count": 1
+        }
+    ]
+}

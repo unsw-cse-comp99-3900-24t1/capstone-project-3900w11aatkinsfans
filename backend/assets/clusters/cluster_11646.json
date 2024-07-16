@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:50",
+            "04:13"
+        ],
+        "label": "taxation"
+    },
+    "clusterList": [
+        {
+            "phrase": "taxation without representation",
+            "count": 1
+        },
+        {
+            "phrase": "in reviewing the history of the english government its wars and its taxes a bystander would declare that taxes were not raised to carry on wars but wars were raised to carry on taxes",
+            "count": 1
+        }
+    ]
+}

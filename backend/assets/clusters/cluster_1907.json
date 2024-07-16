@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "00:33",
+            "00:36",
+            "00:46",
+            "00:53",
+            "01:10",
+            "02:18",
+            "02:23",
+            "04:29"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he was in a lot of pain down in the tunnel",
+            "count": 2
+        },
+        {
+            "phrase": "he has no feelings or emotion about what he did",
+            "count": 1
+        },
+        {
+            "phrase": "his heart was moved with pity",
+            "count": 1
+        },
+        {
+            "phrase": "well it's his fault for being a pain",
+            "count": 1
+        },
+        {
+            "phrase": "he must have really upset somebody",
+            "count": 1
+        },
+        {
+            "phrase": "i don't think he's hurt",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't believe him at first then he started crying",
+            "count": 1
+        },
+        {
+            "phrase": "it's not about feeling sorry for him and who knows what could happen",
+            "count": 1
+        }
+    ]
+}

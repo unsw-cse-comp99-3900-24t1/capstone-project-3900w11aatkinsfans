@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "02:29",
+            "04:24"
+        ],
+        "label": "services"
+    },
+    "clusterList": [
+        {
+            "phrase": "services and functions of state government deemed critical and exempt",
+            "count": 2
+        },
+        {
+            "phrase": "nobody's life liberty or property is safe while congress is in session",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:19",
+            "00:52",
+            "01:00",
+            "01:01",
+            "01:05",
+            "01:06",
+            "01:15",
+            "02:13",
+            "02:24",
+            "02:28",
+            "03:09",
+            "03:28",
+            "03:41",
+            "03:42"
+        ],
+        "label": "data"
+    },
+    "clusterList": [
+        {
+            "phrase": "it is my hope that the release of this information will assist in improving security in both the public and private sectors",
+            "count": 4
+        },
+        {
+            "phrase": "scan for harmful software",
+            "count": 2
+        },
+        {
+            "phrase": "individuals and businesses that rely on disk encryption need to pay much closer attention to the physical security of their devices",
+            "count": 2
+        },
+        {
+            "phrase": "data protection is the number one concern of chief information security officers but today's dlp solutions take too long to deploy and obtain results",
+            "count": 1
+        },
+        {
+            "phrase": "our technology helps businesses answer the two fundamental questions of what to protect and from whom",
+            "count": 1
+        },
+        {
+            "phrase": "mcafee will be better equipped to help organizations address the complexity and time involved in the deployment and management of data protection",
+            "count": 1
+        },
+        {
+            "phrase": "it departments must re-evaluate the steps they take to protect mobile professionals the laptops they carry and company data stored on mobile devices",
+            "count": 1
+        },
+        {
+            "phrase": "protecting personal information best practices for business",
+            "count": 1
+        },
+        {
+            "phrase": "as a result there are potentially millions of files containing sensitive or confidential data that may be accessible to a large number of airport employees and contractors",
+            "count": 1
+        },
+        {
+            "phrase": "the department acknowledges the concern that there have been a small number of breaches of data security in recent years the department can assure the public that it treats any unauthorised access to or disclosure of personal data to be an extremely serious offence",
+            "count": 1
+        },
+        {
+            "phrase": "well what about some of these other sites i have logs of the requests and the vast majority are in direct violation of company policies there is a lot of warez and frankly frightening porn in here can you guys analyze this and help me track down whoever is responsible",
+            "count": 1
+        },
+        {
+            "phrase": "the law requires anyone possessing such information to safeguard it along with the computer files and documents containing it and specifically mandates that businesses that collect social security numbers develop a privacy protection policy",
+            "count": 1
+        },
+        {
+            "phrase": "presumably employees who work from home or at remote locations are transferring data behind the firewall from external sources",
+            "count": 1
+        },
+        {
+            "phrase": "exactly how much scanning of data goes on and what type of security policies are created to deal with that data are issues companies need to keep an eye on",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:30",
+            "01:58"
+        ],
+        "label": "one"
+    },
+    "clusterList": [
+        {
+            "phrase": "one puff and i'm addicted",
+            "count": 1
+        },
+        {
+            "phrase": "when i smoke two at a time",
+            "count": 1
+        },
+        {
+            "phrase": "puff puff give",
+            "count": 1
+        }
+    ]
+}

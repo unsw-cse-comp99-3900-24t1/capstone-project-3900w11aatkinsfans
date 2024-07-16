@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:20",
+            "02:02",
+            "02:09",
+            "02:56"
+        ],
+        "label": "at"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's called fondue",
+            "count": 6
+        },
+        {
+            "phrase": "at that point the cheese is creamy a lot more flavourful and more complex at the level of aroma",
+            "count": 1
+        },
+        {
+            "phrase": "i know that cookie it's probably one of those cookies that someone's grandmother made in sicily maybe a holiday cookie with italian mincemeat like a pierogi that has been sliced it's not mustazzouli but i'm not sure what it is called those kinds of cookies don't get into bakeries like canoli it's funny i have been thinking about them for the past week and want to make them myself",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "03:02",
+            "03:42",
+            "03:55"
+        ],
+        "label": "ace"
+    },
+    "clusterList": [
+        {
+            "phrase": "ace of spades",
+            "count": 4
+        }
+    ]
+}

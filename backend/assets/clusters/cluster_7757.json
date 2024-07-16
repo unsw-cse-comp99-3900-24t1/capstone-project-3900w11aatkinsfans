@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "04:29",
+            "05:03"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the debris was collected afterwards and was in the public domain on the street",
+            "count": 1
+        },
+        {
+            "phrase": "it was kind of dirty and stuff just a bunch of grass",
+            "count": 1
+        },
+        {
+            "phrase": "it was just a debris field",
+            "count": 1
+        }
+    ]
+}

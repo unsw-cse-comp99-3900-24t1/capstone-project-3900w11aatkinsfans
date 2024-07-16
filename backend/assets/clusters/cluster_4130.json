@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:42",
+            "03:20",
+            "04:03",
+            "04:08",
+            "04:15"
+        ],
+        "label": "there"
+    },
+    "clusterList": [
+        {
+            "phrase": "women should comb their hair appropriately for age occupation and situation",
+            "count": 3
+        },
+        {
+            "phrase": "there are large cultural differences in perceptions of facial hair and we are hoping to expand on this research by conducting a large-scale study assessing female perceptions of male facial hair in different in as many countries as possible",
+            "count": 1
+        },
+        {
+            "phrase": "women should comb their hairappropriately for age",
+            "count": 1
+        }
+    ]
+}

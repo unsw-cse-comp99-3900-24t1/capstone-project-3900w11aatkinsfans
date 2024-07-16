@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:14",
+            "03:36",
+            "03:57",
+            "04:00",
+            "04:08"
+        ],
+        "label": "welcome"
+    },
+    "clusterList": [
+        {
+            "phrase": "burger to go",
+            "count": 2
+        },
+        {
+            "phrase": "welcome to good burger home of the good burger can i take your order",
+            "count": 1
+        },
+        {
+            "phrase": "oh here comes the beef roll",
+            "count": 1
+        },
+        {
+            "phrase": "here i brought you a burger",
+            "count": 1
+        },
+        {
+            "phrase": "fry him a burger now",
+            "count": 1
+        },
+        {
+            "phrase": "making the burger",
+            "count": 1
+        },
+        {
+            "phrase": "i brought food",
+            "count": 1
+        }
+    ]
+}

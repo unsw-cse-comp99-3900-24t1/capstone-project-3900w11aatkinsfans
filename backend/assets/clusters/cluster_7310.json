@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:17",
+            "04:28",
+            "04:29"
+        ],
+        "label": "no"
+    },
+    "clusterList": [
+        {
+            "phrase": "no poop for you",
+            "count": 1
+        },
+        {
+            "phrase": "no you can't leave you have to eat with us mom you are eating with uuuuuuussssssss",
+            "count": 1
+        },
+        {
+            "phrase": "but i can't go out to dinner or to the mall or anything like that",
+            "count": 1
+        }
+    ]
+}

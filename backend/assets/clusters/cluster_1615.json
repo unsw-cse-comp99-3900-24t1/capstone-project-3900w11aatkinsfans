@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:21",
+            "01:07",
+            "01:47",
+            "02:18",
+            "03:05",
+            "03:10",
+            "03:42",
+            "03:51",
+            "04:17",
+            "04:33"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "please use public transit bicycling or other climate-friendly means",
+            "count": 3
+        },
+        {
+            "phrase": "oh this is perfect opportunity to start biking or using public transportation",
+            "count": 1
+        },
+        {
+            "phrase": "hmm i dnt know i just wanted to try to ride a bike for a change",
+            "count": 1
+        },
+        {
+            "phrase": "the county airport is such an asset in our community and this is a great opportunity to show it off",
+            "count": 1
+        },
+        {
+            "phrase": "you could use the bicycle up to the main street and put it at one of small restaurants there ask them to take care of it",
+            "count": 1
+        },
+        {
+            "phrase": "i know our 21 870 bike commuters are eager to rise to the occasion and help us to build biketopia",
+            "count": 1
+        },
+        {
+            "phrase": "in this country people look at bicycling as recreation",
+            "count": 1
+        },
+        {
+            "phrase": "would you like to go for a ride",
+            "count": 1
+        }
+    ]
+}

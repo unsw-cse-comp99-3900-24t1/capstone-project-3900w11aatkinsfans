@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "01:00",
+            "01:09",
+            "01:11",
+            "02:01",
+            "02:28",
+            "04:00",
+            "04:05",
+            "04:15",
+            "04:58"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "coming of age",
+            "count": 2
+        },
+        {
+            "phrase": "we're concerned about generations to come",
+            "count": 1
+        },
+        {
+            "phrase": "shobox the new generation",
+            "count": 1
+        },
+        {
+            "phrase": "the generation gap",
+            "count": 1
+        },
+        {
+            "phrase": "the second generation comes and rebels a bit but by and large fall under the first the third generation under-30s realize the first generation are really old and no longer with it the third generation will not understand the mumbo jumbo of judy williams's generation",
+            "count": 1
+        },
+        {
+            "phrase": "each generation lets the last generation down",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest generation",
+            "count": 1
+        },
+        {
+            "phrase": "hope for today's generation",
+            "count": 1
+        },
+        {
+            "phrase": "the next generation",
+            "count": 1
+        },
+        {
+            "phrase": "face to face with the millennials",
+            "count": 1
+        }
+    ]
+}

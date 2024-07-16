@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:57",
+            "04:32"
+        ],
+        "label": "click"
+    },
+    "clusterList": [
+        {
+            "phrase": "click the ads to support our site",
+            "count": 2
+        },
+        {
+            "phrase": "these ads work",
+            "count": 1
+        }
+    ]
+}

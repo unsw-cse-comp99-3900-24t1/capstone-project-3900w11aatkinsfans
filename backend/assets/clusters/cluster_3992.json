@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "02:24",
+            "04:23",
+            "04:46"
+        ],
+        "label": "stick"
+    },
+    "clusterList": [
+        {
+            "phrase": "stick its nose",
+            "count": 3
+        },
+        {
+            "phrase": "on the boil",
+            "count": 1
+        },
+        {
+            "phrase": "in the belly of the monster",
+            "count": 1
+        }
+    ]
+}

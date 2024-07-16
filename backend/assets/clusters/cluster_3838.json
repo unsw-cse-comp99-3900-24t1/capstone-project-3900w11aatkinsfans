@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:10",
+            "01:36",
+            "03:01",
+            "04:23"
+        ],
+        "label": "forever's"
+    },
+    "clusterList": [
+        {
+            "phrase": "soon to be lost forever",
+            "count": 2
+        },
+        {
+            "phrase": "forever's as far as i'll go",
+            "count": 1
+        },
+        {
+            "phrase": "this is forever",
+            "count": 1
+        },
+        {
+            "phrase": "stars and stripes forever",
+            "count": 1
+        }
+    ]
+}

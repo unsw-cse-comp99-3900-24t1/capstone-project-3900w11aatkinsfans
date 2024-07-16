@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:20",
+            "00:46",
+            "01:01",
+            "02:23",
+            "03:02",
+            "04:23"
+        ],
+        "label": "according"
+    },
+    "clusterList": [
+        {
+            "phrase": "reminiscent of the ad that the rnc ran against harold ford",
+            "count": 5
+        },
+        {
+            "phrase": "according to one gop strategist i spoke with over the weekend they had an ad script ready to go if obama had visited the wounded troops saying that obama was wait for it using wounded troops as campaign props so no matter which way obama turned mccain had an obama bashing ad ready to launch",
+            "count": 1
+        },
+        {
+            "phrase": "the mccain ad used two white women to personify celebrity they could have used tom cruise or george clooney but no they juxtaposed a black man with two white women",
+            "count": 1
+        }
+    ]
+}

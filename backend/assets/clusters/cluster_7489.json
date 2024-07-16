@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:27",
+            "04:03"
+        ],
+        "label": "grocery"
+    },
+    "clusterList": [
+        {
+            "phrase": "grocery stores just don't smell anymore",
+            "count": 1
+        },
+        {
+            "phrase": "americans are so busy and they eat out so much and unfortunately the ingredients in those products they're getting are not as good as the products they'd probably be selecting themselves in the grocery stores",
+            "count": 1
+        },
+        {
+            "phrase": "our products aren't the same products you would get in the grocery store",
+            "count": 1
+        }
+    ]
+}

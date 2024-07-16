@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:09",
+            "01:33",
+            "02:19",
+            "04:21"
+        ],
+        "label": "research"
+    },
+    "clusterList": [
+        {
+            "phrase": "research shows culture is the single most important factor in organizational success",
+            "count": 3
+        },
+        {
+            "phrase": "what are the critical areas of investment in people answering this question requires opening direct communication channels with top company executives to understand the business strategy and road map and then to align and create appropriate formal and informal employee learning experiences that support the road map",
+            "count": 1
+        },
+        {
+            "phrase": "good communication skills and passion create something intangible that drives an organization forward",
+            "count": 1
+        }
+    ]
+}

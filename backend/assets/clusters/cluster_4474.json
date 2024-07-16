@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:24",
+            "04:27"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "mitchell goes along with young wallace it's very difficult but it's a squad that they've picked and we're very happy with",
+            "count": 2
+        },
+        {
+            "phrase": "i've know rockets owner leslie alexander for a long time dikembe has a very good relationship with les we'll get together when we get back and see if there can be a situation for dikembe to consider playing another season",
+            "count": 1
+        },
+        {
+            "phrase": "brian skinner to sign with the clippers",
+            "count": 1
+        }
+    ]
+}

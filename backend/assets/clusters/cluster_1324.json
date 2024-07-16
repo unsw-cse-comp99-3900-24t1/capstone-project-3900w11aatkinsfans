@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:33",
+            "00:52",
+            "01:09",
+            "01:43",
+            "02:42",
+            "02:43",
+            "03:35",
+            "03:43",
+            "04:28"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have worked day and night for it how can we be the focal point of anti-secular activity",
+            "count": 4
+        },
+        {
+            "phrase": "we have to get involved and support our priests by living and preaching the truth",
+            "count": 2
+        },
+        {
+            "phrase": "the church has only itself to blame for giving the impression that it is in the business of saving souls only the environment is what we are about",
+            "count": 2
+        },
+        {
+            "phrase": "we're helping people see that these symbols that they hold up in worship and use as religious expression are inherently environmental",
+            "count": 1
+        },
+        {
+            "phrase": "the church cannot let us choose between our faith and our families because we need to earn a living to support our families",
+            "count": 1
+        },
+        {
+            "phrase": "we acknowledge the fact that we're a church but we still have secular needs like paying our electricity",
+            "count": 1
+        },
+        {
+            "phrase": "how are our worship services going to get any better if we don't evaluate them",
+            "count": 1
+        }
+    ]
+}

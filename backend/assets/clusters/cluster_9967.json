@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "01:38"
+        ],
+        "label": "select"
+    },
+    "clusterList": [
+        {
+            "phrase": "select from citas where fecha",
+            "count": 1
+        },
+        {
+            "phrase": "select fecha from citas",
+            "count": 1
+        }
+    ]
+}

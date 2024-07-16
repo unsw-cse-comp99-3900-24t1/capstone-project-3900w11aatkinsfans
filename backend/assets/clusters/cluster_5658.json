@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "02:14",
+            "03:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i heard i lost so much blood that there was hardly any blood left to bleed",
+            "count": 1
+        },
+        {
+            "phrase": "i was really lucky to have happened to give blood just shortly after i contracted the west nile virus because they test for that",
+            "count": 1
+        },
+        {
+            "phrase": "this obviously happened a while ago this blood is very thick i mean this could have possibly happened last night and maybe no one would've even seen it",
+            "count": 1
+        }
+    ]
+}

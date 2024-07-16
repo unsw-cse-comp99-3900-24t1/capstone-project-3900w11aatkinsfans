@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            6,
+            1
+        ],
+        "xLabels": [
+            "02:19",
+            "04:33"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am not hearing it is this your husband's account",
+            "count": 1
+        },
+        {
+            "phrase": "ah i see but it is your husband's account",
+            "count": 1
+        },
+        {
+            "phrase": "i am sorry ma'am but i cannot allow you to withdraw any money because your husband has not authorized you to withdraw money",
+            "count": 1
+        },
+        {
+            "phrase": "well we actually just got off the phone and he authorized for me to withdraw some money",
+            "count": 1
+        },
+        {
+            "phrase": "no ma'am you don't understand you're husband did not authorize you in the system to withdraw any money",
+            "count": 1
+        },
+        {
+            "phrase": "i see so my name is on the account but i am not authorized to withdraw any money",
+            "count": 1
+        },
+        {
+            "phrase": "and i leave as trustee of all my assets one mr",
+            "count": 1
+        }
+    ]
+}

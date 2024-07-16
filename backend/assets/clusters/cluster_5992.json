@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:52",
+            "01:46"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "now i know what steve earle was talking about",
+            "count": 2
+        },
+        {
+            "phrase": "candy it's steve earle",
+            "count": 1
+        }
+    ]
+}

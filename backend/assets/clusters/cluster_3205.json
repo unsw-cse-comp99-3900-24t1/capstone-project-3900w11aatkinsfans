@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "03:41",
+            "03:50",
+            "04:18"
+        ],
+        "label": "christopher"
+    },
+    "clusterList": [
+        {
+            "phrase": "tm amp wset-tv inc",
+            "count": 3
+        },
+        {
+            "phrase": "christopher jay amp company",
+            "count": 1
+        },
+        {
+            "phrase": "warner bros domestic pay tv cable amp network features",
+            "count": 1
+        },
+        {
+            "phrase": "introduction amp news",
+            "count": 1
+        }
+    ]
+}

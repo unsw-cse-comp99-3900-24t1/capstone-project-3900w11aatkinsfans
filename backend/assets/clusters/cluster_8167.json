@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "00:10"
+        ],
+        "label": "ip"
+    },
+    "clusterList": [
+        {
+            "phrase": "ip igmp static-group",
+            "count": 2
+        }
+    ]
+}

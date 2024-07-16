@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "00:11",
+            "00:21",
+            "00:38",
+            "01:29",
+            "02:09",
+            "02:52",
+            "03:29",
+            "03:37",
+            "04:03",
+            "04:13",
+            "04:22",
+            "04:38"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "and this time you won't have to drive",
+            "count": 3
+        },
+        {
+            "phrase": "i drive to the station every day and i get the train to work",
+            "count": 2
+        },
+        {
+            "phrase": "i'll get something on the train",
+            "count": 2
+        },
+        {
+            "phrase": "for local stuff i don't drive as much i'll get on a train",
+            "count": 1
+        },
+        {
+            "phrase": "i've definitely consolidated trips and don't drive as often",
+            "count": 1
+        },
+        {
+            "phrase": "you do quite a bit of driving when you live out here",
+            "count": 1
+        },
+        {
+            "phrase": "i want to drive so i guess we won't eat out as much",
+            "count": 1
+        },
+        {
+            "phrase": "you know i've got to visit a few more stores in this shopping center could i just pick them up on my way out so they don't have to spend as much time in the car",
+            "count": 1
+        },
+        {
+            "phrase": "ok well honey how about you drive",
+            "count": 1
+        },
+        {
+            "phrase": "because i can t afford to drive",
+            "count": 1
+        },
+        {
+            "phrase": "about fifteen miles back that way but it won't do you any good at this hour on a friday night where're you headed",
+            "count": 1
+        },
+        {
+            "phrase": "i miss public transportation i would like to be able to take a train to work in philly i could walk to the train that's something that really frustrates me",
+            "count": 1
+        }
+    ]
+}

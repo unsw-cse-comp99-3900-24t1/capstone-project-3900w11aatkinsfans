@@ -1,0 +1,75 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            2,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:23",
+            "00:25",
+            "00:33",
+            "01:02",
+            "01:06",
+            "01:10",
+            "01:43",
+            "01:47",
+            "02:10",
+            "02:28",
+            "02:41",
+            "03:06",
+            "03:09",
+            "03:34",
+            "03:48",
+            "03:51",
+            "04:05",
+            "04:28",
+            "04:54"
+        ],
+        "label": "to"
+    },
+    "clusterList": [
+        {
+            "phrase": "to pledge and contribute the helicopter aerial reconnaissance ground transport engineering and logistical units and other force enablers required",
+            "count": 11
+        },
+        {
+            "phrase": "i am pleased that the air force has taken this step to provide quick access for subcontractors and other parties affected by these projects",
+            "count": 7
+        },
+        {
+            "phrase": "i will continue to work with the air force to help local subcontractors recover their losses in relation to these projects and will work to ensure that the necessary houses are built and available for the airmen at moody air force base",
+            "count": 7
+        },
+        {
+            "phrase": "this conference is a key element in air forces southern's engagement efforts throughout the region",
+            "count": 1
+        },
+        {
+            "phrase": "we are pleased to support the navy's goal of increased functional benefits and cost savings through this large scale streamlining and integration effort",
+            "count": 1
+        },
+        {
+            "phrase": "working together with air combat command and the prime contractor general atomics aeronautical systems inc all the stops were pulled out to surge the capability to the field",
+            "count": 1
+        }
+    ]
+}

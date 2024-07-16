@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            3,
+            1
+        ],
+        "xLabels": [
+            "02:33",
+            "02:36",
+            "03:15"
+        ],
+        "label": "venus"
+    },
+    "clusterList": [
+        {
+            "phrase": "venus on earth",
+            "count": 5
+        },
+        {
+            "phrase": "venus and mars rock show",
+            "count": 1
+        }
+    ]
+}

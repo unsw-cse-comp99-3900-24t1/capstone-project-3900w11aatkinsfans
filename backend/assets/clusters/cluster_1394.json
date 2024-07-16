@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "01:30",
+            "01:50",
+            "02:33",
+            "02:46",
+            "02:56",
+            "03:17",
+            "04:08",
+            "04:09",
+            "04:28",
+            "04:31"
+        ],
+        "label": "amazon"
+    },
+    "clusterList": [
+        {
+            "phrase": "amazon women on the moon",
+            "count": 5
+        },
+        {
+            "phrase": "ladies of the evening",
+            "count": 1
+        },
+        {
+            "phrase": "young white women",
+            "count": 1
+        },
+        {
+            "phrase": "girls in black",
+            "count": 1
+        },
+        {
+            "phrase": "women on the go",
+            "count": 1
+        },
+        {
+            "phrase": "women have the option of wearing a dress",
+            "count": 1
+        },
+        {
+            "phrase": "sexually available white women",
+            "count": 1
+        },
+        {
+            "phrase": "five amazing women",
+            "count": 1
+        }
+    ]
+}

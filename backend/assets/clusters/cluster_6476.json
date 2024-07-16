@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            3
+        ],
+        "xLabels": [
+            "01:13"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the acma report is based on a laboratory trial of isp filtering technologies within a network that would be used by a small isp",
+            "count": 1
+        },
+        {
+            "phrase": "it is therefore necessary that the government proceed with a real world live pilot to test how these filtering products work with isps of different sizes and network configurations",
+            "count": 1
+        },
+        {
+            "phrase": "while it's probably true to say that filtering software doesn't present noticeable performance degradation when you've already artificially constrained the offered traffic rate to below dial-up speeds it's difficult to see the relevance of that conclusion in a world where the minister wants everyone in australia to connect over 500 times faster",
+            "count": 1
+        }
+    ]
+}

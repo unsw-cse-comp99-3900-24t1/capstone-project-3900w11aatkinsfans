@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "01:41"
+        ],
+        "label": "developers"
+    },
+    "clusterList": [
+        {
+            "phrase": "developers can program their applications to write custom operations messages to the trace log the same log that windows sharepoint services uses to log developer-oriented information and events writing to the same trace log windows sharepoint services employs enables third-party developers to view their custom application traces in the larger context of windows sharepoint services operations without having to correlate multiple trace logs in addition the trace log provides a central destination for information concerning development processes such as debugging this alleviates the need for developers to log their development information in other places such as the windows event log which are more commonly used by system administrators",
+            "count": 1
+        }
+    ]
+}

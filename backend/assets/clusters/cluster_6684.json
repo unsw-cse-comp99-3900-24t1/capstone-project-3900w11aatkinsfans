@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:37",
+            "02:28"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm flying by the seat of my pants",
+            "count": 1
+        },
+        {
+            "phrase": "i hope you sit next to a big fat person on the airplane",
+            "count": 1
+        },
+        {
+            "phrase": "i could not fit in a regular size bathroom stall i had to use the handicapped one if i flew anywhere i had to buy two tickets and dehydrate myself so that i would not have to use the plane's bathroom during the flight-and just forget the whole seatbelt issue if i went to the movies or a concert i had to bring my own extra-sturdy folding chair and sit in handicapped areas",
+            "count": 1
+        }
+    ]
+}

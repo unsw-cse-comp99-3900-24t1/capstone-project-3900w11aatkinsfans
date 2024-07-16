@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:40",
+            "02:23",
+            "02:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the death of cool",
+            "count": 2
+        },
+        {
+            "phrase": "zombie flesh eaters",
+            "count": 2
+        },
+        {
+            "phrase": "hey what's this oh another zombie chasing me",
+            "count": 1
+        }
+    ]
+}

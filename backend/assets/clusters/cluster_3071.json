@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:05",
+            "02:32",
+            "02:51",
+            "04:49"
+        ],
+        "label": "los"
+    },
+    "clusterList": [
+        {
+            "phrase": "los angeles reuters an earthquake struck just east of los angeles on tuesday rocking tall buildings and rattling nerves across southern california but causing no serious injuries or major structural damage",
+            "count": 1
+        },
+        {
+            "phrase": "the quake hit at 11 42 a m local time 2 42 p m edt about 30 miles east of los angeles in suburban chino hills and registered magnitude 5 4 making it the strongest seismic event centered near america's second-largest city since the 6 7-magnitude northridge quake in 1994",
+            "count": 1
+        },
+        {
+            "phrase": "while i was in tokyo there was an earthquake with a 6 8 magnitude after our 5 4 quake here that's 12 2 on the richter scale for me in less than one week",
+            "count": 1
+        },
+        {
+            "phrase": "holy earthquake in so cal",
+            "count": 1
+        },
+        {
+            "phrase": "twitter's crazy like that found out about the earthquake in socal 1min after it happened",
+            "count": 1
+        },
+        {
+            "phrase": "not just a political earthquake it is off the richter scale it is an epic win and the tremors are being felt all the way to downing street",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:28"
+        ],
+        "label": "remember"
+    },
+    "clusterList": [
+        {
+            "phrase": "remember the ladies",
+            "count": 1
+        },
+        {
+            "phrase": "some enchanted evening",
+            "count": 1
+        }
+    ]
+}

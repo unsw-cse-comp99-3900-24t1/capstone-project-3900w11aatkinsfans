@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "04:27"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you might notbe able to kill a mummy but as",
+            "count": 1
+        },
+        {
+            "phrase": "only if mummy wants you to",
+            "count": 1
+        }
+    ]
+}

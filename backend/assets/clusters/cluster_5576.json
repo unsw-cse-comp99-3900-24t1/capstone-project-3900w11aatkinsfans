@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:20",
+            "02:55",
+            "04:54"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the logic of life the rational economics of an irrational world",
+            "count": 1
+        },
+        {
+            "phrase": "the economic naturalist in search of explanations for everyday enigmas",
+            "count": 1
+        },
+        {
+            "phrase": "third way distributive economics catholicism democracy and the good life",
+            "count": 1
+        },
+        {
+            "phrase": "the cambist and lord iron a fairytale of economics",
+            "count": 1
+        }
+    ]
+}

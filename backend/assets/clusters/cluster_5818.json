@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:56",
+            "03:18"
+        ],
+        "label": "get"
+    },
+    "clusterList": [
+        {
+            "phrase": "get back on your windows and keep watch",
+            "count": 1
+        },
+        {
+            "phrase": "will you stop interrupting me",
+            "count": 1
+        },
+        {
+            "phrase": "general please stop clinging to me someone could be watching and you're making a fool of yourself by doing that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:56",
+            "04:13",
+            "04:27"
+        ],
+        "label": "involvement"
+    },
+    "clusterList": [
+        {
+            "phrase": "involvement in theater develops important skills of communications and presence",
+            "count": 1
+        },
+        {
+            "phrase": "we call it stage presence but it is also personal presence it is the bearing and attitude that develops from public performance it produces interpersonal openness that enhances communications",
+            "count": 1
+        },
+        {
+            "phrase": "different way to talk to a young audience",
+            "count": 1
+        },
+        {
+            "phrase": "more expertise in the audience than there possibly could be on stage",
+            "count": 1
+        },
+        {
+            "phrase": "what is most important for actors is that they have a quiet place to study their roles and access to a kitchen to store groceries and prepare meals",
+            "count": 1
+        }
+    ]
+}

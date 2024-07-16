@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:50",
+            "04:03",
+            "04:21",
+            "04:37",
+            "04:42"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i like the prospect size and strength of our wings and the size and strength of our defense",
+            "count": 1
+        },
+        {
+            "phrase": "we're going to need a big year from trevor lewis we're going to need more scoring from brady murray and the depth players we had in the past",
+            "count": 1
+        },
+        {
+            "phrase": "i'm looking for a lot of big things from myself i'm expecting a lot out of our team this year i'm expecting to be more involved in the offense this year",
+            "count": 1
+        },
+        {
+            "phrase": "we need those first downs we need those small catches across the middle we need a big-game play from hines he's still going to be there for us",
+            "count": 1
+        },
+        {
+            "phrase": "we'll mix it up with an i-wing and a spread formation and things are going well so far",
+            "count": 1
+        },
+        {
+            "phrase": "how's the offensive line going to be",
+            "count": 1
+        }
+    ]
+}

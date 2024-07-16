@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:24",
+            "00:33",
+            "03:46",
+            "04:06"
+        ],
+        "label": "aligning"
+    },
+    "clusterList": [
+        {
+            "phrase": "aligning these plans with the necp will move emergency communications forward and further promote a coordinated nationwide strategy",
+            "count": 2
+        },
+        {
+            "phrase": "for the first time a plan has been developed that has engaged hundreds of public safety practitioners at all levels in a way that insures realistic and measurable goals and embraces the work completed by every state and territory through the statewide interoperable communications plans",
+            "count": 2
+        },
+        {
+            "phrase": "we are deeply disturbed by this imminent loss of communications service to vital public safety agencies",
+            "count": 2
+        },
+        {
+            "phrase": "this is a first an historic event and we've built a template showing that allegiances like this are critical i think from this we can actually work toward a national standard for emergency response",
+            "count": 1
+        }
+    ]
+}

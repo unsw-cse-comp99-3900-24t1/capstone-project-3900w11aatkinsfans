@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:14",
+            "03:20"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've never seen things this bad",
+            "count": 1
+        },
+        {
+            "phrase": "sometimes things aren't good or bad just different",
+            "count": 1
+        },
+        {
+            "phrase": "otherwise you get bad habits",
+            "count": 1
+        }
+    ]
+}

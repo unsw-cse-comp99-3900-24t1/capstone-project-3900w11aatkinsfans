@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "01:52",
+            "02:01"
+        ],
+        "label": "marc"
+    },
+    "clusterList": [
+        {
+            "phrase": "p-b and j",
+            "count": 2
+        },
+        {
+            "phrase": "marc with a k",
+            "count": 1
+        }
+    ]
+}

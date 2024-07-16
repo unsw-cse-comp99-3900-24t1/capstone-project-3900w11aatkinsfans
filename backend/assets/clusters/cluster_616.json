@@ -1,0 +1,97 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:06",
+            "00:24",
+            "00:47",
+            "01:10",
+            "01:15",
+            "01:21",
+            "01:23",
+            "01:34",
+            "01:37",
+            "01:58",
+            "02:11",
+            "02:32",
+            "03:09",
+            "03:11",
+            "03:55",
+            "04:18",
+            "04:55",
+            "05:04"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for a considerable period of time",
+            "count": 5
+        },
+        {
+            "phrase": "all night long",
+            "count": 5
+        },
+        {
+            "phrase": "for a while",
+            "count": 2
+        },
+        {
+            "phrase": "for a long time",
+            "count": 1
+        },
+        {
+            "phrase": "a very long process",
+            "count": 1
+        },
+        {
+            "phrase": "fullness of time",
+            "count": 1
+        },
+        {
+            "phrase": "two to three hours",
+            "count": 1
+        },
+        {
+            "phrase": "such a very short period of time",
+            "count": 1
+        },
+        {
+            "phrase": "once in a while",
+            "count": 1
+        },
+        {
+            "phrase": "fifteen minutes can you imagine it",
+            "count": 1
+        },
+        {
+            "phrase": "about fucking time",
+            "count": 1
+        },
+        {
+            "phrase": "for a reasonable period of time",
+            "count": 1
+        }
+    ]
+}

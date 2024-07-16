@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "04:24"
+        ],
+        "label": "amy"
+    },
+    "clusterList": [
+        {
+            "phrase": "amy forgot her camera cord so no pictures until i get back",
+            "count": 1
+        },
+        {
+            "phrase": "she bought a hank williams cd and put it on while we were driving home",
+            "count": 1
+        }
+    ]
+}

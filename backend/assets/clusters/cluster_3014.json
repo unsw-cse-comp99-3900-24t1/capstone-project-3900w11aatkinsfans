@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:48",
+            "01:03",
+            "03:02",
+            "04:00",
+            "04:23"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "our record speaks for itself",
+            "count": 2
+        },
+        {
+            "phrase": "this record for me is not a huge departure from what we do as bss",
+            "count": 1
+        },
+        {
+            "phrase": "our track record has been pretty golden over the years",
+            "count": 1
+        },
+        {
+            "phrase": "they have an amazingly safe track record",
+            "count": 1
+        },
+        {
+            "phrase": "for the fans it's like show me if you still got it and we've done that i really think this is the best record we've ever done",
+            "count": 1
+        }
+    ]
+}

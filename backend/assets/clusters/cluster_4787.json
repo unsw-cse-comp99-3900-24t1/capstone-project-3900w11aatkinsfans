@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:23",
+            "03:42"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but look how cool this would be if it would work for all cases without workarounds",
+            "count": 2
+        },
+        {
+            "phrase": "that's why i know this is going to work",
+            "count": 1
+        },
+        {
+            "phrase": "you are going to see that this is a feature people are going to want everywhere",
+            "count": 1
+        }
+    ]
+}

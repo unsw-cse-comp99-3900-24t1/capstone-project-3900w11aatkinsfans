@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:09",
+            "03:48",
+            "04:38"
+        ],
+        "label": "modern"
+    },
+    "clusterList": [
+        {
+            "phrase": "modern portfolio theory",
+            "count": 1
+        },
+        {
+            "phrase": "these findings describe a capital structure theory that is not a byproduct of the wealth maximisation imperative but rather a window or a reflection of peace-seeking financial behaviour",
+            "count": 1
+        },
+        {
+            "phrase": "women and investing",
+            "count": 1
+        }
+    ]
+}

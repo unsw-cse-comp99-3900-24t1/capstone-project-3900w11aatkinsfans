@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32",
+            "02:11",
+            "02:51",
+            "03:40",
+            "04:13"
+        ],
+        "label": "judge"
+    },
+    "clusterList": [
+        {
+            "phrase": "judge i can tell you that there are a lot of people upset at the live oak landing subdivision because they were told that they would be able to build up to the creek and they can't",
+            "count": 6
+        },
+        {
+            "phrase": "i've had several calls and a contractor that came in and was supposed to have built a bunch of gazebos and decks and they can't do it because it is on the flood plain",
+            "count": 6
+        }
+    ]
+}

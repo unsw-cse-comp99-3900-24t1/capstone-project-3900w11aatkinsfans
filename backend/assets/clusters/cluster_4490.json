@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:11",
+            "03:37",
+            "04:04",
+            "04:18"
+        ],
+        "label": "each"
+    },
+    "clusterList": [
+        {
+            "phrase": "this time it was different",
+            "count": 2
+        },
+        {
+            "phrase": "each time it is different",
+            "count": 1
+        },
+        {
+            "phrase": "to me it's the same old same old",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "02:15",
+            "03:18",
+            "05:00"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "just come in and introduce yourself",
+            "count": 1
+        },
+        {
+            "phrase": "i'll speak with you tomorrow about your start date",
+            "count": 1
+        },
+        {
+            "phrase": "i think i know quite a bit about you three where shall i begin",
+            "count": 1
+        },
+        {
+            "phrase": "how about if you and me get a little acquainted first",
+            "count": 1
+        },
+        {
+            "phrase": "hey folks my name is erin from buffalo peaks and i'll be your guide",
+            "count": 1
+        }
+    ]
+}

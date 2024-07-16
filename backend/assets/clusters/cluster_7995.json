@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:50"
+        ],
+        "label": "el"
+    },
+    "clusterList": [
+        {
+            "phrase": "el boracho is here with la novia que lastima",
+            "count": 1
+        },
+        {
+            "phrase": "haz hecho grandioso mi d a",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:36",
+            "01:09",
+            "01:30",
+            "04:18"
+        ],
+        "label": "very"
+    },
+    "clusterList": [
+        {
+            "phrase": "very saturated very bright",
+            "count": 5
+        },
+        {
+            "phrase": "large bright crisp",
+            "count": 1
+        }
+    ]
+}

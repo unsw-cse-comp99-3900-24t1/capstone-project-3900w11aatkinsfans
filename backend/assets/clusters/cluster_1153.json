@@ -1,0 +1,59 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "01:47",
+            "01:56",
+            "02:14",
+            "03:14",
+            "03:28",
+            "03:29",
+            "03:34",
+            "03:39",
+            "03:51",
+            "03:52",
+            "04:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "it wasn't a long conversation or anything",
+            "count": 8
+        },
+        {
+            "phrase": "i called him talked to him briefly to see how he was doing",
+            "count": 1
+        },
+        {
+            "phrase": "it was just a mindless rant emotions were running a bit high i've been in to apologise and we're friends again",
+            "count": 1
+        },
+        {
+            "phrase": "it was quite awkward to begin with but now we're really good friends so we can look back on it and laugh but it was uncomfortable at the time",
+            "count": 1
+        },
+        {
+            "phrase": "if i could get a message to him i would say that i didn't mean to cause such a stir",
+            "count": 1
+        },
+        {
+            "phrase": "thomas saw me and we were just talking about the game and as i was walking off he congratulated me i didn't really know what he was talking about and then he kind of smiled and i figured it out",
+            "count": 1
+        }
+    ]
+}

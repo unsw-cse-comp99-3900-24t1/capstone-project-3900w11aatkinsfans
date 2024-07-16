@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "02:11",
+            "02:34",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the post left out the important first half of the sentence which was something along the lines of it has become increasingly clear in my travel the campaign that the crowds the enthusiasm 200 000 people in berlin is not about me at all",
+            "count": 6
+        },
+        {
+            "phrase": "it's becoming increasingly clear in my travel a campaign that a crowds a enthusiasm 200 000 people in berlin it's not about me at all it's about america i have just become a symbol",
+            "count": 1
+        },
+        {
+            "phrase": "it's becoming increasingly clear in my travel the campaign that the crowds the enthusiasm 200 000 people in berlin it's not about me at all it's about america i have just become a symbol",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:13",
+            "02:15",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "you know i spend 18 hours a day here",
+            "count": 2
+        },
+        {
+            "phrase": "i figured you'd realize that when you started yawning at midnight you can't even stay awake past 11 00pm you always fall asleep on the couch watching friends",
+            "count": 1
+        },
+        {
+            "phrase": "yeah i know i'm just so tired i've worked so hard for the past few months",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:29",
+            "02:34",
+            "03:02",
+            "03:29",
+            "04:17"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you get so used to driving sometimes you forget you are driving",
+            "count": 1
+        },
+        {
+            "phrase": "driving this road until death sets you free",
+            "count": 1
+        },
+        {
+            "phrase": "i never learned to drive until i was 50 now i don't drive at all",
+            "count": 1
+        },
+        {
+            "phrase": "you know i can't drive at night",
+            "count": 1
+        },
+        {
+            "phrase": "i can probably ride home faster than i can drive home because of all the construction going on",
+            "count": 1
+        }
+    ]
+}

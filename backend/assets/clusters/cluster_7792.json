@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "04:06"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why aren't you more of a dick",
+            "count": 1
+        },
+        {
+            "phrase": "why do you always have to be such a dick",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "02:38"
+        ],
+        "label": "she"
+    },
+    "clusterList": [
+        {
+            "phrase": "she gets on the boat and likes to curl up and go to sleep she sure loves the boat",
+            "count": 1
+        },
+        {
+            "phrase": "not all dogs are good swimmers you may want to first take them to a lake or a pool and wade out with them before taking them on a boat",
+            "count": 1
+        },
+        {
+            "phrase": "make the boat pet-friendly",
+            "count": 1
+        },
+        {
+            "phrase": "we appreciate the good intentions of the public but to give any beached whale or dolphin the best possible chance for survival it is important that we have experienced whale handlers on hand so the animal can be properly assessed and appropriate action can be taken",
+            "count": 1
+        }
+    ]
+}

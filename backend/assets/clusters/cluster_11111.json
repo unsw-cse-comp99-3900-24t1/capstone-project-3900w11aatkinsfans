@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "04:19"
+        ],
+        "label": "seven's"
+    },
+    "clusterList": [
+        {
+            "phrase": "seven's early news",
+            "count": 1
+        },
+        {
+            "phrase": "this isn't news this isn't life this is bigger",
+            "count": 1
+        }
+    ]
+}

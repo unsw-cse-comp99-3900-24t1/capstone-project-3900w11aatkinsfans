@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "01:47",
+            "03:10",
+            "03:18",
+            "03:51",
+            "04:09",
+            "04:23",
+            "04:32"
+        ],
+        "label": "yes"
+    },
+    "clusterList": [
+        {
+            "phrase": "yes it's time to move in a big way",
+            "count": 6
+        },
+        {
+            "phrase": "okay then let's get moving",
+            "count": 1
+        },
+        {
+            "phrase": "okay then let's blow",
+            "count": 1
+        },
+        {
+            "phrase": "hey you moving",
+            "count": 1
+        },
+        {
+            "phrase": "it's time to move now",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "03:11",
+            "04:13"
+        ],
+        "label": "attack"
+    },
+    "clusterList": [
+        {
+            "phrase": "attack the messenger ignore the truth",
+            "count": 3
+        }
+    ]
+}

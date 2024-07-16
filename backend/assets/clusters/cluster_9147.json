@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "02:57"
+        ],
+        "label": "very"
+    },
+    "clusterList": [
+        {
+            "phrase": "very much attached to egypt",
+            "count": 1
+        },
+        {
+            "phrase": "experience has shown that action inside egypt is extremely",
+            "count": 1
+        }
+    ]
+}

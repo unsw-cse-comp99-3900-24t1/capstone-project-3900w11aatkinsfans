@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:39",
+            "02:51",
+            "03:10"
+        ],
+        "label": "layout"
+    },
+    "clusterList": [
+        {
+            "phrase": "layout gt edit html",
+            "count": 1
+        },
+        {
+            "phrase": "z-index 1 left 0px top 177px position absolute height 233px width 152px",
+            "count": 1
+        },
+        {
+            "phrase": "width 1 height 1 border 0 gt",
+            "count": 1
+        }
+    ]
+}

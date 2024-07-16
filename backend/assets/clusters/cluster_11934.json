@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "03:34"
+        ],
+        "label": "sit"
+    },
+    "clusterList": [
+        {
+            "phrase": "sit up straight and finish your spinach",
+            "count": 1
+        },
+        {
+            "phrase": "there's no way you'll eat another one",
+            "count": 1
+        }
+    ]
+}

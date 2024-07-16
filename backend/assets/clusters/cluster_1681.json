@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:47",
+            "00:53",
+            "01:30",
+            "01:43",
+            "01:47",
+            "04:04",
+            "04:15",
+            "04:55"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "they have declined and said they'll only talk with us if we come with a new offer",
+            "count": 2
+        },
+        {
+            "phrase": "two years have gone by and they have not made a very good effort to get this resolved",
+            "count": 1
+        },
+        {
+            "phrase": "they companies want to say you can contact us but that doesn't mean that we will contact you",
+            "count": 1
+        },
+        {
+            "phrase": "i have been talked to them about a week",
+            "count": 1
+        },
+        {
+            "phrase": "we gave them our response within a month as we said we would now they have to reply to us",
+            "count": 1
+        },
+        {
+            "phrase": "i tried to contact them five times and got booted off saying i wasn't affected wasn't affected then where are my e-mails",
+            "count": 1
+        },
+        {
+            "phrase": "we try to get five minutes of their time to talk to them about a few issues",
+            "count": 1
+        },
+        {
+            "phrase": "well the apple censors are here maybe they can tell us when we will get our email back",
+            "count": 1
+        },
+        {
+            "phrase": "we didn't receive them and not issue them",
+            "count": 1
+        }
+    ]
+}

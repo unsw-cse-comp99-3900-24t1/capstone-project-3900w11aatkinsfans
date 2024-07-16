@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "03:04",
+            "03:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "new reforms to customs income and corporate taxations while privatizing certain sector industries and developing an export market for their natural gas deposits",
+            "count": 2
+        },
+        {
+            "phrase": "the federal government has a responsibility to take strong and necessary actions to reduce our oil dependence",
+            "count": 1
+        }
+    ]
+}

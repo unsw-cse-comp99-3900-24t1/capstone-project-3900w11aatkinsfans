@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:23",
+            "00:24",
+            "00:29",
+            "00:41",
+            "00:46",
+            "00:47",
+            "00:48",
+            "00:50",
+            "00:53",
+            "02:18",
+            "04:06",
+            "04:07"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "to the approbation of the crowd",
+            "count": 10
+        },
+        {
+            "phrase": "a face in the crowd",
+            "count": 2
+        },
+        {
+            "phrase": "collective crowd intelligence",
+            "count": 1
+        },
+        {
+            "phrase": "working the crowd",
+            "count": 1
+        }
+    ]
+}

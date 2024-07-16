@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:21",
+            "00:24",
+            "02:15",
+            "02:29"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "since they lavish you with free chicken broth free popovers with strawberry butter i found i could order the lobster bisque and a glass of champagne and stagger out of the restaurant stuffed with enough money left to buy a couple pieces of fancy chocolate at the gump's across the street",
+            "count": 2
+        },
+        {
+            "phrase": "all you can eat seafood buffet",
+            "count": 1
+        },
+        {
+            "phrase": "sorry we don't serve food here",
+            "count": 1
+        },
+        {
+            "phrase": "the waiters will be circulating shortly with some guacamole salsa and empanadas",
+            "count": 1
+        }
+    ]
+}

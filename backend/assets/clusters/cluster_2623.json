@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:24",
+            "02:01",
+            "02:28",
+            "03:18"
+        ],
+        "label": "went"
+    },
+    "clusterList": [
+        {
+            "phrase": "went through everything",
+            "count": 1
+        },
+        {
+            "phrase": "everything was taken care of",
+            "count": 1
+        },
+        {
+            "phrase": "how did everything go",
+            "count": 1
+        },
+        {
+            "phrase": "everything went great but there was one thing",
+            "count": 1
+        },
+        {
+            "phrase": "what went well",
+            "count": 1
+        },
+        {
+            "phrase": "what went not as well",
+            "count": 1
+        },
+        {
+            "phrase": "after everything you did",
+            "count": 1
+        }
+    ]
+}

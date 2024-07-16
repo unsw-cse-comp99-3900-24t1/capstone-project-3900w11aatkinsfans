@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:32",
+            "02:11",
+            "03:40",
+            "04:13",
+            "04:50"
+        ],
+        "label": "because"
+    },
+    "clusterList": [
+        {
+            "phrase": "because we live on the coast the red cross had us on standby so we didn't know when they were going to call us out",
+            "count": 5
+        },
+        {
+            "phrase": "just when we got back home decided it was too late for them to call us out is when we got the call that we were supposed to leave",
+            "count": 5
+        },
+        {
+            "phrase": "we started getting calls right away",
+            "count": 1
+        }
+    ]
+}

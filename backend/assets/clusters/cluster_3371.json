@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            5
+        ],
+        "xLabels": [
+            "00:23",
+            "03:34"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "well the plane could just accelerate quicker than the belt could compensate for",
+            "count": 2
+        },
+        {
+            "phrase": "can a plane accelerate to take off speed period",
+            "count": 2
+        },
+        {
+            "phrase": "it would have been far more efficient to fly mechanics out there",
+            "count": 1
+        },
+        {
+            "phrase": "can a treadmill conveyor prevent a plane from moving",
+            "count": 1
+        }
+    ]
+}

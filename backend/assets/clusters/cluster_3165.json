@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:36",
+            "01:56",
+            "02:00",
+            "03:18"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it does look like a cut or a wound",
+            "count": 4
+        },
+        {
+            "phrase": "i'm sorry but your poor belly has marks from the mesh and it looks just like the marks on a turkey when you take it out of the package",
+            "count": 1
+        },
+        {
+            "phrase": "well it's short and curved oh and it's black",
+            "count": 1
+        }
+    ]
+}

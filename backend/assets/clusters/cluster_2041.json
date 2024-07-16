@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:07",
+            "01:00",
+            "01:23",
+            "01:50",
+            "02:05",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the root cause of many problems in america",
+            "count": 2
+        },
+        {
+            "phrase": "what problem us",
+            "count": 1
+        },
+        {
+            "phrase": "our respondents have been presciently aware of the difficulties facing the american",
+            "count": 1
+        },
+        {
+            "phrase": "how widespread is the problem",
+            "count": 1
+        },
+        {
+            "phrase": "the issues that americans care about",
+            "count": 1
+        },
+        {
+            "phrase": "a major issue in the us",
+            "count": 1
+        },
+        {
+            "phrase": "it's a reflection of this administration's inability to deal in a rational way with complex issues such as immigration",
+            "count": 1
+        }
+    ]
+}

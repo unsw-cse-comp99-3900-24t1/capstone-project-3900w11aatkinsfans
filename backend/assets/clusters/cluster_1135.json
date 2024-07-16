@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:27",
+            "01:06",
+            "01:09",
+            "01:47",
+            "01:50",
+            "02:28",
+            "02:57",
+            "03:10",
+            "03:18",
+            "03:51",
+            "04:28",
+            "04:31"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "in the u",
+            "count": 7
+        },
+        {
+            "phrase": "the new york bad ass",
+            "count": 2
+        },
+        {
+            "phrase": "urban america the new solid south",
+            "count": 1
+        },
+        {
+            "phrase": "top american cities",
+            "count": 1
+        },
+        {
+            "phrase": "the u s",
+            "count": 1
+        },
+        {
+            "phrase": "a colony of new york",
+            "count": 1
+        },
+        {
+            "phrase": "america the beautiful",
+            "count": 1
+        }
+    ]
+}

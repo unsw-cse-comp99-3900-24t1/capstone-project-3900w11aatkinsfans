@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "02:05",
+            "03:23"
+        ],
+        "label": "i've"
+    },
+    "clusterList": [
+        {
+            "phrase": "i've already defined the only possible solution nothing else will work",
+            "count": 1
+        },
+        {
+            "phrase": "i have solved the wind power problem",
+            "count": 1
+        },
+        {
+            "phrase": "my solution was relatively simple",
+            "count": 1
+        }
+    ]
+}

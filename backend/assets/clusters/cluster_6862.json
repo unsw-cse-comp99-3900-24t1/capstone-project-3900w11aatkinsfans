@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "04:07",
+            "04:18"
+        ],
+        "label": "despite"
+    },
+    "clusterList": [
+        {
+            "phrase": "despite all my rage i am still just a rat in a cage",
+            "count": 1
+        },
+        {
+            "phrase": "rat is dead rage",
+            "count": 1
+        },
+        {
+            "phrase": "roid rage in a cage",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:19",
+            "03:51"
+        ],
+        "label": "live"
+    },
+    "clusterList": [
+        {
+            "phrase": "live colour creation",
+            "count": 1
+        },
+        {
+            "phrase": "chemical dye plants",
+            "count": 1
+        },
+        {
+            "phrase": "four color dye method",
+            "count": 1
+        }
+    ]
+}

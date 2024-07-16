@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:09",
+            "03:18"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is that lisa what's she talking about",
+            "count": 1
+        },
+        {
+            "phrase": "the shannen get was huge for the fans because she's the original she's brenda walsh",
+            "count": 1
+        },
+        {
+            "phrase": "ah yes amy amy faye something",
+            "count": 1
+        }
+    ]
+}

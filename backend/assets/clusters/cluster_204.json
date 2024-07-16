@@ -1,0 +1,81 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            3,
+            2,
+            5,
+            1,
+            4,
+            1,
+            3,
+            2,
+            3,
+            2,
+            1,
+            1,
+            4,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:27",
+            "01:06",
+            "01:09",
+            "01:47",
+            "02:01",
+            "02:28",
+            "02:29",
+            "03:09",
+            "03:10",
+            "03:48",
+            "03:51",
+            "04:17",
+            "04:23",
+            "04:28",
+            "04:31",
+            "04:32"
+        ],
+        "label": "hopefully"
+    },
+    "clusterList": [
+        {
+            "phrase": "hopefully we can work something out on a bipartisan basis i will certainly try",
+            "count": 7
+        },
+        {
+            "phrase": "we need to really sit down and talk about all the options on the table evaluate their merits and move full speed ahead on meaningful reform",
+            "count": 7
+        },
+        {
+            "phrase": "i am pleased to be part of an effort to bring together the best ideas of both parties and am anxious to move our country forward with balanced legislation that makes us more secure",
+            "count": 7
+        },
+        {
+            "phrase": "this is a prime example of how effective congress can be when legislators put politics aside and come together in a bi-partisan manner to best serve the american people during a time of crisis",
+            "count": 7
+        },
+        {
+            "phrase": "we must work in a bipartisan manner to avoid any negative influence of nations that seek to increase false democracies and prop up existing dictatorships this is an important effort that will fund programs to improve education reduce poverty promote better healthcare and provide improved housing i commend members of the committee for approving this bill and urge senate leadership to bring the bill to the full senate for consideration",
+            "count": 7
+        },
+        {
+            "phrase": "we're committed to finding a solution that's acceptable to all parties",
+            "count": 2
+        },
+        {
+            "phrase": "i think we have a reasonable proposal on the table",
+            "count": 1
+        },
+        {
+            "phrase": "i think that this bipartisan bill is necessary to pass",
+            "count": 1
+        },
+        {
+            "phrase": "we need to come together in a bipartisan approach",
+            "count": 1
+        }
+    ]
+}

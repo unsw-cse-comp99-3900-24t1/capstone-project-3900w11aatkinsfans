@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "02:01",
+            "02:29",
+            "03:50"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "the college is particularly concerned that such surgery may exploit vulnerable women",
+            "count": 2
+        },
+        {
+            "phrase": "it's treated the same as getting a haircut it's become normalised i think any woman considering breast surgery for cosmetic reasons should spend a month in darfur and then decide if body image is a really important issue",
+            "count": 1
+        },
+        {
+            "phrase": "cosmetic surgery to rejuvenate the vagina has been blacklisted by australian gynecologists who say more women are being injured by the dangerous procedures top female sexual health specialists say they are seeing an increase in women with scarring infections and altered sexual sensations after undergoing vaginal surgery most have had labioplasty operations to change the external appearance of the vagina or less commonly to narrow the vagina or amplify the female g-spot the royal australian and new zealand college of obstetricians and gynecologists has issued a position statement on the trend labelling it dangerous expensive and unwarranted",
+            "count": 1
+        }
+    ]
+}

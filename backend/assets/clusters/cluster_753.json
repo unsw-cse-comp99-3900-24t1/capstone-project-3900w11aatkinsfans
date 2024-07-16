@@ -1,0 +1,95 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:06",
+            "00:12",
+            "00:21",
+            "00:24",
+            "01:07",
+            "01:09",
+            "01:11",
+            "01:47",
+            "01:51",
+            "02:10",
+            "02:22",
+            "03:12",
+            "03:55",
+            "03:59",
+            "05:00"
+        ],
+        "label": "wait"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the moment that the world is waiting for",
+            "count": 5
+        },
+        {
+            "phrase": "where i'm at now is just waiting",
+            "count": 2
+        },
+        {
+            "phrase": "wait for me",
+            "count": 1
+        },
+        {
+            "phrase": "i don't want to see you waiting",
+            "count": 1
+        },
+        {
+            "phrase": "i've been waiting for so long",
+            "count": 1
+        },
+        {
+            "phrase": "i've waited a long long time",
+            "count": 1
+        },
+        {
+            "phrase": "i'm still waiting",
+            "count": 1
+        },
+        {
+            "phrase": "i've been waiting for this moment to be alone with you",
+            "count": 1
+        },
+        {
+            "phrase": "true love waits",
+            "count": 1
+        },
+        {
+            "phrase": "i've been waiting for you all day",
+            "count": 1
+        },
+        {
+            "phrase": "i'm waiting in the line down the street to see you",
+            "count": 1
+        },
+        {
+            "phrase": "what you waiting for",
+            "count": 1
+        },
+        {
+            "phrase": "i've been waiting for you",
+            "count": 1
+        }
+    ]
+}

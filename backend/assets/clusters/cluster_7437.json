@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:28",
+            "03:38"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a list of other services twitter should buy",
+            "count": 1
+        },
+        {
+            "phrase": "we love twitter and think you should too",
+            "count": 1
+        },
+        {
+            "phrase": "twitter is so stupid that's one fad i'll never fall for",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "00:28",
+            "00:48",
+            "01:50",
+            "02:14",
+            "02:15",
+            "02:25",
+            "02:55",
+            "03:41",
+            "04:03",
+            "04:04",
+            "04:22",
+            "04:28",
+            "04:50"
+        ],
+        "label": "international"
+    },
+    "clusterList": [
+        {
+            "phrase": "breakfast at tiffany's",
+            "count": 2
+        },
+        {
+            "phrase": "the breakfast club",
+            "count": 2
+        },
+        {
+            "phrase": "international club night",
+            "count": 1
+        },
+        {
+            "phrase": "fifth avenue club",
+            "count": 1
+        },
+        {
+            "phrase": "breakfast club reject",
+            "count": 1
+        },
+        {
+            "phrase": "house of bread",
+            "count": 1
+        },
+        {
+            "phrase": "old boy's club",
+            "count": 1
+        },
+        {
+            "phrase": "the baby-sitters club",
+            "count": 1
+        },
+        {
+            "phrase": "supper club with tom bergeron",
+            "count": 1
+        },
+        {
+            "phrase": "breakfast at fatboys",
+            "count": 1
+        },
+        {
+            "phrase": "the culture club",
+            "count": 1
+        },
+        {
+            "phrase": "the mickey mouse club",
+            "count": 1
+        }
+    ]
+}

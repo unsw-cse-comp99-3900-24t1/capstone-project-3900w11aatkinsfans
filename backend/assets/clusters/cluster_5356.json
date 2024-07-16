@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:00",
+            "03:48",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "high crimes and misdemeanors",
+            "count": 2
+        },
+        {
+            "phrase": "the dept of corrections has decided typewriters are a luxury inmates can do without for access to the courts",
+            "count": 1
+        },
+        {
+            "phrase": "we're talking about convicted felons",
+            "count": 1
+        }
+    ]
+}

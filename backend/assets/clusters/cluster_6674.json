@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "03:18",
+            "04:03"
+        ],
+        "label": "yep"
+    },
+    "clusterList": [
+        {
+            "phrase": "yep got your bullet out nice little sucker now i'd give you about two weeks to heal and you'll be fine",
+            "count": 1
+        },
+        {
+            "phrase": "just relax i'm so glad you took care of them i've not healed yet but since i can't use my hand maybe i can get some time off school or something i should be able to look after them again",
+            "count": 1
+        },
+        {
+            "phrase": "most people recover in a few days or a few weeks after an experience like this almost all will",
+            "count": 1
+        }
+    ]
+}

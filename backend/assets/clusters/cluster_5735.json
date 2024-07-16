@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "03:24",
+            "04:32"
+        ],
+        "label": "an"
+    },
+    "clusterList": [
+        {
+            "phrase": "an ex-runner with a big chip on his shoulder",
+            "count": 1
+        },
+        {
+            "phrase": "chip on my shoulder",
+            "count": 1
+        },
+        {
+            "phrase": "muscular african american player wearing the number 32",
+            "count": 1
+        }
+    ]
+}

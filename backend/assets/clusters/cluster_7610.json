@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "02:37",
+            "04:22"
+        ],
+        "label": "two"
+    },
+    "clusterList": [
+        {
+            "phrase": "two strong up days have typically been followed by slightly weaker-than-normal performance",
+            "count": 1
+        },
+        {
+            "phrase": "for a period of four weeks it was a nine out of 10 10 out of 10 on a scale of 10",
+            "count": 1
+        },
+        {
+            "phrase": "more than doubled over the following four weeks",
+            "count": 1
+        }
+    ]
+}

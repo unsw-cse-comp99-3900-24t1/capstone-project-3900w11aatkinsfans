@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:57",
+            "02:19",
+            "04:15"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i need to come by to get my lockbox and my sign",
+            "count": 1
+        },
+        {
+            "phrase": "your listing has expired i'm coming by to get my lockbox and my sign",
+            "count": 1
+        },
+        {
+            "phrase": "yes your name is here but i cannot hear your signature in my system wait a moment",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to wait on your sign",
+            "count": 1
+        }
+    ]
+}

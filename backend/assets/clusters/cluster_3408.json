@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:14",
+            "02:23",
+            "02:28",
+            "02:29",
+            "04:38"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you stand on quality versus quantity",
+            "count": 1
+        },
+        {
+            "phrase": "valuations are low and apple has the marketing horsepower",
+            "count": 1
+        },
+        {
+            "phrase": "you can't find a better product",
+            "count": 1
+        },
+        {
+            "phrase": "they have the best products out there",
+            "count": 1
+        },
+        {
+            "phrase": "my brand is beyond 7",
+            "count": 1
+        },
+        {
+            "phrase": "chicken momos are the best-selling items and there is a huge demand but it is not cost effective any more",
+            "count": 1
+        }
+    ]
+}

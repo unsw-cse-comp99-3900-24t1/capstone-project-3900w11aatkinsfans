@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "00:17",
+            "00:42",
+            "01:02",
+            "01:19",
+            "01:42",
+            "02:15",
+            "03:48",
+            "03:50",
+            "04:24"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "serve your country community world",
+            "count": 2
+        },
+        {
+            "phrase": "i'll put my country first and i'll never let you down",
+            "count": 1
+        },
+        {
+            "phrase": "any country that would have me as president",
+            "count": 1
+        },
+        {
+            "phrase": "in the face of impossible odds people who love their country can change it",
+            "count": 1
+        },
+        {
+            "phrase": "country first and experience",
+            "count": 1
+        },
+        {
+            "phrase": "foreign country a",
+            "count": 1
+        },
+        {
+            "phrase": "choose your country",
+            "count": 1
+        },
+        {
+            "phrase": "ask not what your country can do for you",
+            "count": 1
+        },
+        {
+            "phrase": "duty to country",
+            "count": 1
+        }
+    ]
+}

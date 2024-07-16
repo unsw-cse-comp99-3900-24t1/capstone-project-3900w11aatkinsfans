@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:56",
+            "01:51",
+            "02:39",
+            "04:24"
+        ],
+        "label": "don't"
+    },
+    "clusterList": [
+        {
+            "phrase": "don't know how i operate",
+            "count": 1
+        },
+        {
+            "phrase": "you know how to use that thing",
+            "count": 1
+        },
+        {
+            "phrase": "learn to use them",
+            "count": 1
+        },
+        {
+            "phrase": "sure but how does this help",
+            "count": 1
+        },
+        {
+            "phrase": "but how does this help me",
+            "count": 1
+        },
+        {
+            "phrase": "you better be sure you know what you're doing when you're using it",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "02:46",
+            "03:14"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is perfect timing",
+            "count": 2
+        },
+        {
+            "phrase": "perfect move at the perfect time",
+            "count": 2
+        }
+    ]
+}

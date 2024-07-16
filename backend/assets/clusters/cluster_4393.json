@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "02:24",
+            "03:02",
+            "05:04"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my chains fell of my heart was free i'm alive to live with you",
+            "count": 1
+        },
+        {
+            "phrase": "the song was and will forever be for you",
+            "count": 1
+        },
+        {
+            "phrase": "and for you i keep my legs apart and forget about my tainted heart",
+            "count": 1
+        },
+        {
+            "phrase": "when i get a hold of you you're dead i swear i'm gonna slice your heart in half",
+            "count": 1
+        }
+    ]
+}

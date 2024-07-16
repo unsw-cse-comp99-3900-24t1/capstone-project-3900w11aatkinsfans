@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:03",
+            "01:13"
+        ],
+        "label": "fairly"
+    },
+    "clusterList": [
+        {
+            "phrase": "fairly significant deterioration",
+            "count": 1
+        },
+        {
+            "phrase": "depreciation damage or loss resulting from ordinary use or exposure",
+            "count": 1
+        },
+        {
+            "phrase": "damage or deterioration resulting from ordinary use normal depreciation",
+            "count": 1
+        },
+        {
+            "phrase": "i believe that the reported level of degradation is unlikely to be acceptable even to government",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "03:15",
+            "03:18",
+            "03:23"
+        ],
+        "label": "yeah"
+    },
+    "clusterList": [
+        {
+            "phrase": "yeah i'm pretty much leaving them back here to die",
+            "count": 2
+        },
+        {
+            "phrase": "now about these kritters i've already sent some other kritters to remove the remains but i need three more death reports i also need to have the families contacted would you mind doing that for me",
+            "count": 1
+        },
+        {
+            "phrase": "oh i didn't do anything but if my job is done i really need to go and file these death reports",
+            "count": 1
+        },
+        {
+            "phrase": "please leave now have you finished those death reports yet better get them out of the way before more are needed",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            5
+        ],
+        "xLabels": [
+            "01:34",
+            "02:14",
+            "04:22",
+            "04:24",
+            "04:28",
+            "04:36"
+        ],
+        "label": "best"
+    },
+    "clusterList": [
+        {
+            "phrase": "best of the beatles 1967 1970",
+            "count": 1
+        },
+        {
+            "phrase": "the beatles box from liverpool",
+            "count": 1
+        },
+        {
+            "phrase": "the love song of j alfred prufrock",
+            "count": 1
+        },
+        {
+            "phrase": "the beatles story",
+            "count": 1
+        },
+        {
+            "phrase": "i didn't know anything about what the beatles were talking about but i loved it",
+            "count": 1
+        },
+        {
+            "phrase": "the best songs the beatles write add dimensions of experience and imagination to our lives revealing new realms into which we might not have entered without a little help",
+            "count": 1
+        },
+        {
+            "phrase": "the beatles complete scores",
+            "count": 1
+        },
+        {
+            "phrase": "the rise and fall of the experimental style of the beatles",
+            "count": 1
+        },
+        {
+            "phrase": "the beatles and their times thoughts on the relative autonomy of stylistic change",
+            "count": 1
+        },
+        {
+            "phrase": "a beatles odyssey alan w pollack's musicological journey through the beatles songs",
+            "count": 1
+        }
+    ]
+}

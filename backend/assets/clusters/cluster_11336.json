@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "01:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we hate people telling us to wear this and that",
+            "count": 1
+        },
+        {
+            "phrase": "i don't feel comfortable with you saying that and wearing those shorts",
+            "count": 1
+        }
+    ]
+}

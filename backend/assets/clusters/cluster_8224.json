@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "04:37"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we informed her that we have good information that the suspect was inside her residence",
+            "count": 1
+        },
+        {
+            "phrase": "i know i don't know where caylee is i just met with the detectives this afternoon and they didn't say anything about her having any information that right now would help us locate caylee any quicker",
+            "count": 1
+        }
+    ]
+}

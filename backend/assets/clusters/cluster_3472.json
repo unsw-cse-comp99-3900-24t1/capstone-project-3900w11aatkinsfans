@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "02:15",
+            "04:46"
+        ],
+        "label": "only"
+    },
+    "clusterList": [
+        {
+            "phrase": "only over the phone",
+            "count": 3
+        },
+        {
+            "phrase": "hmm i'm 30 years old and still live at home",
+            "count": 2
+        },
+        {
+            "phrase": "nope at home",
+            "count": 1
+        }
+    ]
+}

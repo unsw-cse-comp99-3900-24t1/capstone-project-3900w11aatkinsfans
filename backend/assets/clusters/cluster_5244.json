@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "02:33",
+            "02:51",
+            "03:18"
+        ],
+        "label": "that's"
+    },
+    "clusterList": [
+        {
+            "phrase": "that's your elbow",
+            "count": 1
+        },
+        {
+            "phrase": "please bend you arm like this and hold still for the x-ray",
+            "count": 1
+        },
+        {
+            "phrase": "the arm feels good",
+            "count": 1
+        },
+        {
+            "phrase": "duh well it's a very nice arm",
+            "count": 1
+        }
+    ]
+}

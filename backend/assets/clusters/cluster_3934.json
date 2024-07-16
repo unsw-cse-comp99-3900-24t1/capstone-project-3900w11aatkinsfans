@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:41",
+            "01:50",
+            "03:29",
+            "03:55",
+            "04:09"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i know i've been a total bitch to you",
+            "count": 1
+        },
+        {
+            "phrase": "aint that a bitch",
+            "count": 1
+        },
+        {
+            "phrase": "the problem is you're a fucking bitch",
+            "count": 1
+        },
+        {
+            "phrase": "ain't that bout a bitch",
+            "count": 1
+        },
+        {
+            "phrase": "hey you're being an ass you know that",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:23",
+            "03:32",
+            "04:01",
+            "04:28"
+        ],
+        "label": "oh"
+    },
+    "clusterList": [
+        {
+            "phrase": "oh my god someone's hurt oh no",
+            "count": 1
+        },
+        {
+            "phrase": "no eric don't make me hurt",
+            "count": 1
+        },
+        {
+            "phrase": "i think you hurt yourself",
+            "count": 1
+        },
+        {
+            "phrase": "i think he is sensitive",
+            "count": 1
+        }
+    ]
+}

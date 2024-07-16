@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:16",
+            "03:20",
+            "04:32"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i had to move around but i think i can catch them every day",
+            "count": 1
+        },
+        {
+            "phrase": "i dont keep them in my house because i get a fruit fly problem",
+            "count": 1
+        },
+        {
+            "phrase": "i sat in the bushes for weeks with a flashlight and a gun but didn't catch them",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:25",
+            "04:44"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the unprecedented expansion of human population occurred among the people who use little to none fossil fuels",
+            "count": 1
+        },
+        {
+            "phrase": "way back when when the algae were responsible for creating the long-chain hydrocarbons like diesels and heavy oils the biomass just got buried and compressed and formed crude oil",
+            "count": 1
+        }
+    ]
+}

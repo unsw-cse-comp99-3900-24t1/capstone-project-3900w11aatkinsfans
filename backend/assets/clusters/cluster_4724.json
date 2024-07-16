@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "03:16",
+            "04:15",
+            "04:45"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're just shocked",
+            "count": 1
+        },
+        {
+            "phrase": "i'm really shocked to only catch that",
+            "count": 1
+        },
+        {
+            "phrase": "i was proud that we got that right",
+            "count": 1
+        },
+        {
+            "phrase": "we were really excited that he made it that far",
+            "count": 1
+        }
+    ]
+}

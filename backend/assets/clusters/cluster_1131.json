@@ -1,0 +1,79 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "00:53",
+            "01:03",
+            "01:20",
+            "02:01",
+            "02:02",
+            "02:09",
+            "02:29",
+            "02:43",
+            "02:57",
+            "03:05",
+            "03:06",
+            "03:38",
+            "03:48"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "go for it",
+            "count": 3
+        },
+        {
+            "phrase": "ah i shouldn't you know i shouldn't",
+            "count": 3
+        },
+        {
+            "phrase": "you should to",
+            "count": 1
+        },
+        {
+            "phrase": "well you shouldn't be",
+            "count": 1
+        },
+        {
+            "phrase": "i still don't think you should go",
+            "count": 1
+        },
+        {
+            "phrase": "you shouldn't be staying with",
+            "count": 1
+        },
+        {
+            "phrase": "well yes you should care",
+            "count": 1
+        },
+        {
+            "phrase": "should i stay or should i go",
+            "count": 1
+        },
+        {
+            "phrase": "you should behave this way",
+            "count": 1
+        },
+        {
+            "phrase": "well what do you think i should do",
+            "count": 1
+        }
+    ]
+}

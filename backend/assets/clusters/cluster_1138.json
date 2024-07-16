@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:01",
+            "01:06",
+            "01:11",
+            "01:15",
+            "01:25",
+            "01:33",
+            "01:56",
+            "02:04",
+            "02:09",
+            "02:24",
+            "02:31",
+            "02:51",
+            "04:45"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the conduct of federal programs or other programs or operations essential to the interests of our nation",
+            "count": 5
+        },
+        {
+            "phrase": "we are taking this issue seriously and are cooperating fully with federal authorities",
+            "count": 2
+        },
+        {
+            "phrase": "would the federal government really consider doing something like this",
+            "count": 2
+        },
+        {
+            "phrase": "we need federal support",
+            "count": 1
+        },
+        {
+            "phrase": "this is what the united states is committed to do as soon as i get to be president and we can start it right now",
+            "count": 1
+        },
+        {
+            "phrase": "the somk program in texas is growing and we hope some day to have a presence in every area of the state",
+            "count": 1
+        },
+        {
+            "phrase": "essentially we would like to bring the farmers together and have them help us help them to regulate the process",
+            "count": 1
+        },
+        {
+            "phrase": "this is my county so i would like to see anything implemented here that will help the system",
+            "count": 1
+        }
+    ]
+}

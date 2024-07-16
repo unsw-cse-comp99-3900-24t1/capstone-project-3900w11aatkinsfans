@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:39",
+            "02:22",
+            "04:28",
+            "04:45",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the deadly affair",
+            "count": 1
+        },
+        {
+            "phrase": "angie was not murdered because she did something wrong",
+            "count": 1
+        },
+        {
+            "phrase": "whoever divorces his wife and marries another commits adultery against her",
+            "count": 1
+        },
+        {
+            "phrase": "peterson convicted of killing wife and baby",
+            "count": 1
+        },
+        {
+            "phrase": "the accidental husband",
+            "count": 1
+        },
+        {
+            "phrase": "her husband is destroyed he's in shock",
+            "count": 1
+        }
+    ]
+}

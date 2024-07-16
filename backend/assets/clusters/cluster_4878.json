@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "01:32",
+            "03:18",
+            "04:06"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i just need to execute my shots",
+            "count": 1
+        },
+        {
+            "phrase": "how do you want to shoot this scene",
+            "count": 1
+        },
+        {
+            "phrase": "you're not going to get it by making a scene i'll see what i can do for you",
+            "count": 1
+        },
+        {
+            "phrase": "point and shoot",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:11",
+            "00:25",
+            "00:36",
+            "00:46",
+            "01:15",
+            "01:38",
+            "02:26",
+            "03:06",
+            "03:14",
+            "03:27",
+            "03:29",
+            "03:46",
+            "03:48",
+            "03:51",
+            "04:13",
+            "04:14",
+            "04:32"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm not trying to be my father he's irreplaceable i'm simply trying to do something that i think there's a real niche for that there's a calling for that has to do with youth not just in the election but in politics from now on",
+            "count": 10
+        },
+        {
+            "phrase": "wow that's fantastic but you need an adult to help you out because you have to be a registered voter",
+            "count": 7
+        },
+        {
+            "phrase": "well just to let you know your dad and noha voted with me",
+            "count": 1
+        },
+        {
+            "phrase": "i'd like to help you son but you're too young to vote",
+            "count": 1
+        },
+        {
+            "phrase": "during this year's enrol to vote week we are reminding young people that between federal elections there are by-elections and state and local government elections so enrolling to vote is always important",
+            "count": 1
+        }
+    ]
+}

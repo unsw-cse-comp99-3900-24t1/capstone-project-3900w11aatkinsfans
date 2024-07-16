@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "01:43",
+            "03:50",
+            "04:04",
+            "04:22",
+            "04:32"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well it's just you n me now",
+            "count": 1
+        },
+        {
+            "phrase": "it ain't me babe",
+            "count": 1
+        },
+        {
+            "phrase": "it's me to-chan",
+            "count": 1
+        },
+        {
+            "phrase": "hey chris it's me",
+            "count": 1
+        },
+        {
+            "phrase": "it's always me",
+            "count": 1
+        },
+        {
+            "phrase": "i know it's not you it's me i replied how lame is that",
+            "count": 1
+        }
+    ]
+}

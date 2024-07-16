@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:24",
+            "01:20",
+            "04:10"
+        ],
+        "label": "we've"
+    },
+    "clusterList": [
+        {
+            "phrase": "we've got a rapidly ageing population so governments generally are going to have to look in the future at investing more into aged care facilities",
+            "count": 1
+        },
+        {
+            "phrase": "it the care of elderly australians has to be a big focus there's no doubt that greater investments are required",
+            "count": 1
+        },
+        {
+            "phrase": "the impact of this is stark current trends suggest the uk will have its first 120 year old in the early 2060s if not before that means she is already drawing her state pension and will do so for half her lifetime",
+            "count": 1
+        },
+        {
+            "phrase": "given that the us population age 65 and older is expected to more than double to 72 million by 2030 expanding the reach of evidence based programs like healthier living to promote self care also makes good clinical and economic sense",
+            "count": 1
+        },
+        {
+            "phrase": "how about some answers cut the benefits that go largely to the elderly that's not gonna happen there will be colonies of sick old people sleeping under bridges gross",
+            "count": 1
+        }
+    ]
+}

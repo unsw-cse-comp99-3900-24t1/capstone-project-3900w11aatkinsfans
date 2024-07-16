@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:59",
+            "04:18"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we see through a glass darkly",
+            "count": 1
+        },
+        {
+            "phrase": "saw the light",
+            "count": 1
+        }
+    ]
+}

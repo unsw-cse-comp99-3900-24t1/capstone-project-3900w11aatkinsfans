@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:38",
+            "04:03"
+        ],
+        "label": "highway"
+    },
+    "clusterList": [
+        {
+            "phrase": "highway 61 revisited",
+            "count": 1
+        },
+        {
+            "phrase": "driving along a rocky red cliff",
+            "count": 1
+        },
+        {
+            "phrase": "at or about the great hill",
+            "count": 1
+        }
+    ]
+}

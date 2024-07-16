@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:44",
+            "01:50",
+            "03:11",
+            "03:34",
+            "04:28"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a working schematic for a comic book graphic novel or young adult science fantasy screenplay",
+            "count": 1
+        },
+        {
+            "phrase": "christian the lion the full story in hq",
+            "count": 1
+        },
+        {
+            "phrase": "bible vs the book of mormon",
+            "count": 1
+        },
+        {
+            "phrase": "this ostensibly archaic epic",
+            "count": 1
+        },
+        {
+            "phrase": "it may not be suitable for viewers without a strong grasp of judeo-christian mythology",
+            "count": 1
+        }
+    ]
+}

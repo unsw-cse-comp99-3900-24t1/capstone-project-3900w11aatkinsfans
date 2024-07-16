@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:00",
+            "04:03"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is the first gamma ray album that i didn't instantly love",
+            "count": 1
+        },
+        {
+            "phrase": "it's something that i'll remember forever just like the first hit i got last year",
+            "count": 1
+        }
+    ]
+}

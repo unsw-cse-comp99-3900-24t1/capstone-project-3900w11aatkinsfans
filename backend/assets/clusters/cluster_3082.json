@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:07",
+            "01:47",
+            "02:52",
+            "03:10",
+            "03:51",
+            "04:31"
+        ],
+        "label": "i'll"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'll be the first to admit that the music industry has some big unavoidable emissions associated with their business",
+            "count": 5
+        },
+        {
+            "phrase": "the exchange of musical ideas between the west and the rest of the world is evolving into a genuine conversation and that can only be an improvement the internet may be giving the music industry all kinds of fits but it s pretty great for the health of music itself",
+            "count": 1
+        }
+    ]
+}

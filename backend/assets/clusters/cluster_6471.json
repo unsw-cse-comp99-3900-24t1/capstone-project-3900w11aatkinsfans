@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:11",
+            "01:30",
+            "03:50"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you missed it",
+            "count": 2
+        },
+        {
+            "phrase": "missed it by that much",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            4,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "04:18",
+            "04:19"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "god must have a sense of humor",
+            "count": 2
+        },
+        {
+            "phrase": "i'm living proof that god has a sense of humor",
+            "count": 2
+        },
+        {
+            "phrase": "i can't not laugh when people talk about jesus cause he makes everything okay",
+            "count": 1
+        },
+        {
+            "phrase": "stop using jesus as a cuss word he's a billion people's savior you know",
+            "count": 1
+        }
+    ]
+}

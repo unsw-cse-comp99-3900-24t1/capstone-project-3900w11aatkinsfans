@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:18",
+            "00:44",
+            "00:46",
+            "04:28"
+        ],
+        "label": "all"
+    },
+    "clusterList": [
+        {
+            "phrase": "all that is necessary for the triumph of evil is that good men do nothing",
+            "count": 2
+        },
+        {
+            "phrase": "all this do-gooderness is a cover for very very very evil deeds",
+            "count": 1
+        },
+        {
+            "phrase": "all that is necessary for the triumph of evil is for good men to do nothing",
+            "count": 1
+        },
+        {
+            "phrase": "i know in my heart that man is good that what is right will always eventually triumph and there's a purpose and worth to each and every life",
+            "count": 1
+        }
+    ]
+}

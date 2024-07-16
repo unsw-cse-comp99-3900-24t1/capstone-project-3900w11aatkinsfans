@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "03:35",
+            "04:24"
+        ],
+        "label": "whoa"
+    },
+    "clusterList": [
+        {
+            "phrase": "whoa hold on don't you think you should look at his face",
+            "count": 1
+        },
+        {
+            "phrase": "he's too beautiful to think",
+            "count": 1
+        },
+        {
+            "phrase": "he looked nothing like his picture",
+            "count": 1
+        }
+    ]
+}

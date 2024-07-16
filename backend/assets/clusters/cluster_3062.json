@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:02",
+            "01:20",
+            "01:29",
+            "03:06",
+            "03:41"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "the service offered by gizmo is more from a",
+            "count": 3
+        },
+        {
+            "phrase": "you need the right partner to truly make mobile marketing work for your brand coca-cola is excited to work with chacha and see its interactive mobile marketing service effectively reach consumers in a more personal and engaging way",
+            "count": 2
+        },
+        {
+            "phrase": "the administrator for optima is sending us a package for the whole company including the store customer and warranty base we are are talking to a finance company about partnering together to purchase optima but no deal is being confirmed yet",
+            "count": 1
+        }
+    ]
+}

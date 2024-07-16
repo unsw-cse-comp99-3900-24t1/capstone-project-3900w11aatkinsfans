@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:04",
+            "04:23",
+            "04:50"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the best explanation for how the newborn universe went through a period of ultrafast expansion has been under increasing scrutiny recently after researchers found irregularities in the cosmic microwave background the radiation left over from the big bang that appeared to contradict some of the predictions of the simplest version of the model",
+            "count": 1
+        },
+        {
+            "phrase": "the big bang theory",
+            "count": 1
+        },
+        {
+            "phrase": "the cosmic egg",
+            "count": 1
+        }
+    ]
+}

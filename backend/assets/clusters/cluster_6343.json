@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "02:24",
+            "03:18"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i am not douguai delay your work a cold go i had nothing to do",
+            "count": 2
+        },
+        {
+            "phrase": "i'm gonna go wash my hands i doubt the pizza'll get cold while i'm gone be back in a second",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:28",
+            "03:02",
+            "03:37"
+        ],
+        "label": "knowing"
+    },
+    "clusterList": [
+        {
+            "phrase": "knowing there's not just one trail to the top of the mountain keeps me going",
+            "count": 1
+        },
+        {
+            "phrase": "on the trail first timer",
+            "count": 1
+        },
+        {
+            "phrase": "almost to the end of the trail",
+            "count": 1
+        }
+    ]
+}

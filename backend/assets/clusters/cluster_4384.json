@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:41",
+            "02:46",
+            "04:05"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "my estimate is that at least 500 million of those medicines are wasted",
+            "count": 1
+        },
+        {
+            "phrase": "we have found drugs but i am not in a position to say how many drugs have been found or what type of drugs they are",
+            "count": 1
+        },
+        {
+            "phrase": "people go in with no meds and they come out with 5 000 pills",
+            "count": 1
+        },
+        {
+            "phrase": "40 per cent fall in homeopathic prescriptions",
+            "count": 1
+        }
+    ]
+}

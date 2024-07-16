@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            3
+        ],
+        "xLabels": [
+            "01:40",
+            "02:26"
+        ],
+        "label": "why"
+    },
+    "clusterList": [
+        {
+            "phrase": "why do you bring all this perfumes",
+            "count": 2
+        },
+        {
+            "phrase": "why do you bring these perfumes for",
+            "count": 2
+        },
+        {
+            "phrase": "these perfumes are for friends and people i love and they are just gifts for people that i like",
+            "count": 2
+        }
+    ]
+}

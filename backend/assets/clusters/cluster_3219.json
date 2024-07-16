@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:58",
+            "02:06",
+            "02:28",
+            "03:14",
+            "04:19"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the impact for us obviously is we can't sail out or into the harbour while that ship is there ms evans told aap",
+            "count": 2
+        },
+        {
+            "phrase": "the impact for us obviously is we can't sail out or into the harbour while that ship is there",
+            "count": 2
+        },
+        {
+            "phrase": "the impact for us obviously is we can't sail out or into the harbour while that ship is there ms evans said",
+            "count": 1
+        },
+        {
+            "phrase": "we will not allow them to swift boat us",
+            "count": 1
+        }
+    ]
+}

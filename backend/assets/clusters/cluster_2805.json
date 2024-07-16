@@ -1,0 +1,51 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:19",
+            "01:07",
+            "01:34",
+            "01:47",
+            "04:37"
+        ],
+        "label": "cause"
+    },
+    "clusterList": [
+        {
+            "phrase": "cause when i'm with him i'm thinking of you",
+            "count": 1
+        },
+        {
+            "phrase": "this maniac's in love with you",
+            "count": 1
+        },
+        {
+            "phrase": "you owe me a kiss",
+            "count": 1
+        },
+        {
+            "phrase": "my my your face looks so erotic",
+            "count": 1
+        },
+        {
+            "phrase": "i'm in love with my car",
+            "count": 1
+        },
+        {
+            "phrase": "i love spending time with you",
+            "count": 1
+        },
+        {
+            "phrase": "baby and me",
+            "count": 1
+        }
+    ]
+}

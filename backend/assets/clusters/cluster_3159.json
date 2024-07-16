@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "01:55",
+            "02:38",
+            "02:55",
+            "03:10",
+            "03:51"
+        ],
+        "label": "everything"
+    },
+    "clusterList": [
+        {
+            "phrase": "everything seems ok except when he really opens it up",
+            "count": 5
+        },
+        {
+            "phrase": "everything seems ok except when he really opens it up coach ken whisenhunt said thursday",
+            "count": 1
+        }
+    ]
+}

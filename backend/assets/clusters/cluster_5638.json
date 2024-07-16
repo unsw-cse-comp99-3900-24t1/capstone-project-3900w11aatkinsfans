@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:06",
+            "02:05"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is a great surprise and i have not heard of this happening before",
+            "count": 2
+        },
+        {
+            "phrase": "at first i thought it was just coincidence however it has happened too many times over the last three years",
+            "count": 1
+        }
+    ]
+}

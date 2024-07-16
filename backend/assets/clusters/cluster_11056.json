@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:57",
+            "02:59"
+        ],
+        "label": "firstly"
+    },
+    "clusterList": [
+        {
+            "phrase": "firstly it pushes back",
+            "count": 1
+        },
+        {
+            "phrase": "push back feature",
+            "count": 1
+        }
+    ]
+}

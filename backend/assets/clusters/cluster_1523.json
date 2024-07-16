@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:23",
+            "01:47",
+            "03:08",
+            "03:18",
+            "03:41",
+            "03:47",
+            "03:51",
+            "04:28",
+            "04:44"
+        ],
+        "label": "there's"
+    },
+    "clusterList": [
+        {
+            "phrase": "there's no place like home",
+            "count": 6
+        },
+        {
+            "phrase": "country house whodunit",
+            "count": 1
+        },
+        {
+            "phrase": "toots dis place ain't my home i belong back in new york in da city",
+            "count": 1
+        },
+        {
+            "phrase": "loving and caring home environments",
+            "count": 1
+        },
+        {
+            "phrase": "home by the river",
+            "count": 1
+        },
+        {
+            "phrase": "it's more like a residence inn",
+            "count": 1
+        }
+    ]
+}

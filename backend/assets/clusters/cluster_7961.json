@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "02:20"
+        ],
+        "label": "decisions"
+    },
+    "clusterList": [
+        {
+            "phrase": "decisions are complex and there are always competing factors to look for simple explanations is the bias of the human brain but it doesn't correspond to reality nothing is ever as straightforward as it appears",
+            "count": 1
+        },
+        {
+            "phrase": "predictably irrational the hidden forces that shape our decisions",
+            "count": 1
+        }
+    ]
+}

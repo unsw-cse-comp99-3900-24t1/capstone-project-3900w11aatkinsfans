@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:51",
+            "04:38"
+        ],
+        "label": "glass"
+    },
+    "clusterList": [
+        {
+            "phrase": "glass half full",
+            "count": 1
+        },
+        {
+            "phrase": "is the glass half empty half full or twice the size it needs to be",
+            "count": 1
+        },
+        {
+            "phrase": "glass is half full",
+            "count": 1
+        }
+    ]
+}

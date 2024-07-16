@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:41",
+            "00:56",
+            "01:09",
+            "04:29",
+            "04:42",
+            "04:59"
+        ],
+        "label": "second"
+    },
+    "clusterList": [
+        {
+            "phrase": "poor start to the year",
+            "count": 2
+        },
+        {
+            "phrase": "we had to be aggressive we finished 30th last year",
+            "count": 2
+        },
+        {
+            "phrase": "second half slump",
+            "count": 1
+        },
+        {
+            "phrase": "i think slumps only last so long so i think everybody pulled out of it so if you want to say it was due to the talk or if you want to say it was due to the prolonged slumps coming to an end either way",
+            "count": 1
+        },
+        {
+            "phrase": "i think the first quarter was an adjustment period for us we were getting used to what they were running what their sets were",
+            "count": 1
+        },
+        {
+            "phrase": "if you looked at some of the numbers guys were sitting on as we got into the middle of june i think it was very apparent that even their average year would mean a big upswing in the second half of the year",
+            "count": 1
+        }
+    ]
+}

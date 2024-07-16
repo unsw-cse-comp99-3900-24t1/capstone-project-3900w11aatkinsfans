@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "00:56",
+            "01:42"
+        ],
+        "label": "now"
+    },
+    "clusterList": [
+        {
+            "phrase": "making connections facebook amp beyond",
+            "count": 3
+        },
+        {
+            "phrase": "now amp then",
+            "count": 1
+        },
+        {
+            "phrase": "computers amp internet",
+            "count": 1
+        }
+    ]
+}

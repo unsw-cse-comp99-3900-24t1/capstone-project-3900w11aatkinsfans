@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:23",
+            "00:56",
+            "02:14",
+            "04:28",
+            "05:02"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what mistakes have you made and what have you learned from them",
+            "count": 2
+        },
+        {
+            "phrase": "learn to forget",
+            "count": 1
+        },
+        {
+            "phrase": "you make mistakes and you learn from your mistakes its what you do with them and how you handle them i made this mistake more than 40 years ago and never made that mistake again",
+            "count": 1
+        },
+        {
+            "phrase": "you learn from your mistakes",
+            "count": 1
+        },
+        {
+            "phrase": "learns from her mistakes",
+            "count": 1
+        }
+    ]
+}

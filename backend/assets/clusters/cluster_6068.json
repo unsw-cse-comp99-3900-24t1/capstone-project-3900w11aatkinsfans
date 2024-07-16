@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:00",
+            "01:16",
+            "03:50"
+        ],
+        "label": "hey"
+    },
+    "clusterList": [
+        {
+            "phrase": "hey michelle does deserve that",
+            "count": 1
+        },
+        {
+            "phrase": "aw man i hate that girl she's bad mouthing me and i'm gonna kick her a-double-s",
+            "count": 1
+        },
+        {
+            "phrase": "but you are her stepmother it is only proper for me to show respect to you with that in mind i am glad to finally have met you",
+            "count": 1
+        }
+    ]
+}

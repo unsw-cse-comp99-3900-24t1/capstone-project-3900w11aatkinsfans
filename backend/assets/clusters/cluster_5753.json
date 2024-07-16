@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:23",
+            "00:52"
+        ],
+        "label": "he's"
+    },
+    "clusterList": [
+        {
+            "phrase": "chip n tony",
+            "count": 2
+        },
+        {
+            "phrase": "he's a chip o the old block",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:14",
+            "03:48"
+        ],
+        "label": "using"
+    },
+    "clusterList": [
+        {
+            "phrase": "using the name frontier communications is appropriate for our company since 100 percent of our customer interactions involve that name",
+            "count": 1
+        },
+        {
+            "phrase": "we are pleased to welcome itelconnect subscribers to packet8 and look forward to a seamless transition as we provision our services to these customers",
+            "count": 1
+        },
+        {
+            "phrase": "we are confident that we will execute on our plan to expand wimax deployments among our key wimax customers and to accelerate the development and delivery of our redmax 4c mobile wimax products this year",
+            "count": 1
+        }
+    ]
+}

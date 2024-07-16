@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:33",
+            "01:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the farther north you go from the border the less that is understood",
+            "count": 1
+        },
+        {
+            "phrase": "if it ain't white shove it back across the border",
+            "count": 1
+        },
+        {
+            "phrase": "crossing the border",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            3
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "00:11",
+            "04:03",
+            "04:52"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "why did boston trade manny's shipping out of boston wtf",
+            "count": 3
+        },
+        {
+            "phrase": "it was kind of shocking all of sudden bam it was done he is still going to be a friend of mine i'm upset that he's leaving but it's a good situation for him he wants to win a ring the white sox are in first place and he has a chance",
+            "count": 2
+        },
+        {
+            "phrase": "he was anxious to get going he was anxious to be a part of this catchers got a lot to do you got to get new shin guards ready and fitted there's a lot of things that you got to do i was never traded in the middle of the season so i didn't have to deal with that",
+            "count": 1
+        },
+        {
+            "phrase": "to be honest it was a surprise it's the last day of the trading deadline and a trade like this comes it's still for me hard to believe that i'm here talking to you guys here in yankee stadium with a new york yankee uniform",
+            "count": 1
+        },
+        {
+            "phrase": "he wants to be traded then he flip-flops and says he wants to be here for the rest of his career then he wants to be traded well now that's finally been decided",
+            "count": 1
+        }
+    ]
+}

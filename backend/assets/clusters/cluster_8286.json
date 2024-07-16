@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "04:00"
+        ],
+        "label": "operating"
+    },
+    "clusterList": [
+        {
+            "phrase": "operating in a country",
+            "count": 1
+        },
+        {
+            "phrase": "the united states is operating",
+            "count": 1
+        }
+    ]
+}

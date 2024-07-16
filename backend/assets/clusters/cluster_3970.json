@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            5
+        ],
+        "xLabels": [
+            "01:55"
+        ],
+        "label": "saul"
+    },
+    "clusterList": [
+        {
+            "phrase": "saul take another card",
+            "count": 2
+        },
+        {
+            "phrase": "take another card",
+            "count": 2
+        },
+        {
+            "phrase": "saul go to the blackjack table and put it down all on one hand",
+            "count": 1
+        }
+    ]
+}

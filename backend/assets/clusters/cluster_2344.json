@@ -1,0 +1,39 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2
+        ],
+        "xLabels": [
+            "01:42",
+            "01:50",
+            "02:06",
+            "04:04",
+            "04:08",
+            "04:45"
+        ],
+        "label": "can"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is an issue of having community leaders come to an agreement",
+            "count": 4
+        },
+        {
+            "phrase": "can two walk together unless they are agreed",
+            "count": 2
+        },
+        {
+            "phrase": "we got agreement from one club and they were trying to get agreement on players from the other club",
+            "count": 1
+        },
+        {
+            "phrase": "neighbors need to know when there is an agreement made that's something you can count on",
+            "count": 1
+        }
+    ]
+}

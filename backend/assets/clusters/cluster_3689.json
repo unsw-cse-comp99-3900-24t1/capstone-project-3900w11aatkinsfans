@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:29",
+            "01:10",
+            "03:55",
+            "04:36"
+        ],
+        "label": "forgive"
+    },
+    "clusterList": [
+        {
+            "phrase": "forgive me gentlemen if i don't understand what in the name of mordor your malfunction happens to be",
+            "count": 5
+        }
+    ]
+}

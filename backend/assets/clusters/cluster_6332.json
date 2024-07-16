@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "04:51",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "my guitar is not a thing it is an extension of myself it is who i am",
+            "count": 2
+        },
+        {
+            "phrase": "i bought another guitar for guitar hero me and victoria went halves",
+            "count": 1
+        }
+    ]
+}

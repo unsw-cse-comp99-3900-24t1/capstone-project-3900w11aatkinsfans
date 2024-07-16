@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:39",
+            "03:14",
+            "04:05"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the us justice department is supposed to enforce us laws but a new investigation suggests that the bush administration may have violated those laws when it hung out the help wanted sign at the justice department",
+            "count": 1
+        },
+        {
+            "phrase": "anonymous commenting may have just gotten a little less anonymous with the help of a subpoena issued six months ago attorneys for two yale law school students have succeeded in unmasking several anonymous users of",
+            "count": 1
+        },
+        {
+            "phrase": "scooter libby was convicted of perjury and obstructing justice after a special counsel's investigation into the leak of undercover agent valerie plame the interview in question was conducted during that probe",
+            "count": 1
+        }
+    ]
+}

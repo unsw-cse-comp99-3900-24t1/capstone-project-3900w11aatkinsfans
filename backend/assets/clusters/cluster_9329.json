@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:01",
+            "03:51"
+        ],
+        "label": "what's"
+    },
+    "clusterList": [
+        {
+            "phrase": "what's another way to use commentsniper",
+            "count": 1
+        },
+        {
+            "phrase": "email this page to a friend",
+            "count": 1
+        }
+    ]
+}

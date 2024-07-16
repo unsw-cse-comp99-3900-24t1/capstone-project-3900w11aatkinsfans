@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:10",
+            "02:52",
+            "03:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the opportunity to do great work for terrific clients with a talented team",
+            "count": 1
+        },
+        {
+            "phrase": "director of operations and information technology is such a crucial role within our company and we are delighted to welcome john to this position",
+            "count": 1
+        },
+        {
+            "phrase": "if business leaders do not immediately grasp the vital insights offered by this book both they and their organisations are doomed but the good news is that there are examples of executives out there who have taken this book's messages to heart and have acted successfully on them",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:25",
+            "04:45"
+        ],
+        "label": "billboards"
+    },
+    "clusterList": [
+        {
+            "phrase": "billboards gone wild",
+            "count": 1
+        },
+        {
+            "phrase": "advertising murals on buildings were very common in the days before billboards",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:56",
+            "05:05"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a truly rich man is one who's children run into his arms when his hands are empty",
+            "count": 1
+        },
+        {
+            "phrase": "but i am against the seizure of people's wealth",
+            "count": 1
+        }
+    ]
+}

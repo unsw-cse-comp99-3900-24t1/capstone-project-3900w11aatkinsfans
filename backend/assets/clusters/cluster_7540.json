@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:16",
+            "02:40",
+            "03:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the west wing",
+            "count": 2
+        },
+        {
+            "phrase": "front groups for left-wing causes",
+            "count": 1
+        }
+    ]
+}

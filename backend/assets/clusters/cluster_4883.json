@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:29",
+            "01:33",
+            "02:28"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when we got onshore we were advised to lash down our boats as the winds were predicted to get stronger overnight",
+            "count": 1
+        },
+        {
+            "phrase": "i've never seen so much water on the course but thankfully the damage isn't as bad as last year",
+            "count": 1
+        },
+        {
+            "phrase": "it seems that nelson-marlborough has taken the biggest hit from the strength of the wind other areas are dealing with lots of water and flood damage",
+            "count": 1
+        },
+        {
+            "phrase": "the greatest threat to the beach is the development boom and the appetite for market housing at ubc and the rainwater runoff problems that this is going to increase manifold",
+            "count": 1
+        }
+    ]
+}

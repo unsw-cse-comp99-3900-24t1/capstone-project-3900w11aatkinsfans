@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "01:11",
+            "01:27",
+            "02:24",
+            "03:18",
+            "03:34",
+            "04:03"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you feel stressed",
+            "count": 1
+        },
+        {
+            "phrase": "calm i didn't mean to wind you up fuzzball",
+            "count": 1
+        },
+        {
+            "phrase": "it's how i relax",
+            "count": 1
+        },
+        {
+            "phrase": "you better calm down",
+            "count": 1
+        },
+        {
+            "phrase": "okay krusha try to relax have a nice sit down or somethin we need to get you to calm down i bet it'll all make sense by mornin",
+            "count": 1
+        },
+        {
+            "phrase": "calm down toots",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to let it calm down and once it calms down i'll be out there",
+            "count": 1
+        },
+        {
+            "phrase": "you better calm down girl or you're gonna have a heart attack yesh you are yesh you are",
+            "count": 1
+        },
+        {
+            "phrase": "i'm trying to calm myself now",
+            "count": 1
+        }
+    ]
+}

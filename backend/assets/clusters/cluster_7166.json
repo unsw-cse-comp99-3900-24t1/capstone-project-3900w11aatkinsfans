@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "03:05",
+            "03:09"
+        ],
+        "label": "ah"
+    },
+    "clusterList": [
+        {
+            "phrase": "ah that would be traditional market-money",
+            "count": 1
+        },
+        {
+            "phrase": "well we go directly to the traditional market and exchange the money",
+            "count": 1
+        },
+        {
+            "phrase": "if you are a traditional marketer it's a big waste of money",
+            "count": 1
+        }
+    ]
+}

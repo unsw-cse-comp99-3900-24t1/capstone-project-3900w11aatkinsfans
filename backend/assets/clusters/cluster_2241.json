@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:33",
+            "03:50",
+            "04:28",
+            "04:42",
+            "04:55"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "watkins glen and bristol are two tracks where i really want a win",
+            "count": 3
+        },
+        {
+            "phrase": "the track is a very tough tricky technical road course we'll have a different look on the no 99 toyota this weekend and we are so fortunate to have napa canada on board with us aaron's who is also a strong partner of michael waltrip racing like napa will be back with us next week",
+            "count": 2
+        },
+        {
+            "phrase": "we learned a lot the last time we were there and i think pocono will be a good race for us",
+            "count": 1
+        },
+        {
+            "phrase": "pocono is a very very challenging race track for this car",
+            "count": 1
+        },
+        {
+            "phrase": "i enjoy racing on the road course at watkins glen and for some reason always seem to be a little better there than sonoma",
+            "count": 1
+        }
+    ]
+}

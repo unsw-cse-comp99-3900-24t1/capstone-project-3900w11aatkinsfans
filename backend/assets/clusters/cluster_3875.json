@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:24",
+            "04:04",
+            "04:40",
+            "05:01"
+        ],
+        "label": "my"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm definitely feeling hungry to get back in the squad and to get my opportunity if it does come on saturday i'll take the opportunity to prove my point and hopefully do well",
+            "count": 2
+        },
+        {
+            "phrase": "my results haven't reflected the runs i've had there",
+            "count": 1
+        },
+        {
+            "phrase": "i feel ready to do well for blackburn and i think i can be a success in the premier league",
+            "count": 1
+        },
+        {
+            "phrase": "i missed only one game but i'm fine now we are still trying different things we have played with one two and three strikers we like to keep things unpredictable but when johnny comes in he will be a big factor in whether we win games or not",
+            "count": 1
+        }
+    ]
+}

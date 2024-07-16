@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:23",
+            "04:54"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you should remove a's posts because they're just as bad as b's",
+            "count": 3
+        }
+    ]
+}

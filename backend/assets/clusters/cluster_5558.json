@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:04",
+            "00:16",
+            "04:43"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the golden calf",
+            "count": 2
+        },
+        {
+            "phrase": "cast away your calf o samaria",
+            "count": 1
+        },
+        {
+            "phrase": "the calf of samaria",
+            "count": 1
+        }
+    ]
+}

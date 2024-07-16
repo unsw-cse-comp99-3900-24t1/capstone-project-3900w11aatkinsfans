@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:05",
+            "04:50"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "but we were never real close to what i would call making a deal",
+            "count": 2
+        },
+        {
+            "phrase": "we got a good deal on it",
+            "count": 1
+        }
+    ]
+}

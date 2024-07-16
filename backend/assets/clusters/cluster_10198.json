@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "04:13"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they make a desert and they call it peace",
+            "count": 1
+        },
+        {
+            "phrase": "they're hunting for anybody who will give them a word they're looking for some peace",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "02:32"
+        ],
+        "label": "hard"
+    },
+    "clusterList": [
+        {
+            "phrase": "hard to distinguish multiple interfaces",
+            "count": 1
+        },
+        {
+            "phrase": "ports and interfaces",
+            "count": 1
+        }
+    ]
+}

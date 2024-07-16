@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:37",
+            "01:37",
+            "02:39",
+            "03:18",
+            "03:19",
+            "03:59",
+            "04:24",
+            "04:28"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "the way i see it",
+            "count": 3
+        },
+        {
+            "phrase": "in other words",
+            "count": 1
+        },
+        {
+            "phrase": "the way we see it",
+            "count": 1
+        },
+        {
+            "phrase": "in what way",
+            "count": 1
+        },
+        {
+            "phrase": "all the way",
+            "count": 1
+        },
+        {
+            "phrase": "from your perspective",
+            "count": 1
+        },
+        {
+            "phrase": "the way we feel",
+            "count": 1
+        }
+    ]
+}

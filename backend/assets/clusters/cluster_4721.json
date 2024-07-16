@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "00:51",
+            "01:24",
+            "03:38"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we want uthayakumar to say that the medicine he had with him appeared in the police search list but it was missing in the detention centre's list",
+            "count": 1
+        },
+        {
+            "phrase": "the medicine was neither registered in the ministry of health nor sold in the pharmacies so we closed his facility",
+            "count": 1
+        },
+        {
+            "phrase": "did not make any effort to ensure the drugs had been maintained under conditions to guarantee their safety and effectiveness",
+            "count": 1
+        },
+        {
+            "phrase": "i would ask and plead with the public doctors nurses parents who may come by information on this drug to contact the garda and make sure this scourge of drug does not come into this country i will be doing everything possible to see that this drug does not filter into this country",
+            "count": 1
+        }
+    ]
+}

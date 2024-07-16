@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "04:46"
+        ],
+        "label": "it's"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's a commercial fast forward",
+            "count": 1
+        },
+        {
+            "phrase": "wait a minute don't go so fast the commercial's are going to be done and you're going too fast",
+            "count": 1
+        },
+        {
+            "phrase": "it's a commercial",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "01:47",
+            "03:19",
+            "04:00",
+            "04:17"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the woman with the dog",
+            "count": 1
+        },
+        {
+            "phrase": "the bitch in the house",
+            "count": 1
+        },
+        {
+            "phrase": "the lady eve",
+            "count": 1
+        },
+        {
+            "phrase": "dina fresh chicken",
+            "count": 1
+        },
+        {
+            "phrase": "bride of chucky",
+            "count": 1
+        }
+    ]
+}

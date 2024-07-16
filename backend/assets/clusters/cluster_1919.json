@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:32",
+            "01:13",
+            "02:32",
+            "03:10",
+            "03:12",
+            "03:50",
+            "04:31",
+            "04:45"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's very difficult to eat well when you're constantly on the road attending dinners lunches barbecues",
+            "count": 2
+        },
+        {
+            "phrase": "and unless you're very very disciplined and most of us frankly aren't then you're quite likely to end up by throwing more food away",
+            "count": 2
+        },
+        {
+            "phrase": "you know there is a lot of food to eat",
+            "count": 1
+        },
+        {
+            "phrase": "there is a lot of effort put into telling people to eat five a day",
+            "count": 1
+        },
+        {
+            "phrase": "increasingly people have a lack of cooking skills or time to cook and that is significant for the food industry they want to get something for dinner tonight get it quickly and get home",
+            "count": 1
+        },
+        {
+            "phrase": "you try to get a salad within 20 minutes of our location it's virtually impossible",
+            "count": 1
+        },
+        {
+            "phrase": "casual dining is overbuilt",
+            "count": 1
+        }
+    ]
+}

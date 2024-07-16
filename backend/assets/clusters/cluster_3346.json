@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "02:01",
+            "02:14",
+            "03:00",
+            "03:19",
+            "03:48"
+        ],
+        "label": "known"
+    },
+    "clusterList": [
+        {
+            "phrase": "known limitations and risks",
+            "count": 1
+        },
+        {
+            "phrase": "i do my own math and i know at the end of the day what's at risk i don't call it a roll of the dice i call it a calculated risk",
+            "count": 1
+        },
+        {
+            "phrase": "i can't make any statements about safety and efficacy",
+            "count": 1
+        },
+        {
+            "phrase": "risk did not differ significantly by beverage type",
+            "count": 1
+        },
+        {
+            "phrase": "it is likely that our findings may underestimate the mortality risk",
+            "count": 1
+        },
+        {
+            "phrase": "it seems true that lower risk is related to higher returns",
+            "count": 1
+        }
+    ]
+}

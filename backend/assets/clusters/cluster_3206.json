@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "03:09",
+            "03:38",
+            "04:23",
+            "04:27",
+            "04:28"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we will choose the final team of 24 on october 6 after the nrl grand final",
+            "count": 3
+        },
+        {
+            "phrase": "every player that is australian always has a dream of playing for the wallabies and i have not closed that door and hopefully the aru hasn't closed that door on me either",
+            "count": 2
+        },
+        {
+            "phrase": "we look forward to brisbane on wednesday at home and hope that",
+            "count": 1
+        }
+    ]
+}

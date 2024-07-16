@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:12",
+            "00:23",
+            "00:24",
+            "01:11",
+            "02:36",
+            "03:05",
+            "03:12",
+            "04:06",
+            "04:28",
+            "04:42"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the appropriate moment is not now",
+            "count": 3
+        },
+        {
+            "phrase": "this is a special moment",
+            "count": 2
+        },
+        {
+            "phrase": "this is a blessed moment",
+            "count": 2
+        },
+        {
+            "phrase": "the appropriate moment",
+            "count": 1
+        },
+        {
+            "phrase": "this is the moment",
+            "count": 1
+        },
+        {
+            "phrase": "from this moment on",
+            "count": 1
+        },
+        {
+            "phrase": "capture this moment",
+            "count": 1
+        },
+        {
+            "phrase": "it's the moment for a",
+            "count": 1
+        },
+        {
+            "phrase": "not this moment my friend in the name of feeling anything not this moment",
+            "count": 1
+        }
+    ]
+}

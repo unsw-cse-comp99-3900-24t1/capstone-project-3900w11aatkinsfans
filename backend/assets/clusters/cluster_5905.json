@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:38",
+            "03:41",
+            "04:28"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if i am not working straight away i will work in a jazz bar not as a singer though i don't sing i will be pulling beers",
+            "count": 1
+        },
+        {
+            "phrase": "being a part of this in the first place i don't have much acting background i'm a singer i have my own band",
+            "count": 1
+        },
+        {
+            "phrase": "music is learned from a master in china always through formal conservatory training if you want to be a professional musician you have to have graduated from conservatory",
+            "count": 1
+        }
+    ]
+}

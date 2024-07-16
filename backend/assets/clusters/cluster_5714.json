@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "01:38",
+            "04:23"
+        ],
+        "label": "open"
+    },
+    "clusterList": [
+        {
+            "phrase": "open source or commercial software is more secure",
+            "count": 1
+        },
+        {
+            "phrase": "provider microsoft jet oledb 4 0 data source c documents and settings david escritorio proyecto bd1 mdb persist security info false",
+            "count": 1
+        },
+        {
+            "phrase": "hr lob providers such as avue were required to prove their solutions through a rigorous screening and evaluation process including four days of operational capabilities demonstrations and on-site visits to assess it security",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:09",
+            "03:23"
+        ],
+        "label": "chipping"
+    },
+    "clusterList": [
+        {
+            "phrase": "better chipping and putting",
+            "count": 2
+        },
+        {
+            "phrase": "chipping and chasing",
+            "count": 1
+        }
+    ]
+}

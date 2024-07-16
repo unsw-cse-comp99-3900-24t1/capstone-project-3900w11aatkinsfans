@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "01:00",
+            "01:20",
+            "02:01",
+            "03:05",
+            "03:06",
+            "03:09",
+            "03:11",
+            "03:12",
+            "03:15",
+            "03:55",
+            "03:56",
+            "03:58",
+            "04:03",
+            "04:13",
+            "04:23",
+            "04:28",
+            "04:32"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "but something distorted his thinking",
+            "count": 13
+        },
+        {
+            "phrase": "i knew something was wrong with his mind",
+            "count": 3
+        },
+        {
+            "phrase": "when they were little people would hand him a piece of candy and he asked if he could have one for his brother",
+            "count": 1
+        },
+        {
+            "phrase": "i asked him what presents he takes home to his daughters",
+            "count": 1
+        },
+        {
+            "phrase": "he had a gift for thinking like a child",
+            "count": 1
+        },
+        {
+            "phrase": "i think that experience really shaped his thinking",
+            "count": 1
+        }
+    ]
+}

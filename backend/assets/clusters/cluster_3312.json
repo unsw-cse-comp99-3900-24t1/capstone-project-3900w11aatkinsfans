@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:23",
+            "00:28",
+            "02:57",
+            "04:26",
+            "04:41"
+        ],
+        "label": "too"
+    },
+    "clusterList": [
+        {
+            "phrase": "too big to fail",
+            "count": 2
+        },
+        {
+            "phrase": "where's the failure",
+            "count": 1
+        },
+        {
+            "phrase": "doomed to fail",
+            "count": 1
+        },
+        {
+            "phrase": "a string of failures",
+            "count": 1
+        },
+        {
+            "phrase": "thrive or fail",
+            "count": 1
+        }
+    ]
+}

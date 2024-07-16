@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:23",
+            "00:46",
+            "01:33",
+            "01:43",
+            "03:06",
+            "04:22",
+            "04:23",
+            "04:28",
+            "04:41"
+        ],
+        "label": "typical"
+    },
+    "clusterList": [
+        {
+            "phrase": "typical white person",
+            "count": 5
+        },
+        {
+            "phrase": "4 000 whites with 4 000 black elites",
+            "count": 3
+        },
+        {
+            "phrase": "hardworking white people",
+            "count": 1
+        },
+        {
+            "phrase": "hard working white people are voting for me",
+            "count": 1
+        },
+        {
+            "phrase": "white working class voter",
+            "count": 1
+        },
+        {
+            "phrase": "middle income blue-collar workers people that have been through some things in their lives",
+            "count": 1
+        },
+        {
+            "phrase": "typical white people",
+            "count": 1
+        },
+        {
+            "phrase": "hard-working americans white americans",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "01:07",
+            "02:02",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "under"
+    },
+    "clusterList": [
+        {
+            "phrase": "under governor patrick massachusetts joined the regional greenhouse gas initiative and became the first state in the nation to require greenhouse gas analysis and mitigation in major real estate projects",
+            "count": 5
+        },
+        {
+            "phrase": "this is the latest in a series of actions that show the tide is turning in ocean management away from managing for collapse and towards a science-based ecosystem-focused approach to protect our oceans and sustainable fisheries",
+            "count": 1
+        }
+    ]
+}

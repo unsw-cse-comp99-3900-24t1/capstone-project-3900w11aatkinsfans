@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:23",
+            "01:10",
+            "01:12",
+            "01:13",
+            "02:46",
+            "03:01",
+            "03:37",
+            "03:43",
+            "04:46"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's been a life-changing experience for me",
+            "count": 2
+        },
+        {
+            "phrase": "my life is still better than yours let's be honest nik",
+            "count": 2
+        },
+        {
+            "phrase": "just about my whole life",
+            "count": 1
+        },
+        {
+            "phrase": "i thought i'd live forever",
+            "count": 1
+        },
+        {
+            "phrase": "i've had the time of my life",
+            "count": 1
+        },
+        {
+            "phrase": "i have lived a normal life",
+            "count": 1
+        },
+        {
+            "phrase": "i've lost years upon years",
+            "count": 1
+        },
+        {
+            "phrase": "my life's the shit",
+            "count": 1
+        }
+    ]
+}

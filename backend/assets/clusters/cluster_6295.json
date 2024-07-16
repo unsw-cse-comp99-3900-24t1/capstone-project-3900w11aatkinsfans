@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "00:56",
+            "05:03"
+        ],
+        "label": "benefited"
+    },
+    "clusterList": [
+        {
+            "phrase": "benefited from the changes when i returned to kansas and started working on the railroad again",
+            "count": 1
+        },
+        {
+            "phrase": "i've been workin on the railroad",
+            "count": 1
+        },
+        {
+            "phrase": "the railroad bought the land in the 1830s and put in their track",
+            "count": 1
+        }
+    ]
+}

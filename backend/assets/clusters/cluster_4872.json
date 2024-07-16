@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:04",
+            "01:10",
+            "01:30",
+            "04:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i have felt these thing i do not want to see them",
+            "count": 1
+        },
+        {
+            "phrase": "can't fight this feeling",
+            "count": 1
+        },
+        {
+            "phrase": "i can't hide the feeling",
+            "count": 1
+        },
+        {
+            "phrase": "protect my feelings",
+            "count": 1
+        }
+    ]
+}

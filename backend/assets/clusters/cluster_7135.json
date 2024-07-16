@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "02:57",
+            "04:36"
+        ],
+        "label": "for"
+    },
+    "clusterList": [
+        {
+            "phrase": "for trying to run away",
+            "count": 1
+        },
+        {
+            "phrase": "to move quickly",
+            "count": 1
+        },
+        {
+            "phrase": "to attract the movers and shakers",
+            "count": 1
+        }
+    ]
+}

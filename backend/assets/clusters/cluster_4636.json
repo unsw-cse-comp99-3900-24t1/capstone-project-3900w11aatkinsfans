@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:24",
+            "02:14",
+            "02:38"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "it'll be a very strong message that there is no room for complacency the hard work lies in front of us and nothing should be taken for granted",
+            "count": 2
+        },
+        {
+            "phrase": "what are we doing now that will be considered so deplorable in 40 years",
+            "count": 1
+        },
+        {
+            "phrase": "today's events give our business the stability it needs to move forward",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2
+        ],
+        "xLabels": [
+            "04:55"
+        ],
+        "label": "please"
+    },
+    "clusterList": [
+        {
+            "phrase": "please scan my first item and place it in the bagging area",
+            "count": 1
+        },
+        {
+            "phrase": "please place your item in the bagging area",
+            "count": 1
+        }
+    ]
+}

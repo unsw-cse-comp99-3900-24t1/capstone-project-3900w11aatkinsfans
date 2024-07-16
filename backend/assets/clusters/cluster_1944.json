@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:06",
+            "03:18",
+            "03:28",
+            "03:34",
+            "03:43",
+            "03:50",
+            "03:55",
+            "04:28"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the us has a tendency to move a couple of per cent either way each day at the moment so the volatility is quite extreme",
+            "count": 8
+        },
+        {
+            "phrase": "the us has a tendency to move a couple of percent either way each day at the moment so the volatility is quite extreme",
+            "count": 1
+        }
+    ]
+}

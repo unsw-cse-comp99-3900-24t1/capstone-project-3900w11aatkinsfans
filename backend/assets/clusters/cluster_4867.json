@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:32",
+            "02:22",
+            "03:13"
+        ],
+        "label": "anywhere"
+    },
+    "clusterList": [
+        {
+            "phrase": "anywhere other than the offender's imagination",
+            "count": 2
+        },
+        {
+            "phrase": "basically under house arrest",
+            "count": 1
+        },
+        {
+            "phrase": "the law clearly is that if you are an accomplice you are treated the same as the perpetrator or the man that pulls the trigger",
+            "count": 1
+        }
+    ]
+}

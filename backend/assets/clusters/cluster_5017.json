@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:56",
+            "02:37",
+            "03:56",
+            "04:32"
+        ],
+        "label": "tokyo"
+    },
+    "clusterList": [
+        {
+            "phrase": "tokyo disneyland christmas fantasy",
+            "count": 1
+        },
+        {
+            "phrase": "enjoy and explore the magic and excitement of the disneyland resort the happiest place on earth in this 50-minute color video adventure with two world famous theme parks hotels dining and shopping the disneyland resort has even more to offer yet it still possesses the nostalgic magic and charm as the park originally designed by walt disney himself",
+            "count": 1
+        },
+        {
+            "phrase": "walt disney's pictorial souvenir book of disneyland",
+            "count": 1
+        },
+        {
+            "phrase": "disney high school musical",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:14",
+            "02:05",
+            "02:41",
+            "03:14",
+            "04:27",
+            "04:29"
+        ],
+        "label": "like"
+    },
+    "clusterList": [
+        {
+            "phrase": "like most celebrities he reacts to fair criticism with a mix of fussiness and hysteria",
+            "count": 3
+        },
+        {
+            "phrase": "he may say silly things from time to time but i don't think he lies and i don't think he's that silly to go down that track again",
+            "count": 2
+        },
+        {
+            "phrase": "he reminds me of him a great deal what happens to guys like that who people say is like this or like that they find a way to make up for it",
+            "count": 1
+        }
+    ]
+}

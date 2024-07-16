@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:38",
+            "01:40",
+            "02:26",
+            "04:23"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "after fourteen months of study including seven meetings around the country and interviews with more than forty experts on this matter our commission has unanimously concluded that the central law governing this critical decision that is the war powers resolution of 1973 is ineffective and it should be repealed and it should be replaced however with a better law",
+            "count": 2
+        },
+        {
+            "phrase": "the investigation into this mishap began almost immediately the air combat command accident investigation board will collect and protect evidence from the scene and gather and analyze all relevant data",
+            "count": 1
+        },
+        {
+            "phrase": "that is what i was told and after my investigation was complete that is what i believe",
+            "count": 1
+        }
+    ]
+}

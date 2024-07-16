@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "01:29",
+            "01:38",
+            "02:02",
+            "03:51",
+            "04:19",
+            "04:46"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "it would take a flying pig",
+            "count": 2
+        },
+        {
+            "phrase": "the little green frog",
+            "count": 1
+        },
+        {
+            "phrase": "the flying dutchman",
+            "count": 1
+        },
+        {
+            "phrase": "q the winged serpent",
+            "count": 1
+        },
+        {
+            "phrase": "bird in space",
+            "count": 1
+        },
+        {
+            "phrase": "when pigs fly",
+            "count": 1
+        },
+        {
+            "phrase": "flight of the goose",
+            "count": 1
+        }
+    ]
+}

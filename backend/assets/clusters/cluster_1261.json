@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:05",
+            "00:53",
+            "01:07",
+            "01:51",
+            "02:01",
+            "03:18",
+            "03:29",
+            "03:55",
+            "04:04",
+            "04:15",
+            "04:28",
+            "04:33"
+        ],
+        "label": "how"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's always a help great players are always welcome",
+            "count": 2
+        },
+        {
+            "phrase": "how nice of you to say that",
+            "count": 1
+        },
+        {
+            "phrase": "i have lots to say sometimes nice sometimes not and frankly there's a lot of",
+            "count": 1
+        },
+        {
+            "phrase": "well no not really it's nice to feel wanted",
+            "count": 1
+        },
+        {
+            "phrase": "that must be nice",
+            "count": 1
+        },
+        {
+            "phrase": "now isn't this nice",
+            "count": 1
+        },
+        {
+            "phrase": "ya i just wanted to noe if u think that i am a nice person and if we are best friends",
+            "count": 1
+        },
+        {
+            "phrase": "the people here are nice",
+            "count": 1
+        },
+        {
+            "phrase": "it's good to be gold",
+            "count": 1
+        },
+        {
+            "phrase": "whew how nice to be home",
+            "count": 1
+        },
+        {
+            "phrase": "i can't complain everyone has been very nice to me",
+            "count": 1
+        },
+        {
+            "phrase": "its nice to be nice",
+            "count": 1
+        }
+    ]
+}

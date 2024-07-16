@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "02:33",
+            "04:04",
+            "04:06"
+        ],
+        "label": "off"
+    },
+    "clusterList": [
+        {
+            "phrase": "off in her own little world",
+            "count": 1
+        },
+        {
+            "phrase": "which anime world would you live in",
+            "count": 1
+        },
+        {
+            "phrase": "gwen if you could live anywhere else in the world where would it be",
+            "count": 1
+        },
+        {
+            "phrase": "well gwen i suppose i'd want to live in toronto",
+            "count": 1
+        }
+    ]
+}

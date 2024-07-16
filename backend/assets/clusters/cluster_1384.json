@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:00",
+            "03:01",
+            "03:10",
+            "03:27",
+            "03:29",
+            "04:04",
+            "04:07",
+            "04:14",
+            "04:17"
+        ],
+        "label": "old"
+    },
+    "clusterList": [
+        {
+            "phrase": "how old are you",
+            "count": 7
+        },
+        {
+            "phrase": "old enough to be my father",
+            "count": 1
+        },
+        {
+            "phrase": "i'm four and a half",
+            "count": 1
+        },
+        {
+            "phrase": "how old are you cleo",
+            "count": 1
+        },
+        {
+            "phrase": "i was the oldest",
+            "count": 1
+        },
+        {
+            "phrase": "four and older",
+            "count": 1
+        }
+    ]
+}

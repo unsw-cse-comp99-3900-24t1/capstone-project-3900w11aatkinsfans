@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "01:19",
+            "01:24",
+            "01:37"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the data shows that as more people ride the streets get safer",
+            "count": 2
+        },
+        {
+            "phrase": "twin cities driving behavior",
+            "count": 2
+        },
+        {
+            "phrase": "it's really about pedestrians and restricted traffic to slow it down in an area where pedestrians might not be paying attention",
+            "count": 1
+        }
+    ]
+}

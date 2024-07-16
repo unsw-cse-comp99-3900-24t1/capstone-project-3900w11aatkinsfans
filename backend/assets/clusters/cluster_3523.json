@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:09",
+            "00:28",
+            "01:18",
+            "02:38"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the design team was heading to minnesota for a glass manufacturing meeting",
+            "count": 5
+        }
+    ]
+}

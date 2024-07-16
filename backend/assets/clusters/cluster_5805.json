@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:24",
+            "00:38"
+        ],
+        "label": "who"
+    },
+    "clusterList": [
+        {
+            "phrase": "who procure their sustenance by useful or productive work",
+            "count": 1
+        },
+        {
+            "phrase": "turning useless into useful",
+            "count": 1
+        },
+        {
+            "phrase": "good work ethic",
+            "count": 1
+        }
+    ]
+}

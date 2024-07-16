@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "04:13",
+            "04:45"
+        ],
+        "label": "little"
+    },
+    "clusterList": [
+        {
+            "phrase": "little town flirt",
+            "count": 1
+        },
+        {
+            "phrase": "girl raised in the south",
+            "count": 1
+        },
+        {
+            "phrase": "third smallest town in texas",
+            "count": 1
+        }
+    ]
+}

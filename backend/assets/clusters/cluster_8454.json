@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "03:23"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good bang for the buck",
+            "count": 1
+        },
+        {
+            "phrase": "bang for the buck",
+            "count": 1
+        }
+    ]
+}

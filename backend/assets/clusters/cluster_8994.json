@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "02:33"
+        ],
+        "label": "political"
+    },
+    "clusterList": [
+        {
+            "phrase": "political campaigner and paid official",
+            "count": 1
+        },
+        {
+            "phrase": "i was going to be accompanied by one of my advisers a former military officer and we got notice that he would be treated as a campaign person and it would therefore be perceived as political because he had endorsed my candidacy but he wasn't on the senate staff",
+            "count": 1
+        }
+    ]
+}

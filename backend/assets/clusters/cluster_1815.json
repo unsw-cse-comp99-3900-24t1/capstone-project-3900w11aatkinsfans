@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "00:53",
+            "01:01",
+            "01:41",
+            "02:20",
+            "03:01",
+            "03:42",
+            "04:23",
+            "05:05"
+        ],
+        "label": "generally"
+    },
+    "clusterList": [
+        {
+            "phrase": "generally relates to receiving broadcasts and in particular to systems and methods for communicating and storing information associated with data within a broadcast",
+            "count": 9
+        }
+    ]
+}

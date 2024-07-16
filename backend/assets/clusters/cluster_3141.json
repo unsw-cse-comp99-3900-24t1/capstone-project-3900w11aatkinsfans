@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:19",
+            "01:23",
+            "02:00",
+            "04:05"
+        ],
+        "label": "somewhere"
+    },
+    "clusterList": [
+        {
+            "phrase": "there is no way the government can hope to achieve any of its emissions targets without cheating unless it changes its policies on encouraging flying and hoping to satisfy people's insatiable demands for buying more and more stuff",
+            "count": 2
+        },
+        {
+            "phrase": "it's at the very least misleading for the uk government to claim reductions while we export our emissions this is a problem no government wants to face",
+            "count": 2
+        },
+        {
+            "phrase": "somewhere in the ballpark of 10 percent of u s emissions",
+            "count": 1
+        },
+        {
+            "phrase": "we know that the administration's efforts have been about covering up the real dangers of global warming and hiding the facts from the public",
+            "count": 1
+        }
+    ]
+}

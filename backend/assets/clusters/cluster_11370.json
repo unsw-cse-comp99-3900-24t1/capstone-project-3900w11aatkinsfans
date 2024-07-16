@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:36",
+            "04:18"
+        ],
+        "label": "asthma"
+    },
+    "clusterList": [
+        {
+            "phrase": "asthma coming down like the 309",
+            "count": 1
+        },
+        {
+            "phrase": "weak tired or dizzy and have trouble breathing",
+            "count": 1
+        }
+    ]
+}

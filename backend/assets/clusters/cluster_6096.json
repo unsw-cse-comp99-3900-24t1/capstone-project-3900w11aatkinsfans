@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:46",
+            "02:48",
+            "05:01"
+        ],
+        "label": "young"
+    },
+    "clusterList": [
+        {
+            "phrase": "young bright articulate and committed",
+            "count": 1
+        },
+        {
+            "phrase": "youth is not wasted on the young it is perpetrated on the young",
+            "count": 1
+        },
+        {
+            "phrase": "oh the beauty of youth if they only knew how fleeting it was",
+            "count": 1
+        }
+    ]
+}

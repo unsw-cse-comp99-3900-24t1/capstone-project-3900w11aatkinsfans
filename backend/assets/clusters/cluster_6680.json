@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:37",
+            "02:24",
+            "02:28"
+        ],
+        "label": "do"
+    },
+    "clusterList": [
+        {
+            "phrase": "do you have a numerical number for that",
+            "count": 1
+        },
+        {
+            "phrase": "oh wrong number",
+            "count": 1
+        },
+        {
+            "phrase": "one sec it's 208 77 188 166",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:51",
+            "01:05",
+            "01:09",
+            "01:14",
+            "01:51",
+            "02:23",
+            "02:52",
+            "02:55",
+            "04:19",
+            "04:31",
+            "04:33",
+            "04:57"
+        ],
+        "label": "ebay"
+    },
+    "clusterList": [
+        {
+            "phrase": "ebay end of auction",
+            "count": 5
+        },
+        {
+            "phrase": "auction for a good cause",
+            "count": 1
+        },
+        {
+            "phrase": "the system is done time to sell",
+            "count": 1
+        },
+        {
+            "phrase": "not a good time to sell",
+            "count": 1
+        },
+        {
+            "phrase": "super auctions will be holding an auction on saturday at 10am with 150 arcade games thats right 150 arcade games at auction on saturday may 5th",
+            "count": 1
+        },
+        {
+            "phrase": "cryp has the 8x in ebay store as well so you dont have to wait for auction to end",
+            "count": 1
+        },
+        {
+            "phrase": "cryp has the 12x in ebay store as well so you dont have to wait for auction to end",
+            "count": 1
+        },
+        {
+            "phrase": "don't wait till end of auction use",
+            "count": 1
+        },
+        {
+            "phrase": "starting tomorrow friday aug 1 steam will be selling savage 2 at a 20 00 discount of 9 99 all weekend long take advantage of this awesome offer",
+            "count": 1
+        },
+        {
+            "phrase": "promo for upcoming buy-one-get-one sale",
+            "count": 1
+        }
+    ]
+}

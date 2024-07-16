@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:52",
+            "02:14"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "and what was the deal with the guy wearing a shirt from the firestorm line at k-mart",
+            "count": 2
+        },
+        {
+            "phrase": "he was a promotion-minded guy he was the one who put lights on the roof who introduced the top hat logo",
+            "count": 1
+        }
+    ]
+}

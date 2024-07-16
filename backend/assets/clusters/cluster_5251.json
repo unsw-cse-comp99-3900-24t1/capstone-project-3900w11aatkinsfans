@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:33",
+            "04:43"
+        ],
+        "label": "and"
+    },
+    "clusterList": [
+        {
+            "phrase": "sit with miss s",
+            "count": 2
+        },
+        {
+            "phrase": "and you know miss croc",
+            "count": 1
+        },
+        {
+            "phrase": "are you alright miss croc",
+            "count": 1
+        }
+    ]
+}

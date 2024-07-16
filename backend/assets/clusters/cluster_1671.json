@@ -1,0 +1,21 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            5,
+            3
+        ],
+        "xLabels": [
+            "01:18",
+            "03:19",
+            "03:59"
+        ],
+        "label": "john"
+    },
+    "clusterList": [
+        {
+            "phrase": "john edwards love child post",
+            "count": 10
+        }
+    ]
+}

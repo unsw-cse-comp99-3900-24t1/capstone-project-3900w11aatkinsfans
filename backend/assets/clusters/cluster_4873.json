@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:30",
+            "03:28",
+            "04:09",
+            "04:43"
+        ],
+        "label": "r2"
+    },
+    "clusterList": [
+        {
+            "phrase": "but now we are in danger of a flame-out",
+            "count": 2
+        },
+        {
+            "phrase": "r2 take care of that fire will you",
+            "count": 1
+        },
+        {
+            "phrase": "shall go up in flames",
+            "count": 1
+        }
+    ]
+}

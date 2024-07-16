@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:19",
+            "01:07",
+            "01:47",
+            "02:28",
+            "03:10",
+            "03:46",
+            "03:51",
+            "04:32"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "challenging your 2-year-old to finish college by the time she is 12",
+            "count": 5
+        },
+        {
+            "phrase": "a primary school child",
+            "count": 2
+        },
+        {
+            "phrase": "the kid can play ball",
+            "count": 1
+        },
+        {
+            "phrase": "the fat kid at school",
+            "count": 1
+        }
+    ]
+}

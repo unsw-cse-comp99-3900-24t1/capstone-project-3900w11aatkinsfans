@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "03:28"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "just how much have you saved on your investment in this technology",
+            "count": 1
+        },
+        {
+            "phrase": "i am proud of what the semiconductor industry does-relentlessly cutting the cost of a transistor from 3 in 1960 to three-millionths of a dollar today",
+            "count": 1
+        }
+    ]
+}

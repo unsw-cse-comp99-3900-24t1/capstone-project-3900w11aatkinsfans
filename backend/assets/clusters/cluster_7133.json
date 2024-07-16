@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "02:38",
+            "04:29"
+        ],
+        "label": "dignity"
+    },
+    "clusterList": [
+        {
+            "phrase": "dignity and credibility",
+            "count": 1
+        },
+        {
+            "phrase": "as you know i'm a believer in human dignity and human rights",
+            "count": 1
+        },
+        {
+            "phrase": "dignity passes by",
+            "count": 1
+        }
+    ]
+}

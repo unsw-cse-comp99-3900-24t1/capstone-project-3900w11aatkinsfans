@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:48",
+            "02:11",
+            "03:34",
+            "04:13",
+            "04:18"
+        ],
+        "label": "come"
+    },
+    "clusterList": [
+        {
+            "phrase": "dude are you hiding in a closet",
+            "count": 4
+        },
+        {
+            "phrase": "come out of the closet",
+            "count": 1
+        },
+        {
+            "phrase": "stay in the closet",
+            "count": 1
+        },
+        {
+            "phrase": "you get rid of that specter in the closet",
+            "count": 1
+        }
+    ]
+}

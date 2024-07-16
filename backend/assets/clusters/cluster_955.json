@@ -1,0 +1,61 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "01:40",
+            "02:19",
+            "02:26",
+            "02:47",
+            "02:59",
+            "03:28",
+            "03:55",
+            "04:06",
+            "04:13",
+            "04:38",
+            "04:45",
+            "04:56"
+        ],
+        "label": "good"
+    },
+    "clusterList": [
+        {
+            "phrase": "good morning america",
+            "count": 8
+        },
+        {
+            "phrase": "god bless america",
+            "count": 2
+        },
+        {
+            "phrase": "morning in america",
+            "count": 2
+        },
+        {
+            "phrase": "so how's your breakfast this morning",
+            "count": 1
+        },
+        {
+            "phrase": "good morning breakfast",
+            "count": 1
+        },
+        {
+            "phrase": "first phrase good morning",
+            "count": 1
+        }
+    ]
+}

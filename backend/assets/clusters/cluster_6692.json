@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "01:37",
+            "04:19"
+        ],
+        "label": "ordinarily"
+    },
+    "clusterList": [
+        {
+            "phrase": "ordinarily in life most people are affected by radio signals of the type in question every day yet there has not to my knowledge been any question that radio waves cause cancer",
+            "count": 1
+        },
+        {
+            "phrase": "cell phones give off radiation any time they're turned on so that they can communicate with base stations",
+            "count": 1
+        },
+        {
+            "phrase": "the radiation emitted however is stronger and more frequent when you're talking or messaging",
+            "count": 1
+        }
+    ]
+}

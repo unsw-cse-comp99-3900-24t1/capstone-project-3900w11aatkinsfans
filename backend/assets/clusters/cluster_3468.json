@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:34",
+            "02:57",
+            "04:03",
+            "04:08",
+            "04:27"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "they need to keep some surprises left in case of another war",
+            "count": 3
+        },
+        {
+            "phrase": "targeted by the invasion",
+            "count": 2
+        },
+        {
+            "phrase": "it could have been more concentrated on just getting us out of the war",
+            "count": 1
+        }
+    ]
+}

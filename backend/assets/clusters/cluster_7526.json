@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:37",
+            "04:06",
+            "04:46"
+        ],
+        "label": "angel"
+    },
+    "clusterList": [
+        {
+            "phrase": "angel of harlem",
+            "count": 1
+        },
+        {
+            "phrase": "howard hughes hell's angel",
+            "count": 1
+        },
+        {
+            "phrase": "of angels and angles",
+            "count": 1
+        }
+    ]
+}

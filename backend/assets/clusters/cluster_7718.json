@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2
+        ],
+        "xLabels": [
+            "03:23",
+            "04:46"
+        ],
+        "label": "people"
+    },
+    "clusterList": [
+        {
+            "phrase": "people in the early stages of alzheimer's disease who are more physically fit had less shrinkage in areas of the brain that are important for memory researchers said on sunday",
+            "count": 1
+        },
+        {
+            "phrase": "many previous investigations into the association between lipids and memory in the elderly have focused on total or ldl cholesterol because of their status as proven risk factors for cardiovascular disease our findings emphasize the need to expand the focus to hdl cholesterol thus physicians and patients should be encouraged to monitor levels of hdl cholesterol",
+            "count": 1
+        },
+        {
+            "phrase": "thus hdl-c remains a potentially promising but still remote target in the prevention of dementia and memory loss nonetheless these studies demand that we focus more effort on research at the interface between hdl-c and brain function",
+            "count": 1
+        }
+    ]
+}

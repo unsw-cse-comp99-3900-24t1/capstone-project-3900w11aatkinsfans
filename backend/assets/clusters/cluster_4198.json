@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "01:36",
+            "02:00"
+        ],
+        "label": "will"
+    },
+    "clusterList": [
+        {
+            "phrase": "we hope to attract a lot of people",
+            "count": 4
+        },
+        {
+            "phrase": "will have a lot of user participation",
+            "count": 1
+        }
+    ]
+}

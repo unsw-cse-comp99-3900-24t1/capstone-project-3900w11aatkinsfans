@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:18"
+        ],
+        "label": "attack"
+    },
+    "clusterList": [
+        {
+            "phrase": "attack your opponent every day",
+            "count": 1
+        },
+        {
+            "phrase": "he fought every day in practice every day in individual drills every day in the summer",
+            "count": 1
+        }
+    ]
+}

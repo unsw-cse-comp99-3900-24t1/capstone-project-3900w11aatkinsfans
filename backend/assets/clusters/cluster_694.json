@@ -1,0 +1,101 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:11",
+            "00:23",
+            "00:29",
+            "00:48",
+            "01:00",
+            "02:01",
+            "02:24",
+            "03:00",
+            "03:08",
+            "03:12",
+            "03:46",
+            "03:51",
+            "04:23",
+            "04:46",
+            "04:51"
+        ],
+        "label": "falling"
+    },
+    "clusterList": [
+        {
+            "phrase": "falling in love",
+            "count": 2
+        },
+        {
+            "phrase": "summer of screams",
+            "count": 2
+        },
+        {
+            "phrase": "the endless summer",
+            "count": 2
+        },
+        {
+            "phrase": "the endless summer ii",
+            "count": 2
+        },
+        {
+            "phrase": "falling in love again",
+            "count": 1
+        },
+        {
+            "phrase": "teenage love affair",
+            "count": 1
+        },
+        {
+            "phrase": "from paris with love",
+            "count": 1
+        },
+        {
+            "phrase": "summer of christel house",
+            "count": 1
+        },
+        {
+            "phrase": "summer of love",
+            "count": 1
+        },
+        {
+            "phrase": "the summer of love",
+            "count": 1
+        },
+        {
+            "phrase": "romance by location",
+            "count": 1
+        },
+        {
+            "phrase": "the end of the summer",
+            "count": 1
+        },
+        {
+            "phrase": "unwritten pocketful of sunshine",
+            "count": 1
+        },
+        {
+            "phrase": "pocketful of sunshine",
+            "count": 1
+        },
+        {
+            "phrase": "for love or country",
+            "count": 1
+        }
+    ]
+}

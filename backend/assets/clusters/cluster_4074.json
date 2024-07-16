@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:28",
+            "02:34",
+            "02:57",
+            "04:13"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a shocking on-the-ground view of one military woman's experience in iraq",
+            "count": 2
+        },
+        {
+            "phrase": "the arab soldiers they dug a grave in the moslem cemetery by the dome of the rock and the",
+            "count": 1
+        },
+        {
+            "phrase": "the first of which was the heroic operation carried out by two women in baghdad on the third day of the occupation another operation was carried out by a glorious iraqi woman in al-nassiriyah south of iraq",
+            "count": 1
+        },
+        {
+            "phrase": "women slain in moro slaughter",
+            "count": 1
+        }
+    ]
+}

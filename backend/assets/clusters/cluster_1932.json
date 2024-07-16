@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "00:51",
+            "02:55",
+            "03:41",
+            "03:47",
+            "03:48",
+            "04:51",
+            "05:01"
+        ],
+        "label": "usr"
+    },
+    "clusterList": [
+        {
+            "phrase": "psst aoc players",
+            "count": 2
+        },
+        {
+            "phrase": "it's good to be able to know the players you're going to be playing against playing the video game was part of my preparation",
+            "count": 2
+        },
+        {
+            "phrase": "usr local sbin usr local bin usr sbin usr bin sbin bin usr games",
+            "count": 1
+        },
+        {
+            "phrase": "good hockey players can play in any system",
+            "count": 1
+        },
+        {
+            "phrase": "we are looking for players who play the games hard and play the games right",
+            "count": 1
+        },
+        {
+            "phrase": "can i play with them",
+            "count": 1
+        },
+        {
+            "phrase": "i'm interested in anybody that's a good player that's my job",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "04:36"
+        ],
+        "label": "is"
+    },
+    "clusterList": [
+        {
+            "phrase": "is that necessary er what's she done",
+            "count": 1
+        },
+        {
+            "phrase": "i'm glad she could admit that what she did is wrong",
+            "count": 1
+        }
+    ]
+}

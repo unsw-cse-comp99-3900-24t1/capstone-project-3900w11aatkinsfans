@@ -1,0 +1,33 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:20",
+            "02:02",
+            "02:09",
+            "03:09",
+            "04:21"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you were right mom destiny i'm so happy i can't even feel my arms",
+            "count": 3
+        },
+        {
+            "phrase": "isn't it weird that i'm getting all emotionable",
+            "count": 1
+        },
+        {
+            "phrase": "you know what the way my body feels today i can't say i'm surprised",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:00",
+            "01:09",
+            "01:40",
+            "02:26",
+            "02:56",
+            "04:14",
+            "04:56"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "did you use-did people say call sean call bill call whoever did you do that as a regular thing",
+            "count": 3
+        },
+        {
+            "phrase": "i called him right away and said look jay i appreciate everything you've done you're a class act but let's talk in a few weeks",
+            "count": 2
+        },
+        {
+            "phrase": "i called him at the hotel when dylan answered the phone i was tongue-tied i eventually composed myself and told him of my intention",
+            "count": 1
+        },
+        {
+            "phrase": "i told him i had gone to this todd p show at death by audio and he asked me who todd p was and then-oh my god this is so bananas-he told me he had gone to some murray hill bar with his old teammates from the middlebury lacrosse team that's when i knew this was never going to work",
+            "count": 1
+        },
+        {
+            "phrase": "i spoke to him yesterday in the hospital",
+            "count": 1
+        }
+    ]
+}

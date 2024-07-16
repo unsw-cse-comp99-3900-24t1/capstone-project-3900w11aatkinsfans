@@ -1,0 +1,87 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            4,
+            1,
+            4,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:02",
+            "00:18",
+            "00:23",
+            "00:29",
+            "00:50",
+            "01:10",
+            "02:33",
+            "03:15",
+            "03:55",
+            "04:05",
+            "04:16",
+            "04:18",
+            "04:50",
+            "05:04"
+        ],
+        "label": "just"
+    },
+    "clusterList": [
+        {
+            "phrase": "they're all asking for things they deserve",
+            "count": 5
+        },
+        {
+            "phrase": "but the problem is we can't give them exactly what they want",
+            "count": 5
+        },
+        {
+            "phrase": "give them what they want",
+            "count": 2
+        },
+        {
+            "phrase": "just give them what they want",
+            "count": 1
+        },
+        {
+            "phrase": "you give them love they'll give their heart back to you",
+            "count": 1
+        },
+        {
+            "phrase": "you want to motivate them",
+            "count": 1
+        },
+        {
+            "phrase": "give them something to do",
+            "count": 1
+        },
+        {
+            "phrase": "will give them",
+            "count": 1
+        },
+        {
+            "phrase": "give them somebody",
+            "count": 1
+        },
+        {
+            "phrase": "anything they wanted",
+            "count": 1
+        },
+        {
+            "phrase": "they want answers and that's what we're going to give them",
+            "count": 1
+        },
+        {
+            "phrase": "change their mind",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:28",
+            "00:52",
+            "00:57",
+            "01:20",
+            "01:50",
+            "02:24",
+            "04:21",
+            "04:46",
+            "04:55",
+            "05:04"
+        ],
+        "label": "continue"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is just terrible the violence is getting out of hand",
+            "count": 3
+        },
+        {
+            "phrase": "continue fighting for justice",
+            "count": 2
+        },
+        {
+            "phrase": "stop the killing",
+            "count": 2
+        },
+        {
+            "phrase": "this is how violence starts",
+            "count": 1
+        },
+        {
+            "phrase": "round table discussion violence in the media",
+            "count": 1
+        },
+        {
+            "phrase": "we're from the hill stop the violence cause it will kill",
+            "count": 1
+        },
+        {
+            "phrase": "stopping the peace process could lead to a violent outburst",
+            "count": 1
+        },
+        {
+            "phrase": "stop the slaughter",
+            "count": 1
+        },
+        {
+            "phrase": "once and for all end gang violence",
+            "count": 1
+        }
+    ]
+}

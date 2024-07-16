@@ -1,0 +1,83 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:05",
+            "00:14",
+            "01:37",
+            "02:06",
+            "02:10",
+            "02:19",
+            "02:29",
+            "03:06",
+            "03:18",
+            "03:27",
+            "03:50",
+            "04:06",
+            "04:19"
+        ],
+        "label": "3"
+    },
+    "clusterList": [
+        {
+            "phrase": "i think it's huge",
+            "count": 2
+        },
+        {
+            "phrase": "how huge is that",
+            "count": 2
+        },
+        {
+            "phrase": "to me that's huge",
+            "count": 2
+        },
+        {
+            "phrase": "3 by 4",
+            "count": 1
+        },
+        {
+            "phrase": "how do you think that small",
+            "count": 1
+        },
+        {
+            "phrase": "2 by 2",
+            "count": 1
+        },
+        {
+            "phrase": "1 by 8's",
+            "count": 1
+        },
+        {
+            "phrase": "4 000 foot",
+            "count": 1
+        },
+        {
+            "phrase": "well not huge but bigger than nothing eh",
+            "count": 1
+        },
+        {
+            "phrase": "where is it big",
+            "count": 1
+        },
+        {
+            "phrase": "oh it's huge",
+            "count": 1
+        }
+    ]
+}

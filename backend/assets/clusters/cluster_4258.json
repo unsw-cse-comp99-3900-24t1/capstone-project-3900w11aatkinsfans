@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "01:05",
+            "02:56",
+            "03:23",
+            "04:23"
+        ],
+        "label": "catch"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is specific to making sure all the catch is accounted for",
+            "count": 2
+        },
+        {
+            "phrase": "catch and release",
+            "count": 1
+        },
+        {
+            "phrase": "significant and important catch",
+            "count": 1
+        },
+        {
+            "phrase": "what's the catch",
+            "count": 1
+        }
+    ]
+}

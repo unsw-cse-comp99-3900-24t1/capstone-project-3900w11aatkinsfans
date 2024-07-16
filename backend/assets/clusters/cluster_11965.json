@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:00",
+            "04:05"
+        ],
+        "label": "if"
+    },
+    "clusterList": [
+        {
+            "phrase": "if payrolls data beats expectations i would expect a very strong day in the market",
+            "count": 1
+        },
+        {
+            "phrase": "i disagree with the nervousness about the buffalo job market",
+            "count": 1
+        }
+    ]
+}

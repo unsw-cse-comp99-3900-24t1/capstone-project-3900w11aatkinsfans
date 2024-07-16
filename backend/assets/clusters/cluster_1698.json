@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "01:10",
+            "01:51",
+            "01:56",
+            "02:22",
+            "04:08",
+            "04:13",
+            "04:44"
+        ],
+        "label": "part"
+    },
+    "clusterList": [
+        {
+            "phrase": "part of the mystery here is that apparently none of these children were in school",
+            "count": 6
+        },
+        {
+            "phrase": "these students have long been ignored and it all starts with the state",
+            "count": 1
+        },
+        {
+            "phrase": "they just put their child on that yellow bus and bus them to another failing school",
+            "count": 1
+        },
+        {
+            "phrase": "these kids are trapped in those schools and the parents don't have a clue",
+            "count": 1
+        },
+        {
+            "phrase": "i'm a summer camp counselor with the university ymca and every time that we're riding a bus together with the kids these kids are going into fifth through seventh grade they get scared when we go across bridges some of them close their eyes or they tell me that they don't like bridges or they don't like to look out the window and a lot of that has to stem from the bridge collapse",
+            "count": 1
+        }
+    ]
+}

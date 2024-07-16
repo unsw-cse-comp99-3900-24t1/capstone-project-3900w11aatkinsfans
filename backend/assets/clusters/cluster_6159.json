@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:36",
+            "00:46",
+            "02:46"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a rollercoaster ride with apple as always",
+            "count": 2
+        },
+        {
+            "phrase": "it's a rollercoaster",
+            "count": 1
+        }
+    ]
+}

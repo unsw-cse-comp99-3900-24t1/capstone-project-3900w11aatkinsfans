@@ -1,0 +1,55 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "02:19",
+            "03:39",
+            "04:05",
+            "04:13",
+            "04:28",
+            "04:41",
+            "05:01"
+        ],
+        "label": "order"
+    },
+    "clusterList": [
+        {
+            "phrase": "order by month desc",
+            "count": 2
+        },
+        {
+            "phrase": "item will ship out from the manufactory located in hongkong directly if this type out of store in the location please accept my sincere apologize of this inconvenience to you item will be shipped by registered air mail it takes 7-15 working days for delivery",
+            "count": 2
+        },
+        {
+            "phrase": "hello customer we all know you're going to wait a long time so let's cut the bullshit and get you straight into line so you can get off the phone as soon as possible you're welcome",
+            "count": 1
+        },
+        {
+            "phrase": "when does day one arrive",
+            "count": 1
+        },
+        {
+            "phrase": "your order has been shipped when i know it had not you will receive in just a few days",
+            "count": 1
+        },
+        {
+            "phrase": "when will my customers be able to order from me online",
+            "count": 1
+        },
+        {
+            "phrase": "waiting in line to buy a mass-produced product",
+            "count": 1
+        }
+    ]
+}

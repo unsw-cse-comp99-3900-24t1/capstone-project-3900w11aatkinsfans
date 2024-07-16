@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "04:29",
+            "04:32"
+        ],
+        "label": "that"
+    },
+    "clusterList": [
+        {
+            "phrase": "that is a not a proper question",
+            "count": 1
+        },
+        {
+            "phrase": "that's not the question",
+            "count": 1
+        }
+    ]
+}

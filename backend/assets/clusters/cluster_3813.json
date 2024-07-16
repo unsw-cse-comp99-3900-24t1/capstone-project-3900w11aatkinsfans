@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:02",
+            "01:03",
+            "01:51",
+            "03:46",
+            "04:35"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what happened was just very bad luck",
+            "count": 4
+        },
+        {
+            "phrase": "an extremely long streak of bad luck",
+            "count": 1
+        }
+    ]
+}

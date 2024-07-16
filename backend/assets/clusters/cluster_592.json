@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:06",
+            "00:11",
+            "00:25",
+            "00:31",
+            "00:34",
+            "00:41",
+            "00:46",
+            "01:20",
+            "01:32",
+            "01:38",
+            "01:39",
+            "02:26",
+            "03:06",
+            "03:14",
+            "03:34",
+            "03:46",
+            "03:48"
+        ],
+        "label": "never"
+    },
+    "clusterList": [
+        {
+            "phrase": "never before in an election cycle has so much attention turned to the youth vote and luke will bring a unique perspective to covering it",
+            "count": 19
+        },
+        {
+            "phrase": "so much attention has turned to the youth vote",
+            "count": 1
+        },
+        {
+            "phrase": "it's not the next election but the next generation that will determine our nation's future gear up prepares our young people for this responsibility",
+            "count": 1
+        }
+    ]
+}

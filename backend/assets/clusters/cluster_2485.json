@@ -1,0 +1,37 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1,
+            1,
+            2,
+            1
+        ],
+        "xLabels": [
+            "01:22",
+            "02:26",
+            "02:27",
+            "03:53",
+            "05:04"
+        ],
+        "label": "previously"
+    },
+    "clusterList": [
+        {
+            "phrase": "previously secure areas including those close to kabul",
+            "count": 4
+        },
+        {
+            "phrase": "why have we come to rely on private contractors to provide combat or combat-related security training for our forces",
+            "count": 1
+        },
+        {
+            "phrase": "to finish the job in afghanistan",
+            "count": 1
+        },
+        {
+            "phrase": "if he doesn't have to fight the pakistan army he's free to focus on afghanistan",
+            "count": 1
+        }
+    ]
+}

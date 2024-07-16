@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "04:36",
+            "04:55"
+        ],
+        "label": "nuclear"
+    },
+    "clusterList": [
+        {
+            "phrase": "nuclear fuel recycling more trouble than it's worth",
+            "count": 1
+        },
+        {
+            "phrase": "cogeneration nuclear power plant",
+            "count": 1
+        },
+        {
+            "phrase": "this industrial rail spur is to be used during construction of the new power plant the new nuclear plants",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            2
+        ],
+        "xLabels": [
+            "00:43",
+            "00:46"
+        ],
+        "label": "in"
+    },
+    "clusterList": [
+        {
+            "phrase": "we have recognized that the mexican population is 100 million in mexico and 23 million who live in the united states we are a united nation",
+            "count": 2
+        },
+        {
+            "phrase": "in mexico's southern border there are 1 8 million border crossings annually of which 85 relate to persons with papers because they work or study in mexico and another 15 without papers",
+            "count": 1
+        },
+        {
+            "phrase": "more than 300 thousand central americans and some 10 thousand cubans who seek to reach the united states go across mexican territory annually some 200 thousand of the the first mentioned are intercepted and some two thousand of the second group",
+            "count": 1
+        }
+    ]
+}

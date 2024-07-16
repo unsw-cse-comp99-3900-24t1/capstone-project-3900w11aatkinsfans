@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:32",
+            "00:53",
+            "02:46",
+            "04:10",
+            "05:00"
+        ],
+        "label": "described"
+    },
+    "clusterList": [
+        {
+            "phrase": "described as a man in his late teens or early 20s",
+            "count": 1
+        },
+        {
+            "phrase": "stereotypical gay man",
+            "count": 1
+        },
+        {
+            "phrase": "one who thinks gay people are an abomination",
+            "count": 1
+        },
+        {
+            "phrase": "one who hates gay people",
+            "count": 1
+        },
+        {
+            "phrase": "one who disapproves of gay people",
+            "count": 1
+        },
+        {
+            "phrase": "a very very gay italian person",
+            "count": 1
+        },
+        {
+            "phrase": "what's a dude day",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:18",
+            "03:28"
+        ],
+        "label": "attempting"
+    },
+    "clusterList": [
+        {
+            "phrase": "attempting or conspiring to commit counseling any person to commit aiding or abetting any person in the commission of or being an accessory after the fact in relation to the act",
+            "count": 1
+        },
+        {
+            "phrase": "infirmities or unpleasant traits are mistaken for guilt",
+            "count": 1
+        },
+        {
+            "phrase": "guilt by association",
+            "count": 1
+        }
+    ]
+}

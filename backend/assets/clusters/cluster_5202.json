@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:03",
+            "03:05",
+            "03:43",
+            "04:24"
+        ],
+        "label": "repositoryplugin"
+    },
+    "clusterList": [
+        {
+            "phrase": "required artifact missing",
+            "count": 2
+        },
+        {
+            "phrase": "repositoryplugin unable to find a pl",
+            "count": 1
+        },
+        {
+            "phrase": "unable to download the artifact from any repository",
+            "count": 1
+        }
+    ]
+}

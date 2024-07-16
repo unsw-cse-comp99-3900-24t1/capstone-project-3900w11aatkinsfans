@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:42",
+            "02:48",
+            "04:05"
+        ],
+        "label": "which"
+    },
+    "clusterList": [
+        {
+            "phrase": "which can either be indicated with a bold on",
+            "count": 1
+        },
+        {
+            "phrase": "bold and the beautiful",
+            "count": 1
+        },
+        {
+            "phrase": "the bold and the beautiful",
+            "count": 1
+        }
+    ]
+}

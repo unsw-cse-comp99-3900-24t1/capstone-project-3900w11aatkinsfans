@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "01:00",
+            "03:43"
+        ],
+        "label": "what"
+    },
+    "clusterList": [
+        {
+            "phrase": "what amazes me is that you cannot prove me wrong",
+            "count": 1
+        },
+        {
+            "phrase": "i know that may sound crazy but i thrive on proving people wrong",
+            "count": 1
+        },
+        {
+            "phrase": "i dont need to prove to people that my argument was right i just had to prove that you were wrong",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "01:19",
+            "03:22",
+            "03:50"
+        ],
+        "label": "he"
+    },
+    "clusterList": [
+        {
+            "phrase": "he has yet to show any remorse for what he has done he has not cried or expressed regret of any kind",
+            "count": 2
+        },
+        {
+            "phrase": "he certainly did not convey to me that he was feeling depressed and absolutely nothing that would have alerted me to the fact that he may have been considering suicide",
+            "count": 1
+        },
+        {
+            "phrase": "he is really troubled he just doesn't have a record of accomplishment",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            3,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:24",
+            "00:56",
+            "03:09",
+            "03:18",
+            "04:11",
+            "04:21",
+            "04:32",
+            "04:36",
+            "04:41"
+        ],
+        "label": "dad"
+    },
+    "clusterList": [
+        {
+            "phrase": "please dont do this",
+            "count": 2
+        },
+        {
+            "phrase": "don't do that",
+            "count": 2
+        },
+        {
+            "phrase": "i don't want to lose",
+            "count": 2
+        },
+        {
+            "phrase": "dad i want to do that",
+            "count": 1
+        },
+        {
+            "phrase": "i do need you please dont do this",
+            "count": 1
+        },
+        {
+            "phrase": "i'm too tired to do this",
+            "count": 1
+        },
+        {
+            "phrase": "do not do that to me",
+            "count": 1
+        },
+        {
+            "phrase": "no don't do this please caroline",
+            "count": 1
+        },
+        {
+            "phrase": "i really don't want to give it away",
+            "count": 1
+        }
+    ]
+}

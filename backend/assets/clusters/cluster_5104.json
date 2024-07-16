@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:12",
+            "02:24",
+            "03:48",
+            "04:55"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you are either with us or against us",
+            "count": 1
+        },
+        {
+            "phrase": "well i thought we were but have it your way",
+            "count": 1
+        },
+        {
+            "phrase": "pretty much confirm that we are",
+            "count": 1
+        },
+        {
+            "phrase": "its good to be us",
+            "count": 1
+        }
+    ]
+}

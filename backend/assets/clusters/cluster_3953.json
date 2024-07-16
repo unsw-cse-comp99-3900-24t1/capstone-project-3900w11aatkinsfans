@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:47",
+            "03:10",
+            "03:18",
+            "03:51",
+            "04:32"
+        ],
+        "label": "making"
+    },
+    "clusterList": [
+        {
+            "phrase": "making this all up",
+            "count": 4
+        },
+        {
+            "phrase": "are you making this up",
+            "count": 1
+        }
+    ]
+}

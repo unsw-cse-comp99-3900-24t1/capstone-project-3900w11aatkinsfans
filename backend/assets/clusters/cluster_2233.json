@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            3,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:08",
+            "00:27",
+            "01:43",
+            "02:24",
+            "02:55",
+            "04:28"
+        ],
+        "label": "everybody"
+    },
+    "clusterList": [
+        {
+            "phrase": "everybody has a camera in their telephones when people can record an event taking place that helps us during an investigation it's helpful",
+            "count": 4
+        },
+        {
+            "phrase": "completed an assessment and review of the crime cameras installed by the city's information technology department",
+            "count": 1
+        },
+        {
+            "phrase": "i made it clear in my state of the city address that 200 crime cameras would be operational by the end of july no excuses",
+            "count": 1
+        },
+        {
+            "phrase": "due to weather and environmental issues that can negatively impact the technology of the crime cameras the devices are monitored to ensure recording mechanisms are working",
+            "count": 1
+        },
+        {
+            "phrase": "do red-light traffic cameras help",
+            "count": 1
+        }
+    ]
+}

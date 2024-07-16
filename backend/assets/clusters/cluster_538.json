@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            9,
+            3,
+            3,
+            3,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:21",
+            "02:05",
+            "02:41",
+            "02:46",
+            "02:49",
+            "03:05",
+            "03:19",
+            "03:24",
+            "04:23"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "a beating heart is the core of what we are going to be doing in the next several years with open source and linux",
+            "count": 6
+        },
+        {
+            "phrase": "we do provide our source code in special situations but open source also implies free free is inconsistent with paying for lunches at the partner conference applause with that said there are a number of different things will we interoperate with products that come from like linux from the open source world yes we will",
+            "count": 6
+        },
+        {
+            "phrase": "microsoft wants people to build code to the windows platform rather than gnu linux but the fsf's view is to build an ecosystem with free software",
+            "count": 6
+        },
+        {
+            "phrase": "microsoft is working on a project to develop a new operating system code-named",
+            "count": 3
+        },
+        {
+            "phrase": "it is open source whereas ot has no source available",
+            "count": 1
+        },
+        {
+            "phrase": "linux users use linux because they hate windows bsd users use bsd because they love unix",
+            "count": 1
+        }
+    ]
+}

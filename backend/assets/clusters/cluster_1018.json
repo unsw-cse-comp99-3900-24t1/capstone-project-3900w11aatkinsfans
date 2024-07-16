@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:01",
+            "00:25",
+            "00:28",
+            "00:41",
+            "00:44",
+            "00:48",
+            "00:50",
+            "01:23",
+            "01:47",
+            "02:55",
+            "03:08",
+            "03:38",
+            "03:42",
+            "03:57"
+        ],
+        "label": "but"
+    },
+    "clusterList": [
+        {
+            "phrase": "he has a passion for acting to survive a war that gives you enough determination that anything is possible he believes life will go on forever",
+            "count": 8
+        },
+        {
+            "phrase": "but he knows something is up",
+            "count": 1
+        },
+        {
+            "phrase": "he knows what i'm trying to do and when i don't do it he knows",
+            "count": 1
+        },
+        {
+            "phrase": "i'm sure he has goals that he's not sharing with anybody that will make him special but a step at a time he doesn't want to put any extra pressure on himself the last thing john wants is to come out and say i'm going to do this and that",
+            "count": 1
+        },
+        {
+            "phrase": "his logic isn't misplaced but the practicality of it is it's the choice he's making we want to respect that but the door is open please come he can make himself a nice career and do it sooner rather than later but he has to feel that way",
+            "count": 1
+        },
+        {
+            "phrase": "if he does everything he's supposed to do",
+            "count": 1
+        },
+        {
+            "phrase": "there's no doubt in his mind that this is what he wants to do",
+            "count": 1
+        },
+        {
+            "phrase": "he doesn't know for sure but he can't imagine who else would do that to him",
+            "count": 1
+        }
+    ]
+}

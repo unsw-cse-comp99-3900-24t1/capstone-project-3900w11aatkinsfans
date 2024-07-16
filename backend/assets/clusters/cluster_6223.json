@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:46",
+            "00:50",
+            "02:55"
+        ],
+        "label": "tough"
+    },
+    "clusterList": [
+        {
+            "phrase": "tough on crime",
+            "count": 1
+        },
+        {
+            "phrase": "i'm going to fight crime",
+            "count": 1
+        },
+        {
+            "phrase": "with the serious criminal problems we have in topeka today the top priority of the da must be fighting crime",
+            "count": 1
+        }
+    ]
+}

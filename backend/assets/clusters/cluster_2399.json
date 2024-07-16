@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:11",
+            "00:19",
+            "01:13",
+            "03:14",
+            "03:48",
+            "04:47"
+        ],
+        "label": "are"
+    },
+    "clusterList": [
+        {
+            "phrase": "are convinced that the role of the riddler is perfect for depp johnny's a pro he'll be able to take direction from director chris nolan and still make the character his own",
+            "count": 2
+        },
+        {
+            "phrase": "producers are convinced that the role of the riddler is perfect for depp johnny's a pro he'll be able to take direction from director chris nolan and still make the character his own",
+            "count": 2
+        },
+        {
+            "phrase": "johnny would be amazing as the riddler the studio knew they needed someone who could match or even top the late actor heath ledger's performance as the joker in the most recent film the dark knight and think johnny has the potential to do so",
+            "count": 1
+        },
+        {
+            "phrase": "producers are convinced that the role of the riddler is perfect for depp johnny's a pro",
+            "count": 1
+        },
+        {
+            "phrase": "he'll be able to take direction from director chris nolan and still make the character his own and what better penguin is there than philip seymour hoffman",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "02:22",
+            "04:33"
+        ],
+        "label": "cowboy"
+    },
+    "clusterList": [
+        {
+            "phrase": "cowboy starter kits",
+            "count": 1
+        },
+        {
+            "phrase": "could be a starter",
+            "count": 1
+        },
+        {
+            "phrase": "a mid to upper-rotation starter",
+            "count": 1
+        }
+    ]
+}

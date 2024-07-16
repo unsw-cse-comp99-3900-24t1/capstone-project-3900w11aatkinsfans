@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:07",
+            "02:56",
+            "04:17"
+        ],
+        "label": "it"
+    },
+    "clusterList": [
+        {
+            "phrase": "it looks a bit obvious",
+            "count": 1
+        },
+        {
+            "phrase": "it looks a bit cheep you know",
+            "count": 1
+        },
+        {
+            "phrase": "isn't it obvious",
+            "count": 1
+        },
+        {
+            "phrase": "that seems so obvious",
+            "count": 1
+        }
+    ]
+}

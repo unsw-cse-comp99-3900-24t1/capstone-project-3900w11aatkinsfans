@@ -1,0 +1,17 @@
+{
+    "popularityCurve": {
+        "data": [
+            1
+        ],
+        "xLabels": [
+            "00:05"
+        ],
+        "label": "iis"
+    },
+    "clusterList": [
+        {
+            "phrase": "iis localhost w3svc 1 root",
+            "count": 1
+        }
+    ]
+}

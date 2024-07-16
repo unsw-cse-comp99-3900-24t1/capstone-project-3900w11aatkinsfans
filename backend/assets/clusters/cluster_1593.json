@@ -1,0 +1,63 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:09",
+            "00:20",
+            "00:29",
+            "00:36",
+            "01:58",
+            "02:05",
+            "02:12",
+            "02:32",
+            "02:42",
+            "03:05"
+        ],
+        "label": "communication"
+    },
+    "clusterList": [
+        {
+            "phrase": "in a multi-storey environment for example it's difficult to have base stations around the area so we need to form an ad-hoc network",
+            "count": 3
+        },
+        {
+            "phrase": "communication is vital to everyone's daily lifestyle and nowadays it happens to be mobile communication as compared to 10 years ago when wireline communication was a standard",
+            "count": 1
+        },
+        {
+            "phrase": "using the nation's largest communications network hop-on's disposable phone makes it an excellent choice as a back-up phone to store away in case of emergencies",
+            "count": 1
+        },
+        {
+            "phrase": "cellphone service is widely available in india at low cost because it was regarded as a luxury and therefore left to market while electricity is hard to obtain because it has been regarded as a necessity and therefore managed by the government",
+            "count": 1
+        },
+        {
+            "phrase": "people want the web on their phone regardless of the type of phone they have",
+            "count": 1
+        },
+        {
+            "phrase": "the phone companies have a tremendous amount of power",
+            "count": 1
+        },
+        {
+            "phrase": "we're all about wireless",
+            "count": 1
+        },
+        {
+            "phrase": "the whole purpose is to be an applications layer device so it could be used for home monitoring or health monitoring applications that whole gateway becomes the environment for new services as well as what we want to offer today",
+            "count": 1
+        }
+    ]
+}

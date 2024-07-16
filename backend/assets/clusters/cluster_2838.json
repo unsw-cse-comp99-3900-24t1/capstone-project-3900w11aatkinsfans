@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:04",
+            "01:09",
+            "01:34",
+            "01:37",
+            "04:07"
+        ],
+        "label": "take"
+    },
+    "clusterList": [
+        {
+            "phrase": "take a bow",
+            "count": 6
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "popularityCurve": {
+        "data": [
+            2,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "03:46"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "you can possibly get on this flight if you pay 260 you are booked as a class q and we don't have that class anymore that's why you are not on the flight",
+            "count": 1
+        },
+        {
+            "phrase": "this doesn't make sense because i am booked on this flight",
+            "count": 1
+        },
+        {
+            "phrase": "okay you are booked on the 8 50 flight tomorrow morning",
+            "count": 1
+        }
+    ]
+}

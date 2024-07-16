@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:19",
+            "01:10",
+            "02:16",
+            "03:00",
+            "03:24",
+            "03:38",
+            "04:18",
+            "04:45",
+            "04:46"
+        ],
+        "label": "something"
+    },
+    "clusterList": [
+        {
+            "phrase": "something of an endorsement",
+            "count": 5
+        },
+        {
+            "phrase": "i am proud to be a co-sponsor of hr 6598",
+            "count": 1
+        },
+        {
+            "phrase": "i'm proud to have this endorsement",
+            "count": 1
+        },
+        {
+            "phrase": "i'm proud of that",
+            "count": 1
+        },
+        {
+            "phrase": "i'm very honored and proud of that fact and i hope to demonstrate success in filling that role",
+            "count": 1
+        }
+    ]
+}

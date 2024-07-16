@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:15",
+            "03:05",
+            "03:51"
+        ],
+        "label": "the"
+    },
+    "clusterList": [
+        {
+            "phrase": "the whole picture",
+            "count": 1
+        },
+        {
+            "phrase": "part which leads to this page",
+            "count": 1
+        },
+        {
+            "phrase": "the whole wheel",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:51",
+            "03:55"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "i'm going to pay more attention this year for sure",
+            "count": 1
+        },
+        {
+            "phrase": "this year really got interesting",
+            "count": 1
+        }
+    ]
+}

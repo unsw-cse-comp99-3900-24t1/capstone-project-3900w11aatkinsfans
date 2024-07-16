@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:04",
+            "01:08",
+            "01:34",
+            "01:37",
+            "01:42",
+            "01:47",
+            "02:00",
+            "03:18"
+        ],
+        "label": "i'm"
+    },
+    "clusterList": [
+        {
+            "phrase": "our politics is small when we need to be thinking big",
+            "count": 7
+        },
+        {
+            "phrase": "i'm going to raise the level of political dialog in america",
+            "count": 1
+        }
+    ]
+}

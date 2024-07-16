@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:33",
+            "01:20",
+            "04:50"
+        ],
+        "label": "when"
+    },
+    "clusterList": [
+        {
+            "phrase": "when a couple is constantly challenged on the way in which they are living their lives they need support and they do not always get it from family",
+            "count": 1
+        },
+        {
+            "phrase": "when they don't do something right they're not hanging right there and getting down and staying down that impedes progress they seem to be able to get rid of it and get on with life",
+            "count": 1
+        },
+        {
+            "phrase": "it takes a lot of time for them to fit into that mentality that they can do whatever they want with it",
+            "count": 1
+        }
+    ]
+}

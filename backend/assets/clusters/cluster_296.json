@@ -1,0 +1,85 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            4,
+            2,
+            1,
+            1,
+            1,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:18",
+            "00:47",
+            "01:01",
+            "01:02",
+            "01:03",
+            "01:05",
+            "01:06",
+            "01:13",
+            "01:20",
+            "01:23",
+            "01:25",
+            "01:32",
+            "01:33",
+            "01:37",
+            "01:45",
+            "01:46",
+            "01:51",
+            "01:56",
+            "02:01",
+            "02:05",
+            "02:38",
+            "03:18",
+            "03:46",
+            "03:51",
+            "04:06"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "blessed are they that mourn for they shall be comforted",
+            "count": 20
+        },
+        {
+            "phrase": "blessed are they that mourn for they shall be comforted it is finished",
+            "count": 5
+        },
+        {
+            "phrase": "our expressions of sympathy go to them",
+            "count": 4
+        },
+        {
+            "phrase": "i have been shown in the files of the war department a statement of the adjutant general of massachusetts that you are the mother of five sons who have died gloriously on the field of battle i feel how weak and fruitless must be any words of mine which should attempt to beguile you from the grief of a loss so overwhelming but i cannot refrain from tendering to you the consolation that may be found in the thanks of the republic they died to save i pray that our heavenly father may assuage the anguish of your bereavement and leave you only the cherished memory of the loved and lost and the solemn pride that must be yours to have laid so costly a sacrifice upon the altar of freedom",
+            "count": 1
+        },
+        {
+            "phrase": "blessed are the merciful for they will be shown mercy",
+            "count": 1
+        },
+        {
+            "phrase": "blessed are those who die in the lord from now on",
+            "count": 1
+        }
+    ]
+}

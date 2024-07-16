@@ -1,0 +1,57 @@
+{
+    "popularityCurve": {
+        "data": [
+            3,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:18",
+            "03:46",
+            "03:48",
+            "03:51",
+            "04:05",
+            "04:14",
+            "04:23"
+        ],
+        "label": "shut"
+    },
+    "clusterList": [
+        {
+            "phrase": "bustin down the door",
+            "count": 2
+        },
+        {
+            "phrase": "shut the door",
+            "count": 1
+        },
+        {
+            "phrase": "i'll bust the door down",
+            "count": 1
+        },
+        {
+            "phrase": "right i'm going to open this door",
+            "count": 1
+        },
+        {
+            "phrase": "answer the door",
+            "count": 1
+        },
+        {
+            "phrase": "shut the up",
+            "count": 1
+        },
+        {
+            "phrase": "the door is opened",
+            "count": 1
+        },
+        {
+            "phrase": "don't let the door hit you on the on the way out",
+            "count": 1
+        }
+    ]
+}

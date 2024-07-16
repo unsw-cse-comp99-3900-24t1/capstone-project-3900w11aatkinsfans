@@ -1,0 +1,41 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:23",
+            "00:28",
+            "01:11",
+            "03:52",
+            "04:04",
+            "04:20",
+            "04:47"
+        ],
+        "label": "those"
+    },
+    "clusterList": [
+        {
+            "phrase": "those things are all good for you anyway and until we have a pill that we can recommend for people those are the sorts of recommendations that we're able to offer",
+            "count": 3
+        },
+        {
+            "phrase": "it never worked i had liposuction and everything else then i realized oh what if i just ate better and exercised",
+            "count": 2
+        },
+        {
+            "phrase": "relax your legs as much as possible",
+            "count": 1
+        },
+        {
+            "phrase": "no tea or anything",
+            "count": 1
+        }
+    ]
+}

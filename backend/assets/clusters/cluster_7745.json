@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:51",
+            "04:59",
+            "05:03"
+        ],
+        "label": "a"
+    },
+    "clusterList": [
+        {
+            "phrase": "a pinochle parlor from the 50s",
+            "count": 1
+        },
+        {
+            "phrase": "for a while in the 1950s that was a very lively business core an h g hill grocery store a shoe repair shop a jewelry store",
+            "count": 1
+        },
+        {
+            "phrase": "and sold it back to us in the 1960s when they went out of business",
+            "count": 1
+        }
+    ]
+}

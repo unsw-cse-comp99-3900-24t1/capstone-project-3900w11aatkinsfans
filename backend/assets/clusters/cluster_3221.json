@@ -1,0 +1,47 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:22",
+            "00:41",
+            "01:03",
+            "02:09",
+            "02:16",
+            "04:57"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i would not say it if i knew it",
+            "count": 1
+        },
+        {
+            "phrase": "i knew it already",
+            "count": 1
+        },
+        {
+            "phrase": "just when i thought i had it figured out",
+            "count": 1
+        },
+        {
+            "phrase": "how did you know that",
+            "count": 1
+        },
+        {
+            "phrase": "nobody told me that",
+            "count": 1
+        },
+        {
+            "phrase": "yes but how did you know",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:16",
+            "01:25",
+            "01:34",
+            "02:42",
+            "04:37"
+        ],
+        "label": "we're"
+    },
+    "clusterList": [
+        {
+            "phrase": "we're here to win and have fun we're not playing for a short trip",
+            "count": 1
+        },
+        {
+            "phrase": "it doesn't matter how things go for you we're not going to give up we're just going to go and play the game like i've said and move on if it doesn't happen so who cares there's always next year it's not like the end of the world or something why should we panic",
+            "count": 1
+        },
+        {
+            "phrase": "o k sonpow enough about our futures because if we don't go out there and win that game we won't have one",
+            "count": 1
+        },
+        {
+            "phrase": "we want to win right here and right now and that's why we made this trade",
+            "count": 1
+        },
+        {
+            "phrase": "we'll take that for a start if we do that in the next year and a half i'll be an extremely happy person",
+            "count": 1
+        },
+        {
+            "phrase": "you want to keep the streak going but you just want to win this game just like any other",
+            "count": 1
+        }
+    ]
+}

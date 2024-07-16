@@ -1,0 +1,29 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:58",
+            "01:10",
+            "02:14"
+        ],
+        "label": "we"
+    },
+    "clusterList": [
+        {
+            "phrase": "we haven't even gotten to the connecting highway yet",
+            "count": 1
+        },
+        {
+            "phrase": "man these roads suck they need to do something about this",
+            "count": 1
+        },
+        {
+            "phrase": "the nice thing about going on the road is that we get away from it all",
+            "count": 1
+        }
+    ]
+}

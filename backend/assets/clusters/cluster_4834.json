@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "01:01",
+            "04:03",
+            "04:42"
+        ],
+        "label": "absolutely"
+    },
+    "clusterList": [
+        {
+            "phrase": "he essentially admitted to his conduct which was outrageous and clearly life threatening and has changed the lives of these victims in many ways",
+            "count": 2
+        },
+        {
+            "phrase": "absolutely outrageous and completely unjustified",
+            "count": 1
+        },
+        {
+            "phrase": "considers all this a great silliness although highly threatening",
+            "count": 1
+        }
+    ]
+}

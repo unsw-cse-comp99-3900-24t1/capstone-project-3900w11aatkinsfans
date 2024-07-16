@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "03:23",
+            "04:45"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well poised for the future",
+            "count": 1
+        },
+        {
+            "phrase": "optimistic and hopeful",
+            "count": 1
+        }
+    ]
+}

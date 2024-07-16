@@ -1,0 +1,35 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:29",
+            "03:18",
+            "03:52",
+            "04:13"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i like your bangs they are very becoming on you",
+            "count": 1
+        },
+        {
+            "phrase": "yeah they're kinda tight and the t-shirt is er well it brings out the color of my eyes",
+            "count": 1
+        },
+        {
+            "phrase": "you have beautiful healthy hair and the style is great don't mess with it much",
+            "count": 1
+        },
+        {
+            "phrase": "hey baby i like your b zier curves",
+            "count": 1
+        }
+    ]
+}

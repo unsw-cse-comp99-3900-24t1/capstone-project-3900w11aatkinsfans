@@ -1,0 +1,25 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:17",
+            "00:20",
+            "01:01"
+        ],
+        "label": "weakness"
+    },
+    "clusterList": [
+        {
+            "phrase": "weakness of attitude becomes weakness of character",
+            "count": 2
+        },
+        {
+            "phrase": "my greatest weakness sometimes i work too hard sometimes i care too much",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:06",
+            "02:56"
+        ],
+        "label": "mean"
+    },
+    "clusterList": [
+        {
+            "phrase": "mean lady teachers",
+            "count": 1
+        },
+        {
+            "phrase": "what a high school teacher might call a young woman of poise",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            2,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:10",
+            "00:18",
+            "00:20",
+            "00:48",
+            "00:52",
+            "02:46",
+            "03:24",
+            "03:47",
+            "04:23",
+            "04:28"
+        ],
+        "label": "useful"
+    },
+    "clusterList": [
+        {
+            "phrase": "we do the work you get the cash",
+            "count": 2
+        },
+        {
+            "phrase": "useful and productive work",
+            "count": 1
+        },
+        {
+            "phrase": "personal notes about the job here",
+            "count": 1
+        },
+        {
+            "phrase": "working on anything",
+            "count": 1
+        },
+        {
+            "phrase": "what do you like to do",
+            "count": 1
+        },
+        {
+            "phrase": "i do a lot of things for people no charge brake jobs handyman jobs",
+            "count": 1
+        },
+        {
+            "phrase": "work from home",
+            "count": 1
+        },
+        {
+            "phrase": "this is a dream job for me",
+            "count": 1
+        },
+        {
+            "phrase": "labor or services",
+            "count": 1
+        },
+        {
+            "phrase": "now that i'm out of work can you give me a job",
+            "count": 1
+        }
+    ]
+}

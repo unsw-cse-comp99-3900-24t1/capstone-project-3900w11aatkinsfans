@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:41",
+            "03:38"
+        ],
+        "label": "professors"
+    },
+    "clusterList": [
+        {
+            "phrase": "professors engineers factory workers teachers artists doctors even farmers",
+            "count": 1
+        },
+        {
+            "phrase": "there are professions more harmful than industrial design but only very few of them and possibly only one profession is phonier advertising design in persuading people to buy things they don't need with money they don't have in order to impress others that don't care it is probably the phoniest field in existence today",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:06",
+            "03:41"
+        ],
+        "label": "well"
+    },
+    "clusterList": [
+        {
+            "phrase": "well i do have one in the bathroom",
+            "count": 1
+        },
+        {
+            "phrase": "you need to use the toilet",
+            "count": 1
+        }
+    ]
+}

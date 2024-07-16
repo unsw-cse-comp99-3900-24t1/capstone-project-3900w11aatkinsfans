@@ -1,0 +1,53 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            2,
+            1,
+            1,
+            2,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:25",
+            "00:43",
+            "01:06",
+            "01:47",
+            "02:28",
+            "03:09",
+            "03:18",
+            "03:48",
+            "04:28"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this assistance is greatly needed",
+            "count": 7
+        },
+        {
+            "phrase": "do not think of me as unfeeling i wouldn't wait my time trying to help you",
+            "count": 1
+        },
+        {
+            "phrase": "i'm tired of trying to help you",
+            "count": 1
+        },
+        {
+            "phrase": "it isn't possible for anything you to say to help you",
+            "count": 1
+        },
+        {
+            "phrase": "i want to help you and her of course",
+            "count": 1
+        },
+        {
+            "phrase": "i can tell you that you are going to help me greatly whether you want to or not",
+            "count": 1
+        }
+    ]
+}

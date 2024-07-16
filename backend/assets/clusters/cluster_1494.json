@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            2,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:27",
+            "00:41",
+            "01:07",
+            "01:40",
+            "01:47",
+            "02:26",
+            "03:10",
+            "03:51",
+            "04:32"
+        ],
+        "label": "so"
+    },
+    "clusterList": [
+        {
+            "phrase": "so many people that we've run into over the years that just had the best of wishes for what we just accomplished it was pretty cool",
+            "count": 6
+        },
+        {
+            "phrase": "my wish would be that you could live forever and that future leaders could be just like you well done and keep fit and keep healthy and keep smiling and keep us all motivated you're a great person a great president and we love you",
+            "count": 2
+        },
+        {
+            "phrase": "well i'd just like to wish him all the luck and happiness and hope he lives another ten years twenty years he's a great man that's all i can say really",
+            "count": 2
+        },
+        {
+            "phrase": "if i could have just one wish i would wish to wake up everyday to the sound of your breath on my neck the warmth of your lips on my cheek the touch of your fingers on my skin and the feel of your heart beating with mine knowing that i could never find that feeling with anyone other than you",
+            "count": 1
+        }
+    ]
+}

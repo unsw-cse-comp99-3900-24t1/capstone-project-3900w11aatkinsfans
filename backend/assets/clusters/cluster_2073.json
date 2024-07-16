@@ -1,0 +1,49 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            2
+        ],
+        "xLabels": [
+            "00:18",
+            "00:46",
+            "01:03",
+            "01:04",
+            "03:00",
+            "03:02",
+            "05:00"
+        ],
+        "label": "i"
+    },
+    "clusterList": [
+        {
+            "phrase": "i consistently believe that when it comes to whether it's native americans or african-american issues or reparations the most important thing for the u s government to do is not just offer words but offer deeds",
+            "count": 3
+        },
+        {
+            "phrase": "i consistently believe that when it comes to whether it's native americans or african-american issues or reparations the most important thing for the u s government to do is not just offer words",
+            "count": 1
+        },
+        {
+            "phrase": "the more important thing for the u s government to do is not just offer words but offer deeds",
+            "count": 1
+        },
+        {
+            "phrase": "i consistently believe that when it comes to native americans or african americans issues or reparations the most important thing for the us government to do is not just offer words but offer deeds",
+            "count": 1
+        },
+        {
+            "phrase": "i consistently believe that the most important thing for the u s government to do is not just offer words but offer deeds",
+            "count": 1
+        },
+        {
+            "phrase": "what do you think about obama's promotion of reparations to blacks and native americans",
+            "count": 1
+        }
+    ]
+}

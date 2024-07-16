@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:20",
+            "03:41"
+        ],
+        "label": "stylish"
+    },
+    "clusterList": [
+        {
+            "phrase": "stylish disposable phone",
+            "count": 1
+        },
+        {
+            "phrase": "i was just thinking here in iowa it will be a very long time before landlines and dial-up become obsolete",
+            "count": 1
+        }
+    ]
+}

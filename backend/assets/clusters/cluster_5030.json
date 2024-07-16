@@ -1,0 +1,31 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "02:01",
+            "02:15",
+            "02:42",
+            "03:18"
+        ],
+        "label": "they"
+    },
+    "clusterList": [
+        {
+            "phrase": "they are like tanks",
+            "count": 2
+        },
+        {
+            "phrase": "one of the great paradoxes of having tanks is that although they are one of the most formidable fighting machines out here they tend to have a calming effect as soon as we turn up the fight tends to end without us firing a shot",
+            "count": 1
+        },
+        {
+            "phrase": "ow tanks for bein so understandin toots",
+            "count": 1
+        }
+    ]
+}

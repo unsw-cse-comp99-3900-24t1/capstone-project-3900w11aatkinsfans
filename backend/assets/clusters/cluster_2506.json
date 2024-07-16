@@ -1,0 +1,43 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:43",
+            "01:07",
+            "01:33",
+            "02:33",
+            "02:41",
+            "04:36"
+        ],
+        "label": "you"
+    },
+    "clusterList": [
+        {
+            "phrase": "it's the cutest thing",
+            "count": 3
+        },
+        {
+            "phrase": "you know these things actually are kind of cute",
+            "count": 1
+        },
+        {
+            "phrase": "haha but you know wats cuter than this riceballs",
+            "count": 1
+        },
+        {
+            "phrase": "hahahah i loved that they are so cute",
+            "count": 1
+        },
+        {
+            "phrase": "i've never seen anything cuter in my life",
+            "count": 1
+        }
+    ]
+}

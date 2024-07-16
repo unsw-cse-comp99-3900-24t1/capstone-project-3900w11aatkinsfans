@@ -1,0 +1,23 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1
+        ],
+        "xLabels": [
+            "01:34",
+            "02:56"
+        ],
+        "label": "time"
+    },
+    "clusterList": [
+        {
+            "phrase": "time to make the donuts",
+            "count": 1
+        },
+        {
+            "phrase": "you know what you could write and eat all the damn donuts you want",
+            "count": 1
+        }
+    ]
+}

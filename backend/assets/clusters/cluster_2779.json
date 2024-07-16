@@ -1,0 +1,45 @@
+{
+    "popularityCurve": {
+        "data": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "xLabels": [
+            "00:05",
+            "00:19",
+            "00:53",
+            "01:07",
+            "01:19",
+            "04:20",
+            "04:33"
+        ],
+        "label": "this"
+    },
+    "clusterList": [
+        {
+            "phrase": "this is just the beginning",
+            "count": 3
+        },
+        {
+            "phrase": "this is the way the world ends not with a bang but a whimper",
+            "count": 1
+        },
+        {
+            "phrase": "all things move toward their end",
+            "count": 1
+        },
+        {
+            "phrase": "this is the beginning",
+            "count": 1
+        },
+        {
+            "phrase": "everything has a beginning everything comes to an end",
+            "count": 1
+        }
+    ]
+}
