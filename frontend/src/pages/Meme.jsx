@@ -71,7 +71,7 @@ function MemePage() {
   React.useEffect(() => {
     let filename = 'cluster_' + id;
     fetch((process.env.REACT_APP_BACKEND_URL ||
-      'http://localhost:5000') + '/clusters/sample1')
+      'http://localhost:5000') + '/clusters/' + filename)
       .then(response => {
         if (!response.ok) {
           throw new Error('Bad response');

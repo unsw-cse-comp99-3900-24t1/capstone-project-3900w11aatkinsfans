@@ -43,7 +43,7 @@ export default function MainGraph () {
         let filename = 'cluster_' + i;
         try {
           const response = await fetch((process.env.REACT_APP_BACKEND_URL ||
-            'http://localhost:5000') + '/clusters/sample1');
+            'http://localhost:5000') + '/clusters/' + filename);
           if (!response.ok) {
             throw new Error('Bad response');
           }
@@ -89,7 +89,7 @@ export default function MainGraph () {
             display: true,
             text: 'Volume',
             font: { size: 14, weight: 'bold' }
-          }
+          },
         }
       },
       responsive: true,
