@@ -35,35 +35,42 @@ export default function MainGraph () {
   const navigate = useNavigate();
 
   React.useEffect(() => {
-    for (let i = 1; i <= 10; i++) {
-      let filename = 'cluster_' + i;
-      fetch((process.env.REACT_APP_BACKEND_URL ||
-        'http://localhost:5000') + '/clusters/sample1')
-        .then(response => {
+    // to avoid double loading in dev mode
+    let isMounted = true;
+    
+    const fetchData = async () => {
+      for (let i = 1; i <= 10; i++) {
+        let filename = 'cluster_' + i;
+        try {
+          const response = await fetch((process.env.REACT_APP_BACKEND_URL ||
+            'http://localhost:5000') + '/clusters/sample1');
           if (!response.ok) {
             throw new Error('Bad response');
           }
-          return response.json();
-        })
-        .then(data => {
-          // set colors and dataset options
-          let dataset = data.popularityCurve;
-          dataset.borderColor = COLOUR_PALETTE[i-1];
-          dataset.backgroundColor = COLOUR_PALETTE[i-1] + 'E6';
-          dataset.hoverBorderWidth = 10;
-          dataset.tension = 0.1;
-          dataset.id = i;
-          // set chart data
-          // only update xLabels if a dataset with more values are found
-          setChartData(prevChartData => ({
-            labels: dataset.xLabels.length > prevChartData.labels.length ? dataset.xLabels : prevChartData.labels,
-            datasets: [...prevChartData.datasets, dataset],
-          }));
-        })
-        .catch(err => {
+          const data = await response.json();
+          if (isMounted) {
+            // set colors and dataset options
+            let dataset = data.popularityCurve;
+            dataset.borderColor = COLOUR_PALETTE[i-1];
+            dataset.backgroundColor = COLOUR_PALETTE[i-1] + 'E6';
+            dataset.hoverBorderWidth = 10;
+            dataset.tension = 0.1;
+            dataset.id = i;
+            
+            // set chart data
+            // only update xLabels if a dataset with more values are found
+            setChartData(prevChartData => ({
+              labels: dataset.xLabels.length > prevChartData.labels.length ? dataset.xLabels : prevChartData.labels,
+              datasets: [...prevChartData.datasets, dataset],
+            }));
+          }
+        } catch (err) {
           console.log(err);
-        });
+        }
       }
+    };
+    fetchData();
+
     // set chart options
     setChartOptions({
       scales: {
@@ -90,7 +97,7 @@ export default function MainGraph () {
       plugins: {
         title: {
           display: true,
-          text: "Top \'meme\' phrases during 1/08/2008",
+          text: "Top 'meme' phrases during 1/08/2008",
           font: { size: 16 }
         },
         legend: { display: false },
@@ -101,7 +108,6 @@ export default function MainGraph () {
           padding: 10,
           caretPadding: 20,
           caretSize: 10,
-          yAlign: 'bottom',
         },
       },
       hover: {
@@ -111,7 +117,11 @@ export default function MainGraph () {
       onHover: onHover,
       // onclick functionality to navigate to corresponding page
       onClick: onClick
-    })
+    });
+
+    return () => {
+      isMounted = false;
+    };
   }, []);
 
   const onHover = (event, chartElement) => {
