@@ -1,7 +1,5 @@
 from flask import Flask, request, jsonify, abort, send_from_directory
 from flask_cors import CORS
-from csv_to_json import get_json_data
-from database.database import Database
 import pandas as pd
 import os
 from sentence_transformers import SentenceTransformer
@@ -16,12 +14,11 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Setting up MongoDB connection
-db = Database(uri='mongodb://localhost:27017', db_name='3900')
 model = SentenceTransformer("all-MiniLM-L6-v2")
 pca_model = joblib.load('pca_model.pkl')
 
 # Load cluster centers from CSV
-cluster_centers_file = 'assets/cluster_centers.csv'
+cluster_centers_file = 'cluster_centers.csv'
 cluster_centers = {}
 with open(cluster_centers_file, 'r') as csvfile:
     reader = csv.DictReader(csvfile)
