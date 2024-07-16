@@ -6,7 +6,7 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "xbox"
+        "label": "xbox runs a custom operating system built from the ground up while our operating system exports many of the same apis found in win32 e g createthread or waitforsingleobject not everything is there for instance there is no use for createwindow on xbox all graphics are done through our own flavor of direct3d"
     },
     "clusterList": [
         {

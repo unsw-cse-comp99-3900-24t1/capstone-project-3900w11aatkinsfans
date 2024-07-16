@@ -6,7 +6,7 @@
         "xLabels": [
             "01:21"
         ],
-        "label": "keep"
+        "label": "keep only the last x versions"
     },
     "clusterList": [
         {
