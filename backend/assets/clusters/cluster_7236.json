@@ -10,7 +10,7 @@
             "02:01",
             "04:17"
         ],
-        "label": "select"
+        "label": "select employeeid lastname address from employees"
     },
     "clusterList": [
         {

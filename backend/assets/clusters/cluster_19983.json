@@ -6,7 +6,7 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "delete"
+        "label": "delete from usuarios where id"
     },
     "clusterList": [
         {

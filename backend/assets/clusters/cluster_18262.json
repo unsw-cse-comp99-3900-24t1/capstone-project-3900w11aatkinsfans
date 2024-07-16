@@ -6,7 +6,7 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "unless"
+        "label": "unless the pixels are in the middle of the screen and there's more than four dead ones per million we aren't replacing it"
     },
     "clusterList": [
         {

@@ -6,7 +6,7 @@
         "xLabels": [
             "02:31"
         ],
-        "label": "select"
+        "label": "select date lname fname emailaddr state from generalrequest where requesttype"
     },
     "clusterList": [
         {

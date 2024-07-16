@@ -6,7 +6,7 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "select"
+        "label": "select from citas where fecha"
     },
     "clusterList": [
         {
