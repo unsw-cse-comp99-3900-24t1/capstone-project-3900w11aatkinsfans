@@ -2,6 +2,9 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 import { styled } from '@mui/system';
 import { Line } from 'react-chartjs-2';
+import {
+  Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper
+} from '@mui/material';
 import { COLOUR_PALETTE } from '../assets/constants';
 import {
   Chart as ChartJS,
@@ -62,6 +65,7 @@ function MemePage() {
   const [totalMutations, setTotalMutations] = React.useState(0);
   const [largestMutation, setLargestMutation] = React.useState("");
   const [largestMutAmount, setlargestMutAmount] = React.useState(0);
+  const [clusterList, setClusterList] = React.useState([]);
 
   // load up meme
   React.useEffect(() => {
@@ -82,6 +86,7 @@ function MemePage() {
         setTotalMutations(data.clusterList.length);
         setLargestMutation(data.clusterList[0].phrase);
         setlargestMutAmount(data.clusterList[0].count);
+        setClusterList(data.clusterList);
         createGraph(dataset);
       })
       .catch(err => {
@@ -180,6 +185,41 @@ function MemePage() {
           }
         </TextBoxDiv>
       </TopFlexDiv>
+      {
+        <TableContainer component={Paper} style={{ margin: '0 3vw', marginTop: '20px', width: '50vw', borderRadius: '12px',
+          boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)', }}>
+          <Table>
+            <TableHead>
+              <TableRow>
+                <TableCell style={{ fontWeight: 'bold' }}>#</TableCell> 
+                <TableCell style={{ fontWeight: 'bold' }}>Meme Mutations</TableCell>
+                <TableCell align="right" style={{ fontWeight: 'bold' }}>Mutation Count</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+              {clusterList.length > 0 ? (
+                clusterList.map((cluster, index) => (
+                  <TableRow key={index}>
+                    <TableCell component="th" scope="row">
+                      {index + 1}  
+                    </TableCell>
+                    <TableCell component="th" scope="row">
+                      {cluster.phrase}
+                    </TableCell>
+                    <TableCell align="right">{cluster.count}</TableCell>
+                  </TableRow>
+                ))
+              ) : (
+                <TableRow>
+                  <TableCell colSpan={3} align="center">
+                    No meme mutations
+                  </TableCell>
+                </TableRow>
+              )}
+            </TableBody>
+          </Table>
+        </TableContainer>
+      }
     </>
   );
 }

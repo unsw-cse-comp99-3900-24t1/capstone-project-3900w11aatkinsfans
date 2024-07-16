@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { TextField, Paper, InputAdornment, IconButton, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Modal, Box, Typography } from '@mui/material';
+import { TextField, Paper, InputAdornment, IconButton, Table, TableBody, TableCell, TableContainer, TableRow } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import { styled } from '@mui/system';
+import { useNavigate } from 'react-router-dom';
 
 const StyledPaper = styled(Paper)(({ theme }) => ({
   display: 'flex',
@@ -122,18 +123,13 @@ const timeFromNow = (timestamp) => {
   return `${seconds} seconds ago`;
 };
 
-// Clicking on most popular memes table to search 
-const handleCellClick = (clusterID) => {
-  console.log('Cell clicked with ClusterID:', clusterID);
-  // Later add dynamic routing to specific meme pages
-};
-
 export default function MemeSearch() {
   const [popularData, setPopularData] = useState(null);
   const [error, setError] = useState(null);
   const [beginDate, setBeginDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
   const [memeCount, setMemeCount] = useState(null);
+  const navigate = useNavigate();
 
   useEffect(() => {
     fetch((process.env.REACT_APP_BACKEND_URL ||
@@ -155,6 +151,11 @@ export default function MemeSearch() {
           setError(err.message);
       });
   }, []);
+
+  // Clicking on most popular memes table to search 
+  const handleCellClick = (clusterID) => {
+    navigate(`/meme/${clusterID}`);
+  };
 
   if (error) {
     return <div>{`Error: ${error}`}</div>;

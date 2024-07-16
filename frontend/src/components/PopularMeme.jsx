@@ -12,6 +12,7 @@ import { styled } from '@mui/system';
 import Modal from '@mui/material/Modal';
 import Box from '@mui/material/Box';
 import Typography from '@mui/material/Typography';
+import { useNavigate } from 'react-router-dom';
 
 const StyledTableContainer = styled(TableContainer)(({ theme }) => ({
   borderBottom: `1px solid rgba(0, 0, 0, 0.2);`,
@@ -64,6 +65,7 @@ export default function PopularMeme() {
     const [open, setOpen] = React.useState(false);
     const handleOpen = () => setOpen(true);
     const handleClose = () => setOpen(false);
+    const navigate = useNavigate();
 
     useEffect(() => {
         fetch((process.env.REACT_APP_BACKEND_URL ||
@@ -93,6 +95,12 @@ export default function PopularMeme() {
     if (!popularData) {
         return <div>Loading...</div>;
     }
+
+    // Clicking on most popular memes table to search 
+    const handleCellClick = (clusterID) => {
+        navigate(`/meme/${clusterID}`);
+    };
+
     return (
         <>  
             <PopularMemesTitle>
@@ -123,17 +131,29 @@ export default function PopularMeme() {
                     </TableHead>
                     <TableBody>
                     {popularData.map((row) => (
-                        <TableRow
+                        <TableRow 
                         key={row.ClusterID}
-                        sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
+                        sx={{ '&:last-child td, &:last-child th': { border: 0 },
+                        '&:last-child td, &:last-child th': { border: 0 },
+                        cursor: 'pointer',
+                        '&:hover': {
+                          backgroundColor: 'rgba(0, 0, 0, 0.1)',
+                        }, }}
                         >
-                        <TableCell component="th" scope="row">
-                            {row.ClusterID}
-                        </TableCell>
-                        <TableCell align="right">{row.ClusterSize} Mutations</TableCell>
-                        <TableCell align="right">{row.Timestamp}</TableCell>
-                        <TableCell align="right" sx={{ textTransform: 'capitalize' }}>{row.Quote}</TableCell>
-                        <TableCell align="right">{row.protein}</TableCell>
+                            <TableCell component="th" scope="row" 
+                            sx={{ textTransform: 'capitalize', padding: '10px', cursor: 'pointer'}}
+                            onClick={() => handleCellClick(row.ClusterID)}>{row.ClusterID}
+                            </TableCell>
+                            <TableCell align="right" sx={{ textTransform: 'capitalize', padding: '10px', cursor: 'pointer'}}
+                            onClick={() => handleCellClick(row.ClusterID)}
+                            > {row.ClusterSize} Mutations
+                            </TableCell>
+                            <TableCell align="right" sx={{ textTransform: 'capitalize', padding: '10px', cursor: 'pointer'}}
+                            onClick={() => handleCellClick(row.ClusterID)}>{row.Timestamp}
+                            </TableCell>
+                            <TableCell align="right" sx={{ textTransform: 'capitalize', padding: '10px', cursor: 'pointer'}}
+                            onClick={() => handleCellClick(row.ClusterID)}>{row.Quote}
+                            </TableCell>
                         </TableRow>
                     ))}
                     </TableBody>
