@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a terrific ruling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

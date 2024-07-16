@@ -8,7 +8,10 @@
             "01:25",
             "02:00"
         ],
-        "label": "about"
+        "label": {
+            "phrase": "about to occur",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:00",
             "03:23"
         ],
-        "label": "cradle"
+        "label": {
+            "phrase": "cradle of life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

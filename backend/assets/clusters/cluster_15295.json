@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then there's life in it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

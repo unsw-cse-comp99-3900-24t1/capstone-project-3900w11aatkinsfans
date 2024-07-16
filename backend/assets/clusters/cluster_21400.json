@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we got some hits on barajas but we didn't get any on zaun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

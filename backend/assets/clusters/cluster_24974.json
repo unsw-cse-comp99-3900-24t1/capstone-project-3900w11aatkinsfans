@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "help"
+        "label": {
+            "phrase": "help me up off of the dang floor krusha",
+            "count": 1
+        }
     },
     "clusterList": [
         {

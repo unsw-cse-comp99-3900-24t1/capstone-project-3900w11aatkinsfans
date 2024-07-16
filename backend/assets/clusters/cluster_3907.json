@@ -14,7 +14,10 @@
             "04:28",
             "04:33"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the last time",
+            "count": 2
+        }
     },
     "clusterList": [
         {

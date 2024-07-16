@@ -6,7 +6,10 @@
         "xLabels": [
             "00:42"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we never doubted that the house would be completed but we knew there was going to be a bit of a black hole when nothing happened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

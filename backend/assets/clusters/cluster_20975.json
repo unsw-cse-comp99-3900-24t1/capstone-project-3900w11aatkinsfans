@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the living room of house is completely gutted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

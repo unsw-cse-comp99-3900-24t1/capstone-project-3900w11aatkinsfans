@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "official"
+        "label": {
+            "phrase": "official heroes forum",
+            "count": 1
+        }
     },
     "clusterList": [
         {

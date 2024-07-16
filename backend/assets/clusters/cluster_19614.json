@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes how far from here to our old camp",
+            "count": 1
+        }
     },
     "clusterList": [
         {

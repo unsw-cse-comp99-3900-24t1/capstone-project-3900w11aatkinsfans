@@ -22,7 +22,10 @@
             "04:23",
             "04:32"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes it's time to move in a big way",
+            "count": 6
+        }
     },
     "clusterList": [
         {

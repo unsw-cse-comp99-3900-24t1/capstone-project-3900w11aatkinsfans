@@ -8,7 +8,10 @@
             "02:42",
             "03:05"
         ],
-        "label": "ieds"
+        "label": {
+            "phrase": "ieds have grown dramatically they are going for a catastrophic kill",
+            "count": 1
+        }
     },
     "clusterList": [
         {

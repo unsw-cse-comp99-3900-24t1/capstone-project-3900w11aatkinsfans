@@ -16,7 +16,10 @@
             "05:04",
             "05:05"
         ],
-        "label": "storage"
+        "label": {
+            "phrase": "electronically stored information",
+            "count": 2
+        }
     },
     "clusterList": [
         {

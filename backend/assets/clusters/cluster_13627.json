@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no just sit and relax and i'll get you water",
+            "count": 1
+        }
     },
     "clusterList": [
         {

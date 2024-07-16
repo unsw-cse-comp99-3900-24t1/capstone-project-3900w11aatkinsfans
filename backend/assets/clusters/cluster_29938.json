@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a million screaming germans",
+            "count": 1
+        }
     },
     "clusterList": [
         {

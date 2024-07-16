@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have the right personnel for that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

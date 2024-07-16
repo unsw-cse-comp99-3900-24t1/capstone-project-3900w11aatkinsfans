@@ -10,7 +10,10 @@
             "02:22",
             "03:43"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the thing i like about kenny is that he knows the way of the samurai",
+            "count": 1
+        }
     },
     "clusterList": [
         {

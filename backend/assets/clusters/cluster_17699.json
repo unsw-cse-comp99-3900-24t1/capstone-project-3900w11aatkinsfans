@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "featuring"
+        "label": {
+            "phrase": "featuring meri tadic of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

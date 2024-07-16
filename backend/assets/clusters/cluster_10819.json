@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "chris"
+        "label": {
+            "phrase": "chris is a good guy and a super road course racer",
+            "count": 2
+        }
     },
     "clusterList": [
         {

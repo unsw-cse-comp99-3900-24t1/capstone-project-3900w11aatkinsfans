@@ -8,7 +8,10 @@
             "00:20",
             "02:38"
         ],
-        "label": "user"
+        "label": {
+            "phrase": "user must be registered to comment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "weather'by"
+        "label": {
+            "phrase": "weather'by dot com chanel fourcast sheppard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

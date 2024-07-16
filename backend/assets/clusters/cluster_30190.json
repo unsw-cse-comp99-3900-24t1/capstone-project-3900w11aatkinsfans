@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "ride"
+        "label": {
+            "phrase": "ride the wave",
+            "count": 1
+        }
     },
     "clusterList": [
         {

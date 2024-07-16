@@ -6,7 +6,10 @@
         "xLabels": [
             "00:47"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is the user's machine going to be able to maintain four connections at one time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:24",
             "04:28"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is your bread and butter kid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

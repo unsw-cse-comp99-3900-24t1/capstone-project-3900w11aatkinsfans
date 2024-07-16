@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "richie"
+        "label": {
+            "phrase": "richie ray y bobby cruz viven",
+            "count": 1
+        }
     },
     "clusterList": [
         {

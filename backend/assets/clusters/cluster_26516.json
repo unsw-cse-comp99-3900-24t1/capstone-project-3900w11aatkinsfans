@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "sir"
+        "label": {
+            "phrase": "sir unexpected life forms on planet's surface",
+            "count": 1
+        }
     },
     "clusterList": [
         {

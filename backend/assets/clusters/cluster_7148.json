@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "laboratory"
+        "label": {
+            "phrase": "laboratory tests have shown that a chemical found in the skin of grapes could halt the development of most cases of the disease",
+            "count": 1
+        }
     },
     "clusterList": [
         {

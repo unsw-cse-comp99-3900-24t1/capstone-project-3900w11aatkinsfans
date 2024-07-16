@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who would have thought that a few years ago right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

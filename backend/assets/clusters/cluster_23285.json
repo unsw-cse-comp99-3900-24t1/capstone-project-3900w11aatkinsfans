@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "charm"
+        "label": {
+            "phrase": "charm city zombie bash",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:00",
             "03:18"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when you're sick you're green",
+            "count": 1
+        }
     },
     "clusterList": [
         {

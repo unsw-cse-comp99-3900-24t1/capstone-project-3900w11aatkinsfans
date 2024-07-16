@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the crown is really excited tonight",
+            "count": 3
+        }
     },
     "clusterList": [
         {

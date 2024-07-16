@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "bay"
+        "label": {
+            "phrase": "bay state refugees",
+            "count": 1
+        }
     },
     "clusterList": [
         {

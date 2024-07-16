@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey eric for this movie all you have to do is scowl and have an outburst or two that's it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

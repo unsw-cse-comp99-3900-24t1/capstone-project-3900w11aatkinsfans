@@ -6,7 +6,10 @@
         "xLabels": [
             "00:22"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you hear the people sing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

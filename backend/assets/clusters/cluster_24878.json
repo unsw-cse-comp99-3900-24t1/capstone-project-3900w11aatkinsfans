@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just a news item from last week family of five goes climbing in the alps",
+            "count": 1
+        }
     },
     "clusterList": [
         {

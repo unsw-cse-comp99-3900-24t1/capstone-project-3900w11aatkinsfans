@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "gee"
+        "label": {
+            "phrase": "gee wasn't that plot point awfully fucked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

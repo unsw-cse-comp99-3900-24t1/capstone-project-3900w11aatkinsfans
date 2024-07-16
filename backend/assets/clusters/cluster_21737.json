@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and really the most intelligent way of doing it was the wall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "atlanta"
+        "label": {
+            "phrase": "atlanta had some kind of creative shakeup",
+            "count": 1
+        }
     },
     "clusterList": [
         {

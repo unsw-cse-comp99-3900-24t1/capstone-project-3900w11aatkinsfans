@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not everyone realizes all that an allergist can do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

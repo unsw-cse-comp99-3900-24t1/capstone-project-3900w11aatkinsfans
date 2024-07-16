@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "prison"
+        "label": {
+            "phrase": "prison break acesso total",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the politically incorrect weather guys",
+            "count": 1
+        }
     },
     "clusterList": [
         {

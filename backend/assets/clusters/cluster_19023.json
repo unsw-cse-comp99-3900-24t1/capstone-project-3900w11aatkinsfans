@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we eliminated redundant nonessential positions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "death"
+        "label": {
+            "phrase": "death to the shah",
+            "count": 1
+        }
     },
     "clusterList": [
         {

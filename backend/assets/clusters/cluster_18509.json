@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "time"
+        "label": {
+            "phrase": "time to lean time to clean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

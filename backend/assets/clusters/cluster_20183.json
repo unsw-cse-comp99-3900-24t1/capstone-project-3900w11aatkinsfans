@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "minus"
+        "label": {
+            "phrase": "minus 100 for minor repairs and cleaning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

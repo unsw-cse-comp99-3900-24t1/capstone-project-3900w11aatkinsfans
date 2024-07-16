@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you at least see the mailbox from your house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

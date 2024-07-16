@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "ledger"
+        "label": {
+            "phrase": "ledger is way better than nicholson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

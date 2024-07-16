@@ -12,7 +12,10 @@
             "04:28",
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the surge worked",
+            "count": 2
+        }
     },
     "clusterList": [
         {

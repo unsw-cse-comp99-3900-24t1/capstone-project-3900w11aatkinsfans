@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all victims were female hispanics spanish-speaking only",
+            "count": 1
+        }
     },
     "clusterList": [
         {

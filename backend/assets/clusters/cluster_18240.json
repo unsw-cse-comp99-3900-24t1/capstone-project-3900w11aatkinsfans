@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take a stab at it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

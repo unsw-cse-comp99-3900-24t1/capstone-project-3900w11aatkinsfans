@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "let"
+        "label": {
+            "phrase": "let the other guys contribute",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -18,7 +18,10 @@
             "04:24",
             "04:45"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "congratulations you survived your first biopsy",
+            "count": 2
+        }
     },
     "clusterList": [
         {

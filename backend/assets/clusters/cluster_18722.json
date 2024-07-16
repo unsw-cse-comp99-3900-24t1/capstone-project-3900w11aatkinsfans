@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we demand to know the full truth about this distressing affair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

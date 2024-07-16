@@ -56,7 +56,10 @@
             "04:32",
             "04:35"
         ],
-        "label": "know"
+        "label": {
+            "phrase": "know it all",
+            "count": 7
+        }
     },
     "clusterList": [
         {

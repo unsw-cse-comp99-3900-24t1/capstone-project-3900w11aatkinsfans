@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i can see a market opportunity emerging for an ultra-light-duty pickup truck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

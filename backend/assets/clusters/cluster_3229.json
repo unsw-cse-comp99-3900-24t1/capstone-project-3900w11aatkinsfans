@@ -16,7 +16,10 @@
             "02:32",
             "02:42"
         ],
-        "label": "toys"
+        "label": {
+            "phrase": "toys for tots train",
+            "count": 6
+        }
     },
     "clusterList": [
         {

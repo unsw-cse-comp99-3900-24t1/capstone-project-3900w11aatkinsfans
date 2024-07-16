@@ -10,7 +10,10 @@
             "04:13",
             "04:33"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've had a new car since forever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

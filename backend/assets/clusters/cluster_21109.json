@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i do not blame them for not stopping for me they really were running for their lives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

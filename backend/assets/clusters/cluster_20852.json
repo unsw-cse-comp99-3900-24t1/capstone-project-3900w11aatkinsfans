@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when a pet dies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the superliga disciplinary committee consists of members from mls fmf and concacaf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

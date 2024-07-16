@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is that they do things properly in an orderly way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

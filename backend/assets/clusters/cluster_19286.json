@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone has a size 42 shoe and a cartoon look",
+            "count": 1
+        }
     },
     "clusterList": [
         {

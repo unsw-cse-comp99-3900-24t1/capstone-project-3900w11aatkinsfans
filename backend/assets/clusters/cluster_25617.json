@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "search"
+        "label": {
+            "phrase": "search and destroy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

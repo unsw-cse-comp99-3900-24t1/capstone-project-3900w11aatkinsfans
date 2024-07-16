@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "pull"
+        "label": {
+            "phrase": "pull this tab",
+            "count": 1
+        }
     },
     "clusterList": [
         {

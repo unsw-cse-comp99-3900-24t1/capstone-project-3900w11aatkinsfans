@@ -12,7 +12,10 @@
             "04:04",
             "04:18"
         ],
-        "label": "each"
+        "label": {
+            "phrase": "this time it was different",
+            "count": 2
+        }
     },
     "clusterList": [
         {

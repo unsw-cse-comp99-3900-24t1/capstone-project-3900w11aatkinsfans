@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a certain age group that comes from india and spent their adult life in different countries but have memories of the country from childhood",
+            "count": 1
+        }
     },
     "clusterList": [
         {

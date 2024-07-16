@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we really don't expect the science on this to change so we are confident that it will be deemed safe again in two years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

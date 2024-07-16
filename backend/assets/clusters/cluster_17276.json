@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can quit glamour whenever you want",
+            "count": 1
+        }
     },
     "clusterList": [
         {

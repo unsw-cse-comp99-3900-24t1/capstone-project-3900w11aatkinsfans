@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "thousands"
+        "label": {
+            "phrase": "thousands laid off in california",
+            "count": 1
+        }
     },
     "clusterList": [
         {

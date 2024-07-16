@@ -14,7 +14,10 @@
             "04:15",
             "04:55"
         ],
-        "label": "learned"
+        "label": {
+            "phrase": "learned so much",
+            "count": 1
+        }
     },
     "clusterList": [
         {

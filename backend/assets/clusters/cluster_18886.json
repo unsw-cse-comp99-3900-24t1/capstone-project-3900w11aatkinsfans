@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "happy"
+        "label": {
+            "phrase": "happy productive classroom create a classroom atmosphere in which children feel comfortable and secure and classmates support one another",
+            "count": 1
+        }
     },
     "clusterList": [
         {

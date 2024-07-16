@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i was not at a meeting that fits the description you've given",
+            "count": 1
+        }
     },
     "clusterList": [
         {

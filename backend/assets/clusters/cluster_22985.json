@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they don't have to have 100 percent entity backing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

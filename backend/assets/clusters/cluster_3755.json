@@ -12,7 +12,10 @@
             "01:06",
             "01:47"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is an old charge that karadzic started in 1996",
+            "count": 5
+        }
     },
     "clusterList": [
         {

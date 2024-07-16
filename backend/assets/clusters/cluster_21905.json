@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that means they never tow they never haul and they never go off-road",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -18,7 +18,10 @@
             "03:15",
             "04:24"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they won't do so at friday's meeting",
+            "count": 5
+        }
     },
     "clusterList": [
         {

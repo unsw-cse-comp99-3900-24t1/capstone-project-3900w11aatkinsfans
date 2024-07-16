@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look mummy there's an aeroplane up in the sky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

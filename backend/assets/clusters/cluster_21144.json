@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of his first words after mama dada and dog was basketball",
+            "count": 1
+        }
     },
     "clusterList": [
         {

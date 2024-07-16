@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are we in your address book",
+            "count": 1
+        }
     },
     "clusterList": [
         {

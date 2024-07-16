@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "meredith's"
+        "label": {
+            "phrase": "meredith's friend thinks that thomas aquinus should make christian bale the sixth way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

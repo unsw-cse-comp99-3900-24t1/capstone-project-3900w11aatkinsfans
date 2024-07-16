@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "cup"
+        "label": {
+            "phrase": "cup of kindness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

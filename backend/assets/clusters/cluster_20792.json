@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "positions"
+        "label": {
+            "phrase": "positions are staked out in the opening and response briefs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

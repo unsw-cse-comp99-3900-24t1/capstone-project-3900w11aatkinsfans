@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i strongly thought about boycotting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

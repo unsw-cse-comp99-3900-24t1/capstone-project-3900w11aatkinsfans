@@ -8,7 +8,10 @@
             "02:42",
             "03:35"
         ],
-        "label": "cloud"
+        "label": {
+            "phrase": "cloud and radiation budget changes associated with tropical intraseasonal oscillations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

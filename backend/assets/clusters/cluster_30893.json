@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "pump"
+        "label": {
+            "phrase": "pump it up when you don't really need it pump it up until you can feel it down in the pleasure center hell bent or heaven-sent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

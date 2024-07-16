@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "wait"
+        "label": {
+            "phrase": "wait is this the same bozo that said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

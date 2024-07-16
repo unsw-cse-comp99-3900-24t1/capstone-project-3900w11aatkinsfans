@@ -6,7 +6,10 @@
         "xLabels": [
             "01:49"
         ],
-        "label": "input"
+        "label": {
+            "phrase": "input is required",
+            "count": 1
+        }
     },
     "clusterList": [
         {

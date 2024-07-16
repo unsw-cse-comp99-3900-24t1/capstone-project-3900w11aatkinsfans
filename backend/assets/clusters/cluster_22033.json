@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give blank check to treasury",
+            "count": 1
+        }
     },
     "clusterList": [
         {

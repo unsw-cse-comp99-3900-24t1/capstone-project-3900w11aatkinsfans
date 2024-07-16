@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all for one and one for all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

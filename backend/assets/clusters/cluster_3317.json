@@ -10,7 +10,10 @@
             "03:21",
             "04:21"
         ],
-        "label": "credit"
+        "label": {
+            "phrase": "credit card spending in general is much softer",
+            "count": 3
+        }
     },
     "clusterList": [
         {

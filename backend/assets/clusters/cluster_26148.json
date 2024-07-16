@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too complex too soon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

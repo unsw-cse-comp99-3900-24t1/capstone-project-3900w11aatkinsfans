@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've got stripes on yer arm toots",
+            "count": 1
+        }
     },
     "clusterList": [
         {

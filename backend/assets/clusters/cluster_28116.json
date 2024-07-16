@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "part"
+        "label": {
+            "phrase": "part of a new cocktail which holds great promise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

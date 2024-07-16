@@ -32,7 +32,10 @@
             "04:55",
             "05:05"
         ],
-        "label": "major-league"
+        "label": {
+            "phrase": "he still has the best swing in baseball",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will my clients even do the survey",
+            "count": 1
+        }
     },
     "clusterList": [
         {

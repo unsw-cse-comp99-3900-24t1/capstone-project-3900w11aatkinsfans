@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're highly qualified",
+            "count": 1
+        }
     },
     "clusterList": [
         {

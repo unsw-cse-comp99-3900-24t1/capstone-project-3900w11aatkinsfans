@@ -8,7 +8,10 @@
             "02:46",
             "03:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the conversation cannot stop on monday",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "solid"
+        "label": {
+            "phrase": "solid gold coins spinning on solid bars of silver",
+            "count": 1
+        }
     },
     "clusterList": [
         {

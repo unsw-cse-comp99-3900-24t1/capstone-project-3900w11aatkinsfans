@@ -8,7 +8,10 @@
             "00:04",
             "04:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have other priorities",
+            "count": 2
+        }
     },
     "clusterList": [
         {

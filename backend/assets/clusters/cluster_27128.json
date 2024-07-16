@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he doesn't want to touch him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

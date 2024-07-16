@@ -10,7 +10,10 @@
             "03:18",
             "03:55"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is he trying to learn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

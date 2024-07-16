@@ -10,7 +10,10 @@
             "02:33",
             "04:35"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't sit too close",
+            "count": 1
+        }
     },
     "clusterList": [
         {

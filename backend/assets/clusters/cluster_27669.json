@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "nobody"
+        "label": {
+            "phrase": "nobody came running in to wake me up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

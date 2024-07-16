@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my time outside the womb",
+            "count": 1
+        }
     },
     "clusterList": [
         {

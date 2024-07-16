@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh did you see my other tree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

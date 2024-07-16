@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the governor signed the order the state controller counteracted it we really don't know what's going to happen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

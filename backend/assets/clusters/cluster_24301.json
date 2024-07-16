@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "filppula"
+        "label": {
+            "phrase": "filppula does a little bit of everything for us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

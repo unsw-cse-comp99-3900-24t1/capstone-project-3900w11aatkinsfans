@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're able to share with them and they can share with you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

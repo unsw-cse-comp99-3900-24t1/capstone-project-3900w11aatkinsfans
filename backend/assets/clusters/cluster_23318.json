@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "except"
+        "label": {
+            "phrase": "except to say that over a time scale of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

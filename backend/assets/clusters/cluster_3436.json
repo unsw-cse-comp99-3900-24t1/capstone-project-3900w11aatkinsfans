@@ -16,7 +16,10 @@
             "03:34",
             "04:09"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "player of the game",
+            "count": 2
+        }
     },
     "clusterList": [
         {

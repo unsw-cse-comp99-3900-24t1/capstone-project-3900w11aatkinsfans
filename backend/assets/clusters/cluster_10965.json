@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they have multiple roles and may not be as campus-oriented",
+            "count": 1
+        }
     },
     "clusterList": [
         {

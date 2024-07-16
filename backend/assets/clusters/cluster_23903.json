@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "blackouts"
+        "label": {
+            "phrase": "blackouts and brownouts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

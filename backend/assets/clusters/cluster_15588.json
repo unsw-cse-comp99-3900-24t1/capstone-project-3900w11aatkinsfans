@@ -6,7 +6,10 @@
         "xLabels": [
             "00:32"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in less than 15 days the criirad has been informed of four malfunctions in four nuclear plants leading to the accidental contamination of 126 workers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

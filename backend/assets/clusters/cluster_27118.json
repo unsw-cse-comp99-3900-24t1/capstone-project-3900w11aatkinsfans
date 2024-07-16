@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "let"
+        "label": {
+            "phrase": "let me get this straight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

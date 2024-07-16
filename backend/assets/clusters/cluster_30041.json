@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "civility"
+        "label": {
+            "phrase": "civility doesn't inhibit speech it enables it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

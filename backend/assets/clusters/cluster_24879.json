@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "interestingly"
+        "label": {
+            "phrase": "interestingly bonhoeffer does not attack religion as such",
+            "count": 1
+        }
     },
     "clusterList": [
         {

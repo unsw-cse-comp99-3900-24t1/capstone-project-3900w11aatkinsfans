@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how many dumps did i have to take today i took a lot of dumps today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

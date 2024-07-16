@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your life views make a lot of sense to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

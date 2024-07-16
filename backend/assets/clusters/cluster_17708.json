@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "you'd"
+        "label": {
+            "phrase": "you'd be surprised how many criminals want to brag about what they've done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

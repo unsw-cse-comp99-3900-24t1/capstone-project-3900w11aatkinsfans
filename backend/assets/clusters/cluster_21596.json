@@ -6,7 +6,10 @@
         "xLabels": [
             "04:44"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't ask how",
+            "count": 1
+        }
     },
     "clusterList": [
         {

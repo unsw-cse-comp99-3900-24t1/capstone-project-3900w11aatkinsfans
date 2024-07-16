@@ -6,7 +6,10 @@
         "xLabels": [
             "00:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i finish my checks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

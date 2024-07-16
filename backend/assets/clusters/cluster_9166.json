@@ -8,7 +8,10 @@
             "01:18",
             "03:18"
         ],
-        "label": "retail"
+        "label": {
+            "phrase": "retail store manager assistant manager",
+            "count": 1
+        }
     },
     "clusterList": [
         {

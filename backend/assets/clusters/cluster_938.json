@@ -30,7 +30,10 @@
             "04:33",
             "05:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the one that got away",
+            "count": 4
+        }
     },
     "clusterList": [
         {

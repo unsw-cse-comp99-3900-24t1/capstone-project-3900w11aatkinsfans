@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "children's"
+        "label": {
+            "phrase": "children's memorial flag",
+            "count": 1
+        }
     },
     "clusterList": [
         {

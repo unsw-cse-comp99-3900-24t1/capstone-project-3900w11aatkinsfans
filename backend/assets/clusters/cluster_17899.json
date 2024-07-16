@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm pretty busy so i can't go anywhere i think i'll just head next door and get a bucket of slop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

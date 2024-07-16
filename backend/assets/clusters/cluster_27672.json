@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i know saxby is going to win another term this november",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a disgraceful thing to say sam and don't do it again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

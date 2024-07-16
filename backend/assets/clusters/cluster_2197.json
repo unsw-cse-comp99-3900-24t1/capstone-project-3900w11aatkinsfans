@@ -14,7 +14,10 @@
             "01:42",
             "04:51"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "no child left behind",
+            "count": 3
+        }
     },
     "clusterList": [
         {

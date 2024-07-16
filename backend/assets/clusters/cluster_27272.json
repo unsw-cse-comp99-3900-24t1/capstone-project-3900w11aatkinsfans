@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "has"
+        "label": {
+            "phrase": "has sting turned to the dark side",
+            "count": 1
+        }
     },
     "clusterList": [
         {

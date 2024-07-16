@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get your over-priced lemon smoothies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

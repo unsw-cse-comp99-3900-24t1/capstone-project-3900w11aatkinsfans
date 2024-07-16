@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "donna"
+        "label": {
+            "phrase": "donna reed i'll take the moon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all standard caveats apply",
+            "count": 1
+        }
     },
     "clusterList": [
         {

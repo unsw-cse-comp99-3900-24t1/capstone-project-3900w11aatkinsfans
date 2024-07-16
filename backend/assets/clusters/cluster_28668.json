@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "am"
+        "label": {
+            "phrase": "am i really willing to risk all of this to do what i think is right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

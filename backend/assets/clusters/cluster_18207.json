@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "wanting"
+        "label": {
+            "phrase": "wanting to meet you yet not being able to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

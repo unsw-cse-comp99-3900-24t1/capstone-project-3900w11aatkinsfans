@@ -10,7 +10,10 @@
             "02:15",
             "05:00"
         ],
-        "label": "now's"
+        "label": {
+            "phrase": "now's a good time for a beer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

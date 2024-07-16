@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think hawking is the most overrated physicist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

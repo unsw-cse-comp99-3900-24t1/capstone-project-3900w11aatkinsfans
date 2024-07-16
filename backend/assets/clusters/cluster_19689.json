@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "fall"
+        "label": {
+            "phrase": "fall seven times stand up eight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

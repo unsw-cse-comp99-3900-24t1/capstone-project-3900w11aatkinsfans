@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i want to follow athena",
+            "count": 1
+        }
     },
     "clusterList": [
         {

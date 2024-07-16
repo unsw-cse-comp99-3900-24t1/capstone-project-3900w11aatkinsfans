@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the monolith is a symbol of the revolution's strength",
+            "count": 1
+        }
     },
     "clusterList": [
         {

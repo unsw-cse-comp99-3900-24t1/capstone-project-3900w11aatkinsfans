@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "fred"
+        "label": {
+            "phrase": "fred sawyer and huckabee finn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

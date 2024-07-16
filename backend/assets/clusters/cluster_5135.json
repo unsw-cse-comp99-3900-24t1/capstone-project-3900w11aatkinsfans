@@ -6,7 +6,10 @@
         "xLabels": [
             "02:37"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are two kinds of people in the world those who love chocolate and communists",
+            "count": 4
+        }
     },
     "clusterList": [
         {

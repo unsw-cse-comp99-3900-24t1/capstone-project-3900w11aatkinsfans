@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "be"
+        "label": {
+            "phrase": "be strong and do exploits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

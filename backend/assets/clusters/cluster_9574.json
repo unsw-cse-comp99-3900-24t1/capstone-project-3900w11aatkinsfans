@@ -8,7 +8,10 @@
             "01:12",
             "01:13"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you never know how long it's going to last",
+            "count": 2
+        }
     },
     "clusterList": [
         {

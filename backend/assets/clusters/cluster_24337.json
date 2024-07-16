@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "after"
+        "label": {
+            "phrase": "after battery replacement contact ac with battery using tweezers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is the real world coming to carroll gardens or not issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

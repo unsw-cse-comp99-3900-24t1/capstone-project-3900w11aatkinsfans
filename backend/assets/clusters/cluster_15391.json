@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "waiting"
+        "label": {
+            "phrase": "waiting for inspiration",
+            "count": 1
+        }
     },
     "clusterList": [
         {

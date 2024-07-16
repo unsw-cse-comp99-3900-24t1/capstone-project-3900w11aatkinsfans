@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are distracted",
+            "count": 2
+        }
     },
     "clusterList": [
         {

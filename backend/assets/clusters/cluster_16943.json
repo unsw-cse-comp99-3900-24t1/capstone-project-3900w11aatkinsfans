@@ -6,7 +6,10 @@
         "xLabels": [
             "00:52"
         ],
-        "label": "minimal"
+        "label": {
+            "phrase": "minimal energy input",
+            "count": 1
+        }
     },
     "clusterList": [
         {

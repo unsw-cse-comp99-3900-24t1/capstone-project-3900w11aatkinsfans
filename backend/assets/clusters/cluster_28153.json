@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "andreas"
+        "label": {
+            "phrase": "andreas andersson you recorded the shared bill",
+            "count": 1
+        }
     },
     "clusterList": [
         {

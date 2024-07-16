@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "landed"
+        "label": {
+            "phrase": "landed in my inbox courtesy of lrb",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "mostly"
+        "label": {
+            "phrase": "mostly on time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the order is without prejudice",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the godfather of modern tattoo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

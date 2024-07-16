@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's time to act it's time to stop playing politics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

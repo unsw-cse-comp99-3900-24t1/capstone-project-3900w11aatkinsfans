@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's it in a nutshell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

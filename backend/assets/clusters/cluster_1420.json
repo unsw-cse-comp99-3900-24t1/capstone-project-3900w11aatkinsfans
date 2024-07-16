@@ -18,7 +18,10 @@
             "04:12",
             "04:28"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "why did the chicken cross the road",
+            "count": 9
+        }
     },
     "clusterList": [
         {

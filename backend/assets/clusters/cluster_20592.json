@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "hmm"
+        "label": {
+            "phrase": "hmm who knows what the big to-do is about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

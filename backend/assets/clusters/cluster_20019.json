@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "skater"
+        "label": {
+            "phrase": "skater of the year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

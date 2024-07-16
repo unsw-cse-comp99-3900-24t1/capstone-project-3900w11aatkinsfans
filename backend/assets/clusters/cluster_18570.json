@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the merlin is the first of a new generation of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

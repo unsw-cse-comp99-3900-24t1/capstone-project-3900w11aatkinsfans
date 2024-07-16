@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "neighbors"
+        "label": {
+            "phrase": "neighbors with ladders",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "best"
+        "label": {
+            "phrase": "best move of the night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

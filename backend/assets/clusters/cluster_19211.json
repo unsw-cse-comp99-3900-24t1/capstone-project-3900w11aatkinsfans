@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "proved"
+        "label": {
+            "phrase": "proved they belong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

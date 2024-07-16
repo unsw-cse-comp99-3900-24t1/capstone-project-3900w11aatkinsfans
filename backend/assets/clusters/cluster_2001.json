@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "nipples"
+        "label": {
+            "phrase": "nipples have limited support for",
+            "count": 9
+        }
     },
     "clusterList": [
         {

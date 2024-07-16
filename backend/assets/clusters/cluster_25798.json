@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why leave the tellin up to everybody else",
+            "count": 1
+        }
     },
     "clusterList": [
         {

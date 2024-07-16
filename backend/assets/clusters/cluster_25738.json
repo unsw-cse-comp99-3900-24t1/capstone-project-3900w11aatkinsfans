@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is difficult to get a man to understand something when his salary depends upon him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just doing something for the sake of doing something",
+            "count": 1
+        }
     },
     "clusterList": [
         {

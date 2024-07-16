@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "louder"
+        "label": {
+            "phrase": "louder paying more attention",
+            "count": 1
+        }
     },
     "clusterList": [
         {

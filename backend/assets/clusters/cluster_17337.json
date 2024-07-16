@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "lines"
+        "label": {
+            "phrase": "lines down the road people were so enthusiastic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

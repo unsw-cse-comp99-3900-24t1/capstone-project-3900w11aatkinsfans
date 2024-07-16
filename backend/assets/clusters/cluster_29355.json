@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you care send a bear",
+            "count": 1
+        }
     },
     "clusterList": [
         {

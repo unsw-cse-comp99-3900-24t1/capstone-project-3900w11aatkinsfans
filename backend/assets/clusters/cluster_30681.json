@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you might not be the smartest marines but you are damn sure gonna be the strongest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

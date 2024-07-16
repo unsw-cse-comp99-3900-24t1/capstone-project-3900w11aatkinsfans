@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't really know but i'm sure it will come to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

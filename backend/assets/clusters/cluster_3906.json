@@ -14,7 +14,10 @@
             "03:14",
             "04:22"
         ],
-        "label": "even"
+        "label": {
+            "phrase": "even if it wasn't about penguins",
+            "count": 1
+        }
     },
     "clusterList": [
         {

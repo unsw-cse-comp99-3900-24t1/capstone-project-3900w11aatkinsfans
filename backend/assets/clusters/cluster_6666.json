@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "put"
+        "label": {
+            "phrase": "put the fly closer to the fish",
+            "count": 3
+        }
     },
     "clusterList": [
         {

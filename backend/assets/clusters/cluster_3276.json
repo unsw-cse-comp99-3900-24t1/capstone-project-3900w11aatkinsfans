@@ -12,7 +12,10 @@
             "01:50",
             "04:07"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "oops sorry we're already closed",
+            "count": 3
+        }
     },
     "clusterList": [
         {

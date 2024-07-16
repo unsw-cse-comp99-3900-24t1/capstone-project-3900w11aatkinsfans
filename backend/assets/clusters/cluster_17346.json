@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "business"
+        "label": {
+            "phrase": "business is all about timing which in this case worked against us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

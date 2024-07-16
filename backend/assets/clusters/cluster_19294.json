@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give us a call in two weeks time and say yes or no",
+            "count": 1
+        }
     },
     "clusterList": [
         {

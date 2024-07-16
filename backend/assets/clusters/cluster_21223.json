@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know a conjuror gets no credit when once he has explained his trick and if i show you too much of my method of working you will come to the conclusion that i am a very ordinary individual after all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

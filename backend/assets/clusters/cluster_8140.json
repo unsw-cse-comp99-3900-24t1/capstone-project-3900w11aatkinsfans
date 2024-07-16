@@ -8,7 +8,10 @@
             "00:10",
             "00:18"
         ],
-        "label": "put"
+        "label": {
+            "phrase": "put the blackberry on the iphone",
+            "count": 2
+        }
     },
     "clusterList": [
         {

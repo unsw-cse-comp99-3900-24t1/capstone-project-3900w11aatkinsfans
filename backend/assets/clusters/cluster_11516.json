@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in a complex system malfunction and even total nonfunction may not be detected for long periods if ever",
+            "count": 2
+        }
     },
     "clusterList": [
         {

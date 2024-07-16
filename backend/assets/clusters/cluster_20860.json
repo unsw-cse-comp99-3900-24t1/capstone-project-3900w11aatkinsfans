@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "lord"
+        "label": {
+            "phrase": "lord someone must have an illegal scooter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

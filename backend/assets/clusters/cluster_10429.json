@@ -8,7 +8,10 @@
             "02:04",
             "02:08"
         ],
-        "label": "bonne"
+        "label": {
+            "phrase": "bonne f te",
+            "count": 2
+        }
     },
     "clusterList": [
         {

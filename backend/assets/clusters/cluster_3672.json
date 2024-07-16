@@ -14,7 +14,10 @@
             "03:09",
             "03:24"
         ],
-        "label": "experiences"
+        "label": {
+            "phrase": "experiences threat modeling at microsoft",
+            "count": 5
+        }
     },
     "clusterList": [
         {

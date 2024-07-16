@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "wells"
+        "label": {
+            "phrase": "wells fargo makes all mortgage lending decisions based on a combination of proven risk predictors such as loan-to-value debt-to-income credit scores and other factors related to the borrower's financial situation the type of loan requested and the property type",
+            "count": 1
+        }
     },
     "clusterList": [
         {

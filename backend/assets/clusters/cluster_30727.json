@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're more timid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's terrible miss just terrible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

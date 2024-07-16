@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "whoever"
+        "label": {
+            "phrase": "whoever gets there first",
+            "count": 1
+        }
     },
     "clusterList": [
         {

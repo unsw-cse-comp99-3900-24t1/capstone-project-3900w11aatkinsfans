@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a big leap for us to go oh social computing that makes a lot of sense",
+            "count": 1
+        }
     },
     "clusterList": [
         {

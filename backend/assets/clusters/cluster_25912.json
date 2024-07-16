@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "going"
+        "label": {
+            "phrase": "going green with our new headquarters was an easy decision",
+            "count": 1
+        }
     },
     "clusterList": [
         {

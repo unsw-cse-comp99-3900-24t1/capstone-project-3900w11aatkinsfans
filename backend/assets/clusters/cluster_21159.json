@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do your homework before moving on to the fun stuff",
+            "count": 1
+        }
     },
     "clusterList": [
         {

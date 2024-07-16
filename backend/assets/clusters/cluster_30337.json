@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've been on the other side the last couple years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

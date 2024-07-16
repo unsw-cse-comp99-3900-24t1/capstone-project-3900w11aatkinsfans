@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "charismatic"
+        "label": {
+            "phrase": "charismatic aspiring bali governor sends his regards",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "03:08",
             "03:13"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "this guy knows what i'm talking about",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "fit"
+        "label": {
+            "phrase": "fit for occupancy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

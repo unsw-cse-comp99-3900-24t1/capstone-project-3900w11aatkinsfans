@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this deduction can reduce the tax liability for homeowners who don't itemize",
+            "count": 1
+        }
     },
     "clusterList": [
         {

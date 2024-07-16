@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "duncan"
+        "label": {
+            "phrase": "duncan bobby duncan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

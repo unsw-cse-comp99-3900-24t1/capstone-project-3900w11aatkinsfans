@@ -12,7 +12,10 @@
             "02:34",
             "03:43"
         ],
-        "label": "instant"
+        "label": {
+            "phrase": "instant english service for translation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

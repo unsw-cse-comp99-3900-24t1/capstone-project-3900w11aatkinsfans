@@ -6,7 +6,10 @@
         "xLabels": [
             "00:15"
         ],
-        "label": "data"
+        "label": {
+            "phrase": "data consistently shows there are vacancies in occupational therapy particularly in areas such as paediatrics occupational rehabilitation and mental health",
+            "count": 1
+        }
     },
     "clusterList": [
         {

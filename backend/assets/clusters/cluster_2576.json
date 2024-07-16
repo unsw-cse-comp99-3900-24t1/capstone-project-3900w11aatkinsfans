@@ -12,7 +12,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "bleep sandwich that hurts",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ghost of heritage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

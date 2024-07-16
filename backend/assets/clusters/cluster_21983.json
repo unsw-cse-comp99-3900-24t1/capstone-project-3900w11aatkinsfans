@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you didn't know that you weren't supposed to destroy the dvd",
+            "count": 1
+        }
     },
     "clusterList": [
         {

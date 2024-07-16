@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "thomas"
+        "label": {
+            "phrase": "thomas will you come to my village i have to ask them something and i need you to be there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

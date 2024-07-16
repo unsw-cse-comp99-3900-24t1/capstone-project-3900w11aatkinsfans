@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "testing"
+        "label": {
+            "phrase": "testing blog wp-admin async-upload",
+            "count": 1
+        }
     },
     "clusterList": [
         {

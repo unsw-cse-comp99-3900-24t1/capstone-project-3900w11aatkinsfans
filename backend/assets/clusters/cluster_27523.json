@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "turkey"
+        "label": {
+            "phrase": "turkey moves on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

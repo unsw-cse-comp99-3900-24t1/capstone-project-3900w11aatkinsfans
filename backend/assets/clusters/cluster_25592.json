@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "father"
+        "label": {
+            "phrase": "father of bluegrass",
+            "count": 1
+        }
     },
     "clusterList": [
         {

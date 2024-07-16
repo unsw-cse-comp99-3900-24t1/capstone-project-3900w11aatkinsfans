@@ -12,7 +12,10 @@
             "02:30",
             "04:06"
         ],
-        "label": "information"
+        "label": {
+            "phrase": "information appearing on company web sites does not need to satisfy a printer-friendly standard or be in a format comparable to paper-based information unless the commission's rules explicitly require it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

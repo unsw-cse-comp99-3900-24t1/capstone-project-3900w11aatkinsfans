@@ -16,7 +16,10 @@
             "02:28",
             "03:15"
         ],
-        "label": "where's"
+        "label": {
+            "phrase": "where's the beef",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "02:19",
             "03:22"
         ],
-        "label": "bowled"
+        "label": {
+            "phrase": "bowled a fantastic spell",
+            "count": 2
+        }
     },
     "clusterList": [
         {

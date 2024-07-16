@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "research"
+        "label": {
+            "phrase": "research data-whose problem is it",
+            "count": 2
+        }
     },
     "clusterList": [
         {

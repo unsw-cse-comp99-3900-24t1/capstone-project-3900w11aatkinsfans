@@ -10,7 +10,10 @@
             "03:24",
             "04:00"
         ],
-        "label": "miles"
+        "label": {
+            "phrase": "miles what happened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

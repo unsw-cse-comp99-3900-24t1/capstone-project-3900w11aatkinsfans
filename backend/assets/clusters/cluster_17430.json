@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "scope"
+        "label": {
+            "phrase": "scope easy and efficient parallel processing of massive data sets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

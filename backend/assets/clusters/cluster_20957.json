@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are we worried we certainly won't be losing any sleep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

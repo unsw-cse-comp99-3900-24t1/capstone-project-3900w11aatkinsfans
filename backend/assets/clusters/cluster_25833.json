@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "you'll"
+        "label": {
+            "phrase": "you'll get fined if you cuss in front of a lady",
+            "count": 1
+        }
     },
     "clusterList": [
         {

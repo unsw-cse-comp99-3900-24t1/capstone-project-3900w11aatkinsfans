@@ -6,7 +6,10 @@
         "xLabels": [
             "01:57"
         ],
-        "label": "homeland"
+        "label": {
+            "phrase": "homeland security comes to second life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

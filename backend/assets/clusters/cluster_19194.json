@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "remove"
+        "label": {
+            "phrase": "remove noise and jpeg artifacts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

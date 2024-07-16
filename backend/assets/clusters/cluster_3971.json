@@ -14,7 +14,10 @@
             "02:51",
             "03:18"
         ],
-        "label": "hi"
+        "label": {
+            "phrase": "hi i'm the black guy look at me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

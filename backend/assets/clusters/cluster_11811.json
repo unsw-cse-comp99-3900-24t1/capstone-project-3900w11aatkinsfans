@@ -8,7 +8,10 @@
             "00:00",
             "02:24"
         ],
-        "label": "yup"
+        "label": {
+            "phrase": "yup here it goes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

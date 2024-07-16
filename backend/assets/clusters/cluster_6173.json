@@ -10,7 +10,10 @@
             "04:03",
             "04:22"
         ],
-        "label": "ready"
+        "label": {
+            "phrase": "ready for some rithmetic dad",
+            "count": 3
+        }
     },
     "clusterList": [
         {

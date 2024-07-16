@@ -10,7 +10,10 @@
             "02:42",
             "05:04"
         ],
-        "label": "down"
+        "label": {
+            "phrase": "down is the new up",
+            "count": 2
+        }
     },
     "clusterList": [
         {

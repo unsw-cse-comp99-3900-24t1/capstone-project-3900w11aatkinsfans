@@ -6,7 +6,10 @@
         "xLabels": [
             "01:40"
         ],
-        "label": "anybody"
+        "label": {
+            "phrase": "anybody up on that raft with ya",
+            "count": 1
+        }
     },
     "clusterList": [
         {

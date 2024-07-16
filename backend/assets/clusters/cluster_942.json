@@ -22,7 +22,10 @@
             "03:14",
             "03:42"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "fly me to the moon",
+            "count": 11
+        }
     },
     "clusterList": [
         {

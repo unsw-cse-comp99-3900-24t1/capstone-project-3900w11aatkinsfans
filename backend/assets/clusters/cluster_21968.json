@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole thing really makes me crazy sometimes and as i said a little scarred too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

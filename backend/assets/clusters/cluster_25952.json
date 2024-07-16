@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "hepatitis"
+        "label": {
+            "phrase": "hepatitis plural hepatitides implies injury to the liver characterized by the presence of inflammatory cells in the tissue of the organ",
+            "count": 1
+        }
     },
     "clusterList": [
         {

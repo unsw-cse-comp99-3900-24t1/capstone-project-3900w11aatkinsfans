@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "where's"
+        "label": {
+            "phrase": "where's indonesia government",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "always"
+        "label": {
+            "phrase": "always been a good supporter and friend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

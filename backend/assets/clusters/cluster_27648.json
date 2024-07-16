@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know how to make a guy feel welcome",
+            "count": 1
+        }
     },
     "clusterList": [
         {

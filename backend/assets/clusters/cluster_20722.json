@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "earn"
+        "label": {
+            "phrase": "earn your spurs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

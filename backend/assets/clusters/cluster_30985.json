@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is no substitute for being there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

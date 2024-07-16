@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "divided"
+        "label": {
+            "phrase": "divided by a common degree program",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:34"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no only on united flights",
+            "count": 1
+        }
     },
     "clusterList": [
         {

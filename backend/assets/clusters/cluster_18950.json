@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "progress"
+        "label": {
+            "phrase": "progress being made on new corner brook hospital",
+            "count": 1
+        }
     },
     "clusterList": [
         {

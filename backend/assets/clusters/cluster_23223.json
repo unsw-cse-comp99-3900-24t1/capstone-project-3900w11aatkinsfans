@@ -6,7 +6,10 @@
         "xLabels": [
             "02:40"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone click i like it on anyone who is on the list",
+            "count": 1
+        }
     },
     "clusterList": [
         {

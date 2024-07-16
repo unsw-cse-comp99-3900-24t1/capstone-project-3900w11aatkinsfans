@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "tell"
+        "label": {
+            "phrase": "tell us about your amazing kabutops tobias",
+            "count": 1
+        }
     },
     "clusterList": [
         {

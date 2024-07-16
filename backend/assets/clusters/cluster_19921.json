@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "snappy"
+        "label": {
+            "phrase": "snappy answers to stupid questions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what do you miss",
+            "count": 1
+        }
     },
     "clusterList": [
         {

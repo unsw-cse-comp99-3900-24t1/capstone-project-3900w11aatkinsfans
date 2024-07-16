@@ -6,7 +6,10 @@
         "xLabels": [
             "03:44"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in defense of selection for nondisease genes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

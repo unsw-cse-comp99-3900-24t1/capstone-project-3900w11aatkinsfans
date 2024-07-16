@@ -10,7 +10,10 @@
             "01:07",
             "02:19"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well that was rude",
+            "count": 1
+        }
     },
     "clusterList": [
         {

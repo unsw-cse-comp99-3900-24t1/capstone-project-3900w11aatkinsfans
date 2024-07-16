@@ -14,7 +14,10 @@
             "03:38",
             "04:56"
         ],
-        "label": "prime"
+        "label": {
+            "phrase": "prime the pump",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "much"
+        "label": {
+            "phrase": "much larger presence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

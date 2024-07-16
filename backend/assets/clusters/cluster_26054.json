@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "adaptive"
+        "label": {
+            "phrase": "adaptive solar tree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

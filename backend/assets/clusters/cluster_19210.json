@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it ain't never comin back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

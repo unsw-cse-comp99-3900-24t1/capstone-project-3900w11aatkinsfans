@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the doctor-team has wanted to win the championship in the worst way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

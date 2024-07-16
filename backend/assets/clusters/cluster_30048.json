@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "obscure"
+        "label": {
+            "phrase": "obscure tech conference abc opens tonight and i saw these three blogger a-listers there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

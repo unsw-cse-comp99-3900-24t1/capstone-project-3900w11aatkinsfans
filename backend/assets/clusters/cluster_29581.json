@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "vinegar"
+        "label": {
+            "phrase": "vinegar you salty cur i love you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

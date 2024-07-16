@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "enriched"
+        "label": {
+            "phrase": "enriched with vitamins and minerals",
+            "count": 1
+        }
     },
     "clusterList": [
         {

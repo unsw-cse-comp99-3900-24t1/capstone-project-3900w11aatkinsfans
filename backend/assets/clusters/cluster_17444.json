@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "use"
+        "label": {
+            "phrase": "use a time delay so youtube won't think you're a robot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

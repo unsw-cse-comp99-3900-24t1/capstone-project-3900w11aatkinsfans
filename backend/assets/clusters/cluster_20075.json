@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our main focus is not to get ran on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

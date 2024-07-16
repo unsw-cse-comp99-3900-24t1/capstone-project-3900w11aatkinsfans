@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a shakeup",
+            "count": 1
+        }
     },
     "clusterList": [
         {

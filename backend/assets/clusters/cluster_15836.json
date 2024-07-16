@@ -6,7 +6,10 @@
         "xLabels": [
             "00:38"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we can't hang around any longer for their support",
+            "count": 1
+        }
     },
     "clusterList": [
         {

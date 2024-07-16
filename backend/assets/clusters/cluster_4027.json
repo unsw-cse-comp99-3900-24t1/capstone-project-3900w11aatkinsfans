@@ -12,7 +12,10 @@
             "01:01",
             "04:45"
         ],
-        "label": "monday"
+        "label": {
+            "phrase": "the wesleyan hour",
+            "count": 2
+        }
     },
     "clusterList": [
         {

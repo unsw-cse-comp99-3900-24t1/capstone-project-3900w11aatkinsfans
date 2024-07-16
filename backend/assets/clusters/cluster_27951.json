@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "basra"
+        "label": {
+            "phrase": "basra has got an awful lot of things going for it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

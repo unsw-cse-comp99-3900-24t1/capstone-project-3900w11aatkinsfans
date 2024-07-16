@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this haynesville fever has extended pretty far pretty fast",
+            "count": 1
+        }
     },
     "clusterList": [
         {

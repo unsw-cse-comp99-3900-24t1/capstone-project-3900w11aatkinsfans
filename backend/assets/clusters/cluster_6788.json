@@ -10,7 +10,10 @@
             "02:46",
             "04:33"
         ],
-        "label": "cool"
+        "label": {
+            "phrase": "cool movies no one saw",
+            "count": 1
+        }
     },
     "clusterList": [
         {

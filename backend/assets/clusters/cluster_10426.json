@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "endosulfan"
+        "label": {
+            "phrase": "endosulfan is the worst pesticide still in use in new zealand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

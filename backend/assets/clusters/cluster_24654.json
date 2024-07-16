@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when one person starts something like this then the next thing you know you have a whole group of people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

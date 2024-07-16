@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how many is not nearly as valuable as who",
+            "count": 1
+        }
     },
     "clusterList": [
         {

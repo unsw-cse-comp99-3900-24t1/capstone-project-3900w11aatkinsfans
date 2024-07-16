@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "online"
+        "label": {
+            "phrase": "online communications mgr search",
+            "count": 1
+        }
     },
     "clusterList": [
         {

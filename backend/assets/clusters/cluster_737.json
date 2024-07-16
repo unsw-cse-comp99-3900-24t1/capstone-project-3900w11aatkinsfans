@@ -26,7 +26,10 @@
             "04:23",
             "05:05"
         ],
-        "label": "fixes"
+        "label": {
+            "phrase": "fixes to improve stability and performance",
+            "count": 9
+        }
     },
     "clusterList": [
         {

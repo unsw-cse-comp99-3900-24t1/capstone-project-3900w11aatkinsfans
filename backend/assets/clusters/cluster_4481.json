@@ -12,7 +12,10 @@
             "04:12",
             "05:00"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in most cases military force isn't the best instrument",
+            "count": 4
+        }
     },
     "clusterList": [
         {

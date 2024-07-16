@@ -12,7 +12,10 @@
             "01:32",
             "03:22"
         ],
-        "label": "positive"
+        "label": {
+            "phrase": "banking real estate and construction sectors",
+            "count": 2
+        }
     },
     "clusterList": [
         {

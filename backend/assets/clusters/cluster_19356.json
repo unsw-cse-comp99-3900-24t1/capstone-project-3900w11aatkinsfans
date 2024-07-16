@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "lower"
+        "label": {
+            "phrase": "lower life forms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

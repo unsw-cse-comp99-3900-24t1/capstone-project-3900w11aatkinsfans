@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that is strictly in the talk stage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

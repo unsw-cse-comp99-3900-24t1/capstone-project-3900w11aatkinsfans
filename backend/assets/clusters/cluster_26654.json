@@ -6,7 +6,10 @@
         "xLabels": [
             "03:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the practice is to serve anyone who touched that van in any way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

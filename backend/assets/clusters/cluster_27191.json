@@ -6,7 +6,10 @@
         "xLabels": [
             "03:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the arts and cultural brochure is a creative way to attract more visitors to our arts and cultural district",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this room's gonna be my grave and there's no one who can save me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

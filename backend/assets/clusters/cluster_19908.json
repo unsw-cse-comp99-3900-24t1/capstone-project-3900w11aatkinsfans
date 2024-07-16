@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "reader"
+        "label": {
+            "phrase": "reader talks first rtf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

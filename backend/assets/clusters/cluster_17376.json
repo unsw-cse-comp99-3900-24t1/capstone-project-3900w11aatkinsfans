@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i exhort therefore that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

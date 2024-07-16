@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all decked out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

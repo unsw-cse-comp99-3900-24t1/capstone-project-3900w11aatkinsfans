@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "addresses"
+        "label": {
+            "phrase": "addresses only please",
+            "count": 1
+        }
     },
     "clusterList": [
         {

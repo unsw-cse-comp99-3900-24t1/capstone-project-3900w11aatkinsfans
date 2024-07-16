@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "self-contained"
+        "label": {
+            "phrase": "self-contained and insular",
+            "count": 1
+        }
     },
     "clusterList": [
         {

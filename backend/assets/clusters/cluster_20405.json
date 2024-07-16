@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just has taken more time than we thought",
+            "count": 1
+        }
     },
     "clusterList": [
         {

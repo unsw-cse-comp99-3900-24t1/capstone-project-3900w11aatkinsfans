@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you make it in the disco age",
+            "count": 1
+        }
     },
     "clusterList": [
         {

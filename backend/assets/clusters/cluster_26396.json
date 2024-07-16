@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of defiance to say the least",
+            "count": 1
+        }
     },
     "clusterList": [
         {

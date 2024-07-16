@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "generic"
+        "label": {
+            "phrase": "generic 105-key international",
+            "count": 1
+        }
     },
     "clusterList": [
         {

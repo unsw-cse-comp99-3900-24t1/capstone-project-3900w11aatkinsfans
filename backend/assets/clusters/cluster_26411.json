@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the terror once canned is now unleashed feel his wrath",
+            "count": 1
+        }
     },
     "clusterList": [
         {

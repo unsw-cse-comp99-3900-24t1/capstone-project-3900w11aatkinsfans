@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what would adam dunn cost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

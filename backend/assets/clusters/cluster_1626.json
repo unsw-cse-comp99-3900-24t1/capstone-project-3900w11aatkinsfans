@@ -24,7 +24,10 @@
             "04:23",
             "05:01"
         ],
-        "label": "significant"
+        "label": {
+            "phrase": "significant barriers to adaptation",
+            "count": 10
+        }
     },
     "clusterList": [
         {

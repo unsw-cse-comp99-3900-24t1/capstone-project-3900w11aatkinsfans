@@ -6,7 +6,10 @@
         "xLabels": [
             "00:05"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all the films i like are escapist i don't want to have reality thrown in my face when i go to the cinema i've never been a cinephile my friends give me dvds of bergman or truffaut and i never watch them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have to accept",
+            "count": 1
+        }
     },
     "clusterList": [
         {

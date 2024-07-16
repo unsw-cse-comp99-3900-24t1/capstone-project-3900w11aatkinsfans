@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well that my lovely is a honest to goodness radio cart machine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

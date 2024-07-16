@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a reprint of reminisces from the blackhat briefings asia 2001",
+            "count": 1
+        }
     },
     "clusterList": [
         {

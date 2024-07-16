@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the supply lines are the enemy's lifeline",
+            "count": 2
+        }
     },
     "clusterList": [
         {

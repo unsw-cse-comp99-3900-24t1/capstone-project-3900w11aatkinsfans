@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this trigger was not acceptable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

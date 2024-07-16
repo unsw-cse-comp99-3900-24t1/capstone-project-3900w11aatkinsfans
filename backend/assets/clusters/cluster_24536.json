@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's so funny you'll laugh so hard your lashes will curl all by themselves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

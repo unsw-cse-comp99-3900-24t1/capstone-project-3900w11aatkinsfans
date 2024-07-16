@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will they not return to egypt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

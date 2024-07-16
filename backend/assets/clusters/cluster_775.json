@@ -36,7 +36,10 @@
             "04:53",
             "04:59"
         ],
-        "label": "sick"
+        "label": {
+            "phrase": "sick in the head",
+            "count": 6
+        }
     },
     "clusterList": [
         {

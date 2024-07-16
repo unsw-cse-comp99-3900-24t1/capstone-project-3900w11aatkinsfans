@@ -6,7 +6,10 @@
         "xLabels": [
             "04:12"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the french connection",
+            "count": 1
+        }
     },
     "clusterList": [
         {

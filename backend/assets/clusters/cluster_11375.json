@@ -8,7 +8,10 @@
             "03:22",
             "04:24"
         ],
-        "label": "find"
+        "label": {
+            "phrase": "find use local name",
+            "count": 1
+        }
     },
     "clusterList": [
         {

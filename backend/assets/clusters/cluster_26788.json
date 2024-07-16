@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's an old saying in tennessee i know it's in texas probably in tennessee that says fool me once shame on shame on you fool me you can't get fooled again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

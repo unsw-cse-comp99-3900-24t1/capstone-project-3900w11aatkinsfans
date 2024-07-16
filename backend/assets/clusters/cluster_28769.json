@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sign of a superior mind is the ability to hold two opposing thoughts at the same time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

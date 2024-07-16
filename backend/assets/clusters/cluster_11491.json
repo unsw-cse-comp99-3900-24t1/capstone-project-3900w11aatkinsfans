@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "any"
+        "label": {
+            "phrase": "any background as to why having another device plugged into the fw port of my fw drive would cause this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

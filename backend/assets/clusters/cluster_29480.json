@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when jim brown played football the nfl had a leaguewide policy that players shall have no lawyers or agents when negotiating compensation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

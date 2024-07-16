@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "of"
+        "label": {
+            "phrase": "of and concerning",
+            "count": 6
+        }
     },
     "clusterList": [
         {

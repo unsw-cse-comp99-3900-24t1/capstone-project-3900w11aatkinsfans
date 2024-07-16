@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take your needle my child and work at your pattern it will come out a rose by and by",
+            "count": 1
+        }
     },
     "clusterList": [
         {

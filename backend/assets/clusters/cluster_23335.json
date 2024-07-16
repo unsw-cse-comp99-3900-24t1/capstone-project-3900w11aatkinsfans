@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "spencer"
+        "label": {
+            "phrase": "spencer has added a follow up to his rebuttal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

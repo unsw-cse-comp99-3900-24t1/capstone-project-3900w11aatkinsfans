@@ -30,7 +30,10 @@
             "04:23",
             "05:05"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a monster",
+            "count": 9
+        }
     },
     "clusterList": [
         {

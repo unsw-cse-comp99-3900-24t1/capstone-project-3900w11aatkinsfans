@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why would i swap my lada for a trabant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

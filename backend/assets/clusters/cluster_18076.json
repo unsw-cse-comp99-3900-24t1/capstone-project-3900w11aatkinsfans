@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well now it seems the circumstances have undergone a rather significant change wouldn't you agree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

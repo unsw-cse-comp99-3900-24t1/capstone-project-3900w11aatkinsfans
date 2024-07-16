@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "screw"
+        "label": {
+            "phrase": "screw you mister",
+            "count": 1
+        }
     },
     "clusterList": [
         {

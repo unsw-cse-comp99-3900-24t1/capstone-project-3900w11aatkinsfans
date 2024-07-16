@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "fiddling"
+        "label": {
+            "phrase": "fiddling with the numbers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

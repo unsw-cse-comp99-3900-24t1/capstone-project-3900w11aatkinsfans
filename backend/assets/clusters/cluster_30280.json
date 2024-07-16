@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "follow"
+        "label": {
+            "phrase": "follow the ranger",
+            "count": 1
+        }
     },
     "clusterList": [
         {

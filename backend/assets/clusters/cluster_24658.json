@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the yale game was big for him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

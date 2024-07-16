@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "stiff"
+        "label": {
+            "phrase": "stiff and welcome sentence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the taxpayers can no longer bear the brunt of this cost alone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

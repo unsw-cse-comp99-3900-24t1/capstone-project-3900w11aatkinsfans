@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "has"
+        "label": {
+            "phrase": "has been devastating to everybody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

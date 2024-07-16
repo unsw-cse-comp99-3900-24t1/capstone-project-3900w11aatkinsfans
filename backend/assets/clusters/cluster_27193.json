@@ -6,7 +6,10 @@
         "xLabels": [
             "03:58"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the idea has been around for almost a decade now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

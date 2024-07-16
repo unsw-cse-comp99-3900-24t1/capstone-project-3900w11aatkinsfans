@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "tried"
+        "label": {
+            "phrase": "tried and true",
+            "count": 1
+        }
     },
     "clusterList": [
         {

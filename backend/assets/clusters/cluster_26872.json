@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "online"
+        "label": {
+            "phrase": "online community for bead lovers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

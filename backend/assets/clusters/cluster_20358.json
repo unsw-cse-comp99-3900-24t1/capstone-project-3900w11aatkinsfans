@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "laughing"
+        "label": {
+            "phrase": "laughing and crying and praying and rocking often at the same time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

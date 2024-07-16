@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "wildly"
+        "label": {
+            "phrase": "wildly off the mark",
+            "count": 1
+        }
     },
     "clusterList": [
         {

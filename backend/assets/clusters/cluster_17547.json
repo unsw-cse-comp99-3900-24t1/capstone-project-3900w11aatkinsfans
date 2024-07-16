@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your phone's off the hook but you're not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

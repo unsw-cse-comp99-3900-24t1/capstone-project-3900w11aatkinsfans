@@ -6,7 +6,10 @@
         "xLabels": [
             "02:44"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was shamsul",
+            "count": 1
+        }
     },
     "clusterList": [
         {

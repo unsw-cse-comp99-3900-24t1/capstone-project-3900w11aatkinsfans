@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just asking for that was hard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

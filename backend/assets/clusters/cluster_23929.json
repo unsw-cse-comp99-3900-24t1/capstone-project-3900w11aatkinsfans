@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "state"
+        "label": {
+            "phrase": "state of the riot july 2008",
+            "count": 1
+        }
     },
     "clusterList": [
         {

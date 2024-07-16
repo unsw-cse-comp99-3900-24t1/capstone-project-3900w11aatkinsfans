@@ -14,7 +14,10 @@
             "02:15",
             "03:18"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and that's how ken became the trainer",
+            "count": 3
+        }
     },
     "clusterList": [
         {

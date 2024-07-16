@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "unsurprisingly"
+        "label": {
+            "phrase": "unsurprisingly those behind the recent attacks continued today with new spam campaigns involving airline ticket invoices",
+            "count": 1
+        }
     },
     "clusterList": [
         {

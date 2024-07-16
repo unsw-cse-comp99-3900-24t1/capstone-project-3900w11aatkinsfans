@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you should still have hugged him jenny",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "mac"
+        "label": {
+            "phrase": "mac osx cannot be installed on this computer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

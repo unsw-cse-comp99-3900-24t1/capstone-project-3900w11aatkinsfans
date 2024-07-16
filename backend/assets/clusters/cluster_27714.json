@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fleet was not just a military instrument it was an expression of english civilization",
+            "count": 1
+        }
     },
     "clusterList": [
         {

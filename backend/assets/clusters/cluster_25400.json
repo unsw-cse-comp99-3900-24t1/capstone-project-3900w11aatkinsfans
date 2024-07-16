@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "luck"
+        "label": {
+            "phrase": "luck favours the prepared mind",
+            "count": 1
+        }
     },
     "clusterList": [
         {

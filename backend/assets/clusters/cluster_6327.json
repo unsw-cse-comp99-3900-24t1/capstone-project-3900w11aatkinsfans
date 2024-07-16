@@ -10,7 +10,10 @@
             "02:29",
             "03:18"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey i thought i recognized you guys",
+            "count": 1
+        }
     },
     "clusterList": [
         {

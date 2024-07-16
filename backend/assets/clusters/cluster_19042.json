@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "alana"
+        "label": {
+            "phrase": "alana added we're a bit stressed out about it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

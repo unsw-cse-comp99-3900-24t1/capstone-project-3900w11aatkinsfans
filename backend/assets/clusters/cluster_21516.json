@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what would nancy drew do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

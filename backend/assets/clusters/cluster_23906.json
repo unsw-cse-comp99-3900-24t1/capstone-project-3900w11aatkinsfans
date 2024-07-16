@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "news"
+        "label": {
+            "phrase": "news that shatters the ice of our unconscious",
+            "count": 1
+        }
     },
     "clusterList": [
         {

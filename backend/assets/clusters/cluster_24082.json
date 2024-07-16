@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "email"
+        "label": {
+            "phrase": "email question of the week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "playing"
+        "label": {
+            "phrase": "playing with energy and experience",
+            "count": 1
+        }
     },
     "clusterList": [
         {

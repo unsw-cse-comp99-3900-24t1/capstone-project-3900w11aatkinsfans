@@ -8,7 +8,10 @@
             "00:20",
             "05:01"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they dropped it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

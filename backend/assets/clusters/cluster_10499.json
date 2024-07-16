@@ -8,7 +8,10 @@
             "02:09",
             "02:50"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no we just had an introductory session yesterday",
+            "count": 2
+        }
     },
     "clusterList": [
         {

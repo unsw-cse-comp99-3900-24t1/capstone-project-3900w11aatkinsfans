@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "testing"
+        "label": {
+            "phrase": "testing and data will give you the best answers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

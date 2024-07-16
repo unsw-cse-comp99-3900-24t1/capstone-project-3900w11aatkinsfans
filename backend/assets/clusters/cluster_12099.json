@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is your family doing the fit-tastic program",
+            "count": 1
+        }
     },
     "clusterList": [
         {

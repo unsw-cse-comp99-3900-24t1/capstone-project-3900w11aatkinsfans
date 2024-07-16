@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as you have recognized",
+            "count": 1
+        }
     },
     "clusterList": [
         {

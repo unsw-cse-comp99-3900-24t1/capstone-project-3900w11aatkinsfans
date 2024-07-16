@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the arms of the sun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "here's"
+        "label": {
+            "phrase": "here's his head",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a good way to break me in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

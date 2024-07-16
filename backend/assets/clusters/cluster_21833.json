@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "hairstyles"
+        "label": {
+            "phrase": "hairstyles of the wrath and lichness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

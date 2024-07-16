@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "toughest"
+        "label": {
+            "phrase": "toughest in tijuana",
+            "count": 1
+        }
     },
     "clusterList": [
         {

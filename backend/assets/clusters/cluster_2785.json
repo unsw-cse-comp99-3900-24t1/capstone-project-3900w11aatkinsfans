@@ -18,7 +18,10 @@
             "04:18",
             "04:32"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no i m not working i shouldn't work you should work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

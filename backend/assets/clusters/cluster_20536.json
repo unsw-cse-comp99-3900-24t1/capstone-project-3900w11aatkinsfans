@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the interstate highway system was originally estimated to take 12 years and cost 25 billion to construct",
+            "count": 1
+        }
     },
     "clusterList": [
         {

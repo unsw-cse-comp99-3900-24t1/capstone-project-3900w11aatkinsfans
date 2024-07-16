@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "land"
+        "label": {
+            "phrase": "land of the topless lunch where poutine is served",
+            "count": 1
+        }
     },
     "clusterList": [
         {

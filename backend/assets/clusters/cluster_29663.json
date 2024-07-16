@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "national"
+        "label": {
+            "phrase": "national ice cream month",
+            "count": 1
+        }
     },
     "clusterList": [
         {

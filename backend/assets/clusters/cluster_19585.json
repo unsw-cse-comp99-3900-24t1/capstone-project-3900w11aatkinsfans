@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "lead"
+        "label": {
+            "phrase": "lead us not into",
+            "count": 1
+        }
     },
     "clusterList": [
         {

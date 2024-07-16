@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "caffeine"
+        "label": {
+            "phrase": "caffeine caffeine my kingdom for some caffeine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

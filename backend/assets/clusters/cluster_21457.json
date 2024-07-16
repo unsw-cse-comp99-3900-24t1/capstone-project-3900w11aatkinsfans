@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it sure does suck but at least i'm learning to weld",
+            "count": 1
+        }
     },
     "clusterList": [
         {

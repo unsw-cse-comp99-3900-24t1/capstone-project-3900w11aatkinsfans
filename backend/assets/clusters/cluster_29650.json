@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the boy scouts are refurbishing it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

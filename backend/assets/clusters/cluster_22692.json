@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "hammer"
+        "label": {
+            "phrase": "hammer the current target and up to 2 additional nearby targets causing 100 of weapon damage as holy damage this ability causes high threat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and it's something that can literally cut your costs in half",
+            "count": 2
+        }
     },
     "clusterList": [
         {

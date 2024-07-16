@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the opinion that art should have nothing to do with politics is itself a political attitude",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "three"
+        "label": {
+            "phrase": "three weeks with my brother",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -38,7 +38,10 @@
             "04:28",
             "05:01"
         ],
-        "label": "used"
+        "label": {
+            "phrase": "let's find someplace with karaoke",
+            "count": 7
+        }
     },
     "clusterList": [
         {

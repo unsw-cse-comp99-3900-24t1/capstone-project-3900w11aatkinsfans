@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "hmm"
+        "label": {
+            "phrase": "hmm good but mine better",
+            "count": 1
+        }
     },
     "clusterList": [
         {

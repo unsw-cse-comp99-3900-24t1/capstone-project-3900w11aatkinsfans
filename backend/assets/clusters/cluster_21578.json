@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "jfk"
+        "label": {
+            "phrase": "jfk was married before jackie and never had the marriage anulled",
+            "count": 1
+        }
     },
     "clusterList": [
         {

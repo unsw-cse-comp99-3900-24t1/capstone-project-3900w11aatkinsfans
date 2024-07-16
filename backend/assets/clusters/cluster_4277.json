@@ -14,7 +14,10 @@
             "04:03",
             "04:28"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a bumbling hacker",
+            "count": 2
+        }
     },
     "clusterList": [
         {

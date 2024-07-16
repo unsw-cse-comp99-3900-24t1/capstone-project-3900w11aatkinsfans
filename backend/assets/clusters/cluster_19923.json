@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "2"
+        "label": {
+            "phrase": "2 5 seconds that will change your life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

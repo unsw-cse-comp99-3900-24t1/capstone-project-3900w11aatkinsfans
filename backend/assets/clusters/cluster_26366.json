@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "truckloads"
+        "label": {
+            "phrase": "truckloads of police ringed the alabama state college campus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

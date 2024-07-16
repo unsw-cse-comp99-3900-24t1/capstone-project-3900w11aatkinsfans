@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's outside science",
+            "count": 1
+        }
     },
     "clusterList": [
         {

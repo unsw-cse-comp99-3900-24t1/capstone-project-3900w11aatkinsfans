@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "sneak"
+        "label": {
+            "phrase": "sneak previews from our catalogue",
+            "count": 3
+        }
     },
     "clusterList": [
         {

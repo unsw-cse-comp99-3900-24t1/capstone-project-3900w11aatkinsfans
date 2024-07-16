@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "ma'am"
+        "label": {
+            "phrase": "ma'am we still need to bring you in to be checked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

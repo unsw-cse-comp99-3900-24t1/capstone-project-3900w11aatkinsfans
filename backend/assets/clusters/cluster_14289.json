@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "benoit"
+        "label": {
+            "phrase": "benoit wikipedia hacker",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "nixon"
+        "label": {
+            "phrase": "nixon was as good a poker player as if not better than anyone we had ever seen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

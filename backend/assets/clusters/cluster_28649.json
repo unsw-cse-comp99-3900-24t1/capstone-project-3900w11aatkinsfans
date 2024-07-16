@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a margin of appreciation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

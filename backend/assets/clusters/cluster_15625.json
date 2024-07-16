@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "power"
+        "label": {
+            "phrase": "power and soul it could stop your heart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

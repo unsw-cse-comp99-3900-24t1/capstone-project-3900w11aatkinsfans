@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "religion"
+        "label": {
+            "phrase": "religion cannot exist without music",
+            "count": 1
+        }
     },
     "clusterList": [
         {

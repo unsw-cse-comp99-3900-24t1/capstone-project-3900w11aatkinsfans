@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "duh"
+        "label": {
+            "phrase": "duh you feel lighter all of a sudden",
+            "count": 1
+        }
     },
     "clusterList": [
         {

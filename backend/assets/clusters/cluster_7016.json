@@ -10,7 +10,10 @@
             "01:33",
             "02:25"
         ],
-        "label": "barns"
+        "label": {
+            "phrase": "barns of the catskills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

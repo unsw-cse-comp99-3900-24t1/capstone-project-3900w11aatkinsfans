@@ -10,7 +10,10 @@
             "02:42",
             "03:06"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this mission provides nasa with a unique opportunity to evaluate how our nanosatellite spacecraft and its payload perform while demonstrating our ability to conduct fast turn-around low-cost spaceflight projects",
+            "count": 2
+        }
     },
     "clusterList": [
         {

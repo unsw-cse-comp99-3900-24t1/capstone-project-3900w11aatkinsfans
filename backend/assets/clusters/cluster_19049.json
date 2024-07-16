@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "it'll"
+        "label": {
+            "phrase": "it'll be easier to maintain that way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

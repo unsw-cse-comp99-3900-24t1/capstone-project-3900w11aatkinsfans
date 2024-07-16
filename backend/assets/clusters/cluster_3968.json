@@ -12,7 +12,10 @@
             "02:01",
             "03:27"
         ],
-        "label": "widowhood"
+        "label": {
+            "phrase": "widowhood is a more important factor among the low-income than among the poverty-level elderly",
+            "count": 2
+        }
     },
     "clusterList": [
         {

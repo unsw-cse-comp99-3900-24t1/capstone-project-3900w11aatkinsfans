@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i need a universal remote for this karaoke machine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

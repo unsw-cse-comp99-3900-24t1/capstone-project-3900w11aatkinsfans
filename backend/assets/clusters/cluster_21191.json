@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "form"
+        "label": {
+            "phrase": "form of a thousand repents",
+            "count": 1
+        }
     },
     "clusterList": [
         {

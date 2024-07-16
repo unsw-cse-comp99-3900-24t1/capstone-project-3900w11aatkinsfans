@@ -6,7 +6,10 @@
         "xLabels": [
             "00:12"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we could be another little shadyside",
+            "count": 1
+        }
     },
     "clusterList": [
         {

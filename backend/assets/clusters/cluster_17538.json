@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the angels wanna wear my red shoes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

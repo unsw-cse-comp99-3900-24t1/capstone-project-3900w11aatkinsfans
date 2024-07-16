@@ -6,7 +6,10 @@
         "xLabels": [
             "04:16"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i take my chances",
+            "count": 1
+        }
     },
     "clusterList": [
         {

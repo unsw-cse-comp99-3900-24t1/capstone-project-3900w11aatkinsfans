@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're smart people we know the situation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

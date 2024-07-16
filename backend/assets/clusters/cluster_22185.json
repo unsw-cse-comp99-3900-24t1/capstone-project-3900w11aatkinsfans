@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and a tiger 95 pounds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

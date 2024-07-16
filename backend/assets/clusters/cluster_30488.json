@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am going to burn this place down tonight and you will be inside",
+            "count": 1
+        }
     },
     "clusterList": [
         {

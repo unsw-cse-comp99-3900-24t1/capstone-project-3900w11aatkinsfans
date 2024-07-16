@@ -6,7 +6,10 @@
         "xLabels": [
             "00:48"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a subtle system and displayed well so although when people talk about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

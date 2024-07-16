@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey my daughter is age appropriate why don't we just use her",
+            "count": 1
+        }
     },
     "clusterList": [
         {

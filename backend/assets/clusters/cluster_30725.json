@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're just full of it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "newer"
+        "label": {
+            "phrase": "newer people would like to be the last ones to come here and build",
+            "count": 1
+        }
     },
     "clusterList": [
         {

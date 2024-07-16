@@ -22,7 +22,10 @@
             "04:33",
             "04:45"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "across the universe",
+            "count": 4
+        }
     },
     "clusterList": [
         {

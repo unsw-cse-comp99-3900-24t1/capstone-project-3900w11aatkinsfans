@@ -6,7 +6,10 @@
         "xLabels": [
             "03:03"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god heard them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

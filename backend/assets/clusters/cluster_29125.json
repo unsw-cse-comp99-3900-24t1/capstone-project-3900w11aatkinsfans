@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "luck"
+        "label": {
+            "phrase": "luck and a net",
+            "count": 1
+        }
     },
     "clusterList": [
         {

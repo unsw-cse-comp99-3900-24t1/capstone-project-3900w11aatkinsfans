@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "acai"
+        "label": {
+            "phrase": "acai berry juices are not created equal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

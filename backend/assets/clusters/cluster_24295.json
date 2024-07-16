@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "pom"
+        "label": {
+            "phrase": "pom for x is invalid reason not a v4 0 0 pom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

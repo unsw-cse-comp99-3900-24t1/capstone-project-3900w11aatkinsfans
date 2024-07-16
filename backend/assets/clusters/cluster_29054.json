@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mouse works fine in the desktop environment but for home entertainment or working on a notebook it's over",
+            "count": 1
+        }
     },
     "clusterList": [
         {

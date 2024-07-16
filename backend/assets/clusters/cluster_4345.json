@@ -14,7 +14,10 @@
             "04:41",
             "05:01"
         ],
-        "label": "where's"
+        "label": {
+            "phrase": "where's your proof",
+            "count": 1
+        }
     },
     "clusterList": [
         {

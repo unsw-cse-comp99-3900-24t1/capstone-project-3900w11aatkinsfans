@@ -6,7 +6,10 @@
         "xLabels": [
             "00:15"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that square face can never catch on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

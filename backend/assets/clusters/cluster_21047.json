@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to their own house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

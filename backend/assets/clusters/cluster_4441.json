@@ -10,7 +10,10 @@
             "01:34",
             "03:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the polar bears are all right",
+            "count": 4
+        }
     },
     "clusterList": [
         {

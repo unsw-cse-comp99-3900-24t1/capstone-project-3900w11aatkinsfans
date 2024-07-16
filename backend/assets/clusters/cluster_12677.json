@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes and no",
+            "count": 1
+        }
     },
     "clusterList": [
         {

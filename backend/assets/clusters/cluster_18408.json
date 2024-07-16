@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "5"
+        "label": {
+            "phrase": "5 minute office workout",
+            "count": 1
+        }
     },
     "clusterList": [
         {

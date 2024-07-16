@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "come"
+        "label": {
+            "phrase": "come on people help this man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

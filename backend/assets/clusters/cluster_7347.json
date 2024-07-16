@@ -10,7 +10,10 @@
             "01:19",
             "03:29"
         ],
-        "label": "spies"
+        "label": {
+            "phrase": "spies for hire",
+            "count": 1
+        }
     },
     "clusterList": [
         {

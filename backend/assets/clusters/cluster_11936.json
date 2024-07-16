@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "mayhem"
+        "label": {
+            "phrase": "mayhem throughout these islands and beyond",
+            "count": 2
+        }
     },
     "clusterList": [
         {

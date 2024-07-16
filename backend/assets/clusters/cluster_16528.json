@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a nervous wreck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

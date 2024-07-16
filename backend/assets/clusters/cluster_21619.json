@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "company"
+        "label": {
+            "phrase": "company for motifs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

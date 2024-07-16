@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't go to drug company dinners anymore",
+            "count": 1
+        }
     },
     "clusterList": [
         {

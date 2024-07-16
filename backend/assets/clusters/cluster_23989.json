@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "supervised"
+        "label": {
+            "phrase": "supervised and checked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

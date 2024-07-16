@@ -30,7 +30,10 @@
             "04:03",
             "04:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the business benefits of enterprise mashups",
+            "count": 11
+        }
     },
     "clusterList": [
         {

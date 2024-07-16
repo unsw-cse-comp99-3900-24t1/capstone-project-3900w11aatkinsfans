@@ -54,7 +54,10 @@
             "03:56",
             "04:18"
         ],
-        "label": "based"
+        "label": {
+            "phrase": "fraudulent nonperformance of a job",
+            "count": 10
+        }
     },
     "clusterList": [
         {

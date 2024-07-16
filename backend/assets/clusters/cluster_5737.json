@@ -10,7 +10,10 @@
             "01:32",
             "01:42"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "mr smith goes to washington",
+            "count": 3
+        }
     },
     "clusterList": [
         {

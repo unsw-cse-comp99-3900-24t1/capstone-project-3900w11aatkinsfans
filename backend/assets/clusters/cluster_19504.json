@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hitchhiker's guide to the galaxy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

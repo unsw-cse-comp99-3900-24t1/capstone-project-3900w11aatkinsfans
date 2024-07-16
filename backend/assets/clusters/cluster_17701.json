@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "sandro"
+        "label": {
+            "phrase": "sandro from chegem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

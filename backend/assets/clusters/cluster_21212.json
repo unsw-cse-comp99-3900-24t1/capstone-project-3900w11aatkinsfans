@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "recover"
+        "label": {
+            "phrase": "recover previous installation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

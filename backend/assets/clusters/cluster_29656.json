@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the chiefs were provided an opportunity to review the document by the secretary",
+            "count": 1
+        }
     },
     "clusterList": [
         {

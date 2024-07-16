@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "informed"
+        "label": {
+            "phrase": "informed awareness of the field and of the limits of their own competencies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

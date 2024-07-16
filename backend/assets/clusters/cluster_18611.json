@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "royal"
+        "label": {
+            "phrase": "royal is an idealist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

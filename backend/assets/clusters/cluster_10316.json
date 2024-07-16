@@ -8,7 +8,10 @@
             "01:52",
             "05:02"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was the perfect dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this source is authorized to plant disinformation anonymously",
+            "count": 1
+        }
     },
     "clusterList": [
         {

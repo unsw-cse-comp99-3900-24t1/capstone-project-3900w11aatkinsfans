@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do they have fences in the ocean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

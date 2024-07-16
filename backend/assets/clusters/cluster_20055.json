@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "protections"
+        "label": {
+            "phrase": "protections this is not an exhibition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

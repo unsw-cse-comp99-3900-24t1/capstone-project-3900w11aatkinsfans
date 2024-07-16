@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "ai-san"
+        "label": {
+            "phrase": "ai-san want the desk or shelves",
+            "count": 2
+        }
     },
     "clusterList": [
         {

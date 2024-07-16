@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "unaccompanied"
+        "label": {
+            "phrase": "unaccompanied alien child protection act of 2007",
+            "count": 2
+        }
     },
     "clusterList": [
         {

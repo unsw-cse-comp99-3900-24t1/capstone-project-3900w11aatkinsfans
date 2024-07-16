@@ -6,7 +6,10 @@
         "xLabels": [
             "00:20"
         ],
-        "label": "unlimited"
+        "label": {
+            "phrase": "unlimited amount of changes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

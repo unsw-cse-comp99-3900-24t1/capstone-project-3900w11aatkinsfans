@@ -22,7 +22,10 @@
             "03:55",
             "03:56"
         ],
-        "label": "rock"
+        "label": {
+            "phrase": "let there be rock",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the truth is there are huge parts of the country where they haven't got a hope",
+            "count": 1
+        }
     },
     "clusterList": [
         {

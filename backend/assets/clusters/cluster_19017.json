@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the reverse dictionary lookup",
+            "count": 1
+        }
     },
     "clusterList": [
         {

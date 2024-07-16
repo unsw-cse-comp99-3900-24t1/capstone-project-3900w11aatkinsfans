@@ -6,7 +6,10 @@
         "xLabels": [
             "05:02"
         ],
-        "label": "introduction"
+        "label": {
+            "phrase": "introduction to weaving",
+            "count": 2
+        }
     },
     "clusterList": [
         {

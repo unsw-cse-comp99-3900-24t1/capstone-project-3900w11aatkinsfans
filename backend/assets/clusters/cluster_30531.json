@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "great"
+        "label": {
+            "phrase": "great moments with mr lincoln",
+            "count": 1
+        }
     },
     "clusterList": [
         {

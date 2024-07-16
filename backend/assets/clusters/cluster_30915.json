@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a haircut why",
+            "count": 1
+        }
     },
     "clusterList": [
         {

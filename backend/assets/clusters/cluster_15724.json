@@ -6,7 +6,10 @@
         "xLabels": [
             "00:34"
         ],
-        "label": "strange"
+        "label": {
+            "phrase": "strange man in trenchcoat with one hand hidden",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:36",
             "04:28"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're a very sad people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

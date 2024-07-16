@@ -10,7 +10,10 @@
             "02:24",
             "02:28"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you have a numerical number for that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

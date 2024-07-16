@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i prefer chicken tits over thighs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

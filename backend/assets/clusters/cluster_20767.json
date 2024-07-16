@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your actions are indefensible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

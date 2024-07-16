@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think it's an inspired thing to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

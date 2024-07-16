@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "defence"
+        "label": {
+            "phrase": "defence intelligence sharing education health science technology and agriculture",
+            "count": 1
+        }
     },
     "clusterList": [
         {

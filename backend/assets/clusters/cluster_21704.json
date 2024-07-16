@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "service"
+        "label": {
+            "phrase": "service company employees are more motivated than manufacturing employees",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are no crimes and no criminals in these days",
+            "count": 1
+        }
     },
     "clusterList": [
         {

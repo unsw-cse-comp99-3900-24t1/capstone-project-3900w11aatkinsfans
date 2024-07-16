@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "inordinate"
+        "label": {
+            "phrase": "inordinate numbers of ping-pong balls",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:03"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the next j k rowling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

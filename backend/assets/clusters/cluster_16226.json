@@ -6,7 +6,10 @@
         "xLabels": [
             "00:45"
         ],
-        "label": "born"
+        "label": {
+            "phrase": "born in the usa whatever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

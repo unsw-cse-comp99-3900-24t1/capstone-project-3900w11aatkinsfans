@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're all just floating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

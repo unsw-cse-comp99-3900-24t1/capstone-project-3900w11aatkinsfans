@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "fresh"
+        "label": {
+            "phrase": "fresh scvized frut juse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

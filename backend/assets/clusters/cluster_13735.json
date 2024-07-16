@@ -6,7 +6,10 @@
         "xLabels": [
             "00:12"
         ],
-        "label": "contrary"
+        "label": {
+            "phrase": "contrary to tabloid reports there is no engagement this was a complete fabrication",
+            "count": 1
+        }
     },
     "clusterList": [
         {

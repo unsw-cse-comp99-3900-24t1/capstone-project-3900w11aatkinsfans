@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "building"
+        "label": {
+            "phrase": "building the next flickr at yahoo",
+            "count": 2
+        }
     },
     "clusterList": [
         {

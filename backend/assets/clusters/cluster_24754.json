@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "today's"
+        "label": {
+            "phrase": "today's associates are much more likely to bind you to what you promised them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

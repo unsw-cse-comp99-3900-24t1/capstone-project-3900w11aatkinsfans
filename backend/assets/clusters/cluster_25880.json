@@ -6,7 +6,10 @@
         "xLabels": [
             "03:31"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the architect of aerial assault",
+            "count": 1
+        }
     },
     "clusterList": [
         {

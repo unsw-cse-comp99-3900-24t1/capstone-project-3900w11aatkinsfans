@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the closure of an era for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

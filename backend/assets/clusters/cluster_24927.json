@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's happening pizza tacky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

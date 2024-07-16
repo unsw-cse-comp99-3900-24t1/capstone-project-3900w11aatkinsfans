@@ -14,7 +14,10 @@
             "02:14",
             "04:05"
         ],
-        "label": "twitter"
+        "label": {
+            "phrase": "twitter security team was notified on 31-july-2008",
+            "count": 5
+        }
     },
     "clusterList": [
         {

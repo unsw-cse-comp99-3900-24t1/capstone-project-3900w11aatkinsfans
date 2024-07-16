@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in memoriam david romprey",
+            "count": 1
+        }
     },
     "clusterList": [
         {

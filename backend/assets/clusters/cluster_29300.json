@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's quite a young man you ahve there gloria",
+            "count": 1
+        }
     },
     "clusterList": [
         {

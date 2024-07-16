@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the little orange that could",
+            "count": 1
+        }
     },
     "clusterList": [
         {

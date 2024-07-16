@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "black"
+        "label": {
+            "phrase": "black mushroom shaped cloud",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "during"
+        "label": {
+            "phrase": "during the day people are queuing for primary needs such as rice and stuffs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

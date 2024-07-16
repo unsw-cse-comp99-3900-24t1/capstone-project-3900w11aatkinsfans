@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "harsh"
+        "label": {
+            "phrase": "harsh game for the people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

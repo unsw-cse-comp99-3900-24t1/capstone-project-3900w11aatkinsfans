@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "drop"
+        "label": {
+            "phrase": "drop the lemon into the iced tea so it looks like beer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

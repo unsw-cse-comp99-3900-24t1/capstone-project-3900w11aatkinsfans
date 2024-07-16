@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they all thought i'd lost my marbles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

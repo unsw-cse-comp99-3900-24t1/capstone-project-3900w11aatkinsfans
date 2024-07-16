@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "conscientious"
+        "label": {
+            "phrase": "conscientious young man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

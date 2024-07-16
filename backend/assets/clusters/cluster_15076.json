@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you ever seen your senator",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "04:15",
             "04:28"
         ],
-        "label": "world"
+        "label": {
+            "phrase": "world press briefing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

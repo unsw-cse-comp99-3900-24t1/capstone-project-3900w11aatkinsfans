@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all of a sudden there'll just be too many blueberries one year and they won't be worth anything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

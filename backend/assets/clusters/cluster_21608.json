@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm open-sourcing this to let everybody run with it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

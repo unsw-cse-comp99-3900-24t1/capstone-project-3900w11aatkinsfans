@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "offset"
+        "label": {
+            "phrase": "offset the worst impact of the current situation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

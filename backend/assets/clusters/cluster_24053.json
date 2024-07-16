@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "click"
+        "label": {
+            "phrase": "click here to see a cancerous breast",
+            "count": 1
+        }
     },
     "clusterList": [
         {

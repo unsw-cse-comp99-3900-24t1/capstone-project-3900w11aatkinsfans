@@ -6,7 +6,10 @@
         "xLabels": [
             "00:27"
         ],
-        "label": "self-absorbed"
+        "label": {
+            "phrase": "self-absorbed press speculation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

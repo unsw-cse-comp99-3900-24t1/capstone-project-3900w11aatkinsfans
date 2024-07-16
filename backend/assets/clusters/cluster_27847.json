@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "garage"
+        "label": {
+            "phrase": "garage days re-revisited",
+            "count": 1
+        }
     },
     "clusterList": [
         {

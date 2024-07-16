@@ -6,7 +6,10 @@
         "xLabels": [
             "04:53"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get it right next time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

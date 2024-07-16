@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "sanity"
+        "label": {
+            "phrase": "sanity calms but madness is more interesting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

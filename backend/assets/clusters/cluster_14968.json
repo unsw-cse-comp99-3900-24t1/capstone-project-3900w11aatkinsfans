@@ -6,7 +6,10 @@
         "xLabels": [
             "04:20"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when it comes my turn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

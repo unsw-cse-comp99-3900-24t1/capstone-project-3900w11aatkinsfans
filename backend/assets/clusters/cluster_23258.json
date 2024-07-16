@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but now we have to worry about public relations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

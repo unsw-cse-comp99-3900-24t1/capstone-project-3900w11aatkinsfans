@@ -42,7 +42,10 @@
             "04:28",
             "04:29"
         ],
-        "label": "hellboy"
+        "label": {
+            "phrase": "o brother where art thou",
+            "count": 15
+        }
     },
     "clusterList": [
         {

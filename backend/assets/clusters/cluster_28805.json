@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a sibling for celia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

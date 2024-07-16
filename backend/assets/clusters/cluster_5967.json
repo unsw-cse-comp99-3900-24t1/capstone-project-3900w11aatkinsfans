@@ -10,7 +10,10 @@
             "00:33",
             "00:51"
         ],
-        "label": "manage"
+        "label": {
+            "phrase": "manage your lists of groceries gifts to dos wines music movies and more track prices and locations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

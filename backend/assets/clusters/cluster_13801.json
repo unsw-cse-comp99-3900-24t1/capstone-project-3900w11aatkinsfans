@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "touched"
+        "label": {
+            "phrase": "touched by an angel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

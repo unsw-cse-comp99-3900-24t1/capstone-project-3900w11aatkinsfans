@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "longer"
+        "label": {
+            "phrase": "longer thought pieces",
+            "count": 1
+        }
     },
     "clusterList": [
         {

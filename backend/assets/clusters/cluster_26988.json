@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god stop them please",
+            "count": 1
+        }
     },
     "clusterList": [
         {

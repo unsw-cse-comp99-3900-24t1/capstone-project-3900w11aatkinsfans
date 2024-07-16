@@ -8,7 +8,10 @@
             "03:24",
             "04:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the eskimos are an a-one organization",
+            "count": 2
+        }
     },
     "clusterList": [
         {

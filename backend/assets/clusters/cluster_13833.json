@@ -6,7 +6,10 @@
         "xLabels": [
             "00:14"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this blog is the next best thing to sitting with a friend over a cappucino",
+            "count": 1
+        }
     },
     "clusterList": [
         {

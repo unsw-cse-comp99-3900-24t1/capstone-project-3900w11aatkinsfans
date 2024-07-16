@@ -8,7 +8,10 @@
             "01:43",
             "01:50"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's the answer i was looking for",
+            "count": 2
+        }
     },
     "clusterList": [
         {

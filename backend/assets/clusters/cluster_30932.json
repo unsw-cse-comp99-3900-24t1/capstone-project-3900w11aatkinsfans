@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my brother has a ridiculous haircut and he'd use my brush but leave his hair in it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

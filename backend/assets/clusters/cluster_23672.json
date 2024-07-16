@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the out-of-state handle has always been a mystery to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

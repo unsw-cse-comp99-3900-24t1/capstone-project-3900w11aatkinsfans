@@ -8,7 +8,10 @@
             "02:08",
             "04:41"
         ],
-        "label": "crawl"
+        "label": {
+            "phrase": "crawl and index the intranet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

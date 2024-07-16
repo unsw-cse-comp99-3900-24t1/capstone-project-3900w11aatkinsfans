@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "he'll"
+        "label": {
+            "phrase": "he'll think your hiding drugs and we'll get arrested",
+            "count": 1
+        }
     },
     "clusterList": [
         {

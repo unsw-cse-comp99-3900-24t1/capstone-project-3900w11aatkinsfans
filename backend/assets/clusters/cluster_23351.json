@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every park bench screams your name i kept your tie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

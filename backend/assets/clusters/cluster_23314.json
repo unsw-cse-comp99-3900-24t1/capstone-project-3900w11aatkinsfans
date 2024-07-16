@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the enumeration of favorable circumstances",
+            "count": 1
+        }
     },
     "clusterList": [
         {

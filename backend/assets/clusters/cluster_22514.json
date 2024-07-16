@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't be so defensive will ya",
+            "count": 1
+        }
     },
     "clusterList": [
         {

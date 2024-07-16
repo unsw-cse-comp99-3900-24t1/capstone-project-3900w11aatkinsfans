@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "pet"
+        "label": {
+            "phrase": "pet names are the fashion in the household of newmarket trainer george archibald",
+            "count": 1
+        }
     },
     "clusterList": [
         {

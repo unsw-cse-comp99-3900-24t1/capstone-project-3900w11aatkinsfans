@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "global"
+        "label": {
+            "phrase": "global industry classification standard gics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

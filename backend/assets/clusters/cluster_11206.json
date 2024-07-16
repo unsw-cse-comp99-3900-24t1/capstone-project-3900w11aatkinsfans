@@ -8,7 +8,10 @@
             "03:10",
             "05:00"
         ],
-        "label": "sweet"
+        "label": {
+            "phrase": "sweet and short",
+            "count": 1
+        }
     },
     "clusterList": [
         {

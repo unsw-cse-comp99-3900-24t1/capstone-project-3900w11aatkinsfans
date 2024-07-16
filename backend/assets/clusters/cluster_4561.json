@@ -12,7 +12,10 @@
             "03:10",
             "03:37"
         ],
-        "label": "tell"
+        "label": {
+            "phrase": "tell me it ain't so",
+            "count": 1
+        }
     },
     "clusterList": [
         {

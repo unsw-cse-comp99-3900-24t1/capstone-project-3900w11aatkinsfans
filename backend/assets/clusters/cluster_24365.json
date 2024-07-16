@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "plant"
+        "label": {
+            "phrase": "plant light stand ii",
+            "count": 1
+        }
     },
     "clusterList": [
         {

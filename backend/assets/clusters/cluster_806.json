@@ -30,7 +30,10 @@
             "03:50",
             "04:46"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "state of economy",
+            "count": 4
+        }
     },
     "clusterList": [
         {

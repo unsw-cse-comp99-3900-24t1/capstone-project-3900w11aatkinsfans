@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all about them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

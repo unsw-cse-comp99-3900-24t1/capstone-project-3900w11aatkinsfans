@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only celebrities like barack obama demand bottles of an organic brew black forest berry honest tea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

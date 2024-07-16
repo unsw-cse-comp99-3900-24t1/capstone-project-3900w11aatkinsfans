@@ -8,7 +8,10 @@
             "00:56",
             "04:15"
         ],
-        "label": "down"
+        "label": {
+            "phrase": "down for maintainance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

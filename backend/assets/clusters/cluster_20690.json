@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what became apparent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

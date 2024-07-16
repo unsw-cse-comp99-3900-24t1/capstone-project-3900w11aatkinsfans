@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "gathers"
+        "label": {
+            "phrase": "gathers an audience past the obsessively connected",
+            "count": 1
+        }
     },
     "clusterList": [
         {

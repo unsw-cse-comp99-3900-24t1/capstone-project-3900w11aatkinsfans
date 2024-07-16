@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "elisson"
+        "label": {
+            "phrase": "elisson has totally gone off the deep end",
+            "count": 1
+        }
     },
     "clusterList": [
         {

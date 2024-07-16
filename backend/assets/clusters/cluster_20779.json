@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "pipes"
+        "label": {
+            "phrase": "pipes were so old they discolored the water",
+            "count": 1
+        }
     },
     "clusterList": [
         {

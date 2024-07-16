@@ -8,7 +8,10 @@
             "00:25",
             "02:42"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a is just plain wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

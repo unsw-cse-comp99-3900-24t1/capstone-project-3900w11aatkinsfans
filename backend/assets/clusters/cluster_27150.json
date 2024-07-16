@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's still an everyday guy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

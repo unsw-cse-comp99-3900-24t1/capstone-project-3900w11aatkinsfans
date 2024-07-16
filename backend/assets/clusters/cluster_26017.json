@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't see a recovery",
+            "count": 1
+        }
     },
     "clusterList": [
         {

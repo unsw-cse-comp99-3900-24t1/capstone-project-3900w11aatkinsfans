@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "nappy"
+        "label": {
+            "phrase": "nappy headed ho",
+            "count": 1
+        }
     },
     "clusterList": [
         {

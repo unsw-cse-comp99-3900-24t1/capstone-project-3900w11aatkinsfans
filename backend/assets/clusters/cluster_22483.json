@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we can't cover everything for everyone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

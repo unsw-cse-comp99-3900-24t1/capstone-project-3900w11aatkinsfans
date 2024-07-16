@@ -10,7 +10,10 @@
             "04:28",
             "04:29"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no poop for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

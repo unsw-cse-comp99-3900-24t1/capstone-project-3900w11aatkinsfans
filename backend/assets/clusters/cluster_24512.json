@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm not just another bimbo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

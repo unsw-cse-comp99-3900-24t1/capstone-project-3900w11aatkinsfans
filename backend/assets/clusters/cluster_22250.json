@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there were about nine good reviews for every bad one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

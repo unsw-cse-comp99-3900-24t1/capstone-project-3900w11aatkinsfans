@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in search of white crows",
+            "count": 1
+        }
     },
     "clusterList": [
         {

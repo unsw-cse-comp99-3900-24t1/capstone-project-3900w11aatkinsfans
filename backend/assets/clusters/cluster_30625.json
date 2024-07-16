@@ -6,7 +6,10 @@
         "xLabels": [
             "04:53"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't have such specialists here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

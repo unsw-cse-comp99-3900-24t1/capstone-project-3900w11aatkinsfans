@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "avoid"
+        "label": {
+            "phrase": "avoid a collision given the circumstances of what happened that night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

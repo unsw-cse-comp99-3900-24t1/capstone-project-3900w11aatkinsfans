@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the failure to act can get you killed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when a forty just wont do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

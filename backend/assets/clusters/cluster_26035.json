@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what does it all mean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

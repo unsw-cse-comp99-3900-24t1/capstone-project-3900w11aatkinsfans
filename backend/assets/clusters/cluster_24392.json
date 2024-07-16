@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the east coast avengers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

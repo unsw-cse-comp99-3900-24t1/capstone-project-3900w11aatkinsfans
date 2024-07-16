@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we chose people who understood the technology and who realized why it had value",
+            "count": 1
+        }
     },
     "clusterList": [
         {

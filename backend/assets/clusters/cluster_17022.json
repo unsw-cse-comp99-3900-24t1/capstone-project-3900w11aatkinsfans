@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i could read a book i'd defintely read one of yours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

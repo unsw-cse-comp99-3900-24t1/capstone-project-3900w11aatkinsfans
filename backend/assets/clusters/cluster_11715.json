@@ -6,7 +6,10 @@
         "xLabels": [
             "03:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the black banners will come from the east for",
+            "count": 1
+        }
     },
     "clusterList": [
         {

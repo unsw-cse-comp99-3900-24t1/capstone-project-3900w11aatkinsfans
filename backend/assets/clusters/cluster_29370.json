@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have to move lizzy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

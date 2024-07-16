@@ -8,7 +8,10 @@
             "02:25",
             "02:34"
         ],
-        "label": "purveyors"
+        "label": {
+            "phrase": "purveyors of curiously awesome products",
+            "count": 1
+        }
     },
     "clusterList": [
         {

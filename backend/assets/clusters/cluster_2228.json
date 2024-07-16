@@ -16,7 +16,10 @@
             "02:19",
             "04:05"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "whatever will be will be",
+            "count": 2
+        }
     },
     "clusterList": [
         {

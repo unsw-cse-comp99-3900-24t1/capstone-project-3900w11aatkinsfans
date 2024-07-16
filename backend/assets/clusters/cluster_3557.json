@@ -14,7 +14,10 @@
             "03:05",
             "03:44"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the times they are a-changin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "load"
+        "label": {
+            "phrase": "load this user",
+            "count": 1
+        }
     },
     "clusterList": [
         {

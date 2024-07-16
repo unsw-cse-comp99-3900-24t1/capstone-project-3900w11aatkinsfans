@@ -6,7 +6,10 @@
         "xLabels": [
             "02:36"
         ],
-        "label": "lake"
+        "label": {
+            "phrase": "lake tahoe is very deep but there are shallow spots all around the lake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

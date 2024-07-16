@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every morning with this crap",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "continue"
+        "label": {
+            "phrase": "continue online dynasty",
+            "count": 2
+        }
     },
     "clusterList": [
         {

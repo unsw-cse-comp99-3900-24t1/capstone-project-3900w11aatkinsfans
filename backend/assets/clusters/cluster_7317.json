@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "unlock"
+        "label": {
+            "phrase": "unlock new worlds of sensory delight",
+            "count": 2
+        }
     },
     "clusterList": [
         {

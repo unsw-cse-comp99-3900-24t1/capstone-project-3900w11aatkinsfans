@@ -10,7 +10,10 @@
             "00:15",
             "01:46"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "swing out now",
+            "count": 3
+        }
     },
     "clusterList": [
         {

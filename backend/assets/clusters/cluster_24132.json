@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i bet you like being told what to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

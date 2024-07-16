@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "pert"
+        "label": {
+            "phrase": "pert is meaningless",
+            "count": 1
+        }
     },
     "clusterList": [
         {

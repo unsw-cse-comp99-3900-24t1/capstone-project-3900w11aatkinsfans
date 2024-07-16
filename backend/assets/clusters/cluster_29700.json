@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "ticketmaster"
+        "label": {
+            "phrase": "ticketmaster was only selling tickets to the american presidential experience",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who is serenity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

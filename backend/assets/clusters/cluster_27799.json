@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "fast"
+        "label": {
+            "phrase": "fast and loose",
+            "count": 1
+        }
     },
     "clusterList": [
         {

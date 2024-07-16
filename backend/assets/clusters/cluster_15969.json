@@ -6,7 +6,10 @@
         "xLabels": [
             "00:40"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is ironic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

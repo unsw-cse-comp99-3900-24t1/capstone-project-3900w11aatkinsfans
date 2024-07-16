@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "alright"
+        "label": {
+            "phrase": "alright old man lets see what you got",
+            "count": 1
+        }
     },
     "clusterList": [
         {

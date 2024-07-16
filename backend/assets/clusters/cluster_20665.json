@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in almost every aspect",
+            "count": 1
+        }
     },
     "clusterList": [
         {

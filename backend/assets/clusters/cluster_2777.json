@@ -16,7 +16,10 @@
             "04:18",
             "04:46"
         ],
-        "label": "rule"
+        "label": {
+            "phrase": "rule of thumb",
+            "count": 5
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and something bad will happen to anyone who says we are",
+            "count": 1
+        }
     },
     "clusterList": [
         {

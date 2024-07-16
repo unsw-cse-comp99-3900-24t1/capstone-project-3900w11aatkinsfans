@@ -12,7 +12,10 @@
             "02:56",
             "04:14"
         ],
-        "label": "special"
+        "label": {
+            "phrase": "special safeguard mechanism",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:32"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he jackson has all the tickets we're looking for",
+            "count": 1
+        }
     },
     "clusterList": [
         {

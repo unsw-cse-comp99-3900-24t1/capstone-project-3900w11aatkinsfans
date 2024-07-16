@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my moving parts are in a solid state",
+            "count": 1
+        }
     },
     "clusterList": [
         {

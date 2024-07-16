@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a video response to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

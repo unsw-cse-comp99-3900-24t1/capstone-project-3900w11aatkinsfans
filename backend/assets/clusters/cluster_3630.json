@@ -10,7 +10,10 @@
             "01:23",
             "03:53"
         ],
-        "label": "afghanistan"
+        "label": {
+            "phrase": "afghanistan is facing a drought",
+            "count": 4
+        }
     },
     "clusterList": [
         {

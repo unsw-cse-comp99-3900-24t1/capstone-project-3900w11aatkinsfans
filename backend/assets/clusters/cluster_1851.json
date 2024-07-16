@@ -22,7 +22,10 @@
             "03:24",
             "04:04"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "well what's that",
+            "count": 2
+        }
     },
     "clusterList": [
         {

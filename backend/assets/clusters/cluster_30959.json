@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no option to speak to executive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

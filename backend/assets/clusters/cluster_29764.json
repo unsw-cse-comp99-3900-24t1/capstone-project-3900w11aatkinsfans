@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm animal friendly license plate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

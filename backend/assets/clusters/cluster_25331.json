@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "myrrh"
+        "label": {
+            "phrase": "myrrh for my head that's a new one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

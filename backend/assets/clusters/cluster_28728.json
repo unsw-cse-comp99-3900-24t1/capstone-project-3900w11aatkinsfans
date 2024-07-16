@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes my first cheese board and it is here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

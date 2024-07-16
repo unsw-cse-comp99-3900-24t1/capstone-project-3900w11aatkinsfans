@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the only difference between martyrdom and suicide is press coverage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

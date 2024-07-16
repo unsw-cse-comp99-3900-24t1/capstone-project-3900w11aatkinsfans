@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that made us tear up all our notes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

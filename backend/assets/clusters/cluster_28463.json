@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a change from the traditional liberal bastion coffeehouses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

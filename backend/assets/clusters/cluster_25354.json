@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not yet but you're a very good-looking guy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the intersection of 15th and ospika has been identified as one of the more collision-prone intersections in prince george",
+            "count": 1
+        }
     },
     "clusterList": [
         {

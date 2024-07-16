@@ -6,7 +6,10 @@
         "xLabels": [
             "04:44"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have to be careful because there's unruly people out there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

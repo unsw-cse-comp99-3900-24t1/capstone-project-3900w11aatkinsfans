@@ -8,7 +8,10 @@
             "01:41",
             "03:02"
         ],
-        "label": "trick"
+        "label": {
+            "phrase": "trick or treat",
+            "count": 3
+        }
     },
     "clusterList": [
         {

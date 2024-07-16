@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if the cook's not happy nobody's happy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

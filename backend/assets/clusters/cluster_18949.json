@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "surgery"
+        "label": {
+            "phrase": "surgery rescheduled due to high humidity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there you go again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

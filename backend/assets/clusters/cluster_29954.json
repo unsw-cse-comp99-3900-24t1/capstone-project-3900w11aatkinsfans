@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone has bullshit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

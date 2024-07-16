@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "fbi"
+        "label": {
+            "phrase": "fbi bypasses facebook to nail you",
+            "count": 2
+        }
     },
     "clusterList": [
         {

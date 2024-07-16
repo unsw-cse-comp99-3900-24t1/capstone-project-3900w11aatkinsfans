@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is cancer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

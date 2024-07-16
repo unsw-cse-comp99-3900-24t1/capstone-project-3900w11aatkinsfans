@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "endorsed"
+        "label": {
+            "phrase": "endorsed in 2006 by the nra",
+            "count": 1
+        }
     },
     "clusterList": [
         {

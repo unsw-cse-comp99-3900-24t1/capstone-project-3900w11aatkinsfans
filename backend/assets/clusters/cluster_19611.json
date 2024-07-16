@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but the story's not over mom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

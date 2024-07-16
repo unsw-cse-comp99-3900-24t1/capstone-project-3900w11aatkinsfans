@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take action in their support",
+            "count": 1
+        }
     },
     "clusterList": [
         {

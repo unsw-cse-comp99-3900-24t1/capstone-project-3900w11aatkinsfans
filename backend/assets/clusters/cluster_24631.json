@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i should be more careful in watching my back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

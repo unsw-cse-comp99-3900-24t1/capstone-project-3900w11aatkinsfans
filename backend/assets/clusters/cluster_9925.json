@@ -8,7 +8,10 @@
             "00:12",
             "04:04"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's the best part of our beverage bar free refills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

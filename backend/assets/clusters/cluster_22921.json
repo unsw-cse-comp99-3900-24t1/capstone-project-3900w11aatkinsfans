@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the strange truth is that great powers pay a fee for entering the balkan casino",
+            "count": 1
+        }
     },
     "clusterList": [
         {

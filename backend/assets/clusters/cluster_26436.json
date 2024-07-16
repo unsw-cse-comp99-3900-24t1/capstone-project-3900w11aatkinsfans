@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "life"
+        "label": {
+            "phrase": "life is full of ifs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

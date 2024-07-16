@@ -6,7 +6,10 @@
         "xLabels": [
             "00:04"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there was some barricading to the main door of the suite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

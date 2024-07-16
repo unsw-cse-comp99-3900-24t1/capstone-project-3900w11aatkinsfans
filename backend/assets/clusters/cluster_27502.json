@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i can't go for anything because i didn't lose anything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "cry"
+        "label": {
+            "phrase": "cry for the strangers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

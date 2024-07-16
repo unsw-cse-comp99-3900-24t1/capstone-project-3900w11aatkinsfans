@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the m-murderer the kritter eater",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i see a homemade t-shirt clad movie campout in our future",
+            "count": 1
+        }
     },
     "clusterList": [
         {

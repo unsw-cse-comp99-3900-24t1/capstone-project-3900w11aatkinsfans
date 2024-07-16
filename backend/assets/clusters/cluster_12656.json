@@ -6,7 +6,10 @@
         "xLabels": [
             "00:01"
         ],
-        "label": "blogmeister"
+        "label": {
+            "phrase": "blogmeister would you have a few minutes to spend with me today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

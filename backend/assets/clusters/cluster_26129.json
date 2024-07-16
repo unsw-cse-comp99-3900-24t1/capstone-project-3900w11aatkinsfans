@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "republicans"
+        "label": {
+            "phrase": "republicans get out of my bedroom democrats get out of my wallet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

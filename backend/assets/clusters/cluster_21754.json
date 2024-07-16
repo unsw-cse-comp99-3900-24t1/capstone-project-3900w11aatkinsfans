@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've given me the rights to one story that i'm interested in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

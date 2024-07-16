@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm blown away by how complex it is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

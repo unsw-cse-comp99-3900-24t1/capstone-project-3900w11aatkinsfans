@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only one picture on a page create publishable work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

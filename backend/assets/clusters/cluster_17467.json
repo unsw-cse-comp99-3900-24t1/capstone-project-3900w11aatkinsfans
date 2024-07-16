@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "invocation"
+        "label": {
+            "phrase": "invocation of my demon brother",
+            "count": 1
+        }
     },
     "clusterList": [
         {

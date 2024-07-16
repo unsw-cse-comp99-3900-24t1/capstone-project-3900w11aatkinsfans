@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "usually"
+        "label": {
+            "phrase": "usually the line runs around the corner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

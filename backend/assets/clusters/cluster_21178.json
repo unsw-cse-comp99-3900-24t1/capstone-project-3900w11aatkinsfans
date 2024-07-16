@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's thread ellis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

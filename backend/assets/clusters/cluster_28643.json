@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of the most addictive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

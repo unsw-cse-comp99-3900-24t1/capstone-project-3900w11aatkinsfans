@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey we have lots of money to spend on effects let's throw this in for good measure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

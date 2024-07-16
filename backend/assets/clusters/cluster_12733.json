@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "counting"
+        "label": {
+            "phrase": "counting crows maroon 5 and special guest augustana",
+            "count": 1
+        }
     },
     "clusterList": [
         {

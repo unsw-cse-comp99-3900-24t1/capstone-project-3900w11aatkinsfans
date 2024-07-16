@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the artist is nothing without gift but gift is nothing without work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

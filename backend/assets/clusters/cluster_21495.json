@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the quality of work stinks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

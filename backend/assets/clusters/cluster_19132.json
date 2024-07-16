@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "society"
+        "label": {
+            "phrase": "society of the friends of england",
+            "count": 1
+        }
     },
     "clusterList": [
         {

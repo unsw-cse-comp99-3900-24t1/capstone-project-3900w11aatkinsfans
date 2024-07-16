@@ -12,7 +12,10 @@
             "04:27",
             "04:31"
         ],
-        "label": "hundreds"
+        "label": {
+            "phrase": "hundreds of bottles",
+            "count": 3
+        }
     },
     "clusterList": [
         {

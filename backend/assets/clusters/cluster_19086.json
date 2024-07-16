@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to stop selling cats and dogs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

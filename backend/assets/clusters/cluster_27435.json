@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is moving toward a resolution",
+            "count": 1
+        }
     },
     "clusterList": [
         {

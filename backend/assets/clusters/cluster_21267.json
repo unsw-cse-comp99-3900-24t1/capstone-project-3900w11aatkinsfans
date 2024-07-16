@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "strategies"
+        "label": {
+            "phrase": "strategies for the intergenerational workplace",
+            "count": 1
+        }
     },
     "clusterList": [
         {

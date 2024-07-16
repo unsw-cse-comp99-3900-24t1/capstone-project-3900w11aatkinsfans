@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good afternoon we regret to inform you that there will be no meal service on this flight thank you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

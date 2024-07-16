@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "grow"
+        "label": {
+            "phrase": "grow old along with me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

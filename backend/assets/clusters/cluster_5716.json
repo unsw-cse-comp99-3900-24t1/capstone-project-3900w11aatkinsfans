@@ -10,7 +10,10 @@
             "03:02",
             "04:45"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but someone put up a notice in the post office",
+            "count": 1
+        }
     },
     "clusterList": [
         {

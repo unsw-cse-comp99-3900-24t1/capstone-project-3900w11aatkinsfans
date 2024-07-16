@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're not here to preach or glamorize or make judgments about the situation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

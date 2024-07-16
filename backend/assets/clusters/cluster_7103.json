@@ -10,7 +10,10 @@
             "00:51",
             "04:32"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a very fun show",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that kid can go and go and go",
+            "count": 1
+        }
     },
     "clusterList": [
         {

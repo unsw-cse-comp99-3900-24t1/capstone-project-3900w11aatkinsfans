@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "more"
+        "label": {
+            "phrase": "more concerned about delivering a better life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

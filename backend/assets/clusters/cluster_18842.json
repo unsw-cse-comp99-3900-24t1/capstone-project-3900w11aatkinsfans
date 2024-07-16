@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "epsom"
+        "label": {
+            "phrase": "epsom was in the bag all party votes for act would now count",
+            "count": 1
+        }
     },
     "clusterList": [
         {

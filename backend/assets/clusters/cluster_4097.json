@@ -12,7 +12,10 @@
             "01:01",
             "03:10"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all of the exit polls were getting the wrong information",
+            "count": 1
+        }
     },
     "clusterList": [
         {

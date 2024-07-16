@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the resulting value is string1 n",
+            "count": 3
+        }
     },
     "clusterList": [
         {

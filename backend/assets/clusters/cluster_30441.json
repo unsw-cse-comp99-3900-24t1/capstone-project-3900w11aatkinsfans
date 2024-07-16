@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "being"
+        "label": {
+            "phrase": "being acquired is not a strategy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

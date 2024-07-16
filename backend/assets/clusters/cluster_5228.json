@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "does"
+        "label": {
+            "phrase": "does the from header contain the string",
+            "count": 4
+        }
     },
     "clusterList": [
         {

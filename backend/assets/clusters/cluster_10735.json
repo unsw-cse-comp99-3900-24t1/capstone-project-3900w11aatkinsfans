@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "onlylibs"
+        "label": {
+            "phrase": "onlylibs making dummy file i makefile in",
+            "count": 2
+        }
     },
     "clusterList": [
         {

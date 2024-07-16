@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "dragging"
+        "label": {
+            "phrase": "dragging the chart's data points and the whole series",
+            "count": 1
+        }
     },
     "clusterList": [
         {

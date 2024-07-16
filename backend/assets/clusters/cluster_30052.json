@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the site is so slow for me that it's almost forcing me to go to facebook and handle my event calendar there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

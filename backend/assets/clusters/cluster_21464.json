@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "thread"
+        "label": {
+            "phrase": "thread or string or row of letters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

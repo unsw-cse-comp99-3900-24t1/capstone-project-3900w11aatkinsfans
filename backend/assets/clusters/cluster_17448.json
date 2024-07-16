@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "encounters"
+        "label": {
+            "phrase": "encounters at the end of the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

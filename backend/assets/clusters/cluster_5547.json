@@ -12,7 +12,10 @@
             "03:38",
             "04:23"
         ],
-        "label": "tonight"
+        "label": {
+            "phrase": "tonight is not the night to discuss this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

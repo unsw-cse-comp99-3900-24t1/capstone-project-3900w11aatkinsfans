@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in order to prevail you've got to keep yourself low",
+            "count": 1
+        }
     },
     "clusterList": [
         {

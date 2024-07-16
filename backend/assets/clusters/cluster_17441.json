@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "sweeney"
+        "label": {
+            "phrase": "sweeney todd that would be easy to make or a french flag",
+            "count": 1
+        }
     },
     "clusterList": [
         {

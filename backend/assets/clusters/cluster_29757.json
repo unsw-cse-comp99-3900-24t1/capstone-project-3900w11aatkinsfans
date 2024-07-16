@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "throw"
+        "label": {
+            "phrase": "throw the bums out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

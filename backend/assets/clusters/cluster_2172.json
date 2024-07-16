@@ -18,7 +18,10 @@
             "04:46",
             "04:51"
         ],
-        "label": "must"
+        "label": {
+            "phrase": "must be the moon",
+            "count": 2
+        }
     },
     "clusterList": [
         {

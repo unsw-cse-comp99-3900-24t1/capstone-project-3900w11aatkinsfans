@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was just about packing my bags to california",
+            "count": 1
+        }
     },
     "clusterList": [
         {

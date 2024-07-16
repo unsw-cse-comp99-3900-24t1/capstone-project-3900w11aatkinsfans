@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so we're in the process of doing up a claim",
+            "count": 1
+        }
     },
     "clusterList": [
         {

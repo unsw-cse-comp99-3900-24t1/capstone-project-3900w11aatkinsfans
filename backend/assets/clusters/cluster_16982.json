@@ -6,7 +6,10 @@
         "xLabels": [
             "02:12"
         ],
-        "label": "where's"
+        "label": {
+            "phrase": "where's the evidence for it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

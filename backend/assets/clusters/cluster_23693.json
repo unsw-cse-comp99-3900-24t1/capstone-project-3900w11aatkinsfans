@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "tasting"
+        "label": {
+            "phrase": "tasting love through the ears is painful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

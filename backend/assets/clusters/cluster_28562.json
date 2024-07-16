@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a case of one hand not knowing what the other is doing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -40,7 +40,10 @@
             "04:59",
             "05:05"
         ],
-        "label": "evidence"
+        "label": {
+            "phrase": "this program has helped us to take potential mass murderers off the streets before they have a chance to kill",
+            "count": 5
+        }
     },
     "clusterList": [
         {

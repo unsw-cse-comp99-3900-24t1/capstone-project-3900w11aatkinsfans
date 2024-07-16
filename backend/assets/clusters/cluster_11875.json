@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "eutelsat"
+        "label": {
+            "phrase": "eutelsat has no authority to exercise any control over the content released by clients on our satellite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

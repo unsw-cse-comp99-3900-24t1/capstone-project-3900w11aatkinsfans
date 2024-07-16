@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if this plane could talk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

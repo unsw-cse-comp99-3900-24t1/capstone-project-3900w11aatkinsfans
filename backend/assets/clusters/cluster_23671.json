@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i don't want to think it could be die but let's just say this is the weekend we need to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

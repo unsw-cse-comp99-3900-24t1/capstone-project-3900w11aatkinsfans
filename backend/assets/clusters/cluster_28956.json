@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but space was an issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

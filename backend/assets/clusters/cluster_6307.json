@@ -10,7 +10,10 @@
             "02:39",
             "04:47"
         ],
-        "label": "never"
+        "label": {
+            "phrase": "never two without three",
+            "count": 1
+        }
     },
     "clusterList": [
         {

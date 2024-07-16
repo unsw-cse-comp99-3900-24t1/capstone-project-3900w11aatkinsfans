@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i haven't visited dallas morning news or any other",
+            "count": 1
+        }
     },
     "clusterList": [
         {

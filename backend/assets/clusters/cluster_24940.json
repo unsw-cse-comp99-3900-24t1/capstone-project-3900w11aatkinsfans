@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the lucky new",
+            "count": 1
+        }
     },
     "clusterList": [
         {

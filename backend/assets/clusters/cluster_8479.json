@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "briefcase"
+        "label": {
+            "phrase": "briefcase full of blues",
+            "count": 2
+        }
     },
     "clusterList": [
         {

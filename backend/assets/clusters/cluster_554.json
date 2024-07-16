@@ -34,7 +34,10 @@
             "04:56",
             "05:01"
         ],
-        "label": "death"
+        "label": {
+            "phrase": "wake the dead",
+            "count": 4
+        }
     },
     "clusterList": [
         {

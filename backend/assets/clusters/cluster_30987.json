@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "key"
+        "label": {
+            "phrase": "key technical levels",
+            "count": 1
+        }
     },
     "clusterList": [
         {

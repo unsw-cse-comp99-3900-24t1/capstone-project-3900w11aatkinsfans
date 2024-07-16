@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the only reason is the lack of the tournaments",
+            "count": 1
+        }
     },
     "clusterList": [
         {

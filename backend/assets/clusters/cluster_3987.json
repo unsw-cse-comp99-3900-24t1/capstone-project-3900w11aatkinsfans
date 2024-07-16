@@ -8,7 +8,10 @@
             "02:01",
             "03:32"
         ],
-        "label": "c"
+        "label": {
+            "phrase": "c in-c ins",
+            "count": 2
+        }
     },
     "clusterList": [
         {

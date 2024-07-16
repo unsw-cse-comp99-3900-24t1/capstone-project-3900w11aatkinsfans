@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this man wishes to be accorded the same privilege as a sponge he wishes to think",
+            "count": 6
+        }
     },
     "clusterList": [
         {

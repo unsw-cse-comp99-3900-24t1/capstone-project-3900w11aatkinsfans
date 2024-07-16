@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "optional"
+        "label": {
+            "phrase": "optional titling rules",
+            "count": 1
+        }
     },
     "clusterList": [
         {

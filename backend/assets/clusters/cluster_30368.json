@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mouth of a perfectly contented man is filled with beer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

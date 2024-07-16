@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "edgy"
+        "label": {
+            "phrase": "edgy street cred",
+            "count": 1
+        }
     },
     "clusterList": [
         {

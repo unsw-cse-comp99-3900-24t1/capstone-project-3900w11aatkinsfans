@@ -6,7 +6,10 @@
         "xLabels": [
             "00:14"
         ],
-        "label": "charlie"
+        "label": {
+            "phrase": "charlie used tennis court netting to get out of the sand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every route you run is a job interview here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:20"
         ],
-        "label": "wheel"
+        "label": {
+            "phrase": "wheel of times",
+            "count": 1
+        }
     },
     "clusterList": [
         {

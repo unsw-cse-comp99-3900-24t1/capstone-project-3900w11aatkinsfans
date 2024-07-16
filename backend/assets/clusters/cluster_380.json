@@ -42,7 +42,10 @@
             "04:45",
             "04:47"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "omg you have competition",
+            "count": 6
+        }
     },
     "clusterList": [
         {

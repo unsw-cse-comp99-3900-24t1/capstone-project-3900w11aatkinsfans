@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "yours"
+        "label": {
+            "phrase": "yours was the worst talk of the conference",
+            "count": 1
+        }
     },
     "clusterList": [
         {

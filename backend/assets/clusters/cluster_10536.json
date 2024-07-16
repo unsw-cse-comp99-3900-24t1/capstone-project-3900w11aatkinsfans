@@ -8,7 +8,10 @@
             "02:13",
             "03:37"
         ],
-        "label": "anytime"
+        "label": {
+            "phrase": "anytime day or night you hear shooting",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "01:09",
             "03:55"
         ],
-        "label": "straight"
+        "label": {
+            "phrase": "straight to grandma's",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're now solvent and we pay our bills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

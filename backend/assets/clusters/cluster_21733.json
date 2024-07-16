@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an old age penchant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

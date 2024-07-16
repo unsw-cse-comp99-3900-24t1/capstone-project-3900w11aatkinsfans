@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't think they're happy with us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

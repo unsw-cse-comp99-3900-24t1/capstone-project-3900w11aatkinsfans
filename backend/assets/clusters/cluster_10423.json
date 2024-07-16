@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "string1"
+        "label": {
+            "phrase": "string1 now contains string1",
+            "count": 2
+        }
     },
     "clusterList": [
         {

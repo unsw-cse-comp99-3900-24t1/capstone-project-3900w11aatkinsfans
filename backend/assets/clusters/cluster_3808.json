@@ -14,7 +14,10 @@
             "01:04",
             "01:16"
         ],
-        "label": "purpose"
+        "label": {
+            "phrase": "purpose for being",
+            "count": 1
+        }
     },
     "clusterList": [
         {

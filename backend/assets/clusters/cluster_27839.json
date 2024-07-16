@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "perfect"
+        "label": {
+            "phrase": "perfect day elise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

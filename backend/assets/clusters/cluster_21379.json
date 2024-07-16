@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a strange american version of easter island",
+            "count": 1
+        }
     },
     "clusterList": [
         {

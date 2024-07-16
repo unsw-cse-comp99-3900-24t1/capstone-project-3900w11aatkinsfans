@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "showing"
+        "label": {
+            "phrase": "showing them how it's done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

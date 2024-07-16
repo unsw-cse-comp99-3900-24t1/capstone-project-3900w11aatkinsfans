@@ -6,7 +6,10 @@
         "xLabels": [
             "02:49"
         ],
-        "label": "great"
+        "label": {
+            "phrase": "great classic courses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

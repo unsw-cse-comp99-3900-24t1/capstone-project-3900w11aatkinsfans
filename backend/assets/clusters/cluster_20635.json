@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the one above i heard on a t",
+            "count": 1
+        }
     },
     "clusterList": [
         {

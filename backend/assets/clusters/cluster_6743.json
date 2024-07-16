@@ -8,7 +8,10 @@
             "01:41",
             "02:20"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm in a constant state of boogie",
+            "count": 3
+        }
     },
     "clusterList": [
         {

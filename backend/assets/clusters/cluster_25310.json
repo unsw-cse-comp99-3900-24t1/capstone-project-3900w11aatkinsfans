@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a kritter called martin libra born three weeks prematurely",
+            "count": 1
+        }
     },
     "clusterList": [
         {

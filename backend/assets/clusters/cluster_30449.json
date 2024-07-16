@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "crazy"
+        "label": {
+            "phrase": "crazy base world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

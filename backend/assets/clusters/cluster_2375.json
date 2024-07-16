@@ -18,7 +18,10 @@
             "03:27",
             "04:13"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have an epidemic here",
+            "count": 6
+        }
     },
     "clusterList": [
         {

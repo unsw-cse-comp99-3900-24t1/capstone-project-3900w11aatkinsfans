@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all human acts and products are natural",
+            "count": 1
+        }
     },
     "clusterList": [
         {

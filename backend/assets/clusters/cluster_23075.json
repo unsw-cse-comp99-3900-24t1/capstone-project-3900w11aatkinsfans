@@ -6,7 +6,10 @@
         "xLabels": [
             "02:36"
         ],
-        "label": "hopefully"
+        "label": {
+            "phrase": "hopefully someone will know something",
+            "count": 1
+        }
     },
     "clusterList": [
         {

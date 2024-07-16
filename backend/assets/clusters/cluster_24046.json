@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "20s"
+        "label": {
+            "phrase": "20s s n",
+            "count": 1
+        }
     },
     "clusterList": [
         {

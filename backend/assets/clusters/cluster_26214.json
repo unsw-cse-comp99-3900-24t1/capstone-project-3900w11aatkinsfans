@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "otherwise"
+        "label": {
+            "phrase": "otherwise exempt vehicle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

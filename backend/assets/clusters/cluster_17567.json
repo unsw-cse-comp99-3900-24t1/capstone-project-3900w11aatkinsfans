@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "javascript"
+        "label": {
+            "phrase": "javascript checkradiobutton themekey",
+            "count": 1
+        }
     },
     "clusterList": [
         {

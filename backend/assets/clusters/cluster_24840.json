@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "pray"
+        "label": {
+            "phrase": "pray tell layla of what are you speaking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

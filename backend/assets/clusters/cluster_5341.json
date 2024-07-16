@@ -12,7 +12,10 @@
             "04:07",
             "04:35"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is your favourite tv show of all time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

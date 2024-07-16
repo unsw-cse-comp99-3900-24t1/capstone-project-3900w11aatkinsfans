@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not so nice for me to beat two canadians",
+            "count": 1
+        }
     },
     "clusterList": [
         {

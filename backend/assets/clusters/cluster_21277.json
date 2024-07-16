@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't call it a roll of the dice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

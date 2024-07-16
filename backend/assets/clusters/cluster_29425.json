@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "herbie"
+        "label": {
+            "phrase": "herbie fully loaded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

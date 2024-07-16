@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "gt"
+        "label": {
+            "phrase": "gt a word on comments",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "lyndon"
+        "label": {
+            "phrase": "lyndon larouche is a lunatic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

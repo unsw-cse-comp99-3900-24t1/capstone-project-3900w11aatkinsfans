@@ -14,7 +14,10 @@
             "01:45",
             "03:39"
         ],
-        "label": "guess"
+        "label": {
+            "phrase": "guess who's coming to america",
+            "count": 1
+        }
     },
     "clusterList": [
         {

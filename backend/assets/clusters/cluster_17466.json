@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "inauguration"
+        "label": {
+            "phrase": "inauguration of the pleasure dome",
+            "count": 1
+        }
     },
     "clusterList": [
         {

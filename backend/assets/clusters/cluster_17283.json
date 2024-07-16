@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i thought the train decapitated superman and it gave me nightmares",
+            "count": 1
+        }
     },
     "clusterList": [
         {

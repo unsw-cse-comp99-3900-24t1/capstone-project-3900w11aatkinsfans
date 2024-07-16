@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "tonsil"
+        "label": {
+            "phrase": "tonsil cancer tumor staging t1n1m0 chances of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

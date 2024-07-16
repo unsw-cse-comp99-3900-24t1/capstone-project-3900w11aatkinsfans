@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did anil ever tell you that scott and i got married a couple months ago",
+            "count": 1
+        }
     },
     "clusterList": [
         {

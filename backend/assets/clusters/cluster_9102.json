@@ -6,7 +6,10 @@
         "xLabels": [
             "04:01"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is my second year that i will be in more than one event",
+            "count": 1
+        }
     },
     "clusterList": [
         {

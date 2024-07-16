@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "national"
+        "label": {
+            "phrase": "national drug threat assessment 2006",
+            "count": 1
+        }
     },
     "clusterList": [
         {

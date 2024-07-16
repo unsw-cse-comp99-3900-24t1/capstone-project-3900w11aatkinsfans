@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "gt"
+        "label": {
+            "phrase": "gt is your money safe in the bank",
+            "count": 1
+        }
     },
     "clusterList": [
         {

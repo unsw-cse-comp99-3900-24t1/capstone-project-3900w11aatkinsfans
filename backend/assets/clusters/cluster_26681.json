@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the falsifiability test",
+            "count": 1
+        }
     },
     "clusterList": [
         {

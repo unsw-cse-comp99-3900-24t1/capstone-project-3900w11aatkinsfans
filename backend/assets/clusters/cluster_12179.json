@@ -8,7 +8,10 @@
             "03:30",
             "04:00"
         ],
-        "label": "between"
+        "label": {
+            "phrase": "between a man and a woman",
+            "count": 1
+        }
     },
     "clusterList": [
         {

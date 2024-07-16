@@ -10,7 +10,10 @@
             "03:22",
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the house of blue leaves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

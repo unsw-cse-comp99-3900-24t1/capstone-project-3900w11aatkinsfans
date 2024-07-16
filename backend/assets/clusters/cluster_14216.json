@@ -6,7 +6,10 @@
         "xLabels": [
             "00:18"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's like having a cake and you can't light the candles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

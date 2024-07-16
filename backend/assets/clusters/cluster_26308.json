@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "branded"
+        "label": {
+            "phrase": "branded name logo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

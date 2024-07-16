@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this would be even better if another guy were here make that two other guys",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "miss"
+        "label": {
+            "phrase": "miss or mr physics academic whizbang",
+            "count": 1
+        }
     },
     "clusterList": [
         {

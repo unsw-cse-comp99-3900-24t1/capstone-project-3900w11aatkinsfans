@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the online home energy analysis tool allows customers to take control of their energy consumption understanding how and when electricity is used is a basic step consumers can take towards increasing energy efficiency and reducing their monthly electric bills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the most noble creatures would get that kind of ring and renounce worldly goods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

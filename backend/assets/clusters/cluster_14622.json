@@ -6,7 +6,10 @@
         "xLabels": [
             "00:23"
         ],
-        "label": "want"
+        "label": {
+            "phrase": "want to set up an appointment with a mortgage broker",
+            "count": 1
+        }
     },
     "clusterList": [
         {

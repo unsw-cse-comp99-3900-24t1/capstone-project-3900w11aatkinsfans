@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if we did anything illegal or that was not fair we'd know about it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

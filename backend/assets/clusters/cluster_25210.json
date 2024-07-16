@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh i'll leave toby here i suppose he should be able to keep out of mischief for an hour or so",
+            "count": 1
+        }
     },
     "clusterList": [
         {

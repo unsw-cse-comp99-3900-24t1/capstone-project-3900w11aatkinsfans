@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "burn"
+        "label": {
+            "phrase": "burn your tweets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

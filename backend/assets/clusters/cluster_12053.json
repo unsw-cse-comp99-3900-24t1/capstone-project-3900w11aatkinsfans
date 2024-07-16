@@ -8,7 +8,10 @@
             "04:31",
             "04:41"
         ],
-        "label": "everybody"
+        "label": {
+            "phrase": "everybody looks at you and waves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

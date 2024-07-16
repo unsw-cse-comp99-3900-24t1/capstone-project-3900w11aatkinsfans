@@ -8,7 +8,10 @@
             "02:23",
             "02:28"
         ],
-        "label": "increased"
+        "label": {
+            "phrase": "increased spell damage and healing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

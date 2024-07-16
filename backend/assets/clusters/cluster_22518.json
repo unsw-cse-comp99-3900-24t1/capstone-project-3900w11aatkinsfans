@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is another woman there's always been another woman hasn't there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

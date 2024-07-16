@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one percent chance that billions will die",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:01",
             "04:10"
         ],
-        "label": "britney"
+        "label": {
+            "phrase": "britney has made clear to everyone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

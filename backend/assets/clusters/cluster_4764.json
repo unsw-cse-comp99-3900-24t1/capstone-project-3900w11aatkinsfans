@@ -12,7 +12,10 @@
             "03:01",
             "04:23"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's all building up",
+            "count": 4
+        }
     },
     "clusterList": [
         {

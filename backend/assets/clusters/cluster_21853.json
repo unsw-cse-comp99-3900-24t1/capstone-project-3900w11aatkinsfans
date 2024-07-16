@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "like"
+        "label": {
+            "phrase": "like new perfect condition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

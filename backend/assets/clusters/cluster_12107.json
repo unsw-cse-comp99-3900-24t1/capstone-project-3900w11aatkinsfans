@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all qualifying flights",
+            "count": 2
+        }
     },
     "clusterList": [
         {

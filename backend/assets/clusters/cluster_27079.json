@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "btw"
+        "label": {
+            "phrase": "btw elmo told me this joke",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "permanent"
+        "label": {
+            "phrase": "permanent supportive housing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

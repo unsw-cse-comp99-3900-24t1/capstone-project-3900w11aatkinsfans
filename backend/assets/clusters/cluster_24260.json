@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we make a living by what we get-we make a life by what we give",
+            "count": 1
+        }
     },
     "clusterList": [
         {

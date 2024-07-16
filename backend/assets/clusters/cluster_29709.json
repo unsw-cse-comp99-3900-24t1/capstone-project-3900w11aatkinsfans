@@ -6,7 +6,10 @@
         "xLabels": [
             "04:35"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was mathematics and that's what happens",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "04:33",
             "05:01"
         ],
-        "label": "bottom"
+        "label": {
+            "phrase": "bottom of the deck",
+            "count": 6
+        }
     },
     "clusterList": [
         {

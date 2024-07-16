@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where are you trapped how are you sending me notes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

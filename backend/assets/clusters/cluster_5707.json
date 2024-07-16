@@ -10,7 +10,10 @@
             "00:09",
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the five dysfunctions of a team",
+            "count": 2
+        }
     },
     "clusterList": [
         {

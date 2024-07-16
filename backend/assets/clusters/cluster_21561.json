@@ -6,7 +6,10 @@
         "xLabels": [
             "02:08"
         ],
-        "label": "tibetans"
+        "label": {
+            "phrase": "tibetans hired by the imperial court",
+            "count": 1
+        }
     },
     "clusterList": [
         {

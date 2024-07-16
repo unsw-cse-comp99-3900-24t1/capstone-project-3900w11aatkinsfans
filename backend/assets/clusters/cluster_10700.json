@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do what ever it takes",
+            "count": 2
+        }
     },
     "clusterList": [
         {

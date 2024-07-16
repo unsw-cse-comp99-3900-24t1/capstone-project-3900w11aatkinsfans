@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i thought no-one would find me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

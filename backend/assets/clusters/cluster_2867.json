@@ -12,7 +12,10 @@
             "03:01",
             "04:32"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "what does two plus two equal",
+            "count": 2
+        }
     },
     "clusterList": [
         {

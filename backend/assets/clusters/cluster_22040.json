@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and it wouldn't do any good to call the maintenance or repair people because they wouldn't be able to get there even if you could get through to them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

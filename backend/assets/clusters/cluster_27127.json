@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "probably"
+        "label": {
+            "phrase": "probably calling animal control",
+            "count": 1
+        }
     },
     "clusterList": [
         {

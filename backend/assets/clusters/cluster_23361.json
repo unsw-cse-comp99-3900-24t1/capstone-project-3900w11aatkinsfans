@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how many reporters are around me right now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

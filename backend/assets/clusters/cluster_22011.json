@@ -6,7 +6,10 @@
         "xLabels": [
             "02:17"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on air now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

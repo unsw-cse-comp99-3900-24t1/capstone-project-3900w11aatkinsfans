@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "ai"
+        "label": {
+            "phrase": "ai wha-what why",
+            "count": 1
+        }
     },
     "clusterList": [
         {

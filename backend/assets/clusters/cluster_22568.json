@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've seen cockroaches just pour out of the bottom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "04:40",
             "04:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pressure's on me now",
+            "count": 6
+        }
     },
     "clusterList": [
         {

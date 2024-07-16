@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i shall laugh at gilded butterflies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

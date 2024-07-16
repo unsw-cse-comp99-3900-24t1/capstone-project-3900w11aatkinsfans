@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "ten"
+        "label": {
+            "phrase": "ten most wanted corrupt politicians",
+            "count": 1
+        }
     },
     "clusterList": [
         {

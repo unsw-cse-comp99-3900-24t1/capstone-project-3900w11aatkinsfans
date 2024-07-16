@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "marry"
+        "label": {
+            "phrase": "marry the prettiest girl in town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

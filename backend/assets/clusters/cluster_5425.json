@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "shhh"
+        "label": {
+            "phrase": "shhh its ok mia",
+            "count": 3
+        }
     },
     "clusterList": [
         {

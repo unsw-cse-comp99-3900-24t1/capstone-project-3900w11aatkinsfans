@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "fueled"
+        "label": {
+            "phrase": "fueled by ramen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

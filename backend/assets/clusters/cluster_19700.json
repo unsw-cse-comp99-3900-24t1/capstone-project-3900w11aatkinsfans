@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "supermassive"
+        "label": {
+            "phrase": "supermassive black hole",
+            "count": 1
+        }
     },
     "clusterList": [
         {

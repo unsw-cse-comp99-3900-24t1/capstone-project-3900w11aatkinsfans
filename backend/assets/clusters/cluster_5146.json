@@ -10,7 +10,10 @@
             "03:23",
             "04:04"
         ],
-        "label": "quick"
+        "label": {
+            "phrase": "quick and dirty",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:01",
             "03:15"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a fool there was",
+            "count": 1
+        }
     },
     "clusterList": [
         {

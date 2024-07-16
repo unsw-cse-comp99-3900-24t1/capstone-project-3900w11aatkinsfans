@@ -10,7 +10,10 @@
             "02:32",
             "04:19"
         ],
-        "label": "gt"
+        "label": {
+            "phrase": "shipping charges collect",
+            "count": 2
+        }
     },
     "clusterList": [
         {

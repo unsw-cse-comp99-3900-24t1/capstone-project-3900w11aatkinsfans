@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are devices that do similar things but none withe touchscreen interface that apple",
+            "count": 1
+        }
     },
     "clusterList": [
         {

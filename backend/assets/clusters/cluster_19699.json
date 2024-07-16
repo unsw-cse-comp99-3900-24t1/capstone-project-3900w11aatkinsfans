@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "map"
+        "label": {
+            "phrase": "map of the problematique",
+            "count": 1
+        }
     },
     "clusterList": [
         {

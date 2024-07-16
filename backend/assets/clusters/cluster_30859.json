@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "michigan"
+        "label": {
+            "phrase": "michigan solar car team wins 2 400-mile race",
+            "count": 1
+        }
     },
     "clusterList": [
         {

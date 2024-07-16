@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when mysql bites",
+            "count": 1
+        }
     },
     "clusterList": [
         {

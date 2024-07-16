@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we haven't received many calls",
+            "count": 1
+        }
     },
     "clusterList": [
         {

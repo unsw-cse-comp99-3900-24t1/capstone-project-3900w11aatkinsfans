@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what was he doing at the vanity fair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

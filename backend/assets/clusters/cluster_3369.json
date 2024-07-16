@@ -12,7 +12,10 @@
             "01:33",
             "03:34"
         ],
-        "label": "moving"
+        "label": {
+            "phrase": "the motorcade sped on",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is a growing need for correction officers throughout the state",
+            "count": 1
+        }
     },
     "clusterList": [
         {

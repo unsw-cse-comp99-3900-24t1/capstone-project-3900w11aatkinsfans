@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they have to meet certain standards",
+            "count": 1
+        }
     },
     "clusterList": [
         {

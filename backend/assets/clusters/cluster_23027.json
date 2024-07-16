@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what exactly is a blessingway",
+            "count": 1
+        }
     },
     "clusterList": [
         {

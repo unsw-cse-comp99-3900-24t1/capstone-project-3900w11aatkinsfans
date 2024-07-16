@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what the frock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

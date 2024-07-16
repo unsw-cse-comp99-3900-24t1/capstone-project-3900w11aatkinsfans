@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "s"
+        "label": {
+            "phrase": "s eval python",
+            "count": 1
+        }
     },
     "clusterList": [
         {

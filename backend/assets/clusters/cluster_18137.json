@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "dialogues"
+        "label": {
+            "phrase": "dialogues of carmelites",
+            "count": 1
+        }
     },
     "clusterList": [
         {

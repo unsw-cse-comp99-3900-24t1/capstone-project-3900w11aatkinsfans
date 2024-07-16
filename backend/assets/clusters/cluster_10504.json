@@ -8,7 +8,10 @@
             "02:10",
             "04:23"
         ],
-        "label": "special"
+        "label": {
+            "phrase": "special called ones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

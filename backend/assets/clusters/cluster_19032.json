@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "hillsborough"
+        "label": {
+            "phrase": "hillsborough county's supply is 49 6 months or more than four years pasco and pinellas counties have nearly five-year supplies and hernando county's lot supply is 136 months or 11 years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

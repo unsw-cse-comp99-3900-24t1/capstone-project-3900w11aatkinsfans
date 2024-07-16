@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "self-serving"
+        "label": {
+            "phrase": "self-serving intrigue and truth-evading maneuvers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

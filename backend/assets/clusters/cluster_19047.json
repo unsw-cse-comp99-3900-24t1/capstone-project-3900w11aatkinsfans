@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i see what you did there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

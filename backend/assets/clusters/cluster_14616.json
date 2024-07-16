@@ -6,7 +6,10 @@
         "xLabels": [
             "00:23"
         ],
-        "label": "beware"
+        "label": {
+            "phrase": "beware doll you're bound to fall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

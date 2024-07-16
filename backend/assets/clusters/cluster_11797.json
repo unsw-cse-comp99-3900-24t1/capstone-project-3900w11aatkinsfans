@@ -8,7 +8,10 @@
             "00:04",
             "01:15"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a big reason why i'm selling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

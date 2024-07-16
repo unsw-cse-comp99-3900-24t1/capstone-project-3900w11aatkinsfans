@@ -8,7 +8,10 @@
             "01:19",
             "05:05"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when the time is ripe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

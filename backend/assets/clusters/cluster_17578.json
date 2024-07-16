@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "change"
+        "label": {
+            "phrase": "change so video and audio durations match ok",
+            "count": 1
+        }
     },
     "clusterList": [
         {

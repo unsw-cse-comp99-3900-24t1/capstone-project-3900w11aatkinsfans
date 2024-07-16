@@ -200,7 +200,10 @@
             "04:56",
             "05:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "doesn't look like all those other presidents on the dollar bills",
+            "count": 160
+        }
     },
     "clusterList": [
         {

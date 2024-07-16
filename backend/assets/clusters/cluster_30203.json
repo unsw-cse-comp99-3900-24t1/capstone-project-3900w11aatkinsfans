@@ -6,7 +6,10 @@
         "xLabels": [
             "04:43"
         ],
-        "label": "phyllis"
+        "label": {
+            "phrase": "phyllis told me i should get a pedometer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

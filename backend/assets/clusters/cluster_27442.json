@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're still laid-back still not too sophisticated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

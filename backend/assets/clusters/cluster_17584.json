@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "browse"
+        "label": {
+            "phrase": "browse by weekly snapshot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

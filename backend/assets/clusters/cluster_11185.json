@@ -8,7 +8,10 @@
             "03:09",
             "04:24"
         ],
-        "label": "produce"
+        "label": {
+            "phrase": "produce the note",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "be"
+        "label": {
+            "phrase": "be excellent to each other",
+            "count": 1
+        }
     },
     "clusterList": [
         {

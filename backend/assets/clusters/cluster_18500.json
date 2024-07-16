@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "stage"
+        "label": {
+            "phrase": "stage your home to sell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

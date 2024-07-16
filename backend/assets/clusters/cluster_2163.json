@@ -20,7 +20,10 @@
             "04:33",
             "04:38"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't go dressed like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

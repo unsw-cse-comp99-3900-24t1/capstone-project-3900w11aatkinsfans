@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm the master of everything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

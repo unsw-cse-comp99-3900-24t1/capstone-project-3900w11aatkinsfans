@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "sounds"
+        "label": {
+            "phrase": "sounds funny but it's very true",
+            "count": 1
+        }
     },
     "clusterList": [
         {

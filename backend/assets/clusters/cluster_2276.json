@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are ya in there amy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

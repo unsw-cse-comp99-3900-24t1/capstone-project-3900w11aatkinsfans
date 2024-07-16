@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "renting"
+        "label": {
+            "phrase": "renting computers was unheard of in those days",
+            "count": 1
+        }
     },
     "clusterList": [
         {

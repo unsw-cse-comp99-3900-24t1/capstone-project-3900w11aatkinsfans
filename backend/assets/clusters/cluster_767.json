@@ -38,7 +38,10 @@
             "04:32",
             "04:55"
         ],
-        "label": "whatever"
+        "label": {
+            "phrase": "whatever you're hearing i'm not hearing",
+            "count": 7
+        }
     },
     "clusterList": [
         {

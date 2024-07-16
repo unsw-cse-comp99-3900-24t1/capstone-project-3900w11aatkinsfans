@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ali shuffle is something that i've been working on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

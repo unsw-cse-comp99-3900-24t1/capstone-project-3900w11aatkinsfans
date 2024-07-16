@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "secondary"
+        "label": {
+            "phrase": "secondary morrison mutations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

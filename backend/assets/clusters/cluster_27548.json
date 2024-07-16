@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not for publication",
+            "count": 1
+        }
     },
     "clusterList": [
         {

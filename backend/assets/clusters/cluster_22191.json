@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some christmas pictures",
+            "count": 1
+        }
     },
     "clusterList": [
         {

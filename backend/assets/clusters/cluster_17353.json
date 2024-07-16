@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is is still cheating if everyone is doing it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

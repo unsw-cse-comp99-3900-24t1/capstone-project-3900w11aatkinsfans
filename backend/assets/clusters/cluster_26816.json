@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in a world without ninja",
+            "count": 1
+        }
     },
     "clusterList": [
         {

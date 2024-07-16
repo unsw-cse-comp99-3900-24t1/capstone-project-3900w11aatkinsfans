@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "watchband-itis"
+        "label": {
+            "phrase": "watchband-itis it happens all the time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

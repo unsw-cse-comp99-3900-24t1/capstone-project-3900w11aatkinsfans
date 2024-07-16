@@ -8,7 +8,10 @@
             "01:10",
             "01:32"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i give them water now they're not going to touch it",
+            "count": 4
+        }
     },
     "clusterList": [
         {

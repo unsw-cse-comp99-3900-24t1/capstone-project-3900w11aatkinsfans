@@ -12,7 +12,10 @@
             "02:18",
             "05:03"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes very popular",
+            "count": 1
+        }
     },
     "clusterList": [
         {

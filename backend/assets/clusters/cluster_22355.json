@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "desktop"
+        "label": {
+            "phrase": "desktop effects could not be enabled",
+            "count": 1
+        }
     },
     "clusterList": [
         {

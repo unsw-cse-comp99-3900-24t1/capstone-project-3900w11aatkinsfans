@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "harvest"
+        "label": {
+            "phrase": "harvest information from her organization",
+            "count": 1
+        }
     },
     "clusterList": [
         {

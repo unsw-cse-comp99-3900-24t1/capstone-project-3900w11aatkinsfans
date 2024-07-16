@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "steve"
+        "label": {
+            "phrase": "steve has worked wonders in building up our domestic television business",
+            "count": 1
+        }
     },
     "clusterList": [
         {

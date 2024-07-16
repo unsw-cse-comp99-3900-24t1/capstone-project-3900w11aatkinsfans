@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "ah"
+        "label": {
+            "phrase": "ah maison parlez-vous francais which hotel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

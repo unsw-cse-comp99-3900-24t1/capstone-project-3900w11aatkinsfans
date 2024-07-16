@@ -24,7 +24,10 @@
             "03:27",
             "04:15"
         ],
-        "label": "john"
+        "label": {
+            "phrase": "john came up to me and said mike if the season started today where do you see me",
+            "count": 8
+        }
     },
     "clusterList": [
         {

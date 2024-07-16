@@ -6,7 +6,10 @@
         "xLabels": [
             "00:29"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you wanted to get me on my back all you had to do was ask me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

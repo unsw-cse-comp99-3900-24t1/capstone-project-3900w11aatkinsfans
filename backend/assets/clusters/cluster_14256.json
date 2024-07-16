@@ -6,7 +6,10 @@
         "xLabels": [
             "00:19"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was like being told by bugs bunny that he didn't want to work with elmer fudd anymore",
+            "count": 1
+        }
     },
     "clusterList": [
         {

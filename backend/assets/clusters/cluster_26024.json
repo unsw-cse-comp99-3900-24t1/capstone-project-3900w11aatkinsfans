@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "minha"
+        "label": {
+            "phrase": "minha foto no mother",
+            "count": 1
+        }
     },
     "clusterList": [
         {

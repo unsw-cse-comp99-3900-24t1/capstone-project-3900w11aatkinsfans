@@ -6,7 +6,10 @@
         "xLabels": [
             "02:49"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to feed a habit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

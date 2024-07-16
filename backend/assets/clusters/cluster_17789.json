@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we should clip the wings of isi",
+            "count": 1
+        }
     },
     "clusterList": [
         {

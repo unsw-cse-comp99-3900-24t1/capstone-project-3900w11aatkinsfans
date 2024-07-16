@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "insert"
+        "label": {
+            "phrase": "insert name really hmm that's an interesting choice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

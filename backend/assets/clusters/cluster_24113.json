@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm sure we talked about it last year at the presidents cup",
+            "count": 1
+        }
     },
     "clusterList": [
         {

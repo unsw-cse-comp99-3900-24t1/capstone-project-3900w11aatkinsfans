@@ -8,7 +8,10 @@
             "00:24",
             "03:32"
         ],
-        "label": "ice"
+        "label": {
+            "phrase": "ice cream social",
+            "count": 1
+        }
     },
     "clusterList": [
         {

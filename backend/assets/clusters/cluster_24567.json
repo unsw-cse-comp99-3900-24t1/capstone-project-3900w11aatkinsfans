@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one man's throat-chopping reportage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

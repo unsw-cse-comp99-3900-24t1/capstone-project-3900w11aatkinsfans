@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you think he's got pinpoint control",
+            "count": 1
+        }
     },
     "clusterList": [
         {

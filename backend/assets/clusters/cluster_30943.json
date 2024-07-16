@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "shenzhen"
+        "label": {
+            "phrase": "shenzhen youth news",
+            "count": 1
+        }
     },
     "clusterList": [
         {

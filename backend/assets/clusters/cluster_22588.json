@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not enough material",
+            "count": 1
+        }
     },
     "clusterList": [
         {

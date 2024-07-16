@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "amigos"
+        "label": {
+            "phrase": "amigos para siempre means you'll always be my friend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

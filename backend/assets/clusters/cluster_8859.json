@@ -8,7 +8,10 @@
             "00:36",
             "04:28"
         ],
-        "label": "alice"
+        "label": {
+            "phrase": "alice max its time to go",
+            "count": 1
+        }
     },
     "clusterList": [
         {

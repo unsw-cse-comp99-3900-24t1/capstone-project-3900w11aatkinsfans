@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are very pleased with the successful disposition of this case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

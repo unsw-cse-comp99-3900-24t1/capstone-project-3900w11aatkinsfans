@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and what do you gather from this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

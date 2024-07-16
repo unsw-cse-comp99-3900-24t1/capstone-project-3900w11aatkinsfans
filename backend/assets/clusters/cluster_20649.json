@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't know if it's a motivational speech as much as it is an educational talk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

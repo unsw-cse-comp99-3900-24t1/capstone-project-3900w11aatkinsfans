@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this used to be called mopping up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "pea"
+        "label": {
+            "phrase": "pea in the tub",
+            "count": 1
+        }
     },
     "clusterList": [
         {

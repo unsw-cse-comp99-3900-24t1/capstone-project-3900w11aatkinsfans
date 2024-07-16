@@ -8,7 +8,10 @@
             "01:52",
             "02:01"
         ],
-        "label": "shakes"
+        "label": {
+            "phrase": "shakes and malteds",
+            "count": 2
+        }
     },
     "clusterList": [
         {

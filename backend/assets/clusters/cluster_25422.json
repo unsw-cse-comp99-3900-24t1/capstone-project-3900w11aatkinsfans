@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "disappointed"
+        "label": {
+            "phrase": "disappointed that they clamped down on the internet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

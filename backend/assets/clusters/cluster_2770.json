@@ -16,7 +16,10 @@
             "02:42",
             "04:15"
         ],
-        "label": "brain"
+        "label": {
+            "phrase": "a different kind of crazy",
+            "count": 2
+        }
     },
     "clusterList": [
         {

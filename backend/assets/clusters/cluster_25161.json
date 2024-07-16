@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "toots"
+        "label": {
+            "phrase": "toots can youse step outside fer a minute",
+            "count": 1
+        }
     },
     "clusterList": [
         {

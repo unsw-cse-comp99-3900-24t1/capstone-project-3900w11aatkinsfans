@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our research shows that not only is simulation one of the top strategies for engineering executives but that enabling multiphysics analyses is a fundamental key to success",
+            "count": 1
+        }
     },
     "clusterList": [
         {

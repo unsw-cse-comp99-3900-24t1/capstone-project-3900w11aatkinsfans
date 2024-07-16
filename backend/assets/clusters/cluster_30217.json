@@ -6,7 +6,10 @@
         "xLabels": [
             "04:44"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the other day they were shouting action and cut",
+            "count": 1
+        }
     },
     "clusterList": [
         {

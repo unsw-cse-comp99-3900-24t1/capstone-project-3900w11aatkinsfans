@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "capital"
+        "label": {
+            "phrase": "capital of siberia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

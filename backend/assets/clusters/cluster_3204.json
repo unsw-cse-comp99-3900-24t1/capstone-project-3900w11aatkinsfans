@@ -16,7 +16,10 @@
             "03:05",
             "05:04"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get out of here sheila",
+            "count": 2
+        }
     },
     "clusterList": [
         {

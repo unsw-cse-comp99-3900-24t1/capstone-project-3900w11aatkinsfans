@@ -6,7 +6,10 @@
         "xLabels": [
             "05:02"
         ],
-        "label": "warping"
+        "label": {
+            "phrase": "warping and loom preparation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

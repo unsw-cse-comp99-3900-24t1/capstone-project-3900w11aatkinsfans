@@ -32,7 +32,10 @@
             "04:16",
             "04:32"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "that's news to me",
+            "count": 5
+        }
     },
     "clusterList": [
         {

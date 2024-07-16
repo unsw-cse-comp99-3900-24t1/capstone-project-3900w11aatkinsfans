@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "tolowercase"
+        "label": {
+            "phrase": "tolowercase false false true",
+            "count": 1
+        }
     },
     "clusterList": [
         {

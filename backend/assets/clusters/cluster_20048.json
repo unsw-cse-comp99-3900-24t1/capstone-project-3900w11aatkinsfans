@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "heavy"
+        "label": {
+            "phrase": "heavy excess baggage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

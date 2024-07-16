@@ -12,7 +12,10 @@
             "04:22",
             "04:33"
         ],
-        "label": "morning"
+        "label": {
+            "phrase": "morning scotty the big day",
+            "count": 3
+        }
     },
     "clusterList": [
         {

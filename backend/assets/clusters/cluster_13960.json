@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "such"
+        "label": {
+            "phrase": "such a sweet bear",
+            "count": 1
+        }
     },
     "clusterList": [
         {

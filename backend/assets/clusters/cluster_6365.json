@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we ate a baby pizza boy",
+            "count": 3
+        }
     },
     "clusterList": [
         {

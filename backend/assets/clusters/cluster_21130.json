@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this gave me exposure to most of naples",
+            "count": 1
+        }
     },
     "clusterList": [
         {

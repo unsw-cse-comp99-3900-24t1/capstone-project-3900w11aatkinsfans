@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to me it was the obvious place they should have looked first",
+            "count": 1
+        }
     },
     "clusterList": [
         {

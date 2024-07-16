@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there have to be no leaks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

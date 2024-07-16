@@ -10,7 +10,10 @@
             "01:29",
             "03:24"
         ],
-        "label": "carnac"
+        "label": {
+            "phrase": "carnac the magnificent",
+            "count": 2
+        }
     },
     "clusterList": [
         {

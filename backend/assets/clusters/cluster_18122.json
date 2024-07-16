@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "there'll"
+        "label": {
+            "phrase": "there'll be some guys who are available",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:01",
             "03:18"
         ],
-        "label": "wtf"
+        "label": {
+            "phrase": "wtf is going on with you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

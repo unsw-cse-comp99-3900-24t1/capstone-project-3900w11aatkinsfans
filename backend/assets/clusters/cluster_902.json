@@ -8,7 +8,10 @@
             "02:32",
             "03:51"
         ],
-        "label": "usr"
+        "label": {
+            "phrase": "usr lib python2 5 site-packages django db models loading py",
+            "count": 6
+        }
     },
     "clusterList": [
         {

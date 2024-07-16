@@ -16,7 +16,10 @@
             "02:32",
             "04:05"
         ],
-        "label": "burying"
+        "label": {
+            "phrase": "burying bad news",
+            "count": 1
+        }
     },
     "clusterList": [
         {

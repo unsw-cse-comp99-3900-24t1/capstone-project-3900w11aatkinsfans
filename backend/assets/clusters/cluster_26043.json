@@ -6,7 +6,10 @@
         "xLabels": [
             "03:35"
         ],
-        "label": "nobody"
+        "label": {
+            "phrase": "nobody is providing justification for those people who violate the wada rules",
+            "count": 1
+        }
     },
     "clusterList": [
         {

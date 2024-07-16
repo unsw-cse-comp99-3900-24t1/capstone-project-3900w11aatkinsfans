@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "yeah"
+        "label": {
+            "phrase": "yeah you can just smack it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

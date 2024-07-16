@@ -20,7 +20,10 @@
             "04:28",
             "04:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best rapper alive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

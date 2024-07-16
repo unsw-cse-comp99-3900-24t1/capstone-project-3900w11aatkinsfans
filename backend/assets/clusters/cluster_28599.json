@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "caroline"
+        "label": {
+            "phrase": "caroline wake up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

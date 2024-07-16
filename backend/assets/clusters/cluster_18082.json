@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "works"
+        "label": {
+            "phrase": "works are great they're just a terrible savior",
+            "count": 1
+        }
     },
     "clusterList": [
         {

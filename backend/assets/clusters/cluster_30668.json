@@ -6,7 +6,10 @@
         "xLabels": [
             "04:54"
         ],
-        "label": "prof"
+        "label": {
+            "phrase": "prof a penck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

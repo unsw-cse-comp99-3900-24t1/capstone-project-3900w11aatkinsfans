@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is it just me or is there a kritter nearby",
+            "count": 1
+        }
     },
     "clusterList": [
         {

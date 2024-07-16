@@ -12,7 +12,10 @@
             "03:00",
             "04:45"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're still a texas ranger",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:19"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone uses the word dickensian i don't know whatever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

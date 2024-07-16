@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "district"
+        "label": {
+            "phrase": "district strength rating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

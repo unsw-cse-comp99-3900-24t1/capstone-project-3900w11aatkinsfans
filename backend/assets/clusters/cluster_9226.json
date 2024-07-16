@@ -8,7 +8,10 @@
             "00:51",
             "00:56"
         ],
-        "label": "bill"
+        "label": {
+            "phrase": "bill don't read this post",
+            "count": 1
+        }
     },
     "clusterList": [
         {

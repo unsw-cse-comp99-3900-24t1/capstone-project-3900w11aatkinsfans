@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "nothing"
+        "label": {
+            "phrase": "nothing but refugee rumors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "america"
+        "label": {
+            "phrase": "america rose because it got more out of its own people than other nations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "igisee"
+        "label": {
+            "phrase": "igisee snork snork hiss hiss",
+            "count": 3
+        }
     },
     "clusterList": [
         {

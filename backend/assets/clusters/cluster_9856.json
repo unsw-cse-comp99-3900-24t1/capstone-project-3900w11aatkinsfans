@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "change"
+        "label": {
+            "phrase": "change your face",
+            "count": 2
+        }
     },
     "clusterList": [
         {

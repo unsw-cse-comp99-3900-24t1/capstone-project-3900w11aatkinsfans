@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "ruby"
+        "label": {
+            "phrase": "ruby programming exceptions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

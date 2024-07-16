@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "ode"
+        "label": {
+            "phrase": "ode to a cluster of violets",
+            "count": 2
+        }
     },
     "clusterList": [
         {

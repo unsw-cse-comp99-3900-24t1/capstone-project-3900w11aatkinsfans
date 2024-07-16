@@ -42,7 +42,10 @@
             "04:28",
             "04:33"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he looks french",
+            "count": 2
+        }
     },
     "clusterList": [
         {

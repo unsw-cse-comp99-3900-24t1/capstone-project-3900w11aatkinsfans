@@ -12,7 +12,10 @@
             "03:42",
             "04:18"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god told me to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

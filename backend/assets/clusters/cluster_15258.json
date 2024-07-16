@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "value"
+        "label": {
+            "phrase": "value from location",
+            "count": 1
+        }
     },
     "clusterList": [
         {

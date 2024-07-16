@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "having"
+        "label": {
+            "phrase": "having to face execution is something that most of us can never really imagine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

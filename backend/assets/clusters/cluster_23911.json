@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "charles"
+        "label": {
+            "phrase": "charles is like everybody uncle the type you like to have around",
+            "count": 1
+        }
     },
     "clusterList": [
         {

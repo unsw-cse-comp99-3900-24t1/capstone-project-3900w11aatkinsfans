@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this isn't the free new year's eve taxi ride where no questions are asked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

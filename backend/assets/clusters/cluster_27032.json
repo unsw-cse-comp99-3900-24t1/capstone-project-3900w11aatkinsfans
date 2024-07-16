@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "anywhere"
+        "label": {
+            "phrase": "anywhere from parent conference to suspension or expulsion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

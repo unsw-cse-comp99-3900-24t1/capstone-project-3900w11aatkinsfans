@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who really made your car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

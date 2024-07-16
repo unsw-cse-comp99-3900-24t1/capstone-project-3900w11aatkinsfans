@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "mind"
+        "label": {
+            "phrase": "mind your own business",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is my rifle this is my gun this is for fighting this is for fun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

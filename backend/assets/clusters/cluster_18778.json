@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "see"
+        "label": {
+            "phrase": "see hear speak no evil",
+            "count": 1
+        }
     },
     "clusterList": [
         {

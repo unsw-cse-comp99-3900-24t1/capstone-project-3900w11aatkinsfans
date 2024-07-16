@@ -10,7 +10,10 @@
             "01:19",
             "04:23"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all the information is required",
+            "count": 1
+        }
     },
     "clusterList": [
         {

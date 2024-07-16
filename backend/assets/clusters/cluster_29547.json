@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "medusa"
+        "label": {
+            "phrase": "medusa dare to be truthful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

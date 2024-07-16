@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "sure"
+        "label": {
+            "phrase": "sure ting toots",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:45"
         ],
-        "label": "blank"
+        "label": {
+            "phrase": "blank check to harass the polar bear",
+            "count": 3
+        }
     },
     "clusterList": [
         {

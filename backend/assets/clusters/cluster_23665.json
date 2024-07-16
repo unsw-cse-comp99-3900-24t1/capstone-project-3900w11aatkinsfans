@@ -6,7 +6,10 @@
         "xLabels": [
             "02:49"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the golfing machine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

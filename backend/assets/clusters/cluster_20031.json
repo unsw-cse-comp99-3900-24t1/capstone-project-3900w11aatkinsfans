@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "kids"
+        "label": {
+            "phrase": "kids don't know anything about credit until it's too late and they've ruined it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

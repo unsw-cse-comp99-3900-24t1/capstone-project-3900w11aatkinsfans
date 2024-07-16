@@ -6,7 +6,10 @@
         "xLabels": [
             "03:25"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the limbo bush",
+            "count": 1
+        }
     },
     "clusterList": [
         {

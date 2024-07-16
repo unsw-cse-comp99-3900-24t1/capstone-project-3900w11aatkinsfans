@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "i'll"
+        "label": {
+            "phrase": "i'll only use my cards for emergencies i promise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

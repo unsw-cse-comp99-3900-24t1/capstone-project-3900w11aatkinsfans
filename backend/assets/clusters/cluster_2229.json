@@ -16,7 +16,10 @@
             "03:51",
             "03:56"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "it's still a 15-by-15 board and you get seven letters with point value",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we wanted to invite everybody that's helped us out this past year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

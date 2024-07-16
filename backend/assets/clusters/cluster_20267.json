@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey memphis what happens when you get three stikes yup i'm out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

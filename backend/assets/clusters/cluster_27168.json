@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "fema"
+        "label": {
+            "phrase": "fema is not going to hesitate at all in this storm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

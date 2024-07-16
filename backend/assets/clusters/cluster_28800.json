@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "off"
+        "label": {
+            "phrase": "off the shelf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

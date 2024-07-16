@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we do have thousands of people who are owed thousands of dollars",
+            "count": 1
+        }
     },
     "clusterList": [
         {

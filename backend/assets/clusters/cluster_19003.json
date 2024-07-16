@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "putting"
+        "label": {
+            "phrase": "putting for preemies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

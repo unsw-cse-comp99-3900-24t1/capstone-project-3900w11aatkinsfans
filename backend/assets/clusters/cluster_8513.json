@@ -8,7 +8,10 @@
             "00:20",
             "02:19"
         ],
-        "label": "little"
+        "label": {
+            "phrase": "little crappy ship",
+            "count": 1
+        }
     },
     "clusterList": [
         {

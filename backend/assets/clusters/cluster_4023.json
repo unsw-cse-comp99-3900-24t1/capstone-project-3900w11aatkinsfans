@@ -14,7 +14,10 @@
             "03:51",
             "05:04"
         ],
-        "label": "blaaaah"
+        "label": {
+            "phrase": "there are lots of false starts where the band can't get it together",
+            "count": 2
+        }
     },
     "clusterList": [
         {

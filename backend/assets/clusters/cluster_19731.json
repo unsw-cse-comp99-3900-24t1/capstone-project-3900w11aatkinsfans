@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh shutup voicemail person",
+            "count": 1
+        }
     },
     "clusterList": [
         {

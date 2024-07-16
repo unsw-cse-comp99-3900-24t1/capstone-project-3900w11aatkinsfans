@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "total"
+        "label": {
+            "phrase": "total eclipse of the heart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

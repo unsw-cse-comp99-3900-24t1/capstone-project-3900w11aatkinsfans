@@ -8,7 +8,10 @@
             "02:01",
             "02:42"
         ],
-        "label": "study"
+        "label": {
+            "phrase": "study everything join nothing",
+            "count": 2
+        }
     },
     "clusterList": [
         {

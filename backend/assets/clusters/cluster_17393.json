@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why don't you go change his diaper frannie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

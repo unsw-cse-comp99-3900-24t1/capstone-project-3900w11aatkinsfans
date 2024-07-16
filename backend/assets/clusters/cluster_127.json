@@ -82,7 +82,10 @@
             "04:40",
             "04:45"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "he did not complete a single investigation or risk assessment",
+            "count": 10
+        }
     },
     "clusterList": [
         {

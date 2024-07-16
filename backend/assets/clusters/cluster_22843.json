@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "readiness"
+        "label": {
+            "phrase": "readiness to buy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this erases everything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

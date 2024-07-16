@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "john"
+        "label": {
+            "phrase": "john from cincinnati",
+            "count": 1
+        }
     },
     "clusterList": [
         {

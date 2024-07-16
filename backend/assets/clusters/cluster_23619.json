@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the last thing i would want to do is lay people off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

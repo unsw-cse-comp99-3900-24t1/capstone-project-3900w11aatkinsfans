@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "sure"
+        "label": {
+            "phrase": "sure you want to write a new bootsector to the partition c",
+            "count": 1
+        }
     },
     "clusterList": [
         {

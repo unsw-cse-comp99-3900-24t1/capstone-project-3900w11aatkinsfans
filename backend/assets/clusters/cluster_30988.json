@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "maybe"
+        "label": {
+            "phrase": "maybe the big boys know something we don't",
+            "count": 1
+        }
     },
     "clusterList": [
         {

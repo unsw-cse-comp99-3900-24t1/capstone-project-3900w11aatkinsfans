@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which ever one is the most pissed off at this moment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

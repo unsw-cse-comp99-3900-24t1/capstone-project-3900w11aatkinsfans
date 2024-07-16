@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "leaving"
+        "label": {
+            "phrase": "leaving things open with the characters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -206,7 +206,10 @@
             "05:00",
             "05:01"
         ],
-        "label": "barack"
+        "label": {
+            "phrase": "playing the race card",
+            "count": 106
+        }
     },
     "clusterList": [
         {

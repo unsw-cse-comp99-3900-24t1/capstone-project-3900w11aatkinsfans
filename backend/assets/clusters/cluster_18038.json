@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who asked for it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

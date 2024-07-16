@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "parading"
+        "label": {
+            "phrase": "parading like a clown before a webcam",
+            "count": 1
+        }
     },
     "clusterList": [
         {

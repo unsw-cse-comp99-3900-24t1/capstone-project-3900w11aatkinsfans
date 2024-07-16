@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you don't like it go buy and island somewhere and declare independence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

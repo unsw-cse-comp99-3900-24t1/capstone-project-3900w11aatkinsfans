@@ -36,7 +36,10 @@
             "04:44",
             "05:04"
         ],
-        "label": "mars"
+        "label": {
+            "phrase": "mars is giving us some surprises",
+            "count": 10
+        }
     },
     "clusterList": [
         {

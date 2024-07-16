@@ -8,7 +8,10 @@
             "00:00",
             "01:41"
         ],
-        "label": "many"
+        "label": {
+            "phrase": "many do not understand how the hierarchy works",
+            "count": 1
+        }
     },
     "clusterList": [
         {

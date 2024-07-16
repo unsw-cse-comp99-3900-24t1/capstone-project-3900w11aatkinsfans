@@ -8,7 +8,10 @@
             "02:05",
             "02:24"
         ],
-        "label": "electricity-by-wire"
+        "label": {
+            "phrase": "electricity-by-wire from a central source could be a thing of the past",
+            "count": 1
+        }
     },
     "clusterList": [
         {

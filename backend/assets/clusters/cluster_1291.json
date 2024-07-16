@@ -26,7 +26,10 @@
             "04:45",
             "04:59"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know that your future is still ahead of you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a thing of rags and tatters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

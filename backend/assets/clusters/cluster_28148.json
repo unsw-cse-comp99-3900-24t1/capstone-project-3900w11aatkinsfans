@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "like"
+        "label": {
+            "phrase": "like finding a witness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

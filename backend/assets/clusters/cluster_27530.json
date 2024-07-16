@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "celebrating"
+        "label": {
+            "phrase": "celebrating the sinking of the ship",
+            "count": 1
+        }
     },
     "clusterList": [
         {

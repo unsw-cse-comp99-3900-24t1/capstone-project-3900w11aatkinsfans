@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "rei"
+        "label": {
+            "phrase": "rei you ok what the hell is going on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

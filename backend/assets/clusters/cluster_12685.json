@@ -6,7 +6,10 @@
         "xLabels": [
             "03:20"
         ],
-        "label": "let"
+        "label": {
+            "phrase": "let things be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

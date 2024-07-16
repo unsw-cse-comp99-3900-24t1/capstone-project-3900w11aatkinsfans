@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "searching"
+        "label": {
+            "phrase": "searching for atlantis",
+            "count": 2
+        }
     },
     "clusterList": [
         {

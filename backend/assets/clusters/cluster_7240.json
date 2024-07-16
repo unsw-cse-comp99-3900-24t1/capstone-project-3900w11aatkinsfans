@@ -10,7 +10,10 @@
             "03:18",
             "03:32"
         ],
-        "label": "apple"
+        "label": {
+            "phrase": "apple fails to patch critical exploited dns flaw",
+            "count": 1
+        }
     },
     "clusterList": [
         {

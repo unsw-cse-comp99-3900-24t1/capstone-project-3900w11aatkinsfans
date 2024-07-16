@@ -26,7 +26,10 @@
             "05:01",
             "05:05"
         ],
-        "label": "top"
+        "label": {
+            "phrase": "the most important since 1991",
+            "count": 5
+        }
     },
     "clusterList": [
         {

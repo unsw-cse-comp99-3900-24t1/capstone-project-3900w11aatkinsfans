@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "sick"
+        "label": {
+            "phrase": "sick em calib get it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

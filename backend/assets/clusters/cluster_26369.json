@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "thought"
+        "label": {
+            "phrase": "thought of him first",
+            "count": 1
+        }
     },
     "clusterList": [
         {

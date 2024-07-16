@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "include"
+        "label": {
+            "phrase": "include canceling slots at corresponding busy airports",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "oops"
+        "label": {
+            "phrase": "oops i deleted that important file",
+            "count": 1
+        }
     },
     "clusterList": [
         {

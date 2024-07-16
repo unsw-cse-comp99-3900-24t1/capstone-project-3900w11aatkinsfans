@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do something really stupid that'll make people laugh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

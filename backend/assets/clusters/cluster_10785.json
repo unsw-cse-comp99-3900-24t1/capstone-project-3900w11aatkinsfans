@@ -8,7 +8,10 @@
             "02:32",
             "04:32"
         ],
-        "label": "tons"
+        "label": {
+            "phrase": "tons of bunker",
+            "count": 2
+        }
     },
     "clusterList": [
         {

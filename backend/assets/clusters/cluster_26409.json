@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "apology"
+        "label": {
+            "phrase": "apology to the stolen generation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

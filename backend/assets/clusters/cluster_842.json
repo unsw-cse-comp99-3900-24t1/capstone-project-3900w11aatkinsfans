@@ -26,7 +26,10 @@
             "03:55",
             "04:04"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "a well regulated militia composed of the body of the people trained in arms is the best most natural defense of a free country",
+            "count": 2
+        }
     },
     "clusterList": [
         {

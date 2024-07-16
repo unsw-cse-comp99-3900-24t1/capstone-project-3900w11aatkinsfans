@@ -10,7 +10,10 @@
             "01:37",
             "04:18"
         ],
-        "label": "27"
+        "label": {
+            "phrase": "new view count",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:31"
         ],
-        "label": "select"
+        "label": {
+            "phrase": "select distinct topic author numreplies gdtopicview latestrepliedtime from gdforum where discussion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

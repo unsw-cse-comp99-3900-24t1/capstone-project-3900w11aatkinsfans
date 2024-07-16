@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where did my pr questions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

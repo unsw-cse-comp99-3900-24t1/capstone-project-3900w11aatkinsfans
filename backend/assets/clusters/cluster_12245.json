@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "staff"
+        "label": {
+            "phrase": "staff members who receive this award have shown excellence in supporting the work of their state legislature and in strengthening the legislative institution",
+            "count": 1
+        }
     },
     "clusterList": [
         {

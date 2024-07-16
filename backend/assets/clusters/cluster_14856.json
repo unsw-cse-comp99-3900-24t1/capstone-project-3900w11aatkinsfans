@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the denver post",
+            "count": 1
+        }
     },
     "clusterList": [
         {

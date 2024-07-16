@@ -16,7 +16,10 @@
             "03:34",
             "04:46"
         ],
-        "label": "ipod"
+        "label": {
+            "phrase": "ipod touch freezes at apple screen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

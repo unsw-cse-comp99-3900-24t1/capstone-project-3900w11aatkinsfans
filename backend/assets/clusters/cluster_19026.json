@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the splendid table",
+            "count": 1
+        }
     },
     "clusterList": [
         {

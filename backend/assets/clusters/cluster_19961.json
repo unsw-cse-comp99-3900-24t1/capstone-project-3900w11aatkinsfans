@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "adults"
+        "label": {
+            "phrase": "adults in the room",
+            "count": 1
+        }
     },
     "clusterList": [
         {

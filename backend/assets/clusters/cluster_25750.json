@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "connected"
+        "label": {
+            "phrase": "connected eject before disconnecting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

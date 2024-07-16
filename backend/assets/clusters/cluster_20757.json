@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "buzz"
+        "label": {
+            "phrase": "buzz is favre close to becoming a jet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "unlimited"
+        "label": {
+            "phrase": "unlimited wrestling mode",
+            "count": 1
+        }
     },
     "clusterList": [
         {

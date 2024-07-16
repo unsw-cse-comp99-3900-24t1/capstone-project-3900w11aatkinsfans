@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "public"
+        "label": {
+            "phrase": "public health enemy 1",
+            "count": 1
+        }
     },
     "clusterList": [
         {

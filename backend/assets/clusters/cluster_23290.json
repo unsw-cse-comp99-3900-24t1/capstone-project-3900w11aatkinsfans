@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "justice"
+        "label": {
+            "phrase": "justice league the new frontier",
+            "count": 1
+        }
     },
     "clusterList": [
         {

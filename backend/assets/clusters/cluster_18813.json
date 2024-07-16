@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was in the picture on the iranian issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

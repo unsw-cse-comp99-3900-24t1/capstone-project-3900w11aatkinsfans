@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if his command's right he's unhittable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

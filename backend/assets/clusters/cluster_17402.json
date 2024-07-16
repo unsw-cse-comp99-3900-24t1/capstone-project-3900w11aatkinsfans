@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "lucid"
+        "label": {
+            "phrase": "lucid dreaming frequently asked questions and answers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

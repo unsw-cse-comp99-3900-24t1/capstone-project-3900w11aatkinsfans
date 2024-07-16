@@ -14,7 +14,10 @@
             "02:15",
             "02:59"
         ],
-        "label": "together"
+        "label": {
+            "phrase": "we just want to get this done",
+            "count": 2
+        }
     },
     "clusterList": [
         {

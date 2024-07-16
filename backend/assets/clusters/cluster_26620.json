@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "little"
+        "label": {
+            "phrase": "little shop of horrors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

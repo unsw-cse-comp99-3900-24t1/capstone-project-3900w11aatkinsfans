@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "needham's"
+        "label": {
+            "phrase": "needham's got a cool vibe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you get the car when you turn sixteen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

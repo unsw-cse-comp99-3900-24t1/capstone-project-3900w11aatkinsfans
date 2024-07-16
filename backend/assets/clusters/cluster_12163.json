@@ -8,7 +8,10 @@
             "02:09",
             "03:42"
         ],
-        "label": "moving"
+        "label": {
+            "phrase": "moving from the inn was a personal decision",
+            "count": 1
+        }
     },
     "clusterList": [
         {

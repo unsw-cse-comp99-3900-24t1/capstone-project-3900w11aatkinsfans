@@ -12,7 +12,10 @@
             "02:09",
             "03:15"
         ],
-        "label": "listen"
+        "label": {
+            "phrase": "listen jackie i think you should call a team meeting",
+            "count": 3
+        }
     },
     "clusterList": [
         {

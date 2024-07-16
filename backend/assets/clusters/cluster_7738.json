@@ -8,7 +8,10 @@
             "01:02",
             "02:46"
         ],
-        "label": "ask"
+        "label": {
+            "phrase": "ask me when i'm going to get engaged",
+            "count": 2
+        }
     },
     "clusterList": [
         {

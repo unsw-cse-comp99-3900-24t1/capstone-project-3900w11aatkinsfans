@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't just quit i have you on the schedule",
+            "count": 1
+        }
     },
     "clusterList": [
         {

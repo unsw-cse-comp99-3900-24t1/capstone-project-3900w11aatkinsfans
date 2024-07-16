@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the attack of the killer tomatoes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

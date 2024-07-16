@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "oregon"
+        "label": {
+            "phrase": "oregon instutute of science amp medicine",
+            "count": 2
+        }
     },
     "clusterList": [
         {

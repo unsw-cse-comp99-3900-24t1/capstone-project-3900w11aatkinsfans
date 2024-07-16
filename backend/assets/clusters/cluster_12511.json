@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "lean"
+        "label": {
+            "phrase": "lean on me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:12"
         ],
-        "label": "low"
+        "label": {
+            "phrase": "low key but lethal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

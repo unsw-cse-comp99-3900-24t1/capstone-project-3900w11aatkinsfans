@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i said close them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

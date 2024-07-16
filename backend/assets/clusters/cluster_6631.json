@@ -10,7 +10,10 @@
             "01:42",
             "03:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the most upsetting symbol of hatred",
+            "count": 1
+        }
     },
     "clusterList": [
         {

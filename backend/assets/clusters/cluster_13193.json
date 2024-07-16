@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "david"
+        "label": {
+            "phrase": "david miliband has insisted he is not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

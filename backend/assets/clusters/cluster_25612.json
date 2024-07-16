@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "organogermanium"
+        "label": {
+            "phrase": "organogermanium induction of interferon production",
+            "count": 1
+        }
     },
     "clusterList": [
         {

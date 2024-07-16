@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "star"
+        "label": {
+            "phrase": "star wash attack of the clothes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

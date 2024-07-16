@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "etc"
+        "label": {
+            "phrase": "etc this is normal for the first time you invoke",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "03:18",
             "04:51"
         ],
-        "label": "show"
+        "label": {
+            "phrase": "show us your plan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

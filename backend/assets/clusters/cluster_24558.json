@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "nubecilla"
+        "label": {
+            "phrase": "nubecilla prof tica",
+            "count": 1
+        }
     },
     "clusterList": [
         {

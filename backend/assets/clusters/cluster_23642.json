@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've got a good thing going here don't screw it up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

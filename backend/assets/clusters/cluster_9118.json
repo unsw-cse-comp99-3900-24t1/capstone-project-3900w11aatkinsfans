@@ -8,7 +8,10 @@
             "02:28",
             "03:17"
         ],
-        "label": "vancouver"
+        "label": {
+            "phrase": "vancouver is turning into a money-talks town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

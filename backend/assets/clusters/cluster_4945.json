@@ -12,7 +12,10 @@
             "03:05",
             "04:13"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a lot more expensive to fix things after the fact",
+            "count": 1
+        }
     },
     "clusterList": [
         {

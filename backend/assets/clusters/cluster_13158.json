@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "kitties"
+        "label": {
+            "phrase": "kitties don't really like water sweetheart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

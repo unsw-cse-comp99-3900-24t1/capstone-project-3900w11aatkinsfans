@@ -8,7 +8,10 @@
             "01:33",
             "02:56"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a coffee table book about coffee tables",
+            "count": 1
+        }
     },
     "clusterList": [
         {

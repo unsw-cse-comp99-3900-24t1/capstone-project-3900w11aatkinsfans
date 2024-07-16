@@ -6,7 +6,10 @@
         "xLabels": [
             "04:01"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we didn't have the big fields or aluminum bats or big gloves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:39"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've got guys managing your money who don't",
+            "count": 1
+        }
     },
     "clusterList": [
         {

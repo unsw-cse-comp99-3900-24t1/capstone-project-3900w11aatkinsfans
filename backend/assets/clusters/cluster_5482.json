@@ -12,7 +12,10 @@
             "04:19",
             "04:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the unprintable word",
+            "count": 1
+        }
     },
     "clusterList": [
         {

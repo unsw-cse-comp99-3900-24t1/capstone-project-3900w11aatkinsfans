@@ -14,7 +14,10 @@
             "05:01",
             "05:04"
         ],
-        "label": "associate"
+        "label": {
+            "phrase": "associate rightly or wrongly to a person",
+            "count": 1
+        }
     },
     "clusterList": [
         {

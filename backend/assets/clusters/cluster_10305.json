@@ -8,7 +8,10 @@
             "01:52",
             "02:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the charge of the light brigade",
+            "count": 2
+        }
     },
     "clusterList": [
         {

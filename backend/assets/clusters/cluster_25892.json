@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "at"
+        "label": {
+            "phrase": "at rest in the blast",
+            "count": 1
+        }
     },
     "clusterList": [
         {

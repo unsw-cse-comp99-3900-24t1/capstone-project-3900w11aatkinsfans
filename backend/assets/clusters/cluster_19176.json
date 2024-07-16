@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "looking"
+        "label": {
+            "phrase": "looking forward to the fall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

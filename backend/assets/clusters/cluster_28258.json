@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "show"
+        "label": {
+            "phrase": "show and prove",
+            "count": 1
+        }
     },
     "clusterList": [
         {

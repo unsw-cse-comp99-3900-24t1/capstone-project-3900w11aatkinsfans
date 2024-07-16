@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "fannie"
+        "label": {
+            "phrase": "fannie mae owned property search",
+            "count": 1
+        }
     },
     "clusterList": [
         {

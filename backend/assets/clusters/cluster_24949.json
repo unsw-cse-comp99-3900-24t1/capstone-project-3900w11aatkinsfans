@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "nt"
+        "label": {
+            "phrase": "nt authority network service",
+            "count": 1
+        }
     },
     "clusterList": [
         {

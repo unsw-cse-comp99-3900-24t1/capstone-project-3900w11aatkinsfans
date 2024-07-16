@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "including"
+        "label": {
+            "phrase": "including the dimatteo case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

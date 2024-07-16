@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what i didn't recognise you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

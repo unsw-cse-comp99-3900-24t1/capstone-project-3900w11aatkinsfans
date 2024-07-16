@@ -14,7 +14,10 @@
             "04:45",
             "05:04"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "this is not frankly a technology issue",
+            "count": 4
+        }
     },
     "clusterList": [
         {

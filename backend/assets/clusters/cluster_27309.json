@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you might dislike a thing and in it allah puts a lot of good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

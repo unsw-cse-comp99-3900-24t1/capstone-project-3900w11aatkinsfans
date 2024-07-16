@@ -10,7 +10,10 @@
             "01:41",
             "04:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the good book teach you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

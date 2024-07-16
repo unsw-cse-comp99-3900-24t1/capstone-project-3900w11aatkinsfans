@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "july"
+        "label": {
+            "phrase": "july 31 2008 the happening",
+            "count": 1
+        }
     },
     "clusterList": [
         {

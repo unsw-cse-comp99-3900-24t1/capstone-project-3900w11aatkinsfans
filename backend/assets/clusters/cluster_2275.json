@@ -16,7 +16,10 @@
             "03:42",
             "04:24"
         ],
-        "label": "wanted"
+        "label": {
+            "phrase": "things i used to do",
+            "count": 2
+        }
     },
     "clusterList": [
         {

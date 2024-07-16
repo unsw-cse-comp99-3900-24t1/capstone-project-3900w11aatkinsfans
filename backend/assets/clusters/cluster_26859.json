@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have 213 actually recording as we speak here today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

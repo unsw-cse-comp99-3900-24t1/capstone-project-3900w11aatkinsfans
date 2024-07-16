@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "check"
+        "label": {
+            "phrase": "check sent to ark",
+            "count": 1
+        }
     },
     "clusterList": [
         {

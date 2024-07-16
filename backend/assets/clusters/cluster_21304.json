@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on dg modules over the de rham complex",
+            "count": 1
+        }
     },
     "clusterList": [
         {

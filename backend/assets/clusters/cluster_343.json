@@ -14,7 +14,10 @@
             "04:45",
             "05:00"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "johnny remember me",
+            "count": 24
+        }
     },
     "clusterList": [
         {

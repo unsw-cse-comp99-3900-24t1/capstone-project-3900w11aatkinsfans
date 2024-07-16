@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look everybody i think he lied",
+            "count": 4
+        }
     },
     "clusterList": [
         {

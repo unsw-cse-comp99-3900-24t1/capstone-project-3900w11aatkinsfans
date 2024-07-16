@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you write it they will come",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:12",
             "00:24"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when are they going to board me again",
+            "count": 2
+        }
     },
     "clusterList": [
         {

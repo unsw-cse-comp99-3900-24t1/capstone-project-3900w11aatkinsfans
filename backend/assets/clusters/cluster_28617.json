@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "travel"
+        "label": {
+            "phrase": "travel in packs run red lights and make unsafe u-turns",
+            "count": 1
+        }
     },
     "clusterList": [
         {

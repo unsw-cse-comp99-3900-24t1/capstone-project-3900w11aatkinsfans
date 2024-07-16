@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the simple woman's daybook",
+            "count": 2
+        }
     },
     "clusterList": [
         {

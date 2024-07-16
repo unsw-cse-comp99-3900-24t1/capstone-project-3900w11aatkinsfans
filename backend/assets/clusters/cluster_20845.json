@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "right"
+        "label": {
+            "phrase": "right tool for the right job",
+            "count": 1
+        }
     },
     "clusterList": [
         {

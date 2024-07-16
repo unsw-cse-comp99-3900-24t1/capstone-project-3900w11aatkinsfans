@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "pop-spirit"
+        "label": {
+            "phrase": "pop-spirit of 2007",
+            "count": 1
+        }
     },
     "clusterList": [
         {

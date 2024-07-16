@@ -8,7 +8,10 @@
             "00:15",
             "03:50"
         ],
-        "label": "america's"
+        "label": {
+            "phrase": "america's most talented kid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "03:51",
             "03:59"
         ],
-        "label": "financial"
+        "label": {
+            "phrase": "central bank of nigeria",
+            "count": 4
+        }
     },
     "clusterList": [
         {

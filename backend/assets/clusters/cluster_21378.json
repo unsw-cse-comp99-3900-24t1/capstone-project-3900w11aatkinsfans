@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "working"
+        "label": {
+            "phrase": "working toward that end",
+            "count": 1
+        }
     },
     "clusterList": [
         {

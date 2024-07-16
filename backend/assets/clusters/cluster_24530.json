@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the questions they ask show they understand the process",
+            "count": 1
+        }
     },
     "clusterList": [
         {

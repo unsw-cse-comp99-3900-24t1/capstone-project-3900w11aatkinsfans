@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they were cooking out and grilling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

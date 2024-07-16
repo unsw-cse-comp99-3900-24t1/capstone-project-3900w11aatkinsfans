@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "wait"
+        "label": {
+            "phrase": "wait bill what is that over there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

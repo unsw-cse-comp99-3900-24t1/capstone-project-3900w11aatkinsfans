@@ -6,7 +6,10 @@
         "xLabels": [
             "00:10"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this project has for the most part flown under the radar",
+            "count": 1
+        }
     },
     "clusterList": [
         {

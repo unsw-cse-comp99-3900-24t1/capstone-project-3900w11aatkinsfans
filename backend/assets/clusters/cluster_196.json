@@ -66,7 +66,10 @@
             "04:48",
             "05:05"
         ],
-        "label": "information"
+        "label": {
+            "phrase": "non-public material information",
+            "count": 8
+        }
     },
     "clusterList": [
         {

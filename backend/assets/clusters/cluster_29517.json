@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you prefer color photography to black and white or both",
+            "count": 1
+        }
     },
     "clusterList": [
         {

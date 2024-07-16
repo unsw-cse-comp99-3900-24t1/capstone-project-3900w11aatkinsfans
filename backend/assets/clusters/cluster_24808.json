@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "builders"
+        "label": {
+            "phrase": "builders install ramps but in absence of guidelines those are often all wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

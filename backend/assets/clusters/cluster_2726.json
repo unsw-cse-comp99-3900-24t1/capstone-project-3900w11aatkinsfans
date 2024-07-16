@@ -10,7 +10,10 @@
             "04:17",
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the full monty",
+            "count": 5
+        }
     },
     "clusterList": [
         {

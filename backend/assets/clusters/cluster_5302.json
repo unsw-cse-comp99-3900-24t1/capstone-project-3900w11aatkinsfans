@@ -12,7 +12,10 @@
             "04:18",
             "04:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the trolley problem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

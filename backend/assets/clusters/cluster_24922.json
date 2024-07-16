@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "begging"
+        "label": {
+            "phrase": "begging your pardon of course",
+            "count": 1
+        }
     },
     "clusterList": [
         {

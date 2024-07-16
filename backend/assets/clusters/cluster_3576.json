@@ -14,7 +14,10 @@
             "01:51",
             "03:35"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all food in senegal is organic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

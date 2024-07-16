@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have fulfilled your obligation even if he did not have an obligation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

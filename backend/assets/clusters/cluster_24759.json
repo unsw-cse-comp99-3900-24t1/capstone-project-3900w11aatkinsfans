@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's very rare for them to come and listen to hours of powerpoint presentations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

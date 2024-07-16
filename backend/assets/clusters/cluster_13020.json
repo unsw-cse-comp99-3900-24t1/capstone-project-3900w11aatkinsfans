@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all these groups were involved from start to finish",
+            "count": 1
+        }
     },
     "clusterList": [
         {

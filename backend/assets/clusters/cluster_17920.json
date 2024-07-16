@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the kind that you simply lose yourself in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

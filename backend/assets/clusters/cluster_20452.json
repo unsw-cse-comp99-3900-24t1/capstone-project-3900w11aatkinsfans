@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "improbable-looking"
+        "label": {
+            "phrase": "improbable-looking rock formations thin and spindly life forms and flying as a common form of locomotion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

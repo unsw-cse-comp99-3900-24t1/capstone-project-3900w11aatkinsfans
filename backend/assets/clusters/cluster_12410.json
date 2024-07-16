@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we apologize for the inconvenience but are confident people will be very pleased when these facilities are restored to their previous grandeur and functionality",
+            "count": 1
+        }
     },
     "clusterList": [
         {

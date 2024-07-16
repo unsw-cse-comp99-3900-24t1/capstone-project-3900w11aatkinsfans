@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one on the house for a disabled veteran",
+            "count": 1
+        }
     },
     "clusterList": [
         {

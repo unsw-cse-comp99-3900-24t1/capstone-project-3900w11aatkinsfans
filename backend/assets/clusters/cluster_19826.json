@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "rat"
+        "label": {
+            "phrase": "rat has a goosebite rat has a goosebite rat has a goosebite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

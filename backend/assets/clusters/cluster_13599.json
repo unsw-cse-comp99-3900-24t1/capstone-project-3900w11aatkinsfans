@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "sounding"
+        "label": {
+            "phrase": "sounding like the clash",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we changed the way we do things about a year ago because we had some car burglaries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

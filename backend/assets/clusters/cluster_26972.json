@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "comment"
+        "label": {
+            "phrase": "comment left elsewhere",
+            "count": 1
+        }
     },
     "clusterList": [
         {

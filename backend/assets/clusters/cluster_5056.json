@@ -12,7 +12,10 @@
             "02:00",
             "04:31"
         ],
-        "label": "neurotechnology"
+        "label": {
+            "phrase": "mice are very good at running as far as they can",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "sunlight"
+        "label": {
+            "phrase": "sunlight is the most powerful of all disinfectants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

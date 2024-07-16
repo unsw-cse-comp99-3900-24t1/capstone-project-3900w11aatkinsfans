@@ -8,7 +8,10 @@
             "00:20",
             "04:13"
         ],
-        "label": "first"
+        "label": {
+            "phrase": "first things first",
+            "count": 2
+        }
     },
     "clusterList": [
         {

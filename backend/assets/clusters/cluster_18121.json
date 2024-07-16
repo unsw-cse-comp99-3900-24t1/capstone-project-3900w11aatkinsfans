@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "greeley"
+        "label": {
+            "phrase": "greeley is a very tolerant community very sensitive to diversity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

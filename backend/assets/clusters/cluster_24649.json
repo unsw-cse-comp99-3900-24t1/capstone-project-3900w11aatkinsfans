@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "join"
+        "label": {
+            "phrase": "join p name for p in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

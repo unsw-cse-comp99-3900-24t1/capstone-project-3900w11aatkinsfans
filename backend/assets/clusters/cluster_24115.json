@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "remove"
+        "label": {
+            "phrase": "remove used tampon before inserting a new one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

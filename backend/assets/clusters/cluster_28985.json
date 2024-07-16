@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "alfred"
+        "label": {
+            "phrase": "alfred the butler",
+            "count": 1
+        }
     },
     "clusterList": [
         {

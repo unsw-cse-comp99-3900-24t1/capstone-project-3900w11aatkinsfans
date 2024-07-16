@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "fox"
+        "label": {
+            "phrase": "fox is reporting sox got junior from reds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

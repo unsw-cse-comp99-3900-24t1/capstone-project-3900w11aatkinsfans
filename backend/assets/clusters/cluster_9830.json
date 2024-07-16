@@ -8,7 +8,10 @@
             "01:30",
             "02:00"
         ],
-        "label": "sins"
+        "label": {
+            "phrase": "sins of omission",
+            "count": 1
+        }
     },
     "clusterList": [
         {

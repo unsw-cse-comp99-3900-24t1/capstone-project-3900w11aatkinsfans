@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "friendly"
+        "label": {
+            "phrase": "friendly relaxing and peaceful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

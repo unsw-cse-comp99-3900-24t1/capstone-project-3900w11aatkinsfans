@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "time"
+        "label": {
+            "phrase": "time to say goodbye building a better canada without quebec",
+            "count": 1
+        }
     },
     "clusterList": [
         {

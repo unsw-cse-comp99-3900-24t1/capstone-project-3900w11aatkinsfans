@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've been noticing gravity since i was very young",
+            "count": 1
+        }
     },
     "clusterList": [
         {

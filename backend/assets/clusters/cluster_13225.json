@@ -6,7 +6,10 @@
         "xLabels": [
             "00:08"
         ],
-        "label": "located"
+        "label": {
+            "phrase": "located in the heart of silicon valley's technology and venture capital community",
+            "count": 1
+        }
     },
     "clusterList": [
         {

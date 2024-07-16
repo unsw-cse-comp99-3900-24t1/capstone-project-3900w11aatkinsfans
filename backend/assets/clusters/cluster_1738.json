@@ -24,7 +24,10 @@
             "04:54",
             "05:04"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "out of order",
+            "count": 7
+        }
     },
     "clusterList": [
         {

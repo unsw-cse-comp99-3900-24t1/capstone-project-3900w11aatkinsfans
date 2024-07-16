@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the most excruciatingly annoying ad on chinese tv",
+            "count": 1
+        }
     },
     "clusterList": [
         {

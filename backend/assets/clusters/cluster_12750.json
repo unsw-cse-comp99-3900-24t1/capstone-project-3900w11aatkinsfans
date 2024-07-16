@@ -6,7 +6,10 @@
         "xLabels": [
             "01:35"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get rid of that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

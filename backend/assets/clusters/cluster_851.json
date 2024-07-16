@@ -30,7 +30,10 @@
             "04:28",
             "04:36"
         ],
-        "label": "alas"
+        "label": {
+            "phrase": "alas i cannot swim",
+            "count": 7
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "professor"
+        "label": {
+            "phrase": "professor offers 10 000 to first person to prove homeopathy works",
+            "count": 1
+        }
     },
     "clusterList": [
         {

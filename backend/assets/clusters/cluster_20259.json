@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the british withdrawal from the territory of the mandate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

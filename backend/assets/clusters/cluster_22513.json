@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "excrement"
+        "label": {
+            "phrase": "excrement on my ancestors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

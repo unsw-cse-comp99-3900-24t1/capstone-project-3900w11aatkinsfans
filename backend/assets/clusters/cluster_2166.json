@@ -14,7 +14,10 @@
             "04:31",
             "04:35"
         ],
-        "label": "more"
+        "label": {
+            "phrase": "more than words",
+            "count": 6
+        }
     },
     "clusterList": [
         {

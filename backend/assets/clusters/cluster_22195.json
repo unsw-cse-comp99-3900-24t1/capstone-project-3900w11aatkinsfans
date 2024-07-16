@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "state"
+        "label": {
+            "phrase": "state of the movement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

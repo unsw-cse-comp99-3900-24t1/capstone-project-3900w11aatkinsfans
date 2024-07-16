@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "of"
+        "label": {
+            "phrase": "of course it is timmy look at how far south it is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

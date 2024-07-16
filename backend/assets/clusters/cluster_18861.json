@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you mind giving us a haircut",
+            "count": 1
+        }
     },
     "clusterList": [
         {

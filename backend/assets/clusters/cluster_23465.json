@@ -6,7 +6,10 @@
         "xLabels": [
             "02:44"
         ],
-        "label": "pradeep"
+        "label": {
+            "phrase": "pradeep is a great addition to our board",
+            "count": 1
+        }
     },
     "clusterList": [
         {

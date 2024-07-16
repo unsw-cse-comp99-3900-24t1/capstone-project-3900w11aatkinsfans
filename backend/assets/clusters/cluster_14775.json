@@ -6,7 +6,10 @@
         "xLabels": [
             "00:24"
         ],
-        "label": "you'd"
+        "label": {
+            "phrase": "you'd be tired too if you had to push one of these",
+            "count": 1
+        }
     },
     "clusterList": [
         {

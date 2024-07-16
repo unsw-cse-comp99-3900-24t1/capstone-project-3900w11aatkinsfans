@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "tooth"
+        "label": {
+            "phrase": "tooth enamel amp concrete",
+            "count": 1
+        }
     },
     "clusterList": [
         {

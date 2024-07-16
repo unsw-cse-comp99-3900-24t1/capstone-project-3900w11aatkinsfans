@@ -32,7 +32,10 @@
             "04:13",
             "05:05"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "we ask for more but clients cannot give us more because they have no money",
+            "count": 7
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every generation has a right to its own batman",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "deliver"
+        "label": {
+            "phrase": "deliver an american baby in saipan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

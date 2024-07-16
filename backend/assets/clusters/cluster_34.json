@@ -198,7 +198,10 @@
             "05:02",
             "05:04"
         ],
-        "label": "american"
+        "label": {
+            "phrase": "american megatrends inc",
+            "count": 73
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "04:08",
             "04:45"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if it isn't fun then it isn't worth doing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

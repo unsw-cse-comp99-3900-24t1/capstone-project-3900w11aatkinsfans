@@ -12,7 +12,10 @@
             "02:24",
             "03:27"
         ],
-        "label": "nice"
+        "label": {
+            "phrase": "nice shirt d'artagnan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

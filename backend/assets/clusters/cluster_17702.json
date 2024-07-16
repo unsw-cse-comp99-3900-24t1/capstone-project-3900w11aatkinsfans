@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well those are military men and my church is different",
+            "count": 1
+        }
     },
     "clusterList": [
         {

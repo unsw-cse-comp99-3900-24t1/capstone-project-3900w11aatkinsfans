@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what simply happened is the situation just didn't feel right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

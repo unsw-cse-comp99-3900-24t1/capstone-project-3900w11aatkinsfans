@@ -14,7 +14,10 @@
             "02:09",
             "03:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the prime minister asked us for our cooperation in the reshuffle",
+            "count": 6
+        }
     },
     "clusterList": [
         {

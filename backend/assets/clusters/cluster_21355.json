@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "even"
+        "label": {
+            "phrase": "even the milk we give to babies is not free of endosulfan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

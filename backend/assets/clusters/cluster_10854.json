@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's interesting that i'm giving a speech about the whole far east in thailand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

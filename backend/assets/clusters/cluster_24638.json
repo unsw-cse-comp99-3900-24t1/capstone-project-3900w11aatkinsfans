@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "july"
+        "label": {
+            "phrase": "july 2008 nationwide survey on presidential performance and trust rating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

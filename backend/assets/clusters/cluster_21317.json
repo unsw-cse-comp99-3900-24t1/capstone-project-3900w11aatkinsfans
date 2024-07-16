@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "didn't"
+        "label": {
+            "phrase": "didn't define the objects under consideration",
+            "count": 1
+        }
     },
     "clusterList": [
         {

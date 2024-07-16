@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm the only one who can rely on myself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

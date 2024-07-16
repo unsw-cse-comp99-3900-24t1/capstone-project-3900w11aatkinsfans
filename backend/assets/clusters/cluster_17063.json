@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "out"
+        "label": {
+            "phrase": "out of touch with the real world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

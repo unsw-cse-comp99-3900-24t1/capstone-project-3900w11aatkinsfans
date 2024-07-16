@@ -10,7 +10,10 @@
             "02:22",
             "03:14"
         ],
-        "label": "help"
+        "label": {
+            "phrase": "help me file an appeal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:10",
             "02:16"
         ],
-        "label": "friend"
+        "label": {
+            "phrase": "friend of the country",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:02"
         ],
-        "label": "over"
+        "label": {
+            "phrase": "over the past three years doug has made significant contributions to the company helping us continue to grow our portfolio",
+            "count": 1
+        }
     },
     "clusterList": [
         {

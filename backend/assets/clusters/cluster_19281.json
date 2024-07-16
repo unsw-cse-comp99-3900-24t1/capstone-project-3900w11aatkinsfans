@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "show"
+        "label": {
+            "phrase": "show people their trophy case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

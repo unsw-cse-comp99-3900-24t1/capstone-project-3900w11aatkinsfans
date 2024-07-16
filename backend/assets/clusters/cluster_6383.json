@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they have a good safety history",
+            "count": 1
+        }
     },
     "clusterList": [
         {

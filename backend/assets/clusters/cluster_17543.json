@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what remaining tool in our arsenal is best equipped to chop a man's leg off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

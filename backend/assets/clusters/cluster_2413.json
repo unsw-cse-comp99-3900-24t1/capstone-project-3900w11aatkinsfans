@@ -16,7 +16,10 @@
             "01:42",
             "04:43"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a person starts to live when he can live outside himself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

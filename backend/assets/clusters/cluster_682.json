@@ -42,7 +42,10 @@
             "02:56",
             "03:48"
         ],
-        "label": "who's"
+        "label": {
+            "phrase": "who's afraid of virginia woolf",
+            "count": 19
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes we have a right to medical care",
+            "count": 1
+        }
     },
     "clusterList": [
         {

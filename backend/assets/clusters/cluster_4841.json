@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we might be hit by an asteroid",
+            "count": 2
+        }
     },
     "clusterList": [
         {

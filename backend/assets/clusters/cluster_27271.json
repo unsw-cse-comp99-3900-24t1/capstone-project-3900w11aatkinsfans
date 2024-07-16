@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where are sting's allegances",
+            "count": 1
+        }
     },
     "clusterList": [
         {

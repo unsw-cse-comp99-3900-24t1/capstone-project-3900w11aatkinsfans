@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that magic causes as much trouble as it cures",
+            "count": 1
+        }
     },
     "clusterList": [
         {

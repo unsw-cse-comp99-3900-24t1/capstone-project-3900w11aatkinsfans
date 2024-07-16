@@ -10,7 +10,10 @@
             "00:29",
             "04:03"
         ],
-        "label": "london"
+        "label": {
+            "phrase": "daily web newspaper of the autism epidemic",
+            "count": 2
+        }
     },
     "clusterList": [
         {

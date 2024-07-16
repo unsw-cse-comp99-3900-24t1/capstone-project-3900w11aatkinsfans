@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you should be sorry you better watch where you're going",
+            "count": 1
+        }
     },
     "clusterList": [
         {

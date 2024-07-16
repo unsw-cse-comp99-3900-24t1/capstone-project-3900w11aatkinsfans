@@ -8,7 +8,10 @@
             "00:29",
             "02:19"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's not my job",
+            "count": 1
+        }
     },
     "clusterList": [
         {

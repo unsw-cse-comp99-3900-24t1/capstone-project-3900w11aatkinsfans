@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was your father in there kicking mr penn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

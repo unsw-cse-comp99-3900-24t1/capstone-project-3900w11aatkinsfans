@@ -12,7 +12,10 @@
             "02:00",
             "04:32"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm expecting to see the same big brown we saw in the kentucky derby and preakness",
+            "count": 2
+        }
     },
     "clusterList": [
         {

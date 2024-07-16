@@ -12,7 +12,10 @@
             "03:15",
             "03:42"
         ],
-        "label": "loudly"
+        "label": {
+            "phrase": "loudly and rudely",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:41",
             "04:29"
         ],
-        "label": "read"
+        "label": {
+            "phrase": "read the rest of this entry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

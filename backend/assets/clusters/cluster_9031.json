@@ -8,7 +8,10 @@
             "00:47",
             "04:03"
         ],
-        "label": "mountaintop"
+        "label": {
+            "phrase": "mountaintop mining flattens the mountain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

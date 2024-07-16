@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "pass"
+        "label": {
+            "phrase": "pass it on to who",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it doesn't really bother us we can just sit in the background and hopefully creep up on a few teams",
+            "count": 1
+        }
     },
     "clusterList": [
         {

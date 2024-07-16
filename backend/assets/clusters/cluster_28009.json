@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "excuse"
+        "label": {
+            "phrase": "excuse me may i ask your opinon about what i should do here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

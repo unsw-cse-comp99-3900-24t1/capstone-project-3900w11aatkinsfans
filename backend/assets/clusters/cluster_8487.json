@@ -8,7 +8,10 @@
             "00:20",
             "02:10"
         ],
-        "label": "imagination"
+        "label": {
+            "phrase": "imagination is more important than knowledge",
+            "count": 2
+        }
     },
     "clusterList": [
         {

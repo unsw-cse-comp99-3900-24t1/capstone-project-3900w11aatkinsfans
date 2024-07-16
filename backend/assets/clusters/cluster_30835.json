@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "cancer"
+        "label": {
+            "phrase": "cancer operation robert died",
+            "count": 1
+        }
     },
     "clusterList": [
         {

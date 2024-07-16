@@ -10,7 +10,10 @@
             "02:20",
             "03:50"
         ],
-        "label": "taking"
+        "label": {
+            "phrase": "taking a free ride on the trade value",
+            "count": 1
+        }
     },
     "clusterList": [
         {

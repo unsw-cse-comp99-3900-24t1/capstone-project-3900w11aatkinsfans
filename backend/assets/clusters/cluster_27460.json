@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they only got it half right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

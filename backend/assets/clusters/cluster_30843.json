@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i wanted a job in the warehouse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

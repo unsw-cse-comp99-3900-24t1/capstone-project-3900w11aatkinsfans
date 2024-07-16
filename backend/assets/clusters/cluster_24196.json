@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "o"
+        "label": {
+            "phrase": "o snail climb mount fuji but slowly slowly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

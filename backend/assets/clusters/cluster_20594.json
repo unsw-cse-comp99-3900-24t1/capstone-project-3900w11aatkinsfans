@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the repercussions of angelic behavior",
+            "count": 1
+        }
     },
     "clusterList": [
         {

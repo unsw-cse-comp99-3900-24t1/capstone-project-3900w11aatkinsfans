@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "six"
+        "label": {
+            "phrase": "six envelopes containing handwritten letters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

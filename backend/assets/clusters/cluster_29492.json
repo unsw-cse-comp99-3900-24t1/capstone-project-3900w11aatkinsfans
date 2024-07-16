@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "layman's"
+        "label": {
+            "phrase": "layman's guide to time travel by astrophysicist jaymie matthews",
+            "count": 1
+        }
     },
     "clusterList": [
         {

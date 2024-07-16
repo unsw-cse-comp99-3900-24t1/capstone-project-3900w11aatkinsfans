@@ -10,7 +10,10 @@
             "04:51",
             "04:55"
         ],
-        "label": "majority"
+        "label": {
+            "phrase": "majority consent modification",
+            "count": 2
+        }
     },
     "clusterList": [
         {

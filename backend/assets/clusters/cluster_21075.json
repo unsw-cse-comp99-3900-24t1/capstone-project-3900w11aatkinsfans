@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "uh-oh"
+        "label": {
+            "phrase": "uh-oh water damage we don't replace water-damaged equipment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

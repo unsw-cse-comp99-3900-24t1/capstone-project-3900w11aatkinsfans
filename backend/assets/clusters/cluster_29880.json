@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "does"
+        "label": {
+            "phrase": "does a sponge only last a week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with a big fat dent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

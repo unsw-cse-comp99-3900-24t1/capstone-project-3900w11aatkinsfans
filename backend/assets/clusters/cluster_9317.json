@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the top fan",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your whole world's going to come crashing down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

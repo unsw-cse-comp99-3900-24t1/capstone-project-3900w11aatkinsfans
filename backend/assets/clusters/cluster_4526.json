@@ -12,7 +12,10 @@
             "02:20",
             "02:44"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fountain of fair fortune",
+            "count": 3
+        }
     },
     "clusterList": [
         {

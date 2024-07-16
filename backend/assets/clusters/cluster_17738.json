@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "manhattan"
+        "label": {
+            "phrase": "manhattan clam chowder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

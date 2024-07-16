@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every woman's tea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

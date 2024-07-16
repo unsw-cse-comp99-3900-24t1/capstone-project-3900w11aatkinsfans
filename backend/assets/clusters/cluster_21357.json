@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people doing the other work have in most cases been much more important in the process than i have actually been",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "night"
+        "label": {
+            "phrase": "night of stormcrow 3 bonus trx",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:19",
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sensitive nature of this issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "gt"
+        "label": {
+            "phrase": "gt 57 stocks closed at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

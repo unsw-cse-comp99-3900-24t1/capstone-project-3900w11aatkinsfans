@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he has got a son with the same initials as himself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

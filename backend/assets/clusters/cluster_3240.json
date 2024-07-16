@@ -16,7 +16,10 @@
             "04:41",
             "04:44"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "find out what vehicles they're driving",
+            "count": 2
+        }
     },
     "clusterList": [
         {

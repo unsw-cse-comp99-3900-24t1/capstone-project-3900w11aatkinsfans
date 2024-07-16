@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "http"
+        "label": {
+            "phrase": "http accept charset",
+            "count": 2
+        }
     },
     "clusterList": [
         {

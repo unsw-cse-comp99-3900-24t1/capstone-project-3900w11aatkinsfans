@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "mr bell's rights were violated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

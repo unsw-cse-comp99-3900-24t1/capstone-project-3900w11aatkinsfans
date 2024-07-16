@@ -14,7 +14,10 @@
             "02:57",
             "04:05"
         ],
-        "label": "dude"
+        "label": {
+            "phrase": "dude read this",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've run through the whole gamut of gameplay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

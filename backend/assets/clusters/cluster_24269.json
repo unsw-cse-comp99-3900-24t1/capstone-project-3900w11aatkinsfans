@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "cheerio"
+        "label": {
+            "phrase": "cheerio and byebye",
+            "count": 1
+        }
     },
     "clusterList": [
         {

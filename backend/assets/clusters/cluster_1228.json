@@ -22,7 +22,10 @@
             "04:28",
             "05:05"
         ],
-        "label": "comedy"
+        "label": {
+            "phrase": "funniest writer of his generation",
+            "count": 4
+        }
     },
     "clusterList": [
         {

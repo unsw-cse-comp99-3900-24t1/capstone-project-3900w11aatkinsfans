@@ -16,7 +16,10 @@
             "03:51",
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "we need to engage with windows administrators this stuff runs on windows",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "molitor"
+        "label": {
+            "phrase": "molitor is tremendously reinvigorated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

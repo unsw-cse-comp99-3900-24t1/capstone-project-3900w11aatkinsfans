@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are two great sessions on online marketing on 28 august",
+            "count": 1
+        }
     },
     "clusterList": [
         {

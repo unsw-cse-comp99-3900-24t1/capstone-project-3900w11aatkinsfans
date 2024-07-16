@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now get going and take care of erika for paj",
+            "count": 1
+        }
     },
     "clusterList": [
         {

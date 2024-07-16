@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "smell"
+        "label": {
+            "phrase": "smell is a potent wizard that transports you across thousands of miles and all the years you have lived",
+            "count": 1
+        }
     },
     "clusterList": [
         {

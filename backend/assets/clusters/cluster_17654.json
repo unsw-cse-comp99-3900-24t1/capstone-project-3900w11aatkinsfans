@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "kevin"
+        "label": {
+            "phrase": "kevin is a passionate guy about the rush it's great to see both guys embrace him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

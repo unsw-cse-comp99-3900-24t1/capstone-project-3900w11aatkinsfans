@@ -18,7 +18,10 @@
             "04:20",
             "04:33"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is just the beginning",
+            "count": 3
+        }
     },
     "clusterList": [
         {

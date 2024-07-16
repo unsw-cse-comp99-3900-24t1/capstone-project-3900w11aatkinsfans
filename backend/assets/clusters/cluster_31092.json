@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "moon-powered"
+        "label": {
+            "phrase": "moon-powered clanker passed down from your great grandfather",
+            "count": 1
+        }
     },
     "clusterList": [
         {

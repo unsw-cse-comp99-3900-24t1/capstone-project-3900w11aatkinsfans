@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is an acknowledgement that apocalypse already happened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

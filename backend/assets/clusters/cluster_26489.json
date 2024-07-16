@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "anthem"
+        "label": {
+            "phrase": "anthem tree cutter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "today"
+        "label": {
+            "phrase": "today you'll need to avoid tall buildings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

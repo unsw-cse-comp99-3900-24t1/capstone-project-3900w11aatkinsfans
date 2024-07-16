@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "aap"
+        "label": {
+            "phrase": "aap pehle bhi aaye they kya",
+            "count": 1
+        }
     },
     "clusterList": [
         {

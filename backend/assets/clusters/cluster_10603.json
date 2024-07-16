@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "x"
+        "label": {
+            "phrase": "x org configured",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "03:23",
             "03:50"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is in for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

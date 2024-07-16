@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey buddy the chinese is here but you ain't getting it unless you sign your paperwork and leave",
+            "count": 1
+        }
     },
     "clusterList": [
         {

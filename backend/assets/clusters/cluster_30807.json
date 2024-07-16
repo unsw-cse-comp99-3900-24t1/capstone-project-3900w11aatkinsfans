@@ -6,7 +6,10 @@
         "xLabels": [
             "04:58"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the numbers are looking good and arbitron is focusing on problems where they need to be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

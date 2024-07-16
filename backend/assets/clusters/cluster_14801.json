@@ -6,7 +6,10 @@
         "xLabels": [
             "00:24"
         ],
-        "label": "pretty"
+        "label": {
+            "phrase": "pretty competent in the water",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "ortiz"
+        "label": {
+            "phrase": "ortiz flinched exactly the same way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

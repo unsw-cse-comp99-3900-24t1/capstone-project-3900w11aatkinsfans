@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "proceed"
+        "label": {
+            "phrase": "proceed to what follows without pause",
+            "count": 1
+        }
     },
     "clusterList": [
         {

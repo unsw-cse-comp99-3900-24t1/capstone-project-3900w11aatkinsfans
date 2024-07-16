@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a country's lifeblood and motor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

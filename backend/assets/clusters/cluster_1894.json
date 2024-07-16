@@ -14,7 +14,10 @@
             "04:08",
             "04:45"
         ],
-        "label": "feeling"
+        "label": {
+            "phrase": "you must be feeling pretty good",
+            "count": 4
+        }
     },
     "clusterList": [
         {

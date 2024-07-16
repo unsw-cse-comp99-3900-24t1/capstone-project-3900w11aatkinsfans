@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's the person you'd least suspect to be a traitor to the skywalker dynasty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

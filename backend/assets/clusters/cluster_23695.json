@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "story"
+        "label": {
+            "phrase": "story of us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

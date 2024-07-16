@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in light of ms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

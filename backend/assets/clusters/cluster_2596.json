@@ -10,7 +10,10 @@
             "00:14",
             "02:10"
         ],
-        "label": "statement"
+        "label": {
+            "phrase": "statement of responsibility",
+            "count": 4
+        }
     },
     "clusterList": [
         {

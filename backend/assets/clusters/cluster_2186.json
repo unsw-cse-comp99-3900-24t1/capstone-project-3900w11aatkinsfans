@@ -20,7 +20,10 @@
             "04:46",
             "05:00"
         ],
-        "label": "boys"
+        "label": {
+            "phrase": "boys i need more calories",
+            "count": 1
+        }
     },
     "clusterList": [
         {

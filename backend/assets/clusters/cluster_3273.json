@@ -16,7 +16,10 @@
             "04:32",
             "04:42"
         ],
-        "label": "reading"
+        "label": {
+            "phrase": "reading between the lines",
+            "count": 1
+        }
     },
     "clusterList": [
         {

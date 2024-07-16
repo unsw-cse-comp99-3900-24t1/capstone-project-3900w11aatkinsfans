@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "guide"
+        "label": {
+            "phrase": "guide to childbirth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

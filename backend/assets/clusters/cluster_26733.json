@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "redline"
+        "label": {
+            "phrase": "redline has worked quickly to address the operational issues we experienced late in the second quarter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

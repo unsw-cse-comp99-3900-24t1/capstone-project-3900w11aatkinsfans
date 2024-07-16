@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the bill handel show",
+            "count": 1
+        }
     },
     "clusterList": [
         {

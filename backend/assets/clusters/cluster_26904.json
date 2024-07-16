@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "dwc"
+        "label": {
+            "phrase": "dwc we were just pullin your chain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

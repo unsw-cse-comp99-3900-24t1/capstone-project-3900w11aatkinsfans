@@ -20,7 +20,10 @@
             "04:28",
             "04:38"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if it ain't broke don't fix it",
+            "count": 3
+        }
     },
     "clusterList": [
         {

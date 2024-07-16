@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "confluence"
+        "label": {
+            "phrase": "confluence web resources dwr",
+            "count": 1
+        }
     },
     "clusterList": [
         {

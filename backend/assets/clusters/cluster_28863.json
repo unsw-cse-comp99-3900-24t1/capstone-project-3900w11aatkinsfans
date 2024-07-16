@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "quick"
+        "label": {
+            "phrase": "quick robin to the mac",
+            "count": 1
+        }
     },
     "clusterList": [
         {

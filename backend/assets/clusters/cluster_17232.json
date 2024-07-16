@@ -6,7 +6,10 @@
         "xLabels": [
             "00:58"
         ],
-        "label": "about"
+        "label": {
+            "phrase": "about the length of an argument",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two against nature",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:25",
             "02:32"
         ],
-        "label": "membership"
+        "label": {
+            "phrase": "membership in an armed terrorist group",
+            "count": 1
+        }
     },
     "clusterList": [
         {

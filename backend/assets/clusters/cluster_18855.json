@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a good thing you shined those boots soldier",
+            "count": 1
+        }
     },
     "clusterList": [
         {

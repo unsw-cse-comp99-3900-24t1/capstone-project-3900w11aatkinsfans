@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "must"
+        "label": {
+            "phrase": "must have cop humor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

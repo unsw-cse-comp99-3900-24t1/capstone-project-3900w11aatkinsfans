@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "getting"
+        "label": {
+            "phrase": "getting stuck into them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

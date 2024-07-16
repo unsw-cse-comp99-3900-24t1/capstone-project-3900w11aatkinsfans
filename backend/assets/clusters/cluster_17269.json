@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just for tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

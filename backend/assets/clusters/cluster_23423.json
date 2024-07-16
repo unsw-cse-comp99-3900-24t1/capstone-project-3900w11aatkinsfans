@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where link id id",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "after"
+        "label": {
+            "phrase": "after shave lotion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

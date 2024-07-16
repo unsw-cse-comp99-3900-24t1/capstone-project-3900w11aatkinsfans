@@ -10,7 +10,10 @@
             "03:18",
             "04:35"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this that the other thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -34,7 +34,10 @@
             "04:18",
             "04:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the wizard and the hopping pot",
+            "count": 3
+        }
     },
     "clusterList": [
         {

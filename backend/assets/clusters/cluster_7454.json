@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because hardened soldiers are known to forgo combat due to tummy aches",
+            "count": 3
+        }
     },
     "clusterList": [
         {

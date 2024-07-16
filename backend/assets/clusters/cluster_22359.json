@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can confiscate the knife i don't care",
+            "count": 1
+        }
     },
     "clusterList": [
         {

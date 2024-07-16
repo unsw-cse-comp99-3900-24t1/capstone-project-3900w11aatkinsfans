@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "visual"
+        "label": {
+            "phrase": "visual history of failure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

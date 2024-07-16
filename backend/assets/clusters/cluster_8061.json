@@ -8,7 +8,10 @@
             "00:06",
             "01:32"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all the passengers had to spend the night on the planes or in the departure hall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

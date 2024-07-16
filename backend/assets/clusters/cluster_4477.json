@@ -12,7 +12,10 @@
             "02:01",
             "02:14"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm just boxing i figure if you get hit enough times it will fall off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

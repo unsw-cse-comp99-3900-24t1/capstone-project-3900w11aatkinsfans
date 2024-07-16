@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "foreign"
+        "label": {
+            "phrase": "foreign source income",
+            "count": 1
+        }
     },
     "clusterList": [
         {

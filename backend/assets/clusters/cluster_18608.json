@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't have a chip on your shoulder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

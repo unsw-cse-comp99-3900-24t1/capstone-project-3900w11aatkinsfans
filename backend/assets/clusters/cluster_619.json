@@ -46,7 +46,10 @@
             "04:55",
             "05:04"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "one of many incubation projects across microsoft research",
+            "count": 3
+        }
     },
     "clusterList": [
         {

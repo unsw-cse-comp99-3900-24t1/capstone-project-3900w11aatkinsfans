@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's never an issue in energy of whether you can do it or not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

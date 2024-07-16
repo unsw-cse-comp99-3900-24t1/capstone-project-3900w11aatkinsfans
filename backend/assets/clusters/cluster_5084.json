@@ -10,7 +10,10 @@
             "02:34",
             "03:55"
         ],
-        "label": "thou"
+        "label": {
+            "phrase": "i am in love with harry potter",
+            "count": 2
+        }
     },
     "clusterList": [
         {

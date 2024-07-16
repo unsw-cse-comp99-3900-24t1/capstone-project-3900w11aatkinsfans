@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the crimes against troy wicker's family continue to compound",
+            "count": 1
+        }
     },
     "clusterList": [
         {

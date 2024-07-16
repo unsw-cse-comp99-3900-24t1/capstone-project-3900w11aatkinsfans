@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i guess griffey won't be here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are night time travelers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "04:04",
             "04:31"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get paid at cash crate",
+            "count": 3
+        }
     },
     "clusterList": [
         {

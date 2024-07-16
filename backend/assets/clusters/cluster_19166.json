@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it doesn't have to be like this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

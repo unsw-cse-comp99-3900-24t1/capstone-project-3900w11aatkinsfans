@@ -12,7 +12,10 @@
             "01:13",
             "02:28"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh that laptop must be badly corrupted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

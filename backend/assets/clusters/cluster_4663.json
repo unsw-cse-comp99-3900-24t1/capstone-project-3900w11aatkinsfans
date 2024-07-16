@@ -12,7 +12,10 @@
             "01:25",
             "02:01"
         ],
-        "label": "temporary"
+        "label": {
+            "phrase": "temporary targeted and timely",
+            "count": 4
+        }
     },
     "clusterList": [
         {

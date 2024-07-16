@@ -6,7 +6,10 @@
         "xLabels": [
             "00:05"
         ],
-        "label": "she's"
+        "label": {
+            "phrase": "she's not afraid of projects",
+            "count": 1
+        }
     },
     "clusterList": [
         {

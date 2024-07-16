@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not like spending something that's going to be here today and gone tomorrow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

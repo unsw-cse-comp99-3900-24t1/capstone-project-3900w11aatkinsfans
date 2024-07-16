@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't don't think too hard cos your brain won't eat your heart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

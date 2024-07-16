@@ -32,7 +32,10 @@
             "03:01",
             "03:41"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a couple of different companies",
+            "count": 13
+        }
     },
     "clusterList": [
         {

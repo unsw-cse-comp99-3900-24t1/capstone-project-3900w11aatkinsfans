@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "ladies"
+        "label": {
+            "phrase": "ladies there are a million well-known reasons why you shouldn't date a musician",
+            "count": 1
+        }
     },
     "clusterList": [
         {

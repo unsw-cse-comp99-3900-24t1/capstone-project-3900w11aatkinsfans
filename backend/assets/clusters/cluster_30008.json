@@ -6,7 +6,10 @@
         "xLabels": [
             "04:40"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please don't pee in our pool we don't swim in your toilet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

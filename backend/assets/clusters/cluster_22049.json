@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "nuclear"
+        "label": {
+            "phrase": "nuclear missiles don't discriminate on party lines when they land",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am full of bounty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

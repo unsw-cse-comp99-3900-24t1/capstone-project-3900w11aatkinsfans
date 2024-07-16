@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "everybody"
+        "label": {
+            "phrase": "everybody who comes to visit wants to see my garden but one of my biggest accomplishments is my house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

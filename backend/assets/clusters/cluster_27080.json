@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a retendo is any playboating move that when executed keeps the paddler in the hole",
+            "count": 1
+        }
     },
     "clusterList": [
         {

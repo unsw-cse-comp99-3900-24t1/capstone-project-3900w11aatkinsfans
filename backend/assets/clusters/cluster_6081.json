@@ -10,7 +10,10 @@
             "03:41",
             "04:41"
         ],
-        "label": "duck"
+        "label": {
+            "phrase": "duck and cover",
+            "count": 2
+        }
     },
     "clusterList": [
         {

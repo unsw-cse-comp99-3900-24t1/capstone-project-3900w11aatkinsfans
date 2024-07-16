@@ -42,7 +42,10 @@
             "04:15",
             "04:31"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "the music industry is a business like any other but at the helm of this industry is a pool of artists whose work often serves as a barometer to the social and environmental challenges our society faces",
+            "count": 5
+        }
     },
     "clusterList": [
         {

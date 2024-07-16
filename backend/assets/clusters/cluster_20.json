@@ -162,7 +162,10 @@
             "04:59",
             "05:01"
         ],
-        "label": "sex"
+        "label": {
+            "phrase": "sex and the city",
+            "count": 122
+        }
     },
     "clusterList": [
         {

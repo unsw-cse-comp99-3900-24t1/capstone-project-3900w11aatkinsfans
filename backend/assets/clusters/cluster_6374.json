@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "programmatically"
+        "label": {
+            "phrase": "programmatically showing data tips on a chart",
+            "count": 2
+        }
     },
     "clusterList": [
         {

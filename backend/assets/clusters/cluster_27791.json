@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "legally"
+        "label": {
+            "phrase": "legally i can't the state minimum is 45 on the highway",
+            "count": 1
+        }
     },
     "clusterList": [
         {

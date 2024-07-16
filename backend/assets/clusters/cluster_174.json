@@ -76,7 +76,10 @@
             "05:00",
             "05:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "it's an amazing spectacle",
+            "count": 13
+        }
     },
     "clusterList": [
         {

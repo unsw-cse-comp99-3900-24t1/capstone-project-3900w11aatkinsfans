@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "brevity"
+        "label": {
+            "phrase": "brevity is the soul of twit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

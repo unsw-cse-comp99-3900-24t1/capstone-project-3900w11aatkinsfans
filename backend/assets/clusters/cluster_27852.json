@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in studying for the voting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

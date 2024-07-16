@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i hated these men for what they had done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "linux"
+        "label": {
+            "phrase": "linux it's not just for breakfast any more",
+            "count": 1
+        }
     },
     "clusterList": [
         {

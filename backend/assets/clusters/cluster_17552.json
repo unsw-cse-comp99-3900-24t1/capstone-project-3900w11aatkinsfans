@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "battles"
+        "label": {
+            "phrase": "battles of flanders and artois 1914-1918",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what does rape mean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

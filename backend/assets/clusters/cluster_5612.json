@@ -10,7 +10,10 @@
             "01:32",
             "02:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a necessity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

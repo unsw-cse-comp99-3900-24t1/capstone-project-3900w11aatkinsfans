@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not so street smart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

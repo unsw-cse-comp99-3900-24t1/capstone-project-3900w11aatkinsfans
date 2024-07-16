@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "location"
+        "label": {
+            "phrase": "location http www maxxgenetix com thanku html",
+            "count": 2
+        }
     },
     "clusterList": [
         {

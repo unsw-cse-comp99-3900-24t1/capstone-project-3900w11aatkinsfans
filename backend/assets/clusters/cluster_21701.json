@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my gift to you for many years of faithful service",
+            "count": 1
+        }
     },
     "clusterList": [
         {

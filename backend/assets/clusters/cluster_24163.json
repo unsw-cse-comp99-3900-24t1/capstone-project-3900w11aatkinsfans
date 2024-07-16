@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm already a fill in the blank member",
+            "count": 1
+        }
     },
     "clusterList": [
         {

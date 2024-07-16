@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "amish"
+        "label": {
+            "phrase": "amish people in downtown chicago at the busiest train station of all time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

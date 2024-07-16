@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "milk"
+        "label": {
+            "phrase": "milk all over your kitchen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

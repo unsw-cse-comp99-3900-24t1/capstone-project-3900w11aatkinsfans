@@ -10,7 +10,10 @@
             "04:46",
             "04:55"
         ],
-        "label": "someone"
+        "label": {
+            "phrase": "someone who dug into an underground cable we don't know who it was",
+            "count": 3
+        }
     },
     "clusterList": [
         {

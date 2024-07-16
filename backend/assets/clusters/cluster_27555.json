@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "risked"
+        "label": {
+            "phrase": "risked their lives by returning fire assisting victims and directing traffic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

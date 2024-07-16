@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "dayton"
+        "label": {
+            "phrase": "dayton children's hospital volunteered to be a drop-off site for donors they even raised the money for their own freezer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

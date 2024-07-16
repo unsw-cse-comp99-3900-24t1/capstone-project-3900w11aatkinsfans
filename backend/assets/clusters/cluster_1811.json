@@ -20,7 +20,10 @@
             "04:24",
             "04:59"
         ],
-        "label": "kindy"
+        "label": {
+            "phrase": "kindy days are not my favourite days",
+            "count": 1
+        }
     },
     "clusterList": [
         {

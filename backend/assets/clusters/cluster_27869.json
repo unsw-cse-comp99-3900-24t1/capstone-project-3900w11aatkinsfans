@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what bush and batman have in common",
+            "count": 1
+        }
     },
     "clusterList": [
         {

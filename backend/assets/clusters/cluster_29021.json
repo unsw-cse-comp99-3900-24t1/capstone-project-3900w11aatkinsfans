@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the one thing that i'm satisfied with",
+            "count": 1
+        }
     },
     "clusterList": [
         {

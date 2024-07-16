@@ -8,7 +8,10 @@
             "01:13",
             "01:29"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some level of durability i think is one that fits",
+            "count": 2
+        }
     },
     "clusterList": [
         {

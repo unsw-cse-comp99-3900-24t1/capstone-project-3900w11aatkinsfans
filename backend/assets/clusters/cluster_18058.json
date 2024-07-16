@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well myca we were a bit young i suppose",
+            "count": 1
+        }
     },
     "clusterList": [
         {

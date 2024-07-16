@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "beef"
+        "label": {
+            "phrase": "beef is with the state government not our local council",
+            "count": 1
+        }
     },
     "clusterList": [
         {

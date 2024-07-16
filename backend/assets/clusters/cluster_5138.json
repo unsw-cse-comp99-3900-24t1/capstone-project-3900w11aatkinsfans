@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "she's"
+        "label": {
+            "phrase": "she's going to be the paper's newest food critic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

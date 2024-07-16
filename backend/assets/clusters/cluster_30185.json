@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a chief came knocking on my door",
+            "count": 1
+        }
     },
     "clusterList": [
         {

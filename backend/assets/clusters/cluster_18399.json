@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fact is we confront harsh times",
+            "count": 1
+        }
     },
     "clusterList": [
         {

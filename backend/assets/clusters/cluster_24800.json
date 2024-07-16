@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the nerd girls",
+            "count": 1
+        }
     },
     "clusterList": [
         {

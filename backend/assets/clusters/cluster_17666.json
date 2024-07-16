@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "tom"
+        "label": {
+            "phrase": "tom brokaw ben affleck and madeline albright discussing international relations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "shipping"
+        "label": {
+            "phrase": "shipping dock1 device2",
+            "count": 1
+        }
     },
     "clusterList": [
         {

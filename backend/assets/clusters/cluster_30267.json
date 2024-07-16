@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was actually really interesting going into the archives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

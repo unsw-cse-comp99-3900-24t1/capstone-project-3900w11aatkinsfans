@@ -10,7 +10,10 @@
             "01:57",
             "02:10"
         ],
-        "label": "whakatane"
+        "label": {
+            "phrase": "whakatane services were rejected by the content filter",
+            "count": 3
+        }
     },
     "clusterList": [
         {

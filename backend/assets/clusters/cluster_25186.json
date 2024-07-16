@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't force me to find out the harsh way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

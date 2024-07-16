@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do we really want to be browner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

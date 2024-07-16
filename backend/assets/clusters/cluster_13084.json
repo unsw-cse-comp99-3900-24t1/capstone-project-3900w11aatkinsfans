@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "back"
+        "label": {
+            "phrase": "back of napkin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

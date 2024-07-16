@@ -40,7 +40,10 @@
             "04:28",
             "05:04"
         ],
-        "label": "couple"
+        "label": {
+            "phrase": "take a while",
+            "count": 4
+        }
     },
     "clusterList": [
         {

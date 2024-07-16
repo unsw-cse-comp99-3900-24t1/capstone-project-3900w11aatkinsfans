@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "washington"
+        "label": {
+            "phrase": "washington is paying attention",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we think it's a brand-new species",
+            "count": 1
+        }
     },
     "clusterList": [
         {

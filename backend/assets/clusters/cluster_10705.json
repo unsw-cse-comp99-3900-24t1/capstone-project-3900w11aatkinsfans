@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the alpha and omega",
+            "count": 1
+        }
     },
     "clusterList": [
         {

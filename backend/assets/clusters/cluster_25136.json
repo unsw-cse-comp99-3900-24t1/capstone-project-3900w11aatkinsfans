@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "duh"
+        "label": {
+            "phrase": "duh so about ziggy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

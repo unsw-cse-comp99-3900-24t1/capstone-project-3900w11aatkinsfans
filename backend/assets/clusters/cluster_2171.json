@@ -20,7 +20,10 @@
             "04:13",
             "04:22"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get the priest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

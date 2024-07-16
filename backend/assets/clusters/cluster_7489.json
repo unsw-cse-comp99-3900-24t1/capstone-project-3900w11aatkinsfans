@@ -10,7 +10,10 @@
             "00:27",
             "04:03"
         ],
-        "label": "grocery"
+        "label": {
+            "phrase": "grocery stores just don't smell anymore",
+            "count": 1
+        }
     },
     "clusterList": [
         {

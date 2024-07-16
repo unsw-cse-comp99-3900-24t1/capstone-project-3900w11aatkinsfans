@@ -10,7 +10,10 @@
             "04:13",
             "04:19"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a private building",
+            "count": 1
+        }
     },
     "clusterList": [
         {

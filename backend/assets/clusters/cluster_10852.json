@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "i'll"
+        "label": {
+            "phrase": "i'll see the prime minister of thailand for a nice dinner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

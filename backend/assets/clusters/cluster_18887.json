@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "teacher"
+        "label": {
+            "phrase": "teacher praise a functional analysis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

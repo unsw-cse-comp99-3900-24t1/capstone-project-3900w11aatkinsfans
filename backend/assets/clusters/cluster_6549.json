@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what that guy said but what both those guys said",
+            "count": 3
+        }
     },
     "clusterList": [
         {

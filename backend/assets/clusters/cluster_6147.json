@@ -10,7 +10,10 @@
             "01:10",
             "04:51"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take this miley cyrus quiz",
+            "count": 1
+        }
     },
     "clusterList": [
         {

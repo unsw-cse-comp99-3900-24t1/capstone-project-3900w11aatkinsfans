@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "cowiche"
+        "label": {
+            "phrase": "cowiche canyon conservancy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

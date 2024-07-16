@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've been able to help historically through this program",
+            "count": 1
+        }
     },
     "clusterList": [
         {

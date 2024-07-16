@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "poor"
+        "label": {
+            "phrase": "poor design decision within tt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

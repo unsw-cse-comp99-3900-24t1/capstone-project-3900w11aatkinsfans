@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you major would that be wise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

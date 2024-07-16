@@ -8,7 +8,10 @@
             "02:32",
             "04:24"
         ],
-        "label": "content"
+        "label": {
+            "phrase": "content is the king",
+            "count": 1
+        }
     },
     "clusterList": [
         {

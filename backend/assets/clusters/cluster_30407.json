@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "already"
+        "label": {
+            "phrase": "already it's only been a year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

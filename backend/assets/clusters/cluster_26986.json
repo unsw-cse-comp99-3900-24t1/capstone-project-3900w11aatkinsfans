@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our body is mostly water we need to replenish that water",
+            "count": 1
+        }
     },
     "clusterList": [
         {

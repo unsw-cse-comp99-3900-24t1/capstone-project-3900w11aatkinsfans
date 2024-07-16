@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you didn't have an appointment today did you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

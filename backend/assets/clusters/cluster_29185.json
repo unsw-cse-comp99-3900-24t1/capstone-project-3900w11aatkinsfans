@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "by"
+        "label": {
+            "phrase": "by increasing the length of yellow lights",
+            "count": 1
+        }
     },
     "clusterList": [
         {

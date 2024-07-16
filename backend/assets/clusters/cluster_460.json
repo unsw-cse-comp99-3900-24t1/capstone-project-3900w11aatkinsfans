@@ -44,7 +44,10 @@
             "04:45",
             "04:55"
         ],
-        "label": "thinks"
+        "label": {
+            "phrase": "from the city perspective we're moving forward",
+            "count": 5
+        }
     },
     "clusterList": [
         {

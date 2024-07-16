@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god said that sucks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

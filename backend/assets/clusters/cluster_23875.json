@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the most educated spokesmodel in the history of cosmetics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

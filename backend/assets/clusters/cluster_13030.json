@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "said"
+        "label": {
+            "phrase": "said they were very confident of their ability to predict what their newsrooms would look like five years from now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

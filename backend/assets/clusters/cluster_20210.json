@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the assault on quebec's english community",
+            "count": 1
+        }
     },
     "clusterList": [
         {

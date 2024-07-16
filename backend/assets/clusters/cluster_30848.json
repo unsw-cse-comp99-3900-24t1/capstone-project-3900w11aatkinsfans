@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "ciao"
+        "label": {
+            "phrase": "ciao down at sundown",
+            "count": 1
+        }
     },
     "clusterList": [
         {

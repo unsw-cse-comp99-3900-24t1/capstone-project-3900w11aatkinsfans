@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you better not be drinking all of my coffee",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you go tell the widow lady to trim those hedges",
+            "count": 1
+        }
     },
     "clusterList": [
         {

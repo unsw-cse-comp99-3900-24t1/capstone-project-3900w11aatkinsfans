@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how can you manage all these images",
+            "count": 6
+        }
     },
     "clusterList": [
         {

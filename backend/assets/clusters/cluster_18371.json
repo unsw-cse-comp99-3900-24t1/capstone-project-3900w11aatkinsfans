@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "faithfulness"
+        "label": {
+            "phrase": "faithfulness to the apostolic tradition and apostolic succession",
+            "count": 1
+        }
     },
     "clusterList": [
         {

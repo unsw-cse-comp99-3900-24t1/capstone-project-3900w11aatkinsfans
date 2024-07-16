@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "python"
+        "label": {
+            "phrase": "python is not just any old software off the net",
+            "count": 1
+        }
     },
     "clusterList": [
         {

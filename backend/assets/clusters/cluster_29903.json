@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where is tini beauty located",
+            "count": 1
+        }
     },
     "clusterList": [
         {

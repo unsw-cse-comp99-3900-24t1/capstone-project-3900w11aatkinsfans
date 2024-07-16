@@ -18,7 +18,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "neither"
+        "label": {
+            "phrase": "neither fight nor run",
+            "count": 7
+        }
     },
     "clusterList": [
         {

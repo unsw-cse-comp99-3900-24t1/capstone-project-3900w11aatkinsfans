@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are u sure about this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

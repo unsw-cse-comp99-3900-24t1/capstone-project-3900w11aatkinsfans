@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think that having operation at room temp and standard pressure is a key innovation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:05",
             "03:42"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is too much loose rock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

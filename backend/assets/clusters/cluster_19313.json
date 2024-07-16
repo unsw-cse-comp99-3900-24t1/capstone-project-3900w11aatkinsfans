@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "gollda"
+        "label": {
+            "phrase": "gollda the cruiser is going down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

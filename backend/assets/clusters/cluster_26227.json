@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these processes are not adequately represented in the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

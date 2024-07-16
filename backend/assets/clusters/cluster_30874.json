@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the things we did were not driven by agendas we went by the book",
+            "count": 1
+        }
     },
     "clusterList": [
         {

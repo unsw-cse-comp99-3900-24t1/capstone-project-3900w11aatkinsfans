@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the can't-we-just-be-friends speech",
+            "count": 1
+        }
     },
     "clusterList": [
         {

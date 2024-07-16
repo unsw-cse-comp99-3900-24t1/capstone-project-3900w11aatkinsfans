@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a weapon for villagers like us which an army can't defeat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

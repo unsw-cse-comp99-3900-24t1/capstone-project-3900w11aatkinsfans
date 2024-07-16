@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "they'll"
+        "label": {
+            "phrase": "they'll have us wearing shined boots and pressed uniforms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

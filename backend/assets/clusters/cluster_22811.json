@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "shoplifters"
+        "label": {
+            "phrase": "shoplifters of the world unite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

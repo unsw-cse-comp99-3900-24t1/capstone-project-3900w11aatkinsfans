@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "popular"
+        "label": {
+            "phrase": "popular english for migrants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:07",
             "02:33"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now its time to have some fun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

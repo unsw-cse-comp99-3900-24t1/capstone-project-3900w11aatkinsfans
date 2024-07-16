@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things that make me belive its not serious",
+            "count": 1
+        }
     },
     "clusterList": [
         {

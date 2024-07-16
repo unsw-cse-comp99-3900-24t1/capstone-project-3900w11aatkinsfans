@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the nfl dolphin safe for 10 years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

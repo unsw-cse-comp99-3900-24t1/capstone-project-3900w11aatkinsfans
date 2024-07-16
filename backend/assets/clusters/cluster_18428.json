@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the job was filled internally",
+            "count": 1
+        }
     },
     "clusterList": [
         {

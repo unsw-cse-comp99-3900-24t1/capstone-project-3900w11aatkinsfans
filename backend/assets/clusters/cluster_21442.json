@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "high"
+        "label": {
+            "phrase": "high fidelity audio and video",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -16,7 +16,10 @@
             "02:32",
             "02:42"
         ],
-        "label": "purple"
+        "label": {
+            "phrase": "purple hearted heroes",
+            "count": 6
+        }
     },
     "clusterList": [
         {

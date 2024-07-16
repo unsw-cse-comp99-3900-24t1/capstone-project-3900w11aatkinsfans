@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "investors"
+        "label": {
+            "phrase": "investors with plenty of money had seen the housing boom and figured they could turn a profit with professional office buildings to support the residential growth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

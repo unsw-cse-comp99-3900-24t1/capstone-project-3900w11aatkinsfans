@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look at his leg it's awful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

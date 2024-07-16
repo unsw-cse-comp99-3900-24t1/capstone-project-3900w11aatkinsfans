@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "from"
+        "label": {
+            "phrase": "from pikeville to paducah",
+            "count": 1
+        }
     },
     "clusterList": [
         {

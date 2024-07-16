@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if somebody comes in with no overhead and no bills and no sanitary counters and starts selling hot dogs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

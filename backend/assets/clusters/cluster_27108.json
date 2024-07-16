@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "adding"
+        "label": {
+            "phrase": "adding style to your silverlight applications",
+            "count": 1
+        }
     },
     "clusterList": [
         {

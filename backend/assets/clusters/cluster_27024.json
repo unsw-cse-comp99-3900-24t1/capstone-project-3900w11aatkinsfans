@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "fix"
+        "label": {
+            "phrase": "fix me a sandwich woman",
+            "count": 1
+        }
     },
     "clusterList": [
         {

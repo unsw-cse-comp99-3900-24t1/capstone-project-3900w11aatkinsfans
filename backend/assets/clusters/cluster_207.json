@@ -46,7 +46,10 @@
             "04:22",
             "04:28"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "class of one",
+            "count": 15
+        }
     },
     "clusterList": [
         {

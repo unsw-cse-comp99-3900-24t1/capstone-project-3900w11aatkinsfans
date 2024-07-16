@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "shield"
+        "label": {
+            "phrase": "shield of staleness",
+            "count": 4
+        }
     },
     "clusterList": [
         {

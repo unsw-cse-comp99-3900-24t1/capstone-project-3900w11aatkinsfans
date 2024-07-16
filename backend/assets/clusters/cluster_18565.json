@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "sunrise"
+        "label": {
+            "phrase": "sunrise over the olympus mons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

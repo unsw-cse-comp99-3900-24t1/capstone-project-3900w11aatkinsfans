@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "muscles"
+        "label": {
+            "phrase": "muscles have memory",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's true even my mother doesn't get a chance to write any",
+            "count": 1
+        }
     },
     "clusterList": [
         {

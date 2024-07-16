@@ -6,7 +6,10 @@
         "xLabels": [
             "01:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the warden memoirs las memorias de warden",
+            "count": 1
+        }
     },
     "clusterList": [
         {

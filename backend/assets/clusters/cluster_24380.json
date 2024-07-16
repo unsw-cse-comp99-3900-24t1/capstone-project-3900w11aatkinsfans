@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't get a fingerprint off wood you can't get a fingerprint off sheetrock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

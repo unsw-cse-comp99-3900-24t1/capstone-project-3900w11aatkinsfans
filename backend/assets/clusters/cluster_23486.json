@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people are freaking out for nothing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

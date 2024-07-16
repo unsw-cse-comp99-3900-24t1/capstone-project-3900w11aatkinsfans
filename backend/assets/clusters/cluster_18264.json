@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "subtler"
+        "label": {
+            "phrase": "subtler and more covert methods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

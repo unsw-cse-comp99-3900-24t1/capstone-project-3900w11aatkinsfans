@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "tight"
+        "label": {
+            "phrase": "tight fists loose morals",
+            "count": 1
+        }
     },
     "clusterList": [
         {

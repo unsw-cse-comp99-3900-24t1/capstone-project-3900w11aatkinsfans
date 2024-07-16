@@ -6,7 +6,10 @@
         "xLabels": [
             "03:20"
         ],
-        "label": "puppen"
+        "label": {
+            "phrase": "puppen last show ever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

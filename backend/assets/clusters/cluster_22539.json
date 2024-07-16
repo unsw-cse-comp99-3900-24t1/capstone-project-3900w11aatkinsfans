@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i will run no press ever again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my pardon you asked for it you got it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

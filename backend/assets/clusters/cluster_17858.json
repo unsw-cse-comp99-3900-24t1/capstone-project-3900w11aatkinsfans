@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "trust"
+        "label": {
+            "phrase": "trust me i've got an instinct on this one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:48"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a streetcar named desire",
+            "count": 2
+        }
     },
     "clusterList": [
         {

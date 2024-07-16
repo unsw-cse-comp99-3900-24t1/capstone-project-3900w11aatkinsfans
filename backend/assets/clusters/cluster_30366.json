@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm gonna whoop your ass",
+            "count": 1
+        }
     },
     "clusterList": [
         {

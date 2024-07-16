@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "first"
+        "label": {
+            "phrase": "first of the microbe hunters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

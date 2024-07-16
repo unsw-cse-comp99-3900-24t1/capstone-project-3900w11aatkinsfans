@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "high"
+        "label": {
+            "phrase": "high tech constructs and slick patch jobs produced by a third party",
+            "count": 1
+        }
     },
     "clusterList": [
         {

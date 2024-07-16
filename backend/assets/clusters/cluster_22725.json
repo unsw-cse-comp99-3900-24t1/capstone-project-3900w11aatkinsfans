@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the beach changed because the world changed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

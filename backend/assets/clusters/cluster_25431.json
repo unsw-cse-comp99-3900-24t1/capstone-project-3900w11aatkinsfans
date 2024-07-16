@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "hillsboro"
+        "label": {
+            "phrase": "hillsboro has been spoiled",
+            "count": 1
+        }
     },
     "clusterList": [
         {

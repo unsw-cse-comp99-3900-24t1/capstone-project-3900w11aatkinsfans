@@ -18,7 +18,10 @@
             "04:56",
             "05:01"
         ],
-        "label": "pork"
+        "label": {
+            "phrase": "pork amp beans",
+            "count": 1
+        }
     },
     "clusterList": [
         {

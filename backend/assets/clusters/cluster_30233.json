@@ -6,7 +6,10 @@
         "xLabels": [
             "04:44"
         ],
-        "label": "amp"
+        "label": {
+            "phrase": "amp emailnotification false amp firstround firstround blank",
+            "count": 1
+        }
     },
     "clusterList": [
         {

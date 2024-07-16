@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think this is a horrifying oversight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:39"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the governor demonstrated that he is ready to stand up to the interest groups that will no doubt protest before the state house just as they took to the steps of city hall earlier this year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

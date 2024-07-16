@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're only in as deep as you want to be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

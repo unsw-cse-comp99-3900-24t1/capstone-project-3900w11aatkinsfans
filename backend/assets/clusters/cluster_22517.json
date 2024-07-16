@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i hate to tell you this stace but that wasn't for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

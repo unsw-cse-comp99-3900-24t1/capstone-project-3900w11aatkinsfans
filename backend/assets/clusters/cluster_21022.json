@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i never want to work on a mature product",
+            "count": 1
+        }
     },
     "clusterList": [
         {

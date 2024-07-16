@@ -10,7 +10,10 @@
             "04:23",
             "04:36"
         ],
-        "label": "slept"
+        "label": {
+            "phrase": "slept with every girl in town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "nice"
+        "label": {
+            "phrase": "nice nonsense you're talking there man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

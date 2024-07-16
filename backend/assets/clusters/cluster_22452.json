@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we want to ensure the lunar reconnaissance orbiter can withstand the extreme conditions experienced during launch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

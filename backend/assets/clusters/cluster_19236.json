@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "outsiders"
+        "label": {
+            "phrase": "outsiders don't really care about your feelings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

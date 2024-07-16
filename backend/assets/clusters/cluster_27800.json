@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "prologue"
+        "label": {
+            "phrase": "prologue i know where you live",
+            "count": 1
+        }
     },
     "clusterList": [
         {

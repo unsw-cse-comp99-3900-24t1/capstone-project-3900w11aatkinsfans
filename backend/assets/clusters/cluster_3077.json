@@ -14,7 +14,10 @@
             "02:00",
             "04:13"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a capable ship which meets the requirements for which it was designed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

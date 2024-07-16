@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was he a social commentator in some way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

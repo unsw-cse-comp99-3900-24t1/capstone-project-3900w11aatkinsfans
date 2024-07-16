@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a woman who was blind in one eye has been married to a man for 20 years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

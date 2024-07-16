@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what we're trying to do is return a fully functioning tendon by regrowing the tendon cells and return it to its normal function",
+            "count": 1
+        }
     },
     "clusterList": [
         {

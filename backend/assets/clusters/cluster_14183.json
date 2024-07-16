@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i write for pay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

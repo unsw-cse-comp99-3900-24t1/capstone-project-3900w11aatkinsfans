@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "keep"
+        "label": {
+            "phrase": "keep ancient lands your storied pomp",
+            "count": 1
+        }
     },
     "clusterList": [
         {

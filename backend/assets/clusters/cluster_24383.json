@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "miller"
+        "label": {
+            "phrase": "miller was an avant-garde thinker even then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

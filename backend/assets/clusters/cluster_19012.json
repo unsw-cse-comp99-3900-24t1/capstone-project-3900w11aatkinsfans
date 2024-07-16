@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they didn't expect me to make it past the second guy but i did",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -16,7 +16,10 @@
             "03:24",
             "04:13"
         ],
-        "label": "config"
+        "label": {
+            "phrase": "php via fastcgi or something similar",
+            "count": 4
+        }
     },
     "clusterList": [
         {

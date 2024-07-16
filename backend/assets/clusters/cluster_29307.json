@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "girls"
+        "label": {
+            "phrase": "girls are made from sugar spice and every",
+            "count": 1
+        }
     },
     "clusterList": [
         {

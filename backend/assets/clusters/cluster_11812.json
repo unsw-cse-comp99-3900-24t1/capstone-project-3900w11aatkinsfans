@@ -8,7 +8,10 @@
             "00:10",
             "03:18"
         ],
-        "label": "thanks"
+        "label": {
+            "phrase": "thanks for having tried",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "also"
+        "label": {
+            "phrase": "also see 180 million years ago same thing happened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:12"
         ],
-        "label": "actually"
+        "label": {
+            "phrase": "actually that's more descriptive of me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

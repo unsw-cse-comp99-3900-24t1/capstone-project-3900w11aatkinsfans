@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to be picked up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "clipper"
+        "label": {
+            "phrase": "clipper mmdb wrapper h",
+            "count": 1
+        }
     },
     "clusterList": [
         {

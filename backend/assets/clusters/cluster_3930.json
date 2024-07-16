@@ -10,7 +10,10 @@
             "02:26",
             "03:02"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no option is off the table",
+            "count": 2
+        }
     },
     "clusterList": [
         {

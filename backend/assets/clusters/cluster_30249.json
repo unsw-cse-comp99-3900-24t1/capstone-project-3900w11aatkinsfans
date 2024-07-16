@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "national"
+        "label": {
+            "phrase": "national minority donor day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

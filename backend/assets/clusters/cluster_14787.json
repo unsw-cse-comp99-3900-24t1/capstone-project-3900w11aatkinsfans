@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a prosperous way down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the octopus is my power animal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

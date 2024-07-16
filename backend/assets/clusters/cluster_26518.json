@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when everyone else thinks i'm nuts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

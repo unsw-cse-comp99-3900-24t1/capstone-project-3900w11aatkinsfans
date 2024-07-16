@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "amplify"
+        "label": {
+            "phrase": "amplify week sectors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

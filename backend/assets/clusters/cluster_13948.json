@@ -6,7 +6,10 @@
         "xLabels": [
             "00:15"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lot of racket and nothing else",
+            "count": 1
+        }
     },
     "clusterList": [
         {

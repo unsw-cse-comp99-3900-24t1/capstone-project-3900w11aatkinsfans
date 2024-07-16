@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "rick"
+        "label": {
+            "phrase": "rick you buy the warranty for security right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're asking me what my sincere feeling is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -40,7 +40,10 @@
             "04:32",
             "04:41"
         ],
-        "label": "nine"
+        "label": {
+            "phrase": "fox news sunday",
+            "count": 4
+        }
     },
     "clusterList": [
         {

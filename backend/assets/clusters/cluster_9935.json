@@ -8,7 +8,10 @@
             "01:37",
             "02:34"
         ],
-        "label": "corn"
+        "label": {
+            "phrase": "corn when did i eat corn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

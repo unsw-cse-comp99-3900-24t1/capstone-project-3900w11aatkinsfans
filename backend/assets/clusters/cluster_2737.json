@@ -18,7 +18,10 @@
             "04:28",
             "05:00"
         ],
-        "label": "woman"
+        "label": {
+            "phrase": "woman what does she want",
+            "count": 1
+        }
     },
     "clusterList": [
         {

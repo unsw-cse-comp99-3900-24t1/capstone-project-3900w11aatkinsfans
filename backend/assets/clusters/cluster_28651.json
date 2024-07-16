@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "think"
+        "label": {
+            "phrase": "think back through our mothers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

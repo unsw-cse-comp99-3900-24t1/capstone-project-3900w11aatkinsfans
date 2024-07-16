@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're very observant you read it very closely",
+            "count": 1
+        }
     },
     "clusterList": [
         {

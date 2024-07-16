@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "asterix"
+        "label": {
+            "phrase": "asterix and obelix",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "petrobras"
+        "label": {
+            "phrase": "petrobras could become the biggest stock in the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

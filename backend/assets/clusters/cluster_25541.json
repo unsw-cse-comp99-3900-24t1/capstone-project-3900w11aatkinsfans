@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "microsoft"
+        "label": {
+            "phrase": "microsoft windows explorer provides a graphical representation of the shell namespace combined with tools that allow users to interact with shell objects with a namespace extension you can take any body of data and have windows explorer present it to the user as a virtual folder when a user browses into this folder your data is presented as a tree-structured hierarchy of folders and files much like the rest of the shell namespace users and applications are able to interact with the contents of this virtual folder in much the same way as with any other namespace object",
+            "count": 1
+        }
     },
     "clusterList": [
         {

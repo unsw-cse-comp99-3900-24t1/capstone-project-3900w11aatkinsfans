@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you sit on a throne of lies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

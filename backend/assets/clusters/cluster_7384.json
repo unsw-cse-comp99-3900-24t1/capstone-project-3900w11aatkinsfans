@@ -10,7 +10,10 @@
             "01:02",
             "03:22"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and they're not just attacking me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:34",
             "03:02"
         ],
-        "label": "stop"
+        "label": {
+            "phrase": "stop the raids",
+            "count": 1
+        }
     },
     "clusterList": [
         {

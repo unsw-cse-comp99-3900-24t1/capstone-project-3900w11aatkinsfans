@@ -24,7 +24,10 @@
             "04:15",
             "04:32"
         ],
-        "label": "red"
+        "label": {
+            "phrase": "the blue rose",
+            "count": 5
+        }
     },
     "clusterList": [
         {

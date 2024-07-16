@@ -8,7 +8,10 @@
             "02:20",
             "04:06"
         ],
-        "label": "squeezing"
+        "label": {
+            "phrase": "squeezing of the chest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

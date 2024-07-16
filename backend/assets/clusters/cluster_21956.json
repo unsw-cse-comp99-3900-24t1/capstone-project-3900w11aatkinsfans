@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but where did the 82 000 come from",
+            "count": 1
+        }
     },
     "clusterList": [
         {

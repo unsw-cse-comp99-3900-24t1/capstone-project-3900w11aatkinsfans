@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a diner across from the casino on clyborn i'll have to call someone to pick my son up from school and to let them know where i am",
+            "count": 1
+        }
     },
     "clusterList": [
         {

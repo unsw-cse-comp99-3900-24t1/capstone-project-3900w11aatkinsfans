@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we just don't have the surgical techniques at this stage to repair fractures",
+            "count": 1
+        }
     },
     "clusterList": [
         {

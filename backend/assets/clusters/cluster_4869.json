@@ -10,7 +10,10 @@
             "02:36",
             "04:07"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fireman's ball",
+            "count": 1
+        }
     },
     "clusterList": [
         {

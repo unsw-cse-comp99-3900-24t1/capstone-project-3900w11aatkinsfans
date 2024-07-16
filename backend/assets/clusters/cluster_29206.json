@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "mother"
+        "label": {
+            "phrase": "mother goose treasury",
+            "count": 1
+        }
     },
     "clusterList": [
         {

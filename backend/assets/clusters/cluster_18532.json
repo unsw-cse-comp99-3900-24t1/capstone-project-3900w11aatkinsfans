@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it seems that the work that our paramedics do is being taken for granted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

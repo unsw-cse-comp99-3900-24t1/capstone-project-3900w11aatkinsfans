@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "fire"
+        "label": {
+            "phrase": "fire them all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

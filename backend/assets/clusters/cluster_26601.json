@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "still"
+        "label": {
+            "phrase": "still has nightmares and has needed therapy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

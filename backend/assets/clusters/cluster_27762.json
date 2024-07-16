@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one is they're very well-organized two is that they've been able to stay on the road",
+            "count": 1
+        }
     },
     "clusterList": [
         {

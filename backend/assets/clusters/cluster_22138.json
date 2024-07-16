@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there should be some concern i don't know whether they check them or not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

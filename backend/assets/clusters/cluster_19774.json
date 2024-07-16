@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you heard about that new detergent for blacks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

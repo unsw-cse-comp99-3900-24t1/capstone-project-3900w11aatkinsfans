@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "arts"
+        "label": {
+            "phrase": "arts of government",
+            "count": 1
+        }
     },
     "clusterList": [
         {

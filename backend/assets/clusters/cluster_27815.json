@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look out for stock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "family"
+        "label": {
+            "phrase": "family planning nothing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

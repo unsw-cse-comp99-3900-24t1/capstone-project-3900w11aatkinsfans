@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "everything"
+        "label": {
+            "phrase": "everything that can be invented has been invented",
+            "count": 1
+        }
     },
     "clusterList": [
         {

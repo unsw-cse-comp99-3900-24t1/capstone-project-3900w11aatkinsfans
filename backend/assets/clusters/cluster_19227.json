@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this message is for cowes week not for life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

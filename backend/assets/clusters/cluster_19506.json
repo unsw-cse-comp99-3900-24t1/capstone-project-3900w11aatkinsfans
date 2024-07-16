@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now it can be told and other works",
+            "count": 1
+        }
     },
     "clusterList": [
         {

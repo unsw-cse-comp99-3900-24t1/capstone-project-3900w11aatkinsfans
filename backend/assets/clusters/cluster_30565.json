@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no leaf clover",
+            "count": 1
+        }
     },
     "clusterList": [
         {

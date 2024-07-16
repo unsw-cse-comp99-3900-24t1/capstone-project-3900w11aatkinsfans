@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm going to get ready and ask my wife do i look all right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

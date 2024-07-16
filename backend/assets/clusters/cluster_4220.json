@@ -14,7 +14,10 @@
             "04:07",
             "04:14"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "i can't work buildroot to give me gcc",
+            "count": 2
+        }
     },
     "clusterList": [
         {

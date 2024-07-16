@@ -34,7 +34,10 @@
             "03:59",
             "04:37"
         ],
-        "label": "education"
+        "label": {
+            "phrase": "education is the real issue",
+            "count": 5
+        }
     },
     "clusterList": [
         {

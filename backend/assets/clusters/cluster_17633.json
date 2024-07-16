@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're the boss when you buy a lawn-boy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

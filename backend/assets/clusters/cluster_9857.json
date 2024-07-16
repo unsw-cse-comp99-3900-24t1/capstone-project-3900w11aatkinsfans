@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the farting christian",
+            "count": 1
+        }
     },
     "clusterList": [
         {

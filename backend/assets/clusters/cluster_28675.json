@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the lesser the people know about how sausages and laws are made the better they sleep in the night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

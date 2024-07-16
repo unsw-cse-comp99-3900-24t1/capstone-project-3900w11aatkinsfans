@@ -10,7 +10,10 @@
             "01:42",
             "04:24"
         ],
-        "label": "booking"
+        "label": {
+            "phrase": "booking looking for an eco-alternative for fertilizer",
+            "count": 3
+        }
     },
     "clusterList": [
         {

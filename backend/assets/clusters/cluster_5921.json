@@ -10,7 +10,10 @@
             "02:51",
             "04:51"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will linux work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

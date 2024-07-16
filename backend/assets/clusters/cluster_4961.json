@@ -12,7 +12,10 @@
             "01:46",
             "02:51"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is just one piece of the puzzle",
+            "count": 2
+        }
     },
     "clusterList": [
         {

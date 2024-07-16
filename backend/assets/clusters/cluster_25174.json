@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you also went towards romantic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

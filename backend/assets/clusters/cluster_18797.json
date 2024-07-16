@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when you see me smash somebody's skull you enjoy it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

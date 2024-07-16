@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think that's a focus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

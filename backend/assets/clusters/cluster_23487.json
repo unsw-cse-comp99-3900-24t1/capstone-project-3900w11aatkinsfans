@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "google"
+        "label": {
+            "phrase": "google had a good second quarter performance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of the party's weakest fundraisers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

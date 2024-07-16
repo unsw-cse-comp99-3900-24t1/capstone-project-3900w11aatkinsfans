@@ -6,7 +6,10 @@
         "xLabels": [
             "00:46"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've never been a victim of internet crime",
+            "count": 1
+        }
     },
     "clusterList": [
         {

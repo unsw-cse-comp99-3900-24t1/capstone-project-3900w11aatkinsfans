@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the national conversation changed to the price of watches",
+            "count": 1
+        }
     },
     "clusterList": [
         {

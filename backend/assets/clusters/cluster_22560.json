@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "back"
+        "label": {
+            "phrase": "back in those days you didn't use the bacon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

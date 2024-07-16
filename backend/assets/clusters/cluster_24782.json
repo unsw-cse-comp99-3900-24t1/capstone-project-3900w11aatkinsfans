@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we want to introduce an entirely new generation to duke",
+            "count": 1
+        }
     },
     "clusterList": [
         {

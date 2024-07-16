@@ -8,7 +8,10 @@
             "00:29",
             "04:17"
         ],
-        "label": "talk"
+        "label": {
+            "phrase": "talk is cheap",
+            "count": 1
+        }
     },
     "clusterList": [
         {

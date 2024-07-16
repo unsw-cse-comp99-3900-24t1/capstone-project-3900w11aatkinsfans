@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "jimmy's"
+        "label": {
+            "phrase": "jimmy's getting all the reps",
+            "count": 1
+        }
     },
     "clusterList": [
         {

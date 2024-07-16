@@ -6,7 +6,10 @@
         "xLabels": [
             "00:56"
         ],
-        "label": "financial"
+        "label": {
+            "phrase": "financial weapons of mass destruction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:15",
             "05:00"
         ],
-        "label": "nick"
+        "label": {
+            "phrase": "nick and norah's infinite playlist",
+            "count": 3
+        }
     },
     "clusterList": [
         {

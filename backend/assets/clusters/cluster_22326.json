@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're not going to leave the state of colorado",
+            "count": 1
+        }
     },
     "clusterList": [
         {

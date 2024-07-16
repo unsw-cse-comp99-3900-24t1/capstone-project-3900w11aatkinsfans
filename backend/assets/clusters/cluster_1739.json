@@ -18,7 +18,10 @@
             "03:22",
             "03:43"
         ],
-        "label": "yours"
+        "label": {
+            "phrase": "is this yours",
+            "count": 2
+        }
     },
     "clusterList": [
         {

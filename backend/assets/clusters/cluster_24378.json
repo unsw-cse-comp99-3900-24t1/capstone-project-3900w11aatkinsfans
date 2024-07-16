@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "nothing"
+        "label": {
+            "phrase": "nothing was stolen that we're aware of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

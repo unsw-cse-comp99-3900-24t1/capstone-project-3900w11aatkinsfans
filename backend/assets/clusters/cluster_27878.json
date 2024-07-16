@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one has ever spoken to me about it and if anyone decides they don't like it or they won't take me it's their loss",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "red"
+        "label": {
+            "phrase": "red light cameras just reward cities for bad engineering",
+            "count": 1
+        }
     },
     "clusterList": [
         {

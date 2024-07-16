@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will just be sent back out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

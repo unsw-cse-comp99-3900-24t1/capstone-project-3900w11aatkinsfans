@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "devil's"
+        "label": {
+            "phrase": "devil's night carolers we've come to spread a little holiday cheer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

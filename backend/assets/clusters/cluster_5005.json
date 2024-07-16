@@ -8,7 +8,10 @@
             "01:52",
             "02:01"
         ],
-        "label": "ordered"
+        "label": {
+            "phrase": "ordered one for the table",
+            "count": 2
+        }
     },
     "clusterList": [
         {

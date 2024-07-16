@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we try to start the spay-neuter program in the spring before mating season",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you believe that he was starved to death correct",
+            "count": 1
+        }
     },
     "clusterList": [
         {

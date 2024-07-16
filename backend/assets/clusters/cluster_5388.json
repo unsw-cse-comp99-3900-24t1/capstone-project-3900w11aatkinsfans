@@ -12,7 +12,10 @@
             "03:06",
             "03:17"
         ],
-        "label": "has"
+        "label": {
+            "phrase": "has no money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

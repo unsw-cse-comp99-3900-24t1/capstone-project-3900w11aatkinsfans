@@ -16,7 +16,10 @@
             "04:24",
             "05:00"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your mother was my first sunday school teacher",
+            "count": 1
+        }
     },
     "clusterList": [
         {

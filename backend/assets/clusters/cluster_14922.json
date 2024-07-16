@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to whom it may concern",
+            "count": 1
+        }
     },
     "clusterList": [
         {

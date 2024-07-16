@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "soft"
+        "label": {
+            "phrase": "soft underbelly of europe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

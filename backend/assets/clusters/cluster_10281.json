@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "looking"
+        "label": {
+            "phrase": "looking for a nosh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:09",
             "05:00"
         ],
-        "label": "mrs"
+        "label": {
+            "phrase": "mrs smith do you realize these are birth control pills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

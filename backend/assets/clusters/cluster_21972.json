@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "exchange"
+        "label": {
+            "phrase": "exchange order for investor shares to admiral shares of the same fund",
+            "count": 1
+        }
     },
     "clusterList": [
         {

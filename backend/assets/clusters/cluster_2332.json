@@ -16,7 +16,10 @@
             "04:15",
             "04:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the labor union",
+            "count": 2
+        }
     },
     "clusterList": [
         {

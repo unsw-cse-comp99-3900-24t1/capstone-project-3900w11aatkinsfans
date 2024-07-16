@@ -12,7 +12,10 @@
             "01:23",
             "02:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "your money or your life",
+            "count": 3
+        }
     },
     "clusterList": [
         {

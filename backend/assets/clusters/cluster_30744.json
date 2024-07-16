@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "duke"
+        "label": {
+            "phrase": "duke energy's customers should not be stuck holding the bag if the company keeps pouring millions into that risky project",
+            "count": 1
+        }
     },
     "clusterList": [
         {

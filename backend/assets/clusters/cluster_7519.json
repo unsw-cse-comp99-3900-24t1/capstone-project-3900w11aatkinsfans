@@ -10,7 +10,10 @@
             "01:24",
             "02:42"
         ],
-        "label": "cool"
+        "label": {
+            "phrase": "cool new people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

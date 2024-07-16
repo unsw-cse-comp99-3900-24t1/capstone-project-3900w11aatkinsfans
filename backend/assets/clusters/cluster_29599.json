@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a book of ubiquitous movement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

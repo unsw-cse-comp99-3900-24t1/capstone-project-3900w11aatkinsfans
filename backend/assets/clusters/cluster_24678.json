@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you ran the olympics 500 times one of those times the highway would be cut with a rock fall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:50"
         ],
-        "label": "dan"
+        "label": {
+            "phrase": "dan would make us sing the national anthem and then play",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you must set aside a tithe of your crops-one-tenth of all the crops you harvest each year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the nanny congress and tobacco",
+            "count": 1
+        }
     },
     "clusterList": [
         {

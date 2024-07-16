@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "abby"
+        "label": {
+            "phrase": "abby marches to the beat of her own flute",
+            "count": 1
+        }
     },
     "clusterList": [
         {

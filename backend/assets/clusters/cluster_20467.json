@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the idea of fame without portfolio",
+            "count": 1
+        }
     },
     "clusterList": [
         {

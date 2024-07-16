@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "challenge"
+        "label": {
+            "phrase": "challenge each other in love",
+            "count": 1
+        }
     },
     "clusterList": [
         {

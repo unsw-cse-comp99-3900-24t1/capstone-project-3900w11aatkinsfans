@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we probably will not have a postmaster",
+            "count": 1
+        }
     },
     "clusterList": [
         {

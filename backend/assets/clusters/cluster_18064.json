@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a surprise and this time you can't peek in on it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

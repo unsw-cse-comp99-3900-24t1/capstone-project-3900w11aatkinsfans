@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "human"
+        "label": {
+            "phrase": "human error by casino staff",
+            "count": 1
+        }
     },
     "clusterList": [
         {

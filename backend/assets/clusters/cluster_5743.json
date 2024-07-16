@@ -10,7 +10,10 @@
             "00:09",
             "00:47"
         ],
-        "label": "passive"
+        "label": {
+            "phrase": "passive device that needs no batteries",
+            "count": 3
+        }
     },
     "clusterList": [
         {

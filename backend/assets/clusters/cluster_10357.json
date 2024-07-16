@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "comment"
+        "label": {
+            "phrase": "comment creationdate lastpasswordchangeddate lastactivitydate",
+            "count": 2
+        }
     },
     "clusterList": [
         {

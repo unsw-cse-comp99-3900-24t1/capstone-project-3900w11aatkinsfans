@@ -10,7 +10,10 @@
             "04:33",
             "04:45"
         ],
-        "label": "should"
+        "label": {
+            "phrase": "should have been on our radar but wasn't",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the situation room",
+            "count": 1
+        }
     },
     "clusterList": [
         {

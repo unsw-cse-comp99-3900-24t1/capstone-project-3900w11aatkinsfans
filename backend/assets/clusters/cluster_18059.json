@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fish stopped moving",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:06",
             "01:37"
         ],
-        "label": "inappropriate"
+        "label": {
+            "phrase": "inappropriate working attitude",
+            "count": 2
+        }
     },
     "clusterList": [
         {

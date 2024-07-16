@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the government doesn't want to give grapes immunity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

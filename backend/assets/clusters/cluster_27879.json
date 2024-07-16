@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "zones"
+        "label": {
+            "phrase": "zones in which this kind of exposure is accepted are permeable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

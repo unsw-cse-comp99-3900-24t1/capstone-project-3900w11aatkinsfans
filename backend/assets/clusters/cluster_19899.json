@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the kid was apparently just daydreaming",
+            "count": 1
+        }
     },
     "clusterList": [
         {

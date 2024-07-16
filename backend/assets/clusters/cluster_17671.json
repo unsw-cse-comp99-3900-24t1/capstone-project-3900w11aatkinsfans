@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i can sell a griffey white sox jersey",
+            "count": 1
+        }
     },
     "clusterList": [
         {

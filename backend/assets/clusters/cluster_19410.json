@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is only a concept",
+            "count": 1
+        }
     },
     "clusterList": [
         {

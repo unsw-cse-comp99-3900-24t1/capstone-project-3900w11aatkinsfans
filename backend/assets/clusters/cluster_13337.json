@@ -6,7 +6,10 @@
         "xLabels": [
             "00:09"
         ],
-        "label": "justin"
+        "label": {
+            "phrase": "justin hated that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a good time to be employed in the state of california",
+            "count": 1
+        }
     },
     "clusterList": [
         {

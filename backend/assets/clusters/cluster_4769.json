@@ -12,7 +12,10 @@
             "03:02",
             "03:43"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only dull people are brilliant at breakfast",
+            "count": 3
+        }
     },
     "clusterList": [
         {

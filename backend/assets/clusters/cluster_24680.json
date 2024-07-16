@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why does it take a week to clear this mess",
+            "count": 1
+        }
     },
     "clusterList": [
         {

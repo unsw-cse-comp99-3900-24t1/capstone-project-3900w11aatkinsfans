@@ -6,7 +6,10 @@
         "xLabels": [
             "04:16"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we haven't rehearsed this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

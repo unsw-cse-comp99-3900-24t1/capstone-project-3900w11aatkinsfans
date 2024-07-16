@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "mine"
+        "label": {
+            "phrase": "mine of information",
+            "count": 1
+        }
     },
     "clusterList": [
         {

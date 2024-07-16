@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so what brings you here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

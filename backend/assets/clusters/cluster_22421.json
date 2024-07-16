@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "massachusetts"
+        "label": {
+            "phrase": "massachusetts is one of the leading biotechnology states in the nation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "food"
+        "label": {
+            "phrase": "food is important ka-chan",
+            "count": 2
+        }
     },
     "clusterList": [
         {

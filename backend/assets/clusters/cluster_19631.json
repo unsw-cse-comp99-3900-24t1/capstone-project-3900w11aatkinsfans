@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not again no fire hit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

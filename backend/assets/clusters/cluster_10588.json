@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a wonderful wooden reason",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:13",
             "03:59"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this accessory is not made to work with iphone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

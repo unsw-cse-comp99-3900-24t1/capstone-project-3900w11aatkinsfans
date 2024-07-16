@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that guy who doesn't return games",
+            "count": 1
+        }
     },
     "clusterList": [
         {

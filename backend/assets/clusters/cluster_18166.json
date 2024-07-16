@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "inheritance"
+        "label": {
+            "phrase": "inheritance of loss",
+            "count": 1
+        }
     },
     "clusterList": [
         {

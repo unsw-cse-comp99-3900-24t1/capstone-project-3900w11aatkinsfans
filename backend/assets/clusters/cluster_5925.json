@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we also show what jason's doing when he's not killing",
+            "count": 3
+        }
     },
     "clusterList": [
         {

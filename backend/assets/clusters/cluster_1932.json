@@ -20,7 +20,10 @@
             "04:51",
             "05:01"
         ],
-        "label": "usr"
+        "label": {
+            "phrase": "psst aoc players",
+            "count": 2
+        }
     },
     "clusterList": [
         {

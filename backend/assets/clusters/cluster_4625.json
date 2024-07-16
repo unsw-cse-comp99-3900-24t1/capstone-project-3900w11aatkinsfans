@@ -12,7 +12,10 @@
             "01:23",
             "03:50"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is gonna get messy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

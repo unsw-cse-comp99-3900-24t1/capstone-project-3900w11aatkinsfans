@@ -22,7 +22,10 @@
             "04:23",
             "05:05"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all game development is still completely within our irvine headquarters",
+            "count": 6
+        }
     },
     "clusterList": [
         {

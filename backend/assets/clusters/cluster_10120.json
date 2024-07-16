@@ -8,7 +8,10 @@
             "01:10",
             "01:51"
         ],
-        "label": "reinsurance"
+        "label": {
+            "phrase": "reinsurance will pay the remaining amount of money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

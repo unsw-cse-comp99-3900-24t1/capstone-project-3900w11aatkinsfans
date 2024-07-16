@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "arrange"
+        "label": {
+            "phrase": "arrange by name",
+            "count": 1
+        }
     },
     "clusterList": [
         {

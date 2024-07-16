@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "chauffeur"
+        "label": {
+            "phrase": "chauffeur means every person who is employed by another for the principal purpose of driving a motor vehicle carrying persons or property for compensation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

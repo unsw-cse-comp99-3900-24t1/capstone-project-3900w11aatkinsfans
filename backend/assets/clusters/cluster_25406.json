@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "someone"
+        "label": {
+            "phrase": "someone e-mailed a clipping of mitchell's newspaper obituary to mydeathspace",
+            "count": 1
+        }
     },
     "clusterList": [
         {

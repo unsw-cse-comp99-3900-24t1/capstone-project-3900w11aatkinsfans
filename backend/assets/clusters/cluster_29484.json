@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when in rome do as the romans do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -30,7 +30,10 @@
             "04:50",
             "05:01"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's a guy who can do everything",
+            "count": 3
+        }
     },
     "clusterList": [
         {

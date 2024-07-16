@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of america's toughest bosses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

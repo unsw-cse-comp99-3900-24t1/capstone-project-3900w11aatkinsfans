@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "red"
+        "label": {
+            "phrase": "red hot art bbq",
+            "count": 1
+        }
     },
     "clusterList": [
         {

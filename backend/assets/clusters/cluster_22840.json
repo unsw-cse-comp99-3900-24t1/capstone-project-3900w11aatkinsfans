@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "however"
+        "label": {
+            "phrase": "however he didn't vote for the holiday of martin luther king jr",
+            "count": 1
+        }
     },
     "clusterList": [
         {

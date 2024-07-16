@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "stop"
+        "label": {
+            "phrase": "stop spitting on the windows",
+            "count": 1
+        }
     },
     "clusterList": [
         {

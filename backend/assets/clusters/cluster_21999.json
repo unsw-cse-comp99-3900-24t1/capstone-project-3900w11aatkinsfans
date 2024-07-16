@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the boards r",
+            "count": 1
+        }
     },
     "clusterList": [
         {

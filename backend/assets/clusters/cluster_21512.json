@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am the director-general of all mks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

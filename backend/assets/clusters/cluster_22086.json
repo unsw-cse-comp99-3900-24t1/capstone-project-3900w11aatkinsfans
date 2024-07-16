@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you want to know something completely mad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

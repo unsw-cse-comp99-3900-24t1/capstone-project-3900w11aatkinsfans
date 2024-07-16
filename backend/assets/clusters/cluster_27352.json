@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "putting"
+        "label": {
+            "phrase": "putting yourself on the shoes of others",
+            "count": 1
+        }
     },
     "clusterList": [
         {

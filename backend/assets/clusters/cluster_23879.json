@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "le'ora's"
+        "label": {
+            "phrase": "le'ora's beauty salon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

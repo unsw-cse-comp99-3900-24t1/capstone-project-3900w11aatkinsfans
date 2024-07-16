@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm not sure there's a big dropoff there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

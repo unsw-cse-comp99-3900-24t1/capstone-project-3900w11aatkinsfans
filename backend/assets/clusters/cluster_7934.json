@@ -8,7 +8,10 @@
             "00:12",
             "03:48"
         ],
-        "label": "eat"
+        "label": {
+            "phrase": "eat at that new thai place",
+            "count": 1
+        }
     },
     "clusterList": [
         {

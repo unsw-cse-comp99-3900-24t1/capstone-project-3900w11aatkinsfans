@@ -12,7 +12,10 @@
             "04:42",
             "04:59"
         ],
-        "label": "mark"
+        "label": {
+            "phrase": "study to sleep better perchance to live longer",
+            "count": 3
+        }
     },
     "clusterList": [
         {

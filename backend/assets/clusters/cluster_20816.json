@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "canadian"
+        "label": {
+            "phrase": "canadian writer pitches more than just current manuscript",
+            "count": 1
+        }
     },
     "clusterList": [
         {

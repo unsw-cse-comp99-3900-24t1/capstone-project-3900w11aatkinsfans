@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ultimate back-up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

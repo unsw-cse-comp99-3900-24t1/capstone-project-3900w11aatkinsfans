@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "flaws"
+        "label": {
+            "phrase": "flaws and totality",
+            "count": 1
+        }
     },
     "clusterList": [
         {

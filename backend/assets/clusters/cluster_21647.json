@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "tony"
+        "label": {
+            "phrase": "tony the tiger and kool-aid man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

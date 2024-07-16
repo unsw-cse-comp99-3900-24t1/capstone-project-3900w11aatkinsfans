@@ -6,7 +6,10 @@
         "xLabels": [
             "00:20"
         ],
-        "label": "change"
+        "label": {
+            "phrase": "change the action to desktop overwrites handheld",
+            "count": 1
+        }
     },
     "clusterList": [
         {

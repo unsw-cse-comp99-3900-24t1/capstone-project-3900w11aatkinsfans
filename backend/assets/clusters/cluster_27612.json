@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "alabama"
+        "label": {
+            "phrase": "alabama victory 08",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the bodies of our friends",
+            "count": 1
+        }
     },
     "clusterList": [
         {

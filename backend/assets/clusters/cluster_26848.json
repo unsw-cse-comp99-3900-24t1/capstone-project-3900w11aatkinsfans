@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "remind"
+        "label": {
+            "phrase": "remind me to give you a metal later",
+            "count": 1
+        }
     },
     "clusterList": [
         {

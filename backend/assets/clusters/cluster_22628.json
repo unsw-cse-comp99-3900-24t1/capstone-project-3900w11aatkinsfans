@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the melting pot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "sun"
+        "label": {
+            "phrase": "sun has given use more free hands to do what we want to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

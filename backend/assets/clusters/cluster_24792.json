@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're less popular however with our accountants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh we don't have formal agreement with brokers but we'll pay you a point outside of closing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

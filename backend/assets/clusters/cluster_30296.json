@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he took styrofoam and made a model",
+            "count": 1
+        }
     },
     "clusterList": [
         {

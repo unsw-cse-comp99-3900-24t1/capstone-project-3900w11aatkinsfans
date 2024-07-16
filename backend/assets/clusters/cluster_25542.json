@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "7-zip"
+        "label": {
+            "phrase": "7-zip gt add to archive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -14,7 +14,10 @@
             "03:55",
             "04:36"
         ],
-        "label": "report"
+        "label": {
+            "phrase": "report a violation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

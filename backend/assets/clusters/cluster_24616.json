@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is that mr monday",
+            "count": 1
+        }
     },
     "clusterList": [
         {

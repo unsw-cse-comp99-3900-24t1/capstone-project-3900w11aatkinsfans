@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "dad"
+        "label": {
+            "phrase": "dad come sit in the red chair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

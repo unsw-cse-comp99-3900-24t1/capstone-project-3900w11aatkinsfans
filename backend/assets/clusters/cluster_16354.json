@@ -6,7 +6,10 @@
         "xLabels": [
             "00:47"
         ],
-        "label": "earl"
+        "label": {
+            "phrase": "earl had to die",
+            "count": 1
+        }
     },
     "clusterList": [
         {

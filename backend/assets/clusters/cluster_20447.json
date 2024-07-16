@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the proposed sale of the kosher gym has spawned rumors misinformation and allegations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "rate"
+        "label": {
+            "phrase": "rate subject to change",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:54"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't think tony george has ever been to our event",
+            "count": 1
+        }
     },
     "clusterList": [
         {

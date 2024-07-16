@@ -22,7 +22,10 @@
             "04:54",
             "05:05"
         ],
-        "label": "person"
+        "label": {
+            "phrase": "person of interest",
+            "count": 4
+        }
     },
     "clusterList": [
         {

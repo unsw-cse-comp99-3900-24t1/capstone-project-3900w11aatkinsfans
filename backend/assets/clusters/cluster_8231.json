@@ -8,7 +8,10 @@
             "00:12",
             "01:38"
         ],
-        "label": "embedded"
+        "label": {
+            "phrase": "embedded disabled by request",
+            "count": 1
+        }
     },
     "clusterList": [
         {

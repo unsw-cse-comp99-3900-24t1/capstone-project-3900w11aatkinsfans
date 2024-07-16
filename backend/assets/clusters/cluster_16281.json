@@ -6,7 +6,10 @@
         "xLabels": [
             "00:46"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he plays basketball and doesn't wind surf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

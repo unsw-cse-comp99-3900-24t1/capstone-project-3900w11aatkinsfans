@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "stepping"
+        "label": {
+            "phrase": "stepping out on my men",
+            "count": 1
+        }
     },
     "clusterList": [
         {

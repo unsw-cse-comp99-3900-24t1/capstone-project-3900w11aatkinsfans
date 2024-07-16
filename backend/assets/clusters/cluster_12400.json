@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think we'll be doing some more outreach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

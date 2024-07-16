@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to the intelligent ones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

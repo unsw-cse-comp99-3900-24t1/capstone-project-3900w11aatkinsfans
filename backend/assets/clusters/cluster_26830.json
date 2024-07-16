@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "hello"
+        "label": {
+            "phrase": "hello cant work today still queer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "rep"
+        "label": {
+            "phrase": "rep rter record",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "stay"
+        "label": {
+            "phrase": "stay here you'll get 15 lashes tomorrow with a knotted rope",
+            "count": 1
+        }
     },
     "clusterList": [
         {

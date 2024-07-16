@@ -12,7 +12,10 @@
             "01:00",
             "02:01"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's better to burn out than fade away",
+            "count": 1
+        }
     },
     "clusterList": [
         {

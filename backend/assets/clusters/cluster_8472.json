@@ -8,7 +8,10 @@
             "00:20",
             "04:05"
         ],
-        "label": "air"
+        "label": {
+            "phrase": "air safety network",
+            "count": 1
+        }
     },
     "clusterList": [
         {

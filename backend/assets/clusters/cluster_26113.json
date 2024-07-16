@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this argument doesn't apply to me i reject its main premise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

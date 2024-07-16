@@ -6,7 +6,10 @@
         "xLabels": [
             "00:41"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most obvious genius award in the history of the genius awards",
+            "count": 1
+        }
     },
     "clusterList": [
         {

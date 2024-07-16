@@ -6,7 +6,10 @@
         "xLabels": [
             "00:05"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you're the gold i'm the never-ending greed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

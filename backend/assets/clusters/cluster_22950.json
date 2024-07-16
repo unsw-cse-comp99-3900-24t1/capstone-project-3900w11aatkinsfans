@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we may be drunk but we're not stupid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

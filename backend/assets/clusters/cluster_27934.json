@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you seen the sober buddy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

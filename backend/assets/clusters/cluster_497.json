@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a life in the death of joe meek",
+            "count": 24
+        }
     },
     "clusterList": [
         {

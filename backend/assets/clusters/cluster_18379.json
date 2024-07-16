@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i was interviewed by a very bright and engaging fellow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

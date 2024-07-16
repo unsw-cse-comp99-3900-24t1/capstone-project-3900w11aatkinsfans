@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the vast majority of residents mail in their bills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

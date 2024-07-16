@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we invite oregonians to come out and join the festivities by participating volunteering and watching",
+            "count": 1
+        }
     },
     "clusterList": [
         {

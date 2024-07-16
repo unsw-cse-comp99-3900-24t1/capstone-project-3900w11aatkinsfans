@@ -10,7 +10,10 @@
             "02:14",
             "03:34"
         ],
-        "label": "headlines"
+        "label": {
+            "phrase": "headlines for 2009",
+            "count": 5
+        }
     },
     "clusterList": [
         {

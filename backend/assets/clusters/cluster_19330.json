@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we noticed the small unit moving to you earlier that's the reason we shot three shots over your bow again did you not see them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

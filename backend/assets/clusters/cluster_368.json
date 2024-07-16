@@ -48,7 +48,10 @@
             "04:27",
             "04:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the kennedys of massachusetts",
+            "count": 19
+        }
     },
     "clusterList": [
         {

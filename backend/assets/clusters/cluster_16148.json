@@ -6,7 +6,10 @@
         "xLabels": [
             "02:17"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hardest button to button",
+            "count": 1
+        }
     },
     "clusterList": [
         {

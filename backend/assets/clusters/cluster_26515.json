@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is a product that essentially has no margin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

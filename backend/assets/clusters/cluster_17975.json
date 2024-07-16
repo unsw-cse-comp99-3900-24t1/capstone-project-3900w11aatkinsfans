@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "freaking"
+        "label": {
+            "phrase": "freaking chipper jones i hate freaking chipper jones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

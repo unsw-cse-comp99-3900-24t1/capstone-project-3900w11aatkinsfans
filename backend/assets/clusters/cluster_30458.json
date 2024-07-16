@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's really taking out all the slick marketing hype",
+            "count": 1
+        }
     },
     "clusterList": [
         {

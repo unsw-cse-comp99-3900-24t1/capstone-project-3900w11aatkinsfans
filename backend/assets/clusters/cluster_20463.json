@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "tragedy"
+        "label": {
+            "phrase": "tragedy of the commons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

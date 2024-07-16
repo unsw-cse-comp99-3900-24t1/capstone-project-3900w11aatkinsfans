@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "pop"
+        "label": {
+            "phrase": "pop pooted on me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

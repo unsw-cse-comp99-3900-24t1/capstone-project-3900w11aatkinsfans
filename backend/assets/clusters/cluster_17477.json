@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a shame that japanese can't see the true beauty in their buddhist heritage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

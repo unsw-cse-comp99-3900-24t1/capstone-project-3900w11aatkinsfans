@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "shoot"
+        "label": {
+            "phrase": "shoot me or get out of my office",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "ruling"
+        "label": {
+            "phrase": "ruling in aipac case interprets espionage act narrowly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

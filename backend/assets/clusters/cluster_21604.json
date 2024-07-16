@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "pugs"
+        "label": {
+            "phrase": "pugs source tree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

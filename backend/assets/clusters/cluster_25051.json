@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "stand"
+        "label": {
+            "phrase": "stand up my raven i will show you how to use this blade",
+            "count": 1
+        }
     },
     "clusterList": [
         {

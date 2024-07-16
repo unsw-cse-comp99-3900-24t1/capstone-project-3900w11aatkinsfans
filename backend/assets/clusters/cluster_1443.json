@@ -24,7 +24,10 @@
             "02:55",
             "04:06"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's a hero to us",
+            "count": 6
+        }
     },
     "clusterList": [
         {

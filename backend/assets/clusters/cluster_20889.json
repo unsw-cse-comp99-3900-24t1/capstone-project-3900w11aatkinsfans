@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "back"
+        "label": {
+            "phrase": "back to my mac",
+            "count": 1
+        }
     },
     "clusterList": [
         {

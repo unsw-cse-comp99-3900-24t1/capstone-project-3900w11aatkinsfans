@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "often"
+        "label": {
+            "phrase": "often some of the web applications come from components that shouldn't be trusted whose origins can't be tracked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

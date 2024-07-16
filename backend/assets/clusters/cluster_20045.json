@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i understand they have a job to do but it didn't have to go like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

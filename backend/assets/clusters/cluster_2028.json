@@ -22,7 +22,10 @@
             "03:50",
             "05:00"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "this fella scares me",
+            "count": 3
+        }
     },
     "clusterList": [
         {

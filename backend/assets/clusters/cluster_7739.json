@@ -10,7 +10,10 @@
             "03:09",
             "04:55"
         ],
-        "label": "unhealthy"
+        "label": {
+            "phrase": "unhealthy greasy bar food",
+            "count": 1
+        }
     },
     "clusterList": [
         {

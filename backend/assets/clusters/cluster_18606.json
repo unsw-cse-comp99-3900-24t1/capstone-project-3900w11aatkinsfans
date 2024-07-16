@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this not only messed up his life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "disgruntled"
+        "label": {
+            "phrase": "disgruntled office seeker",
+            "count": 1
+        }
     },
     "clusterList": [
         {

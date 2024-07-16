@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "discovered"
+        "label": {
+            "phrase": "discovered the new thing that it pays to have an idea not rely on land or investing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

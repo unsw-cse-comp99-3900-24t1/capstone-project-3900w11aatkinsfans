@@ -8,7 +8,10 @@
             "00:05",
             "04:36"
         ],
-        "label": "pennies"
+        "label": {
+            "phrase": "pennies from heaven",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the russian consumer from the gdo to the high kitchen from moscow to vladivostok",
+            "count": 1
+        }
     },
     "clusterList": [
         {

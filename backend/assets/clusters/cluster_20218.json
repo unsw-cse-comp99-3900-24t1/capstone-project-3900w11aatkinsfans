@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "python"
+        "label": {
+            "phrase": "python success stories",
+            "count": 1
+        }
     },
     "clusterList": [
         {

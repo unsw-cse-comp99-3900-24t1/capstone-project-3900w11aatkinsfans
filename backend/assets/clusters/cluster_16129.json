@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a horrible little character called cyberfrog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

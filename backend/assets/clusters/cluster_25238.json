@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "krusha"
+        "label": {
+            "phrase": "krusha would never know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

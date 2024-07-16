@@ -46,7 +46,10 @@
             "04:42",
             "04:56"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "she wasn't the kind that played with dolls",
+            "count": 7
+        }
     },
     "clusterList": [
         {

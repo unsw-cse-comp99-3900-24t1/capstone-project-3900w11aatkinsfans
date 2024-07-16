@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one county ought to have one aviation board",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "fi"
+        "label": {
+            "phrase": "fi wi tings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

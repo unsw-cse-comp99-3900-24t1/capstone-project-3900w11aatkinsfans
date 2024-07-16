@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "mate"
+        "label": {
+            "phrase": "mate we are always giving it to birdy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

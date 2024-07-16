@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "anti-glare"
+        "label": {
+            "phrase": "anti-glare widescreen 17",
+            "count": 1
+        }
     },
     "clusterList": [
         {

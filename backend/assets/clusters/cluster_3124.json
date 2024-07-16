@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "stirred"
+        "label": {
+            "phrase": "stirred in a half-carafe",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:06",
             "01:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the jobs are gone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

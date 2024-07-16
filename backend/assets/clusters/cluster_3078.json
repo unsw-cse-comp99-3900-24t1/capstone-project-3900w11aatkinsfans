@@ -16,7 +16,10 @@
             "04:31",
             "04:36"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "everybody should like ice cream",
+            "count": 2
+        }
     },
     "clusterList": [
         {

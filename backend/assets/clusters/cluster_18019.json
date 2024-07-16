@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're confident that the controller understands the seriousness of a looming cash crisis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

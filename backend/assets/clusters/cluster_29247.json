@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "shaquille"
+        "label": {
+            "phrase": "shaquille o'neal helped load an item into the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

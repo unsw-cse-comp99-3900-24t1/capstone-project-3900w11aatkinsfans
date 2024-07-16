@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's like a town out of norman rockwell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

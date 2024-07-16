@@ -22,7 +22,10 @@
             "04:07",
             "05:00"
         ],
-        "label": "sand"
+        "label": {
+            "phrase": "hands in the air",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "compare"
+        "label": {
+            "phrase": "compare current file with previous file",
+            "count": 1
+        }
     },
     "clusterList": [
         {

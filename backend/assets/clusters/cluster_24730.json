@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "old"
+        "label": {
+            "phrase": "old school mule",
+            "count": 1
+        }
     },
     "clusterList": [
         {

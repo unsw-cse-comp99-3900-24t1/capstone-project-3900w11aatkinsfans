@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an electrical short of some type sparked and ignited the gas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:23",
             "04:46"
         ],
-        "label": "improper"
+        "label": {
+            "phrase": "improper jumps in reasoning",
+            "count": 3
+        }
     },
     "clusterList": [
         {

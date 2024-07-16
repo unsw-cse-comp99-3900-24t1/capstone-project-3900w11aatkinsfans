@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "cocktails"
+        "label": {
+            "phrase": "cocktails at the scratching post rolling on the river",
+            "count": 1
+        }
     },
     "clusterList": [
         {

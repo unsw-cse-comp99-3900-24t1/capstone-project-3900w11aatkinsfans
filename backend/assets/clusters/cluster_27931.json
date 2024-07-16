@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with all due respect",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "without"
+        "label": {
+            "phrase": "without you my world is just an empty place",
+            "count": 3
+        }
     },
     "clusterList": [
         {

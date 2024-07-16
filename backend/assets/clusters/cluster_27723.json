@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am going to bitch about a silly internet phrase",
+            "count": 1
+        }
     },
     "clusterList": [
         {

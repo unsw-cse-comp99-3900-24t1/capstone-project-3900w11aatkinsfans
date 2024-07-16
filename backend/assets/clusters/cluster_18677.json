@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how did we come in behind nine other places",
+            "count": 1
+        }
     },
     "clusterList": [
         {

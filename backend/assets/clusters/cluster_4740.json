@@ -12,7 +12,10 @@
             "03:18",
             "03:59"
         ],
-        "label": "faints"
+        "label": {
+            "phrase": "faints into darkness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it gets that reminder going that this was a two-person thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

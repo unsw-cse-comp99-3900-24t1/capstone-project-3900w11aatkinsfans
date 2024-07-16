@@ -8,7 +8,10 @@
             "00:19",
             "03:46"
         ],
-        "label": "nobody"
+        "label": {
+            "phrase": "nobody likes a one punch chump",
+            "count": 2
+        }
     },
     "clusterList": [
         {

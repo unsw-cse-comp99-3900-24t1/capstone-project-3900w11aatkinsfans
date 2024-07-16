@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "acknowledge"
+        "label": {
+            "phrase": "acknowledge that this lunatic was nourished on their homegrown culture of hate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

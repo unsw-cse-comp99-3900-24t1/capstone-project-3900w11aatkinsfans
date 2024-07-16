@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as part of this process the phagosome becomes acidic which is thought to contribute to its ability to break down and destroy the pathogen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

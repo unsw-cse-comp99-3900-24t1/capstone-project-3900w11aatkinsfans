@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "hold"
+        "label": {
+            "phrase": "hold tight to your dreams",
+            "count": 1
+        }
     },
     "clusterList": [
         {

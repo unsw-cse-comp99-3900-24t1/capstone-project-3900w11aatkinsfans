@@ -6,7 +6,10 @@
         "xLabels": [
             "01:48"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a bit isolated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

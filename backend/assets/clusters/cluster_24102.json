@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "amount"
+        "label": {
+            "phrase": "amount sent to cars",
+            "count": 1
+        }
     },
     "clusterList": [
         {

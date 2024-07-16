@@ -10,7 +10,10 @@
             "02:36",
             "03:15"
         ],
-        "label": "venus"
+        "label": {
+            "phrase": "venus on earth",
+            "count": 5
+        }
     },
     "clusterList": [
         {

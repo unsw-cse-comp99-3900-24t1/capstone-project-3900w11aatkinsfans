@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those short notes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

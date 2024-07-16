@@ -8,7 +8,10 @@
             "01:01",
             "04:19"
         ],
-        "label": "tips"
+        "label": {
+            "phrase": "tips of the day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

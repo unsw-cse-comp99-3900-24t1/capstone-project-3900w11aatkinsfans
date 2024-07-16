@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's well-to-do but it's friendly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

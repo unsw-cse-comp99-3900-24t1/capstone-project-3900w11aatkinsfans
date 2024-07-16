@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're all confused by this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

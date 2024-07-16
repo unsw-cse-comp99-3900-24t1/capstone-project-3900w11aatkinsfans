@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because your name has shit in it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

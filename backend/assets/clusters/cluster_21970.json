@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this document is always the least truthful one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

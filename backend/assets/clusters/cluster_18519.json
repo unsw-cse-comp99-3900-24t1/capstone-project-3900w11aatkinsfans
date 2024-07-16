@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the single most important thing you can do in businesses is be yourself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

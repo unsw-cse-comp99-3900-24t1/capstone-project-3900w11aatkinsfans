@@ -8,7 +8,10 @@
             "00:06",
             "04:15"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we want to have our cake and eat it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

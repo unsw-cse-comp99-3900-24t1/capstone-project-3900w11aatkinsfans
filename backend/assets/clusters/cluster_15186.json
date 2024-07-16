@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i'm using rss ajax and various other scripts to add more dynamic content",
+            "count": 1
+        }
     },
     "clusterList": [
         {

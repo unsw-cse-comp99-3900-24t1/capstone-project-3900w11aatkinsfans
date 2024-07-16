@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for whom the bell tolls",
+            "count": 1
+        }
     },
     "clusterList": [
         {

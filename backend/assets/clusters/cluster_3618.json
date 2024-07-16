@@ -14,7 +14,10 @@
             "02:28",
             "04:07"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why remix it at all",
+            "count": 3
+        }
     },
     "clusterList": [
         {

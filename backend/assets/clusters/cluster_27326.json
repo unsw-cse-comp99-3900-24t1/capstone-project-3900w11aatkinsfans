@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "hoes"
+        "label": {
+            "phrase": "hoes in different area codes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

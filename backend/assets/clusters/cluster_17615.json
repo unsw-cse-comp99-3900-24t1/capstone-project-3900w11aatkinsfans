@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "biggest"
+        "label": {
+            "phrase": "biggest difference players faith in giants coaching staff",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:44"
         ],
-        "label": "finishing"
+        "label": {
+            "phrase": "finishing what i started",
+            "count": 1
+        }
     },
     "clusterList": [
         {

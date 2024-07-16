@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to increase cancer survival rates to the average of the eu15 by 2015",
+            "count": 1
+        }
     },
     "clusterList": [
         {

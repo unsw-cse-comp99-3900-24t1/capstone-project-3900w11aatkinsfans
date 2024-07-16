@@ -6,7 +6,10 @@
         "xLabels": [
             "02:49"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the geese are here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

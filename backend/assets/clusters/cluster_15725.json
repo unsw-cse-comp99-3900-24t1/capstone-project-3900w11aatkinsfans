@@ -6,7 +6,10 @@
         "xLabels": [
             "00:34"
         ],
-        "label": "see"
+        "label": {
+            "phrase": "see that ma'am very important building",
+            "count": 1
+        }
     },
     "clusterList": [
         {

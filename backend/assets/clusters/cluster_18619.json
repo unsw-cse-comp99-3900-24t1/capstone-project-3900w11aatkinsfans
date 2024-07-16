@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to the constitutive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the cupcake it's small it's portable it's sweet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

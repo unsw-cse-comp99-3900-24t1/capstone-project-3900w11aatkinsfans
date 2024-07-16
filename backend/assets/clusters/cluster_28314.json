@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look mr frodo an oliphaunt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

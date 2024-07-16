@@ -24,7 +24,10 @@
             "04:08",
             "04:28"
         ],
-        "label": "teach"
+        "label": {
+            "phrase": "teach whatever you like",
+            "count": 1
+        }
     },
     "clusterList": [
         {

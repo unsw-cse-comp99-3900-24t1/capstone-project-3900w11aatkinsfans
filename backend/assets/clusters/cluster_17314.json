@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's give the rings out to everybody and just have big fights because that's what i want to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

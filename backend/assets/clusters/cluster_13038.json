@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know the bus is always quiet in the morning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

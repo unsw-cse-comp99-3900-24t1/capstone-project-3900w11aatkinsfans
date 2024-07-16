@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "maybe"
+        "label": {
+            "phrase": "maybe here's how the dogon did it back then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

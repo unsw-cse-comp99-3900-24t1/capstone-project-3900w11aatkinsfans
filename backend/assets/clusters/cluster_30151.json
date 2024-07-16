@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "been"
+        "label": {
+            "phrase": "been to that disaster",
+            "count": 1
+        }
     },
     "clusterList": [
         {

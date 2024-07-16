@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the gruesome spectre of another hitchens looms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

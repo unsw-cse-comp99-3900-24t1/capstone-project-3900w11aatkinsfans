@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's nothing quite like half-digested food",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "plywood"
+        "label": {
+            "phrase": "plywood is really an over-mature product",
+            "count": 1
+        }
     },
     "clusterList": [
         {

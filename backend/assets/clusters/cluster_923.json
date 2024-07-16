@@ -30,7 +30,10 @@
             "04:32",
             "04:52"
         ],
-        "label": "nothing"
+        "label": {
+            "phrase": "not very much",
+            "count": 4
+        }
     },
     "clusterList": [
         {

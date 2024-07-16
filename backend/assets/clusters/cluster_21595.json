@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "dbs"
+        "label": {
+            "phrase": "dbs suck software sucks these people rock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

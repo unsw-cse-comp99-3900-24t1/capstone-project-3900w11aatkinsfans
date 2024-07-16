@@ -6,7 +6,10 @@
         "xLabels": [
             "04:12"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's no excuse for any number of heat stroke deaths",
+            "count": 1
+        }
     },
     "clusterList": [
         {

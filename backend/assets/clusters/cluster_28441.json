@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my joshua made such a cheeky pass",
+            "count": 1
+        }
     },
     "clusterList": [
         {

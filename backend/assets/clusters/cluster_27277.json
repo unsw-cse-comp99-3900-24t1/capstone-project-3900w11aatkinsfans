@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the new beginnings of august the light has returned",
+            "count": 1
+        }
     },
     "clusterList": [
         {

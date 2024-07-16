@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's go see what everyone has to offer day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

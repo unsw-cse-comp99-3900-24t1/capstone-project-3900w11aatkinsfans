@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it meant a great deal to me that you were here today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

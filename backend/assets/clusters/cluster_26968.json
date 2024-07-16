@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "broadcast"
+        "label": {
+            "phrase": "broadcast yourself not our stuff",
+            "count": 1
+        }
     },
     "clusterList": [
         {

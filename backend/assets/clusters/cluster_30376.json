@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you burn a match on both ends you'll get burnt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:49"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you have a green party i want to join",
+            "count": 1
+        }
     },
     "clusterList": [
         {

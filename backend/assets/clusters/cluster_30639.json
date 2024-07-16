@@ -6,7 +6,10 @@
         "xLabels": [
             "04:54"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is there cows in hawaii",
+            "count": 1
+        }
     },
     "clusterList": [
         {

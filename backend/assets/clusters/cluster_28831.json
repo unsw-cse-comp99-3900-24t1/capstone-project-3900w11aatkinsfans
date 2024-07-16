@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "curtis"
+        "label": {
+            "phrase": "curtis was the first person to call me in the hospital",
+            "count": 1
+        }
     },
     "clusterList": [
         {

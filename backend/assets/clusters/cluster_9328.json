@@ -8,7 +8,10 @@
             "01:01",
             "03:37"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with one person",
+            "count": 1
+        }
     },
     "clusterList": [
         {

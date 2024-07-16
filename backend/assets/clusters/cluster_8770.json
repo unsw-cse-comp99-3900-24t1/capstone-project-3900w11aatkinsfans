@@ -8,7 +8,10 @@
             "00:32",
             "03:28"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i set the alarm can you wake me when it goes off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

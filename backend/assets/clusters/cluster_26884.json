@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i would play a guitar in my living room",
+            "count": 1
+        }
     },
     "clusterList": [
         {

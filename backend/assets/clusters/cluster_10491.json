@@ -8,7 +8,10 @@
             "02:09",
             "03:00"
         ],
-        "label": "non-dairy"
+        "label": {
+            "phrase": "non-dairy creamer contains milk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

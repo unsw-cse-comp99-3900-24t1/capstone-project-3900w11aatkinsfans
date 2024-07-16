@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "lol"
+        "label": {
+            "phrase": "lol its my room my rules okay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are so many divisions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

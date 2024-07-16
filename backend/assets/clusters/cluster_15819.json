@@ -6,7 +6,10 @@
         "xLabels": [
             "00:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the point-and-shoot phenomenon has been driving the growth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

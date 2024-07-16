@@ -6,7 +6,10 @@
         "xLabels": [
             "03:35"
         ],
-        "label": "magical"
+        "label": {
+            "phrase": "magical third year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

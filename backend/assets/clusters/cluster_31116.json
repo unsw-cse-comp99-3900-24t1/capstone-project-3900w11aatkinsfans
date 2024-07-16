@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hostal independencia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

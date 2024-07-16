@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "cheaper"
+        "label": {
+            "phrase": "cheaper by the dozen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

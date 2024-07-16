@@ -10,7 +10,10 @@
             "04:08",
             "04:23"
         ],
-        "label": "12-month"
+        "label": {
+            "phrase": "12-month moving average",
+            "count": 1
+        }
     },
     "clusterList": [
         {

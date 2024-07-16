@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it takes the same amount of fabric to produce one jumbo buddy as it does to make 25 regular buddies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "toughness"
+        "label": {
+            "phrase": "toughness and tenacity are talents",
+            "count": 1
+        }
     },
     "clusterList": [
         {

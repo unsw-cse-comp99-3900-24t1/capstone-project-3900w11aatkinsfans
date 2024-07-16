@@ -6,7 +6,10 @@
         "xLabels": [
             "00:29"
         ],
-        "label": "put"
+        "label": {
+            "phrase": "put that duff energy drink back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

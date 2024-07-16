@@ -10,7 +10,10 @@
             "03:42",
             "03:55"
         ],
-        "label": "round"
+        "label": {
+            "phrase": "round amp round",
+            "count": 3
+        }
     },
     "clusterList": [
         {

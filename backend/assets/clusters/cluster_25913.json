@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "customers"
+        "label": {
+            "phrase": "customers are asking questions about environmental performance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

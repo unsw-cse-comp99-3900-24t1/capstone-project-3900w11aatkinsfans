@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "final"
+        "label": {
+            "phrase": "final payment shall not become due unless and until the following conditions precedent to final payment have been satisfied c receipt of final payment for subcontractor's work by contractor from owner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

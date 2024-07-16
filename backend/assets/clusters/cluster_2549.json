@@ -16,7 +16,10 @@
             "03:10",
             "03:51"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "the debate is over",
+            "count": 3
+        }
     },
     "clusterList": [
         {

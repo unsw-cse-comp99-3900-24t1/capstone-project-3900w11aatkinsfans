@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't take your love to town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

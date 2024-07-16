@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "retail"
+        "label": {
+            "phrase": "retail and industrial",
+            "count": 1
+        }
     },
     "clusterList": [
         {

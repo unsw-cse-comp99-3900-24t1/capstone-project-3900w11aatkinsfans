@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "wellbeing"
+        "label": {
+            "phrase": "wellbeing in the mountain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the phrase sudden and accidental has no temporal component",
+            "count": 1
+        }
     },
     "clusterList": [
         {

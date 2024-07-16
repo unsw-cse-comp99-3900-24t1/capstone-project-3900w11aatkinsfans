@@ -14,7 +14,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the old ways",
+            "count": 5
+        }
     },
     "clusterList": [
         {

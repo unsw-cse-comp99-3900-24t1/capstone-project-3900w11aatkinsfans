@@ -10,7 +10,10 @@
             "03:14",
             "03:36"
         ],
-        "label": "place"
+        "label": {
+            "phrase": "place presents here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

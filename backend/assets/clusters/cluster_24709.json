@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "ask"
+        "label": {
+            "phrase": "ask me about my wawa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

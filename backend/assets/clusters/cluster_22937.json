@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "waiting"
+        "label": {
+            "phrase": "waiting on permission from greece",
+            "count": 1
+        }
     },
     "clusterList": [
         {

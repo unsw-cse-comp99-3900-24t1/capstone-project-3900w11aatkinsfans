@@ -10,7 +10,10 @@
             "03:06",
             "04:13"
         ],
-        "label": "first"
+        "label": {
+            "phrase": "first come first served",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "friends"
+        "label": {
+            "phrase": "friends are quiet angels who lift us to our feet when our wings have trouble remembering how to fly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

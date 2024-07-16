@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "outstanding"
+        "label": {
+            "phrase": "outstanding service and unfailing common sense",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lot of people have never been here before and aren't sure if we have a hostess or waiters the other half have been coming here for years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "has"
+        "label": {
+            "phrase": "has not yet been mentioned in the papers i don't think it qualifies yet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no this is officer johnson are you a friend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

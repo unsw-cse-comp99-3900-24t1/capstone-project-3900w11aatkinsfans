@@ -8,7 +8,10 @@
             "00:13",
             "01:25"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no i don't want to lower prices",
+            "count": 1
+        }
     },
     "clusterList": [
         {

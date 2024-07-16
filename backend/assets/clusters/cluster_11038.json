@@ -8,7 +8,10 @@
             "02:57",
             "03:06"
         ],
-        "label": "pc"
+        "label": {
+            "phrase": "pc registry fix",
+            "count": 2
+        }
     },
     "clusterList": [
         {

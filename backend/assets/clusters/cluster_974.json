@@ -32,7 +32,10 @@
             "04:28",
             "04:51"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm going to disney world",
+            "count": 8
+        }
     },
     "clusterList": [
         {

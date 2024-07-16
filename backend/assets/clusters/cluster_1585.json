@@ -22,7 +22,10 @@
             "03:54",
             "04:28"
         ],
-        "label": "fda's"
+        "label": {
+            "phrase": "fda's analytical methods are publicly available",
+            "count": 2
+        }
     },
     "clusterList": [
         {

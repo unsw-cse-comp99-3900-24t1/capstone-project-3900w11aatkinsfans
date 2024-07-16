@@ -8,7 +8,10 @@
             "01:42",
             "04:21"
         ],
-        "label": "denied"
+        "label": {
+            "phrase": "denied access to expensive treatments such as dialysis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

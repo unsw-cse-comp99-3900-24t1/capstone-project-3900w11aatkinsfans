@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the colour out of space",
+            "count": 1
+        }
     },
     "clusterList": [
         {

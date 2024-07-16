@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you changed their reason for existence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

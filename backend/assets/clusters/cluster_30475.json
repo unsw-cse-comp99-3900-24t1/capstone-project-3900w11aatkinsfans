@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do not fear mistakes there are none",
+            "count": 1
+        }
     },
     "clusterList": [
         {

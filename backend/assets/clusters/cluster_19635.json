@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "i'll"
+        "label": {
+            "phrase": "i'll teach you now let's ask the captain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

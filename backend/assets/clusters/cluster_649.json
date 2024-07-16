@@ -38,7 +38,10 @@
             "03:51",
             "04:06"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is finished",
+            "count": 20
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where 3d would occur",
+            "count": 2
+        }
     },
     "clusterList": [
         {

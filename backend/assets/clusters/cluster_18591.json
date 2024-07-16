@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not a performance food",
+            "count": 1
+        }
     },
     "clusterList": [
         {

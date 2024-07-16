@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was a f king bloodbath",
+            "count": 1
+        }
     },
     "clusterList": [
         {

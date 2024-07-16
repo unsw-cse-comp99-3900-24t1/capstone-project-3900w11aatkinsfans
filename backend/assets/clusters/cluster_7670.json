@@ -10,7 +10,10 @@
             "02:33",
             "04:33"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's just something that needed to be done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's only a model",
+            "count": 1
+        }
     },
     "clusterList": [
         {

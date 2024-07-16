@@ -36,7 +36,10 @@
             "04:29",
             "05:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the last five years",
+            "count": 4
+        }
     },
     "clusterList": [
         {

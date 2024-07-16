@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i offer them the opportunity to make an investment in something fabulous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

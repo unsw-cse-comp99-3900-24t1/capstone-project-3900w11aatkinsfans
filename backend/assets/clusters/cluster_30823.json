@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i know i know i should separate them out into dental eye etc",
+            "count": 1
+        }
     },
     "clusterList": [
         {

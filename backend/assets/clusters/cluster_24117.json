@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm out here and that's the only thing that matters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have taken their toll",
+            "count": 1
+        }
     },
     "clusterList": [
         {

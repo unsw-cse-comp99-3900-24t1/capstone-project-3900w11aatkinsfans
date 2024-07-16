@@ -14,7 +14,10 @@
             "04:03",
             "04:22"
         ],
-        "label": "scotland"
+        "label": {
+            "phrase": "scotland here we come",
+            "count": 3
+        }
     },
     "clusterList": [
         {

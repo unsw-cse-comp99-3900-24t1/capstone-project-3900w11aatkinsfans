@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "china's"
+        "label": {
+            "phrase": "china's all-seeing eye",
+            "count": 1
+        }
     },
     "clusterList": [
         {

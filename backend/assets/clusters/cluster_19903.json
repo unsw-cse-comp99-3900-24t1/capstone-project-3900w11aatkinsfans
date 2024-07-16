@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the brain gets input from many areas sight listening touch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

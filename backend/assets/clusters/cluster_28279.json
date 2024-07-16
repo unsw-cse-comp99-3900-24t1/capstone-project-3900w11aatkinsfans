@@ -6,7 +6,10 @@
         "xLabels": [
             "04:16"
         ],
-        "label": "swing"
+        "label": {
+            "phrase": "swing low sweet chariot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

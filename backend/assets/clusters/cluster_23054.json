@@ -6,7 +6,10 @@
         "xLabels": [
             "02:35"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't think it should be loaded up like a christmas tree with a bunch of other topics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

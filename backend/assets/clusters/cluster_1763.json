@@ -20,7 +20,10 @@
             "04:13",
             "04:45"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "another way to die",
+            "count": 3
+        }
     },
     "clusterList": [
         {

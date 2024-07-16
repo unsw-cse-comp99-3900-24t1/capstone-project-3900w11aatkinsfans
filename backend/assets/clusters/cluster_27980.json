@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every time i stop and then go it's just wasting more and more gas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

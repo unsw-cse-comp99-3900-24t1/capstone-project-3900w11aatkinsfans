@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as a hart panteth after the water brooks so panteth my soul after thee",
+            "count": 1
+        }
     },
     "clusterList": [
         {

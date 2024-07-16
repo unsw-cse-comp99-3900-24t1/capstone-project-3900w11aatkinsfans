@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on the fence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

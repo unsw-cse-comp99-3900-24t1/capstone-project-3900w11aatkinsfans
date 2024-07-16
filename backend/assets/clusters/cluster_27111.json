@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i want to talk about important questions tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

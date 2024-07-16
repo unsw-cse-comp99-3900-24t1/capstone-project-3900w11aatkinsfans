@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "live"
+        "label": {
+            "phrase": "live in a",
+            "count": 1
+        }
     },
     "clusterList": [
         {

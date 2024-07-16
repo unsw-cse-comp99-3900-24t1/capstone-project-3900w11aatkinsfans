@@ -6,7 +6,10 @@
         "xLabels": [
             "03:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the importance of being earnest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

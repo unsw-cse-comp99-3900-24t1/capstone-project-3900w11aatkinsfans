@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so what you are telling me is that since you do not have the time to properly tune and configure your existing detection technology you think that the smart move is to put in another layer of nearly identical technology that actually blocks traffic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:03",
             "01:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i should have realized something was wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

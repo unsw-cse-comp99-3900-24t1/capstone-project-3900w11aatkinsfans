@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "hint"
+        "label": {
+            "phrase": "hint when the numbers being given out do not match it's a hype action",
+            "count": 1
+        }
     },
     "clusterList": [
         {

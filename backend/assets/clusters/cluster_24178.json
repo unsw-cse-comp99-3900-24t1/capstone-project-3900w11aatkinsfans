@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hawks think so much of stan and so do i",
+            "count": 1
+        }
     },
     "clusterList": [
         {

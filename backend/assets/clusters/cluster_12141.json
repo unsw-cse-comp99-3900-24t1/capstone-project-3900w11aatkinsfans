@@ -8,7 +8,10 @@
             "02:22",
             "03:55"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the passing game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:57",
             "03:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the starfish and the spider",
+            "count": 1
+        }
     },
     "clusterList": [
         {

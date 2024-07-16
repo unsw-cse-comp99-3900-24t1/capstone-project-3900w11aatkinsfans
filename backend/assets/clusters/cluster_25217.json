@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "c'mon"
+        "label": {
+            "phrase": "c'mon then we'd better be getting back to the factory",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that bone marrow was so cheekily prepared",
+            "count": 1
+        }
     },
     "clusterList": [
         {

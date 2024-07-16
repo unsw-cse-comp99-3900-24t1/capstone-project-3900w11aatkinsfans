@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get the lead out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

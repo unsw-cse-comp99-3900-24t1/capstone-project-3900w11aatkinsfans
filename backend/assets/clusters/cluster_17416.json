@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "im"
+        "label": {
+            "phrase": "im so happy cuz i just found the last root beer at the back of my fridge",
+            "count": 1
+        }
     },
     "clusterList": [
         {

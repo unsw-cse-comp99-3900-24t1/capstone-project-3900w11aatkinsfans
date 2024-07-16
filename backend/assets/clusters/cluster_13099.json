@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "would"
+        "label": {
+            "phrase": "would isaac newton ever have described gravity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

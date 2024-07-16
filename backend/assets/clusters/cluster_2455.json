@@ -18,7 +18,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the example most often used by several of my colleagues is the trading of the west texas intermediate crude contract on the london-based exchange ice futures europe",
+            "count": 7
+        }
     },
     "clusterList": [
         {

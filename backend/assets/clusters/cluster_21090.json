@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the dutch courage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

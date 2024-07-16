@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there wasn't enough room in there you could never get a machine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

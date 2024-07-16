@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if the detainee dies you're doing it wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

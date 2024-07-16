@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "ran"
+        "label": {
+            "phrase": "ran with the ones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

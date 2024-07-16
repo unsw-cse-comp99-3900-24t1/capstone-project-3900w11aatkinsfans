@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my special plugin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

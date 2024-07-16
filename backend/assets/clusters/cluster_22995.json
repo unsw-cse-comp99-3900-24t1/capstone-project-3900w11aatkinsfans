@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "mars"
+        "label": {
+            "phrase": "mars a day helped you work rest and play",
+            "count": 1
+        }
     },
     "clusterList": [
         {

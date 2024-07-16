@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the united states is still a baby compared to england",
+            "count": 1
+        }
     },
     "clusterList": [
         {

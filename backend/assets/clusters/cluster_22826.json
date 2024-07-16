@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "let"
+        "label": {
+            "phrase": "let us wash away your life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

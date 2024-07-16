@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can see the embryo actually trying to get away and live",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we should expect the vp to vote with the president and that failing to do so would normally incur political costs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "bring"
+        "label": {
+            "phrase": "bring home the gold",
+            "count": 1
+        }
     },
     "clusterList": [
         {

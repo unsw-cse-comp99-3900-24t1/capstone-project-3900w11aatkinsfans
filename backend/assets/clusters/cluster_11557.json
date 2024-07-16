@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "attacks"
+        "label": {
+            "phrase": "attacks of a personal character",
+            "count": 2
+        }
     },
     "clusterList": [
         {

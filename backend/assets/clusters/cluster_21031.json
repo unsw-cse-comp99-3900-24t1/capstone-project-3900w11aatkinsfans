@@ -6,7 +6,10 @@
         "xLabels": [
             "01:57"
         ],
-        "label": "anshe"
+        "label": {
+            "phrase": "anshe at the gates",
+            "count": 1
+        }
     },
     "clusterList": [
         {

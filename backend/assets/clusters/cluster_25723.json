@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've always been a fan of heidelberg",
+            "count": 1
+        }
     },
     "clusterList": [
         {

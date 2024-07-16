@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "aaa"
+        "label": {
+            "phrase": "aaa choose topic here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

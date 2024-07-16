@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "lane"
+        "label": {
+            "phrase": "lane hudson and i met at a community forum earlier this year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

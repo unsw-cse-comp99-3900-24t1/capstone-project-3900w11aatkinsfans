@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "deeper"
+        "label": {
+            "phrase": "deeper in terms of character",
+            "count": 1
+        }
     },
     "clusterList": [
         {

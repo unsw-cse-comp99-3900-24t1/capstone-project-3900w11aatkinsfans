@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "none"
+        "label": {
+            "phrase": "none of the separations were performance-related",
+            "count": 1
+        }
     },
     "clusterList": [
         {

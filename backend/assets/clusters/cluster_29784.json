@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've been giving me an earful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "another veteran rep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

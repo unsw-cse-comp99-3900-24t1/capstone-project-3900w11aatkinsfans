@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "white"
+        "label": {
+            "phrase": "white ghettos paint a picture broken homes and broken bones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

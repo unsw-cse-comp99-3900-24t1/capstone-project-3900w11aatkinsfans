@@ -6,7 +6,10 @@
         "xLabels": [
             "00:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a good indication",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "cindy"
+        "label": {
+            "phrase": "cindy i can't hear it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

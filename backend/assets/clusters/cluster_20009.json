@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you need to come to the office though and drink some barium",
+            "count": 1
+        }
     },
     "clusterList": [
         {

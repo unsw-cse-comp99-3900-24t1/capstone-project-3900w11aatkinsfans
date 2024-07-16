@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your pokemon are fully healed we look forward to your next visit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "hepatitis"
+        "label": {
+            "phrase": "hepatitis b is not that well known in the filipino community",
+            "count": 1
+        }
     },
     "clusterList": [
         {

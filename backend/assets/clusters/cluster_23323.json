@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "given"
+        "label": {
+            "phrase": "given 8 free parameters we could fit the new york skyline",
+            "count": 1
+        }
     },
     "clusterList": [
         {

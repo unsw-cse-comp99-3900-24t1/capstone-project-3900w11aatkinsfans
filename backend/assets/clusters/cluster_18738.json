@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "don"
+        "label": {
+            "phrase": "don t believe what you read in the newspapers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

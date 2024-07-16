@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our community is not a dumping ground",
+            "count": 1
+        }
     },
     "clusterList": [
         {

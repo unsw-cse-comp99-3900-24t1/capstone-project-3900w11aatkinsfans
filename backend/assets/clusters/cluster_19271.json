@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "fact"
+        "label": {
+            "phrase": "fact finding tour",
+            "count": 1
+        }
     },
     "clusterList": [
         {

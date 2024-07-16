@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "germany"
+        "label": {
+            "phrase": "germany will push for further sanctions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

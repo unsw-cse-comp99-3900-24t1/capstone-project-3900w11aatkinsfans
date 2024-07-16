@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no we can't measure the heat content of the entire earth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fact that it melted at 0 degrees centigrade leaves very little doubt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -78,7 +78,10 @@
             "04:44",
             "05:01"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "nothing to worry about",
+            "count": 20
+        }
     },
     "clusterList": [
         {

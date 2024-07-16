@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "presumably"
+        "label": {
+            "phrase": "presumably they knew about it from reading my e-mails",
+            "count": 1
+        }
     },
     "clusterList": [
         {

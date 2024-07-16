@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm like a fountain of wit or the fertilizer of said fountain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

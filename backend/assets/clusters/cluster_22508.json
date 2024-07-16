@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i expect this to be an amazing dvd of a unique and intimate event",
+            "count": 1
+        }
     },
     "clusterList": [
         {

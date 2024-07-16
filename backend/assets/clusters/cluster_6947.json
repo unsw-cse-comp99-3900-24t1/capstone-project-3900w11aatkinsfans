@@ -10,7 +10,10 @@
             "02:42",
             "02:43"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the value of swimmability to the community",
+            "count": 3
+        }
     },
     "clusterList": [
         {

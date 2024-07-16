@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "local"
+        "label": {
+            "phrase": "local thermodynamic equilibrium",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "03:55",
             "04:28"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things are still a little bit grim at the moment",
+            "count": 9
+        }
     },
     "clusterList": [
         {

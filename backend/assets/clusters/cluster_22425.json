@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "teach"
+        "label": {
+            "phrase": "teach can you please see to it that i get on the bus today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

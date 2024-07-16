@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "laugh"
+        "label": {
+            "phrase": "laugh at ourselves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

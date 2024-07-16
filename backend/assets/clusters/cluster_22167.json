@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you picked the wrong guy to try and blackmail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

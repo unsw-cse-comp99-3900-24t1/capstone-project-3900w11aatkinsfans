@@ -36,7 +36,10 @@
             "04:59",
             "05:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "hey remember that time when",
+            "count": 3
+        }
     },
     "clusterList": [
         {

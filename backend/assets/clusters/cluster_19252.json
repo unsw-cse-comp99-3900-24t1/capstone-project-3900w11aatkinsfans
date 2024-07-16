@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in much the same way that a restaurant would serve lamb kabobs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

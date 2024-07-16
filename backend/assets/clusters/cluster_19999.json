@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "affirmations"
+        "label": {
+            "phrase": "affirmations a pathway to transformation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

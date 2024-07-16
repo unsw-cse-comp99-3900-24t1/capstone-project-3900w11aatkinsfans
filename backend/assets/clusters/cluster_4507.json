@@ -8,7 +8,10 @@
             "00:18",
             "01:52"
         ],
-        "label": "speech"
+        "label": {
+            "phrase": "speech at chicago illinois",
+            "count": 1
+        }
     },
     "clusterList": [
         {

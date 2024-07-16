@@ -22,7 +22,10 @@
             "04:45",
             "04:59"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a strong voice",
+            "count": 2
+        }
     },
     "clusterList": [
         {

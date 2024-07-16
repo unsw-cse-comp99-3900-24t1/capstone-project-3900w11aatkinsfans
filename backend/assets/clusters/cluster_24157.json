@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "shhhhh"
+        "label": {
+            "phrase": "shhhhh nick thou art supposed to be dead",
+            "count": 1
+        }
     },
     "clusterList": [
         {

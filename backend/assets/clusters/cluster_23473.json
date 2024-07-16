@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what guevara wants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

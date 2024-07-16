@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "galinho"
+        "label": {
+            "phrase": "galinho chicken little",
+            "count": 1
+        }
     },
     "clusterList": [
         {

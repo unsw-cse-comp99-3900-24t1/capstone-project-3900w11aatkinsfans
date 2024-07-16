@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "ensure"
+        "label": {
+            "phrase": "ensure an orderly handover",
+            "count": 1
+        }
     },
     "clusterList": [
         {

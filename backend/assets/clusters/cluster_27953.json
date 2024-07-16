@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "can't"
+        "label": {
+            "phrase": "can't explain gotta go",
+            "count": 1
+        }
     },
     "clusterList": [
         {

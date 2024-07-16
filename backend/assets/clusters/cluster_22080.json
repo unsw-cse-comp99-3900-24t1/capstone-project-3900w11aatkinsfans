@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your blue one's getting all worn out and i just thought",
+            "count": 1
+        }
     },
     "clusterList": [
         {

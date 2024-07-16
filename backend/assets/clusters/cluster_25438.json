@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "i'd"
+        "label": {
+            "phrase": "i'd be a happy bachelor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

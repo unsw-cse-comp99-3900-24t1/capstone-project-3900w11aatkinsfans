@@ -8,7 +8,10 @@
             "02:57",
             "03:36"
         ],
-        "label": "contacts"
+        "label": {
+            "phrase": "contacts between you and the americans",
+            "count": 2
+        }
     },
     "clusterList": [
         {

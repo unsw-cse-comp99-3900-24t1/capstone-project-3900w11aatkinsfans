@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to beat the odds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

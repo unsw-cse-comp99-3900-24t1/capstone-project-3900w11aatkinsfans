@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and what is normal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:10",
             "04:00"
         ],
-        "label": "working"
+        "label": {
+            "phrase": "working through pain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

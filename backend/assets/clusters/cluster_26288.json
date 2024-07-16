@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a brand new tuesday",
+            "count": 1
+        }
     },
     "clusterList": [
         {

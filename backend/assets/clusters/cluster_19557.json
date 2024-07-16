@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please say hello to your son jackson who lives at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

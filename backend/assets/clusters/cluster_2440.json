@@ -18,7 +18,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "sounds"
+        "label": {
+            "phrase": "sounds like the flywheel",
+            "count": 7
+        }
     },
     "clusterList": [
         {

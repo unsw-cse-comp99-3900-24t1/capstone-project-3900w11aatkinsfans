@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the amount of pellets used to fill one extra large buddy can fill 75 beanie babies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

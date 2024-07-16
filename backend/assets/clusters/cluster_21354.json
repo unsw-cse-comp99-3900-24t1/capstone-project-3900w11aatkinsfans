@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not in grapes at all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

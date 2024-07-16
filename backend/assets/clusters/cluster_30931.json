@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "random"
+        "label": {
+            "phrase": "random fun from the archive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

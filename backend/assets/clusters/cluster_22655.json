@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's the commander's call",
+            "count": 1
+        }
     },
     "clusterList": [
         {

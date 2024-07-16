@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "ken's"
+        "label": {
+            "phrase": "ken's quick to admit when he's wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

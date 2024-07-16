@@ -8,7 +8,10 @@
             "02:01",
             "02:15"
         ],
-        "label": "should"
+        "label": {
+            "phrase": "should we have fenced out developers",
+            "count": 2
+        }
     },
     "clusterList": [
         {

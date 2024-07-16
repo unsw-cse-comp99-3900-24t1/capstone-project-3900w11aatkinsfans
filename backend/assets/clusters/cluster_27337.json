@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on this sunday i didn't ask",
+            "count": 1
+        }
     },
     "clusterList": [
         {

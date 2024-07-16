@@ -10,7 +10,10 @@
             "00:48",
             "01:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the great man votes",
+            "count": 3
+        }
     },
     "clusterList": [
         {

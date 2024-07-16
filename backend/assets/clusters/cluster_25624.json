@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "isn't"
+        "label": {
+            "phrase": "isn't an american story it is an irish story",
+            "count": 1
+        }
     },
     "clusterList": [
         {

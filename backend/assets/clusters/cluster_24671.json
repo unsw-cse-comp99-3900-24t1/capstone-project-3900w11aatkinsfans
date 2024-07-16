@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're complaining why don't you run",
+            "count": 1
+        }
     },
     "clusterList": [
         {

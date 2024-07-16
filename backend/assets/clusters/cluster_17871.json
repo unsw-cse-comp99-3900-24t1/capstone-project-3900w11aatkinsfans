@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "awww"
+        "label": {
+            "phrase": "awww is the evil bunny gettin shy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

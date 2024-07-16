@@ -8,7 +8,10 @@
             "01:10",
             "01:20"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "introducing the bezier curve",
+            "count": 2
+        }
     },
     "clusterList": [
         {

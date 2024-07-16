@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the guide is the outgrowth of a series of questions that have been raised to the fda about the use of rfid technology",
+            "count": 1
+        }
     },
     "clusterList": [
         {

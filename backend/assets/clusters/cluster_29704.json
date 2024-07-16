@@ -6,7 +6,10 @@
         "xLabels": [
             "04:35"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sophisticated misfit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

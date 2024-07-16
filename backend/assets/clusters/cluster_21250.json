@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "made"
+        "label": {
+            "phrase": "made the first half all by herself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

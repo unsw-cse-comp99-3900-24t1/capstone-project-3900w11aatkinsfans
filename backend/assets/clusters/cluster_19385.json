@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "transparent"
+        "label": {
+            "phrase": "transparent screen lock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "didn't"
+        "label": {
+            "phrase": "didn't you have that before",
+            "count": 2
+        }
     },
     "clusterList": [
         {

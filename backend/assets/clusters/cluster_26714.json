@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i love my airman",
+            "count": 1
+        }
     },
     "clusterList": [
         {

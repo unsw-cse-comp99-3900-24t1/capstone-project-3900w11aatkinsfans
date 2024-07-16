@@ -8,7 +8,10 @@
             "00:12",
             "04:45"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that boiler has been there at least since the 70s",
+            "count": 1
+        }
     },
     "clusterList": [
         {

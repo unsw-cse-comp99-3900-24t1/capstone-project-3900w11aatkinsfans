@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one more rustbowl outpost that crawled out of the wrong side of the 1980s",
+            "count": 1
+        }
     },
     "clusterList": [
         {

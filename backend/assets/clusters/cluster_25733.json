@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "spare"
+        "label": {
+            "phrase": "spare parts availability has always been very good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

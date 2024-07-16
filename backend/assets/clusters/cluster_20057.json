@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "typical"
+        "label": {
+            "phrase": "typical trentino family of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all gaming establishments",
+            "count": 1
+        }
     },
     "clusterList": [
         {

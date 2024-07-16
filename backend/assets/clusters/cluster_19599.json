@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the joy luck club",
+            "count": 1
+        }
     },
     "clusterList": [
         {

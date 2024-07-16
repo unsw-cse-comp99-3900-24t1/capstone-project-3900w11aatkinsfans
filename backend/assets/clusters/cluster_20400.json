@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once upon a time there was a little prince named bambi",
+            "count": 1
+        }
     },
     "clusterList": [
         {

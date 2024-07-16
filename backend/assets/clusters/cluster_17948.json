@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "http"
+        "label": {
+            "phrase": "http en wikipedia org wiki cool biz campa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

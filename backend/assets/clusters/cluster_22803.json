@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "creep"
+        "label": {
+            "phrase": "creep of the week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

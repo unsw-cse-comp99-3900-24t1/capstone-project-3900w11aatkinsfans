@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't expect more information until we get way down the line",
+            "count": 1
+        }
     },
     "clusterList": [
         {

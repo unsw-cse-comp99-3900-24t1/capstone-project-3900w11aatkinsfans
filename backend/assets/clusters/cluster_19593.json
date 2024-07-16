@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "trim"
+        "label": {
+            "phrase": "trim it to remove some of the color on the bottom but leave enough so i can pull it up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

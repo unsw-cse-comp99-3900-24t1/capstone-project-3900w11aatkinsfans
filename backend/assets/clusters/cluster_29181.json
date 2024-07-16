@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "troubled"
+        "label": {
+            "phrase": "troubled and confusing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's basically the same message but with more smiles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

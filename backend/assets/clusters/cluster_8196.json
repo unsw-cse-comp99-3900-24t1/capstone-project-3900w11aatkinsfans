@@ -8,7 +8,10 @@
             "00:11",
             "02:52"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a penguin race going on you want in",
+            "count": 2
+        }
     },
     "clusterList": [
         {

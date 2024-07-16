@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "narcan"
+        "label": {
+            "phrase": "narcan is a very safe nontoxic drug that is not difficult to administer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

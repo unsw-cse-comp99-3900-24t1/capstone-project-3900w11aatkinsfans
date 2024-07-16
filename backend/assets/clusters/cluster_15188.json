@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "crisis"
+        "label": {
+            "phrase": "crisis of confidence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

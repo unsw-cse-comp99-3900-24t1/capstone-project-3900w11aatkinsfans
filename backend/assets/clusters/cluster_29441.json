@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the big ones are the good ones he just caught my eye",
+            "count": 1
+        }
     },
     "clusterList": [
         {

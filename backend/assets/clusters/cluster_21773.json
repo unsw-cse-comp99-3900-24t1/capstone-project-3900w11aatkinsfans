@@ -6,7 +6,10 @@
         "xLabels": [
             "02:13"
         ],
-        "label": "english"
+        "label": {
+            "phrase": "english user manual pdf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

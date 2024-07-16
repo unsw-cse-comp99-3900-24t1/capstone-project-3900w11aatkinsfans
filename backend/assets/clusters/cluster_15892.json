@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone was crying we were crying george was crying even the lion was nearly crying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

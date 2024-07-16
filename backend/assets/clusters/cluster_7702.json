@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "penny"
+        "label": {
+            "phrase": "penny doesn't seem to care",
+            "count": 1
+        }
     },
     "clusterList": [
         {

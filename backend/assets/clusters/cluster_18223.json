@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the only ones paying the price are the children",
+            "count": 1
+        }
     },
     "clusterList": [
         {

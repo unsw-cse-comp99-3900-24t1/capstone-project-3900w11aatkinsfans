@@ -8,7 +8,10 @@
             "01:18",
             "02:43"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you should probably read this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

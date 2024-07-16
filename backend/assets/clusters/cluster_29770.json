@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "broad"
+        "label": {
+            "phrase": "broad interest events are when we see spikes in traffic which is the perfect time for hackers and cybercriminals to do their bidding",
+            "count": 1
+        }
     },
     "clusterList": [
         {

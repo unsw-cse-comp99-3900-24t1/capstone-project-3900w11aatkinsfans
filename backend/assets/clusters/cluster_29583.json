@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "ready"
+        "label": {
+            "phrase": "ready your scalpels we're going after it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

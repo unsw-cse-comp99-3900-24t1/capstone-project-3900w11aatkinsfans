@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "musicians"
+        "label": {
+            "phrase": "musicians of aotearoa unite to save our nation's dolphins",
+            "count": 1
+        }
     },
     "clusterList": [
         {

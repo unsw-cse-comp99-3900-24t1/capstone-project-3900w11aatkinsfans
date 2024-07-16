@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "grand"
+        "label": {
+            "phrase": "grand jury to hear case of trolley joyride",
+            "count": 1
+        }
     },
     "clusterList": [
         {

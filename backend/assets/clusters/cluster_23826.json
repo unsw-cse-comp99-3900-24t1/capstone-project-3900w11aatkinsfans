@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "sony"
+        "label": {
+            "phrase": "sony gives spiderman's venom a chance to bite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an achievement that reflects credit on both political parties",
+            "count": 1
+        }
     },
     "clusterList": [
         {

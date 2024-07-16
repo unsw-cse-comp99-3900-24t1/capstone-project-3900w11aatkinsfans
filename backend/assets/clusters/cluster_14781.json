@@ -6,7 +6,10 @@
         "xLabels": [
             "00:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's that common bond that pushes differences away",
+            "count": 1
+        }
     },
     "clusterList": [
         {

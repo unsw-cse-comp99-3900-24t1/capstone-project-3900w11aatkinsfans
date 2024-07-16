@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "witness"
+        "label": {
+            "phrase": "witness to a century",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh that's right it's free corn dog night",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -28,7 +28,10 @@
             "04:45",
             "05:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we met at the first wizard world texas quite some time ago",
+            "count": 2
+        }
     },
     "clusterList": [
         {

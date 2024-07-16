@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "dull"
+        "label": {
+            "phrase": "dull his memory",
+            "count": 1
+        }
     },
     "clusterList": [
         {

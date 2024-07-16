@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "knowledge"
+        "label": {
+            "phrase": "knowledge puffs up but love builds up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

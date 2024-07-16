@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "failed"
+        "label": {
+            "phrase": "failed to do their homework",
+            "count": 1
+        }
     },
     "clusterList": [
         {

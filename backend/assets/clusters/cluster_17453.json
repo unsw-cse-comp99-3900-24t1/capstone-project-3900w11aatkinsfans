@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one disease one cause",
+            "count": 1
+        }
     },
     "clusterList": [
         {

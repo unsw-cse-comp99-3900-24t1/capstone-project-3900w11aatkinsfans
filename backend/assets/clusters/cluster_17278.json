@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "his"
+        "label": {
+            "phrase": "his real name's william and he's absolutely loaded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

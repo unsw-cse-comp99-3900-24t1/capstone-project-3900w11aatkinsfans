@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "tremendous"
+        "label": {
+            "phrase": "tremendous work load",
+            "count": 1
+        }
     },
     "clusterList": [
         {

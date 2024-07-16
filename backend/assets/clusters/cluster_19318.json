@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can stop randomly moving around now before i get sick",
+            "count": 1
+        }
     },
     "clusterList": [
         {

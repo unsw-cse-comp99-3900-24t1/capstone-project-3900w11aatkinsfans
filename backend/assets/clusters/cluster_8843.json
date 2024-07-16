@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "log"
+        "label": {
+            "phrase": "log opened identity synchronization for windows build 2006 310 1625 java runtime version is 1 5 0 09",
+            "count": 2
+        }
     },
     "clusterList": [
         {

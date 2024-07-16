@@ -8,7 +8,10 @@
             "02:22",
             "03:24"
         ],
-        "label": "hello"
+        "label": {
+            "phrase": "hello wtf oh crap the punter just tore his acl ok thanks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

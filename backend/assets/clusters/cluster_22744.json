@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every day that repairs go unmade the costs balloon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

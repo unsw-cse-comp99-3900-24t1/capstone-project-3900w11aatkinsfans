@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "seriously"
+        "label": {
+            "phrase": "seriously considering calling it home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

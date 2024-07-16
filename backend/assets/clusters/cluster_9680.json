@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they will make it look like suicide",
+            "count": 2
+        }
     },
     "clusterList": [
         {

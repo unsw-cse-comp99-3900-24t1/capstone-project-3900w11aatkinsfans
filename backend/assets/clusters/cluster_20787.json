@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "requires"
+        "label": {
+            "phrase": "requires some minor response but even that is unusual",
+            "count": 1
+        }
     },
     "clusterList": [
         {

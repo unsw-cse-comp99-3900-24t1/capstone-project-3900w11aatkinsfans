@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "paul"
+        "label": {
+            "phrase": "paul i think we should mate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

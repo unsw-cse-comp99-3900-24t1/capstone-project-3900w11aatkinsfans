@@ -14,7 +14,10 @@
             "02:19",
             "04:00"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm now called joseph",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:28",
             "03:10"
         ],
-        "label": "twelve"
+        "label": {
+            "phrase": "twelve networking truths",
+            "count": 2
+        }
     },
     "clusterList": [
         {

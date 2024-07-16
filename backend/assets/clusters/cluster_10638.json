@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "roger"
+        "label": {
+            "phrase": "roger the excruciator",
+            "count": 2
+        }
     },
     "clusterList": [
         {

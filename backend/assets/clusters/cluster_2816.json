@@ -16,7 +16,10 @@
             "01:07",
             "02:51"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "it's already been reported",
+            "count": 5
+        }
     },
     "clusterList": [
         {

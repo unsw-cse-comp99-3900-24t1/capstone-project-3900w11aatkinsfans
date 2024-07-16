@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "songs"
+        "label": {
+            "phrase": "songs for water buffalo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

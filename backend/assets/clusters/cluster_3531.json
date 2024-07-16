@@ -14,7 +14,10 @@
             "02:05",
             "04:13"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on the hydrogen side platinum works well",
+            "count": 3
+        }
     },
     "clusterList": [
         {

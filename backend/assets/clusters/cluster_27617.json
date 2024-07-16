@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't plan to address that mr",
+            "count": 1
+        }
     },
     "clusterList": [
         {

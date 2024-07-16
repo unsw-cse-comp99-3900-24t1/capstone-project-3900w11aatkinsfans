@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that what started all this was completely unfounded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

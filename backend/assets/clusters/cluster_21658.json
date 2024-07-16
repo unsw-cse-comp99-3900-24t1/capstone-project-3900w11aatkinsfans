@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "fear"
+        "label": {
+            "phrase": "fear and loathing in mahwah nj",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:23",
             "03:59"
         ],
-        "label": "going"
+        "label": {
+            "phrase": "going to reveal the truth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

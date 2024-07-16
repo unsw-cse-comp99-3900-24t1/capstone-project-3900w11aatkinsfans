@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "we'd"
+        "label": {
+            "phrase": "we'd like to work the shoreline",
+            "count": 1
+        }
     },
     "clusterList": [
         {

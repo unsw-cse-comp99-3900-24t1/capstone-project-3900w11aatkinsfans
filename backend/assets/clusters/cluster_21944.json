@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the king will reply",
+            "count": 1
+        }
     },
     "clusterList": [
         {

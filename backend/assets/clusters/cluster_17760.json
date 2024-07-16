@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "congress"
+        "label": {
+            "phrase": "congress sends pryor bill banning lead in toys to bush",
+            "count": 1
+        }
     },
     "clusterList": [
         {

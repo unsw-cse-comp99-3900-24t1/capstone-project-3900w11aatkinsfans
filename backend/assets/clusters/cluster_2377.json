@@ -18,7 +18,10 @@
             "03:51",
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "babbity rabbity and her cackling stump",
+            "count": 4
+        }
     },
     "clusterList": [
         {

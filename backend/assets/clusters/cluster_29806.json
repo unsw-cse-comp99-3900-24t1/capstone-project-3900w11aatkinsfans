@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i knew i had to get out of the house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

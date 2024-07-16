@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "indocin"
+        "label": {
+            "phrase": "indocin is an old drug",
+            "count": 1
+        }
     },
     "clusterList": [
         {

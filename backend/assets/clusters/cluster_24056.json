@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i see a headline such as",
+            "count": 1
+        }
     },
     "clusterList": [
         {

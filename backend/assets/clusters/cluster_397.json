@@ -32,7 +32,10 @@
             "03:24",
             "03:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best little whorehouse in texas",
+            "count": 27
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone is worried about these skirmishes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

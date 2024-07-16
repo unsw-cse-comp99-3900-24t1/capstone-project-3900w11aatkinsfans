@@ -80,7 +80,10 @@
             "04:53",
             "04:56"
         ],
-        "label": "degree"
+        "label": {
+            "phrase": "degree of durability",
+            "count": 17
+        }
     },
     "clusterList": [
         {

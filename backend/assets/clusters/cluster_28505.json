@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a psychological thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

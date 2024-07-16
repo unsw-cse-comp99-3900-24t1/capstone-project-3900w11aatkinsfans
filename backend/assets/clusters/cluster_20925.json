@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "captain"
+        "label": {
+            "phrase": "captain can't you see the ship is gonna blow do something i beseech",
+            "count": 1
+        }
     },
     "clusterList": [
         {

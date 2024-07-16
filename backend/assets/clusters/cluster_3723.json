@@ -14,7 +14,10 @@
             "03:24",
             "04:55"
         ],
-        "label": "alright"
+        "label": {
+            "phrase": "alright everyone into the car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

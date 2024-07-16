@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "arun"
+        "label": {
+            "phrase": "arun with a lot of exclamation where have you been",
+            "count": 1
+        }
     },
     "clusterList": [
         {

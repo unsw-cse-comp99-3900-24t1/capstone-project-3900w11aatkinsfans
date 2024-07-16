@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have until this date to return these items for a refund or exchange",
+            "count": 1
+        }
     },
     "clusterList": [
         {

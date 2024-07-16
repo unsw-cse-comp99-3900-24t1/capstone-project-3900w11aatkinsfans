@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're on a very short fuse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

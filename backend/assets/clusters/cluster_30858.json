@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "three"
+        "label": {
+            "phrase": "three of a meathlock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

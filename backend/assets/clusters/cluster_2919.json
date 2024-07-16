@@ -16,7 +16,10 @@
             "04:03",
             "04:28"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are pleased to have resolved this issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

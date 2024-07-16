@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "sarbanes-oxley"
+        "label": {
+            "phrase": "sarbanes-oxley for science",
+            "count": 1
+        }
     },
     "clusterList": [
         {

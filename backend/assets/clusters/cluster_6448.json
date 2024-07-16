@@ -10,7 +10,10 @@
             "01:55",
             "04:03"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a very dangerous game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

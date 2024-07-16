@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a policeman came up to me and said buy a lotto ticket",
+            "count": 1
+        }
     },
     "clusterList": [
         {

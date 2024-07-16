@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "garrisoned"
+        "label": {
+            "phrase": "garrisoned for god and for his sake",
+            "count": 2
+        }
     },
     "clusterList": [
         {

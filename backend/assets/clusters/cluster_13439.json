@@ -6,7 +6,10 @@
         "xLabels": [
             "00:10"
         ],
-        "label": "transition"
+        "label": {
+            "phrase": "transition local authority",
+            "count": 1
+        }
     },
     "clusterList": [
         {

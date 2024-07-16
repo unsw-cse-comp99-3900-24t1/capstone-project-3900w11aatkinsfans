@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "congratulations"
+        "label": {
+            "phrase": "congratulations psycho-soldier you've won 5 000",
+            "count": 1
+        }
     },
     "clusterList": [
         {

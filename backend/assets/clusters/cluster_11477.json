@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sensor operator has the responsibility of assisting the pilot with take-offs landings air speeds altitude approach speeds weapons employment and airspace deconfliction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

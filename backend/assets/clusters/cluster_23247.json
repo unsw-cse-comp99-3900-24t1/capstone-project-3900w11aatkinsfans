@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "hurricane"
+        "label": {
+            "phrase": "hurricane dolly ransacked portions of hidalgo county more than a week ago and some of our residents homes are still underwater",
+            "count": 1
+        }
     },
     "clusterList": [
         {

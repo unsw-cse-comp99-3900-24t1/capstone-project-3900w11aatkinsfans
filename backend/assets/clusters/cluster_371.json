@@ -52,7 +52,10 @@
             "04:55",
             "05:00"
         ],
-        "label": "before"
+        "label": {
+            "phrase": "let me know when the decisions are announced",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is clearly in a picturesque part of rapierland",
+            "count": 1
+        }
     },
     "clusterList": [
         {

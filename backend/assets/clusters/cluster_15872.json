@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one call that's all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "missouri"
+        "label": {
+            "phrase": "missouri club for growth committee",
+            "count": 4
+        }
     },
     "clusterList": [
         {

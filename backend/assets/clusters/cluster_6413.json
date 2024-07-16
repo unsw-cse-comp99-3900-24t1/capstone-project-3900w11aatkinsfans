@@ -10,7 +10,10 @@
             "05:01",
             "05:05"
         ],
-        "label": "bill"
+        "label": {
+            "phrase": "bill and ted's excellent adventure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

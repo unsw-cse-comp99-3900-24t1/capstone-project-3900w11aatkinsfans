@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the most liberating thing of the internet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

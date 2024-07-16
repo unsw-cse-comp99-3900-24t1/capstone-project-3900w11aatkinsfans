@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "barry"
+        "label": {
+            "phrase": "barry goldwater famously said that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

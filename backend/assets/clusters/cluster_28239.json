@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "lord"
+        "label": {
+            "phrase": "lord have mercy on china",
+            "count": 1
+        }
     },
     "clusterList": [
         {

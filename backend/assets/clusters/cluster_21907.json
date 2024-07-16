@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "light"
+        "label": {
+            "phrase": "light duty will go back to meaning light duty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

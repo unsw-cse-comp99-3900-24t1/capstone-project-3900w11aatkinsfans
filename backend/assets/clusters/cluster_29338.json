@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the imperial soldier screams a battle cry and attacks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

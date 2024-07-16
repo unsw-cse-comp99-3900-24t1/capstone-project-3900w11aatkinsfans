@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're really looking for stage presence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

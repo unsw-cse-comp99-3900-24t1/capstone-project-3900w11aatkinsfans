@@ -14,7 +14,10 @@
             "04:24",
             "04:26"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this too shall pass",
+            "count": 5
+        }
     },
     "clusterList": [
         {

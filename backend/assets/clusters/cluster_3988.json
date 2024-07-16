@@ -12,7 +12,10 @@
             "03:19",
             "04:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the great mcginty",
+            "count": 2
+        }
     },
     "clusterList": [
         {

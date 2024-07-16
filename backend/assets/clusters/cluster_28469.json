@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people started complaining immediately",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -34,7 +34,10 @@
             "03:06",
             "05:03"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "five rate cuts in the course of 2009",
+            "count": 10
+        }
     },
     "clusterList": [
         {

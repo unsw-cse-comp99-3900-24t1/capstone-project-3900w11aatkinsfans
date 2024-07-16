@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the past is a foreign country they do things differently there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

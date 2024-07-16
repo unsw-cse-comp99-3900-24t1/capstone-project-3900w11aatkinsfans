@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "someone"
+        "label": {
+            "phrase": "someone told me there was a fellow with some talent at scudder but he was loud and talked back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

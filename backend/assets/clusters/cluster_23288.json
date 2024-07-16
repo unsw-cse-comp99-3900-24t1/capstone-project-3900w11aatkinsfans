@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when i grow up i want to be elisson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

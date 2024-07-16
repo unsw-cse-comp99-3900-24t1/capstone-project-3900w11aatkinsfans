@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have the best of both worlds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

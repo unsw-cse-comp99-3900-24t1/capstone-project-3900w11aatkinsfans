@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've turned over a new leaf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

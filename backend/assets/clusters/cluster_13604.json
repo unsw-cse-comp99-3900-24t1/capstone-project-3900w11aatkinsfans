@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who determines what is essential",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "sir"
+        "label": {
+            "phrase": "sir bob's memory is failing him yeah right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

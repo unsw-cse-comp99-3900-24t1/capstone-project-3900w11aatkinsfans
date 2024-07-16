@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you have any charms of swords",
+            "count": 1
+        }
     },
     "clusterList": [
         {

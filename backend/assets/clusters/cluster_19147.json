@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your whole age sits between what you hear and what you write",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:23",
             "01:04"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this sort of thing is not unheard of",
+            "count": 2
+        }
     },
     "clusterList": [
         {

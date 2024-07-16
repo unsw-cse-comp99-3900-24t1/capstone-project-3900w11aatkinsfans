@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "ducks"
+        "label": {
+            "phrase": "ducks in a row",
+            "count": 1
+        }
     },
     "clusterList": [
         {

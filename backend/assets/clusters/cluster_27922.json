@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "doing"
+        "label": {
+            "phrase": "doing things person",
+            "count": 1
+        }
     },
     "clusterList": [
         {

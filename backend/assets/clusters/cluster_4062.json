@@ -12,7 +12,10 @@
             "01:01",
             "02:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the students love it because it is more self-directed",
+            "count": 2
+        }
     },
     "clusterList": [
         {

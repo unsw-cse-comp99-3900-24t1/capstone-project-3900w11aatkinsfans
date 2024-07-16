@@ -8,7 +8,10 @@
             "04:04",
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the world ignored hitler's words and paid a terrible price",
+            "count": 4
+        }
     },
     "clusterList": [
         {

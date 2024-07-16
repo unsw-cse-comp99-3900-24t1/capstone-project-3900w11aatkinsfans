@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "private"
+        "label": {
+            "phrase": "private and undocumented headers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

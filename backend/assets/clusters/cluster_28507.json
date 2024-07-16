@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't have a backyard so i'm encouraging the cat to sleep in it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

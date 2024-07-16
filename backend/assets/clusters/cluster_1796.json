@@ -12,7 +12,10 @@
             "01:37",
             "03:37"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "ponder on this",
+            "count": 6
+        }
     },
     "clusterList": [
         {

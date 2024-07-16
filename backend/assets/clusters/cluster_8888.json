@@ -8,7 +8,10 @@
             "00:38",
             "01:00"
         ],
-        "label": "leave"
+        "label": {
+            "phrase": "leave out all the rest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

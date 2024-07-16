@@ -8,7 +8,10 @@
             "01:14",
             "01:34"
         ],
-        "label": "browser"
+        "label": {
+            "phrase": "browser zoom sitespecific",
+            "count": 1
+        }
     },
     "clusterList": [
         {

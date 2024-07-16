@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you have proof of such culpability",
+            "count": 1
+        }
     },
     "clusterList": [
         {

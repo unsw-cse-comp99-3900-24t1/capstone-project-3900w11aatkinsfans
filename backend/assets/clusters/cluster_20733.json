@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i really must speak with the other villagers before i can give you an answer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

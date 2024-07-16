@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "dr"
+        "label": {
+            "phrase": "dr otto and the riddle of the gloom beam",
+            "count": 1
+        }
     },
     "clusterList": [
         {

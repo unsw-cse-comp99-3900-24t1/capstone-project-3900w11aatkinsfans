@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "ka-chan"
+        "label": {
+            "phrase": "ka-chan i need to take this call",
+            "count": 1
+        }
     },
     "clusterList": [
         {

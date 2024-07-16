@@ -6,7 +6,10 @@
         "xLabels": [
             "00:03"
         ],
-        "label": "says"
+        "label": {
+            "phrase": "says the belgian of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

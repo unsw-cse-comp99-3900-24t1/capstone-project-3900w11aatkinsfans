@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "wouldn't"
+        "label": {
+            "phrase": "wouldn't want anyone to find that tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

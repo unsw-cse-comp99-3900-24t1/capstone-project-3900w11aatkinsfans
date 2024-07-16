@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "wilmington"
+        "label": {
+            "phrase": "wilmington street between martin and davie streets is closed the city of raleigh hoped to open one lane of traffic by 8 a m the break happened around 4 30 a m and crews were able to shut off the water main just before 6 a m",
+            "count": 1
+        }
     },
     "clusterList": [
         {

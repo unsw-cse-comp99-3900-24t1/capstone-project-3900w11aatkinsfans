@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for without progress there will be stagnation and decay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

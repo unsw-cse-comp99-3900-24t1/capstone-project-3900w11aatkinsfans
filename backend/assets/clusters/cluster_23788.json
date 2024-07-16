@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the politics of aggrievement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

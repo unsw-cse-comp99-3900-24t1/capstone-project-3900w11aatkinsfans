@@ -10,7 +10,10 @@
             "03:34",
             "04:23"
         ],
-        "label": "slippery"
+        "label": {
+            "phrase": "warp your hand",
+            "count": 2
+        }
     },
     "clusterList": [
         {

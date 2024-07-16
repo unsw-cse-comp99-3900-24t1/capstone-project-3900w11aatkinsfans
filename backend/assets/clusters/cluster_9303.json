@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "compressed"
+        "label": {
+            "phrase": "compressed hydrogen atom",
+            "count": 2
+        }
     },
     "clusterList": [
         {

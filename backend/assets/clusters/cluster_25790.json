@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "repeated"
+        "label": {
+            "phrase": "repeated attempts to engage in meaningful license terms over the past two years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

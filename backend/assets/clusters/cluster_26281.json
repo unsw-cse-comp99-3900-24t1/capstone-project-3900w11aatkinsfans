@@ -6,7 +6,10 @@
         "xLabels": [
             "03:40"
         ],
-        "label": "transposition"
+        "label": {
+            "phrase": "transposition of the great arteries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they don't have skin in the game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

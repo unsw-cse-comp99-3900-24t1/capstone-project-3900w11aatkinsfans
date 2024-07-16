@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what rough beast its hour come round at last slouches towards bethlehem to be born",
+            "count": 1
+        }
     },
     "clusterList": [
         {

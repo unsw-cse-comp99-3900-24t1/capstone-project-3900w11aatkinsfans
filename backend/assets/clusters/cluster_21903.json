@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "gegls"
+        "label": {
+            "phrase": "gegls from outer space",
+            "count": 1
+        }
     },
     "clusterList": [
         {

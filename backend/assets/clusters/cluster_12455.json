@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "web2"
+        "label": {
+            "phrase": "web2 0 for science week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

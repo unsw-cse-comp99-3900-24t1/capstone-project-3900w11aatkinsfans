@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have arranged with professor snape that you will do your detention next saturday instead",
+            "count": 1
+        }
     },
     "clusterList": [
         {

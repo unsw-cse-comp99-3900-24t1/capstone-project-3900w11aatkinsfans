@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "doors"
+        "label": {
+            "phrase": "doors of democracy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

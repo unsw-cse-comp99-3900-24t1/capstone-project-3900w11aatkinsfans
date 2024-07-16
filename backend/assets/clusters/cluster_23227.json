@@ -6,7 +6,10 @@
         "xLabels": [
             "02:40"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every week people are coming in and dropping off more it's from voter registration drives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

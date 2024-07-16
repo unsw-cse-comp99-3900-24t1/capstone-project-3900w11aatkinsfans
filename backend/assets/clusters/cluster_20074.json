@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have just the eight victims",
+            "count": 1
+        }
     },
     "clusterList": [
         {

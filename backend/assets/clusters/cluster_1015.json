@@ -18,7 +18,10 @@
             "04:15",
             "05:03"
         ],
-        "label": "jumping"
+        "label": {
+            "phrase": "flight of five",
+            "count": 7
+        }
     },
     "clusterList": [
         {

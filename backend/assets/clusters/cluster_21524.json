@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "created"
+        "label": {
+            "phrase": "created and directed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

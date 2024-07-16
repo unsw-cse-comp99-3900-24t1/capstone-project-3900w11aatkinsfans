@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "extra-skinny"
+        "label": {
+            "phrase": "extra-skinny h2o half-steam half-ice no whip",
+            "count": 1
+        }
     },
     "clusterList": [
         {

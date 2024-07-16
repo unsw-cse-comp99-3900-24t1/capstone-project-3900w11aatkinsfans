@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is at least as determined as",
+            "count": 1
+        }
     },
     "clusterList": [
         {

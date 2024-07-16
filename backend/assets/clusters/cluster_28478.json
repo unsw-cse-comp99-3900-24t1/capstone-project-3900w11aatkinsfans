@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my husband always insisted on following me up the stairs for some reason",
+            "count": 1
+        }
     },
     "clusterList": [
         {

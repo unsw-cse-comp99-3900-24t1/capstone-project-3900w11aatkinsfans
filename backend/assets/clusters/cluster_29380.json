@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone else's projects is better than mine mine's not good enough",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "fair"
+        "label": {
+            "phrase": "fair or substantial support",
+            "count": 1
+        }
     },
     "clusterList": [
         {

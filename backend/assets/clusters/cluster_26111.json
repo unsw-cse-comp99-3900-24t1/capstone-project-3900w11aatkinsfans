@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "bridge"
+        "label": {
+            "phrase": "bridge to terabithia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

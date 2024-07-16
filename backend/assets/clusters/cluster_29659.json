@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "organic"
+        "label": {
+            "phrase": "organic composition of capital",
+            "count": 1
+        }
     },
     "clusterList": [
         {

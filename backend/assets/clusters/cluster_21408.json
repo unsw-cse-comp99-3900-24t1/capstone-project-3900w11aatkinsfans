@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "se"
+        "label": {
+            "phrase": "se or x",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i think it goes well beyond that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

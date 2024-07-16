@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i-i'm"
+        "label": {
+            "phrase": "i-i'm staying here greg i-i don't want to be b-blamed for anything that could happen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

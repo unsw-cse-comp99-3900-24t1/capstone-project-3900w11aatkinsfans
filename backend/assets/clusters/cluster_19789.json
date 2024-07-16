@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm out of lard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

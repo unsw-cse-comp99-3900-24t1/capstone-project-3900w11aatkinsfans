@@ -12,7 +12,10 @@
             "03:46",
             "04:39"
         ],
-        "label": "eligible"
+        "label": {
+            "phrase": "eligible for the buyouts",
+            "count": 2
+        }
     },
     "clusterList": [
         {

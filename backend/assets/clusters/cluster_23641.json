@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "over"
+        "label": {
+            "phrase": "over the transom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

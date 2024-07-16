@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "without"
+        "label": {
+            "phrase": "without being invited",
+            "count": 1
+        }
     },
     "clusterList": [
         {

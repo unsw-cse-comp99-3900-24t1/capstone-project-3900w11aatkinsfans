@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our driving survey results are especially eye-opening",
+            "count": 1
+        }
     },
     "clusterList": [
         {

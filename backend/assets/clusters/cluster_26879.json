@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "love"
+        "label": {
+            "phrase": "love american style",
+            "count": 1
+        }
     },
     "clusterList": [
         {

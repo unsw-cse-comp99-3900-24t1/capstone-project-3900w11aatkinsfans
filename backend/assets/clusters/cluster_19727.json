@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i forgot go starts with a g",
+            "count": 1
+        }
     },
     "clusterList": [
         {

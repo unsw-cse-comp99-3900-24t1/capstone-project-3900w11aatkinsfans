@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "welcome"
+        "label": {
+            "phrase": "welcome to the himalayas snow cone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

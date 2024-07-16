@@ -18,7 +18,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one measures a circle starting anywhere",
+            "count": 7
+        }
     },
     "clusterList": [
         {

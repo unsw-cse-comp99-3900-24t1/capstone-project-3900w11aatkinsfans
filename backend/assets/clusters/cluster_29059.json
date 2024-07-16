@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this just proves how important a device the mouse is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

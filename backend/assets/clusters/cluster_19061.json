@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why do people have to keep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

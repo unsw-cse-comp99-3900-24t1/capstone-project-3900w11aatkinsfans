@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the murder was premeditated he turned the music up on the stereo moments before the crime so neigh-bours wouldn't hear her screaming",
+            "count": 1
+        }
     },
     "clusterList": [
         {

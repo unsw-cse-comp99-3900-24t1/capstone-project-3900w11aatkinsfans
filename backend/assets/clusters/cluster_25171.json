@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes and i want to serve king k rool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

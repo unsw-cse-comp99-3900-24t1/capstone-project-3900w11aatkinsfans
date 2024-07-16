@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "needle"
+        "label": {
+            "phrase": "needle through a bug",
+            "count": 3
+        }
     },
     "clusterList": [
         {

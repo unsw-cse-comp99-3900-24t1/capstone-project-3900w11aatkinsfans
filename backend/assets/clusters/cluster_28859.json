@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "college"
+        "label": {
+            "phrase": "college road trip",
+            "count": 1
+        }
     },
     "clusterList": [
         {

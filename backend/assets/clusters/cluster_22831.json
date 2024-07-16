@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "management"
+        "label": {
+            "phrase": "management secrets of abraham lincoln",
+            "count": 1
+        }
     },
     "clusterList": [
         {

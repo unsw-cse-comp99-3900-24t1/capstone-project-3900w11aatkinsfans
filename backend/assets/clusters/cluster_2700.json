@@ -18,7 +18,10 @@
             "04:38",
             "04:41"
         ],
-        "label": "hes"
+        "label": {
+            "phrase": "hes not a good singer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "killing"
+        "label": {
+            "phrase": "killing me softly with his song",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we focus on process management for the sales force",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "03:21",
             "04:19"
         ],
-        "label": "send"
+        "label": {
+            "phrase": "send a phweet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

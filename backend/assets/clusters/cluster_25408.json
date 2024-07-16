@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a trailer with wings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

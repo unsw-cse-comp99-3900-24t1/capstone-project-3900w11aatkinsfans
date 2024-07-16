@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i can tie it shut with some twine and that'll hold for a while",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "thinking"
+        "label": {
+            "phrase": "thinking the best of people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

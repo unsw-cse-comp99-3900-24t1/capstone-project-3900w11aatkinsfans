@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the rising cost of living has made life in new york near impossible and i will fight for fair pay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

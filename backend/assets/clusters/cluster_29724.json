@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one is throwing in the towel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

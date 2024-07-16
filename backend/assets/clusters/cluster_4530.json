@@ -12,7 +12,10 @@
             "02:20",
             "04:15"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when the record comes out read the label",
+            "count": 3
+        }
     },
     "clusterList": [
         {

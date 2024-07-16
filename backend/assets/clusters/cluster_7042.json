@@ -10,7 +10,10 @@
             "04:55",
             "05:04"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who is beautiful now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

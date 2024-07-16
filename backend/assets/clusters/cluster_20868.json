@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the flotilla of intervention",
+            "count": 1
+        }
     },
     "clusterList": [
         {

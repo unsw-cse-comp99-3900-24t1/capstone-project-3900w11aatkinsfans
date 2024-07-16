@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these greens are huge greens with a lot of slope to them a lot of grain to them you're not going to make them all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

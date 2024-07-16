@@ -6,7 +6,10 @@
         "xLabels": [
             "01:27"
         ],
-        "label": "sys"
+        "label": {
+            "phrase": "sys component create",
+            "count": 1
+        }
     },
     "clusterList": [
         {

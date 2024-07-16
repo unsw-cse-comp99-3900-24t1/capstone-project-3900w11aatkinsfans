@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "blood"
+        "label": {
+            "phrase": "blood and concrete",
+            "count": 1
+        }
     },
     "clusterList": [
         {

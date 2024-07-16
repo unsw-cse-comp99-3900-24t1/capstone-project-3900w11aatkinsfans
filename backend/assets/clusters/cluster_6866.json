@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "rw"
+        "label": {
+            "phrase": "rw suid dev exec auto nouser and async",
+            "count": 3
+        }
     },
     "clusterList": [
         {

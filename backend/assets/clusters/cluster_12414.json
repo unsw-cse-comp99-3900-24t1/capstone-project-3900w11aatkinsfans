@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "mom"
+        "label": {
+            "phrase": "mom must not be in doubt at any cost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

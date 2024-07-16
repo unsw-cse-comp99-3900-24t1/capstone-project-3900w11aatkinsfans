@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every time he gets on those par 3s you better watch out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

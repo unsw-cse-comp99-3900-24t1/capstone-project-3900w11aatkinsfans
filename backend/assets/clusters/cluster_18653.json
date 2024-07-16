@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that part of the brain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

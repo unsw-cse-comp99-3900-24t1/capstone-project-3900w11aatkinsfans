@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "out"
+        "label": {
+            "phrase": "out plan is terrible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "build"
+        "label": {
+            "phrase": "build versus buy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

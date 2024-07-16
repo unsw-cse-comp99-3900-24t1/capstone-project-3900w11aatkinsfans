@@ -6,7 +6,10 @@
         "xLabels": [
             "01:28"
         ],
-        "label": "windows"
+        "label": {
+            "phrase": "windows delayed re-write failed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

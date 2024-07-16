@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "or"
+        "label": {
+            "phrase": "or 10 whatever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

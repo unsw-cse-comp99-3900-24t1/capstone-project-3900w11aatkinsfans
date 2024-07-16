@@ -48,7 +48,10 @@
             "04:38",
             "05:01"
         ],
-        "label": "urn"
+        "label": {
+            "phrase": "urn schemas-microsoft-com office office",
+            "count": 18
+        }
     },
     "clusterList": [
         {

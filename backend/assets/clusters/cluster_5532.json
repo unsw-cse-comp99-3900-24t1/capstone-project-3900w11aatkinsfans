@@ -12,7 +12,10 @@
             "01:56",
             "03:18"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we see this in montreal we see this in quebec city we see this in big cities but not in small places",
+            "count": 2
+        }
     },
     "clusterList": [
         {

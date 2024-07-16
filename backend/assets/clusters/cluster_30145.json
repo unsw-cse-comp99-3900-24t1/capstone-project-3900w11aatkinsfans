@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the troops were able to overrun and clear the encampment including retrieve an anti-personnel landmine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

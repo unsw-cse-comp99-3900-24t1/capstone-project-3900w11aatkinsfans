@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "translated"
+        "label": {
+            "phrase": "translated from the original runes by hermione granger",
+            "count": 3
+        }
     },
     "clusterList": [
         {

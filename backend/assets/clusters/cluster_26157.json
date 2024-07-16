@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "late"
+        "label": {
+            "phrase": "late starts mean late finishes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how could we function without them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

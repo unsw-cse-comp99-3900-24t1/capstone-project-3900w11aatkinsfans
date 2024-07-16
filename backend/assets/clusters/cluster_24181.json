@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a little bit of knowledge is a dangerous thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

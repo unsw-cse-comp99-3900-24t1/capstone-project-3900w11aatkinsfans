@@ -10,7 +10,10 @@
             "03:18",
             "03:43"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you are foolish",
+            "count": 1
+        }
     },
     "clusterList": [
         {

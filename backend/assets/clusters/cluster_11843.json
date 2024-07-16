@@ -8,7 +8,10 @@
             "04:10",
             "04:23"
         ],
-        "label": "total"
+        "label": {
+            "phrase": "total resi-mortgage debt outstanding",
+            "count": 1
+        }
     },
     "clusterList": [
         {

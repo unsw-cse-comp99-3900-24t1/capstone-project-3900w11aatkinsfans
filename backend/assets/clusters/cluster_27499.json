@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's fun to go into the odd business and they look nervous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

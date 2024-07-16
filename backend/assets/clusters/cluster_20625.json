@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "deformational"
+        "label": {
+            "phrase": "deformational phase separations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

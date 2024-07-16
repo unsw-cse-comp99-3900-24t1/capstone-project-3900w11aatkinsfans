@@ -8,7 +8,10 @@
             "00:00",
             "03:12"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this will start lobster johnson year one",
+            "count": 2
+        }
     },
     "clusterList": [
         {

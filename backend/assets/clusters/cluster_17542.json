@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "pretty"
+        "label": {
+            "phrase": "pretty much freaking out doc",
+            "count": 1
+        }
     },
     "clusterList": [
         {

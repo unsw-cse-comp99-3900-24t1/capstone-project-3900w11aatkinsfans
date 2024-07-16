@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "always"
+        "label": {
+            "phrase": "always think of making notes instead of taking notes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

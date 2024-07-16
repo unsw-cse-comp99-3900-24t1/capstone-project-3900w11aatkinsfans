@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "fast"
+        "label": {
+            "phrase": "fast action rods",
+            "count": 7
+        }
     },
     "clusterList": [
         {

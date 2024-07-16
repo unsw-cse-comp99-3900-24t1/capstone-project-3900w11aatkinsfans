@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one note samba spanish flea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

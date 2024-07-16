@@ -142,7 +142,10 @@
             "04:46",
             "05:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "war on terror",
+            "count": 27
+        }
     },
     "clusterList": [
         {

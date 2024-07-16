@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every time i go down the street someone asks me when's it going to happen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

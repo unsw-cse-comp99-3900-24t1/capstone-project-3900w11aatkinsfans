@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is gathering strength",
+            "count": 1
+        }
     },
     "clusterList": [
         {

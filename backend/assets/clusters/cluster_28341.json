@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know that clich about tickling the ivories",
+            "count": 1
+        }
     },
     "clusterList": [
         {

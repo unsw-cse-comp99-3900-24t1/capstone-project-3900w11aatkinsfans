@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the land bicycles dream about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

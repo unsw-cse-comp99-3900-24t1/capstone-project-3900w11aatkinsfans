@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a fox in the henhouse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

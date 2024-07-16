@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "edna"
+        "label": {
+            "phrase": "edna was the first to volunteer to go",
+            "count": 1
+        }
     },
     "clusterList": [
         {

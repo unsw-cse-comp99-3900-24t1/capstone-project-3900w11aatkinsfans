@@ -10,7 +10,10 @@
             "01:25",
             "02:51"
         ],
-        "label": "government"
+        "label": {
+            "phrase": "government furnished equipment",
+            "count": 2
+        }
     },
     "clusterList": [
         {

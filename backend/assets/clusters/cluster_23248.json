@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "energy-absorbing"
+        "label": {
+            "phrase": "energy-absorbing eps headrests with side wings provide improved impact protection",
+            "count": 1
+        }
     },
     "clusterList": [
         {

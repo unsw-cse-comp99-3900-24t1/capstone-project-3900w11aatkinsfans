@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's not how we do things around here mister",
+            "count": 1
+        }
     },
     "clusterList": [
         {

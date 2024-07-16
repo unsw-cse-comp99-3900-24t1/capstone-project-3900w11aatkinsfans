@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "move"
+        "label": {
+            "phrase": "move a million miles for ryan hall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

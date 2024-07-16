@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "rotten"
+        "label": {
+            "phrase": "rotten pizza theory",
+            "count": 1
+        }
     },
     "clusterList": [
         {

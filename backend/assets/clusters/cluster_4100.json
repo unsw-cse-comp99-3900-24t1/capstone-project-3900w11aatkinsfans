@@ -14,7 +14,10 @@
             "03:06",
             "03:19"
         ],
-        "label": "change"
+        "label": {
+            "phrase": "change to win",
+            "count": 3
+        }
     },
     "clusterList": [
         {

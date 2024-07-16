@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but don't get him unless it is a super-emergency",
+            "count": 1
+        }
     },
     "clusterList": [
         {

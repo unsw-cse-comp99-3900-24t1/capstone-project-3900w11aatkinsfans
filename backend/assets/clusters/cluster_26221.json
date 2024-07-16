@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the beach is closed due to an electrical storm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:41",
             "03:38"
         ],
-        "label": "professors"
+        "label": {
+            "phrase": "professors engineers factory workers teachers artists doctors even farmers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

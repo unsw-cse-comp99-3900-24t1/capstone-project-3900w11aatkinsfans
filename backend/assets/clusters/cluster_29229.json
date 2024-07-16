@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "grizzly"
+        "label": {
+            "phrase": "grizzly man treadwell tried to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

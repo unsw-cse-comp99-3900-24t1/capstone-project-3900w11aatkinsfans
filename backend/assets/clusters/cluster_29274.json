@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no you have to get your hair cut",
+            "count": 1
+        }
     },
     "clusterList": [
         {

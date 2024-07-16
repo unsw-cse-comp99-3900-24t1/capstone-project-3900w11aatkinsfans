@@ -16,7 +16,10 @@
             "03:02",
             "03:18"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "don't hold your breath",
+            "count": 2
+        }
     },
     "clusterList": [
         {

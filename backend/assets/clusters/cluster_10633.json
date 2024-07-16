@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the real gaetano",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "04:50",
             "04:55"
         ],
-        "label": "potentially"
+        "label": {
+            "phrase": "just the tip of the iceberg",
+            "count": 4
+        }
     },
     "clusterList": [
         {

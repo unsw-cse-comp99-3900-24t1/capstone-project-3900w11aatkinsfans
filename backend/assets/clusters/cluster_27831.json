@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "reserved"
+        "label": {
+            "phrase": "reserved parking for myron cope",
+            "count": 1
+        }
     },
     "clusterList": [
         {

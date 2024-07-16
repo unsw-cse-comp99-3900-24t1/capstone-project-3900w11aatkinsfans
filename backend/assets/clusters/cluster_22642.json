@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "london"
+        "label": {
+            "phrase": "london interbank offering rate libor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

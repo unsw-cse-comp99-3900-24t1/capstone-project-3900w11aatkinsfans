@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a tougher program for tougher customers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

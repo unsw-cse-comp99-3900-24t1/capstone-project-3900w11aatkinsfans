@@ -6,7 +6,10 @@
         "xLabels": [
             "02:41"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they devour widows houses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

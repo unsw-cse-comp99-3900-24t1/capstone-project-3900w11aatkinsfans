@@ -6,7 +6,10 @@
         "xLabels": [
             "03:57"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm firing you because you're insubordinate and incompetent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

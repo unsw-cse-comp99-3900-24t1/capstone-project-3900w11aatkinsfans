@@ -34,7 +34,10 @@
             "04:32",
             "04:51"
         ],
-        "label": "seeing"
+        "label": {
+            "phrase": "my house is worth this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

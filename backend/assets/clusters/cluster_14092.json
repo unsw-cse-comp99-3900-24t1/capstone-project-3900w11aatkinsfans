@@ -6,7 +6,10 @@
         "xLabels": [
             "00:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the court must decide if there is an adequate alternative and there are numerous streets and sidewalks within the secure perimeter that provide that proximity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

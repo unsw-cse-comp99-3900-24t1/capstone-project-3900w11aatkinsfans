@@ -8,7 +8,10 @@
             "04:29",
             "04:32"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that is a not a proper question",
+            "count": 1
+        }
     },
     "clusterList": [
         {

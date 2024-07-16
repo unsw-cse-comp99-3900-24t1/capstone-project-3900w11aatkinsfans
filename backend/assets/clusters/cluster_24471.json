@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now i've become a fan of the idea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

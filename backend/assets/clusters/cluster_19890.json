@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we do not make policy check with your state employment office",
+            "count": 1
+        }
     },
     "clusterList": [
         {

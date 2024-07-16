@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "stymied"
+        "label": {
+            "phrase": "stymied document assembly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

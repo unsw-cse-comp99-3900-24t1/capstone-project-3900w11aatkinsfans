@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "beating"
+        "label": {
+            "phrase": "beating up a defenseless old man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

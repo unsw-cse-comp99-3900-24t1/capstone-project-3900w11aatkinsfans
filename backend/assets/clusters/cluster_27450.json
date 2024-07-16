@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "involved"
+        "label": {
+            "phrase": "involved in the altercation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

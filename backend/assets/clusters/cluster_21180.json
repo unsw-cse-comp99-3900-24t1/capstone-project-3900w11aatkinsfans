@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am satisfied that there is nothing wrong with our plan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

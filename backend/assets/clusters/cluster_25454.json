@@ -6,7 +6,10 @@
         "xLabels": [
             "03:20"
         ],
-        "label": "wishy-washy"
+        "label": {
+            "phrase": "wishy-washy but on the other hand i'm not an autocrat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the wonderful world of dissocia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

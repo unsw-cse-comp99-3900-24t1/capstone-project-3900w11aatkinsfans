@@ -6,7 +6,10 @@
         "xLabels": [
             "04:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a mysterious red liquid oozed from the walls scaring the pets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

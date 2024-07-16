@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i really enjoyed working with whitney",
+            "count": 3
+        }
     },
     "clusterList": [
         {

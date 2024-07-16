@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "submit"
+        "label": {
+            "phrase": "submit your i d proof to avoid barring of clip",
+            "count": 1
+        }
     },
     "clusterList": [
         {

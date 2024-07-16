@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two long cylindrical things",
+            "count": 1
+        }
     },
     "clusterList": [
         {

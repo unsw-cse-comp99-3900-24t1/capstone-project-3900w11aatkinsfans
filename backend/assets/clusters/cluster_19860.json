@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a stomach virus going around and every girl on my hall has been inflicted with the terror",
+            "count": 1
+        }
     },
     "clusterList": [
         {

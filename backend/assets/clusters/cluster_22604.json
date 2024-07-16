@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're very happy with alice springs and it will be continuing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

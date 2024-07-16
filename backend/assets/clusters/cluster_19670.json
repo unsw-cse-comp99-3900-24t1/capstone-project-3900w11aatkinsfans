@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the body farm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

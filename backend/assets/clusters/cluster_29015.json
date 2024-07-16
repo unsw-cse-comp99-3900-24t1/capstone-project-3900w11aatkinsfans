@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've got a hunch that the numbers are skewed to city services being dispatched",
+            "count": 1
+        }
     },
     "clusterList": [
         {

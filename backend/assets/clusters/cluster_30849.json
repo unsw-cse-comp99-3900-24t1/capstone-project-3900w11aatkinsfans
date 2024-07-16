@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a great way to experience bacco",
+            "count": 1
+        }
     },
     "clusterList": [
         {

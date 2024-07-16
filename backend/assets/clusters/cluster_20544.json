@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an electric choice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

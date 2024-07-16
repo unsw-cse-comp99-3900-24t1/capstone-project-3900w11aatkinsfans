@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "build"
+        "label": {
+            "phrase": "build the test fixture first",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a backdoor way to do it but a necessary one we think",
+            "count": 1
+        }
     },
     "clusterList": [
         {

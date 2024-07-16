@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you are in the middle of a conflicted merge",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "ma'am"
+        "label": {
+            "phrase": "ma'am the 911 system is for",
+            "count": 1
+        }
     },
     "clusterList": [
         {

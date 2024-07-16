@@ -6,7 +6,10 @@
         "xLabels": [
             "01:35"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the world's most psychotic asian american comedy troupe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

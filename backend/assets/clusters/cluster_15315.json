@@ -6,7 +6,10 @@
         "xLabels": [
             "00:29"
         ],
-        "label": "8"
+        "label": {
+            "phrase": "8 people who will kill your party",
+            "count": 1
+        }
     },
     "clusterList": [
         {

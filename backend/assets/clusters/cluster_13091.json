@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "from"
+        "label": {
+            "phrase": "from the eye doctor the dentist the podiatrist and the family doctor to the endocrinologist we all have to know what's going on with the patient and the patient needs to understand the ramifications of the disease",
+            "count": 1
+        }
     },
     "clusterList": [
         {

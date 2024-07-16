@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every state employee now contributes a portion of their salaries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

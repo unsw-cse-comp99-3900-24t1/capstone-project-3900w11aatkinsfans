@@ -6,7 +6,10 @@
         "xLabels": [
             "02:37"
         ],
-        "label": "wow"
+        "label": {
+            "phrase": "wow randy i'm gonna be thirty this year",
+            "count": 5
+        }
     },
     "clusterList": [
         {

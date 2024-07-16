@@ -22,7 +22,10 @@
             "04:04",
             "04:23"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think they're gonna win",
+            "count": 4
+        }
     },
     "clusterList": [
         {

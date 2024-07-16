@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a lot of fun and gets excellent gas mileage it's the best of both worlds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

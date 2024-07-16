@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the more submissions the better",
+            "count": 1
+        }
     },
     "clusterList": [
         {

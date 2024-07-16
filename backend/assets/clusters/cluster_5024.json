@@ -12,7 +12,10 @@
             "03:01",
             "04:05"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why the cancellation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

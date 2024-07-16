@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think i would feel lost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

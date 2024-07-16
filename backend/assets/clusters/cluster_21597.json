@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "syntax"
+        "label": {
+            "phrase": "syntax analysis of url with grammars",
+            "count": 1
+        }
     },
     "clusterList": [
         {

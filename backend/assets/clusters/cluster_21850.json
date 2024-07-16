@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do they know i'm allergic to ivy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

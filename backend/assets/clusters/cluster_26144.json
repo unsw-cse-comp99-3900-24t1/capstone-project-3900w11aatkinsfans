@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "bill"
+        "label": {
+            "phrase": "bill of materials",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "blacklist"
+        "label": {
+            "phrase": "blacklist ath pci",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "02:15",
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "you know i spend 18 hours a day here",
+            "count": 2
+        }
     },
     "clusterList": [
         {

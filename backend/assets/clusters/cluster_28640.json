@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the marching-band stud",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so was it planned",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the line between speech unconditionally guaranteed and speech which may legitimately be regulated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

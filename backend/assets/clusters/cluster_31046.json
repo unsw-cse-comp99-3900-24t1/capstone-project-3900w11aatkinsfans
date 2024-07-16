@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "without"
+        "label": {
+            "phrase": "without the quotes and hit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

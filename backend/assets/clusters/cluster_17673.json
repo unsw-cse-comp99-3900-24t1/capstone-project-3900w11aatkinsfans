@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if not i have a pretty good idea of where it is i'm going what about you i mean how long are you in town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

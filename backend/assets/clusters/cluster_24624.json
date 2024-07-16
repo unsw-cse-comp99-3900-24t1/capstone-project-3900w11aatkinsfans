@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes elder his name is specter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "competitive"
+        "label": {
+            "phrase": "competitive compensation package",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:00",
             "02:19"
         ],
-        "label": "recharge"
+        "label": {
+            "phrase": "recharge your batteries but that doesn't mean you have to sit idle for three months",
+            "count": 1
+        }
     },
     "clusterList": [
         {

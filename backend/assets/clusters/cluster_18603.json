@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's wrong honey why are you so angry oh say hi to emma you know emma right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

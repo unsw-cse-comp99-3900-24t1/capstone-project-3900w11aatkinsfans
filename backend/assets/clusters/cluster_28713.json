@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "ice"
+        "label": {
+            "phrase": "ice hopes to expand the program through a phased-rollout approach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

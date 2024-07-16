@@ -14,7 +14,10 @@
             "04:00",
             "04:07"
         ],
-        "label": "love"
+        "label": {
+            "phrase": "love in this club",
+            "count": 2
+        }
     },
     "clusterList": [
         {

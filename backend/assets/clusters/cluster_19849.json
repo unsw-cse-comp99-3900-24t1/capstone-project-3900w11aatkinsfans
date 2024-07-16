@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's a thesaurus is it like a dinosaur",
+            "count": 1
+        }
     },
     "clusterList": [
         {

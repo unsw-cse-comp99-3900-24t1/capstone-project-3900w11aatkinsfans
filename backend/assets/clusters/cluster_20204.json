@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we talked to different clubs about different proposals but never felt there was one that really benefitted us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

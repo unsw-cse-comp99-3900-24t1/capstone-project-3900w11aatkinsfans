@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can do practically anything to satisfy an esl program",
+            "count": 1
+        }
     },
     "clusterList": [
         {

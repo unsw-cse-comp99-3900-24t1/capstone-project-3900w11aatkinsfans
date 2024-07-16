@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "leave"
+        "label": {
+            "phrase": "leave him in bed until the official wake-up time of 7am so we can get a few things done before he's under foot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

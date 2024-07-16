@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "brain"
+        "label": {
+            "phrase": "brain building in just 12 weeks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

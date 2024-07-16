@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is an ex parrot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

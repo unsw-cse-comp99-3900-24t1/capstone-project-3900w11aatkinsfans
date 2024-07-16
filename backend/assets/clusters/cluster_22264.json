@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this site sucks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

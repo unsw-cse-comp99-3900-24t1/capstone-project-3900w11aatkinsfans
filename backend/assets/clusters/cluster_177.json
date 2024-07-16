@@ -70,7 +70,10 @@
             "04:59",
             "05:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "wait we don't want to win by too much",
+            "count": 3
+        }
     },
     "clusterList": [
         {

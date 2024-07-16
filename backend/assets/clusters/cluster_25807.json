@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "wasted"
+        "label": {
+            "phrase": "wasted on the way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

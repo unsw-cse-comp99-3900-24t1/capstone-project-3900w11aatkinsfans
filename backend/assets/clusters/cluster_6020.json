@@ -10,7 +10,10 @@
             "01:19",
             "01:42"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is overwhelming for us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

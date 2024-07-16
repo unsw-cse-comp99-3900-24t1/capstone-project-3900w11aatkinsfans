@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "cowboys"
+        "label": {
+            "phrase": "cowboys are frequently secretly fond of each other",
+            "count": 1
+        }
     },
     "clusterList": [
         {

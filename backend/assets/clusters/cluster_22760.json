@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "recursive"
+        "label": {
+            "phrase": "recursive self improvement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

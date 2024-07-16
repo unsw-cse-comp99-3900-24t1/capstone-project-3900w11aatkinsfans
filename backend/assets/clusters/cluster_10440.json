@@ -8,7 +8,10 @@
             "02:05",
             "02:23"
         ],
-        "label": "apple"
+        "label": {
+            "phrase": "apple has a priority list of features and we got as far as we could down that list with this model",
+            "count": 1
+        }
     },
     "clusterList": [
         {

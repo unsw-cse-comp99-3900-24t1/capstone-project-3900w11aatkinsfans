@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "driving"
+        "label": {
+            "phrase": "driving the r8 is like smearing honey into keira knightly",
+            "count": 2
+        }
     },
     "clusterList": [
         {

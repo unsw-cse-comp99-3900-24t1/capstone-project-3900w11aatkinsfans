@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's my word against their word",
+            "count": 1
+        }
     },
     "clusterList": [
         {

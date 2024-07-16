@@ -64,7 +64,10 @@
             "04:28",
             "04:45"
         ],
-        "label": "at"
+        "label": {
+            "phrase": "a couple of hundred at most",
+            "count": 3
+        }
     },
     "clusterList": [
         {

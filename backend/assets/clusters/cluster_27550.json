@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the partridge family",
+            "count": 1
+        }
     },
     "clusterList": [
         {

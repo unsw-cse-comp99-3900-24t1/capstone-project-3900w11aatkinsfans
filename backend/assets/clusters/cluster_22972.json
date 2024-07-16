@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "tough"
+        "label": {
+            "phrase": "tough tights cookie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

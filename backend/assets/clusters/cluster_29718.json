@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "bay"
+        "label": {
+            "phrase": "bay state of mind",
+            "count": 1
+        }
     },
     "clusterList": [
         {

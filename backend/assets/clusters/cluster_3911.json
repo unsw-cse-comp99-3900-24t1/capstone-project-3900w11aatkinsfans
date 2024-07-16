@@ -14,7 +14,10 @@
             "03:18",
             "04:28"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey what did you think of this commercial",
+            "count": 1
+        }
     },
     "clusterList": [
         {

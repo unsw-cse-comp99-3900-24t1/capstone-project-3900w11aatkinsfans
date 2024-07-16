@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "recent"
+        "label": {
+            "phrase": "recent actions will save us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

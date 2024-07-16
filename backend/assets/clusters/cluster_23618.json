@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "push"
+        "label": {
+            "phrase": "push the panic button yet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

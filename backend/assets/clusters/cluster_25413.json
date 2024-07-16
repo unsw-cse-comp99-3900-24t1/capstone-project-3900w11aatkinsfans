@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "return"
+        "label": {
+            "phrase": "return from the ashes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

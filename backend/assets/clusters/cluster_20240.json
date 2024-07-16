@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "dominated"
+        "label": {
+            "phrase": "dominated the landscape",
+            "count": 1
+        }
     },
     "clusterList": [
         {

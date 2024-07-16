@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are the sweet potato fries baked or deep fried",
+            "count": 1
+        }
     },
     "clusterList": [
         {

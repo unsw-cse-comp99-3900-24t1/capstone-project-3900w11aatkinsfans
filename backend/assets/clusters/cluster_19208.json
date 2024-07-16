@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "captivating"
+        "label": {
+            "phrase": "captivating blog log",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "introduction"
+        "label": {
+            "phrase": "introduction to atmosphere chemistry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

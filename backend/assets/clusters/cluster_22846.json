@@ -6,7 +6,10 @@
         "xLabels": [
             "02:30"
         ],
-        "label": "save"
+        "label": {
+            "phrase": "save the picture to the database",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "05:01",
             "05:05"
         ],
-        "label": "olmert"
+        "label": {
+            "phrase": "olmert failed in war and failed in peace",
+            "count": 5
+        }
     },
     "clusterList": [
         {

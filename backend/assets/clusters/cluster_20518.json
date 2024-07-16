@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "defenders"
+        "label": {
+            "phrase": "defenders of the status quo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

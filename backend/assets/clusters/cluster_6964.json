@@ -10,7 +10,10 @@
             "01:37",
             "02:17"
         ],
-        "label": "ball"
+        "label": {
+            "phrase": "ball of confusion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

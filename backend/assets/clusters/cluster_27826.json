@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "blue"
+        "label": {
+            "phrase": "blue collar marathoner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

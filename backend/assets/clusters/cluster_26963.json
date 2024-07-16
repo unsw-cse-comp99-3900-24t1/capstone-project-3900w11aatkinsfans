@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "unbearable"
+        "label": {
+            "phrase": "unbearable and covering your ears is no defense",
+            "count": 1
+        }
     },
     "clusterList": [
         {

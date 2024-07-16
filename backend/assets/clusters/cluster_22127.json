@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "precious"
+        "label": {
+            "phrase": "precious man gunk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

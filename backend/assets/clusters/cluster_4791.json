@@ -10,7 +10,10 @@
             "01:46",
             "03:32"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "picnic in the garden",
+            "count": 2
+        }
     },
     "clusterList": [
         {

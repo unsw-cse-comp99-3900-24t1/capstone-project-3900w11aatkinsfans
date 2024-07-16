@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take care of it without noise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

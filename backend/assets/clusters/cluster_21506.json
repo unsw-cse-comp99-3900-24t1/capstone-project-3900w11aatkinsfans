@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "sisters"
+        "label": {
+            "phrase": "sisters can be annoying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

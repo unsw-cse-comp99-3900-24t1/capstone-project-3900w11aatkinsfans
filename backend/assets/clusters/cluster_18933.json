@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the final decision maker is the us department of transportation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

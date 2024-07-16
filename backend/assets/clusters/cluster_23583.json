@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're pleased that tufts has put this in writing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

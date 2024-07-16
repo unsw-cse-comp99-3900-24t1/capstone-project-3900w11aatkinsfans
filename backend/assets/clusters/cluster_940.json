@@ -32,7 +32,10 @@
             "04:32",
             "04:45"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "he goes i really like your music",
+            "count": 2
+        }
     },
     "clusterList": [
         {

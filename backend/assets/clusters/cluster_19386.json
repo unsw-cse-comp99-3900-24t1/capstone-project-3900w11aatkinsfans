@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "bind"
+        "label": {
+            "phrase": "bind indicated winsock error",
+            "count": 1
+        }
     },
     "clusterList": [
         {

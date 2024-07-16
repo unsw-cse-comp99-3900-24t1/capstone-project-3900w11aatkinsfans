@@ -32,7 +32,10 @@
             "04:28",
             "04:50"
         ],
-        "label": "international"
+        "label": {
+            "phrase": "breakfast at tiffany's",
+            "count": 2
+        }
     },
     "clusterList": [
         {

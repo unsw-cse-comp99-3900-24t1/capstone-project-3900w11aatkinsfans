@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "omega"
+        "label": {
+            "phrase": "omega 3 fatty acids are important for the baby's developing eyes and brain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

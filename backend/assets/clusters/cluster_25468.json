@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mohawked enforcer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

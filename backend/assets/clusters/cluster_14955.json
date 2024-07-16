@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "americans"
+        "label": {
+            "phrase": "americans can't travel they don't have enough money for gasoline they're not taking vacations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

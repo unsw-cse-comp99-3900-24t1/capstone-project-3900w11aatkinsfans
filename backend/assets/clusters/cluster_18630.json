@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the lovers diet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

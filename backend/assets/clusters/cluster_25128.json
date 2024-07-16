@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this kid's got an attitude problem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

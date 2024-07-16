@@ -6,7 +6,10 @@
         "xLabels": [
             "04:54"
         ],
-        "label": "put"
+        "label": {
+            "phrase": "put down your pencil and your paintbrush and do it another way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

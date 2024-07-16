@@ -34,7 +34,10 @@
             "04:33",
             "04:52"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all these things and more",
+            "count": 4
+        }
     },
     "clusterList": [
         {

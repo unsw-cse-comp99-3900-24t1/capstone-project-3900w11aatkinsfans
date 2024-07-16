@@ -10,7 +10,10 @@
             "02:15",
             "04:46"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only over the phone",
+            "count": 3
+        }
     },
     "clusterList": [
         {

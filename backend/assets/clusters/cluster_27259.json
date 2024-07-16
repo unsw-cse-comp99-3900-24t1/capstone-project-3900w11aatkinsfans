@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "sir"
+        "label": {
+            "phrase": "sir that is not a kite and you are not at the beach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people don't know what to expect so everyone is on pins and needles and the stress level keeps escalating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:23"
         ],
-        "label": "i'd"
+        "label": {
+            "phrase": "i'd certainly go back and review that",
+            "count": 2
+        }
     },
     "clusterList": [
         {

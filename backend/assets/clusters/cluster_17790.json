@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "hypertechnical"
+        "label": {
+            "phrase": "hypertechnical posing as fair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

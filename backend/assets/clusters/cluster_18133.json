@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the false comfort of appeasement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

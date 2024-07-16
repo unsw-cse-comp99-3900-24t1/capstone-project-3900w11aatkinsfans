@@ -10,7 +10,10 @@
             "02:23",
             "02:24"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "i'm very happy to announce that we've gotten an ice sample",
+            "count": 2
+        }
     },
     "clusterList": [
         {

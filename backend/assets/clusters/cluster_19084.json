@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "procrastination"
+        "label": {
+            "phrase": "procrastination is the thief of time there is such a thing as being too late",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "command"
+        "label": {
+            "phrase": "command not found",
+            "count": 1
+        }
     },
     "clusterList": [
         {

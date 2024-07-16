@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the cosby mysteries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

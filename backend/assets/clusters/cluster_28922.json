@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the politics of restoration",
+            "count": 1
+        }
     },
     "clusterList": [
         {

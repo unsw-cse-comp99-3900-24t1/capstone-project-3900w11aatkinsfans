@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the process servers went to sydney airport to see if that was the case but after spending most of the day there there was no sight of khoder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

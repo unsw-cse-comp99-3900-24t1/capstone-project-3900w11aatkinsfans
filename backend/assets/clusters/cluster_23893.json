@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh and that box of doughtnuts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

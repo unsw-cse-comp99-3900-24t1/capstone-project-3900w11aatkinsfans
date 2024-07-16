@@ -14,7 +14,10 @@
             "04:18",
             "04:29"
         ],
-        "label": "scratch"
+        "label": {
+            "phrase": "did i scratch the car",
+            "count": 2
+        }
     },
     "clusterList": [
         {

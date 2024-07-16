@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "any"
+        "label": {
+            "phrase": "any time there was an adventure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

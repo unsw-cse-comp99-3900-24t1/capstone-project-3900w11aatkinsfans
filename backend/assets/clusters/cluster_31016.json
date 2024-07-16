@@ -6,7 +6,10 @@
         "xLabels": [
             "05:03"
         ],
-        "label": "flipped"
+        "label": {
+            "phrase": "flipped at least once",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "streaming"
+        "label": {
+            "phrase": "streaming video has the potential of overloading mission-critical bandwidth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

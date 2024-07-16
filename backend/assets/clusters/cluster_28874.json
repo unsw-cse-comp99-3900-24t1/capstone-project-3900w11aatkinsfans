@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "kids"
+        "label": {
+            "phrase": "kids can't fit on these",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "02:26",
             "05:05"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "self-inflicted non-combat injuries",
+            "count": 2
+        }
     },
     "clusterList": [
         {

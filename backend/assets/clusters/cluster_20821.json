@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but no one pushes for flow analysis in the virtualized world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

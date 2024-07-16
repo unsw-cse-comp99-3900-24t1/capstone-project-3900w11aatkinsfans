@@ -38,7 +38,10 @@
             "04:05",
             "04:31"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "now i can make art again",
+            "count": 2
+        }
     },
     "clusterList": [
         {

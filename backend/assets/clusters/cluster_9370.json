@@ -8,7 +8,10 @@
             "01:02",
             "01:15"
         ],
-        "label": "street"
+        "label": {
+            "phrase": "street corner preacher",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "00:50",
             "04:24"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've never done anything like this before",
+            "count": 1
+        }
     },
     "clusterList": [
         {

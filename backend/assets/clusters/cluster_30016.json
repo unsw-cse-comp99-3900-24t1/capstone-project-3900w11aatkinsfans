@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if the shoe fits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

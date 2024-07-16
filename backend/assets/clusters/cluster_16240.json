@@ -6,7 +6,10 @@
         "xLabels": [
             "00:46"
         ],
-        "label": "guys"
+        "label": {
+            "phrase": "guys who could have helped us were at a price that was too much for us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

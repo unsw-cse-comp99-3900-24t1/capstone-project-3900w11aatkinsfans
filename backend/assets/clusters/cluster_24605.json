@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "back"
+        "label": {
+            "phrase": "back office for the sme market",
+            "count": 1
+        }
     },
     "clusterList": [
         {

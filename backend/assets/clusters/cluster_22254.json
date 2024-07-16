@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which one is expandable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

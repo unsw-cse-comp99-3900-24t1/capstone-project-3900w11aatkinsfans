@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the enlightened corporation should try to create value for all of its constituencies",
+            "count": 3
+        }
     },
     "clusterList": [
         {

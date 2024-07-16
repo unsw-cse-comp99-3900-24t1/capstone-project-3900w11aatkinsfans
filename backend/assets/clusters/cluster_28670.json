@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "am"
+        "label": {
+            "phrase": "am i more machine than man how much of this is still me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

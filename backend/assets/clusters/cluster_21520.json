@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone lac dl",
+            "count": 1
+        }
     },
     "clusterList": [
         {

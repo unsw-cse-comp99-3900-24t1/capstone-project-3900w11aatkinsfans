@@ -8,7 +8,10 @@
             "02:34",
             "03:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pink potpourri",
+            "count": 2
+        }
     },
     "clusterList": [
         {

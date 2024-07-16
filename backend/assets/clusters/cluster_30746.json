@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "unauthorized"
+        "label": {
+            "phrase": "unauthorized item in the bagging area",
+            "count": 1
+        }
     },
     "clusterList": [
         {

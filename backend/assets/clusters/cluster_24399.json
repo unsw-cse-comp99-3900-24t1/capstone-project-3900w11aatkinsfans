@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for colored girls",
+            "count": 1
+        }
     },
     "clusterList": [
         {

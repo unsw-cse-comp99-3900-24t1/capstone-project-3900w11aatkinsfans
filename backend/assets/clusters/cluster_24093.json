@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we went to paris for our anniversary",
+            "count": 1
+        }
     },
     "clusterList": [
         {

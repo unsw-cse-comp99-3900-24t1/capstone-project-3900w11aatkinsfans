@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "renewing"
+        "label": {
+            "phrase": "renewing your passion conference",
+            "count": 1
+        }
     },
     "clusterList": [
         {

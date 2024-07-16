@@ -26,7 +26,10 @@
             "03:24",
             "03:55"
         ],
-        "label": "say"
+        "label": {
+            "phrase": "teach us lord",
+            "count": 2
+        }
     },
     "clusterList": [
         {

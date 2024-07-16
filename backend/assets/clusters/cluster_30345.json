@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "spread"
+        "label": {
+            "phrase": "spread some chicken on the hill with will",
+            "count": 1
+        }
     },
     "clusterList": [
         {

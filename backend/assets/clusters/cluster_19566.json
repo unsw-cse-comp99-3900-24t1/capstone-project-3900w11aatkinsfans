@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're not sufficiently adoring me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

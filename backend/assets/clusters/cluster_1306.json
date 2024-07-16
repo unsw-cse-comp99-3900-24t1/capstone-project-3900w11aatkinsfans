@@ -24,7 +24,10 @@
             "03:48",
             "04:24"
         ],
-        "label": "omg"
+        "label": {
+            "phrase": "he did it first",
+            "count": 3
+        }
     },
     "clusterList": [
         {

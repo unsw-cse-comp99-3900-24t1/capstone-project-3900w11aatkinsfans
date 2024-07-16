@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "klump"
+        "label": {
+            "phrase": "klump i know this might sound strange but",
+            "count": 1
+        }
     },
     "clusterList": [
         {

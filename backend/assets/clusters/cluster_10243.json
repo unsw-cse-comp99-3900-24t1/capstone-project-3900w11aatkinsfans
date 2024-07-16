@@ -8,7 +8,10 @@
             "01:50",
             "01:57"
         ],
-        "label": "sharpen"
+        "label": {
+            "phrase": "sharpen the saw",
+            "count": 1
+        }
     },
     "clusterList": [
         {

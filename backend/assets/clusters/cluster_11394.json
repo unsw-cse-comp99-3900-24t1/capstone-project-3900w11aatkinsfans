@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're going with what we have and obviously what's coming in the system",
+            "count": 2
+        }
     },
     "clusterList": [
         {

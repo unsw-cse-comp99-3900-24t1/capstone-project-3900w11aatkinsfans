@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these are serious people he said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

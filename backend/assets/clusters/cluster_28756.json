@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "james"
+        "label": {
+            "phrase": "james what is the point of the van then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

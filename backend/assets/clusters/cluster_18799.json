@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "honey"
+        "label": {
+            "phrase": "honey the car stop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

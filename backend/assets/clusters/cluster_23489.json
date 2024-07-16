@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's the spirit lisa stuff our faces before we pack our suitcases",
+            "count": 1
+        }
     },
     "clusterList": [
         {

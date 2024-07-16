@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "shit"
+        "label": {
+            "phrase": "shit hits the fan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

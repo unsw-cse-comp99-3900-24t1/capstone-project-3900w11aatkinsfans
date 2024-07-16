@@ -10,7 +10,10 @@
             "03:51",
             "04:16"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know that process",
+            "count": 3
+        }
     },
     "clusterList": [
         {

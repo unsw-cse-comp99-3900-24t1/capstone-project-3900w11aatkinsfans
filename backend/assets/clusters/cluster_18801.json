@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "sure"
+        "label": {
+            "phrase": "sure why the hell are you going this way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

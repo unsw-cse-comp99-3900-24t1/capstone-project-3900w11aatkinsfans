@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "murder"
+        "label": {
+            "phrase": "murder on the orient express",
+            "count": 1
+        }
     },
     "clusterList": [
         {

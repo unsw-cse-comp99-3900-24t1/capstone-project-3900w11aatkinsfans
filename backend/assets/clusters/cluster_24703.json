@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a new playbook",
+            "count": 1
+        }
     },
     "clusterList": [
         {

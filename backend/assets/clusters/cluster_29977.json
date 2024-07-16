@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's just pretend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

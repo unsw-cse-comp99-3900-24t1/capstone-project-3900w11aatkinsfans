@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "s"
+        "label": {
+            "phrase": "s setenv cincl ccp4 1 ccp4 share ccp4 include g",
+            "count": 1
+        }
     },
     "clusterList": [
         {

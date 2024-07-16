@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we feel a bit more caution in the air",
+            "count": 1
+        }
     },
     "clusterList": [
         {

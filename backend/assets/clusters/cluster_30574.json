@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "cruising"
+        "label": {
+            "phrase": "cruising brazilian style",
+            "count": 1
+        }
     },
     "clusterList": [
         {

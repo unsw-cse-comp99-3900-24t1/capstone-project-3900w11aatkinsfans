@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are honored with the selection of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

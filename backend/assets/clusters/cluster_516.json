@@ -48,7 +48,10 @@
             "04:55",
             "05:01"
         ],
-        "label": "tough"
+        "label": {
+            "phrase": "this is a difficult time",
+            "count": 3
+        }
     },
     "clusterList": [
         {

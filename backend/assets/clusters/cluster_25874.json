@@ -6,7 +6,10 @@
         "xLabels": [
             "03:30"
         ],
-        "label": "eisenhower"
+        "label": {
+            "phrase": "eisenhower is calling for is reasonableness common sense and leadership",
+            "count": 1
+        }
     },
     "clusterList": [
         {

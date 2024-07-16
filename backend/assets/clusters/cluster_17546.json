@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and those who repose in dust will awaken and rejoice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

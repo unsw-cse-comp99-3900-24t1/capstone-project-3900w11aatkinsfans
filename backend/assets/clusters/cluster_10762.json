@@ -8,7 +8,10 @@
             "02:29",
             "02:43"
         ],
-        "label": "next"
+        "label": {
+            "phrase": "next come the tall robots",
+            "count": 2
+        }
     },
     "clusterList": [
         {

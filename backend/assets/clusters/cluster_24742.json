@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he said i was solomon he said it was the best decision that he had ever read",
+            "count": 1
+        }
     },
     "clusterList": [
         {

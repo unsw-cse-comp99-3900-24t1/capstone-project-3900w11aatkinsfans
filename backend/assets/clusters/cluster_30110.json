@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "keeping"
+        "label": {
+            "phrase": "keeping up appearances",
+            "count": 1
+        }
     },
     "clusterList": [
         {

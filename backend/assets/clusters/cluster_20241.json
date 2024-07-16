@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "pledged"
+        "label": {
+            "phrase": "pledged not to direct any advertising to children under 12",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey john molested any kids lately",
+            "count": 1
+        }
     },
     "clusterList": [
         {

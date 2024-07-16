@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "chris"
+        "label": {
+            "phrase": "chris was never precious about where his ideas came from",
+            "count": 1
+        }
     },
     "clusterList": [
         {

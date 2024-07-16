@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the driving-while-black bill",
+            "count": 1
+        }
     },
     "clusterList": [
         {

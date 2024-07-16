@@ -6,7 +6,10 @@
         "xLabels": [
             "00:16"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is it riskier to stay at yahoo or go to a start up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

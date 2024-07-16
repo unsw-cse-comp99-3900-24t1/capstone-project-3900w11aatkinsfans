@@ -6,7 +6,10 @@
         "xLabels": [
             "04:43"
         ],
-        "label": "hypercooking"
+        "label": {
+            "phrase": "hypercooking with mark",
+            "count": 1
+        }
     },
     "clusterList": [
         {

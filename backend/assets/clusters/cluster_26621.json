@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the one thing none of us can do anything about is the weather",
+            "count": 1
+        }
     },
     "clusterList": [
         {

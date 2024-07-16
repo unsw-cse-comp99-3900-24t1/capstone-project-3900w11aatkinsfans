@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a drunk man lying on the barroom floor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

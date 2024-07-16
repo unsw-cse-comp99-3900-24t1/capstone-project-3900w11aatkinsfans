@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a good year for the robots",
+            "count": 2
+        }
     },
     "clusterList": [
         {

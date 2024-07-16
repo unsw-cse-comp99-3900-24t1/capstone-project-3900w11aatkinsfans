@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "words"
+        "label": {
+            "phrase": "words are merely caged birds beautiful to look at yet confined",
+            "count": 1
+        }
     },
     "clusterList": [
         {

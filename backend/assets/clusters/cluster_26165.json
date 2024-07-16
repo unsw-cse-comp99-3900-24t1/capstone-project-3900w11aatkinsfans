@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "slightly"
+        "label": {
+            "phrase": "slightly abnormal flow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

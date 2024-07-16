@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you just did exactly what we have been trying to avoid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

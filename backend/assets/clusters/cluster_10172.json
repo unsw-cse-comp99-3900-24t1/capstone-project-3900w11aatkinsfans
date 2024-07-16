@@ -8,7 +8,10 @@
             "01:46",
             "02:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the big dog has been mollified",
+            "count": 2
+        }
     },
     "clusterList": [
         {

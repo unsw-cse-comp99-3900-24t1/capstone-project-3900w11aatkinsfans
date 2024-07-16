@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "volunteer"
+        "label": {
+            "phrase": "volunteer no should've been information",
+            "count": 1
+        }
     },
     "clusterList": [
         {

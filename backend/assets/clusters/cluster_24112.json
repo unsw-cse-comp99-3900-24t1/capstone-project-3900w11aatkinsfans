@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're just a slave that week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

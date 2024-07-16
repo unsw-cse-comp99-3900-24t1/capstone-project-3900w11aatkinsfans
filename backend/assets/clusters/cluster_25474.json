@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "american"
+        "label": {
+            "phrase": "american workers will react",
+            "count": 1
+        }
     },
     "clusterList": [
         {

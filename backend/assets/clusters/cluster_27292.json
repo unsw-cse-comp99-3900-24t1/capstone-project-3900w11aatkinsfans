@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "field"
+        "label": {
+            "phrase": "field of sorrow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

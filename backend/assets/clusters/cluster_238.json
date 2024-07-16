@@ -60,7 +60,10 @@
             "05:00",
             "05:01"
         ],
-        "label": "brian"
+        "label": {
+            "phrase": "hill street blues",
+            "count": 2
+        }
     },
     "clusterList": [
         {

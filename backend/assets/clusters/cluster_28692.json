@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ookie brothers celebrate the holidays",
+            "count": 1
+        }
     },
     "clusterList": [
         {

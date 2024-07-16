@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an umbrella harpooned her arm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

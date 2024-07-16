@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've been there for twenty years had an exemplary record and you left to visit the doughnut stand because they were selling a new flavour",
+            "count": 1
+        }
     },
     "clusterList": [
         {

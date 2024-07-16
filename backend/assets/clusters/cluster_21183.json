@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think there is a good opening in wilkes-barre for a store like ours in scranton",
+            "count": 1
+        }
     },
     "clusterList": [
         {

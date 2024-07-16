@@ -34,7 +34,10 @@
             "04:24",
             "04:45"
         ],
-        "label": "oooh"
+        "label": {
+            "phrase": "baby it's cold outside",
+            "count": 3
+        }
     },
     "clusterList": [
         {

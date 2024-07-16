@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what did your intuition tell you to wear that sweater",
+            "count": 1
+        }
     },
     "clusterList": [
         {

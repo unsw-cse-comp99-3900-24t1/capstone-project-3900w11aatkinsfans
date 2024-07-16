@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the most important night for me because this is my competition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

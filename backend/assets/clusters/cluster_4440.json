@@ -12,7 +12,10 @@
             "04:05",
             "04:37"
         ],
-        "label": "different"
+        "label": {
+            "phrase": "different kind of player",
+            "count": 1
+        }
     },
     "clusterList": [
         {

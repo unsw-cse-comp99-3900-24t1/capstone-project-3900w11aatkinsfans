@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "cia"
+        "label": {
+            "phrase": "cia death squads killing with",
+            "count": 1
+        }
     },
     "clusterList": [
         {

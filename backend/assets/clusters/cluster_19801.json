@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "use"
+        "label": {
+            "phrase": "use the phlegm john use the phlegm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "03:51",
             "04:38"
         ],
-        "label": "flowers"
+        "label": {
+            "phrase": "flowers on the wall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

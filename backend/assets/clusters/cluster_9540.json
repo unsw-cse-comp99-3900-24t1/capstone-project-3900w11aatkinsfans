@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "made"
+        "label": {
+            "phrase": "made a concerted effort",
+            "count": 2
+        }
     },
     "clusterList": [
         {

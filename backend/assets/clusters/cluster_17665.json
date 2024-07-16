@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "rocky"
+        "label": {
+            "phrase": "rocky mountain roundtable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

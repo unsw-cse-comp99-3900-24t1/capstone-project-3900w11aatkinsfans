@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "killaz"
+        "label": {
+            "phrase": "killaz on the payroll",
+            "count": 1
+        }
     },
     "clusterList": [
         {

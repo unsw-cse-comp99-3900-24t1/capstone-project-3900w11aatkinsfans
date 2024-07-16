@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "buckets"
+        "label": {
+            "phrase": "buckets of oatmeal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

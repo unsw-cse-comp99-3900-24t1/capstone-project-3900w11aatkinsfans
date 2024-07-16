@@ -10,7 +10,10 @@
             "01:11",
             "02:51"
         ],
-        "label": "falling"
+        "label": {
+            "phrase": "falling in love in a coffee shop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

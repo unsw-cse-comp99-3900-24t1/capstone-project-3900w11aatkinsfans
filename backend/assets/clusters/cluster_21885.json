@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "hopefully"
+        "label": {
+            "phrase": "hopefully i didn't leave on a bad note",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this was actually the most interesting game of the day for rybka",
+            "count": 1
+        }
     },
     "clusterList": [
         {

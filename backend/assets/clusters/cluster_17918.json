@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "at"
+        "label": {
+            "phrase": "at times not allways",
+            "count": 1
+        }
     },
     "clusterList": [
         {

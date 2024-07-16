@@ -6,7 +6,10 @@
         "xLabels": [
             "03:21"
         ],
-        "label": "sql"
+        "label": {
+            "phrase": "sql server 2005 configuration tools surface area configuration",
+            "count": 1
+        }
     },
     "clusterList": [
         {

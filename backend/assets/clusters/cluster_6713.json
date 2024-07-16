@@ -10,7 +10,10 @@
             "01:42",
             "02:42"
         ],
-        "label": "writing"
+        "label": {
+            "phrase": "writing the heroic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

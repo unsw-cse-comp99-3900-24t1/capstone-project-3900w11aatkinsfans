@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i just think you should rest for a minute there's something funny here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

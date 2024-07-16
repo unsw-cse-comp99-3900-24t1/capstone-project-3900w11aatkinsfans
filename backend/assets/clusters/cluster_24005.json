@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a memo to the honorable sheikh abu abdullah bin laden",
+            "count": 1
+        }
     },
     "clusterList": [
         {

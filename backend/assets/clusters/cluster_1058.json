@@ -32,7 +32,10 @@
             "04:56",
             "04:59"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "this is home",
+            "count": 2
+        }
     },
     "clusterList": [
         {

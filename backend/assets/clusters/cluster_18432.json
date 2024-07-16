@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is this person understanding the essence of my meaning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

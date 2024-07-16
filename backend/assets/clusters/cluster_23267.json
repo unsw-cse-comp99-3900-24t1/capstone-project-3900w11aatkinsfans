@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that guy who writes the column",
+            "count": 1
+        }
     },
     "clusterList": [
         {

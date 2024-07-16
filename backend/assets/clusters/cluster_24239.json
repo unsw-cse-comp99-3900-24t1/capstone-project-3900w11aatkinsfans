@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "dumb"
+        "label": {
+            "phrase": "dumb deaths that result from putting yourself in a dumb situation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

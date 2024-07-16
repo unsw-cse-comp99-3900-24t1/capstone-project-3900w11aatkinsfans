@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that core group keeps us going",
+            "count": 1
+        }
     },
     "clusterList": [
         {

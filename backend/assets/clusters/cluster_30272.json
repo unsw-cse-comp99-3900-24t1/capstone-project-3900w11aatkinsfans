@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "thirteen"
+        "label": {
+            "phrase": "thirteen people did not have to die it's outrageous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

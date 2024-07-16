@@ -18,7 +18,10 @@
             "04:08",
             "04:19"
         ],
-        "label": "spooked"
+        "label": {
+            "phrase": "spooked by him just being in the store",
+            "count": 2
+        }
     },
     "clusterList": [
         {

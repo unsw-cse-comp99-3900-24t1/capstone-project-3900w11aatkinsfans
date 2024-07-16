@@ -10,7 +10,10 @@
             "01:32",
             "03:05"
         ],
-        "label": "meeting"
+        "label": {
+            "phrase": "the purity code",
+            "count": 2
+        }
     },
     "clusterList": [
         {

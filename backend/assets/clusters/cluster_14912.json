@@ -6,7 +6,10 @@
         "xLabels": [
             "00:24"
         ],
-        "label": "gt"
+        "label": {
+            "phrase": "gt your link text or description here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

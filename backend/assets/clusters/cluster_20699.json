@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "inc"
+        "label": {
+            "phrase": "inc village of garden city",
+            "count": 1
+        }
     },
     "clusterList": [
         {

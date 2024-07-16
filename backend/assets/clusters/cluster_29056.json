@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and it recognises even when you smile",
+            "count": 1
+        }
     },
     "clusterList": [
         {

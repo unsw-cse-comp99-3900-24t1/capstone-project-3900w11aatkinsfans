@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "little"
+        "label": {
+            "phrase": "little business deal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

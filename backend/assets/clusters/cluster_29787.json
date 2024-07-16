@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "charlotte"
+        "label": {
+            "phrase": "charlotte is a strong import market",
+            "count": 1
+        }
     },
     "clusterList": [
         {

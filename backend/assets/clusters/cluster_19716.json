@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you were mooned while you were marooned you would be a mooned marooned moon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the state with the largest population of artists and the largest audiences in the country is being culturally penalised",
+            "count": 1
+        }
     },
     "clusterList": [
         {

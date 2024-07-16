@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "report"
+        "label": {
+            "phrase": "report closest only",
+            "count": 1
+        }
     },
     "clusterList": [
         {

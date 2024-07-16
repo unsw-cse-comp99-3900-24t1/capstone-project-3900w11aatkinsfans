@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what happens when the reports are all automated what then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

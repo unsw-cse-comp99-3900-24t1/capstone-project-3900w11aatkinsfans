@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the half have not been told",
+            "count": 1
+        }
     },
     "clusterList": [
         {

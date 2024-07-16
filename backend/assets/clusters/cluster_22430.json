@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only love can make a home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

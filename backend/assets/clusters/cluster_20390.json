@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "psychiatrists"
+        "label": {
+            "phrase": "psychiatrists call it magical thinking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

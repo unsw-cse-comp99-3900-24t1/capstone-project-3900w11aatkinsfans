@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "sure"
+        "label": {
+            "phrase": "sure we can just transfer those numbers back to the original account and close the new account",
+            "count": 1
+        }
     },
     "clusterList": [
         {

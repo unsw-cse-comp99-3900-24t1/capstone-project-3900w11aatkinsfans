@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one in the beginning of the season when he returns and one at the end",
+            "count": 1
+        }
     },
     "clusterList": [
         {

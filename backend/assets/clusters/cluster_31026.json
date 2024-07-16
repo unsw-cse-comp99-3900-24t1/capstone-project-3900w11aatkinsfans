@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what are these why can't you just use a pinch or a handful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

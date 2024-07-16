@@ -10,7 +10,10 @@
             "00:15",
             "04:52"
         ],
-        "label": "planet"
+        "label": {
+            "phrase": "kimba the white lion",
+            "count": 2
+        }
     },
     "clusterList": [
         {

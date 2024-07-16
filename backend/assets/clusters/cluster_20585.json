@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "anybody"
+        "label": {
+            "phrase": "anybody would know to stop and find out if there is anything that could be done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

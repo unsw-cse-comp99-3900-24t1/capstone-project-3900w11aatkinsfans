@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "stop"
+        "label": {
+            "phrase": "stop and stare",
+            "count": 1
+        }
     },
     "clusterList": [
         {

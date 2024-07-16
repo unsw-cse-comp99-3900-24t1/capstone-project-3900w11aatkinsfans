@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a pine tree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

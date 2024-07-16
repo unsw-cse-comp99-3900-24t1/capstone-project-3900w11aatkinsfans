@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and it takes persistence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

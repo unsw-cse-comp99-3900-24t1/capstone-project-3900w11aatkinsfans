@@ -8,7 +8,10 @@
             "02:09",
             "02:17"
         ],
-        "label": "channel"
+        "label": {
+            "phrase": "channel of distribution",
+            "count": 2
+        }
     },
     "clusterList": [
         {

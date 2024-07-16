@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "snakes"
+        "label": {
+            "phrase": "snakes in the grass are hard to find",
+            "count": 1
+        }
     },
     "clusterList": [
         {

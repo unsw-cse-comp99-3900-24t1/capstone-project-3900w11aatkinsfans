@@ -30,7 +30,10 @@
             "03:55",
             "04:08"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "we're the band with the two old guys and the two young guys",
+            "count": 2
+        }
     },
     "clusterList": [
         {

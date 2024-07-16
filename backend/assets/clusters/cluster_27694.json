@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "would"
+        "label": {
+            "phrase": "would we miss buffalo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -34,7 +34,10 @@
             "04:23",
             "04:51"
         ],
-        "label": "happy"
+        "label": {
+            "phrase": "happy birthday mandela we love you",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what a starlings girl should be",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the wall street male cuts across all racial and ethnic and religious backgrounds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

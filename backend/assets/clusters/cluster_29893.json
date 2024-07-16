@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "brief"
+        "label": {
+            "phrase": "brief chat with brian sell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sand is everything else the small stuff",
+            "count": 1
+        }
     },
     "clusterList": [
         {

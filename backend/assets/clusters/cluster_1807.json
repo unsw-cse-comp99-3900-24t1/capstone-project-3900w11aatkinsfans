@@ -22,7 +22,10 @@
             "04:19",
             "04:33"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you never have enough talent",
+            "count": 3
+        }
     },
     "clusterList": [
         {

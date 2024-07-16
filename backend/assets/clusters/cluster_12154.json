@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm not real pleased with our backups right now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

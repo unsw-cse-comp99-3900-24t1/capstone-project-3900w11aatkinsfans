@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "green"
+        "label": {
+            "phrase": "green without envy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

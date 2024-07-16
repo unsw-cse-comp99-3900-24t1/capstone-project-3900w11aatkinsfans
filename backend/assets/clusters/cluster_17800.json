@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "connecticut"
+        "label": {
+            "phrase": "connecticut con con push begins",
+            "count": 1
+        }
     },
     "clusterList": [
         {

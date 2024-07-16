@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not about revisiting lambeth 1 10",
+            "count": 1
+        }
     },
     "clusterList": [
         {

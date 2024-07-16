@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "gina"
+        "label": {
+            "phrase": "gina don't make me hurt you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "chessmaster"
+        "label": {
+            "phrase": "chessmaster 10e edition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

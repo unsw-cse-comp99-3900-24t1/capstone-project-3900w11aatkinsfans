@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the last few weeks have been a little shaky",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not only will hello",
+            "count": 1
+        }
     },
     "clusterList": [
         {

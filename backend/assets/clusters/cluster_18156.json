@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've narrowed it down to less than six",
+            "count": 1
+        }
     },
     "clusterList": [
         {

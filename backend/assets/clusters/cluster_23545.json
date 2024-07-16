@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people are living longer and the end of life looks different than it used to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:09",
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the backup volume could not be mounted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

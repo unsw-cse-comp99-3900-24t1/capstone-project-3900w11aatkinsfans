@@ -6,7 +6,10 @@
         "xLabels": [
             "02:26"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how can this be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

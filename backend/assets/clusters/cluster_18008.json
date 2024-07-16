@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you really ought to go it's our conference night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

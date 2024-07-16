@@ -8,7 +8,10 @@
             "00:18",
             "02:00"
         ],
-        "label": "letter"
+        "label": {
+            "phrase": "letter to horace greeley",
+            "count": 1
+        }
     },
     "clusterList": [
         {

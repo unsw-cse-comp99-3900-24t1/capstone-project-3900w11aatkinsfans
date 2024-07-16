@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "during"
+        "label": {
+            "phrase": "during the quarter we completed our",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:03"
         ],
-        "label": "bloody"
+        "label": {
+            "phrase": "bloody pukey sweaty primeval",
+            "count": 1
+        }
     },
     "clusterList": [
         {

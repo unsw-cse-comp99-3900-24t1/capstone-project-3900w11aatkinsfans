@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "eh"
+        "label": {
+            "phrase": "eh remembe what",
+            "count": 1
+        }
     },
     "clusterList": [
         {

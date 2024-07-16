@@ -16,7 +16,10 @@
             "03:15",
             "03:18"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why did you come here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

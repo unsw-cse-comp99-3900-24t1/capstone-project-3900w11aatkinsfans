@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh no the chicago ten is on the way over they always wreck the place",
+            "count": 1
+        }
     },
     "clusterList": [
         {

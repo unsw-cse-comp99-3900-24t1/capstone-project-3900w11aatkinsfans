@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "chenbro's"
+        "label": {
+            "phrase": "chenbro's cases are very different to what's available at the moment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

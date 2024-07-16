@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an exciting new presence in the sytycd landscape",
+            "count": 1
+        }
     },
     "clusterList": [
         {

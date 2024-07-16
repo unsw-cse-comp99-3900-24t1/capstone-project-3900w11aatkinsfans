@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "muddled"
+        "label": {
+            "phrase": "muddled in the head",
+            "count": 1
+        }
     },
     "clusterList": [
         {

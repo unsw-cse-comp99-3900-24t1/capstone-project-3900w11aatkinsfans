@@ -10,7 +10,10 @@
             "01:28",
             "02:24"
         ],
-        "label": "donate"
+        "label": {
+            "phrase": "project hope donations",
+            "count": 2
+        }
     },
     "clusterList": [
         {

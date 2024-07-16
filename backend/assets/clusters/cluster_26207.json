@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every mechanical device moving by any power",
+            "count": 1
+        }
     },
     "clusterList": [
         {

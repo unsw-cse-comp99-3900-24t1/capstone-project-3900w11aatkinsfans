@@ -20,7 +20,10 @@
             "04:33",
             "05:03"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's been planned for months",
+            "count": 1
+        }
     },
     "clusterList": [
         {

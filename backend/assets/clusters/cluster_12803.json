@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the motley fool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

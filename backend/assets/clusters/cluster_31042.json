@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "name"
+        "label": {
+            "phrase": "name five things you would do if you were given a red brick",
+            "count": 1
+        }
     },
     "clusterList": [
         {

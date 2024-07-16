@@ -6,7 +6,10 @@
         "xLabels": [
             "01:45"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that bears hope",
+            "count": 1
+        }
     },
     "clusterList": [
         {

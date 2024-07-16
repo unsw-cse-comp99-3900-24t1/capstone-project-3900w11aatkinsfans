@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are all so shell-shocked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

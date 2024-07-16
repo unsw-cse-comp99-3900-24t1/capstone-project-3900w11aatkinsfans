@@ -8,7 +8,10 @@
             "00:23",
             "01:19"
         ],
-        "label": "99"
+        "label": {
+            "phrase": "99 red balloons",
+            "count": 2
+        }
     },
     "clusterList": [
         {

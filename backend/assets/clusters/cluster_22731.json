@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people don't want to regularly attend meetings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -26,7 +26,10 @@
             "04:21",
             "04:54"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a miracle it works at all",
+            "count": 3
+        }
     },
     "clusterList": [
         {

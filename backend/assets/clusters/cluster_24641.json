@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've come to get you bill",
+            "count": 1
+        }
     },
     "clusterList": [
         {

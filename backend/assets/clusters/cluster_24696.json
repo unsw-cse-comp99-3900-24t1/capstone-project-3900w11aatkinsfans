@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "life"
+        "label": {
+            "phrase": "life in technicolor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

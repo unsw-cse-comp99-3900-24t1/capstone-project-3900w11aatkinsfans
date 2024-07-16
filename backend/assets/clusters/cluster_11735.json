@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "alternative"
+        "label": {
+            "phrase": "alternative visions part i introduction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a sunday kind of back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

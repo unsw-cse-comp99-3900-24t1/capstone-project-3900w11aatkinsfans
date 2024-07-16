@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you attend the con",
+            "count": 1
+        }
     },
     "clusterList": [
         {

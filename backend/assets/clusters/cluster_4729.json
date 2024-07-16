@@ -12,7 +12,10 @@
             "01:47",
             "02:42"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's one interesting yarn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

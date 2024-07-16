@@ -18,7 +18,10 @@
             "03:46",
             "03:55"
         ],
-        "label": "sometimes"
+        "label": {
+            "phrase": "the good the bad the weird",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a recent zogby poll found that 51 percent of americans believe that primates are entitled to the same rights as human children",
+            "count": 1
+        }
     },
     "clusterList": [
         {

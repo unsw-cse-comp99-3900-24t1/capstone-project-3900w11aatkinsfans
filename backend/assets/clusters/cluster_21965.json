@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "here"
+        "label": {
+            "phrase": "here beat me half to death",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:14",
             "04:18"
         ],
-        "label": "office"
+        "label": {
+            "phrase": "office open xml debacle",
+            "count": 3
+        }
     },
     "clusterList": [
         {

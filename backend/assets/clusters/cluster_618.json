@@ -38,7 +38,10 @@
             "04:51",
             "05:01"
         ],
-        "label": "mary"
+        "label": {
+            "phrase": "lady by the sea",
+            "count": 6
+        }
     },
     "clusterList": [
         {

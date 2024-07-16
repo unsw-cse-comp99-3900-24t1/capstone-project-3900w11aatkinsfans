@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god damn it they got me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

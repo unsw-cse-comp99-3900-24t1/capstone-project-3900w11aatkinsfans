@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are protecting his interests",
+            "count": 1
+        }
     },
     "clusterList": [
         {

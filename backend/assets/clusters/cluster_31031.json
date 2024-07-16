@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not allowing idle time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

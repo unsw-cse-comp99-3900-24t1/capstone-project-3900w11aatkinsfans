@@ -10,7 +10,10 @@
             "03:42",
             "03:46"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when it's a group it's fine",
+            "count": 2
+        }
     },
     "clusterList": [
         {

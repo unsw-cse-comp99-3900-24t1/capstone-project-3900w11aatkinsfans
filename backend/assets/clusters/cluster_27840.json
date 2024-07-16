@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "east"
+        "label": {
+            "phrase": "east infection ep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

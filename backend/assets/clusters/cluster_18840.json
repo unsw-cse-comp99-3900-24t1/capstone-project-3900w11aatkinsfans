@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a fair and inclusive society",
+            "count": 1
+        }
     },
     "clusterList": [
         {

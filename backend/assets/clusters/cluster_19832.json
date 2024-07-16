@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "stop"
+        "label": {
+            "phrase": "stop vacuuming my crack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:16",
             "05:01"
         ],
-        "label": "journey"
+        "label": {
+            "phrase": "journey to the center of the earth",
+            "count": 3
+        }
     },
     "clusterList": [
         {

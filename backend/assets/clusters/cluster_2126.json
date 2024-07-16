@@ -18,7 +18,10 @@
             "03:22",
             "03:27"
         ],
-        "label": "online"
+        "label": {
+            "phrase": "online social networks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

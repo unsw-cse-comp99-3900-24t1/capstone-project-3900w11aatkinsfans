@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "time"
+        "label": {
+            "phrase": "time to see what you can really do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

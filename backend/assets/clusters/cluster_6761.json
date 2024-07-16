@@ -10,7 +10,10 @@
             "01:42",
             "04:15"
         ],
-        "label": "six"
+        "label": {
+            "phrase": "six pack of boh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

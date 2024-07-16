@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "swung"
+        "label": {
+            "phrase": "swung the other way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

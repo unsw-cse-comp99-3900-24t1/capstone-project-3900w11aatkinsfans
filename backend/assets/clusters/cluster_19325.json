@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no its not they need someone to help lead them through this battle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

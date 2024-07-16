@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "afp"
+        "label": {
+            "phrase": "afp user pass share vol",
+            "count": 1
+        }
     },
     "clusterList": [
         {

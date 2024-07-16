@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "yesterday"
+        "label": {
+            "phrase": "yesterday is a memory tomorrow is a mystery and",
+            "count": 1
+        }
     },
     "clusterList": [
         {

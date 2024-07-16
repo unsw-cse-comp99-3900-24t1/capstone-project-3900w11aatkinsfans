@@ -12,7 +12,10 @@
             "04:28",
             "04:31"
         ],
-        "label": "finger"
+        "label": {
+            "phrase": "finger switched again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

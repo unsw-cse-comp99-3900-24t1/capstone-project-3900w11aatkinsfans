@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "weigh"
+        "label": {
+            "phrase": "weigh in 02 07 07",
+            "count": 1
+        }
     },
     "clusterList": [
         {

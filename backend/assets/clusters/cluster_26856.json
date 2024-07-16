@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "community"
+        "label": {
+            "phrase": "community standards program",
+            "count": 1
+        }
     },
     "clusterList": [
         {

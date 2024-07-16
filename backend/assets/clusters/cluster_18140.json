@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "new"
+        "label": {
+            "phrase": "new claims for jobless benefits unexpectedly jumped 44 000 last week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

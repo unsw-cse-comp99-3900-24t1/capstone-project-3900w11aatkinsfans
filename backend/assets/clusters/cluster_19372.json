@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "heritage"
+        "label": {
+            "phrase": "heritage not hate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

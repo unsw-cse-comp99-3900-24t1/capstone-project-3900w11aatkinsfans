@@ -12,7 +12,10 @@
             "03:18",
             "05:00"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just come in and introduce yourself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "hell"
+        "label": {
+            "phrase": "hell is other people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

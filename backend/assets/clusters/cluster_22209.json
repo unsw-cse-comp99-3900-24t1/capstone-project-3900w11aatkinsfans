@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "31"
+        "label": {
+            "phrase": "31 days the crisis that gave us the government we have today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:40"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's been much higher than usual",
+            "count": 1
+        }
     },
     "clusterList": [
         {

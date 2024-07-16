@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you poop in the sandbox",
+            "count": 1
+        }
     },
     "clusterList": [
         {

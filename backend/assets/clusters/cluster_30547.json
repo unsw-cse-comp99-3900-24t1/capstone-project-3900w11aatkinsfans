@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "status"
+        "label": {
+            "phrase": "status of forces agreement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -96,7 +96,10 @@
             "05:02",
             "05:04"
         ],
-        "label": "reigh"
+        "label": {
+            "phrase": "i love the way you",
+            "count": 5
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:11"
         ],
-        "label": "minor"
+        "label": {
+            "phrase": "minor earth mayor sky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

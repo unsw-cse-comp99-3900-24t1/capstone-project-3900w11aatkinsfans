@@ -102,7 +102,10 @@
             "04:45",
             "04:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "how was it",
+            "count": 3
+        }
     },
     "clusterList": [
         {

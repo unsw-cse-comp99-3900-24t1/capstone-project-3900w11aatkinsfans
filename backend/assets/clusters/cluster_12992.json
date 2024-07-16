@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i just smiled and said if your food is nice i will surely come back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

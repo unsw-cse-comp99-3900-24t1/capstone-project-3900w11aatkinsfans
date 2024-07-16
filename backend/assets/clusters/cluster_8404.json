@@ -8,7 +8,10 @@
             "00:18",
             "03:50"
         ],
-        "label": "proclamation"
+        "label": {
+            "phrase": "proclamation of thanksgiving",
+            "count": 1
+        }
     },
     "clusterList": [
         {

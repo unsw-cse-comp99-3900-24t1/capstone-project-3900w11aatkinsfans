@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "god's"
+        "label": {
+            "phrase": "god's most wanted list",
+            "count": 1
+        }
     },
     "clusterList": [
         {

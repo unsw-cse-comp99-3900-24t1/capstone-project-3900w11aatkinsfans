@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all you see was a big old the whole store was filled with smoke",
+            "count": 1
+        }
     },
     "clusterList": [
         {

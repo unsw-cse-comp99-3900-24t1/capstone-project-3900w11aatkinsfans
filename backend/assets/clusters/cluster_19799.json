@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can take the john out of government service but you can't get government service out of john",
+            "count": 1
+        }
     },
     "clusterList": [
         {

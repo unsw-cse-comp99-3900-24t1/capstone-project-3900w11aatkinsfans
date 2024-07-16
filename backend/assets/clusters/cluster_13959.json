@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the bullwinkle moose show",
+            "count": 1
+        }
     },
     "clusterList": [
         {

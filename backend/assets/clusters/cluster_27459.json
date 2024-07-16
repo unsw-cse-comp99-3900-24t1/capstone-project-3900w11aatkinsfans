@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we never got a chance to explore that because we didn't get the information until the trial started",
+            "count": 1
+        }
     },
     "clusterList": [
         {

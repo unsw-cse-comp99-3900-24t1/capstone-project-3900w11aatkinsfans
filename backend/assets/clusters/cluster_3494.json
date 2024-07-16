@@ -14,7 +14,10 @@
             "01:24",
             "01:42"
         ],
-        "label": "cordial"
+        "label": {
+            "phrase": "cordial and friendly atmosphere",
+            "count": 3
+        }
     },
     "clusterList": [
         {

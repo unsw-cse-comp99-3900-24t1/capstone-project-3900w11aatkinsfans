@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "dump"
+        "label": {
+            "phrase": "dump grapes in and push start",
+            "count": 1
+        }
     },
     "clusterList": [
         {

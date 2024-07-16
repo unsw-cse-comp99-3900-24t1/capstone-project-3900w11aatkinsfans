@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "pray"
+        "label": {
+            "phrase": "pray for sherry she would pray for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

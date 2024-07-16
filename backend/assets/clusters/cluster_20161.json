@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every time you mess with it you feel like you are touching history",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "03:18",
             "04:31"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a bad dude",
+            "count": 1
+        }
     },
     "clusterList": [
         {

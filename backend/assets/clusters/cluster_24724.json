@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is such epic news and all i can think about is how fucking stupid twitter is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm glad ayumi helped me get all the flowers here she even got us dinner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

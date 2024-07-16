@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "faking"
+        "label": {
+            "phrase": "faking winners of competitions and deliberately conducting competitions unfairly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

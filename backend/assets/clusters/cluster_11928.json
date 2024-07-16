@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the man who wants to politely steal from gnu linux",
+            "count": 1
+        }
     },
     "clusterList": [
         {

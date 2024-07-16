@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can we listen to something else",
+            "count": 1
+        }
     },
     "clusterList": [
         {

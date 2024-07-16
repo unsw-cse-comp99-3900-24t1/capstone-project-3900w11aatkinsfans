@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i watch the grass grow it's more exciting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

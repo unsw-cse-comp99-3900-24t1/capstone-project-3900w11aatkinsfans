@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "chicken"
+        "label": {
+            "phrase": "chicken without sex life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:00",
             "00:18"
         ],
-        "label": "everyone's"
+        "label": {
+            "phrase": "everyone's been saying that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

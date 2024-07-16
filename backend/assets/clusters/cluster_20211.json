@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "canada"
+        "label": {
+            "phrase": "canada is going to be a french speaking nation from coast to coast and anyone who is opposed to it is opposed to the best interests of canada",
+            "count": 1
+        }
     },
     "clusterList": [
         {

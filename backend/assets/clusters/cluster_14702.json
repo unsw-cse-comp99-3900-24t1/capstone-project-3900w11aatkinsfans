@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have answered correctly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "stick"
+        "label": {
+            "phrase": "stick to it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "fuck"
+        "label": {
+            "phrase": "fuck me now on the bonnet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

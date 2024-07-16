@@ -6,7 +6,10 @@
         "xLabels": [
             "00:19"
         ],
-        "label": "colombo-bt"
+        "label": {
+            "phrase": "colombo-bt org was italy's version of the pirate bay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

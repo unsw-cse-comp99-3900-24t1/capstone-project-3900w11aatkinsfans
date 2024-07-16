@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "rally"
+        "label": {
+            "phrase": "rally at the riverwatch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

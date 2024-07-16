@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but the road race is a different scenario",
+            "count": 1
+        }
     },
     "clusterList": [
         {

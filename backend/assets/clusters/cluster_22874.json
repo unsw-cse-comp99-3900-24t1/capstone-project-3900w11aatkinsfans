@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "larry"
+        "label": {
+            "phrase": "larry penny said it's a raccoon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

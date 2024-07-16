@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an atheist did it an atheist did it an evil atheist attacked a christian church",
+            "count": 1
+        }
     },
     "clusterList": [
         {

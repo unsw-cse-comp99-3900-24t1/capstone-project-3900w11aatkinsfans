@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is the time you spend reading your bible or kneeling in prayer in comparison to time spent online",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he has sat at a lot of kitchen tables in this area doing his homework",
+            "count": 1
+        }
     },
     "clusterList": [
         {

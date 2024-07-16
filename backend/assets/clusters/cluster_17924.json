@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well maybe for your sake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

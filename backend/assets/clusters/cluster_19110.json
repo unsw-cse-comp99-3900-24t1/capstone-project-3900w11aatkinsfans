@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "france"
+        "label": {
+            "phrase": "france joined a coalition of the willing whose objective was to increase the pressure on m mandelson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

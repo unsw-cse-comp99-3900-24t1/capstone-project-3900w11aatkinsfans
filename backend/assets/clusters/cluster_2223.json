@@ -18,7 +18,10 @@
             "03:05",
             "04:00"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "music to a businessman's ears",
+            "count": 5
+        }
     },
     "clusterList": [
         {

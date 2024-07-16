@@ -48,7 +48,10 @@
             "05:01",
             "05:05"
         ],
-        "label": "black"
+        "label": {
+            "phrase": "black in america",
+            "count": 7
+        }
     },
     "clusterList": [
         {

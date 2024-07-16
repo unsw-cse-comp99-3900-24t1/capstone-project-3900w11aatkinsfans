@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh my gods terminator",
+            "count": 1
+        }
     },
     "clusterList": [
         {

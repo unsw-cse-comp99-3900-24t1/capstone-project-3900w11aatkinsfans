@@ -14,7 +14,10 @@
             "04:38",
             "04:50"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "ok we're holding the line",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:19",
             "01:51"
         ],
-        "label": "switch"
+        "label": {
+            "phrase": "switch to fusion",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "01:10",
             "01:15"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not going to mean the difference between getting the projects completed or not",
+            "count": 3
+        }
     },
     "clusterList": [
         {

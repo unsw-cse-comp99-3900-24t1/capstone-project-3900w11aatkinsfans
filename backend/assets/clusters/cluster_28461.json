@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not every os is a barn-burner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

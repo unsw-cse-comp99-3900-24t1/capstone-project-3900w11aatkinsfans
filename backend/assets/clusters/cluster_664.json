@@ -32,7 +32,10 @@
             "04:13",
             "04:50"
         ],
-        "label": "ask"
+        "label": {
+            "phrase": "meeting took place in the vice-president's office the subject was",
+            "count": 7
+        }
     },
     "clusterList": [
         {

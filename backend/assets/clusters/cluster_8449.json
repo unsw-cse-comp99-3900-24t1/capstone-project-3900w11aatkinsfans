@@ -8,7 +8,10 @@
             "00:19",
             "04:37"
         ],
-        "label": "run"
+        "label": {
+            "phrase": "run your car on water",
+            "count": 1
+        }
     },
     "clusterList": [
         {

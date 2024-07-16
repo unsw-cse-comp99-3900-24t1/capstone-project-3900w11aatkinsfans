@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes it's my purse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

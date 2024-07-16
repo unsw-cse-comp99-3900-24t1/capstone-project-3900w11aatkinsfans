@@ -8,7 +8,10 @@
             "03:43",
             "04:24"
         ],
-        "label": "atlassian"
+        "label": {
+            "phrase": "atlassian provides a maven proxy that contains all of the dependencies for all of our products",
+            "count": 2
+        }
     },
     "clusterList": [
         {

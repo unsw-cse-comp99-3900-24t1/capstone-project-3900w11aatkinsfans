@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "relay"
+        "label": {
+            "phrase": "relay for life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

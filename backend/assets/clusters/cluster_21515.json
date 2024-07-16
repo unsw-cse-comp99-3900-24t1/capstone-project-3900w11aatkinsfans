@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who are you to judge what i think they mean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

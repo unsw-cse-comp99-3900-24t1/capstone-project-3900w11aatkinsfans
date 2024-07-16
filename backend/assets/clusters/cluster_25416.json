@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what happens in vegas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

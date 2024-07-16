@@ -8,7 +8,10 @@
             "00:53",
             "02:28"
         ],
-        "label": "checking"
+        "label": {
+            "phrase": "check the argument of i",
+            "count": 2
+        }
     },
     "clusterList": [
         {

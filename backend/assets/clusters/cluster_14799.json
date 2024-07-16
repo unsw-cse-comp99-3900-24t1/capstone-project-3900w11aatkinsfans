@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "freak"
+        "label": {
+            "phrase": "freak out everybody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

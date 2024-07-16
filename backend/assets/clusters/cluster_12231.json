@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please scan my first item and place it in the bagging area",
+            "count": 1
+        }
     },
     "clusterList": [
         {

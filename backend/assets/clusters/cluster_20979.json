@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the friends of sayen a not-for-profit 501c3 corporation run the house and we paid 400 to have our event there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "taking"
+        "label": {
+            "phrase": "taking the holy water",
+            "count": 1
+        }
     },
     "clusterList": [
         {

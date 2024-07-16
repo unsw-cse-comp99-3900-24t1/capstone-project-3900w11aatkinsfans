@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "roll"
+        "label": {
+            "phrase": "roll down the window",
+            "count": 1
+        }
     },
     "clusterList": [
         {

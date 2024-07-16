@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and no more happiness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

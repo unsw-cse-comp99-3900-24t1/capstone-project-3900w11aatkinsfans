@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some of those have been fairly sweeping however we've done nothing of this length before and nothing this comprehensive before",
+            "count": 1
+        }
     },
     "clusterList": [
         {

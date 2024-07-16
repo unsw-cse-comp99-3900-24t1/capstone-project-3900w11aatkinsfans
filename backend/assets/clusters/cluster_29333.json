@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "maybe"
+        "label": {
+            "phrase": "maybe it'll tell us more about what was going on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

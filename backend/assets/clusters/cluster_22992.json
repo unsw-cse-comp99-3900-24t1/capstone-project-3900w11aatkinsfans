@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two little buddies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

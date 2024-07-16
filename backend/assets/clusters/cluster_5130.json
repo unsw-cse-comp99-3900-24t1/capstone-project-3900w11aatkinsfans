@@ -6,7 +6,10 @@
         "xLabels": [
             "02:34"
         ],
-        "label": "mom"
+        "label": {
+            "phrase": "mom dad the ice cream man he's outside",
+            "count": 1
+        }
     },
     "clusterList": [
         {

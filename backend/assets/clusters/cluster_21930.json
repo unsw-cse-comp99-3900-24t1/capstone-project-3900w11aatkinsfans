@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "think"
+        "label": {
+            "phrase": "think outside of the box",
+            "count": 1
+        }
     },
     "clusterList": [
         {

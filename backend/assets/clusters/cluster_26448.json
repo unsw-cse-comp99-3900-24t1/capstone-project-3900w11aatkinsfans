@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "trey"
+        "label": {
+            "phrase": "trey is busy all you've got is me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

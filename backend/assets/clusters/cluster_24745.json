@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "ick"
+        "label": {
+            "phrase": "ick almost no heat what-so-ever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

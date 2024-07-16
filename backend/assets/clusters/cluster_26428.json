@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's cool but it opens them up to attacks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

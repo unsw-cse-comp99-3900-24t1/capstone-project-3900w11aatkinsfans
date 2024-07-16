@@ -8,7 +8,10 @@
             "00:20",
             "00:28"
         ],
-        "label": "read"
+        "label": {
+            "phrase": "read the fucking manual",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm working a cold case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

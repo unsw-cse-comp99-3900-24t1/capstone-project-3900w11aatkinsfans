@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how much of yourself is in the book",
+            "count": 1
+        }
     },
     "clusterList": [
         {

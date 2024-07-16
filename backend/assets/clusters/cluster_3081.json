@@ -16,7 +16,10 @@
             "03:18",
             "04:18"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey let's catch up and talk about old times",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't see why not it's not like you need to be here is it you could be anything journalist teacher",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:57"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on the other hand mr hitler says",
+            "count": 1
+        }
     },
     "clusterList": [
         {

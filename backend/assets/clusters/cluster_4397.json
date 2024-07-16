@@ -12,7 +12,10 @@
             "01:00",
             "02:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i will kick your ass",
+            "count": 1
+        }
     },
     "clusterList": [
         {

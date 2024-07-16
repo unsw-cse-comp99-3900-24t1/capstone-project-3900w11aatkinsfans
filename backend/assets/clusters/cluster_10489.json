@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "make"
+        "label": {
+            "phrase": "make it wit chu",
+            "count": 2
+        }
     },
     "clusterList": [
         {

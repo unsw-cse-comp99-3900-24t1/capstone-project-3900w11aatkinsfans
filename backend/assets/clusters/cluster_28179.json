@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it appears we're the first in bristol county",
+            "count": 1
+        }
     },
     "clusterList": [
         {

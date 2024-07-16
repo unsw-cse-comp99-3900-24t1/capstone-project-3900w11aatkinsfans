@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "try"
+        "label": {
+            "phrase": "try and find something chelsie can't do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

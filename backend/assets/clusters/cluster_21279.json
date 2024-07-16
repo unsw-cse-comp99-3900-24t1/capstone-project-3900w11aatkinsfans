@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you a participant or are you an observer that's what i liked in the story",
+            "count": 1
+        }
     },
     "clusterList": [
         {

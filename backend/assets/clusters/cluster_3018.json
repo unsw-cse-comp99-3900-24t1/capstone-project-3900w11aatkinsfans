@@ -12,7 +12,10 @@
             "03:05",
             "04:58"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every kid that plays hockey wants to make it in the nhl",
+            "count": 1
+        }
     },
     "clusterList": [
         {

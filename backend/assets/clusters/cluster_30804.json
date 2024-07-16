@@ -6,7 +6,10 @@
         "xLabels": [
             "04:58"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole thing has been spun around",
+            "count": 1
+        }
     },
     "clusterList": [
         {

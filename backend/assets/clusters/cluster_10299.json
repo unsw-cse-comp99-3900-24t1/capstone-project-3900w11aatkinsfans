@@ -8,7 +8,10 @@
             "01:37",
             "03:46"
         ],
-        "label": "detection"
+        "label": {
+            "phrase": "detection of liquid ethane in ontario lacus confirms a long-held idea that lakes and seas filled with methane and ethane exist on titan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

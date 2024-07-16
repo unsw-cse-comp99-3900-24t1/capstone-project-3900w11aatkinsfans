@@ -8,7 +8,10 @@
             "01:20",
             "02:42"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "had a disagreement the night before",
+            "count": 2
+        }
     },
     "clusterList": [
         {

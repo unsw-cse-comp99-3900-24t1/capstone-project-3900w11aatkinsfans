@@ -8,7 +8,10 @@
             "01:10",
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the satellite dish",
+            "count": 1
+        }
     },
     "clusterList": [
         {

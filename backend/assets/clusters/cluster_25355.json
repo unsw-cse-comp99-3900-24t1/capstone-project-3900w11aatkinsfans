@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "whoa"
+        "label": {
+            "phrase": "whoa it's morning already powder's gonna be worried about me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

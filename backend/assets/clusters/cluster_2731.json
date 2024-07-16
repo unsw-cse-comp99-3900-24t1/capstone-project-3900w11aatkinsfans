@@ -18,7 +18,10 @@
             "04:18",
             "04:59"
         ],
-        "label": "inscribed"
+        "label": {
+            "phrase": "the red canvas",
+            "count": 2
+        }
     },
     "clusterList": [
         {

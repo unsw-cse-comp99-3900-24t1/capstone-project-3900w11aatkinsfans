@@ -10,7 +10,10 @@
             "01:33",
             "04:21"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the first task is to flesh out that outline",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he has already done the footwork",
+            "count": 1
+        }
     },
     "clusterList": [
         {

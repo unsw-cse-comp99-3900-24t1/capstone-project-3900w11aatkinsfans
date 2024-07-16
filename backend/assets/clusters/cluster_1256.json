@@ -20,7 +20,10 @@
             "04:10",
             "04:24"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "the four horseman",
+            "count": 3
+        }
     },
     "clusterList": [
         {

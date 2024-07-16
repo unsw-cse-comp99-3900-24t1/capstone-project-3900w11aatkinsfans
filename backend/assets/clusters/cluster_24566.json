@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "serum"
+        "label": {
+            "phrase": "serum potassium level and dietary potassium intake as risk factors for stroke",
+            "count": 1
+        }
     },
     "clusterList": [
         {

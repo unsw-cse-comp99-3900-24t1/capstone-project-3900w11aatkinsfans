@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "leaning"
+        "label": {
+            "phrase": "leaning democratic retention",
+            "count": 2
+        }
     },
     "clusterList": [
         {

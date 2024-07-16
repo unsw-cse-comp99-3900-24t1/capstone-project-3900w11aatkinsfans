@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the control of candy jones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

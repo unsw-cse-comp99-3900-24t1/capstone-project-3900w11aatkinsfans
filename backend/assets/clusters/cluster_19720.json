@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's like a workout having a conversation with you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

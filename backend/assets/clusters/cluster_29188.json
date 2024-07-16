@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the insurance industry is going to profit from the cameras",
+            "count": 1
+        }
     },
     "clusterList": [
         {

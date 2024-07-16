@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people like us shouldn't even be here this is bullshit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

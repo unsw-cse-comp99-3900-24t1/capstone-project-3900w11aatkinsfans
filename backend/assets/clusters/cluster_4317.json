@@ -14,7 +14,10 @@
             "04:05",
             "04:15"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take it where you can get it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

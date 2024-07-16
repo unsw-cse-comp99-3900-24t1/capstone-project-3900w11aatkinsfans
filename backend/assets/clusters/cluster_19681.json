@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "cuts"
+        "label": {
+            "phrase": "cuts and commissions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

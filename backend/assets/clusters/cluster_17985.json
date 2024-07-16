@@ -6,7 +6,10 @@
         "xLabels": [
             "01:08"
         ],
-        "label": "appropriate"
+        "label": {
+            "phrase": "appropriate and correct",
+            "count": 1
+        }
     },
     "clusterList": [
         {

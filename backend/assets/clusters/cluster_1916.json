@@ -20,7 +20,10 @@
             "04:42",
             "05:01"
         ],
-        "label": "surgery"
+        "label": {
+            "phrase": "it was an extremely difficult decision you know you never want to abandon patients",
+            "count": 3
+        }
     },
     "clusterList": [
         {

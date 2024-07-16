@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "congratulations"
+        "label": {
+            "phrase": "congratulations to our washington team and all aed members who have worked on this issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

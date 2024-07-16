@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is tuna red because of carbon monoxide",
+            "count": 1
+        }
     },
     "clusterList": [
         {

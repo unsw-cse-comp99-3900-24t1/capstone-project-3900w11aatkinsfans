@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "blood"
+        "label": {
+            "phrase": "blood donations have decreased so we are launching the donate blood advertisements to urge the younger generations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

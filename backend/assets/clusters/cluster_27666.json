@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the way of the shahids is our way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

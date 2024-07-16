@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's half past nine and that bloody alien isn't here yet what if he forgot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

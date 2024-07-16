@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "begs"
+        "label": {
+            "phrase": "begs the question",
+            "count": 1
+        }
     },
     "clusterList": [
         {

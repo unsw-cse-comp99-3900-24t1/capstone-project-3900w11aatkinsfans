@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where the wild things are",
+            "count": 1
+        }
     },
     "clusterList": [
         {

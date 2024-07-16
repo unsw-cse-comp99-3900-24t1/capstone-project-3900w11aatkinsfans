@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a prominent basketball power in the pacific northwest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you telling me this is legal to sell on the newsstands",
+            "count": 1
+        }
     },
     "clusterList": [
         {

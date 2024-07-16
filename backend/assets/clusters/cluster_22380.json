@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now limit their shopping to only one day a week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

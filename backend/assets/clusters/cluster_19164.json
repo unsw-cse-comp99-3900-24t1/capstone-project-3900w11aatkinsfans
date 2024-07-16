@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "alternatives"
+        "label": {
+            "phrase": "alternatives to custody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

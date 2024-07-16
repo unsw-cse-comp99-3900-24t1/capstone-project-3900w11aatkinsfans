@@ -6,7 +6,10 @@
         "xLabels": [
             "01:21"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we consider that post not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

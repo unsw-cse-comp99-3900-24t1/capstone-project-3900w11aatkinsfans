@@ -32,7 +32,10 @@
             "04:45",
             "04:56"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what do you mean",
+            "count": 9
+        }
     },
     "clusterList": [
         {

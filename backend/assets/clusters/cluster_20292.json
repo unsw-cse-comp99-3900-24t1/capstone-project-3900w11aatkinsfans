@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your dna strand is empty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

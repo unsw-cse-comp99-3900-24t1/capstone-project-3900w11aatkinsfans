@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "officers"
+        "label": {
+            "phrase": "officers are on 24 hour on duty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

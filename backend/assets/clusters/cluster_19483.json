@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "knocks"
+        "label": {
+            "phrase": "knocks the price to 17",
+            "count": 1
+        }
     },
     "clusterList": [
         {

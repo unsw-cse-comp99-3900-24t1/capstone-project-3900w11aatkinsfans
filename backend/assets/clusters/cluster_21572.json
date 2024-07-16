@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "scaling"
+        "label": {
+            "phrase": "scaling the derry wall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

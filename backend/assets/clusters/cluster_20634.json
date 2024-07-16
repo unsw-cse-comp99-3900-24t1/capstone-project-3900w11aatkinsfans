@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "changing"
+        "label": {
+            "phrase": "changing of the guard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

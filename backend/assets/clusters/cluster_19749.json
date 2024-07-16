@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm wondering how lucrative my five-star hotel will be on mount doom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

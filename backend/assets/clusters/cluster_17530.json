@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's beyond expectations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

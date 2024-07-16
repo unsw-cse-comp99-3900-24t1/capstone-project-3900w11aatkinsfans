@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the ultimate in retaliation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

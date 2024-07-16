@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "even"
+        "label": {
+            "phrase": "even more treacherous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

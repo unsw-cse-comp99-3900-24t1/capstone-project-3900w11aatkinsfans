@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "trolling"
+        "label": {
+            "phrase": "trolling is basically internet eugenics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

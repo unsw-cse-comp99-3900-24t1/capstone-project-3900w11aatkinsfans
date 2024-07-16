@@ -6,7 +6,10 @@
         "xLabels": [
             "02:37"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is why i read bizzy blog he catches the stuff that i manage to miss",
+            "count": 1
+        }
     },
     "clusterList": [
         {

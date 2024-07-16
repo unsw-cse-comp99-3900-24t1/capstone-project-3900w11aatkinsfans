@@ -28,7 +28,10 @@
             "04:32",
             "05:05"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not in my backyard",
+            "count": 5
+        }
     },
     "clusterList": [
         {

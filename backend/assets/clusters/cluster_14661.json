@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "mirror"
+        "label": {
+            "phrase": "mirror mirror on the wall i have become my mother after all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

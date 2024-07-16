@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "shopping"
+        "label": {
+            "phrase": "shopping for god",
+            "count": 1
+        }
     },
     "clusterList": [
         {

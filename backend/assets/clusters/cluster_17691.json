@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "easy"
+        "label": {
+            "phrase": "easy to ignore because it is parody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "dude"
+        "label": {
+            "phrase": "dude did i hear smething",
+            "count": 1
+        }
     },
     "clusterList": [
         {

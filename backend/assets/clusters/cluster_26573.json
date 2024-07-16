@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "instructions"
+        "label": {
+            "phrase": "instructions for using and servicing the rapid omega 200",
+            "count": 1
+        }
     },
     "clusterList": [
         {

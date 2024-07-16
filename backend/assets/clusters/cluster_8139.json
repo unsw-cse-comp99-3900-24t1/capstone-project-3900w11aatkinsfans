@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're simply full of shit",
+            "count": 2
+        }
     },
     "clusterList": [
         {

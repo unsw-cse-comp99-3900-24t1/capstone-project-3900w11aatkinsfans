@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we need to sunset it so the folks know you don't want to do this permanently forever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

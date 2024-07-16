@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey lance was telling me about this job at the hospital they charge you nine dollars an hour",
+            "count": 1
+        }
     },
     "clusterList": [
         {

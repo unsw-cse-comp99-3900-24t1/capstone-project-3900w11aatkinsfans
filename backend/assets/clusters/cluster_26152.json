@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "rejects"
+        "label": {
+            "phrase": "rejects the null hypothesis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

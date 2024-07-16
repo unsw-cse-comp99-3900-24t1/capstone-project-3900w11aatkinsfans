@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "doesn't"
+        "label": {
+            "phrase": "doesn't fit the profile of the al-qaida elite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

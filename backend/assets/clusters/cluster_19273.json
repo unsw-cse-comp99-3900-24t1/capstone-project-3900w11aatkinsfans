@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "transport"
+        "label": {
+            "phrase": "transport for london remains confident in the security of the oyster card system",
+            "count": 1
+        }
     },
     "clusterList": [
         {

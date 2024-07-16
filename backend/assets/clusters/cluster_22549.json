@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "buffet"
+        "label": {
+            "phrase": "buffet pressed to dump chief of general re",
+            "count": 1
+        }
     },
     "clusterList": [
         {

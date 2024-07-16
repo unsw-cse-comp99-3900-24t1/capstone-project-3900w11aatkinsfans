@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't be fooled by martin's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

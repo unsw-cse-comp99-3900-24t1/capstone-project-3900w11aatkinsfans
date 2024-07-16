@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "libdir"
+        "label": {
+            "phrase": "libdir loadlanguage php",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "being"
+        "label": {
+            "phrase": "being a farmer is like you are being shot at plus getting kicked repeatedly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

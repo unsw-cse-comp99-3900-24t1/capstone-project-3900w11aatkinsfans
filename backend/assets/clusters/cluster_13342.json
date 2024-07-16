@@ -6,7 +6,10 @@
         "xLabels": [
             "00:09"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some people need that push that extra push",
+            "count": 1
+        }
     },
     "clusterList": [
         {

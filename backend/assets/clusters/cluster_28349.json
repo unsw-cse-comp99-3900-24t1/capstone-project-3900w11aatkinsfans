@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "larry"
+        "label": {
+            "phrase": "larry townsend anthology",
+            "count": 1
+        }
     },
     "clusterList": [
         {

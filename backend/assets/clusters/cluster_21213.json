@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "without"
+        "label": {
+            "phrase": "without the umbrella",
+            "count": 1
+        }
     },
     "clusterList": [
         {

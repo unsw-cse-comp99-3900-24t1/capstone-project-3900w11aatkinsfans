@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's on the front cover of every tabloid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

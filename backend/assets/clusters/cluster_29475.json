@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "walk"
+        "label": {
+            "phrase": "walk a mile in these shoes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:41"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in china a scientist saw a three-dimensional picture of a spherical fossil inside a rock and told me it's like seeing the backside of the moon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

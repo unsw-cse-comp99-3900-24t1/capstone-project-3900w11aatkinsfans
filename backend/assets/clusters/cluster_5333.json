@@ -10,7 +10,10 @@
             "04:01",
             "04:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pattern is different so you have to look and think and find and grab while your doing the obsticle",
+            "count": 3
+        }
     },
     "clusterList": [
         {

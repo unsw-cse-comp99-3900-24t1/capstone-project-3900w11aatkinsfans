@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the average guy",
+            "count": 2
+        }
     },
     "clusterList": [
         {

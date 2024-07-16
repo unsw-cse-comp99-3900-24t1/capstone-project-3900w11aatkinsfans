@@ -10,7 +10,10 @@
             "02:39",
             "02:43"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the basketball diaries",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:20",
             "04:04"
         ],
-        "label": "something"
+        "label": {
+            "phrase": "something for all of us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

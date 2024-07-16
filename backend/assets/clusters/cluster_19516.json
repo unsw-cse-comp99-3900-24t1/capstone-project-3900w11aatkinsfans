@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the corner of the house has just been sheared off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

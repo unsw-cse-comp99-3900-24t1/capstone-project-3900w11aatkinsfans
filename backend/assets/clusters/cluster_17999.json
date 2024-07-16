@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "rear"
+        "label": {
+            "phrase": "rear differential system",
+            "count": 1
+        }
     },
     "clusterList": [
         {

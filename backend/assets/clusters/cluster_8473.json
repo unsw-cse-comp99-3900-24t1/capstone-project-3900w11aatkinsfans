@@ -8,7 +8,10 @@
             "00:20",
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the making of part 2",
+            "count": 2
+        }
     },
     "clusterList": [
         {

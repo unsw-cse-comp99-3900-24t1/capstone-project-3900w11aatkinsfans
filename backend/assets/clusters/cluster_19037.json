@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "jack"
+        "label": {
+            "phrase": "jack mccabe ceo of mccabe research and consulting said builders in st",
+            "count": 1
+        }
     },
     "clusterList": [
         {

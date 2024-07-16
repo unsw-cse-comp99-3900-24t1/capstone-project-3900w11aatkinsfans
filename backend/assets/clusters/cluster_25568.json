@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "harmonious"
+        "label": {
+            "phrase": "harmonious community of fellow mac users",
+            "count": 1
+        }
     },
     "clusterList": [
         {

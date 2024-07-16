@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "stepping"
+        "label": {
+            "phrase": "stepping over the lines advice for the forlorn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

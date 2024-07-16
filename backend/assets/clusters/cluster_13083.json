@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "public"
+        "label": {
+            "phrase": "public safety ministry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

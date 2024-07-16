@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a leaked discussion paper",
+            "count": 1
+        }
     },
     "clusterList": [
         {

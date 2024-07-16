@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the content industry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

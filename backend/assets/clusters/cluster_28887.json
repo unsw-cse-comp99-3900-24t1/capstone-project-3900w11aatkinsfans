@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "legends"
+        "label": {
+            "phrase": "legends is beautiful really nice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i guess that's why boxing floors are suspended and padded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

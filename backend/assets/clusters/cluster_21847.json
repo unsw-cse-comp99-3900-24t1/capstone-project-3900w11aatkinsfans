@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "wipe"
+        "label": {
+            "phrase": "wipe the slate clean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

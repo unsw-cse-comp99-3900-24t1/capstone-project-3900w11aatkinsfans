@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "power"
+        "label": {
+            "phrase": "power market profile south korea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

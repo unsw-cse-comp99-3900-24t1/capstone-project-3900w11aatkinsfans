@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "cats"
+        "label": {
+            "phrase": "cats usually groom all the time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

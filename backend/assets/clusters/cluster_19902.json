@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we should be in connection with others at all times and respond to them immediately",
+            "count": 1
+        }
     },
     "clusterList": [
         {

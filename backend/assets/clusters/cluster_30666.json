@@ -6,7 +6,10 @@
         "xLabels": [
             "04:54"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "another rodney king",
+            "count": 1
+        }
     },
     "clusterList": [
         {

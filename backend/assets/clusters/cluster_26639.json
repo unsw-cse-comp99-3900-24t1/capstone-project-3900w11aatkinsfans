@@ -6,7 +6,10 @@
         "xLabels": [
             "03:47"
         ],
-        "label": "water"
+        "label": {
+            "phrase": "water makes metal rusts so imagine what it can do in a stomach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

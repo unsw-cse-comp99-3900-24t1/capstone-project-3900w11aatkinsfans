@@ -6,7 +6,10 @@
         "xLabels": [
             "01:59"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have both been very clear on that issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't eat paper",
+            "count": 1
+        }
     },
     "clusterList": [
         {

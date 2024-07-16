@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "loving"
+        "label": {
+            "phrase": "loving the alien",
+            "count": 1
+        }
     },
     "clusterList": [
         {

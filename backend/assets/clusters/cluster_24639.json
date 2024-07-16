@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "suicide"
+        "label": {
+            "phrase": "suicide getting it right the first time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

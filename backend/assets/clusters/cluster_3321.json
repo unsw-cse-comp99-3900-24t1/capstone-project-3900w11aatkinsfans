@@ -14,7 +14,10 @@
             "03:06",
             "03:32"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of those days",
+            "count": 2
+        }
     },
     "clusterList": [
         {

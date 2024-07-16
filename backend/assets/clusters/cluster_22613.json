@@ -6,7 +6,10 @@
         "xLabels": [
             "02:26"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the execution meter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "sometimes"
+        "label": {
+            "phrase": "sometimes people in a company like to play company setting up processes for no reason",
+            "count": 1
+        }
     },
     "clusterList": [
         {

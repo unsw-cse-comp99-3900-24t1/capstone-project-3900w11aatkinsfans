@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "free"
+        "label": {
+            "phrase": "free password reveal tool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

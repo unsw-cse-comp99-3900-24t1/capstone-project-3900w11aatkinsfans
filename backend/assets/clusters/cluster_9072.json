@@ -8,7 +8,10 @@
             "00:48",
             "01:32"
         ],
-        "label": "smokey"
+        "label": {
+            "phrase": "smokey joe's caf",
+            "count": 2
+        }
     },
     "clusterList": [
         {

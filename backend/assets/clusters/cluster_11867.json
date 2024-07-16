@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "horticulture"
+        "label": {
+            "phrase": "horticulture for humanity",
+            "count": 2
+        }
     },
     "clusterList": [
         {

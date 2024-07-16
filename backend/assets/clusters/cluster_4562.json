@@ -10,7 +10,10 @@
             "02:47",
             "04:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the last two games have been really bad",
+            "count": 2
+        }
     },
     "clusterList": [
         {

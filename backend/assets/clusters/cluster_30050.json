@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "yee"
+        "label": {
+            "phrase": "yee with the most tweets wins",
+            "count": 1
+        }
     },
     "clusterList": [
         {

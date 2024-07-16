@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "straight"
+        "label": {
+            "phrase": "straight from the projects",
+            "count": 2
+        }
     },
     "clusterList": [
         {

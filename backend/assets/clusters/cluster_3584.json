@@ -12,7 +12,10 @@
             "03:22",
             "04:04"
         ],
-        "label": "completeness"
+        "label": {
+            "phrase": "completeness of vision",
+            "count": 2
+        }
     },
     "clusterList": [
         {

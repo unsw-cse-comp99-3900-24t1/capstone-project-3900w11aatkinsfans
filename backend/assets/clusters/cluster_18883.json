@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to bring together in a radiant union all the qualities which guide mankind to perfection",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -36,7 +36,10 @@
             "03:50",
             "04:27"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "the attack is going to work best wherever you leave yourself logged in for long periods of time",
+            "count": 7
+        }
     },
     "clusterList": [
         {

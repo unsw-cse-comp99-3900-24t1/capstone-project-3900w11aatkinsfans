@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "by"
+        "label": {
+            "phrase": "by passing the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

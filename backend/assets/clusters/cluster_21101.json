@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "ultimately"
+        "label": {
+            "phrase": "ultimately we'll find these things out but this just puts another hurdle in our way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

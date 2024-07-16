@@ -12,7 +12,10 @@
             "04:50",
             "05:04"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "the threshold for inclusion in wikipedia is",
+            "count": 3
+        }
     },
     "clusterList": [
         {

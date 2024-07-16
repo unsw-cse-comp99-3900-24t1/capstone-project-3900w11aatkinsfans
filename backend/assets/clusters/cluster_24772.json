@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the centre for wound care and hyperbaric medicine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "00:46",
             "03:18"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i am not in the room he sits on the floor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

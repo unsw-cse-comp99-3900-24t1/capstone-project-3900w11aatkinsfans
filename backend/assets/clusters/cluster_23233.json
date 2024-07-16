@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "right"
+        "label": {
+            "phrase": "right this was fruitful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

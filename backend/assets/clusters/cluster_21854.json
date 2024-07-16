@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "insect"
+        "label": {
+            "phrase": "insect awards night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

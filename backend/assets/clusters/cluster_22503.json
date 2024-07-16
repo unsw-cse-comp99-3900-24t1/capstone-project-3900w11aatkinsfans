@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "follow"
+        "label": {
+            "phrase": "follow the sound of the screams",
+            "count": 1
+        }
     },
     "clusterList": [
         {

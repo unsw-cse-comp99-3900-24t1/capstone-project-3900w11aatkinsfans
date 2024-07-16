@@ -20,7 +20,10 @@
             "03:05",
             "03:46"
         ],
-        "label": "2"
+        "label": {
+            "phrase": "time and temperature",
+            "count": 2
+        }
     },
     "clusterList": [
         {

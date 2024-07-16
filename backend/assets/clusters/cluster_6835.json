@@ -10,7 +10,10 @@
             "01:52",
             "03:41"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is particularly disturbing here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

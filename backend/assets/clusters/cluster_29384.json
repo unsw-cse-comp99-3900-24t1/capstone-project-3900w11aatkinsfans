@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i was just interested in it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

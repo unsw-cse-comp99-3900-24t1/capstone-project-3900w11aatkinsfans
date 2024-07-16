@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the person i like is you junichi",
+            "count": 1
+        }
     },
     "clusterList": [
         {

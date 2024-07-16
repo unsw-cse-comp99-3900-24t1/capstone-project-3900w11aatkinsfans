@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you can't say something good about someone sit right here by me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

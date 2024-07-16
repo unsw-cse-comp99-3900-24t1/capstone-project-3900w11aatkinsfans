@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my dinner with mr townsend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

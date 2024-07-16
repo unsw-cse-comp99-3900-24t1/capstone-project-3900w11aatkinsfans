@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "fruit"
+        "label": {
+            "phrase": "fruit of the poison tree",
+            "count": 2
+        }
     },
     "clusterList": [
         {

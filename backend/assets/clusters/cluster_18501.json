@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the power of steel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

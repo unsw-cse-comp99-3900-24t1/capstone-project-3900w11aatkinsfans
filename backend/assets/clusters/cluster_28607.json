@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people used to say needham was a meat-and-potatoes town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

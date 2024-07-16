@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "many"
+        "label": {
+            "phrase": "many colleagues are distressed by",
+            "count": 1
+        }
     },
     "clusterList": [
         {

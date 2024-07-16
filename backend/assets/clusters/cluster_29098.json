@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've got spotters on us tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -64,7 +64,10 @@
             "04:33",
             "05:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "dancing with the stars",
+            "count": 9
+        }
     },
     "clusterList": [
         {

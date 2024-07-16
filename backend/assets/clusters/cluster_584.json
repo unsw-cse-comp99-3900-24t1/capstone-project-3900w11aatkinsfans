@@ -32,7 +32,10 @@
             "04:06",
             "04:24"
         ],
-        "label": "dreams"
+        "label": {
+            "phrase": "dreams from my father",
+            "count": 2
+        }
     },
     "clusterList": [
         {

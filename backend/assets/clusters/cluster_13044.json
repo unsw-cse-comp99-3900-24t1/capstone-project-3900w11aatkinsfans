@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the home secretary briefs the forces of law and order",
+            "count": 1
+        }
     },
     "clusterList": [
         {

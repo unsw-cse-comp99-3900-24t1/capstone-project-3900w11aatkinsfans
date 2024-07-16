@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the controversy over fat princess",
+            "count": 1
+        }
     },
     "clusterList": [
         {

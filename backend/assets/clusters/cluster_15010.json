@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "share"
+        "label": {
+            "phrase": "share the road same roads same rights same rules",
+            "count": 1
+        }
     },
     "clusterList": [
         {

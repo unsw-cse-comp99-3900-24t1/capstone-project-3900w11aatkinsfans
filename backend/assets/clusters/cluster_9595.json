@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are always crane accidents occurring the issue is you don't hear about them",
+            "count": 2
+        }
     },
     "clusterList": [
         {

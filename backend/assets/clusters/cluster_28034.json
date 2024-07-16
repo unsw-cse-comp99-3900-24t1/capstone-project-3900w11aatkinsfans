@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those who must be excluded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

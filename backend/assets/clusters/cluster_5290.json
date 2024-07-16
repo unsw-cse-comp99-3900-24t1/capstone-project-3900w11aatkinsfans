@@ -12,7 +12,10 @@
             "04:08",
             "04:24"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one and done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

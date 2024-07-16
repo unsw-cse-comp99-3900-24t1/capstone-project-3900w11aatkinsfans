@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "mercer"
+        "label": {
+            "phrase": "mercer county male",
+            "count": 2
+        }
     },
     "clusterList": [
         {

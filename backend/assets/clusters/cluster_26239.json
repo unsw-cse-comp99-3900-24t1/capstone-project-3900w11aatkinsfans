@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a puma was spotted near college park maryland",
+            "count": 1
+        }
     },
     "clusterList": [
         {

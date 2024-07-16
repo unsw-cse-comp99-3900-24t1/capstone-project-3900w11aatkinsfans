@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "npr"
+        "label": {
+            "phrase": "npr eat your heart out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

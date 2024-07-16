@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "by"
+        "label": {
+            "phrase": "by the way i heard this from a call-in on c-span and have not directly checked this out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

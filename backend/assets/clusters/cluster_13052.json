@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "consumers"
+        "label": {
+            "phrase": "consumers just don't have the time or the desire to do this level of research",
+            "count": 1
+        }
     },
     "clusterList": [
         {

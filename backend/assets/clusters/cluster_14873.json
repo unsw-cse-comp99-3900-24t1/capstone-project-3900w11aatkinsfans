@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why can't i see my nose",
+            "count": 1
+        }
     },
     "clusterList": [
         {

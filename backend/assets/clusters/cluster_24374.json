@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "nuts"
+        "label": {
+            "phrase": "nuts and bolts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

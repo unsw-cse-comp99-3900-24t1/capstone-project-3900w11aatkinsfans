@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what happened to christopher hitchens",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "number"
+        "label": {
+            "phrase": "number of pages edited",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -106,7 +106,10 @@
             "05:01",
             "05:04"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "p laintiffs unreasonably rejected or sought to suppress evidence to the extent it tended to exonerate defendant",
+            "count": 16
+        }
     },
     "clusterList": [
         {

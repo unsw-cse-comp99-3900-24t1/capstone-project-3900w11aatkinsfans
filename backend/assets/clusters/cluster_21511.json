@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "national"
+        "label": {
+            "phrase": "national aeronautics and space act",
+            "count": 1
+        }
     },
     "clusterList": [
         {

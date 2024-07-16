@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "guess"
+        "label": {
+            "phrase": "guess that fish oil is working huh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -46,7 +46,10 @@
             "04:50",
             "04:55"
         ],
-        "label": "big"
+        "label": {
+            "phrase": "generally speaking the city has to put more pedestrian",
+            "count": 5
+        }
     },
     "clusterList": [
         {

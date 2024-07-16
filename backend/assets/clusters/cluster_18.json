@@ -184,7 +184,10 @@
             "05:04",
             "05:05"
         ],
-        "label": "harry"
+        "label": {
+            "phrase": "the dark knight",
+            "count": 75
+        }
     },
     "clusterList": [
         {

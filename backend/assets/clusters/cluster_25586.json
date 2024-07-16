@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "beer"
+        "label": {
+            "phrase": "beer is my passion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ramsay street of brunswick",
+            "count": 1
+        }
     },
     "clusterList": [
         {

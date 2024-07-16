@@ -44,7 +44,10 @@
             "03:24",
             "04:56"
         ],
-        "label": "birds"
+        "label": {
+            "phrase": "they act like a pack of wolves",
+            "count": 13
+        }
     },
     "clusterList": [
         {

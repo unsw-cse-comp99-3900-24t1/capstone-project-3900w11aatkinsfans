@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "add"
+        "label": {
+            "phrase": "add to the world of bioshock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which now has an unpalatable and distinctly post-victorian flavor for many",
+            "count": 1
+        }
     },
     "clusterList": [
         {

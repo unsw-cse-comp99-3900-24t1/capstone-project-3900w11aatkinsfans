@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "best"
+        "label": {
+            "phrase": "best interactive score",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "cut"
+        "label": {
+            "phrase": "cut back on the csi spaz",
+            "count": 1
+        }
     },
     "clusterList": [
         {

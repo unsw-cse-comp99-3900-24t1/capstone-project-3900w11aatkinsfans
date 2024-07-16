@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've read so many reports of things that were so promising and then we go and talk to the neurologist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:32",
             "02:39"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you are contacted directly by the ig's office or gao requesting information of any kind please do not respond to questions or make any statements",
+            "count": 3
+        }
     },
     "clusterList": [
         {

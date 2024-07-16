@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this was during my first two months in the political security jail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

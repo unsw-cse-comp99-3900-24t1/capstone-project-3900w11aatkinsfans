@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good clean family fun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

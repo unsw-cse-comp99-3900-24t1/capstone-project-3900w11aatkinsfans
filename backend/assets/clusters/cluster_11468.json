@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "isapproved"
+        "label": {
+            "phrase": "isapproved issubscriber customerid",
+            "count": 2
+        }
     },
     "clusterList": [
         {

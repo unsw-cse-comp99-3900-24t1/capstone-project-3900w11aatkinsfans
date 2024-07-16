@@ -6,7 +6,10 @@
         "xLabels": [
             "00:45"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once you're happy with your final result you'll need to save the video in a format that youtube can accept in order to upload unless you're a professional video producer we recommend that you save your videos as either quicktime mov windows avi or mpg files these are the most common formats and they work well within our system we specifically recommend the mpeg4 divx xvid format at 640x480 resolution with mp3 audio resizing your video to these specifications before uploading will help your clips look better on youtube",
+            "count": 1
+        }
     },
     "clusterList": [
         {

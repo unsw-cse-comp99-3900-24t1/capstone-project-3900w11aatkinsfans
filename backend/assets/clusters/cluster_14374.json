@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "tiger"
+        "label": {
+            "phrase": "tiger by the tail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

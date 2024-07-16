@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "marine"
+        "label": {
+            "phrase": "marine finfish 45k cached similar pages",
+            "count": 1
+        }
     },
     "clusterList": [
         {

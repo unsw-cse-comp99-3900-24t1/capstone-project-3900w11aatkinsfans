@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the kind of conversation that's going on at cocktail parties at swimming pools",
+            "count": 1
+        }
     },
     "clusterList": [
         {

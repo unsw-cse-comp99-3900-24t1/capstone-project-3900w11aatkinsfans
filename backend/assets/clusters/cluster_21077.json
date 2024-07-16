@@ -6,7 +6,10 @@
         "xLabels": [
             "01:59"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've had a good summer and this is the first time since i've been here that everyone has put everything they have into going to a bowl game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

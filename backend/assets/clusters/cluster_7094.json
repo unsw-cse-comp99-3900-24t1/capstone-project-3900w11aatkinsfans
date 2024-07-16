@@ -8,7 +8,10 @@
             "02:42",
             "03:23"
         ],
-        "label": "earth"
+        "label": {
+            "phrase": "earth impact footprint",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "xbox"
+        "label": {
+            "phrase": "xbox 360 controller jammed into dual shock shell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

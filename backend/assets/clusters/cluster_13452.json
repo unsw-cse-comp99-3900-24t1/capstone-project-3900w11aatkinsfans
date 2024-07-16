@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm so bored with the usa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

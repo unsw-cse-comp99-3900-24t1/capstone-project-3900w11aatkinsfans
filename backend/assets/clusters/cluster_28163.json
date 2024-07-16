@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "many"
+        "label": {
+            "phrase": "many inmates are upset with their situation and don't know which way to turn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

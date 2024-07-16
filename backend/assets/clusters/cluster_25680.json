@@ -6,7 +6,10 @@
         "xLabels": [
             "03:26"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why study philosophy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

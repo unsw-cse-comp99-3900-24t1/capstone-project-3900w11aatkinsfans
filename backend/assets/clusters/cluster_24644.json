@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "joined"
+        "label": {
+            "phrase": "joined some mlm company",
+            "count": 1
+        }
     },
     "clusterList": [
         {

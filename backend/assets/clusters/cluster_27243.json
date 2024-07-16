@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "dunhill-smoking"
+        "label": {
+            "phrase": "dunhill-smoking williamsburg hipster",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if a company that professes to value confidentiality and discretion is prepared to send such an indiscreet email to an unknown journalist",
+            "count": 2
+        }
     },
     "clusterList": [
         {

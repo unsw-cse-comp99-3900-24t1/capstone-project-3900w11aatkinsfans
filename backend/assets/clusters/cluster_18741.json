@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when you're dealing with apocalyptic weapons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

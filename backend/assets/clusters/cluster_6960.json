@@ -10,7 +10,10 @@
             "03:05",
             "03:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole picture",
+            "count": 1
+        }
     },
     "clusterList": [
         {

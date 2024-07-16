@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you help me i have lost my pen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

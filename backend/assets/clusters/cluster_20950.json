@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "titania's"
+        "label": {
+            "phrase": "titania's number 8",
+            "count": 1
+        }
     },
     "clusterList": [
         {

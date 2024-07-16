@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people aren't willing to spend thousands of us dollars to repair a 5 cat or dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

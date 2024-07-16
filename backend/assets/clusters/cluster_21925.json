@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "wasn't"
+        "label": {
+            "phrase": "wasn't news worthy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

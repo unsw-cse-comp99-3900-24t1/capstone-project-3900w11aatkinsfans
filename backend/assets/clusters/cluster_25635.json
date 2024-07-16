@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a great opportunity to help educate our community on how to protect themselves from this deadly virus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can we get pizza after the movie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

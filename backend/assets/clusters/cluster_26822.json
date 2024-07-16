@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "sometimes"
+        "label": {
+            "phrase": "sometimes people don't go just to watch the football they will come to abuse people like me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

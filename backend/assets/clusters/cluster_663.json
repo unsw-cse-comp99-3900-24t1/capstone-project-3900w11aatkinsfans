@@ -44,7 +44,10 @@
             "04:31",
             "04:46"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "the dark side",
+            "count": 6
+        }
     },
     "clusterList": [
         {

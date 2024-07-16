@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not only ridiculous but also incredible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

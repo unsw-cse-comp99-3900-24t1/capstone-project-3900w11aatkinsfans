@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they have an option to say i've gotten my final notice and i don't want to have someone come and get me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

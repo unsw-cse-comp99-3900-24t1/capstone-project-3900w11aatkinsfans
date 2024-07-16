@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you see what they look like tobias",
+            "count": 1
+        }
     },
     "clusterList": [
         {

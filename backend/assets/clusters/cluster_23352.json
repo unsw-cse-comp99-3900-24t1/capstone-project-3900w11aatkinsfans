@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know if i wasn't so lazy i'd write an applescript to do it for me when the network changed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

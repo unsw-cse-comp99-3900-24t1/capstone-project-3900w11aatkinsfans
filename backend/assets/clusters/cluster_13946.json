@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the condor trilogy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

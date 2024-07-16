@@ -8,7 +8,10 @@
             "03:36",
             "03:59"
         ],
-        "label": "man"
+        "label": {
+            "phrase": "man it would be nice if i had a quick easy unit testing environment to test stuff out as i write this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

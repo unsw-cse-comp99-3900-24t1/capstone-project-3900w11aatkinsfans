@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too stupid to live",
+            "count": 1
+        }
     },
     "clusterList": [
         {

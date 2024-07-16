@@ -10,7 +10,10 @@
             "03:13",
             "04:32"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your friend is going to los angeles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

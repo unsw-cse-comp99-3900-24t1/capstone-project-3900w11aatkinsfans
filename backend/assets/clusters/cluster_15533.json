@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "once-in-a"
+        "label": {
+            "phrase": "once-in-a lifetime opportunity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

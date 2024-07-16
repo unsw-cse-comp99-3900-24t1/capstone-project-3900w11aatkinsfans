@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i could have met you in a sandbox i could have passed you on the sidewalk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is nothing worthless inside",
+            "count": 1
+        }
     },
     "clusterList": [
         {

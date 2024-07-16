@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the parents will feed the babies until they're totally feathered out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

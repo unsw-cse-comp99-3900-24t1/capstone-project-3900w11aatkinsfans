@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we invite the help of america's boating public to assist the coast guard in keeping our waterways safe and secure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

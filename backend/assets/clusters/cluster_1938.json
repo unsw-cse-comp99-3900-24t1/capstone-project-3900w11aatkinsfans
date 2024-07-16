@@ -18,7 +18,10 @@
             "04:45",
             "04:51"
         ],
-        "label": "nobody"
+        "label": {
+            "phrase": "trouble in mind",
+            "count": 4
+        }
     },
     "clusterList": [
         {

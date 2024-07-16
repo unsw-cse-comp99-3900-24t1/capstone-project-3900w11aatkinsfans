@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey andy you know what i think",
+            "count": 1
+        }
     },
     "clusterList": [
         {

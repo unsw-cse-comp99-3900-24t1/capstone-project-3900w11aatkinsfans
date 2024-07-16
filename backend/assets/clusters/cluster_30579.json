@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "possessions"
+        "label": {
+            "phrase": "possessions can be replaced after all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

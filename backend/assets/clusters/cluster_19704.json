@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "john"
+        "label": {
+            "phrase": "john could be in love with esmeralda gesha",
+            "count": 1
+        }
     },
     "clusterList": [
         {

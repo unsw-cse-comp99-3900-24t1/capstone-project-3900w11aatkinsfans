@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it may be able to help us determine common factors and whether individuals are coming from particular locations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

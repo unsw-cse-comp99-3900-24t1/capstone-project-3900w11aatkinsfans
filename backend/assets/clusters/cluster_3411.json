@@ -16,7 +16,10 @@
             "05:03",
             "05:04"
         ],
-        "label": "free"
+        "label": {
+            "phrase": "free the fish",
+            "count": 1
+        }
     },
     "clusterList": [
         {

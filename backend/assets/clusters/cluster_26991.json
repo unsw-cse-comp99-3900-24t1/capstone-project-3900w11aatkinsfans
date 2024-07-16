@@ -6,7 +6,10 @@
         "xLabels": [
             "04:01"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it kills the small businesses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

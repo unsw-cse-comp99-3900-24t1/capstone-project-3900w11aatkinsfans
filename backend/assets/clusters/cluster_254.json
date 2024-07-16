@@ -64,7 +64,10 @@
             "04:54",
             "05:00"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "i don't see any issues that can't be resolved",
+            "count": 5
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we want to be one family no matter where we live",
+            "count": 1
+        }
     },
     "clusterList": [
         {

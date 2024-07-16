@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're approximately 30 feet above this field",
+            "count": 1
+        }
     },
     "clusterList": [
         {

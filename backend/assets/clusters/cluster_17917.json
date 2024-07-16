@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well he is really hansome at times",
+            "count": 1
+        }
     },
     "clusterList": [
         {

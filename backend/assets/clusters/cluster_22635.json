@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "aid"
+        "label": {
+            "phrase": "aid and comfort",
+            "count": 1
+        }
     },
     "clusterList": [
         {

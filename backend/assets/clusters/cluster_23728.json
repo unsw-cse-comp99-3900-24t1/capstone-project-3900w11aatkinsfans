@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "css"
+        "label": {
+            "phrase": "css friendly adapters internal error",
+            "count": 1
+        }
     },
     "clusterList": [
         {

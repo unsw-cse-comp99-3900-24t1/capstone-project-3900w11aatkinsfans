@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a fucking conspiracy and i'm in on it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

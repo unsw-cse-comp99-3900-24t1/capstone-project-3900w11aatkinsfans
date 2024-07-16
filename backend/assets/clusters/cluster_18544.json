@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i joined for a couple of reasons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

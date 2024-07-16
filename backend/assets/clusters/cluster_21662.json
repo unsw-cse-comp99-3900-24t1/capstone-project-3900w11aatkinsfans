@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the kid's don't stand a chance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

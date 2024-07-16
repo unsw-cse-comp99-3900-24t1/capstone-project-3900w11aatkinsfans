@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what would budda do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

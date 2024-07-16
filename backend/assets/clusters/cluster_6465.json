@@ -10,7 +10,10 @@
             "01:12",
             "01:13"
         ],
-        "label": "thought"
+        "label": {
+            "phrase": "this new event is good",
+            "count": 2
+        }
     },
     "clusterList": [
         {

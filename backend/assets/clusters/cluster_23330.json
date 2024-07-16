@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "sorry"
+        "label": {
+            "phrase": "sorry this job is no longer available",
+            "count": 1
+        }
     },
     "clusterList": [
         {

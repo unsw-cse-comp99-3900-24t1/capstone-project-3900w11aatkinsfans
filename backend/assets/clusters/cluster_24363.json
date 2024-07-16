@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of the premier salsa ensembles in northern california",
+            "count": 1
+        }
     },
     "clusterList": [
         {

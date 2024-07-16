@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i love to play against milt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

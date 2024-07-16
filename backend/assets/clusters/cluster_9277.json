@@ -6,7 +6,10 @@
         "xLabels": [
             "00:57"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in my line of work you gotta keep repeating things over and over and over",
+            "count": 2
+        }
     },
     "clusterList": [
         {

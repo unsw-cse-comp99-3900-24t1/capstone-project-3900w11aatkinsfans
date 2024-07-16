@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a canberra website",
+            "count": 1
+        }
     },
     "clusterList": [
         {

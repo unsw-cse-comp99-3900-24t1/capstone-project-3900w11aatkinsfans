@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "welcome"
+        "label": {
+            "phrase": "welcome there are a lot of rabbits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

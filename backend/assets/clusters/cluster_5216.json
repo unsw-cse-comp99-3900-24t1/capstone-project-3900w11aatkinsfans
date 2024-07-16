@@ -8,7 +8,10 @@
             "00:20",
             "01:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the night is darkening round me the wild winds coldly blow",
+            "count": 3
+        }
     },
     "clusterList": [
         {

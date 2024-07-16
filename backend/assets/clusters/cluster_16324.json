@@ -6,7 +6,10 @@
         "xLabels": [
             "00:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the situation deteriorated when managers dragged the still unscreened bag towards a more populated area of the airport",
+            "count": 1
+        }
     },
     "clusterList": [
         {

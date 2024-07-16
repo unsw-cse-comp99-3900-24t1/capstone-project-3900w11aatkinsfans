@@ -48,7 +48,10 @@
             "04:21",
             "04:56"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "out of touch",
+            "count": 10
+        }
     },
     "clusterList": [
         {

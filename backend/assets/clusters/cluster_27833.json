@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why rebuild a city under sea level",
+            "count": 1
+        }
     },
     "clusterList": [
         {

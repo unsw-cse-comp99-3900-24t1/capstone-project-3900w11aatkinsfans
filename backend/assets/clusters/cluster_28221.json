@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm going to wear my hat and surprise her when i get home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

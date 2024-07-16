@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i took off work for that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

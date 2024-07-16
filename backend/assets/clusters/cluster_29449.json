@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on a short leash",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they shoot horses don't they",
+            "count": 1
+        }
     },
     "clusterList": [
         {

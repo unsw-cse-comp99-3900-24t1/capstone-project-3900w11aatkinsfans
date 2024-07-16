@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was so packed not everybody could stay there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

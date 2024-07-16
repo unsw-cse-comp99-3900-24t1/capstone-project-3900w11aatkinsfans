@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "freakazoid"
+        "label": {
+            "phrase": "freakazoid complete first season",
+            "count": 1
+        }
     },
     "clusterList": [
         {

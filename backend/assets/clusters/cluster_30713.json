@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some are surprised to see raul's name",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -16,7 +16,10 @@
             "02:52",
             "03:51"
         ],
-        "label": "count"
+        "label": {
+            "phrase": "count your blessings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

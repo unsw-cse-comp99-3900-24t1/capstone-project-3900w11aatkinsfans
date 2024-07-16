@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you think you can or think you can't you're right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

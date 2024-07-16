@@ -12,7 +12,10 @@
             "03:10",
             "04:19"
         ],
-        "label": "mental"
+        "label": {
+            "phrase": "mental impressions conclusions opinion or legal theories of an attorney",
+            "count": 1
+        }
     },
     "clusterList": [
         {

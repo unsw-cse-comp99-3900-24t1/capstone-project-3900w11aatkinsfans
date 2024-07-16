@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is between me and the vegetable",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're right i didn't do you really want to hear my opnion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

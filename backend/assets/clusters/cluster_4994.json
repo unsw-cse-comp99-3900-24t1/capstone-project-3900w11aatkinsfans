@@ -8,7 +8,10 @@
             "01:50",
             "01:52"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it wasn't in the dictionary",
+            "count": 2
+        }
     },
     "clusterList": [
         {

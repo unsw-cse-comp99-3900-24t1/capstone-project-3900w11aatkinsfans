@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the owens community college honors program is designed to foster an educational environment in which students can excel to their fullest potential",
+            "count": 1
+        }
     },
     "clusterList": [
         {

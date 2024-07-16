@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone knows you're a transvestite and you're in love with me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

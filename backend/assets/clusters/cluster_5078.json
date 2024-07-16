@@ -12,7 +12,10 @@
             "02:15",
             "03:42"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it sounds nice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

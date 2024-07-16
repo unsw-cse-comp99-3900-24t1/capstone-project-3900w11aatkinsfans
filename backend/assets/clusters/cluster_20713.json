@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "great"
+        "label": {
+            "phrase": "great global recognition with a global fan base",
+            "count": 1
+        }
     },
     "clusterList": [
         {

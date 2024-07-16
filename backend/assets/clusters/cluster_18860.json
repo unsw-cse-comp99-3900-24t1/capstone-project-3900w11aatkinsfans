@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "whew"
+        "label": {
+            "phrase": "whew i think i better throw another log on the fire i think we are going to need it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you haven't done your kegle exercises today now don't go way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

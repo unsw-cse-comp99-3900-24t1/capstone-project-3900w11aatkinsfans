@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the game you have played was a man's game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:33",
             "03:14"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a devastating blow to the island's economy",
+            "count": 3
+        }
     },
     "clusterList": [
         {

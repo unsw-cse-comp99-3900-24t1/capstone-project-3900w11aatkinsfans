@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "punjabis"
+        "label": {
+            "phrase": "punjabis are a very dilayre community",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "pesto"
+        "label": {
+            "phrase": "pesto without pine nuts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

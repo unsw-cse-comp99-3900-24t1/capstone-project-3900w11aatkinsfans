@@ -30,7 +30,10 @@
             "03:02",
             "04:19"
         ],
-        "label": "willful"
+        "label": {
+            "phrase": "broadly offensive content",
+            "count": 3
+        }
     },
     "clusterList": [
         {

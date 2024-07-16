@@ -28,7 +28,10 @@
             "05:00",
             "05:01"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what am i going to do now",
+            "count": 2
+        }
     },
     "clusterList": [
         {

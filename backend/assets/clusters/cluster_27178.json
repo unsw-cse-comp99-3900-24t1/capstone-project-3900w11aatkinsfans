@@ -6,7 +6,10 @@
         "xLabels": [
             "03:57"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you are going to cook this burger properly and without contaminating the fryer with raw meat while i go apologize for the delay and refund his money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

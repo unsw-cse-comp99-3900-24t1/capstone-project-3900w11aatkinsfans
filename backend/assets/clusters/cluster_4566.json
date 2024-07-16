@@ -12,7 +12,10 @@
             "02:37",
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the princess is here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

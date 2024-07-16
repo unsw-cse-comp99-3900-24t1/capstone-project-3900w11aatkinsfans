@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "gain"
+        "label": {
+            "phrase": "gain the advantage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

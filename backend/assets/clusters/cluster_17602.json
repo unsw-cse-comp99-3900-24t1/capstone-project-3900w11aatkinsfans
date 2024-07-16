@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i m from missouri you'll have to show me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sword used to kill eleven korean mercenaries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

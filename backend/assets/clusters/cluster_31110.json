@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we can print full color foils all over prints etc",
+            "count": 1
+        }
     },
     "clusterList": [
         {

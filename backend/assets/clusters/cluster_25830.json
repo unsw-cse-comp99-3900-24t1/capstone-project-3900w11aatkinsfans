@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what are you talking about where is this coming from i don't understand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

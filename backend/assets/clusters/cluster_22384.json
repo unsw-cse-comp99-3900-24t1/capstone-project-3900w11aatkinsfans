@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you tell me about data from the second meca wet test",
+            "count": 1
+        }
     },
     "clusterList": [
         {

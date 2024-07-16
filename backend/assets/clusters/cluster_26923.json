@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "without"
+        "label": {
+            "phrase": "without admitting or denying the findings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

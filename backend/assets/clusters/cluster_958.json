@@ -24,7 +24,10 @@
             "04:06",
             "04:15"
         ],
-        "label": "apple"
+        "label": {
+            "phrase": "apple takes security seriously but we don't comment about unreleased products",
+            "count": 5
+        }
     },
     "clusterList": [
         {

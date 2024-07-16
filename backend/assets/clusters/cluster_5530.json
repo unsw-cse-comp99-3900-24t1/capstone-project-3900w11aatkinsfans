@@ -12,7 +12,10 @@
             "04:13",
             "04:32"
         ],
-        "label": "pays"
+        "label": {
+            "phrase": "pays her bills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

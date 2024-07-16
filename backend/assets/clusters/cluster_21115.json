@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they taught us how to tie ourselves to a tree and blind soldiers with mirrors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

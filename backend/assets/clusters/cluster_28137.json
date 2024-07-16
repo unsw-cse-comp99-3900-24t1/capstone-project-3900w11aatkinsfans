@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "fire"
+        "label": {
+            "phrase": "fire claims vineyard literary landmark",
+            "count": 1
+        }
     },
     "clusterList": [
         {

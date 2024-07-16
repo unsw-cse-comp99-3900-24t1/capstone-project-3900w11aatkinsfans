@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes but it's got gradients",
+            "count": 1
+        }
     },
     "clusterList": [
         {

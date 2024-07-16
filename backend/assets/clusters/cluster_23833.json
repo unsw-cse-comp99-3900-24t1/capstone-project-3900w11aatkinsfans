@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's haunting me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "nothing"
+        "label": {
+            "phrase": "nothing is pointless but bitterness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

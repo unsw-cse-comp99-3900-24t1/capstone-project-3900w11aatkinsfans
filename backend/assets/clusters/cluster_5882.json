@@ -10,7 +10,10 @@
             "01:03",
             "03:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the penny gap",
+            "count": 3
+        }
     },
     "clusterList": [
         {

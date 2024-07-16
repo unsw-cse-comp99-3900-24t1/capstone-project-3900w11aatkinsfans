@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one should have to live like this and no one did anything about it",
+            "count": 2
+        }
     },
     "clusterList": [
         {

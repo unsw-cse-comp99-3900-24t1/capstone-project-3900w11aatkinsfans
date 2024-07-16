@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you must stay up even when there is no lift like the humming bird",
+            "count": 1
+        }
     },
     "clusterList": [
         {

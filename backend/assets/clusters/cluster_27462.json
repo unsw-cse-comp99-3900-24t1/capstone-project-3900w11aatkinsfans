@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's so many misconceptions about school food service that it's really sad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

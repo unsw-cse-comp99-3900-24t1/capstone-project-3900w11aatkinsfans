@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but this is the golden horn restaurant we are talking about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

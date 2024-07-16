@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a powerhouse of wit and hard-learned wisdom as performed by an actor in a rabbit suit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

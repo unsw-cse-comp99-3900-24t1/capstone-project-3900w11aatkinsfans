@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "fred"
+        "label": {
+            "phrase": "fred perry tipped cuff black gold",
+            "count": 1
+        }
     },
     "clusterList": [
         {

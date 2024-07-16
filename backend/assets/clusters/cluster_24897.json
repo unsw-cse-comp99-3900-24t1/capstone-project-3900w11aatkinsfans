@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm afraid i've never learned needlework my lady not a skill of mine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

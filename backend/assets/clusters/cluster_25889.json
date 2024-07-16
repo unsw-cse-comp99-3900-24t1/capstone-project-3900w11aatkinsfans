@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "hundred"
+        "label": {
+            "phrase": "hundred flowers campaign",
+            "count": 1
+        }
     },
     "clusterList": [
         {

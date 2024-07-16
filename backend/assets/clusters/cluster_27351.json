@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the roads they have not been fixed it since arroyo came to power",
+            "count": 1
+        }
     },
     "clusterList": [
         {

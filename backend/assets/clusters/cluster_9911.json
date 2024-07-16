@@ -8,7 +8,10 @@
             "01:34",
             "02:56"
         ],
-        "label": "time"
+        "label": {
+            "phrase": "time to make the donuts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

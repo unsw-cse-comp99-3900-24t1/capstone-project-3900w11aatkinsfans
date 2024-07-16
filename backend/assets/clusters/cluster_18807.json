@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "crisis"
+        "label": {
+            "phrase": "crisis pregnancy centers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

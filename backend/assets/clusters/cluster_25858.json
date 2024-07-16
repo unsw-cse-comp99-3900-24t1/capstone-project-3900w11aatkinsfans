@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've lost our little dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

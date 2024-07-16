@@ -6,7 +6,10 @@
         "xLabels": [
             "02:35"
         ],
-        "label": "glory"
+        "label": {
+            "phrase": "glory of the 80's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

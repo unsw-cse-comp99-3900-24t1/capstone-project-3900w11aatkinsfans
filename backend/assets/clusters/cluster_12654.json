@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "law"
+        "label": {
+            "phrase": "law of the site",
+            "count": 1
+        }
     },
     "clusterList": [
         {

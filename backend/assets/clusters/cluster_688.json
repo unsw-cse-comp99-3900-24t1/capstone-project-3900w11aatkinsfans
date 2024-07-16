@@ -32,7 +32,10 @@
             "04:56",
             "05:04"
         ],
-        "label": "reality"
+        "label": {
+            "phrase": "reality is wrong",
+            "count": 6
+        }
     },
     "clusterList": [
         {

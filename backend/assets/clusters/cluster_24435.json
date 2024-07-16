@@ -6,7 +6,10 @@
         "xLabels": [
             "03:07"
         ],
-        "label": "thing"
+        "label": {
+            "phrase": "thing a week one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

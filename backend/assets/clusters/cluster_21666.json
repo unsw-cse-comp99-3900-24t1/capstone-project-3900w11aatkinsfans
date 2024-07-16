@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the church elders decided they want to go in a different direction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

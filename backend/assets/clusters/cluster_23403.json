@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "understood"
+        "label": {
+            "phrase": "understood and jaice don't let this plate get away",
+            "count": 1
+        }
     },
     "clusterList": [
         {

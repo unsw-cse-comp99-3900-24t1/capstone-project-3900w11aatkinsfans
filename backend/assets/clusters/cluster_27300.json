@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "point"
+        "label": {
+            "phrase": "point of no return",
+            "count": 1
+        }
     },
     "clusterList": [
         {

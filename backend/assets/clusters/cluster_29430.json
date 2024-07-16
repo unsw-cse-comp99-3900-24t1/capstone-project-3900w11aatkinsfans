@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you ever worked the land sir peter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

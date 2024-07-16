@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "lifelike"
+        "label": {
+            "phrase": "lifelike models of hampton wicks",
+            "count": 3
+        }
     },
     "clusterList": [
         {

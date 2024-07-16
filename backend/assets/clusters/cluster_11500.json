@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "foundation"
+        "label": {
+            "phrase": "foundation of the appraisal process",
+            "count": 1
+        }
     },
     "clusterList": [
         {

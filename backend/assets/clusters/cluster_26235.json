@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "berstein"
+        "label": {
+            "phrase": "berstein reports on cnn no rollcall vote no name in nomination no convention participation beyond the tuesday night speech",
+            "count": 1
+        }
     },
     "clusterList": [
         {

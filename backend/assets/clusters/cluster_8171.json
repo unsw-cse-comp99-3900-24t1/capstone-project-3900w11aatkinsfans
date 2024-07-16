@@ -8,7 +8,10 @@
             "00:10",
             "03:51"
         ],
-        "label": "duty"
+        "label": {
+            "phrase": "duty of remembrance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

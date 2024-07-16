@@ -76,7 +76,10 @@
             "05:00",
             "05:01"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "this is it",
+            "count": 16
+        }
     },
     "clusterList": [
         {

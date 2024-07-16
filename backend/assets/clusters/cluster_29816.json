@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "preparing"
+        "label": {
+            "phrase": "preparing to live syndrome",
+            "count": 1
+        }
     },
     "clusterList": [
         {

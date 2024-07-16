@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "sheriff's"
+        "label": {
+            "phrase": "sheriff's deed filing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

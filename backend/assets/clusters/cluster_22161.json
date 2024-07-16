@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is our universe inside",
+            "count": 1
+        }
     },
     "clusterList": [
         {

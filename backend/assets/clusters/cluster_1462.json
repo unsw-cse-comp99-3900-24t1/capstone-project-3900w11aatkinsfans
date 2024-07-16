@@ -22,7 +22,10 @@
             "04:38",
             "04:56"
         ],
-        "label": "call"
+        "label": {
+            "phrase": "harold call me",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people are going to die around",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "04:18",
             "05:00"
         ],
-        "label": "paige"
+        "label": {
+            "phrase": "paige please not now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

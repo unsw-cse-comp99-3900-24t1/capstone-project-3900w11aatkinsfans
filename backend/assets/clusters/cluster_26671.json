@@ -6,7 +6,10 @@
         "xLabels": [
             "03:47"
         ],
-        "label": "depth"
+        "label": {
+            "phrase": "depth of a moment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

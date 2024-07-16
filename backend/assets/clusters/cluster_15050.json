@@ -6,7 +6,10 @@
         "xLabels": [
             "00:27"
         ],
-        "label": "beverly"
+        "label": {
+            "phrase": "beverly hills chihuahua",
+            "count": 1
+        }
     },
     "clusterList": [
         {

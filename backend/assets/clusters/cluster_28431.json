@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "super"
+        "label": {
+            "phrase": "super delegates to woo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

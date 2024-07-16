@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the beach is home to wildly competing groups of users who all seem to make it work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

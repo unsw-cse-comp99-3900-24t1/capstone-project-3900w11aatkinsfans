@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why are you being so melodramatic get a plaster",
+            "count": 1
+        }
     },
     "clusterList": [
         {

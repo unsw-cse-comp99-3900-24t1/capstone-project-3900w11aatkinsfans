@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "sir"
+        "label": {
+            "phrase": "sir i am going to sink it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

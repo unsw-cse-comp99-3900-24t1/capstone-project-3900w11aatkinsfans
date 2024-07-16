@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i love to burn things up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

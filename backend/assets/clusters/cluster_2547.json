@@ -18,7 +18,10 @@
             "04:54",
             "05:04"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "i've lost a lot of sleep over this",
+            "count": 4
+        }
     },
     "clusterList": [
         {

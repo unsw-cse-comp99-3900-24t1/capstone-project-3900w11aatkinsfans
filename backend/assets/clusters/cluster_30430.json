@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i got a text message over the weekend from a mate saying they'd read something about stoke",
+            "count": 1
+        }
     },
     "clusterList": [
         {

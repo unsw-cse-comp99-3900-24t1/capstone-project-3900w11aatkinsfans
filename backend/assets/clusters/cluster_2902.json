@@ -16,7 +16,10 @@
             "03:06",
             "03:10"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things to do on my week off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

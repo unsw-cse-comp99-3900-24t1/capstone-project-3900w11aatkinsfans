@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he told that lie because he already knew the army had lost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

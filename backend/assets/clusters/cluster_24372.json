@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "oil"
+        "label": {
+            "phrase": "oil filter wrench",
+            "count": 1
+        }
     },
     "clusterList": [
         {

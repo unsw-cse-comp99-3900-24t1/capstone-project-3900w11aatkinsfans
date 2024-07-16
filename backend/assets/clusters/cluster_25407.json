@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "they'd"
+        "label": {
+            "phrase": "they'd say hi this is mitchell i'm at the cemetery",
+            "count": 1
+        }
     },
     "clusterList": [
         {

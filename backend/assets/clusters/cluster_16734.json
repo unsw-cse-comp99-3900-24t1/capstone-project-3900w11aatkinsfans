@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "answer"
+        "label": {
+            "phrase": "answer the question would that be ok",
+            "count": 1
+        }
     },
     "clusterList": [
         {

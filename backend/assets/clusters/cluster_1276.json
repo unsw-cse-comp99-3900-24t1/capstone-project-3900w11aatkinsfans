@@ -22,7 +22,10 @@
             "03:20",
             "05:04"
         ],
-        "label": "surprisingly"
+        "label": {
+            "phrase": "is strangely written",
+            "count": 4
+        }
     },
     "clusterList": [
         {

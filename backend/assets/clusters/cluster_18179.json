@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i told the players that now they control their own destiny",
+            "count": 1
+        }
     },
     "clusterList": [
         {

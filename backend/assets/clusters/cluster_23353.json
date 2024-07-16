@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "driver"
+        "label": {
+            "phrase": "driver where are you takin us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

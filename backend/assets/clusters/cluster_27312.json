@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "trim"
+        "label": {
+            "phrase": "trim the moustache and grow the beard and be different from the magiians fire-worshippers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

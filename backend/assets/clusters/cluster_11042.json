@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in despair is looking for an exit",
+            "count": 2
+        }
     },
     "clusterList": [
         {

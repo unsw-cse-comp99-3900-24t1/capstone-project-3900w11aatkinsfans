@@ -10,7 +10,10 @@
             "00:29",
             "02:07"
         ],
-        "label": "trained"
+        "label": {
+            "phrase": "trained attack dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the wapshop chroincle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

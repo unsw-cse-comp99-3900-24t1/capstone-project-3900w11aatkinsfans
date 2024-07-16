@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "whatever"
+        "label": {
+            "phrase": "whatever just pay attention",
+            "count": 1
+        }
     },
     "clusterList": [
         {

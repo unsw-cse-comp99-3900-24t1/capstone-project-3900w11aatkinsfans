@@ -12,7 +12,10 @@
             "02:25",
             "04:50"
         ],
-        "label": "today"
+        "label": {
+            "phrase": "today typical suburban homes sit in cul-de-sac subdivisions that empty out onto high volume roads",
+            "count": 1
+        }
     },
     "clusterList": [
         {

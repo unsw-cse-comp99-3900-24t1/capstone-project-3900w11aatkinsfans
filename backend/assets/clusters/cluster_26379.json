@@ -6,7 +6,10 @@
         "xLabels": [
             "03:47"
         ],
-        "label": "tell"
+        "label": {
+            "phrase": "tell me about it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

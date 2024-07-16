@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "before"
+        "label": {
+            "phrase": "before you were conceived i wanted you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

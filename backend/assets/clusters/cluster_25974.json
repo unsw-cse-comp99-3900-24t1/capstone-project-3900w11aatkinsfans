@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a day without walking the berkshires is no day at all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

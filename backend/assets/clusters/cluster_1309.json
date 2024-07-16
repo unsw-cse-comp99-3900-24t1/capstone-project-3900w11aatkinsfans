@@ -26,7 +26,10 @@
             "04:45",
             "05:05"
         ],
-        "label": "everyday"
+        "label": {
+            "phrase": "pieces of april",
+            "count": 5
+        }
     },
     "clusterList": [
         {

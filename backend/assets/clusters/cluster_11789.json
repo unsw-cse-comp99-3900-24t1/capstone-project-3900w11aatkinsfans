@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the primacy at land and at sea was beyond the resources of even such a great and diligent people as the germans",
+            "count": 1
+        }
     },
     "clusterList": [
         {

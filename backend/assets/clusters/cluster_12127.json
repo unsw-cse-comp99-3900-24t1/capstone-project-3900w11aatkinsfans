@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a funny thing video",
+            "count": 2
+        }
     },
     "clusterList": [
         {

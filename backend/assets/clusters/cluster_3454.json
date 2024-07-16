@@ -16,7 +16,10 @@
             "01:20",
             "02:46"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my testing site",
+            "count": 1
+        }
     },
     "clusterList": [
         {

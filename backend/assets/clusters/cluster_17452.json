@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the temptation to search for glory the thing to pay is the fall of man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

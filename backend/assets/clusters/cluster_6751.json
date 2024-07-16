@@ -10,7 +10,10 @@
             "03:08",
             "03:36"
         ],
-        "label": "master"
+        "label": {
+            "phrase": "master who bought them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

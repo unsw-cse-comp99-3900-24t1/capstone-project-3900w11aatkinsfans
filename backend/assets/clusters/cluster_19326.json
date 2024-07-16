@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good because i was thinking i'd have to turn my ship around to help you all out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

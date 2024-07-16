@@ -20,7 +20,10 @@
             "04:00",
             "05:01"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "what is the bag",
+            "count": 2
+        }
     },
     "clusterList": [
         {

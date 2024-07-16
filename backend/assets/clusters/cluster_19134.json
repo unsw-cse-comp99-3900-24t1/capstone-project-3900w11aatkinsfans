@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're going to keep that fixed-exchange-rate system",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -48,7 +48,10 @@
             "04:55",
             "05:05"
         ],
-        "label": "terrible"
+        "label": {
+            "phrase": "it was a bad double",
+            "count": 8
+        }
     },
     "clusterList": [
         {

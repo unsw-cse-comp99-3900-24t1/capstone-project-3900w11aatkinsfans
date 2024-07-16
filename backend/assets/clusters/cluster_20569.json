@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "close"
+        "label": {
+            "phrase": "close enough for government work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people watching indeed braid indeed get it while you can",
+            "count": 1
+        }
     },
     "clusterList": [
         {

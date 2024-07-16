@@ -14,7 +14,10 @@
             "03:34",
             "04:38"
         ],
-        "label": "peeling"
+        "label": {
+            "phrase": "red eye removal",
+            "count": 2
+        }
     },
     "clusterList": [
         {

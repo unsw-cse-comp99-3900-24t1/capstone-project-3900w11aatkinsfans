@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "another one of your stories is not gong to change my mind",
+            "count": 1
+        }
     },
     "clusterList": [
         {

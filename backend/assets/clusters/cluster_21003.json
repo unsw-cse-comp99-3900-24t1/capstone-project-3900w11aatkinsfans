@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one percent of americans who say i will support and defend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

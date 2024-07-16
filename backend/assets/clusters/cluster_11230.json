@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "wealthy"
+        "label": {
+            "phrase": "wealthy jet owner",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you are right and you are not alone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

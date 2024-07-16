@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are snuggling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

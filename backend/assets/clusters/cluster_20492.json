@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is just a frenzy on the car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

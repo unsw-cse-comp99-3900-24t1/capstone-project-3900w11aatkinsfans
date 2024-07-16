@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you don't look too excited about it what's the matter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:32",
             "02:06"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the worst crisis i've ever seen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

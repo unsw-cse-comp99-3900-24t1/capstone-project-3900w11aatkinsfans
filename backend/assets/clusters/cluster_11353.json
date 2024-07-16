@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "goons"
+        "label": {
+            "phrase": "goons of basketball",
+            "count": 2
+        }
     },
     "clusterList": [
         {

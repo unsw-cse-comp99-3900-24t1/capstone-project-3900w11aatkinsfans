@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "james"
+        "label": {
+            "phrase": "james brown special",
+            "count": 1
+        }
     },
     "clusterList": [
         {

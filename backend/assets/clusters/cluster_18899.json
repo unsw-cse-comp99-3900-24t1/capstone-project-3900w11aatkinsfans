@@ -6,7 +6,10 @@
         "xLabels": [
             "01:21"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it may be better to have 20 30 40-metre breaks less often rather than smaller ones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

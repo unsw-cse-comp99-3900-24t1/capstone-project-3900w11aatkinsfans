@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how much time are you wasting on twitter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

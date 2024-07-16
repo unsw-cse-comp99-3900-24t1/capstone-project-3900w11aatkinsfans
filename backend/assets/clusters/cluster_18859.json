@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "chris"
+        "label": {
+            "phrase": "chris i think that was a round-about way of asking how old i am",
+            "count": 1
+        }
     },
     "clusterList": [
         {

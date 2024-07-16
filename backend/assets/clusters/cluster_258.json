@@ -56,7 +56,10 @@
             "04:46",
             "04:55"
         ],
-        "label": "meats"
+        "label": {
+            "phrase": "meat and potatoes",
+            "count": 5
+        }
     },
     "clusterList": [
         {

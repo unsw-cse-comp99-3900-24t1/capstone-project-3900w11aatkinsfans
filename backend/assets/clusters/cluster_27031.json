@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm feeling this logan murphy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

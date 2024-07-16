@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i consistently believe that when",
+            "count": 1
+        }
     },
     "clusterList": [
         {

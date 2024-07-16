@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too cool for school",
+            "count": 1
+        }
     },
     "clusterList": [
         {

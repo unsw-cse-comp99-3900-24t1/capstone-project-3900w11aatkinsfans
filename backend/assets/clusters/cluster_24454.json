@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "local"
+        "label": {
+            "phrase": "local food is often safer too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:27"
         ],
-        "label": "picture"
+        "label": {
+            "phrase": "picture to burn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

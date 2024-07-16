@@ -12,7 +12,10 @@
             "01:30",
             "04:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have felt these thing i do not want to see them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

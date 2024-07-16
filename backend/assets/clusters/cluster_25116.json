@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's my pok mon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

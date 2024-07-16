@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "australian"
+        "label": {
+            "phrase": "australian cricket writer rick eyre",
+            "count": 1
+        }
     },
     "clusterList": [
         {

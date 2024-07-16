@@ -6,7 +6,10 @@
         "xLabels": [
             "00:02"
         ],
-        "label": "speak"
+        "label": {
+            "phrase": "speak a little funny",
+            "count": 1
+        }
     },
     "clusterList": [
         {

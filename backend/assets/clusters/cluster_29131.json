@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole mission is not just about the cows",
+            "count": 1
+        }
     },
     "clusterList": [
         {

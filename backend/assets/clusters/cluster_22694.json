@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the australian took second place in the tour de france for the second year running after surprisingly failing to overhaul carlos sastre of spain in saturday's decisive individual time-trial",
+            "count": 1
+        }
     },
     "clusterList": [
         {

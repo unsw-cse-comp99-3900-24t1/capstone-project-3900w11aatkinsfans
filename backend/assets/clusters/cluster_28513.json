@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "john's"
+        "label": {
+            "phrase": "john's monthly message of destiny",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "malicious"
+        "label": {
+            "phrase": "malicious groups get paid for installing malware on computers and they get paid for every victim computer they seize",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an idle mind is the devil's workshop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

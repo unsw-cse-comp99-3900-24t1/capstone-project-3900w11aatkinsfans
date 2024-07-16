@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we want to get more inbound and outbound flight rotations at stansted but we would like to get to the position where all trips between london and edinburgh are done by train",
+            "count": 1
+        }
     },
     "clusterList": [
         {

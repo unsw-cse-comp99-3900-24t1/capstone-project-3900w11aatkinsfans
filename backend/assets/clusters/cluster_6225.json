@@ -10,7 +10,10 @@
             "01:04",
             "04:19"
         ],
-        "label": "playing"
+        "label": {
+            "phrase": "playing the woman card",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:04",
             "04:27"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my father's from kenya and my mother's from kanasas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

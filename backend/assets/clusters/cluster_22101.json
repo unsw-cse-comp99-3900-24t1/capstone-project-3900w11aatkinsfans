@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "part"
+        "label": {
+            "phrase": "part of a compilation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

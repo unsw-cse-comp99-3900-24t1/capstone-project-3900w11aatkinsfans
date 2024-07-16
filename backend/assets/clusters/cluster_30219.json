@@ -6,7 +6,10 @@
         "xLabels": [
             "04:44"
         ],
-        "label": "english"
+        "label": {
+            "phrase": "english crews are very disciplined and organised",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "hill-sodrel"
+        "label": {
+            "phrase": "hill-sodrel iv the beginning of the end of the beginning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "speaking"
+        "label": {
+            "phrase": "speaking the truth is dangerous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

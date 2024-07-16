@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for a dachshund",
+            "count": 1
+        }
     },
     "clusterList": [
         {

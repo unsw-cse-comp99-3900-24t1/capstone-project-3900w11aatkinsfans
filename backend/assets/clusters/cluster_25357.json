@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my sentiments exactly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

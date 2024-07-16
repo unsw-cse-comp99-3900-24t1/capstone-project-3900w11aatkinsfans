@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "yawns"
+        "label": {
+            "phrase": "yawns and shrugs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

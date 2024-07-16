@@ -12,7 +12,10 @@
             "04:04",
             "04:46"
         ],
-        "label": "germans"
+        "label": {
+            "phrase": "churchill hitler and",
+            "count": 2
+        }
     },
     "clusterList": [
         {

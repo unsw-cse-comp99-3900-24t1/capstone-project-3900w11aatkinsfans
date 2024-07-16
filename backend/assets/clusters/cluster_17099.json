@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "being"
+        "label": {
+            "phrase": "being the thing i'm thinking about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

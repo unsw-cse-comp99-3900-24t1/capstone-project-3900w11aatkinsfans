@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "life"
+        "label": {
+            "phrase": "life flashing in front of your eyes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

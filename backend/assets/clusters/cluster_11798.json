@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how to properly shampoo your hair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

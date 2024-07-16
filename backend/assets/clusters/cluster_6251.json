@@ -10,7 +10,10 @@
             "02:22",
             "04:15"
         ],
-        "label": "hail"
+        "label": {
+            "phrase": "hail to the chief",
+            "count": 2
+        }
     },
     "clusterList": [
         {

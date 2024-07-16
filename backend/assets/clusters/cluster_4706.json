@@ -12,7 +12,10 @@
             "01:23",
             "04:24"
         ],
-        "label": "at"
+        "label": {
+            "phrase": "at least that's my gut feeling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

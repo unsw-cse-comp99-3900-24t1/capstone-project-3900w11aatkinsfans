@@ -6,7 +6,10 @@
         "xLabels": [
             "02:13"
         ],
-        "label": "lost"
+        "label": {
+            "phrase": "lost in transit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

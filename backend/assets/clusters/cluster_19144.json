@@ -6,7 +6,10 @@
         "xLabels": [
             "01:28"
         ],
-        "label": "expressions"
+        "label": {
+            "phrase": "expressions in fiber",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "sorry"
+        "label": {
+            "phrase": "sorry palo i didn't mean to do that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

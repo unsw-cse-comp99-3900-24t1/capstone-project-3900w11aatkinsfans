@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the popular press the cinema and the tourist industry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

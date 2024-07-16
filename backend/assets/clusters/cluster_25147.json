@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "duh"
+        "label": {
+            "phrase": "duh wanna change the subject",
+            "count": 1
+        }
     },
     "clusterList": [
         {

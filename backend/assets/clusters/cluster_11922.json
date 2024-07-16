@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "types"
+        "label": {
+            "phrase": "types of rocks",
+            "count": 2
+        }
     },
     "clusterList": [
         {

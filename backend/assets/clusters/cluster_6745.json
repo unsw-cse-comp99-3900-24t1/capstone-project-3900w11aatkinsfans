@@ -10,7 +10,10 @@
             "02:01",
             "03:42"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a company that has been accused of murdering iraqi civilians",
+            "count": 3
+        }
     },
     "clusterList": [
         {

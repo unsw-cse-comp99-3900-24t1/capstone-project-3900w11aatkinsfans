@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "8"
+        "label": {
+            "phrase": "8 being very lucky and sounding like part of the phrase",
+            "count": 1
+        }
     },
     "clusterList": [
         {

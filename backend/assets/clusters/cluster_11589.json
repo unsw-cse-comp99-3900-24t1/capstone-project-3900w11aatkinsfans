@@ -8,7 +8,10 @@
             "03:43",
             "04:24"
         ],
-        "label": "maven"
+        "label": {
+            "phrase": "maven is a software project management and comprehension tool based on the concept of a project object model pom maven can manage a project's build reporting and documentation from a central piece of information",
+            "count": 2
+        }
     },
     "clusterList": [
         {

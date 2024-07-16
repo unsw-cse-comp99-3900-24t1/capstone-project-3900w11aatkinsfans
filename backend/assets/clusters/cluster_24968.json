@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and what's wrong with heads toots",
+            "count": 1
+        }
     },
     "clusterList": [
         {

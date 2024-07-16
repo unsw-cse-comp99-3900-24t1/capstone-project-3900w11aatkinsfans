@@ -8,7 +8,10 @@
             "02:09",
             "03:34"
         ],
-        "label": "hello"
+        "label": {
+            "phrase": "hello world from javafx",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "04:17",
             "04:55"
         ],
-        "label": "system"
+        "label": {
+            "phrase": "system library privateframeworks mobileinstallation framework",
+            "count": 2
+        }
     },
     "clusterList": [
         {

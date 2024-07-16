@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "anything"
+        "label": {
+            "phrase": "anything serious sir",
+            "count": 1
+        }
     },
     "clusterList": [
         {

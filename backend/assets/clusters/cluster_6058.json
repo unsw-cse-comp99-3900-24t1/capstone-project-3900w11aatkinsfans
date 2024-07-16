@@ -10,7 +10,10 @@
             "02:02",
             "02:57"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you are my best friend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

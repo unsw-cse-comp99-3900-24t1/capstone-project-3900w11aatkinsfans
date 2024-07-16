@@ -6,7 +6,10 @@
         "xLabels": [
             "04:12"
         ],
-        "label": "treasure"
+        "label": {
+            "phrase": "treasure of the sierra madre",
+            "count": 1
+        }
     },
     "clusterList": [
         {

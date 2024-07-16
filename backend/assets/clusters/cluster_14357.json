@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "their"
+        "label": {
+            "phrase": "their soft and",
+            "count": 1
+        }
     },
     "clusterList": [
         {

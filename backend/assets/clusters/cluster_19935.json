@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the government last night faced pleas to deliver urgent help to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "obviously"
+        "label": {
+            "phrase": "obviously that's a case we would like to get more information on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

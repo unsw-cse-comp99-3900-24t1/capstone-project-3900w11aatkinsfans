@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what are you lookin at buddy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

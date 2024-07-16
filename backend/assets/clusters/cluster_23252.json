@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because it makes people disappear",
+            "count": 1
+        }
     },
     "clusterList": [
         {

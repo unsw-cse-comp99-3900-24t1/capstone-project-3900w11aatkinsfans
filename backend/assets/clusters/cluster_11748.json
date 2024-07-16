@@ -8,7 +8,10 @@
             "02:05",
             "04:24"
         ],
-        "label": "men"
+        "label": {
+            "phrase": "men of tortuga",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are all but stardust",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i saw the jordan river overflowing its banks in washington d c",
+            "count": 2
+        }
     },
     "clusterList": [
         {

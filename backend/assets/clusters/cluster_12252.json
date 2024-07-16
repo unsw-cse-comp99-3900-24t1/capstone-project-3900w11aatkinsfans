@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i vote you be banned from this site",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this whole thing just seems like a huge production it seems like a circus on wheels",
+            "count": 1
+        }
     },
     "clusterList": [
         {

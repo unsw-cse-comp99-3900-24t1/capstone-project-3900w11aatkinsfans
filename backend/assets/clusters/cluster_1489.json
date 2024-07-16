@@ -24,7 +24,10 @@
             "03:24",
             "04:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i said what's the scariest moment of your life",
+            "count": 2
+        }
     },
     "clusterList": [
         {

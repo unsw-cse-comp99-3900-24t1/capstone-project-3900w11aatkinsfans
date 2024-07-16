@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a visual representation of the playstation community",
+            "count": 1
+        }
     },
     "clusterList": [
         {

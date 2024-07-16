@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "she"
+        "label": {
+            "phrase": "she told me i love my husband and my children but i don't want to be around them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

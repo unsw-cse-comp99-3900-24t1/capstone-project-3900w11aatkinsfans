@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey web analyst run me a broken links report",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we own 95 percent of the patent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

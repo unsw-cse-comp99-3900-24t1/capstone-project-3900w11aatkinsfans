@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look at my meronica",
+            "count": 1
+        }
     },
     "clusterList": [
         {

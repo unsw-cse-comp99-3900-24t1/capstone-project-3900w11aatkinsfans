@@ -8,7 +8,10 @@
             "00:32",
             "03:14"
         ],
-        "label": "bring"
+        "label": {
+            "phrase": "bring your paintbrush and lawyer",
+            "count": 2
+        }
     },
     "clusterList": [
         {

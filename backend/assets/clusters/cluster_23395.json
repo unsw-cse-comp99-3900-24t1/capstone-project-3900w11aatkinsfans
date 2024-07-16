@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "aaaigh"
+        "label": {
+            "phrase": "aaaigh having a crisis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

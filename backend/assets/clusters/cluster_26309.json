@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "anything"
+        "label": {
+            "phrase": "anything is better than perfect boredom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my motor was hydro-locked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

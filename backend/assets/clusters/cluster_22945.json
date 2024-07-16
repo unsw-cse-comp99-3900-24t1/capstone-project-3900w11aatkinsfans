@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "drink"
+        "label": {
+            "phrase": "drink generously what else can you do of any real merit after about midday anyway",
+            "count": 1
+        }
     },
     "clusterList": [
         {

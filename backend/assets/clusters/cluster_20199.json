@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "deny"
+        "label": {
+            "phrase": "deny the master who bought us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:20"
         ],
-        "label": "thursday"
+        "label": {
+            "phrase": "thursday pics the face transformer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

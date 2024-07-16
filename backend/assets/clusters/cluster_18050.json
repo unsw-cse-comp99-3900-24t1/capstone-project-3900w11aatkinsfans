@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "page"
+        "label": {
+            "phrase": "page fault in nonpaged area",
+            "count": 1
+        }
     },
     "clusterList": [
         {

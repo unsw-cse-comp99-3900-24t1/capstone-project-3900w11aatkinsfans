@@ -40,7 +40,10 @@
             "04:31",
             "04:49"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "it's my first book it's an honest book",
+            "count": 7
+        }
     },
     "clusterList": [
         {

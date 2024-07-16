@@ -6,7 +6,10 @@
         "xLabels": [
             "00:48"
         ],
-        "label": "ted"
+        "label": {
+            "phrase": "ted stop spinning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

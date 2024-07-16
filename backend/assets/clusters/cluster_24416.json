@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "louisville's"
+        "label": {
+            "phrase": "louisville's water is clearly superior",
+            "count": 1
+        }
     },
     "clusterList": [
         {

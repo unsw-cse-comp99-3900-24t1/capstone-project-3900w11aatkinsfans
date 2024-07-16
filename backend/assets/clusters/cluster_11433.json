@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "cowboys"
+        "label": {
+            "phrase": "cowboys and indians part ii",
+            "count": 2
+        }
     },
     "clusterList": [
         {

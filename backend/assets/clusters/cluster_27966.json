@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "scooper"
+        "label": {
+            "phrase": "scooper at ben and jerry's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

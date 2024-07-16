@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the seller is taking their home off the market in hopes that the renter will buy it but if they don't buy it they are back to square one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

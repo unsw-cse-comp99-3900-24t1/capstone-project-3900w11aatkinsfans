@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "fiery"
+        "label": {
+            "phrase": "fiery and charismatic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

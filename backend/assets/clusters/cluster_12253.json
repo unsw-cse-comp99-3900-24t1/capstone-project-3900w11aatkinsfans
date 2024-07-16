@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "surveyors"
+        "label": {
+            "phrase": "surveyors vests and tripods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

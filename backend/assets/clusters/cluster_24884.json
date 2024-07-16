@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you heard of harley street",
+            "count": 1
+        }
     },
     "clusterList": [
         {

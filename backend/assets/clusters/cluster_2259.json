@@ -20,7 +20,10 @@
             "04:41",
             "04:55"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "pearl of wisdom",
+            "count": 2
+        }
     },
     "clusterList": [
         {

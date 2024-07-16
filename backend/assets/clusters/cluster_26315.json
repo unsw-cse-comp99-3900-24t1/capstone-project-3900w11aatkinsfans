@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "breached"
+        "label": {
+            "phrase": "breached their fiduciary obligation to the citizens of keansburg and new jersey to adequately protect the public funds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

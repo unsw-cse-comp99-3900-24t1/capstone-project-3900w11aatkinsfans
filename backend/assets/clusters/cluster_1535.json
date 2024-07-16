@@ -22,7 +22,10 @@
             "03:43",
             "04:09"
         ],
-        "label": "web"
+        "label": {
+            "phrase": "he who is not with me is against me",
+            "count": 3
+        }
     },
     "clusterList": [
         {

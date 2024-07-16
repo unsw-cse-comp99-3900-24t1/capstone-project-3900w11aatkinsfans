@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "seen"
+        "label": {
+            "phrase": "seen this coming for some time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

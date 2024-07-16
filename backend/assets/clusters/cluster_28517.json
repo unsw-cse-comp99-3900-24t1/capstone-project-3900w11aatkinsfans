@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if the master wills it and we're still alive we'll do this or that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

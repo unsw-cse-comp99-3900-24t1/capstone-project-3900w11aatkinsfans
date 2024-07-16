@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're gonna leave it blank right sir",
+            "count": 1
+        }
     },
     "clusterList": [
         {

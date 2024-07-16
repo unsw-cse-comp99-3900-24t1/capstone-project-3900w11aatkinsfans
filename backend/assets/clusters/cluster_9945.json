@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one is supposed to know about these chips in the marines on the outside",
+            "count": 2
+        }
     },
     "clusterList": [
         {

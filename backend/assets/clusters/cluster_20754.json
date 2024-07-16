@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it will let you know who's safe and who's not it's definitely a good idea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

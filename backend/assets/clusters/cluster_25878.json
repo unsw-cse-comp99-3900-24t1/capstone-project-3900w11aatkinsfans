@@ -6,7 +6,10 @@
         "xLabels": [
             "03:31"
         ],
-        "label": "biggest"
+        "label": {
+            "phrase": "biggest crowd of the season",
+            "count": 1
+        }
     },
     "clusterList": [
         {

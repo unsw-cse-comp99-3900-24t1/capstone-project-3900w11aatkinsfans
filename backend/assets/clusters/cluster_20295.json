@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you think you are at a point in your life where you are ready to meet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

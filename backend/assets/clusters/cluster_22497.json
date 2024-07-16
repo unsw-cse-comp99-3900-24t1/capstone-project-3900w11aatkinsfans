@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the strange disappearance of captain william morgan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

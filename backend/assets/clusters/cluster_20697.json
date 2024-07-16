@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "daddy's"
+        "label": {
+            "phrase": "daddy's fixing mommy's mixer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

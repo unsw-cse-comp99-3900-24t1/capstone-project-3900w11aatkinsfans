@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "haines"
+        "label": {
+            "phrase": "haines modified recovery position",
+            "count": 1
+        }
     },
     "clusterList": [
         {

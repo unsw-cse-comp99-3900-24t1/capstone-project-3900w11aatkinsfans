@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the good news is that everyone has been able to hold theircosts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

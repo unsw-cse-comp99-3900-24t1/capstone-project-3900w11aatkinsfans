@@ -6,7 +6,10 @@
         "xLabels": [
             "01:49"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i know every human being sometimes feels like they're the only one at the end of the branch and nobody else is with them when things are going bad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

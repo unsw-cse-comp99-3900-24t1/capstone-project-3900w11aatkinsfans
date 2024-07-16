@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please state your business with king k rool or l-leave",
+            "count": 1
+        }
     },
     "clusterList": [
         {

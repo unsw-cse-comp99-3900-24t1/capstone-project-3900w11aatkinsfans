@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "copy"
+        "label": {
+            "phrase": "copy number variations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

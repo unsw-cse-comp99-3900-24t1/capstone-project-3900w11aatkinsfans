@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they saw people came in and out of his room but no sign of khoder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

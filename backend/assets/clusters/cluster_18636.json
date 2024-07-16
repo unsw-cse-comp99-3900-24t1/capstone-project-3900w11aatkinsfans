@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "precision"
+        "label": {
+            "phrase": "precision time with cold atoms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

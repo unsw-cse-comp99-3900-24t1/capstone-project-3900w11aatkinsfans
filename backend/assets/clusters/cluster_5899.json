@@ -10,7 +10,10 @@
             "03:00",
             "04:22"
         ],
-        "label": "turning"
+        "label": {
+            "phrase": "turning the pedals in anger",
+            "count": 3
+        }
     },
     "clusterList": [
         {

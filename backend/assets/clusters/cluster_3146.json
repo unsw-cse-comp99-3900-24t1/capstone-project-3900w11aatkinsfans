@@ -8,7 +8,10 @@
             "01:29",
             "04:24"
         ],
-        "label": "mediation"
+        "label": {
+            "phrase": "mediation or other forms of alternative dispute resolution",
+            "count": 2
+        }
     },
     "clusterList": [
         {

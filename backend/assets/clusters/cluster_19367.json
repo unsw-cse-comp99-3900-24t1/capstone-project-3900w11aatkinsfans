@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "jews"
+        "label": {
+            "phrase": "jews make all the money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -18,7 +18,10 @@
             "03:02",
             "04:18"
         ],
-        "label": "before"
+        "label": {
+            "phrase": "before you get settled in i need you to fill out this form",
+            "count": 1
+        }
     },
     "clusterList": [
         {

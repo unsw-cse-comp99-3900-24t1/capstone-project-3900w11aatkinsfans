@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not ready to make nice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

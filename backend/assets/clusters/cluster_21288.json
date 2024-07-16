@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it looked like we were about to go down like the titanic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

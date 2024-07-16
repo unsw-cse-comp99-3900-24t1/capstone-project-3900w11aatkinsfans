@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "fuck"
+        "label": {
+            "phrase": "fuck the refund",
+            "count": 1
+        }
     },
     "clusterList": [
         {

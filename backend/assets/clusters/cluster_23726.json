@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "hierarchical"
+        "label": {
+            "phrase": "hierarchical nar agenda",
+            "count": 1
+        }
     },
     "clusterList": [
         {

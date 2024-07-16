@@ -10,7 +10,10 @@
             "01:51",
             "04:08"
         ],
-        "label": "failed"
+        "label": {
+            "phrase": "failed to achieve results",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "04:08",
             "04:45"
         ],
-        "label": "ready"
+        "label": {
+            "phrase": "thankfully we didn't have to wait ten years between",
+            "count": 4
+        }
     },
     "clusterList": [
         {

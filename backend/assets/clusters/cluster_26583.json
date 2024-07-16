@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "clear"
+        "label": {
+            "phrase": "clear paid specialist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

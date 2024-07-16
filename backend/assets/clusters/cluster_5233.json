@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i see you were unable to respond to the points in",
+            "count": 2
+        }
     },
     "clusterList": [
         {

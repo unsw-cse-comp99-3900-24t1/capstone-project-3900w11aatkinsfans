@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no cry sleep solution",
+            "count": 1
+        }
     },
     "clusterList": [
         {

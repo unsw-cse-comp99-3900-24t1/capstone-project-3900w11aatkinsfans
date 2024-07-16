@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "sure"
+        "label": {
+            "phrase": "sure i'll do one hundred pushups and one hundred burpees no problem yep go ahead and time me too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

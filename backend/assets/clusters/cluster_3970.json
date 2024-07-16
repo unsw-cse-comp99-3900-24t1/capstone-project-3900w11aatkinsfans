@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "saul"
+        "label": {
+            "phrase": "saul take another card",
+            "count": 2
+        }
     },
     "clusterList": [
         {

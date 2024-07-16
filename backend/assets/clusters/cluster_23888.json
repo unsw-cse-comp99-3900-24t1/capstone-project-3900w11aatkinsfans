@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the price for securing the pearl of great value",
+            "count": 1
+        }
     },
     "clusterList": [
         {

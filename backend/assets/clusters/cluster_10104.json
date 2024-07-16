@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "mikko"
+        "label": {
+            "phrase": "mikko everything will be fine okay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

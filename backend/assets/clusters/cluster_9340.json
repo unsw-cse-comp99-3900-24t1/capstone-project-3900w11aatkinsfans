@@ -8,7 +8,10 @@
             "01:01",
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hunchback of notre dame",
+            "count": 1
+        }
     },
     "clusterList": [
         {

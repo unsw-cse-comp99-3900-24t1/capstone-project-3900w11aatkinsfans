@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "helllllloooooo"
+        "label": {
+            "phrase": "helllllloooooo where is my foooooood",
+            "count": 1
+        }
     },
     "clusterList": [
         {

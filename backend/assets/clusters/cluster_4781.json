@@ -12,7 +12,10 @@
             "01:30",
             "04:23"
         ],
-        "label": "mystic"
+        "label": {
+            "phrase": "magical mystery tour",
+            "count": 2
+        }
     },
     "clusterList": [
         {

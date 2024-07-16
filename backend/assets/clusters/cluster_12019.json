@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "jerry"
+        "label": {
+            "phrase": "jerry springer the opera",
+            "count": 2
+        }
     },
     "clusterList": [
         {

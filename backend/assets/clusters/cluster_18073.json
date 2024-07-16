@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "first"
+        "label": {
+            "phrase": "first we kick in the door and scare em up a bit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

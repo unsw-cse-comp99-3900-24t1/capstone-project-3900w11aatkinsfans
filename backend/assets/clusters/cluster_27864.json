@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was a red flag but once you investigate it most of these were just pled down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

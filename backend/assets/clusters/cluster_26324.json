@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the way things were",
+            "count": 1
+        }
     },
     "clusterList": [
         {

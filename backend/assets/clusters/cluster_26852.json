@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "doris"
+        "label": {
+            "phrase": "doris my garden is not the garden you visited it's not up to a tour",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:24",
             "04:15"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey david who is brea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

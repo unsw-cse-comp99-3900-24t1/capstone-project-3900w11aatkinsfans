@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "social"
+        "label": {
+            "phrase": "social domination of groups",
+            "count": 1
+        }
     },
     "clusterList": [
         {

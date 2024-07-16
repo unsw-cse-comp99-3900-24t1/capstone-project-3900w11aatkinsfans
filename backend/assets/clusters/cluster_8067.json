@@ -8,7 +8,10 @@
             "00:06",
             "03:43"
         ],
-        "label": "teens"
+        "label": {
+            "phrase": "teens might want different things every day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

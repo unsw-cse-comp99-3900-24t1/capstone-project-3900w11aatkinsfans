@@ -8,7 +8,10 @@
             "02:46",
             "03:43"
         ],
-        "label": "everything"
+        "label": {
+            "phrase": "everything starts snowballing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

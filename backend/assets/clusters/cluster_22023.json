@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because this was a really nice endgame",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they stop paying and they stop talking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

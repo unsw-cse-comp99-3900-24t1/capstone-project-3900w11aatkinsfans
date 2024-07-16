@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oooh"
+        "label": {
+            "phrase": "oooh i'll try and it'll be at a time when you don't expect it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it also states",
+            "count": 1
+        }
     },
     "clusterList": [
         {

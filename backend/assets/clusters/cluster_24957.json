@@ -6,7 +6,10 @@
         "xLabels": [
             "04:26"
         ],
-        "label": "were"
+        "label": {
+            "phrase": "were not as good at waiting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

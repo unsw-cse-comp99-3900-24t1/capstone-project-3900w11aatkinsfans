@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a confirmatory imaging study is indicated only if surgery is contemplated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

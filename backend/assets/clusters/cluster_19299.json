@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the first in which i lost myself looking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

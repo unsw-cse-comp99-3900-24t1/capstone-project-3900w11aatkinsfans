@@ -22,7 +22,10 @@
             "02:10",
             "02:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the beaver state",
+            "count": 8
+        }
     },
     "clusterList": [
         {

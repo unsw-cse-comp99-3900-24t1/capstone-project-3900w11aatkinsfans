@@ -86,7 +86,10 @@
             "04:52",
             "05:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the red sox don't deserve a player like me",
+            "count": 17
+        }
     },
     "clusterList": [
         {

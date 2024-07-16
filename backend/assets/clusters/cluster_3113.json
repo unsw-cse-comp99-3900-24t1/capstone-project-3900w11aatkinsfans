@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes it is a word and financially it means you'll cease to exist",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:12"
         ],
-        "label": "here's"
+        "label": {
+            "phrase": "here's my point of view what is yours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

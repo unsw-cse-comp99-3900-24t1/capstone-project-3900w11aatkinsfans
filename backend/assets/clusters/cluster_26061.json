@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "reload"
+        "label": {
+            "phrase": "reload this script",
+            "count": 1
+        }
     },
     "clusterList": [
         {

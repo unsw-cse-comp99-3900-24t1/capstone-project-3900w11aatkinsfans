@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when i text messaged with luis scola we talked about team chemistry that's only what worries us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

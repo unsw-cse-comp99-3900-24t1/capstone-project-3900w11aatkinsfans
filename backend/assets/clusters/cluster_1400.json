@@ -28,7 +28,10 @@
             "04:04",
             "04:46"
         ],
-        "label": "hi"
+        "label": {
+            "phrase": "who i'd like to meet",
+            "count": 3
+        }
     },
     "clusterList": [
         {

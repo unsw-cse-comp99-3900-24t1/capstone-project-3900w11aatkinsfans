@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the latest thing from sweden apparently",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -28,7 +28,10 @@
             "04:32",
             "05:05"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's this midori thing i keep hearing about",
+            "count": 7
+        }
     },
     "clusterList": [
         {

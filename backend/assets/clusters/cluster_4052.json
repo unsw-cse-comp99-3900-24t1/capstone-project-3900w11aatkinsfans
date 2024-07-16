@@ -14,7 +14,10 @@
             "02:41",
             "03:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the secretary headed a task force on driver safety and this issue came up and he was intrigued by the idea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

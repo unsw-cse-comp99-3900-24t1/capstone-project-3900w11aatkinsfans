@@ -12,7 +12,10 @@
             "04:28",
             "04:55"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey i wonder what they will have to eat today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

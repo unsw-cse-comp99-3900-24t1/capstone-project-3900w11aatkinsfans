@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "word"
+        "label": {
+            "phrase": "word games a sham and a flip-flop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

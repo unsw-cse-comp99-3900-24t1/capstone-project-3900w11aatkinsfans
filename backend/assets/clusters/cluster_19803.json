@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "yeah"
+        "label": {
+            "phrase": "yeah but you're a sophisticated jerk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

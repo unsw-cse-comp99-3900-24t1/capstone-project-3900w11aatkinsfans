@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's nothing laughable about a clown in the moonlight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

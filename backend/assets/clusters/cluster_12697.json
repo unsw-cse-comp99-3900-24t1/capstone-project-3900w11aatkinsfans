@@ -6,7 +6,10 @@
         "xLabels": [
             "00:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have something that is going to make you very happy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

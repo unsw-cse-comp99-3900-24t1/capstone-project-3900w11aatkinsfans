@@ -10,7 +10,10 @@
             "02:47",
             "04:45"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my head is still spinning 100 miles per hour",
+            "count": 3
+        }
     },
     "clusterList": [
         {

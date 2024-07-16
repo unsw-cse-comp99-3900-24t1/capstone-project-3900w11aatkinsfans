@@ -8,7 +8,10 @@
             "00:18",
             "04:28"
         ],
-        "label": "stay"
+        "label": {
+            "phrase": "stay awake alert you have no idea what day your master will show up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

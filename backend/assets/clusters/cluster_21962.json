@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey you're a grasshopper we've got a drink named after you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the phone rang i came in and there was no id i'm like who is this i usually wouldn't even answer the phone i tried to play like i was asleep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

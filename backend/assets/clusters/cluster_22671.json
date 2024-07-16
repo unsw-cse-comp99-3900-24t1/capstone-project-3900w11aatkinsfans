@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when you have the best products in a hot market you can sleep well at night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

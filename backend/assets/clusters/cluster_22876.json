@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's go with a live shot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

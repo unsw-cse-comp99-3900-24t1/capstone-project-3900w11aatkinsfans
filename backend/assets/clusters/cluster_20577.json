@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't fuck and file",
+            "count": 1
+        }
     },
     "clusterList": [
         {

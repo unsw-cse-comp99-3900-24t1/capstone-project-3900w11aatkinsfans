@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are no pronouns in japanese",
+            "count": 2
+        }
     },
     "clusterList": [
         {

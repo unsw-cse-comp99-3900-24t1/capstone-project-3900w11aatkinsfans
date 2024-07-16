@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "everything"
+        "label": {
+            "phrase": "everything just felt right about the panthers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

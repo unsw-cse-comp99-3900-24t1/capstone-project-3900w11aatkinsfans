@@ -10,7 +10,10 @@
             "03:49",
             "04:21"
         ],
-        "label": "shop"
+        "label": {
+            "phrase": "shop online for your home decor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

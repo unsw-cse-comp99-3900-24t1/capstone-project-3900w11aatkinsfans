@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some concern for neural and behavioral effects in early stages of development",
+            "count": 1
+        }
     },
     "clusterList": [
         {

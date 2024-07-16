@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "listen"
+        "label": {
+            "phrase": "listen to what the man said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

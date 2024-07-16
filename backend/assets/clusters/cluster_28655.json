@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've changed over the last 200 years from the days of the wild wild west",
+            "count": 1
+        }
     },
     "clusterList": [
         {

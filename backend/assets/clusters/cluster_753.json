@@ -36,7 +36,10 @@
             "03:59",
             "05:00"
         ],
-        "label": "wait"
+        "label": {
+            "phrase": "this is the moment that the world is waiting for",
+            "count": 5
+        }
     },
     "clusterList": [
         {

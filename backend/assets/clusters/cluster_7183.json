@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's what happens when you sleep outside",
+            "count": 3
+        }
     },
     "clusterList": [
         {

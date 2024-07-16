@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my family members often come to watch our shows",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -16,7 +16,10 @@
             "04:05",
             "05:05"
         ],
-        "label": "wash"
+        "label": {
+            "phrase": "i'm tired of people thinking i stink",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:21"
         ],
-        "label": "appflow"
+        "label": {
+            "phrase": "appflow 2 0",
+            "count": 1
+        }
     },
     "clusterList": [
         {

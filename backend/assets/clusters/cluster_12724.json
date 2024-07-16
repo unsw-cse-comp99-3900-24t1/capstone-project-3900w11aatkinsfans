@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for the d",
+            "count": 1
+        }
     },
     "clusterList": [
         {

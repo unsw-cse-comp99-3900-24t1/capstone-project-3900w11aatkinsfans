@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "hundreds"
+        "label": {
+            "phrase": "hundreds of regular minnesotans ran toward pain and danger and saved many many lives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

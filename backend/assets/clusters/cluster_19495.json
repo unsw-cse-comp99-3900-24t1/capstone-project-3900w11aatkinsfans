@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "ucla"
+        "label": {
+            "phrase": "ucla basketball coach is current gig at wwl",
+            "count": 1
+        }
     },
     "clusterList": [
         {

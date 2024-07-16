@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as american as apple pie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

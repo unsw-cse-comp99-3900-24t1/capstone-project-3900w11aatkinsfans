@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "little"
+        "label": {
+            "phrase": "little hoodrat friend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it will prove its worth as an investment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

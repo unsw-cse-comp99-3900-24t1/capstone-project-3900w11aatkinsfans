@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "escape"
+        "label": {
+            "phrase": "escape from winterfin retreat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

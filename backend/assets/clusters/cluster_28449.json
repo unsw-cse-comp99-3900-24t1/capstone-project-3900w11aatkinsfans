@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who are queen city fc",
+            "count": 1
+        }
     },
     "clusterList": [
         {

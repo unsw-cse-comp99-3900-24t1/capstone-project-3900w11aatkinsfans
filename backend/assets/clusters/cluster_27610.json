@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "spin"
+        "label": {
+            "phrase": "spin for whatever reason",
+            "count": 1
+        }
     },
     "clusterList": [
         {

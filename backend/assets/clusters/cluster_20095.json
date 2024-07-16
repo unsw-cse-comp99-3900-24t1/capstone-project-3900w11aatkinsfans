@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the three musketeers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

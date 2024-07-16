@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we acknowledge we violated this section of the excise act",
+            "count": 1
+        }
     },
     "clusterList": [
         {

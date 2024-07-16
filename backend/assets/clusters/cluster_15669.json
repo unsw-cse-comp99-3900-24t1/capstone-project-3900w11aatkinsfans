@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "five"
+        "label": {
+            "phrase": "five loaves and two fish are all we have here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

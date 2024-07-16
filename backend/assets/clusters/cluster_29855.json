@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if anything does come up at all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

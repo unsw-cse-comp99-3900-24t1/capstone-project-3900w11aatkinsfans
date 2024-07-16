@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "dr"
+        "label": {
+            "phrase": "dr horrible's sing-along blog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

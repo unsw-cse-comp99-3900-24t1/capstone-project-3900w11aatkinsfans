@@ -6,7 +6,10 @@
         "xLabels": [
             "02:44"
         ],
-        "label": "80"
+        "label": {
+            "phrase": "80 is thermodynamically not possible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

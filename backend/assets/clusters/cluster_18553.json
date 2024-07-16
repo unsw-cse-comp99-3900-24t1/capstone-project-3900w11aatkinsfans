@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a cross-section of voters are alarmed at the tenor of some of these statements",
+            "count": 1
+        }
     },
     "clusterList": [
         {

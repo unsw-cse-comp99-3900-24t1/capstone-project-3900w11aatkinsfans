@@ -8,7 +8,10 @@
             "01:57",
             "02:38"
         ],
-        "label": "jocketty"
+        "label": {
+            "phrase": "jocketty is not a dummy",
+            "count": 2
+        }
     },
     "clusterList": [
         {

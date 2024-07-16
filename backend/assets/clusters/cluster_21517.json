@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "associate"
+        "label": {
+            "phrase": "associate task force",
+            "count": 1
+        }
     },
     "clusterList": [
         {

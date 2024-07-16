@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the work of an intelligence service not a small group",
+            "count": 1
+        }
     },
     "clusterList": [
         {

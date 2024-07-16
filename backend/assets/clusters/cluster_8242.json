@@ -8,7 +8,10 @@
             "00:12",
             "02:14"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give something back to the community",
+            "count": 1
+        }
     },
     "clusterList": [
         {

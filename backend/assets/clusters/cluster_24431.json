@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most promising cms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

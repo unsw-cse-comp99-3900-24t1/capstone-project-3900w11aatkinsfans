@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "come"
+        "label": {
+            "phrase": "come on shazza people are waiting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

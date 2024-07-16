@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i realized that the camera didn't give me problems",
+            "count": 1
+        }
     },
     "clusterList": [
         {

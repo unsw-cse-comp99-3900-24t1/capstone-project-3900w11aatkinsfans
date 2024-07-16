@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "tell"
+        "label": {
+            "phrase": "tell us what it is will you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

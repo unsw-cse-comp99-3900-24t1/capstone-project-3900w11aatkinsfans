@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the needs of the many outweight the needs of the few",
+            "count": 1
+        }
     },
     "clusterList": [
         {

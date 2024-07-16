@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "nevertheless"
+        "label": {
+            "phrase": "nevertheless taking into account the time ms malik spent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

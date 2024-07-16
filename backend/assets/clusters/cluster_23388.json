@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "um"
+        "label": {
+            "phrase": "um is that pms on your face",
+            "count": 1
+        }
     },
     "clusterList": [
         {

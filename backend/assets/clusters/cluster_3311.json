@@ -12,7 +12,10 @@
             "02:57",
             "04:00"
         ],
-        "label": "sheikh"
+        "label": {
+            "phrase": "sheikh doesn't know",
+            "count": 3
+        }
     },
     "clusterList": [
         {

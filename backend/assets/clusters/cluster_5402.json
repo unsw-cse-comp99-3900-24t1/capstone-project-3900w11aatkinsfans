@@ -8,7 +8,10 @@
             "04:04",
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the monsters are due on maple street",
+            "count": 4
+        }
     },
     "clusterList": [
         {

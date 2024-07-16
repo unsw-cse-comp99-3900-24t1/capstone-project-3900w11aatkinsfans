@@ -18,7 +18,10 @@
             "04:05",
             "05:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "they don't want me to tell you that",
+            "count": 2
+        }
     },
     "clusterList": [
         {

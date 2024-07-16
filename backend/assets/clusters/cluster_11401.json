@@ -8,7 +8,10 @@
             "03:23",
             "04:05"
         ],
-        "label": "paul"
+        "label": {
+            "phrase": "paul insisted i read this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "00:48",
             "03:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the cream",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is still great",
+            "count": 1
+        }
     },
     "clusterList": [
         {

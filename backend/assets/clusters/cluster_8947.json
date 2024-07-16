@@ -6,7 +6,10 @@
         "xLabels": [
             "00:42"
         ],
-        "label": "penpals"
+        "label": {
+            "phrase": "penpals threshold high",
+            "count": 2
+        }
     },
     "clusterList": [
         {

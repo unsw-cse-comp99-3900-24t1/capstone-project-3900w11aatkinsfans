@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "fire"
+        "label": {
+            "phrase": "fire litigation teams",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an elixir for long life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

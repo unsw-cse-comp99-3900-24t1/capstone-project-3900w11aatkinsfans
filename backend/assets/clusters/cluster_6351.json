@@ -10,7 +10,10 @@
             "01:07",
             "02:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not that the internet is broken",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people that have crept in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

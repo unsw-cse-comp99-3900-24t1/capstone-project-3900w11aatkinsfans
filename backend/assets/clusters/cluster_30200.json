@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't care what this prints",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:56",
             "04:24"
         ],
-        "label": "running"
+        "label": {
+            "phrase": "running down the stairs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

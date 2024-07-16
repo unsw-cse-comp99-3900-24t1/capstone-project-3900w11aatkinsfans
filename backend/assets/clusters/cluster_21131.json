@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i heard about it through crystal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

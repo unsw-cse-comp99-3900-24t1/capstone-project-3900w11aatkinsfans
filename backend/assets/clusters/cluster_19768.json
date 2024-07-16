@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh no i just remembered i didn't flush their toilet this morning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

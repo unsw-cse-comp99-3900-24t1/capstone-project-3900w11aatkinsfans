@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "enforced"
+        "label": {
+            "phrase": "enforced and involuntary service for a private master",
+            "count": 1
+        }
     },
     "clusterList": [
         {

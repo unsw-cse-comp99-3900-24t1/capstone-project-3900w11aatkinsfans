@@ -28,7 +28,10 @@
             "04:51",
             "05:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "dash to the center",
+            "count": 6
+        }
     },
     "clusterList": [
         {

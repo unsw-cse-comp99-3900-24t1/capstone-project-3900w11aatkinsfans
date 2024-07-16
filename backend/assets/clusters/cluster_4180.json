@@ -14,7 +14,10 @@
             "03:18",
             "03:48"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this test is imposs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

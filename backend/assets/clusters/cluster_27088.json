@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our dj brings you the best in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

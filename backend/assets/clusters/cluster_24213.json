@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the national weather service has issued a severe tornado warning for the entire united states",
+            "count": 1
+        }
     },
     "clusterList": [
         {

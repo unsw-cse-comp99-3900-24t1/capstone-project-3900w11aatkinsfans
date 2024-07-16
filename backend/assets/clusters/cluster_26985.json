@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's not good data showing that eight eight-ounce glasses does any good to anybody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

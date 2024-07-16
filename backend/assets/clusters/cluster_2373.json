@@ -18,7 +18,10 @@
             "03:42",
             "05:04"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "we got some positive news today",
+            "count": 2
+        }
     },
     "clusterList": [
         {

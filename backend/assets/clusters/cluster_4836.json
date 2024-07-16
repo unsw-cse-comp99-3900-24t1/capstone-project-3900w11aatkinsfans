@@ -10,7 +10,10 @@
             "03:09",
             "04:23"
         ],
-        "label": "unable"
+        "label": {
+            "phrase": "unable to read the source file",
+            "count": 2
+        }
     },
     "clusterList": [
         {

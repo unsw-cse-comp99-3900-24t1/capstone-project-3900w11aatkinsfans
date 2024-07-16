@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "austria"
+        "label": {
+            "phrase": "austria was ruled by a",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "applicable"
+        "label": {
+            "phrase": "applicable only when you spend over so and so much money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

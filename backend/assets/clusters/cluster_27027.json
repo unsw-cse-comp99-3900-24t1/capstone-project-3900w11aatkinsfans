@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the opposite we're finding out what people want and doing it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

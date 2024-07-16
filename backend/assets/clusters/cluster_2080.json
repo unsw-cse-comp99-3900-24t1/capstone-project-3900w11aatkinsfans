@@ -20,7 +20,10 @@
             "04:23",
             "05:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the vast majority of editors are incorruptible",
+            "count": 8
+        }
     },
     "clusterList": [
         {

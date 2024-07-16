@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "need"
+        "label": {
+            "phrase": "need to survive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

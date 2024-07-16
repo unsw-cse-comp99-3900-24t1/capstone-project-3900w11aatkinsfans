@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "always"
+        "label": {
+            "phrase": "always home and uncool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

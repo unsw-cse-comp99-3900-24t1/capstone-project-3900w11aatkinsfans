@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two lover's point",
+            "count": 1
+        }
     },
     "clusterList": [
         {

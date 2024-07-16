@@ -10,7 +10,10 @@
             "01:29",
             "02:28"
         ],
-        "label": "drug"
+        "label": {
+            "phrase": "drug research needs serendipity",
+            "count": 2
+        }
     },
     "clusterList": [
         {

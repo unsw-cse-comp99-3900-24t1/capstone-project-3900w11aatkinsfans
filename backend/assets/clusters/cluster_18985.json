@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the island is not part of the traffic zone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

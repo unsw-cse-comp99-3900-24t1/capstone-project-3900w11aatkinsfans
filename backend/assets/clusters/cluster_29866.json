@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to hear the roar of a cannon once more",
+            "count": 1
+        }
     },
     "clusterList": [
         {

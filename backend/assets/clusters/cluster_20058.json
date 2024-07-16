@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "vinitaly"
+        "label": {
+            "phrase": "vinitaly for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

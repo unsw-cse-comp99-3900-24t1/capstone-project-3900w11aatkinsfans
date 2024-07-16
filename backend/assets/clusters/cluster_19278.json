@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's like a step back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

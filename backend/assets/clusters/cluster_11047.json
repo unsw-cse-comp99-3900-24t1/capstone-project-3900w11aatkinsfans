@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "make"
+        "label": {
+            "phrase": "make your hands heavy on the enemy during their rest hours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

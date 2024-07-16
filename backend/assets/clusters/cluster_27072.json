@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "batters"
+        "label": {
+            "phrase": "batters were struggling against a new zealand side which is still growing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

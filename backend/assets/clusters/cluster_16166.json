@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "third"
+        "label": {
+            "phrase": "third time's a charm as they say or is this the fourth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

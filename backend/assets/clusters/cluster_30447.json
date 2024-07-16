@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "time"
+        "label": {
+            "phrase": "time out for boolchit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

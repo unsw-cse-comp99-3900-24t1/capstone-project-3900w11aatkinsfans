@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "roided"
+        "label": {
+            "phrase": "roided out to their mutant gills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

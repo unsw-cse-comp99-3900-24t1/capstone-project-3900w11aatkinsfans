@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "sworn"
+        "label": {
+            "phrase": "sworn enemy of the private sector",
+            "count": 1
+        }
     },
     "clusterList": [
         {

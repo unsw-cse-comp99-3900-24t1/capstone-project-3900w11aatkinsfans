@@ -10,7 +10,10 @@
             "01:09",
             "04:00"
         ],
-        "label": "insulin"
+        "label": {
+            "phrase": "insulin delivery based on carbohydrate counting is the gold standard for improving glycemic control in type 1 diabetes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

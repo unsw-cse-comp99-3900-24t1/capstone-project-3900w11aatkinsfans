@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "yeah"
+        "label": {
+            "phrase": "yeah the unemployee of the month",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -14,7 +14,10 @@
             "01:50",
             "02:24"
         ],
-        "label": "introduction"
+        "label": {
+            "phrase": "introduction to st athanasius",
+            "count": 1
+        }
     },
     "clusterList": [
         {

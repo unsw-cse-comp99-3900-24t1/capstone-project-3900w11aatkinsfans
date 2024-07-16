@@ -16,7 +16,10 @@
             "02:11",
             "03:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the flash iron heights",
+            "count": 1
+        }
     },
     "clusterList": [
         {

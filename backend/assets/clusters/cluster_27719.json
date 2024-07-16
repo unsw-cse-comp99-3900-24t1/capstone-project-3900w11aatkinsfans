@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "land"
+        "label": {
+            "phrase": "land fit for heroes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

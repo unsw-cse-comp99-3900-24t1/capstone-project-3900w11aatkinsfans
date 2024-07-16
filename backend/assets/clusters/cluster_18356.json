@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how do you deal with what they're saying about in the trunk of the car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

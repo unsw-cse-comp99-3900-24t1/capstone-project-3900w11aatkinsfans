@@ -8,7 +8,10 @@
             "02:36",
             "03:02"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how do you solve a problem like maria",
+            "count": 2
+        }
     },
     "clusterList": [
         {

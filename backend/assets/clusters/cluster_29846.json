@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "bachelor"
+        "label": {
+            "phrase": "bachelor in hamburgerology",
+            "count": 1
+        }
     },
     "clusterList": [
         {

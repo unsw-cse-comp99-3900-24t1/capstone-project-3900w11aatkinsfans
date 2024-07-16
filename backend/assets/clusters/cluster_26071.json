@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all that glitters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

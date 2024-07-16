@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god wants spiritual fruits not religious nuts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

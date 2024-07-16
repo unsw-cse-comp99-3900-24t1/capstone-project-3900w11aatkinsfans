@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if one doesn't know the language one is completely at the mercy of the interpreter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

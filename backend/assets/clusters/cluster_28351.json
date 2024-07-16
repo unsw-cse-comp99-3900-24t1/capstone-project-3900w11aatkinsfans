@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "stopped"
+        "label": {
+            "phrase": "stopped getting high",
+            "count": 1
+        }
     },
     "clusterList": [
         {

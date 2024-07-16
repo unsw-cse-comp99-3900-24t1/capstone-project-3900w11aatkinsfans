@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "cars"
+        "label": {
+            "phrase": "cars don't have cd players",
+            "count": 1
+        }
     },
     "clusterList": [
         {

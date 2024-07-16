@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "reminds"
+        "label": {
+            "phrase": "reminds us of who we're working for",
+            "count": 1
+        }
     },
     "clusterList": [
         {

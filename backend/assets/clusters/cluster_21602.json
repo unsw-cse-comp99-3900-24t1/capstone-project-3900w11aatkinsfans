@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't have the foggiest idea what we'll do with this but we have a suspicion that if we let people use this particular thing right now we'll regret it someday",
+            "count": 1
+        }
     },
     "clusterList": [
         {

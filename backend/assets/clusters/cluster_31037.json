@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is no small feat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

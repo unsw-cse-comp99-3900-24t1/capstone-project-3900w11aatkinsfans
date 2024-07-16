@@ -12,7 +12,10 @@
             "04:10",
             "04:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mad bull",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "treated"
+        "label": {
+            "phrase": "treated like a man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

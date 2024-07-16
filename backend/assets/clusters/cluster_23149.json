@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "whales"
+        "label": {
+            "phrase": "whales and dolphins can be extremely dangerous and should be approached with care a dying whale or dolphin can kill a person with its tail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

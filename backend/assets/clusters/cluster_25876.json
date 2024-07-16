@@ -6,7 +6,10 @@
         "xLabels": [
             "03:31"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're definitely giving back gates but we haven't decided on a specific number yet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

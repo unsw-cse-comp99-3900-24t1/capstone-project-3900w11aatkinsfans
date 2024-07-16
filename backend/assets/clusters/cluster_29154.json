@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "joe's"
+        "label": {
+            "phrase": "joe's crab shack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

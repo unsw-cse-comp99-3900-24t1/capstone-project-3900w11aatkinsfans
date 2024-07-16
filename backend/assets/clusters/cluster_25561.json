@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the japanese understand this table in columns rather than rows",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the nearness of you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "st"
+        "label": {
+            "phrase": "st louis startup event registration open",
+            "count": 1
+        }
     },
     "clusterList": [
         {

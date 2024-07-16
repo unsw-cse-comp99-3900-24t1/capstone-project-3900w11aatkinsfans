@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm surprised my house is still here maybe it's because it was built in 1916 if it had been younger it wouldn't have survived",
+            "count": 1
+        }
     },
     "clusterList": [
         {

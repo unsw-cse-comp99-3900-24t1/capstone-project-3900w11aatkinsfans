@@ -40,7 +40,10 @@
             "04:37",
             "04:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the efficiency gains are really slow",
+            "count": 5
+        }
     },
     "clusterList": [
         {

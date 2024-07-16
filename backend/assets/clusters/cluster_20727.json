@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "mild"
+        "label": {
+            "phrase": "mild and gentle enough for newborns",
+            "count": 1
+        }
     },
     "clusterList": [
         {

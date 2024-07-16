@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "usually"
+        "label": {
+            "phrase": "usually we were seeing calls that dealt with the line of scrimmage whether it be off-sides or formation misalignments",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "defender"
+        "label": {
+            "phrase": "defender of the favicon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

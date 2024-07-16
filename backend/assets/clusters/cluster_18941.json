@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ipod shuffle is synced with another itunes library do you want to erase this ipod and sync it with this itunes library",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i agree with what elizabeth said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

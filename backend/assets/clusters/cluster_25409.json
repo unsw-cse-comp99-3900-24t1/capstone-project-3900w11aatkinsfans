@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the palm beach story",
+            "count": 1
+        }
     },
     "clusterList": [
         {

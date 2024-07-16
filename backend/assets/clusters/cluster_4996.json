@@ -10,7 +10,10 @@
             "02:01",
             "03:06"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "it was nice to go bogey-free i haven't done that in a while",
+            "count": 3
+        }
     },
     "clusterList": [
         {

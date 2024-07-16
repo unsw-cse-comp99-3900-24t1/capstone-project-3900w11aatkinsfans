@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was less than subtle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

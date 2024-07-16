@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then this file is just fine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

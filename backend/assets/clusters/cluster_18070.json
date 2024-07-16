@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "you'll"
+        "label": {
+            "phrase": "you'll bring your mother back a present won't you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

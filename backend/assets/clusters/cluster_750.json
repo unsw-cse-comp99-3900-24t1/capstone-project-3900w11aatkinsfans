@@ -28,7 +28,10 @@
             "04:50",
             "05:04"
         ],
-        "label": "twin"
+        "label": {
+            "phrase": "building from git",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those folks are currently spread out among several offices",
+            "count": 1
+        }
     },
     "clusterList": [
         {

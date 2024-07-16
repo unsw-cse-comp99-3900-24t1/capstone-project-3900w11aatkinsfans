@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "uh"
+        "label": {
+            "phrase": "uh that's against protocol agent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

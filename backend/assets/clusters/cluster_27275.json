@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are the reason we are here and where we are at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

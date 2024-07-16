@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a fight of the year candidate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

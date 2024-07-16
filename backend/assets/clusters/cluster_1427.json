@@ -20,7 +20,10 @@
             "04:42",
             "04:55"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "the amazing race",
+            "count": 3
+        }
     },
     "clusterList": [
         {

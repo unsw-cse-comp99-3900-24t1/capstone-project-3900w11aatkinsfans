@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if stupidity got us into this mess then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

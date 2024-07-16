@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the palm springs of washington",
+            "count": 1
+        }
     },
     "clusterList": [
         {

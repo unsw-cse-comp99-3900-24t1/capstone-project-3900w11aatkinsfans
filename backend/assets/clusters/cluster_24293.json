@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we cut a hole in the fence and we kept running and running",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "doesn't"
+        "label": {
+            "phrase": "doesn't work it's too low to be a work surface",
+            "count": 1
+        }
     },
     "clusterList": [
         {

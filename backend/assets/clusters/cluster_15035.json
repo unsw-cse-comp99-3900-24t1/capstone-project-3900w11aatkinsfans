@@ -6,7 +6,10 @@
         "xLabels": [
             "00:27"
         ],
-        "label": "sweeping"
+        "label": {
+            "phrase": "sweeping the balcony",
+            "count": 1
+        }
     },
     "clusterList": [
         {

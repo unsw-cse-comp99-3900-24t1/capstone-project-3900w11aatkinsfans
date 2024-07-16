@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "harkin"
+        "label": {
+            "phrase": "harkin also said that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't think the online traffic for sporting events is high enough to matter that much to the average firm's network performance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

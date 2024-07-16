@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "significant"
+        "label": {
+            "phrase": "significant changes in the competitive landscape",
+            "count": 1
+        }
     },
     "clusterList": [
         {

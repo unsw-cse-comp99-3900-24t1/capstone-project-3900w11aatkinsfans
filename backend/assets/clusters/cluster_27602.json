@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "nocera"
+        "label": {
+            "phrase": "nocera and matthew kanan a postdoctoral fellow in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

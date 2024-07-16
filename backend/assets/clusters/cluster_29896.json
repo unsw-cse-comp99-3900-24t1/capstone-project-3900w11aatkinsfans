@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the big thing is just to keep improving",
+            "count": 1
+        }
     },
     "clusterList": [
         {

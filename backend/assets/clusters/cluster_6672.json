@@ -10,7 +10,10 @@
             "01:52",
             "04:37"
         ],
-        "label": "checking"
+        "label": {
+            "phrase": "checking into the situation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

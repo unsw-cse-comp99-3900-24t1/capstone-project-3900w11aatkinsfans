@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a great brand is a story that is never completely told",
+            "count": 1
+        }
     },
     "clusterList": [
         {

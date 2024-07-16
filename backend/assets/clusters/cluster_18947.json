@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "turn"
+        "label": {
+            "phrase": "turn off 3g",
+            "count": 1
+        }
     },
     "clusterList": [
         {

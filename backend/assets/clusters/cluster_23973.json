@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the europeans would never receive this treatment",
+            "count": 1
+        }
     },
     "clusterList": [
         {

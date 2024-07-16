@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the heart hidden in the canned goods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

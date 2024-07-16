@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "indicating"
+        "label": {
+            "phrase": "indicating that it is viewable which is unfortunate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

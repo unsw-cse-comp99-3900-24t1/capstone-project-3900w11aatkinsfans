@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a wonderful thing for the housing industry and all of the relating industries from furniture to carpet to paint and lumber",
+            "count": 1
+        }
     },
     "clusterList": [
         {

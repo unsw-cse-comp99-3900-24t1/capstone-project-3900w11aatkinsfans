@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "100"
+        "label": {
+            "phrase": "100 reclaimed food",
+            "count": 1
+        }
     },
     "clusterList": [
         {

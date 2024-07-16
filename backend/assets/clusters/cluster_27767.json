@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the orphanage tell rex your coming to get him because he doesn't behave",
+            "count": 1
+        }
     },
     "clusterList": [
         {

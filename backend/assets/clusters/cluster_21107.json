@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when news of the takedown notice spread protest groups with tens of thousands of members sprung up on facebook asking hasbro to rethink its decision",
+            "count": 1
+        }
     },
     "clusterList": [
         {

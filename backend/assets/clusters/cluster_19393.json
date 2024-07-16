@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "mr jacob the rent man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:46"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they go to the gas pumps like i do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the abundance of elements in the universe has increased as stars have accumulated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "giving"
+        "label": {
+            "phrase": "giving you back results based on popularity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

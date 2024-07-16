@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "cpa"
+        "label": {
+            "phrase": "cpa leader indy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

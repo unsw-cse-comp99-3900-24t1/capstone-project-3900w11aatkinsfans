@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "sin"
+        "label": {
+            "phrase": "sin in public",
+            "count": 1
+        }
     },
     "clusterList": [
         {

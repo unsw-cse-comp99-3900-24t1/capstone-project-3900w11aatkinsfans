@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "premier"
+        "label": {
+            "phrase": "premier danny williams has not been available for interviews this week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

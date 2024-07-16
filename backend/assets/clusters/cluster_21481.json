@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're officially living in sin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

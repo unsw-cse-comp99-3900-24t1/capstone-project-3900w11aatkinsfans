@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "stop"
+        "label": {
+            "phrase": "stop flashing everyone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

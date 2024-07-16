@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "ups"
+        "label": {
+            "phrase": "ups and downs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

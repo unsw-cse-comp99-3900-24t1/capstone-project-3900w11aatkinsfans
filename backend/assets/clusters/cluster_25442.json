@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the comment section the comment section nope doesn't ring a bell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

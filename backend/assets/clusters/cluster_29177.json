@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "cotton"
+        "label": {
+            "phrase": "cotton comes to harlem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they represent the type of music that our fathers played recorded and passed on to us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

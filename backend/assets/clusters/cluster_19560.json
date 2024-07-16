@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when your name's in the mix this time is a little more interesting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

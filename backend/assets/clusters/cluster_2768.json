@@ -16,7 +16,10 @@
             "04:13",
             "04:24"
         ],
-        "label": "buy"
+        "label": {
+            "phrase": "no win no fee",
+            "count": 2
+        }
     },
     "clusterList": [
         {

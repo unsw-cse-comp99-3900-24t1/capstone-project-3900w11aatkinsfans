@@ -8,7 +8,10 @@
             "00:09",
             "03:41"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this attack involves a special packet which has the effect of disconnecting the endpoint",
+            "count": 1
+        }
     },
     "clusterList": [
         {

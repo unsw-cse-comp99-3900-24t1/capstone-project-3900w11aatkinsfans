@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't know about this maybe we should go back inside one of these things could go haywire and hit us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

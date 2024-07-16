@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "dammit"
+        "label": {
+            "phrase": "dammit gengar why do you have to wake me up like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

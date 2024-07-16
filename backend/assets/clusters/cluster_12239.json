@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "robert"
+        "label": {
+            "phrase": "robert was is my son",
+            "count": 1
+        }
     },
     "clusterList": [
         {

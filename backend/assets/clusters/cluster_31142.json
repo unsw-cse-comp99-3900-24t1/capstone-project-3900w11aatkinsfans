@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an impolite interview with lenny bruce",
+            "count": 1
+        }
     },
     "clusterList": [
         {

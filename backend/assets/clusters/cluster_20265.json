@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "pain"
+        "label": {
+            "phrase": "pain does not exist in this dojo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

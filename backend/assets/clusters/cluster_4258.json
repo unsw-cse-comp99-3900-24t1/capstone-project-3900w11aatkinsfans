@@ -14,7 +14,10 @@
             "03:23",
             "04:23"
         ],
-        "label": "catch"
+        "label": {
+            "phrase": "this is specific to making sure all the catch is accounted for",
+            "count": 2
+        }
     },
     "clusterList": [
         {

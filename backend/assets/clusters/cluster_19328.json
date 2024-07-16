@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "looks"
+        "label": {
+            "phrase": "looks like our cover is blown we have a large group heading our way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

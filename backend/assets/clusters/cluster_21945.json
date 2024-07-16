@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "ready"
+        "label": {
+            "phrase": "ready to mingle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

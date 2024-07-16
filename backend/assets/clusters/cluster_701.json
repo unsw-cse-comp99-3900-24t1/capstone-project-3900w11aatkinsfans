@@ -36,7 +36,10 @@
             "03:55",
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "what is true one day is not true the next and we don't really make the news we tell you what we hear",
+            "count": 2
+        }
     },
     "clusterList": [
         {

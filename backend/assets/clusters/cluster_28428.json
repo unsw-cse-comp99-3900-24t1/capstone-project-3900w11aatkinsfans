@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he is expected to be mr",
+            "count": 1
+        }
     },
     "clusterList": [
         {

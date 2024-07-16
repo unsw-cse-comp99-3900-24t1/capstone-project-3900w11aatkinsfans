@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is such a photogenic country",
+            "count": 1
+        }
     },
     "clusterList": [
         {

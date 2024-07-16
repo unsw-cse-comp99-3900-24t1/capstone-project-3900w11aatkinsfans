@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "today's"
+        "label": {
+            "phrase": "today's dedicated server of the day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

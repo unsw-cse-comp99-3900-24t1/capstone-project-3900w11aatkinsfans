@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "loyola"
+        "label": {
+            "phrase": "loyola was once asked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

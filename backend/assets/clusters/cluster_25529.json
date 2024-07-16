@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there could be other perks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

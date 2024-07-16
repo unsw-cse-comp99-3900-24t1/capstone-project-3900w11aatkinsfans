@@ -8,7 +8,10 @@
             "00:50",
             "04:17"
         ],
-        "label": "kick"
+        "label": {
+            "phrase": "kick when down type",
+            "count": 1
+        }
     },
     "clusterList": [
         {

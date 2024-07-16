@@ -10,7 +10,10 @@
             "00:12",
             "02:00"
         ],
-        "label": "while"
+        "label": {
+            "phrase": "while it's hot and dry the water supply level is very solid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

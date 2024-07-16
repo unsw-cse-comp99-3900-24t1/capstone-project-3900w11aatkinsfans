@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "energizes"
+        "label": {
+            "phrase": "energizes my soul",
+            "count": 1
+        }
     },
     "clusterList": [
         {

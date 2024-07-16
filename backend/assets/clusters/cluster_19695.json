@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our central location between major markets seattle portland salt lake city las vegas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

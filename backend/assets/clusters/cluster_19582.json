@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no guns knives weapons or profanity permitted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

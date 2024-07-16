@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i just want to make sure you are going to stick around",
+            "count": 1
+        }
     },
     "clusterList": [
         {

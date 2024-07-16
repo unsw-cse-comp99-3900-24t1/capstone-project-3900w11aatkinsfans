@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "crews"
+        "label": {
+            "phrase": "crews are sick and tired of being sick and tired",
+            "count": 1
+        }
     },
     "clusterList": [
         {

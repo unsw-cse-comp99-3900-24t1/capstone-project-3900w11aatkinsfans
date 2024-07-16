@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've always been nibbling around the edges of the red lake camp",
+            "count": 1
+        }
     },
     "clusterList": [
         {

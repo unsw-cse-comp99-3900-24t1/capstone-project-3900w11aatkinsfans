@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the new emerging segment",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you wanna poll the audience",
+            "count": 1
+        }
     },
     "clusterList": [
         {

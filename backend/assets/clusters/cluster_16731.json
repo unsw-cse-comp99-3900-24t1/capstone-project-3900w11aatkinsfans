@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "great"
+        "label": {
+            "phrase": "great i can go stay with my friend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

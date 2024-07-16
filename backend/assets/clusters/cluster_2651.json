@@ -16,7 +16,10 @@
             "04:05",
             "04:12"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the national interest",
+            "count": 2
+        }
     },
     "clusterList": [
         {

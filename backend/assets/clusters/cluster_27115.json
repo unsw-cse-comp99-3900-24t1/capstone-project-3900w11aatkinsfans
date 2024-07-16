@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you came in here to watch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

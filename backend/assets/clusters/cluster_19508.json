@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "negotiating"
+        "label": {
+            "phrase": "negotiating for rides",
+            "count": 1
+        }
     },
     "clusterList": [
         {

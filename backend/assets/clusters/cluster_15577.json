@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why didn't i get the part",
+            "count": 1
+        }
     },
     "clusterList": [
         {

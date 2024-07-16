@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well sonpow we will ask the wise man about this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

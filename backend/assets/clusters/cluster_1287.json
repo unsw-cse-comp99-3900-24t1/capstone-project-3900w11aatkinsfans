@@ -24,7 +24,10 @@
             "04:36",
             "05:05"
         ],
-        "label": "test"
+        "label": {
+            "phrase": "test your strength",
+            "count": 1
+        }
     },
     "clusterList": [
         {

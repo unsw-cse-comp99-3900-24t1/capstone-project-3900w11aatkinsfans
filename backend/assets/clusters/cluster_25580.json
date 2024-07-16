@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a rounding error",
+            "count": 1
+        }
     },
     "clusterList": [
         {

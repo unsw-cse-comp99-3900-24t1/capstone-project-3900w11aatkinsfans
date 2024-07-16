@@ -12,7 +12,10 @@
             "03:18",
             "04:54"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you going to give me a ticket or a warning",
+            "count": 2
+        }
     },
     "clusterList": [
         {

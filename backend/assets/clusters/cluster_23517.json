@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all swearing in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:56",
             "03:13"
         ],
-        "label": "romeo"
+        "label": {
+            "phrase": "romeo romeo wherefore art thou",
+            "count": 1
+        }
     },
     "clusterList": [
         {

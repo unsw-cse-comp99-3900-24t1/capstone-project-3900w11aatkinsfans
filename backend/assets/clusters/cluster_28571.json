@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how particular foods enhance wines when paired with them and vice versa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

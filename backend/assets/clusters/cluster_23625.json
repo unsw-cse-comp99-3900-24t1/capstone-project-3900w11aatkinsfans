@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "attitude"
+        "label": {
+            "phrase": "attitude is an amazing thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

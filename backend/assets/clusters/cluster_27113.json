@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a technical stop at anchorage alaska",
+            "count": 1
+        }
     },
     "clusterList": [
         {

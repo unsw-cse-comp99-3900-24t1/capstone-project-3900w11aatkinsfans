@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "russert's"
+        "label": {
+            "phrase": "russert's poop is considered currency in argentina",
+            "count": 1
+        }
     },
     "clusterList": [
         {

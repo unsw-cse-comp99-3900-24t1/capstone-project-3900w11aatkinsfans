@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "thinking"
+        "label": {
+            "phrase": "thinking man's metal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

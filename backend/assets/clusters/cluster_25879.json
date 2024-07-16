@@ -6,7 +6,10 @@
         "xLabels": [
             "03:31"
         ],
-        "label": "headlock"
+        "label": {
+            "phrase": "headlock and wedlock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

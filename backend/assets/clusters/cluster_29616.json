@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we can operate with temporary receipts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

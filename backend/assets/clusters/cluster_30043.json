@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it wasn't accessible from the web",
+            "count": 1
+        }
     },
     "clusterList": [
         {

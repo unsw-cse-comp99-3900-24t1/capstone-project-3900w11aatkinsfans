@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "italy"
+        "label": {
+            "phrase": "italy is as hot sometimes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "remember"
+        "label": {
+            "phrase": "remember wife is a four-letter word that's when the fight started",
+            "count": 1
+        }
     },
     "clusterList": [
         {

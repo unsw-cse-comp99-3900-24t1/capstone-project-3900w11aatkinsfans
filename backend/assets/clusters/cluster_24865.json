@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "retract"
+        "label": {
+            "phrase": "retract the suggestion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

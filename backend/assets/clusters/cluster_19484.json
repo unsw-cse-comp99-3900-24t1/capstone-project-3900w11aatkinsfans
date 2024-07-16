@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "placing"
+        "label": {
+            "phrase": "placing one over another",
+            "count": 1
+        }
     },
     "clusterList": [
         {

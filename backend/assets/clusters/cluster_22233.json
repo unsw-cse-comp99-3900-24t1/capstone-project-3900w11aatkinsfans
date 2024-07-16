@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "gpg"
+        "label": {
+            "phrase": "gpg mick feedback",
+            "count": 1
+        }
     },
     "clusterList": [
         {

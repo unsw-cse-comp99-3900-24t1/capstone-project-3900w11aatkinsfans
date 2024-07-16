@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "can't"
+        "label": {
+            "phrase": "can't you see i'm busy rotting away here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

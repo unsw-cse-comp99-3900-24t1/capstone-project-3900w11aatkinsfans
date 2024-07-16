@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but today parents treat ordinary as a dirty word",
+            "count": 1
+        }
     },
     "clusterList": [
         {

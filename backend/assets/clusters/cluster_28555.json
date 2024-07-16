@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "freedmen"
+        "label": {
+            "phrase": "freedmen who filed suit after being prevented from voting in two tribal elections in 2003",
+            "count": 1
+        }
     },
     "clusterList": [
         {

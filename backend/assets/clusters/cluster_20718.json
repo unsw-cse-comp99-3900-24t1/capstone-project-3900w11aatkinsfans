@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "freezing"
+        "label": {
+            "phrase": "freezing talks entails far greater danger than continuing them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

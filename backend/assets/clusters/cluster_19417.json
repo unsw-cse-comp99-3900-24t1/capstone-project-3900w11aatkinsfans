@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they love your skin they love your yellow skin they do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "asterisk"
+        "label": {
+            "phrase": "asterisk on credentials",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "best"
+        "label": {
+            "phrase": "best in italy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

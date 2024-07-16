@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "damn"
+        "label": {
+            "phrase": "damn i'll have to take care of that also",
+            "count": 1
+        }
     },
     "clusterList": [
         {

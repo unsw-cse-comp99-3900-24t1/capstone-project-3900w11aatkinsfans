@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "denounce"
+        "label": {
+            "phrase": "denounce and reject",
+            "count": 1
+        }
     },
     "clusterList": [
         {

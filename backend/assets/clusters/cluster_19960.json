@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "ny"
+        "label": {
+            "phrase": "ny comes in last again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

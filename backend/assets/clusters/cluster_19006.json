@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a decaf latte right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

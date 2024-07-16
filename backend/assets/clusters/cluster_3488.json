@@ -14,7 +14,10 @@
             "04:13",
             "04:33"
         ],
-        "label": "explain"
+        "label": {
+            "phrase": "explain please for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why should i sign with you when i might have to pack up and move in six months",
+            "count": 1
+        }
     },
     "clusterList": [
         {

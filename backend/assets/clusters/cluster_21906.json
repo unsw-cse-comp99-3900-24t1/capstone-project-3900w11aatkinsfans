@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "someone"
+        "label": {
+            "phrase": "someone is getting paid to do that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

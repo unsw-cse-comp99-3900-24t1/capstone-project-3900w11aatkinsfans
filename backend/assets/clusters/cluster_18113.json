@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "insanity"
+        "label": {
+            "phrase": "insanity doing the same thing over and over again and expecting different results",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "out"
+        "label": {
+            "phrase": "out of print",
+            "count": 1
+        }
     },
     "clusterList": [
         {

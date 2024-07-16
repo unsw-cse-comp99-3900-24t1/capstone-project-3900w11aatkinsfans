@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a year ago we could drive where we wanted we'd go bombing across the fields because it was safer that going on the roads",
+            "count": 1
+        }
     },
     "clusterList": [
         {

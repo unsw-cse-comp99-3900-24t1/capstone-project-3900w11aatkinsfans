@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "ssh"
+        "label": {
+            "phrase": "ssh auth sock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

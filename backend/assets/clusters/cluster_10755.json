@@ -8,7 +8,10 @@
             "01:37",
             "03:15"
         ],
-        "label": "here"
+        "label": {
+            "phrase": "here you can rotate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

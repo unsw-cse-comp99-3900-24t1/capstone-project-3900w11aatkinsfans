@@ -22,7 +22,10 @@
             "04:36",
             "04:41"
         ],
-        "label": "dad"
+        "label": {
+            "phrase": "please dont do this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

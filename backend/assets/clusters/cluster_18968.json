@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a group of his friends are planning to set up a hillsboro argus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "god's"
+        "label": {
+            "phrase": "god's prickly pear",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "00:23",
             "01:24"
         ],
-        "label": "put"
+        "label": {
+            "phrase": "put forward an offer to buy british energy",
+            "count": 3
+        }
     },
     "clusterList": [
         {

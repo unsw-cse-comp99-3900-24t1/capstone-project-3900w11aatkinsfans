@@ -6,7 +6,10 @@
         "xLabels": [
             "04:49"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's just a constant accelerating problem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

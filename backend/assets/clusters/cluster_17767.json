@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "let"
+        "label": {
+            "phrase": "let us be silent that we may hear the whisper of god",
+            "count": 1
+        }
     },
     "clusterList": [
         {

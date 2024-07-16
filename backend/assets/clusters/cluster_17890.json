@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's risa's cloathes doing her",
+            "count": 1
+        }
     },
     "clusterList": [
         {

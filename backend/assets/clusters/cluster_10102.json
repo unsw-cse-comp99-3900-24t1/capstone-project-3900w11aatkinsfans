@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "hmpf"
+        "label": {
+            "phrase": "hmpf put something on",
+            "count": 2
+        }
     },
     "clusterList": [
         {

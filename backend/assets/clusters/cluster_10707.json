@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "pkid"
+        "label": {
+            "phrase": "pkid username password email passwordquestion",
+            "count": 2
+        }
     },
     "clusterList": [
         {

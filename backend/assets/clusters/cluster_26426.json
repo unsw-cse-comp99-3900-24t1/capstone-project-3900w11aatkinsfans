@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "e-government"
+        "label": {
+            "phrase": "e-government has stopped the bleeding for now in terms of citizen satisfaction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

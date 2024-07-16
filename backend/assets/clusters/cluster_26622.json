@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "movers"
+        "label": {
+            "phrase": "movers and shakers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "nothing"
+        "label": {
+            "phrase": "nothing but d best",
+            "count": 1
+        }
     },
     "clusterList": [
         {

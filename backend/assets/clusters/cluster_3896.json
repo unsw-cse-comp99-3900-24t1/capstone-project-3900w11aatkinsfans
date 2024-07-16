@@ -14,7 +14,10 @@
             "02:14",
             "03:38"
         ],
-        "label": "andy"
+        "label": {
+            "phrase": "andy warhol said we all get our 15 minutes of fame",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because i used to know this shortcut",
+            "count": 1
+        }
     },
     "clusterList": [
         {

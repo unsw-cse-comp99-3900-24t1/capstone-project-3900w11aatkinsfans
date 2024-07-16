@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "blow"
+        "label": {
+            "phrase": "blow up a big asteroid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

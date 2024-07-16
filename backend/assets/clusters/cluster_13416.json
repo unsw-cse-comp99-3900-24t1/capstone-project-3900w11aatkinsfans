@@ -6,7 +6,10 @@
         "xLabels": [
             "00:10"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is shakespeare still revellent in the 21st century",
+            "count": 1
+        }
     },
     "clusterList": [
         {

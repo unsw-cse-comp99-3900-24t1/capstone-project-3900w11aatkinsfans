@@ -12,7 +12,10 @@
             "01:25",
             "02:09"
         ],
-        "label": "me"
+        "label": {
+            "phrase": "me too because nobody understands",
+            "count": 1
+        }
     },
     "clusterList": [
         {

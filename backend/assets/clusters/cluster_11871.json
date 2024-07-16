@@ -8,7 +8,10 @@
             "01:01",
             "03:29"
         ],
-        "label": "sympathy"
+        "label": {
+            "phrase": "sympathy for the devil",
+            "count": 1
+        }
     },
     "clusterList": [
         {

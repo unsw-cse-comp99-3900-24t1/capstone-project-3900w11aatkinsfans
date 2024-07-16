@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the world is governed by very different personages from what is imagined by those who are not behind the scenes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

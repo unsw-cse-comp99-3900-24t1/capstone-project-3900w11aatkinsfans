@@ -8,7 +8,10 @@
             "01:13",
             "03:11"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "the star-spangled banner",
+            "count": 2
+        }
     },
     "clusterList": [
         {

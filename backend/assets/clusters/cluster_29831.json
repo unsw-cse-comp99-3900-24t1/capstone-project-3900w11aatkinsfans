@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we never saw a drop in attendance with smoky skies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

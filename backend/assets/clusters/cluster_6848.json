@@ -10,7 +10,10 @@
             "01:56",
             "03:34"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take your cat to work day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

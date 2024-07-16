@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "slam"
+        "label": {
+            "phrase": "slam heard round the globe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "04:08",
             "04:45"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all newspapers serve an important civic role",
+            "count": 4
+        }
     },
     "clusterList": [
         {

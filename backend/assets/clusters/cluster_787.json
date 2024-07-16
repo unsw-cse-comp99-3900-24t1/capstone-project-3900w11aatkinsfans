@@ -30,7 +30,10 @@
             "04:18",
             "04:51"
         ],
-        "label": "five"
+        "label": {
+            "phrase": "all the time",
+            "count": 5
+        }
     },
     "clusterList": [
         {

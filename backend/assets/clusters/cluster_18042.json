@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's probably more damage in some areas that we are simply unaware of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

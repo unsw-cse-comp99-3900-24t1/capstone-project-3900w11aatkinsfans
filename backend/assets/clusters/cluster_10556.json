@@ -8,7 +8,10 @@
             "01:23",
             "01:50"
         ],
-        "label": "thank"
+        "label": {
+            "phrase": "thank you for having a good time at this party you're just awesome",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my people don't believe in what you're saying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

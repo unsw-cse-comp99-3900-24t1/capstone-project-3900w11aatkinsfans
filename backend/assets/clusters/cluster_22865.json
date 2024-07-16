@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "frequently"
+        "label": {
+            "phrase": "frequently gets drunk and scalps himself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

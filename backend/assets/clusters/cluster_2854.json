@@ -16,7 +16,10 @@
             "02:05",
             "02:55"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some of the bigger shareholders want to push for a new ceo",
+            "count": 5
+        }
     },
     "clusterList": [
         {

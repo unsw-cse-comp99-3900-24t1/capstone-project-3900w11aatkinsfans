@@ -6,7 +6,10 @@
         "xLabels": [
             "04:43"
         ],
-        "label": "blood"
+        "label": {
+            "phrase": "blood done sign my name",
+            "count": 1
+        }
     },
     "clusterList": [
         {

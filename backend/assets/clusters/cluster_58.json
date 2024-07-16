@@ -80,7 +80,10 @@
             "04:55",
             "04:56"
         ],
-        "label": "ten"
+        "label": {
+            "phrase": "word of the year",
+            "count": 27
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "everyone"
+        "label": {
+            "phrase": "everyone wants to adopt the big cat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

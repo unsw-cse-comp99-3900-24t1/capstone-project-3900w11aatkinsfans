@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're the guy who killed bucky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

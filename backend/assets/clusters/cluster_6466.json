@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most animals won't get seasick but like people some do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

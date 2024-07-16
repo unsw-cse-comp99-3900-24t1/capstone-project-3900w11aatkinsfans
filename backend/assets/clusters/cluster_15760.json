@@ -6,7 +6,10 @@
         "xLabels": [
             "00:36"
         ],
-        "label": "fidelity"
+        "label": {
+            "phrase": "fidelity is the enemy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

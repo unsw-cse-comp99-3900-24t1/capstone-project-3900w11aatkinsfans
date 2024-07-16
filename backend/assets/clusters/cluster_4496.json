@@ -10,7 +10,10 @@
             "02:00",
             "04:03"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "a rush to patch the web",
+            "count": 2
+        }
     },
     "clusterList": [
         {

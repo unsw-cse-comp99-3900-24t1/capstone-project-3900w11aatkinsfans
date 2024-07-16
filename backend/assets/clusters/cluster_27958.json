@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's just a different type of atmosphere around here right now on defense",
+            "count": 1
+        }
     },
     "clusterList": [
         {

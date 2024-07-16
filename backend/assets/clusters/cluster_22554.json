@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "forward"
+        "label": {
+            "phrase": "forward looking statements",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "03:51",
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "who killed the electric car",
+            "count": 16
+        }
     },
     "clusterList": [
         {

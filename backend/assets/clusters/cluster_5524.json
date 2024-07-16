@@ -12,7 +12,10 @@
             "04:32",
             "04:55"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "that's my main aim",
+            "count": 2
+        }
     },
     "clusterList": [
         {

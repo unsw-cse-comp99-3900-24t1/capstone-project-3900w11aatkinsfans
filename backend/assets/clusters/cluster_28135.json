@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the weakest case i've seen in 45 years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

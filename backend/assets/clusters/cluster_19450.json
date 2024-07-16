@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why you should read kafka before you waste your life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

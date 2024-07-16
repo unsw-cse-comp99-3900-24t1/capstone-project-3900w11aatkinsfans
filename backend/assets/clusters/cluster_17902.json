@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no not really your just really slow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

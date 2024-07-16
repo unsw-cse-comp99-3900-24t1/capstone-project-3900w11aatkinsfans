@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we note preliminarily that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

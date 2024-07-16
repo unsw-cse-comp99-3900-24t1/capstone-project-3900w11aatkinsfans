@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey i've got a journey tribute for ya",
+            "count": 1
+        }
     },
     "clusterList": [
         {

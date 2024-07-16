@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how did you come to be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm the engineer i can make the train go as fast or as slow as you want and i'll guarantee you one thousand pounds he can carry a full train two stations if he goes three you owe me double if he fails to make one i owe you double",
+            "count": 1
+        }
     },
     "clusterList": [
         {

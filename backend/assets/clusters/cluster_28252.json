@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "paternal"
+        "label": {
+            "phrase": "paternal grandfather was the famous american george archibald who rode in this country for many years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

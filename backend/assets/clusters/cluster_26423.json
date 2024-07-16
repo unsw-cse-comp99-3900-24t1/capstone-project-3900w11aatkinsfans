@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "restart"
+        "label": {
+            "phrase": "restart respring apps available in cydia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:35",
             "04:33"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how long have you been in town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

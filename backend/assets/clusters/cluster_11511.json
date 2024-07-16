@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "shooting"
+        "label": {
+            "phrase": "shooting from the hip",
+            "count": 1
+        }
     },
     "clusterList": [
         {

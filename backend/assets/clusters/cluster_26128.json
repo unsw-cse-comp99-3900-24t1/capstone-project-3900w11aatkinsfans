@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's something we can plan to continue it's not a one-time event",
+            "count": 1
+        }
     },
     "clusterList": [
         {

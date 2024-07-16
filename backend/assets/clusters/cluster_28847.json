@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a good thing if you're running from a tiger",
+            "count": 1
+        }
     },
     "clusterList": [
         {

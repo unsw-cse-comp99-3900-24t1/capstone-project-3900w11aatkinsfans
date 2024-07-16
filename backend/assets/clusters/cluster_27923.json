@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things april and heidi have in common",
+            "count": 1
+        }
     },
     "clusterList": [
         {

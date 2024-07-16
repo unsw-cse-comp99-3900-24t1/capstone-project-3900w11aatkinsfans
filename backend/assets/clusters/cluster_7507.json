@@ -10,7 +10,10 @@
             "04:05",
             "05:01"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you shouldn't date someone that young",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:52"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when are we ever going to go camping everyone is going camping but us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

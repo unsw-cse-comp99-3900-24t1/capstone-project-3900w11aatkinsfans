@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "thee"
+        "label": {
+            "phrase": "thee pitts again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

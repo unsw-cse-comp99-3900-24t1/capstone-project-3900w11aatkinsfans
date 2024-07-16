@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look nick has a new bookmark",
+            "count": 1
+        }
     },
     "clusterList": [
         {

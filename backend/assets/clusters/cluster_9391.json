@@ -8,7 +8,10 @@
             "01:47",
             "04:09"
         ],
-        "label": "like"
+        "label": {
+            "phrase": "like plastic fruit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

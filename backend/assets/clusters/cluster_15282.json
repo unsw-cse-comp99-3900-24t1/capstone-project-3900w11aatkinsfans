@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "hulda"
+        "label": {
+            "phrase": "hulda the prophetess",
+            "count": 1
+        }
     },
     "clusterList": [
         {

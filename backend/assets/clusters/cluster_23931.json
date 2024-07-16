@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too much too young too fast",
+            "count": 1
+        }
     },
     "clusterList": [
         {

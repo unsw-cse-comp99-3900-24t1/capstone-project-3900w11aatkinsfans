@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i started watching the weather radar at 3 15",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't hate me for this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

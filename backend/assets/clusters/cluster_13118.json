@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "voice"
+        "label": {
+            "phrase": "voice of fire",
+            "count": 1
+        }
     },
     "clusterList": [
         {

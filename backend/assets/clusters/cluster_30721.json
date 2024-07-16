@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they didn't have forward velocity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

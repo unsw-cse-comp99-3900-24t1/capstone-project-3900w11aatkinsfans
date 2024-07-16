@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the k street gang the rise and fall of the republican machine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

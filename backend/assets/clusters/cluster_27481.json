@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's only a few people around the world that are doing it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

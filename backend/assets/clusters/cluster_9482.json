@@ -8,7 +8,10 @@
             "01:07",
             "01:09"
         ],
-        "label": "chestnuts"
+        "label": {
+            "phrase": "chestnuts roasting on a open fire",
+            "count": 2
+        }
     },
     "clusterList": [
         {

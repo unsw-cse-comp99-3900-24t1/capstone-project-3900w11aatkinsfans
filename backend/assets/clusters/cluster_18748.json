@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best information we can possibly ever imagine having",
+            "count": 1
+        }
     },
     "clusterList": [
         {

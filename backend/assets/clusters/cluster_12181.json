@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "error"
+        "label": {
+            "phrase": "error internal archive error pax cpio file name in header is corrupted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

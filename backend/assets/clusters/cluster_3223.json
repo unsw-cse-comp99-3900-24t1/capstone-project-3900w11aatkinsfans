@@ -14,7 +14,10 @@
             "04:04",
             "04:45"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "something happened there that i don't quite understand",
+            "count": 3
+        }
     },
     "clusterList": [
         {

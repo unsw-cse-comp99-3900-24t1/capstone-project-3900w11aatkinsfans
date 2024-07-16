@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why are you taking pictures of our food",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "produce"
+        "label": {
+            "phrase": "produce at a high volume",
+            "count": 1
+        }
     },
     "clusterList": [
         {

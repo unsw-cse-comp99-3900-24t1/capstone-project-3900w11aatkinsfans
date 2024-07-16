@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's right in keeping with our brand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

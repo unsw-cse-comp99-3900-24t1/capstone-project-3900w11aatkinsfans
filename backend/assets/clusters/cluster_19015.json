@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "godfather"
+        "label": {
+            "phrase": "godfather favor points",
+            "count": 1
+        }
     },
     "clusterList": [
         {

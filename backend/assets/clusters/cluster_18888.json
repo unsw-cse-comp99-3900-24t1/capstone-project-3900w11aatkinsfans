@@ -6,7 +6,10 @@
         "xLabels": [
             "01:21"
         ],
-        "label": "travel"
+        "label": {
+            "phrase": "travel and face challenges",
+            "count": 1
+        }
     },
     "clusterList": [
         {

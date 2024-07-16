@@ -6,7 +6,10 @@
         "xLabels": [
             "04:40"
         ],
-        "label": "uncle"
+        "label": {
+            "phrase": "uncle i am going to take supply down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

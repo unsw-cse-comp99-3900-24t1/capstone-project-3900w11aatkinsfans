@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just what the city needs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

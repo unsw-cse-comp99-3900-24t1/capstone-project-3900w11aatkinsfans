@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all your dog stores and boating shops have them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

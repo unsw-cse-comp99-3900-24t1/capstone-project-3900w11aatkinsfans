@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a time to show how far along we are and to gauge how much work we have ahead of us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

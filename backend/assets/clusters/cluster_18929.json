@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that he who has begun this good work in you will bring it to completion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

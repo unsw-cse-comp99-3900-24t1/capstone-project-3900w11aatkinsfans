@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "lower"
+        "label": {
+            "phrase": "lower my interest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

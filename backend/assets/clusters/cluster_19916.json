@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "critical"
+        "label": {
+            "phrase": "critical people tracking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "push"
+        "label": {
+            "phrase": "push forward seat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "trialpay"
+        "label": {
+            "phrase": "trialpay is one of several initiatives and it performs very well for us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

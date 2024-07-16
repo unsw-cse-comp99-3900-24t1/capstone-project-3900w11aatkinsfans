@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "being"
+        "label": {
+            "phrase": "being told what to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

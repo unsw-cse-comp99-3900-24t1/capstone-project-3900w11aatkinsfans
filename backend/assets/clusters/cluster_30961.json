@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "clip"
+        "label": {
+            "phrase": "clip barred due to non submission of documents submit documents within 24hrs to avoid barring of outgoing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

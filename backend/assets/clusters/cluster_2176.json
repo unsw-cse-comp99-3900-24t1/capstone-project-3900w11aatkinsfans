@@ -20,7 +20,10 @@
             "01:21",
             "04:13"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "advanced wastewater treatment",
+            "count": 3
+        }
     },
     "clusterList": [
         {

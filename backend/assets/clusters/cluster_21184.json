@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i know of your splendid fight my son",
+            "count": 1
+        }
     },
     "clusterList": [
         {

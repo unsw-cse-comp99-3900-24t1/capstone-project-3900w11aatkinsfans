@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "ambiguous"
+        "label": {
+            "phrase": "ambiguous in wording and may mislead",
+            "count": 1
+        }
     },
     "clusterList": [
         {

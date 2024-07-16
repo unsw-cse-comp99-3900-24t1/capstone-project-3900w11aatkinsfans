@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give me your claw",
+            "count": 1
+        }
     },
     "clusterList": [
         {

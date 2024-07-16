@@ -10,7 +10,10 @@
             "02:10",
             "03:06"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no beast so fierce",
+            "count": 1
+        }
     },
     "clusterList": [
         {

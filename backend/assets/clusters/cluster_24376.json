@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "less"
+        "label": {
+            "phrase": "less than full reciprocity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

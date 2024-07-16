@@ -10,7 +10,10 @@
             "04:08",
             "04:32"
         ],
-        "label": "add"
+        "label": {
+            "phrase": "one from column a one from column b",
+            "count": 2
+        }
     },
     "clusterList": [
         {

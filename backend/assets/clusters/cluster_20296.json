@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how would you rate your interest for participating in not watching each of the following sports and exercise activities",
+            "count": 1
+        }
     },
     "clusterList": [
         {

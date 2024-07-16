@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what d-do you mean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

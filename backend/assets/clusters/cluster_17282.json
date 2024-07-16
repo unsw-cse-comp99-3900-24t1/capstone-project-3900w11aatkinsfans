@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then i have to design black lanterns representing the dead from every single planet in the entire universe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

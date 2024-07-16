@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was inspired by her human rights work with north korea refugees in northern china",
+            "count": 1
+        }
     },
     "clusterList": [
         {

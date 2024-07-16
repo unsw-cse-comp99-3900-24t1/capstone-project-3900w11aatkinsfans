@@ -8,7 +8,10 @@
             "01:41",
             "03:42"
         ],
-        "label": "blackwater"
+        "label": {
+            "phrase": "blackwater started a private intelligence company",
+            "count": 2
+        }
     },
     "clusterList": [
         {

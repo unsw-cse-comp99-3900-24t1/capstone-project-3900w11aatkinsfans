@@ -16,7 +16,10 @@
             "03:01",
             "04:13"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people of all ages stations and skills will be asked to serve",
+            "count": 3
+        }
     },
     "clusterList": [
         {

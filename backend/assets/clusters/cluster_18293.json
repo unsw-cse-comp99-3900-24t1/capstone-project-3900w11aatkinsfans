@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "shut"
+        "label": {
+            "phrase": "shut the motor off completely the propeller can kill them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

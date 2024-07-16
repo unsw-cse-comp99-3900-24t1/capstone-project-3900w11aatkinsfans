@@ -8,7 +8,10 @@
             "00:06",
             "04:33"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not a whole lot going on today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

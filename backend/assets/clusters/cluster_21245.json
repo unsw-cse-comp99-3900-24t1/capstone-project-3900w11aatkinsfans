@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a never ending variety of facial expressions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

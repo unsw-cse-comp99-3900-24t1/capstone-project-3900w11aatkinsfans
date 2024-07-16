@@ -20,7 +20,10 @@
             "04:33",
             "04:43"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know what",
+            "count": 5
+        }
     },
     "clusterList": [
         {

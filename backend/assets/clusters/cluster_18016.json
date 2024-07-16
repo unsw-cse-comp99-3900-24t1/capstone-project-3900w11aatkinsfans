@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "educate"
+        "label": {
+            "phrase": "educate yourself before making remarks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

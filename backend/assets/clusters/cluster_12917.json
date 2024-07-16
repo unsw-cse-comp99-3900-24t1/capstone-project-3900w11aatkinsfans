@@ -6,7 +6,10 @@
         "xLabels": [
             "00:19"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not with a bang but a whimper",
+            "count": 1
+        }
     },
     "clusterList": [
         {

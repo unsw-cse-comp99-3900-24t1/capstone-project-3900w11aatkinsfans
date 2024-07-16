@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "klump"
+        "label": {
+            "phrase": "klump don't do this not here nobody else must see this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

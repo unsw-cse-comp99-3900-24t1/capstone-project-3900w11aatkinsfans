@@ -12,7 +12,10 @@
             "01:50",
             "04:23"
         ],
-        "label": "low-carbon"
+        "label": {
+            "phrase": "heat exhaustion day",
+            "count": 2
+        }
     },
     "clusterList": [
         {

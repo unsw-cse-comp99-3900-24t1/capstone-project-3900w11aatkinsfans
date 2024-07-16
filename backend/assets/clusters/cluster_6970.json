@@ -8,7 +8,10 @@
             "01:11",
             "03:42"
         ],
-        "label": "different"
+        "label": {
+            "phrase": "different people suck",
+            "count": 2
+        }
     },
     "clusterList": [
         {

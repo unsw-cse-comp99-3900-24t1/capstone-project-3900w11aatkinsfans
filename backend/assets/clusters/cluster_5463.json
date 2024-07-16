@@ -10,7 +10,10 @@
             "01:01",
             "04:13"
         ],
-        "label": "archives"
+        "label": {
+            "phrase": "archives of general psychiatry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

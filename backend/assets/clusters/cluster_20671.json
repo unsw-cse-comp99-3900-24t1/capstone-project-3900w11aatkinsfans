@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "thousands"
+        "label": {
+            "phrase": "thousands of people die every year waiting for donated organs in new york alone as demand for organs outpaces supply nearly 9 000 people are on a waiting list for donated organs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

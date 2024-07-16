@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not so average think out of the box type company",
+            "count": 1
+        }
     },
     "clusterList": [
         {

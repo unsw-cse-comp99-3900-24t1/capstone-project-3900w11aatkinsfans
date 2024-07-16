@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "laughable"
+        "label": {
+            "phrase": "laughable which one of the signers are you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

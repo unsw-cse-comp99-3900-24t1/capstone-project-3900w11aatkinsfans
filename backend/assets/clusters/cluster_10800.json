@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "australian"
+        "label": {
+            "phrase": "australian men like to be waited on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

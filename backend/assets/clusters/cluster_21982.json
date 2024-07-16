@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "hold"
+        "label": {
+            "phrase": "hold on here it comes here it comes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

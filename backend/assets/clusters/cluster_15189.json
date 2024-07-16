@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "hillary"
+        "label": {
+            "phrase": "hillary clinton later complained",
+            "count": 1
+        }
     },
     "clusterList": [
         {

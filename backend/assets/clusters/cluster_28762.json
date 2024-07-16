@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "dcf"
+        "label": {
+            "phrase": "dcf worker charged in death of infant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

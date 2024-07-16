@@ -50,7 +50,10 @@
             "04:42",
             "04:56"
         ],
-        "label": "remove"
+        "label": {
+            "phrase": "i don't think it's doable without nuclear power",
+            "count": 8
+        }
     },
     "clusterList": [
         {

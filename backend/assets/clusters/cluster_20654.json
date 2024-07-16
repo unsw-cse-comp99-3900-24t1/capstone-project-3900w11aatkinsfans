@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "eric"
+        "label": {
+            "phrase": "eric olsen brought it over as a conversation piece",
+            "count": 1
+        }
     },
     "clusterList": [
         {

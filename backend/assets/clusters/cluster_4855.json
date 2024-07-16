@@ -6,7 +6,10 @@
         "xLabels": [
             "01:22"
         ],
-        "label": "order"
+        "label": {
+            "phrase": "order by year desc",
+            "count": 2
+        }
     },
     "clusterList": [
         {

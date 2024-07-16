@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's an isolated incident i don't believe it will happen again but you never know you hear of other departments that have the same things happen just one bad apple",
+            "count": 1
+        }
     },
     "clusterList": [
         {

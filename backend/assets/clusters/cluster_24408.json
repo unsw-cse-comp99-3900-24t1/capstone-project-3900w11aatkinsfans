@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "freedom"
+        "label": {
+            "phrase": "freedom never cries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

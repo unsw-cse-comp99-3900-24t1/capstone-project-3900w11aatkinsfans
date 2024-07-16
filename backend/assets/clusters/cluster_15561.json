@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the school wrote me up along with the other students and forced me to take an aa-type course with the threat that if i didn't there would be serious consequences",
+            "count": 1
+        }
     },
     "clusterList": [
         {

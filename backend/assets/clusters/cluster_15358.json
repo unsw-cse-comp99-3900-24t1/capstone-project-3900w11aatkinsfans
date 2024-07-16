@@ -6,7 +6,10 @@
         "xLabels": [
             "00:29"
         ],
-        "label": "adults"
+        "label": {
+            "phrase": "adults consider their futures",
+            "count": 1
+        }
     },
     "clusterList": [
         {

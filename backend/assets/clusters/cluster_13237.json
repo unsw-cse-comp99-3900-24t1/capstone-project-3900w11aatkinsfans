@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is very much like the internet on a chip",
+            "count": 1
+        }
     },
     "clusterList": [
         {

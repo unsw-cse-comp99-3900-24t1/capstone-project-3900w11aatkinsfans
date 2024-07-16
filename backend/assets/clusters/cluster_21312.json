@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "refers"
+        "label": {
+            "phrase": "refers to talk from previous conference assuming everyone had been there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

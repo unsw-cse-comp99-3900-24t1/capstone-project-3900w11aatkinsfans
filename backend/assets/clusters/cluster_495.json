@@ -40,7 +40,10 @@
             "04:13",
             "04:32"
         ],
-        "label": "eat"
+        "label": {
+            "phrase": "tax what we burn",
+            "count": 6
+        }
     },
     "clusterList": [
         {

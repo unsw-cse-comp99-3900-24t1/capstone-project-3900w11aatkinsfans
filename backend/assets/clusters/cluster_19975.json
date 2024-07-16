@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "small"
+        "label": {
+            "phrase": "small is the new big",
+            "count": 1
+        }
     },
     "clusterList": [
         {

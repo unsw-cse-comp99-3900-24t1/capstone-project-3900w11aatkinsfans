@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is a glaucoma",
+            "count": 1
+        }
     },
     "clusterList": [
         {

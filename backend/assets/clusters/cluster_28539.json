@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "breach"
+        "label": {
+            "phrase": "breach of planning control",
+            "count": 1
+        }
     },
     "clusterList": [
         {

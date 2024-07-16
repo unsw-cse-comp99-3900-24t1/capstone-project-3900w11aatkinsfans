@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "jake"
+        "label": {
+            "phrase": "jake compression brake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

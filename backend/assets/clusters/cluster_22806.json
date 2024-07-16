@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "nitro"
+        "label": {
+            "phrase": "nitro youth energy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

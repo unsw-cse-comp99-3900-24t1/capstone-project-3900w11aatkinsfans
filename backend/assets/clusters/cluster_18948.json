@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too muggy to operate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

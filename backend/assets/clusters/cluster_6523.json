@@ -10,7 +10,10 @@
             "01:43",
             "02:51"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too many secrets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

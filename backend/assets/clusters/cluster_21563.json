@@ -6,7 +6,10 @@
         "xLabels": [
             "02:08"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a sense of energy and excitement about us that we haven't felt since we released our first album",
+            "count": 1
+        }
     },
     "clusterList": [
         {

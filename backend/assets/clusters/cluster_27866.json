@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "krypto"
+        "label": {
+            "phrase": "krypto the superdog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

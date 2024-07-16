@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "return"
+        "label": {
+            "phrase": "return to castle wolfenstein",
+            "count": 1
+        }
     },
     "clusterList": [
         {

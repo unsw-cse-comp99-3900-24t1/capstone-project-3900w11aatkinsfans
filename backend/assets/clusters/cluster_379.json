@@ -34,7 +34,10 @@
             "04:36",
             "04:41"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "she loves you",
+            "count": 2
+        }
     },
     "clusterList": [
         {

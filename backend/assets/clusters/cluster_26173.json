@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "precipitation"
+        "label": {
+            "phrase": "precipitation has a much greater influence on the water table than the plant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're texans this isn't hot this is an ice storm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

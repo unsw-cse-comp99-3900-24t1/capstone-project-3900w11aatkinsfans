@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "soldiers"
+        "label": {
+            "phrase": "soldiers in the army of jesus christ who are absent without official leave awol",
+            "count": 1
+        }
     },
     "clusterList": [
         {

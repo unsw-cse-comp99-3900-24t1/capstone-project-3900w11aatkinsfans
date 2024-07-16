@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ipcc fourth assessment report",
+            "count": 1
+        }
     },
     "clusterList": [
         {

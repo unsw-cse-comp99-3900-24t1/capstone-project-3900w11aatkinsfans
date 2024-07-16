@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "multiple"
+        "label": {
+            "phrase": "multiple violations of the phoenix country club etiquette policy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

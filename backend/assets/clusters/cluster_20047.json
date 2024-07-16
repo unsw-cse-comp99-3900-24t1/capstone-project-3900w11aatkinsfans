@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "sorry"
+        "label": {
+            "phrase": "sorry currently we are not accepting any links",
+            "count": 1
+        }
     },
     "clusterList": [
         {

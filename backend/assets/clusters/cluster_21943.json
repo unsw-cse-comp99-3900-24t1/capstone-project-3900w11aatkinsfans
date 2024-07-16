@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one has suffered like prakash and manda have",
+            "count": 1
+        }
     },
     "clusterList": [
         {

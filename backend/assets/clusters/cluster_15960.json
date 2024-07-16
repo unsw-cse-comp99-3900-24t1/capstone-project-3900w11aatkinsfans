@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and journey begins",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:27",
             "04:45"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my sister is smaller than me much smaller then me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

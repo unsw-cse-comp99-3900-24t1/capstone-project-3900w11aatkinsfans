@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "quarterly"
+        "label": {
+            "phrase": "quarterly service pack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

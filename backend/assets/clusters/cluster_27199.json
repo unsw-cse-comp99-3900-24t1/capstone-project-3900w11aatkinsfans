@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i saw this production last week it's title",
+            "count": 1
+        }
     },
     "clusterList": [
         {

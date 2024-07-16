@@ -8,7 +8,10 @@
             "00:12",
             "03:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the company has always operated on the principle that its bottom line is most important",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "tell"
+        "label": {
+            "phrase": "tell me when there is a good time to pull back and engage him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

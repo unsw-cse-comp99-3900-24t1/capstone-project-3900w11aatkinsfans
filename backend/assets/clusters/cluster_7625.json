@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "triple"
+        "label": {
+            "phrase": "triple threat double trouble",
+            "count": 3
+        }
     },
     "clusterList": [
         {

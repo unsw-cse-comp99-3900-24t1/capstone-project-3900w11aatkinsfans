@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is nothing advanced",
+            "count": 1
+        }
     },
     "clusterList": [
         {

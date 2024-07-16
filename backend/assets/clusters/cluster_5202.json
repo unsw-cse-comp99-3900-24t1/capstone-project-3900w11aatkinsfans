@@ -12,7 +12,10 @@
             "03:43",
             "04:24"
         ],
-        "label": "repositoryplugin"
+        "label": {
+            "phrase": "required artifact missing",
+            "count": 2
+        }
     },
     "clusterList": [
         {

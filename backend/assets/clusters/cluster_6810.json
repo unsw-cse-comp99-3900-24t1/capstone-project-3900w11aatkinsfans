@@ -10,7 +10,10 @@
             "01:50",
             "03:37"
         ],
-        "label": "bearer"
+        "label": {
+            "phrase": "bearer of the image",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that won't be necessary mr mcmillan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

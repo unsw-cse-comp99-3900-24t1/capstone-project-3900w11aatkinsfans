@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some years it will be thicker and other years it won't be as bad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

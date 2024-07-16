@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "splice"
+        "label": {
+            "phrase": "splice the mainbrace",
+            "count": 1
+        }
     },
     "clusterList": [
         {

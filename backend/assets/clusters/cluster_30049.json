@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm trying to inject some humanity into this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

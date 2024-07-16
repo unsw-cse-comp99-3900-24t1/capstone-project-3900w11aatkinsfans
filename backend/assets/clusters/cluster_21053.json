@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that is something that will have to be addressed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

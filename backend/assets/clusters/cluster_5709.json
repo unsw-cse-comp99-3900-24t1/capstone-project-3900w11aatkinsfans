@@ -10,7 +10,10 @@
             "00:20",
             "04:44"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's an extended family for me",
+            "count": 2
+        }
     },
     "clusterList": [
         {

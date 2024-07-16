@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't get to the affirmative answers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

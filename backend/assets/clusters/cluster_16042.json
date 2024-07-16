@@ -6,7 +6,10 @@
         "xLabels": [
             "00:41"
         ],
-        "label": "live"
+        "label": {
+            "phrase": "live in class not in style",
+            "count": 1
+        }
     },
     "clusterList": [
         {

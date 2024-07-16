@@ -6,7 +6,10 @@
         "xLabels": [
             "01:45"
         ],
-        "label": "bad"
+        "label": {
+            "phrase": "bad to the drone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

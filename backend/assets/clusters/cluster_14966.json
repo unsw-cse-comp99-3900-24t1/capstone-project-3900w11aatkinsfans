@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "shadowhawk"
+        "label": {
+            "phrase": "shadowhawk father do you remember",
+            "count": 1
+        }
     },
     "clusterList": [
         {

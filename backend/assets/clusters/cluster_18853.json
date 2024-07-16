@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that he gave",
+            "count": 1
+        }
     },
     "clusterList": [
         {

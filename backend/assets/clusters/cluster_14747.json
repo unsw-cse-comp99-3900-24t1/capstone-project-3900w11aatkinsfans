@@ -6,7 +6,10 @@
         "xLabels": [
             "00:23"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh noes they'll soon discover i'm nothing but a hack that got lucky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

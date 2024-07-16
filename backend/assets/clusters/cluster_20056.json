@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "clinic"
+        "label": {
+            "phrase": "clinic a pathology of gesture",
+            "count": 1
+        }
     },
     "clusterList": [
         {

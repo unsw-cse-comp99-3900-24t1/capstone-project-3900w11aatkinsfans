@@ -38,7 +38,10 @@
             "04:46",
             "05:01"
         ],
-        "label": "page"
+        "label": {
+            "phrase": "it's not loaded",
+            "count": 9
+        }
     },
     "clusterList": [
         {

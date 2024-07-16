@@ -6,7 +6,10 @@
         "xLabels": [
             "02:17"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an accoustic version",
+            "count": 1
+        }
     },
     "clusterList": [
         {

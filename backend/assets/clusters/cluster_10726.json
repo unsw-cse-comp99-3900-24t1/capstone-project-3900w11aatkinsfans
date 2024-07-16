@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "yesterday"
+        "label": {
+            "phrase": "yesterday we analyzed a sample of a new trojan called infostealer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "large"
+        "label": {
+            "phrase": "large banks of subterranean fudge",
+            "count": 1
+        }
     },
     "clusterList": [
         {

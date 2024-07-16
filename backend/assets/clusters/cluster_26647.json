@@ -6,7 +6,10 @@
         "xLabels": [
             "03:47"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that was as true in 1982 as it was last summer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

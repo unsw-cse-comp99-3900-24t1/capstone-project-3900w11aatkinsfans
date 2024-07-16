@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "making"
+        "label": {
+            "phrase": "making your web site section 508 or wai-wcag compliant is a major part of any commercial project target was recently sued because their site wasn't section 508 or wai-wcag compliant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

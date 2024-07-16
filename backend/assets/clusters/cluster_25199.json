@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey shit happens don't think about it too much",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:00",
             "04:41"
         ],
-        "label": "company"
+        "label": {
+            "phrase": "company x is too good at their job",
+            "count": 2
+        }
     },
     "clusterList": [
         {

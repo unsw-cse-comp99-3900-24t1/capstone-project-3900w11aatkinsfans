@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "roaming"
+        "label": {
+            "phrase": "roaming downtown ambassadors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

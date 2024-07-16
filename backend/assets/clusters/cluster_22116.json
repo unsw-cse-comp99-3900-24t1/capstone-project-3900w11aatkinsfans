@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools",
+            "count": 1
+        }
     },
     "clusterList": [
         {

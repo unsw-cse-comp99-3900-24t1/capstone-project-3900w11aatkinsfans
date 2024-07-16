@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the animals that have been recovered have been devoid of fat reserves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

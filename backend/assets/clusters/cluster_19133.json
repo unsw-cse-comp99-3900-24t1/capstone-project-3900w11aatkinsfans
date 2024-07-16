@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not to mess with ergenekon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

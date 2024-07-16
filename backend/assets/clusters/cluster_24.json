@@ -148,7 +148,10 @@
             "04:57",
             "05:02"
         ],
-        "label": "hitachi"
+        "label": {
+            "phrase": "hitachi server support",
+            "count": 146
+        }
     },
     "clusterList": [
         {

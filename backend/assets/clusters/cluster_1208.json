@@ -24,7 +24,10 @@
             "04:21",
             "05:01"
         ],
-        "label": "show"
+        "label": {
+            "phrase": "show and tell",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:00",
             "03:12"
         ],
-        "label": "hellboy"
+        "label": {
+            "phrase": "hellboy is a character who is going someplace and i can hint about where he's going but i can't let you see it yet",
+            "count": 2
+        }
     },
     "clusterList": [
         {

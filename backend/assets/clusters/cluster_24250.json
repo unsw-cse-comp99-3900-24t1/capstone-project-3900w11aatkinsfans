@@ -6,7 +6,10 @@
         "xLabels": [
             "03:04"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a dream start obviously",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every day with rachael ray",
+            "count": 1
+        }
     },
     "clusterList": [
         {

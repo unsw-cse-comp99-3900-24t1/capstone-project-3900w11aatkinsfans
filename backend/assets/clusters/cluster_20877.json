@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "matt"
+        "label": {
+            "phrase": "matt here's your one run don't screw it up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

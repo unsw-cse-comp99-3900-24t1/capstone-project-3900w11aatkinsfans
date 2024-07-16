@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think we are on the brink of a first-generation artificial pancreas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people in sarajevo are either muslim or croat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that is not an excuse lavelle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

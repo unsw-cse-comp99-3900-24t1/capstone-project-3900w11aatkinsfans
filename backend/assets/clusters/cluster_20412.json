@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "mean"
+        "label": {
+            "phrase": "mean median of luck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

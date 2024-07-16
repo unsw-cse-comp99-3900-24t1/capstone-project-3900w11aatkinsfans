@@ -76,7 +76,10 @@
             "05:04",
             "05:05"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "i think he'll see me",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "ridiculously"
+        "label": {
+            "phrase": "ridiculously easy group formation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

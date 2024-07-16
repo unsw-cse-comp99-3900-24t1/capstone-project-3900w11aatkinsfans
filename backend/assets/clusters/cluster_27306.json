@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the official history of the united states army noted that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

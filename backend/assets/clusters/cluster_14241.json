@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "greatest"
+        "label": {
+            "phrase": "greatest single threat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

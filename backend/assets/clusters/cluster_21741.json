@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was like finding another jean-michel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

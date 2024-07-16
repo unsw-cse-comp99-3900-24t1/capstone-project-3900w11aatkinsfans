@@ -18,7 +18,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "missing"
+        "label": {
+            "phrase": "missing screws per vehicle",
+            "count": 7
+        }
     },
     "clusterList": [
         {

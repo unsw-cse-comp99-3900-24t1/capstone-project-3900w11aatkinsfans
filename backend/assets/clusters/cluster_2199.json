@@ -20,7 +20,10 @@
             "02:24",
             "04:19"
         ],
-        "label": "due"
+        "label": {
+            "phrase": "due to the rural nature of our network airport-type security is not practical it's a very different type of system",
+            "count": 3
+        }
     },
     "clusterList": [
         {

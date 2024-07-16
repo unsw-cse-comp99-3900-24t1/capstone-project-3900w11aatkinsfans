@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the usual suspects",
+            "count": 1
+        }
     },
     "clusterList": [
         {

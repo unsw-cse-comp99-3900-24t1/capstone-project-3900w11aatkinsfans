@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "blue"
+        "label": {
+            "phrase": "blue grass time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

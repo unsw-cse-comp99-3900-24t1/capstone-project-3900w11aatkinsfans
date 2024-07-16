@@ -8,7 +8,10 @@
             "00:52",
             "03:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whistle was correct in all details",
+            "count": 1
+        }
     },
     "clusterList": [
         {

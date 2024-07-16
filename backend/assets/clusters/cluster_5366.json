@@ -12,7 +12,10 @@
             "03:51",
             "04:13"
         ],
-        "label": "resources"
+        "label": {
+            "phrase": "resources on duty that evening were all on-duty personnel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

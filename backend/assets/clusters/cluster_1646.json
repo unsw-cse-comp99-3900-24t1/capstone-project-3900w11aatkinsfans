@@ -24,7 +24,10 @@
             "04:13",
             "04:32"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't report numbers",
+            "count": 5
+        }
     },
     "clusterList": [
         {

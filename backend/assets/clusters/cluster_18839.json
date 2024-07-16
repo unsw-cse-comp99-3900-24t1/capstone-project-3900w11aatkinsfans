@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the toy they won't be tired of on dec 26",
+            "count": 1
+        }
     },
     "clusterList": [
         {

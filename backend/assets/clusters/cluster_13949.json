@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "jump"
+        "label": {
+            "phrase": "jump through hoops",
+            "count": 1
+        }
     },
     "clusterList": [
         {

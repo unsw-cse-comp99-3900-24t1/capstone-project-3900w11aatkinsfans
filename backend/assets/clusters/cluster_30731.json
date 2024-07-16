@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do hugs work as an effective intervention",
+            "count": 1
+        }
     },
     "clusterList": [
         {

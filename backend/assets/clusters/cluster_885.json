@@ -30,7 +30,10 @@
             "04:09",
             "04:41"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey just a",
+            "count": 2
+        }
     },
     "clusterList": [
         {

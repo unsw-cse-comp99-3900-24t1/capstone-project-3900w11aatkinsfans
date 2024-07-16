@@ -12,7 +12,10 @@
             "04:23",
             "05:05"
         ],
-        "label": "show"
+        "label": {
+            "phrase": "show input menu in menu",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "drill"
+        "label": {
+            "phrase": "drill here drill now pay less",
+            "count": 1
+        }
     },
     "clusterList": [
         {

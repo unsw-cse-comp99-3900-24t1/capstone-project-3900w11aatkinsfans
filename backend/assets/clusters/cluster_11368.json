@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "computer-aided"
+        "label": {
+            "phrase": "computer-aided manufacturing or machining",
+            "count": 2
+        }
     },
     "clusterList": [
         {

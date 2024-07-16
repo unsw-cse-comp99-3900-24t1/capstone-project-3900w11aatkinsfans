@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where is franklin hall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

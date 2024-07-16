@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "renaissance"
+        "label": {
+            "phrase": "renaissance faces van eyck to titian",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -60,7 +60,10 @@
             "04:55",
             "05:05"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "cagney was my favorite actor and favorite person",
+            "count": 16
+        }
     },
     "clusterList": [
         {

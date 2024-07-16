@@ -8,7 +8,10 @@
             "01:43",
             "02:29"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an answer is required for the below question",
+            "count": 1
+        }
     },
     "clusterList": [
         {

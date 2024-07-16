@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "write"
+        "label": {
+            "phrase": "write about the latest shiny object",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're usually more active in the mid-day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

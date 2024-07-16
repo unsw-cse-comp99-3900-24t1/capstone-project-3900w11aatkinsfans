@@ -8,7 +8,10 @@
             "00:34",
             "02:31"
         ],
-        "label": "write"
+        "label": {
+            "phrase": "write once run anywhere",
+            "count": 1
+        }
     },
     "clusterList": [
         {

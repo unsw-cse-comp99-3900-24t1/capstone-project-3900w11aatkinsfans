@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the dfl caucuses in minnesota took a bucket of tax increases and dumped it on the heads of minnesotans",
+            "count": 1
+        }
     },
     "clusterList": [
         {

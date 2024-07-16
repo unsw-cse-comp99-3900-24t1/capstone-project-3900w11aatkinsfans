@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "built"
+        "label": {
+            "phrase": "built to last",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "hepatitis"
+        "label": {
+            "phrase": "hepatitis c eats away at your liver",
+            "count": 1
+        }
     },
     "clusterList": [
         {

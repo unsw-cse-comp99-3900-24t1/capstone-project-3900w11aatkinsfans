@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "making"
+        "label": {
+            "phrase": "making memories of us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

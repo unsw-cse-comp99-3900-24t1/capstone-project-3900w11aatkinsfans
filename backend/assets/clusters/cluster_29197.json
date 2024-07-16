@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "pianist"
+        "label": {
+            "phrase": "pianist to the presidents",
+            "count": 1
+        }
     },
     "clusterList": [
         {

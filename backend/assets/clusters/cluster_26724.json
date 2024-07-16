@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "swallowing"
+        "label": {
+            "phrase": "swallowing the evidence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

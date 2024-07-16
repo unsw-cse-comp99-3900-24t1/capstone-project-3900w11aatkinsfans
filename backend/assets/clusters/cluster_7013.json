@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "save"
+        "label": {
+            "phrase": "save the bahamas sea turtles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

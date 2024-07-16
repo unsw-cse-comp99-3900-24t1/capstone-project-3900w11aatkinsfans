@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the feuds are so vicious because the stakes are so low",
+            "count": 1
+        }
     },
     "clusterList": [
         {

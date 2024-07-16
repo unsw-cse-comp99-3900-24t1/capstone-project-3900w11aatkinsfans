@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of them admitted to being there cheatham and discussing it but not doing it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

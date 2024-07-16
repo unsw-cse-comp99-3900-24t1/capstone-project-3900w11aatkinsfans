@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that wasn't chunky pee was it it didn't",
+            "count": 1
+        }
     },
     "clusterList": [
         {

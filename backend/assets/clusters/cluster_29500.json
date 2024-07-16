@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we got more famous people on our side",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the tile project destination the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

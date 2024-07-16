@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "professional"
+        "label": {
+            "phrase": "professional basketball players as greek gods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

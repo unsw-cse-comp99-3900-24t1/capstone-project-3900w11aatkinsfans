@@ -38,7 +38,10 @@
             "04:03",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "our bank told us we have to do it",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:09",
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the biggest joke in the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

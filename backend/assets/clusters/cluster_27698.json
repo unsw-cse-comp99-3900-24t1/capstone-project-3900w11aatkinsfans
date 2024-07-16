@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have to get that phone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

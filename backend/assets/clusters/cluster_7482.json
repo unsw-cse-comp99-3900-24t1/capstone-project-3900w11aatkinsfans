@@ -10,7 +10,10 @@
             "02:04",
             "04:35"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm the one with the catcher's mitt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "brian"
+        "label": {
+            "phrase": "brian is the godfather of the maryland blogosphere",
+            "count": 1
+        }
     },
     "clusterList": [
         {

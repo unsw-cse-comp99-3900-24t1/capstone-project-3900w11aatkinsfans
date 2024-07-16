@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've hollered the least",
+            "count": 1
+        }
     },
     "clusterList": [
         {

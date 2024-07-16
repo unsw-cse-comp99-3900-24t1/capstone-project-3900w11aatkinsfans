@@ -16,7 +16,10 @@
             "02:55",
             "03:01"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are more people now saying they don't have answers",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the shooting star s that swim s in the distance between two people",
+            "count": 2
+        }
     },
     "clusterList": [
         {

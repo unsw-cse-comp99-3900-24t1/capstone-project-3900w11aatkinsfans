@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what does this mean for the long-standing debate about militarism in germany",
+            "count": 1
+        }
     },
     "clusterList": [
         {

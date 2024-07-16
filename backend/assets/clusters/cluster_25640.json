@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "someone"
+        "label": {
+            "phrase": "someone actually green-lit this show",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "be"
+        "label": {
+            "phrase": "be legal with eagle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

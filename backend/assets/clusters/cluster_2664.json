@@ -18,7 +18,10 @@
             "03:55",
             "04:36"
         ],
-        "label": "customer"
+        "label": {
+            "phrase": "customer service is an assembly line",
+            "count": 1
+        }
     },
     "clusterList": [
         {

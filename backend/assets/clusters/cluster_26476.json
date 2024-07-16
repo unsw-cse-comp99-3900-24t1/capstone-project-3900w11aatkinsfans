@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but soft what light through yonder window breaks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

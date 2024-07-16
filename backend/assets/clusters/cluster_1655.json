@@ -22,7 +22,10 @@
             "04:00",
             "05:04"
         ],
-        "label": "song"
+        "label": {
+            "phrase": "song lyrics visual puns",
+            "count": 5
+        }
     },
     "clusterList": [
         {

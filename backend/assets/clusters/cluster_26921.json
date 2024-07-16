@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "wall"
+        "label": {
+            "phrase": "wall e is a big hit and has nearly made 200 million at the box office",
+            "count": 1
+        }
     },
     "clusterList": [
         {

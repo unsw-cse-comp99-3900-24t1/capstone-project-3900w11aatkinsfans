@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "lives"
+        "label": {
+            "phrase": "lives of the players",
+            "count": 1
+        }
     },
     "clusterList": [
         {

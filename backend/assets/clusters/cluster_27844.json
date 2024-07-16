@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "work"
+        "label": {
+            "phrase": "work hard party harder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

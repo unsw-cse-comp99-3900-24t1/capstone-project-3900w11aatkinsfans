@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't tell anyone if you tell anyone anything then it is over",
+            "count": 1
+        }
     },
     "clusterList": [
         {

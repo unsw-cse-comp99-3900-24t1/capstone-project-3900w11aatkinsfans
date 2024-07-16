@@ -8,7 +8,10 @@
             "00:11",
             "00:30"
         ],
-        "label": "delicious"
+        "label": {
+            "phrase": "delicious is social bookmarking all your bookmarks in one place bookmark things for yourself and friends check out what other people are bookmarking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

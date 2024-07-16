@@ -14,7 +14,10 @@
             "01:27",
             "02:47"
         ],
-        "label": "2am"
+        "label": {
+            "phrase": "2am baby shrieking",
+            "count": 4
+        }
     },
     "clusterList": [
         {

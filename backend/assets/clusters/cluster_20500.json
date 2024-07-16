@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "coming"
+        "label": {
+            "phrase": "coming in first is a lot more fun than coming in second",
+            "count": 1
+        }
     },
     "clusterList": [
         {

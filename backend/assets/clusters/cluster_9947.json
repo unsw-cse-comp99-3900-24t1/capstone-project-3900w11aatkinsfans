@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "rf"
+        "label": {
+            "phrase": "rf energy harvesting with multiple antennas in the same space",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "rein"
+        "label": {
+            "phrase": "rein has a map",
+            "count": 1
+        }
     },
     "clusterList": [
         {

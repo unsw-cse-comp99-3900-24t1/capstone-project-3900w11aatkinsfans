@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with lots of guesses you're bound to get some of them right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

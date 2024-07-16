@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm sure i can't be the only one whose decisions are being influenced like this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:05",
             "04:05"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which of their criteria do you meet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

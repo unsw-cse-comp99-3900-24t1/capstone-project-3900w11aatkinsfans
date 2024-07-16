@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "routine"
+        "label": {
+            "phrase": "routine husbandry practices",
+            "count": 2
+        }
     },
     "clusterList": [
         {

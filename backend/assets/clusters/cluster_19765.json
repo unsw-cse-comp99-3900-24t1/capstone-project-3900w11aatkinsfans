@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "little-known"
+        "label": {
+            "phrase": "little-known fact clean boogers are actually white",
+            "count": 1
+        }
     },
     "clusterList": [
         {

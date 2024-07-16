@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "esxi"
+        "label": {
+            "phrase": "esxi as gateway drug",
+            "count": 1
+        }
     },
     "clusterList": [
         {

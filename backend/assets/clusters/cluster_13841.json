@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "sleepless"
+        "label": {
+            "phrase": "sleepless in seattle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

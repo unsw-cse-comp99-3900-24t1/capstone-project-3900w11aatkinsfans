@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the badass things you'd see a spy do in a spy movie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

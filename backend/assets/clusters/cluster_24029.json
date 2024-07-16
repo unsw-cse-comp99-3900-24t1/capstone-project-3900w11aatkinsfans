@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have had the best that american education can give you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

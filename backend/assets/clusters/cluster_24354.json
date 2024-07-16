@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "his"
+        "label": {
+            "phrase": "his girl friday",
+            "count": 1
+        }
     },
     "clusterList": [
         {

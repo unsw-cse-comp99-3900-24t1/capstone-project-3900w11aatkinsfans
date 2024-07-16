@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i feel a lot of courage and a lot of impotence at this kind of savagery",
+            "count": 1
+        }
     },
     "clusterList": [
         {

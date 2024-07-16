@@ -8,7 +8,10 @@
             "00:01",
             "01:23"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all time high",
+            "count": 2
+        }
     },
     "clusterList": [
         {

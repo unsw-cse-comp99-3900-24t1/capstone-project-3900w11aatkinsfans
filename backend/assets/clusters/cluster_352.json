@@ -50,7 +50,10 @@
             "04:45",
             "05:01"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "supply and demand",
+            "count": 8
+        }
     },
     "clusterList": [
         {

@@ -14,7 +14,10 @@
             "03:34",
             "04:14"
         ],
-        "label": "define"
+        "label": {
+            "phrase": "define bool unsigned char",
+            "count": 6
+        }
     },
     "clusterList": [
         {

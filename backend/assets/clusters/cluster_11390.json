@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i enjoy playing the bergen amateur here",
+            "count": 2
+        }
     },
     "clusterList": [
         {

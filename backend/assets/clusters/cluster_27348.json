@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "pumping"
+        "label": {
+            "phrase": "pumping on your stereo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

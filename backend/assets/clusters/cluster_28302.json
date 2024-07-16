@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't see anyone riding a bike to work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

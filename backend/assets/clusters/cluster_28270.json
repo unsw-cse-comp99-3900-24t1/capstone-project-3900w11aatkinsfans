@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "watch"
+        "label": {
+            "phrase": "watch me make the pencil disappear",
+            "count": 1
+        }
     },
     "clusterList": [
         {

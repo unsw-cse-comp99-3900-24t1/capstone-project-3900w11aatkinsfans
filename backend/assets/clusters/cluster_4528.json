@@ -12,7 +12,10 @@
             "01:41",
             "04:56"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am the empire",
+            "count": 3
+        }
     },
     "clusterList": [
         {

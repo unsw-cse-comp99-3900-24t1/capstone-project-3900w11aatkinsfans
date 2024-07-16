@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's what i said at the beginning and i'm still homesick",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's an adverb",
+            "count": 9
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the master's programs lower our attrition rate to below 1",
+            "count": 1
+        }
     },
     "clusterList": [
         {

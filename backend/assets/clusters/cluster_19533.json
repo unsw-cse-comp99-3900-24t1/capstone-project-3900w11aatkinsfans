@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the stolen earth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "max"
+        "label": {
+            "phrase": "max our bed is possessed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

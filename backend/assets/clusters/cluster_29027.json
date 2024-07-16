@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "maybe"
+        "label": {
+            "phrase": "maybe you can butcher a cow and give them half",
+            "count": 1
+        }
     },
     "clusterList": [
         {

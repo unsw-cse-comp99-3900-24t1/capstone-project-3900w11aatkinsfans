@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the memory mongrel used increased by 1 mb with each request it served",
+            "count": 2
+        }
     },
     "clusterList": [
         {

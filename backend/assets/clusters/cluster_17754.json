@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "unlimited"
+        "label": {
+            "phrase": "unlimited and soon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

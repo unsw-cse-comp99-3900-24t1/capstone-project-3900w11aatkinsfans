@@ -8,7 +8,10 @@
             "00:32",
             "01:10"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i plugged them in",
+            "count": 2
+        }
     },
     "clusterList": [
         {

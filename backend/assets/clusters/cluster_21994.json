@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "gus"
+        "label": {
+            "phrase": "gus the mynah-bird",
+            "count": 1
+        }
     },
     "clusterList": [
         {

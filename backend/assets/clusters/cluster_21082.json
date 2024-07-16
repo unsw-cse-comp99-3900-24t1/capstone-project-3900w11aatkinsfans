@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "bullet"
+        "label": {
+            "phrase": "bullet with butterfly wings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

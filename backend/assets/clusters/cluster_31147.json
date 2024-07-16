@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is not a stretch to say that moveon is the new klan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

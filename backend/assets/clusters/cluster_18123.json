@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "follow"
+        "label": {
+            "phrase": "follow me where i go what i do who i know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

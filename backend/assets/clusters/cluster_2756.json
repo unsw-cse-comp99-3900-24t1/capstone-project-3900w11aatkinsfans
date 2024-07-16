@@ -14,7 +14,10 @@
             "03:00",
             "04:05"
         ],
-        "label": "common"
+        "label": {
+            "phrase": "common infant feeding problems",
+            "count": 2
+        }
     },
     "clusterList": [
         {

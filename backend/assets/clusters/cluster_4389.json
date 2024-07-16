@@ -12,7 +12,10 @@
             "02:29",
             "04:15"
         ],
-        "label": "lobster"
+        "label": {
+            "phrase": "lobster with ol dirty bastard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

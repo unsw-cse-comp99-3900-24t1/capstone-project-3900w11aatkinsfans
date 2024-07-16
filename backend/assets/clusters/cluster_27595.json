@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "misalignment"
+        "label": {
+            "phrase": "misalignment in the lower back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

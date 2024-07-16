@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we certainly don't want competition in the area",
+            "count": 1
+        }
     },
     "clusterList": [
         {

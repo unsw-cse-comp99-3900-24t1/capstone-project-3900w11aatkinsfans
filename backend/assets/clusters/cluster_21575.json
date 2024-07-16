@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how many times must i sell myself before my pieces are gone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

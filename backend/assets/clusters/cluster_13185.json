@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you haven't been attacked by any rogue kritters then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

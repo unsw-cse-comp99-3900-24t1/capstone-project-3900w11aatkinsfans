@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you at the llama farm mama",
+            "count": 1
+        }
     },
     "clusterList": [
         {

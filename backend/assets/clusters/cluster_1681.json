@@ -24,7 +24,10 @@
             "04:15",
             "04:55"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "they have declined and said they'll only talk with us if we come with a new offer",
+            "count": 2
+        }
     },
     "clusterList": [
         {

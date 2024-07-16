@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "rule"
+        "label": {
+            "phrase": "rule number one he says you can't write about this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

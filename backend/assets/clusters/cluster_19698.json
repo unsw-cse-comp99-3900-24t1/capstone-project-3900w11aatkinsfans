@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "knghts"
+        "label": {
+            "phrase": "knghts of cydonia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

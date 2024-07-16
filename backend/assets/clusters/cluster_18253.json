@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "papa"
+        "label": {
+            "phrase": "papa was a rollin stone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

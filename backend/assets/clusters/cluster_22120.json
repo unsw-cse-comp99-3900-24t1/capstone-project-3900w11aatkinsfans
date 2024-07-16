@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "battery"
+        "label": {
+            "phrase": "battery exchange program ibook g4",
+            "count": 1
+        }
     },
     "clusterList": [
         {

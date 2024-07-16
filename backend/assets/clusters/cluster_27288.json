@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "juke"
+        "label": {
+            "phrase": "juke box hero whole lotta love",
+            "count": 1
+        }
     },
     "clusterList": [
         {

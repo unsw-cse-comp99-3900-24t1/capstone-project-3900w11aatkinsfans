@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get the prettiest nails",
+            "count": 2
+        }
     },
     "clusterList": [
         {

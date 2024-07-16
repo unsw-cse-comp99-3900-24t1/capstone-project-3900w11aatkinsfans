@@ -10,7 +10,10 @@
             "04:33",
             "04:55"
         ],
-        "label": "woe"
+        "label": {
+            "phrase": "woe be unto you if you weren't there on time",
+            "count": 3
+        }
     },
     "clusterList": [
         {

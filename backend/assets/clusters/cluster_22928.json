@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they have been preparing a vegie patch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

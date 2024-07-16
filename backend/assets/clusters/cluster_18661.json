@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a blend of small molecules regulates both mating and development in caenorhabditis elegans",
+            "count": 1
+        }
     },
     "clusterList": [
         {

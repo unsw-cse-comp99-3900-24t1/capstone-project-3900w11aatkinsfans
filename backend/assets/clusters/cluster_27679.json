@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then low and behold it ends up on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

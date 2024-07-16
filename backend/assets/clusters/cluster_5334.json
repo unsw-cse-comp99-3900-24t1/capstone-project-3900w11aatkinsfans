@@ -12,7 +12,10 @@
             "03:42",
             "03:51"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all ships at sea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

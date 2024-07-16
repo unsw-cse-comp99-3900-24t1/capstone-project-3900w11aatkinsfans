@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to bad your so young",
+            "count": 1
+        }
     },
     "clusterList": [
         {

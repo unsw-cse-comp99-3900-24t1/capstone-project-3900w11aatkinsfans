@@ -10,7 +10,10 @@
             "00:27",
             "04:23"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "in result only",
+            "count": 2
+        }
     },
     "clusterList": [
         {

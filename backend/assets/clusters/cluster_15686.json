@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sticking point was a policy in regard to the use of the facility and that policy has now been passed by council",
+            "count": 1
+        }
     },
     "clusterList": [
         {

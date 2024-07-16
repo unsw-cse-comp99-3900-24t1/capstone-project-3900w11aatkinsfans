@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think i've had a very bad influence on geoff johns",
+            "count": 1
+        }
     },
     "clusterList": [
         {

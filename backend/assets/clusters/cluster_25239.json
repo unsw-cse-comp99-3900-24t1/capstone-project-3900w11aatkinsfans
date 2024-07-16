@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he doesn't want to talk it's hard to investigate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

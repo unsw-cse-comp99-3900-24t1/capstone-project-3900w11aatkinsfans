@@ -22,7 +22,10 @@
             "03:56",
             "04:37"
         ],
-        "label": "build"
+        "label": {
+            "phrase": "build the brand of xyz",
+            "count": 1
+        }
     },
     "clusterList": [
         {

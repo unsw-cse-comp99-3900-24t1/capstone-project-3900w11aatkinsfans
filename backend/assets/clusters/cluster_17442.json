@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "pardon"
+        "label": {
+            "phrase": "pardon the cat party in the background",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you whistle the trees will start blowing and the wind will follow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

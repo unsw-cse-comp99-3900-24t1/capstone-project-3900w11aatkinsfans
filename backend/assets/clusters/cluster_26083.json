@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "throw"
+        "label": {
+            "phrase": "throw a fit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

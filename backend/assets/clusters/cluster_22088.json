@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh and bring the suit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't know where the common ground is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "01:50",
             "04:45"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "catch the reading bug",
+            "count": 2
+        }
     },
     "clusterList": [
         {

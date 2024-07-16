@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey how similar is woolsey's reaction to holding teyla's baby in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "saved"
+        "label": {
+            "phrase": "saved the day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

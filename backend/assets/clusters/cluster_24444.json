@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now you see it now you don't and in three days we'll be seeing it again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:51",
             "02:24"
         ],
-        "label": "paris"
+        "label": {
+            "phrase": "paris we're going to keep right there",
+            "count": 2
+        }
     },
     "clusterList": [
         {

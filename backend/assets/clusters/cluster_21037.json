@@ -6,7 +6,10 @@
         "xLabels": [
             "01:57"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's why we've spent so much effort getting css2 1 right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

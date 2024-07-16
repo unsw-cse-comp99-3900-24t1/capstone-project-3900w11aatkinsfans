@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can we dig up earl warren",
+            "count": 1
+        }
     },
     "clusterList": [
         {

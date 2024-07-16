@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i received no order to withdraw troops",
+            "count": 1
+        }
     },
     "clusterList": [
         {

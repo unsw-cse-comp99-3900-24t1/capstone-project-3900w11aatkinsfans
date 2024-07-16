@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so what's been going on at chez perez lately",
+            "count": 1
+        }
     },
     "clusterList": [
         {

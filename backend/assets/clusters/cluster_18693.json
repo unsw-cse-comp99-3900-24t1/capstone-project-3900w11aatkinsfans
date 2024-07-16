@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that is not her signature",
+            "count": 1
+        }
     },
     "clusterList": [
         {

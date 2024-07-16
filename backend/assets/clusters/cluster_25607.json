@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with great power comes great responsibility thanks to uncle ben for those words of wisdom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

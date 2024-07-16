@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "enough"
+        "label": {
+            "phrase": "enough enough no more boxing matches no boxing in the room no boxing on the bed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

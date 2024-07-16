@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "i'll"
+        "label": {
+            "phrase": "i'll be glad to serve you but don't try to start anything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

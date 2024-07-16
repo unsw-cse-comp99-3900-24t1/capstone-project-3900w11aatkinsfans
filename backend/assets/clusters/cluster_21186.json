@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i speak from my own experience",
+            "count": 1
+        }
     },
     "clusterList": [
         {

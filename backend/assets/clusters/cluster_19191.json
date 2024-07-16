@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this cost is due to a cctv camera being broken and several windows",
+            "count": 1
+        }
     },
     "clusterList": [
         {

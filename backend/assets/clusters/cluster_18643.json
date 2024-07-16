@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "dangerous"
+        "label": {
+            "phrase": "dangerous to the health of young women",
+            "count": 1
+        }
     },
     "clusterList": [
         {

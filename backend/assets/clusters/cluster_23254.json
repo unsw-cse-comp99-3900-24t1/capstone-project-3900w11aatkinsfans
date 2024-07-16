@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "suddenly"
+        "label": {
+            "phrase": "suddenly tanks had their place in the world again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those dollar signs do signify chaz moneymaker too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

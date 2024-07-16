@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "reliable"
+        "label": {
+            "phrase": "reliable online storage powered by amazon s3",
+            "count": 1
+        }
     },
     "clusterList": [
         {

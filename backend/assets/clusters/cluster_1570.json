@@ -18,7 +18,10 @@
             "04:41",
             "05:05"
         ],
-        "label": "macintosh"
+        "label": {
+            "phrase": "macintosh users migrate to more recent web browsing technologies such as apple's safari",
+            "count": 6
+        }
     },
     "clusterList": [
         {

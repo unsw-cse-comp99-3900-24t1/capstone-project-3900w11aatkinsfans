@@ -6,7 +6,10 @@
         "xLabels": [
             "02:44"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some of tsmc's major u s customers may not be doing well",
+            "count": 1
+        }
     },
     "clusterList": [
         {

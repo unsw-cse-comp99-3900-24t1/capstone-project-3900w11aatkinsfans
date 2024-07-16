@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that and realizing what was at stake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

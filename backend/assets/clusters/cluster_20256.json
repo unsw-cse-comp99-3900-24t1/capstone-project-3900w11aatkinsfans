@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "reconstitute"
+        "label": {
+            "phrase": "reconstitute their national home in that country",
+            "count": 1
+        }
     },
     "clusterList": [
         {

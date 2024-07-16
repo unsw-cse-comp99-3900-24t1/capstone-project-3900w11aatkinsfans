@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "three"
+        "label": {
+            "phrase": "three system analysis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

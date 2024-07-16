@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "install"
+        "label": {
+            "phrase": "install it for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

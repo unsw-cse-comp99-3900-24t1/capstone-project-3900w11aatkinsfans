@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he just wants to make up for lost time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

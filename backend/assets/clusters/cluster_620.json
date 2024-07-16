@@ -22,7 +22,10 @@
             "04:18",
             "05:00"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you earn 100k while working you will need at least 80k in retirement",
+            "count": 8
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "make"
+        "label": {
+            "phrase": "make an independent examination of the whole record",
+            "count": 1
+        }
     },
     "clusterList": [
         {

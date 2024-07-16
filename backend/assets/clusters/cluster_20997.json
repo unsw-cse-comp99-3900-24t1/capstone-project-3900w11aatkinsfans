@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once they are here the opportunity is easy to understand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

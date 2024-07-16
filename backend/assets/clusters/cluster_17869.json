@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but people might see us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

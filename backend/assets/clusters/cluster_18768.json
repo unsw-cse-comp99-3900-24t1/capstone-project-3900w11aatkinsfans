@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ag-hmc150 offers longer recording times and higher recording quality than is possible with current hdv formats",
+            "count": 1
+        }
     },
     "clusterList": [
         {

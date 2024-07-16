@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have a wonderful quail crop and he's a fabulous shot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

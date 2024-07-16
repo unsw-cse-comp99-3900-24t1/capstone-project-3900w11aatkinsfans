@@ -34,7 +34,10 @@
             "04:15",
             "04:54"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have bicyclists riding against traffic on the sidewalk and without helmets they don't know what they are doing",
+            "count": 5
+        }
     },
     "clusterList": [
         {

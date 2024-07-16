@@ -12,7 +12,10 @@
             "01:47",
             "02:14"
         ],
-        "label": "technical"
+        "label": {
+            "phrase": "technical details will be added as soon as this vulnerability will be fixed",
+            "count": 5
+        }
     },
     "clusterList": [
         {

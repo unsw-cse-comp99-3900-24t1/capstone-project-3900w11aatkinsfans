@@ -10,7 +10,10 @@
             "01:01",
             "03:51"
         ],
-        "label": "extract"
+        "label": {
+            "phrase": "extract and encode audio tracks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

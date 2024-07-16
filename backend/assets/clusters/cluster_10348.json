@@ -6,7 +6,10 @@
         "xLabels": [
             "01:57"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is this watch a grade 1 or 2",
+            "count": 2
+        }
     },
     "clusterList": [
         {

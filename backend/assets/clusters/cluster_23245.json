@@ -6,7 +6,10 @@
         "xLabels": [
             "02:41"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get on the bus gus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no cover charge",
+            "count": 1
+        }
     },
     "clusterList": [
         {

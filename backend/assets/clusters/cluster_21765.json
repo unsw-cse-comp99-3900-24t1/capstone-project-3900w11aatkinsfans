@@ -6,7 +6,10 @@
         "xLabels": [
             "02:12"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they need to define him quickly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

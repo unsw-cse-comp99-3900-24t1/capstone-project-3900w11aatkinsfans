@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "tags"
+        "label": {
+            "phrase": "tags shall blink until the end of days",
+            "count": 1
+        }
     },
     "clusterList": [
         {

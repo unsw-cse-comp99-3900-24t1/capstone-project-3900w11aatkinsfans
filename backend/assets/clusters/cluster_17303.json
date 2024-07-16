@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm drawing this story about a little boy and i want to have animals maul him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

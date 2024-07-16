@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a appdata winsock-chat pinglog txt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

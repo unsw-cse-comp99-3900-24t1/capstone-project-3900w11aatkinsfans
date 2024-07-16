@@ -6,7 +6,10 @@
         "xLabels": [
             "04:16"
         ],
-        "label": "of"
+        "label": {
+            "phrase": "of course it has radius less than three it's a chocolate chip pancake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

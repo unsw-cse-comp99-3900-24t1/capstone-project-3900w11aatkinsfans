@@ -18,7 +18,10 @@
             "04:24",
             "04:54"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please refrain from hurting me until the cops come",
+            "count": 1
+        }
     },
     "clusterList": [
         {

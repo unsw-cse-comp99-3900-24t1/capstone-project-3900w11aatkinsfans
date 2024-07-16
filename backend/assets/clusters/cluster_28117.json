@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a big hello from thomas moore engelhardt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

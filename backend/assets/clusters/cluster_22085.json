@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i was lost that's why i chose this way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

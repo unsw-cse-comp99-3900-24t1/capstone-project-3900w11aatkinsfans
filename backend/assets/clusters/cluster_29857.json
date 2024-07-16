@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you haven't given it a chance give it a few minutes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

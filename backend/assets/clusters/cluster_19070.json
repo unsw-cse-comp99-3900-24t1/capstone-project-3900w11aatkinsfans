@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "by"
+        "label": {
+            "phrase": "by failure to make a required disposition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

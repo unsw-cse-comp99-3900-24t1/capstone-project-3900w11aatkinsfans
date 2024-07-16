@@ -50,7 +50,10 @@
             "05:02",
             "05:04"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "thanks a lot",
+            "count": 2
+        }
     },
     "clusterList": [
         {

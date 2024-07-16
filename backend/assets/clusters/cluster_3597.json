@@ -12,7 +12,10 @@
             "02:23",
             "02:36"
         ],
-        "label": "web"
+        "label": {
+            "phrase": "cloud computing journal",
+            "count": 4
+        }
     },
     "clusterList": [
         {

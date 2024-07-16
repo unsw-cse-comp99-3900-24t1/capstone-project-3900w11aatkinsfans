@@ -18,7 +18,10 @@
             "02:26",
             "03:56"
         ],
-        "label": "long"
+        "label": {
+            "phrase": "the long goodbye",
+            "count": 3
+        }
     },
     "clusterList": [
         {

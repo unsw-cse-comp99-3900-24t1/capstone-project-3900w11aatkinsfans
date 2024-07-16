@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "justice"
+        "label": {
+            "phrase": "justice for mohamed harkat committee",
+            "count": 1
+        }
     },
     "clusterList": [
         {

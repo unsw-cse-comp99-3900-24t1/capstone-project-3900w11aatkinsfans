@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh did you have to interrupt my song i was really getting into it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

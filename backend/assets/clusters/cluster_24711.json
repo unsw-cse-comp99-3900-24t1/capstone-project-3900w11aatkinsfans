@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god is calling us to expand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

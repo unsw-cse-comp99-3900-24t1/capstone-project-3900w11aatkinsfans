@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "stand"
+        "label": {
+            "phrase": "stand on its own",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "04:15",
             "04:32"
         ],
-        "label": "see"
+        "label": {
+            "phrase": "see other people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

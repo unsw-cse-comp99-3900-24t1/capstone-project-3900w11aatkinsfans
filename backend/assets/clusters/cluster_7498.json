@@ -10,7 +10,10 @@
             "02:46",
             "04:04"
         ],
-        "label": "mountains"
+        "label": {
+            "phrase": "mountains reach up to the sky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

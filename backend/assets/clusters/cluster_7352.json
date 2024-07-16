@@ -10,7 +10,10 @@
             "00:20",
             "02:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the rising tide",
+            "count": 1
+        }
     },
     "clusterList": [
         {

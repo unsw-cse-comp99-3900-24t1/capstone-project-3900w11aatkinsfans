@@ -8,7 +8,10 @@
             "04:05",
             "05:01"
         ],
-        "label": "watergate"
+        "label": {
+            "phrase": "watergate the new millennium",
+            "count": 1
+        }
     },
     "clusterList": [
         {

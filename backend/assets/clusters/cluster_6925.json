@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "room"
+        "label": {
+            "phrase": "room a thousand years wide",
+            "count": 3
+        }
     },
     "clusterList": [
         {

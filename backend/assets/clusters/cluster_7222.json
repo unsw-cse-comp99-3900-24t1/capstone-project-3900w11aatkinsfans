@@ -10,7 +10,10 @@
             "03:27",
             "05:05"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a few positions per store were affected",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a film about william meredith the pulitzer prize winning poet former poet laurite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

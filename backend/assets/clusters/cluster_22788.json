@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is the house locked up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

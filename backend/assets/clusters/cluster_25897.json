@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "previously"
+        "label": {
+            "phrase": "previously on drawn together",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you watch the x games you cannot deny they are phenomenal athletes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

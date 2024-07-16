@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "missing"
+        "label": {
+            "phrase": "missing in action",
+            "count": 1
+        }
     },
     "clusterList": [
         {

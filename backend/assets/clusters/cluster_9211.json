@@ -8,7 +8,10 @@
             "00:56",
             "01:23"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't care event",
+            "count": 2
+        }
     },
     "clusterList": [
         {

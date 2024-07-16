@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the spear slides into your guts slamming through the armour and burying itself in the tree trunk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

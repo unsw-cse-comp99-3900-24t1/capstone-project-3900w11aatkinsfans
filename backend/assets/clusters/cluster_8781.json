@@ -8,7 +8,10 @@
             "00:32",
             "01:10"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's see who can be quiet the longest",
+            "count": 2
+        }
     },
     "clusterList": [
         {

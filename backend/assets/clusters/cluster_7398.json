@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "horses"
+        "label": {
+            "phrase": "horses tell us who we are",
+            "count": 1
+        }
     },
     "clusterList": [
         {

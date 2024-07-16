@@ -6,7 +6,10 @@
         "xLabels": [
             "04:20"
         ],
-        "label": "should"
+        "label": {
+            "phrase": "should the state take a stand on first things",
+            "count": 1
+        }
     },
     "clusterList": [
         {

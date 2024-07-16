@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "funeral"
+        "label": {
+            "phrase": "funeral services regulatory amendment act of 2001",
+            "count": 1
+        }
     },
     "clusterList": [
         {

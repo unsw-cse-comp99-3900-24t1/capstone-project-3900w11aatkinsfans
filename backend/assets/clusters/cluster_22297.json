@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think there was an article about that in our paper this morning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

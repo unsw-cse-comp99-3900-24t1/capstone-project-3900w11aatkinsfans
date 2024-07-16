@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a crowd had gathered all of a sudden from out of nowhere and this white detective runs in and bam",
+            "count": 1
+        }
     },
     "clusterList": [
         {

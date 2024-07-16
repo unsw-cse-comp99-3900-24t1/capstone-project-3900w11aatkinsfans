@@ -32,7 +32,10 @@
             "03:23",
             "04:28"
         ],
-        "label": "reduce"
+        "label": {
+            "phrase": "there is the trash",
+            "count": 5
+        }
     },
     "clusterList": [
         {

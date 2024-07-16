@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every politician has received these reports",
+            "count": 1
+        }
     },
     "clusterList": [
         {

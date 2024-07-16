@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is a wave of people at the bar 4 people deep and also i cannot move",
+            "count": 1
+        }
     },
     "clusterList": [
         {

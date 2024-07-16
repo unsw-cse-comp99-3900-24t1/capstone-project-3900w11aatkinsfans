@@ -10,7 +10,10 @@
             "00:32",
             "03:56"
         ],
-        "label": "alcohol"
+        "label": {
+            "phrase": "alcohol will not be served nor will alcohol be tolerated within the park it simply is not going to happen",
+            "count": 2
+        }
     },
     "clusterList": [
         {

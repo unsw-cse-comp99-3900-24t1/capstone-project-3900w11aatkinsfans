@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "product"
+        "label": {
+            "phrase": "product specific prerequisite checks",
+            "count": 2
+        }
     },
     "clusterList": [
         {

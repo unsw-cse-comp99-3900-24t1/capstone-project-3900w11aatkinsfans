@@ -14,7 +14,10 @@
             "02:14",
             "04:42"
         ],
-        "label": "happy"
+        "label": {
+            "phrase": "happy is he who believes",
+            "count": 3
+        }
     },
     "clusterList": [
         {

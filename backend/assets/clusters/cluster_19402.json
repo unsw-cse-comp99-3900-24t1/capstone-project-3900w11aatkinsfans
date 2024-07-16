@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "ap"
+        "label": {
+            "phrase": "ap physics is the easiest place to start",
+            "count": 1
+        }
     },
     "clusterList": [
         {

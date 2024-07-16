@@ -10,7 +10,10 @@
             "03:05",
             "04:18"
         ],
-        "label": "restart"
+        "label": {
+            "phrase": "restart the clock",
+            "count": 1
+        }
     },
     "clusterList": [
         {

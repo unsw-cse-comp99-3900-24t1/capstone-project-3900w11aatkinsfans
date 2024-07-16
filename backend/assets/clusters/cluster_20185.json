@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "damn"
+        "label": {
+            "phrase": "damn if google had only indexed 360 000 pages on this topic then i'd be able to find what i want",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:03",
             "03:27"
         ],
-        "label": "looking"
+        "label": {
+            "phrase": "the vision thing",
+            "count": 2
+        }
     },
     "clusterList": [
         {

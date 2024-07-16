@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i put my assignment into the dropbox did you get it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

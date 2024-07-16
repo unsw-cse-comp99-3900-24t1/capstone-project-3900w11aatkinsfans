@@ -8,7 +8,10 @@
             "00:29",
             "03:51"
         ],
-        "label": "bob"
+        "label": {
+            "phrase": "the pond builder's son",
+            "count": 3
+        }
     },
     "clusterList": [
         {

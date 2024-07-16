@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some of my little friends say there is no santa claus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

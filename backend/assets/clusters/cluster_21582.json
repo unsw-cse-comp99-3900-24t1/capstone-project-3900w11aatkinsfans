@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "georgia"
+        "label": {
+            "phrase": "georgia quit casting spells on your brother",
+            "count": 1
+        }
     },
     "clusterList": [
         {

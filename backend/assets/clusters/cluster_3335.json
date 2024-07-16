@@ -16,7 +16,10 @@
             "04:33",
             "05:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the meeting is superb",
+            "count": 1
+        }
     },
     "clusterList": [
         {

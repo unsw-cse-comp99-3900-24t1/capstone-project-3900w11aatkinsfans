@@ -12,7 +12,10 @@
             "04:23",
             "05:05"
         ],
-        "label": "authorized"
+        "label": {
+            "phrase": "authorized account holder",
+            "count": 8
+        }
     },
     "clusterList": [
         {

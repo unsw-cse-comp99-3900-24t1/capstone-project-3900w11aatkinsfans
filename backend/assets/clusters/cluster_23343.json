@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no no no this is a pen not a mechanical pencil",
+            "count": 1
+        }
     },
     "clusterList": [
         {

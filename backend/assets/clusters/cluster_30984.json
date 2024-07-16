@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "modern"
+        "label": {
+            "phrase": "modern art meets pregnant man in bucket truck with chainsaw",
+            "count": 1
+        }
     },
     "clusterList": [
         {

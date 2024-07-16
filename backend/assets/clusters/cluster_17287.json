@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "flash"
+        "label": {
+            "phrase": "flash iron heights",
+            "count": 1
+        }
     },
     "clusterList": [
         {

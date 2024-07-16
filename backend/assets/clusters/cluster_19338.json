@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the a d 70 doctrine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

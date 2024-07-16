@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we had a stahlfolder before and we were very pleased with the results",
+            "count": 1
+        }
     },
     "clusterList": [
         {

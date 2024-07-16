@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the john edwards program paid for the first year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

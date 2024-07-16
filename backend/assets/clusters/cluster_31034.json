@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this gun is about looking cool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

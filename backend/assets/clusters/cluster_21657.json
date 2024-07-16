@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "life"
+        "label": {
+            "phrase": "life must go on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

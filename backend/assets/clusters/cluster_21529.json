@@ -6,7 +6,10 @@
         "xLabels": [
             "02:07"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can we focus on me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

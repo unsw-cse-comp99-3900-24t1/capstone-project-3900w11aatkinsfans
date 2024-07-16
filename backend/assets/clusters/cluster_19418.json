@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're the wrong color to work here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

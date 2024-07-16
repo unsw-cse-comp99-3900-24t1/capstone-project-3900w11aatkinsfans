@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "reconciliations"
+        "label": {
+            "phrase": "reconciliations of non-gaap financial measures",
+            "count": 1
+        }
     },
     "clusterList": [
         {

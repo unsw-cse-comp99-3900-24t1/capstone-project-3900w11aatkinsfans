@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "police"
+        "label": {
+            "phrase": "police say the equipment which was sent to south korea could have been sold to north korea or the middle east",
+            "count": 1
+        }
     },
     "clusterList": [
         {

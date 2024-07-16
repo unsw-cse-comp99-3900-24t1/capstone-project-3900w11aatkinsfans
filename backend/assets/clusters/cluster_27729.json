@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things to keep track of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

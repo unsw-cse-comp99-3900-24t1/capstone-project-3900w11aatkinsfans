@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "men"
+        "label": {
+            "phrase": "men are the same as women now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

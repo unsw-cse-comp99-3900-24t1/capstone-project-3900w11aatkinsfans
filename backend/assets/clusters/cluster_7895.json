@@ -8,7 +8,10 @@
             "00:01",
             "00:05"
         ],
-        "label": "extremely"
+        "label": {
+            "phrase": "extremely interested in making things",
+            "count": 2
+        }
     },
     "clusterList": [
         {

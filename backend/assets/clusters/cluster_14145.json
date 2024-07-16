@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "matured"
+        "label": {
+            "phrase": "matured enough to trust him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

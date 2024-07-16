@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what questions should i ask",
+            "count": 1
+        }
     },
     "clusterList": [
         {

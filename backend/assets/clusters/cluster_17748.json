@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "cio"
+        "label": {
+            "phrase": "cio reality check",
+            "count": 1
+        }
     },
     "clusterList": [
         {

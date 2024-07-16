@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a prince it is then",
+            "count": 1
+        }
     },
     "clusterList": [
         {

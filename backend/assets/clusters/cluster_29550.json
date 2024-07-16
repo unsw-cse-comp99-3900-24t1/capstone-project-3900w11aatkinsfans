@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will that be all mr mendoza",
+            "count": 1
+        }
     },
     "clusterList": [
         {

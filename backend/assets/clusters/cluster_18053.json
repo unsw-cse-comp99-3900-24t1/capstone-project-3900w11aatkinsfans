@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good this is going to destroy the united states",
+            "count": 1
+        }
     },
     "clusterList": [
         {

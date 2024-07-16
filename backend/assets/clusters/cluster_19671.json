@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "dex"
+        "label": {
+            "phrase": "dex at night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

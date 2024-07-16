@@ -24,7 +24,10 @@
             "04:05",
             "04:38"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one more story",
+            "count": 6
+        }
     },
     "clusterList": [
         {

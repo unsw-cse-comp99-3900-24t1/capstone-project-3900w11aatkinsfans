@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "solid"
+        "label": {
+            "phrase": "solid state society",
+            "count": 1
+        }
     },
     "clusterList": [
         {

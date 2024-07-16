@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it sounds to me like the seller helped out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

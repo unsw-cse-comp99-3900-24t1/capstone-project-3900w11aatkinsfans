@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are zombies down there in case you haven't noticed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "pudge"
+        "label": {
+            "phrase": "pudge has done an outstanding job for us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

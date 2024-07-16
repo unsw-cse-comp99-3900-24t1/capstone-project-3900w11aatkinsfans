@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "cannot"
+        "label": {
+            "phrase": "cannot record settings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are very concerned about the lives of these four men",
+            "count": 1
+        }
     },
     "clusterList": [
         {

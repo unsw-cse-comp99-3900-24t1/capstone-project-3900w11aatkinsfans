@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are many reasons for producing a video like this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

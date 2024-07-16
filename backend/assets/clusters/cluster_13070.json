@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "dexter"
+        "label": {
+            "phrase": "dexter is my baby and has never sat on the couch with anyone but me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

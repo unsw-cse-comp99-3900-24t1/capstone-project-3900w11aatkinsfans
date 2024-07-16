@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the largest uncontrolled experiment in medical history",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "scouring"
+        "label": {
+            "phrase": "scouring the hospital and morgues for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

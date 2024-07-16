@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some 60 million americans belong to his fold and all of america respects this messenger of peace and justice and freedom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

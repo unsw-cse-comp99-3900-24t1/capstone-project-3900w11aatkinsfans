@@ -20,7 +20,10 @@
             "03:51",
             "04:31"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a very small number of individuals",
+            "count": 3
+        }
     },
     "clusterList": [
         {

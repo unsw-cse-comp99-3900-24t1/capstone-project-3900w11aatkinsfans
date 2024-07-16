@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a basic obedience class where we teach sit come stay lie down heel boundary training and all kinds of behavioral information",
+            "count": 1
+        }
     },
     "clusterList": [
         {

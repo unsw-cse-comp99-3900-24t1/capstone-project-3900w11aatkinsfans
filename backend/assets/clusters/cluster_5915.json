@@ -8,7 +8,10 @@
             "00:22",
             "03:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the secret un meeting",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "bloggers"
+        "label": {
+            "phrase": "bloggers who combine a taste for heavy metal music with a taste for heavy metal politics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the setters of catan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "cowboy"
+        "label": {
+            "phrase": "cowboy john do you think our babies will be beautiful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

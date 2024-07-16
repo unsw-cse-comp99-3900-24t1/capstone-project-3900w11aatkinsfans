@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no hay techo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

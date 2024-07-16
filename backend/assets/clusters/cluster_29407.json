@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this banquet is about real people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

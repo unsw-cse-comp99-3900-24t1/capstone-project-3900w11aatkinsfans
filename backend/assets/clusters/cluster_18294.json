@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "use"
+        "label": {
+            "phrase": "use a boat hook a long pole with a hook on it and grab the harness and pull the dog in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

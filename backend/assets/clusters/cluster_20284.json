@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "julie"
+        "label": {
+            "phrase": "julie will fix it she's our hero",
+            "count": 1
+        }
     },
     "clusterList": [
         {

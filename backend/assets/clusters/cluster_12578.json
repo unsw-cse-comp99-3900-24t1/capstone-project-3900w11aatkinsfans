@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "barack"
+        "label": {
+            "phrase": "barack obama admitted using drugs in his autobiography but never revealed if or when he stopped",
+            "count": 1
+        }
     },
     "clusterList": [
         {

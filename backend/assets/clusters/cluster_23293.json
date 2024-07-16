@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a very meaningful payment for them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

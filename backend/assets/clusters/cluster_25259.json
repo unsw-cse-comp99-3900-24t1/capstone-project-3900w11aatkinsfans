@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh and there's another thing i know about you all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

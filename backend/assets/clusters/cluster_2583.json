@@ -14,7 +14,10 @@
             "03:51",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the puffy chair",
+            "count": 4
+        }
     },
     "clusterList": [
         {

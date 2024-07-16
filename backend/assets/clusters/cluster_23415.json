@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who scrambled them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

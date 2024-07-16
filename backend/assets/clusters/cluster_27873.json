@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "michael"
+        "label": {
+            "phrase": "michael is a big fan of the third button",
+            "count": 1
+        }
     },
     "clusterList": [
         {

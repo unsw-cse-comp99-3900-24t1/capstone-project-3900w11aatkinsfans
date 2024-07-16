@@ -6,7 +6,10 @@
         "xLabels": [
             "00:19"
         ],
-        "label": "were"
+        "label": {
+            "phrase": "were heavily altered",
+            "count": 1
+        }
     },
     "clusterList": [
         {

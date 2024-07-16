@@ -18,7 +18,10 @@
             "03:47",
             "04:28"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my work queue",
+            "count": 135
+        }
     },
     "clusterList": [
         {

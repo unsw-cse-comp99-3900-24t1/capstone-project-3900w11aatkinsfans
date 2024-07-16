@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "sparse"
+        "label": {
+            "phrase": "sparse white magazine covers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

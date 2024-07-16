@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "mermaids"
+        "label": {
+            "phrase": "mermaids bring bad luck you know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

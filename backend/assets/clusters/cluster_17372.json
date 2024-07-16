@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no pressure let the weight of the razor do the work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

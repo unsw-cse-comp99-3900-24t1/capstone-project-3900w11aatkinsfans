@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "mr master of brainerd we're going to start up the old machinery mr master of brainerd",
+            "count": 1
+        }
     },
     "clusterList": [
         {

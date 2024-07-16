@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "maybe"
+        "label": {
+            "phrase": "maybe we should do it again but with less chest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

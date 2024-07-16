@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "slap"
+        "label": {
+            "phrase": "slap tear of the labrum",
+            "count": 1
+        }
     },
     "clusterList": [
         {

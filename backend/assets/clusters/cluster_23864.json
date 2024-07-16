@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "fighting"
+        "label": {
+            "phrase": "fighting the stream",
+            "count": 1
+        }
     },
     "clusterList": [
         {

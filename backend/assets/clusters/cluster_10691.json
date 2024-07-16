@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "indian"
+        "label": {
+            "phrase": "indian telecom analysis 2008-2012",
+            "count": 2
+        }
     },
     "clusterList": [
         {

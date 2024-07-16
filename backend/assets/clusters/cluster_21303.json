@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "nonhomogeneous"
+        "label": {
+            "phrase": "nonhomogeneous quadratic duality and curvature",
+            "count": 1
+        }
     },
     "clusterList": [
         {

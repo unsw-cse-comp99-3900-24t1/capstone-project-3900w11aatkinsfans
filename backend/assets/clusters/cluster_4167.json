@@ -14,7 +14,10 @@
             "04:00",
             "05:00"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh wow well that's a lot of steak",
+            "count": 1
+        }
     },
     "clusterList": [
         {

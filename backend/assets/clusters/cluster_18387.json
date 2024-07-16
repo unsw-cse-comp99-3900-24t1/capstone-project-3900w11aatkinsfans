@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "bat"
+        "label": {
+            "phrase": "bat segundo survives the soup",
+            "count": 1
+        }
     },
     "clusterList": [
         {

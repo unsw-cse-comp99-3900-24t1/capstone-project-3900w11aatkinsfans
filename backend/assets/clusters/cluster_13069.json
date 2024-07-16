@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "low"
+        "label": {
+            "phrase": "low blood glucose levels hypoglycemia are also seen with hypothyroidism",
+            "count": 1
+        }
     },
     "clusterList": [
         {

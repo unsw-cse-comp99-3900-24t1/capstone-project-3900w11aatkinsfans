@@ -6,7 +6,10 @@
         "xLabels": [
             "05:02"
         ],
-        "label": "getting"
+        "label": {
+            "phrase": "getting the loom to work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

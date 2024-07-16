@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "sunday"
+        "label": {
+            "phrase": "sunday mornin comin down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

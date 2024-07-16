@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "quantization"
+        "label": {
+            "phrase": "quantization of cluster varieties and the quantum dilogarithm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

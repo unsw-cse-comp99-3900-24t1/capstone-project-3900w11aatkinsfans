@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "mobile"
+        "label": {
+            "phrase": "mobile brain training",
+            "count": 1
+        }
     },
     "clusterList": [
         {

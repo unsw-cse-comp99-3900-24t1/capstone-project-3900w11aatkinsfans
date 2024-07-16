@@ -16,7 +16,10 @@
             "03:28",
             "04:41"
         ],
-        "label": "feedback"
+        "label": {
+            "phrase": "feedback has been positive from my students",
+            "count": 1
+        }
     },
     "clusterList": [
         {

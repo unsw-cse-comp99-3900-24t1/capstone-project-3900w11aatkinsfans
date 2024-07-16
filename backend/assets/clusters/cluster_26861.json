@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "consulting"
+        "label": {
+            "phrase": "consulting with legal counsel or reviewing communications from legal counsel about proposed or pending litigation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

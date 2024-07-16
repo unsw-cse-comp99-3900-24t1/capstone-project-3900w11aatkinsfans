@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's something stopping me from getting into the corridor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

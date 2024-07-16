@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "blessing"
+        "label": {
+            "phrase": "blessing of pets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "high's"
+        "label": {
+            "phrase": "high's and low's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

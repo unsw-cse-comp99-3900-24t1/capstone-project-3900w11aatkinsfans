@@ -6,7 +6,10 @@
         "xLabels": [
             "04:49"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hyak has seats that feel like doctor-office rejects",
+            "count": 2
+        }
     },
     "clusterList": [
         {

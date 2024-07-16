@@ -8,7 +8,10 @@
             "00:27",
             "04:18"
         ],
-        "label": "chirping"
+        "label": {
+            "phrase": "chirping of the birds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:02",
             "01:00"
         ],
-        "label": "incubation"
+        "label": {
+            "phrase": "incubation a space for monsters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

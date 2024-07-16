@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "women"
+        "label": {
+            "phrase": "women and cats will do as they please and men and dogs should relax and get used to the idea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

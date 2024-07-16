@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it should not be barry allen rebirth because our job is much bigger than that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

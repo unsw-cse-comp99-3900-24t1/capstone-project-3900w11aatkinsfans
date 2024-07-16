@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "unbelievably"
+        "label": {
+            "phrase": "unbelievably good deals and great adventures that you absolutely can't get unless you're over 50",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "remove"
+        "label": {
+            "phrase": "remove such content within 48 hours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

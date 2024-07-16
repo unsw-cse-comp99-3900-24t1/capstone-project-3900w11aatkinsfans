@@ -6,7 +6,10 @@
         "xLabels": [
             "00:11"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what that tells me is we've got a great bunch of athletes here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

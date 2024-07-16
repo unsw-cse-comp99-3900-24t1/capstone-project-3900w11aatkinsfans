@@ -24,7 +24,10 @@
             "03:05",
             "03:06"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're going from overdrive to second gear",
+            "count": 10
+        }
     },
     "clusterList": [
         {

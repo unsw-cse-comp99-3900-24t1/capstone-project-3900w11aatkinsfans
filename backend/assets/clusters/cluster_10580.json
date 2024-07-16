@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the first hearse is for my husband my dog attacked and killed him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

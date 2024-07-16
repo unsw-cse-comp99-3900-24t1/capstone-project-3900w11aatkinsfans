@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "dogpatch"
+        "label": {
+            "phrase": "dogpatch used to be more of a hillbilly village",
+            "count": 1
+        }
     },
     "clusterList": [
         {

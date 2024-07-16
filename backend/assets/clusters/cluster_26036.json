@@ -6,7 +6,10 @@
         "xLabels": [
             "03:35"
         ],
-        "label": "shakin"
+        "label": {
+            "phrase": "shakin up astrological nonsense",
+            "count": 1
+        }
     },
     "clusterList": [
         {

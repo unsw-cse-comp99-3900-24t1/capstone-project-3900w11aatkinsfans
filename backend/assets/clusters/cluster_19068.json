@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "committed"
+        "label": {
+            "phrase": "committed to defeat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

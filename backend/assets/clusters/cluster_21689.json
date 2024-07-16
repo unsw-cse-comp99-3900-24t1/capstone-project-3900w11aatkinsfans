@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh we're going to block island",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "come"
+        "label": {
+            "phrase": "come on in and we will sell you a tele for 10",
+            "count": 2
+        }
     },
     "clusterList": [
         {

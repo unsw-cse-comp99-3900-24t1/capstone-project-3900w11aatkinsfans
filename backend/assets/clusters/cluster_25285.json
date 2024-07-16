@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh alright have you got the kritter's serial numbers for me then or do i have to guess",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "by"
+        "label": {
+            "phrase": "by appointment only",
+            "count": 1
+        }
     },
     "clusterList": [
         {

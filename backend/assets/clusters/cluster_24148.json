@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "addition"
+        "label": {
+            "phrase": "addition by subtraction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "04:27",
             "04:52"
         ],
-        "label": "giant"
+        "label": {
+            "phrase": "the incredible hulk",
+            "count": 4
+        }
     },
     "clusterList": [
         {

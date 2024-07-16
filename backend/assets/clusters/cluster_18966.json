@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then and now funland",
+            "count": 1
+        }
     },
     "clusterList": [
         {

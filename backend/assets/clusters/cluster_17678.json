@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "pot"
+        "label": {
+            "phrase": "pot calling the kettle black",
+            "count": 1
+        }
     },
     "clusterList": [
         {

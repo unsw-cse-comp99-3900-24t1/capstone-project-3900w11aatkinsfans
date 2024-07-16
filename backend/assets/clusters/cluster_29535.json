@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the stars are all that is truly important all that really makes a difference in life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

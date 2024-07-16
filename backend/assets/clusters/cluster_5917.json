@@ -8,7 +8,10 @@
             "00:19",
             "03:42"
         ],
-        "label": "live"
+        "label": {
+            "phrase": "live the fourth",
+            "count": 3
+        }
     },
     "clusterList": [
         {

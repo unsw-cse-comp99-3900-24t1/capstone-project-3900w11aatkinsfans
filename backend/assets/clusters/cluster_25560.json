@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "hates"
+        "label": {
+            "phrase": "hates and loves the ring as he hates and loves himself",
+            "count": 1
+        }
     },
     "clusterList": [
         {

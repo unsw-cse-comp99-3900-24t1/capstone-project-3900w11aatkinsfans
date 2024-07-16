@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the royal road to the unconscious",
+            "count": 1
+        }
     },
     "clusterList": [
         {

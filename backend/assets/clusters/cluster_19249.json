@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we members who monitor the facility introduce ourselves to anyone who we don't know and welcome them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

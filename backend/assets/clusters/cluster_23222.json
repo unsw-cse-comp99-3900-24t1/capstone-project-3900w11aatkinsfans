@@ -6,7 +6,10 @@
         "xLabels": [
             "02:40"
         ],
-        "label": "complete"
+        "label": {
+            "phrase": "complete cut and total renewal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "shrek"
+        "label": {
+            "phrase": "shrek goes fourth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -26,7 +26,10 @@
             "04:03",
             "04:51"
         ],
-        "label": "settlers"
+        "label": {
+            "phrase": "lost and found",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -38,7 +38,10 @@
             "04:32",
             "05:05"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "tell me why",
+            "count": 2
+        }
     },
     "clusterList": [
         {

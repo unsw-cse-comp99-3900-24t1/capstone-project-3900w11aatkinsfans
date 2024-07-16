@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "turtles"
+        "label": {
+            "phrase": "turtles all the way down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "vanguard"
+        "label": {
+            "phrase": "vanguard of the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

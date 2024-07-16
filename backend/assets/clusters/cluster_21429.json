@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is a matter entirely within the control of the agencies involved",
+            "count": 1
+        }
     },
     "clusterList": [
         {

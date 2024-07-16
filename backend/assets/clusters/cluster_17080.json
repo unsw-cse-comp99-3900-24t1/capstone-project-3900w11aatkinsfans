@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "yank"
+        "label": {
+            "phrase": "yank him up by the reins",
+            "count": 1
+        }
     },
     "clusterList": [
         {

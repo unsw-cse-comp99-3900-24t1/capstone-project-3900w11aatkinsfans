@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "never-ending"
+        "label": {
+            "phrase": "never-ending and ceaseless onslaught",
+            "count": 1
+        }
     },
     "clusterList": [
         {

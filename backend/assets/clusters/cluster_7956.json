@@ -8,7 +8,10 @@
             "00:04",
             "04:05"
         ],
-        "label": "henry"
+        "label": {
+            "phrase": "henry ford challenged his times and his investors by insisting on producing affordable automobiles for a mass market",
+            "count": 2
+        }
     },
     "clusterList": [
         {

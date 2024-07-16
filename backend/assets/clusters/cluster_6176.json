@@ -10,7 +10,10 @@
             "04:03",
             "04:22"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what state are we supposedly from",
+            "count": 3
+        }
     },
     "clusterList": [
         {

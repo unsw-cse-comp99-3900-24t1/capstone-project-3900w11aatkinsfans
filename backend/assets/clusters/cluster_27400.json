@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "defensively"
+        "label": {
+            "phrase": "defensively we're encouraged",
+            "count": 1
+        }
     },
     "clusterList": [
         {

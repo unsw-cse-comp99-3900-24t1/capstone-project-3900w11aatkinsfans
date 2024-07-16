@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there were incentives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

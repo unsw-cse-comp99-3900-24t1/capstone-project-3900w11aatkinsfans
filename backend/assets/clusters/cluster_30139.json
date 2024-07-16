@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an amusement park of math",
+            "count": 1
+        }
     },
     "clusterList": [
         {

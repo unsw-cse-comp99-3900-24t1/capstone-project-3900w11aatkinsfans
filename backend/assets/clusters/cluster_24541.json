@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes my snot is neon no i can't breathe no i'm not pregnant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

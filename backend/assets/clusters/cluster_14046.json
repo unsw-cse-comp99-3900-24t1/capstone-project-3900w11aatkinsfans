@@ -6,7 +6,10 @@
         "xLabels": [
             "00:16"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is the first time a national team has come to shoreline community college to play",
+            "count": 1
+        }
     },
     "clusterList": [
         {

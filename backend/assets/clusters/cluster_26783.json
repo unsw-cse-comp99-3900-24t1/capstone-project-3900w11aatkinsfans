@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you fix the generators in the market",
+            "count": 1
+        }
     },
     "clusterList": [
         {

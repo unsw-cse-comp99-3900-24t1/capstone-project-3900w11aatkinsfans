@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "bury"
+        "label": {
+            "phrase": "bury the video",
+            "count": 1
+        }
     },
     "clusterList": [
         {

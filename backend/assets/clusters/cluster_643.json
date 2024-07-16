@@ -36,7 +36,10 @@
             "04:31",
             "04:45"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "hot concerts for a cool summer",
+            "count": 5
+        }
     },
     "clusterList": [
         {

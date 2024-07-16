@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "spiderman"
+        "label": {
+            "phrase": "spiderman scaled a 62",
+            "count": 1
+        }
     },
     "clusterList": [
         {

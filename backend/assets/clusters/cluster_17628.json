@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just as passionate about decks as you are about gardens",
+            "count": 1
+        }
     },
     "clusterList": [
         {

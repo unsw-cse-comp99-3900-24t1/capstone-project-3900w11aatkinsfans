@@ -6,7 +6,10 @@
         "xLabels": [
             "00:50"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to get here again is great but this time we didn't want to go away second",
+            "count": 1
+        }
     },
     "clusterList": [
         {

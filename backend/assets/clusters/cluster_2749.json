@@ -18,7 +18,10 @@
             "04:01",
             "04:15"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "cool for cats",
+            "count": 3
+        }
     },
     "clusterList": [
         {

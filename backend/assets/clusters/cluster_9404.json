@@ -8,7 +8,10 @@
             "01:04",
             "01:18"
         ],
-        "label": "attack"
+        "label": {
+            "phrase": "attack your opponent every day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

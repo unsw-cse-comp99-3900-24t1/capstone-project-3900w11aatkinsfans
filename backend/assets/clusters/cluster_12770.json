@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but of course it'll be no fun for me without you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

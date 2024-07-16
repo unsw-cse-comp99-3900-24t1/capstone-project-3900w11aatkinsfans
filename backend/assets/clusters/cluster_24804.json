@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "they'll"
+        "label": {
+            "phrase": "they'll stop you and drag you off to guantanamo bay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

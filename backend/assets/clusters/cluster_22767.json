@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most effected by the project",
+            "count": 1
+        }
     },
     "clusterList": [
         {

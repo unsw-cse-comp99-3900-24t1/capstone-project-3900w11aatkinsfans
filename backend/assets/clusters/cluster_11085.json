@@ -8,7 +8,10 @@
             "02:32",
             "03:12"
         ],
-        "label": "whole"
+        "label": {
+            "phrase": "whole nuther thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

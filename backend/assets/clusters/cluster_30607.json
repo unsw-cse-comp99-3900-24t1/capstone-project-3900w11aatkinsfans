@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you normally watch tv and see things going on about someone else",
+            "count": 1
+        }
     },
     "clusterList": [
         {

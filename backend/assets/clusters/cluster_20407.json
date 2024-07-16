@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "right"
+        "label": {
+            "phrase": "right on target",
+            "count": 1
+        }
     },
     "clusterList": [
         {

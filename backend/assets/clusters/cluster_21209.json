@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "christ"
+        "label": {
+            "phrase": "christ my back's killing me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

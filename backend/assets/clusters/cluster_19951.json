@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "free"
+        "label": {
+            "phrase": "free form stand them on end on the shelf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

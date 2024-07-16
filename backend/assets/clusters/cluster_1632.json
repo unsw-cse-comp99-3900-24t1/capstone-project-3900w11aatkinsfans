@@ -20,7 +20,10 @@
             "04:28",
             "04:36"
         ],
-        "label": "mydomain"
+        "label": {
+            "phrase": "www domain org",
+            "count": 2
+        }
     },
     "clusterList": [
         {

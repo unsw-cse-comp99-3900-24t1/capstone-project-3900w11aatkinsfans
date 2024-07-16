@@ -6,7 +6,10 @@
         "xLabels": [
             "00:09"
         ],
-        "label": "xyz"
+        "label": {
+            "phrase": "xyz not elsewhere classified",
+            "count": 1
+        }
     },
     "clusterList": [
         {

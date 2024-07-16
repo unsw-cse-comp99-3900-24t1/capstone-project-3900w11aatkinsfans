@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "screw"
+        "label": {
+            "phrase": "screw the oom we are steak",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "execration"
+        "label": {
+            "phrase": "execration that accept to acknowledge",
+            "count": 1
+        }
     },
     "clusterList": [
         {

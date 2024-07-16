@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's talking about duck schmaltz and duck gribenes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

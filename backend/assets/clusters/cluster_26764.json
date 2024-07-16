@@ -6,7 +6,10 @@
         "xLabels": [
             "03:49"
         ],
-        "label": "his"
+        "label": {
+            "phrase": "his work is in the millions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

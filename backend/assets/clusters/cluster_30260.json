@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "vote"
+        "label": {
+            "phrase": "vote yes for unity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

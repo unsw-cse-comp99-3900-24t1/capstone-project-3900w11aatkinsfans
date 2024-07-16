@@ -10,7 +10,10 @@
             "01:20",
             "01:21"
         ],
-        "label": "severus"
+        "label": {
+            "phrase": "severus snape is the potions teacher",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the general public wants to know what is going on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

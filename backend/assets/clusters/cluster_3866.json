@@ -14,7 +14,10 @@
             "04:29",
             "05:03"
         ],
-        "label": "operation"
+        "label": {
+            "phrase": "operation scheduled departure",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:10",
             "01:32"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he was a pet these are all pets",
+            "count": 2
+        }
     },
     "clusterList": [
         {

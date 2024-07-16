@@ -14,7 +14,10 @@
             "02:42",
             "04:47"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "centers of excellence",
+            "count": 3
+        }
     },
     "clusterList": [
         {

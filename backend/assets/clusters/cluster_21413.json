@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to vera just like a good martini strong chilled and slightly bitter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

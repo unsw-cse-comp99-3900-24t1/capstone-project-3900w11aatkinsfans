@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we give warnings but people still take part in these antics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

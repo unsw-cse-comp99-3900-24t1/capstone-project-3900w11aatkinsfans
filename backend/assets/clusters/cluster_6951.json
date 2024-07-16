@@ -10,7 +10,10 @@
             "02:29",
             "04:45"
         ],
-        "label": "blessing"
+        "label": {
+            "phrase": "blessing is next to the wound",
+            "count": 1
+        }
     },
     "clusterList": [
         {

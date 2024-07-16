@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just another vpn",
+            "count": 1
+        }
     },
     "clusterList": [
         {

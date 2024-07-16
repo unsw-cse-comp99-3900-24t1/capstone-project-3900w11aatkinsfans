@@ -10,7 +10,10 @@
             "00:10",
             "03:37"
         ],
-        "label": "establish"
+        "label": {
+            "phrase": "establish a presence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

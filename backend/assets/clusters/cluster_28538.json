@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "peace"
+        "label": {
+            "phrase": "peace i'll see you in a little bit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that team don't give me the ball",
+            "count": 1
+        }
     },
     "clusterList": [
         {

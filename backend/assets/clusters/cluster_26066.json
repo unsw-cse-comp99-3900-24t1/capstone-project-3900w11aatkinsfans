@@ -6,7 +6,10 @@
         "xLabels": [
             "03:36"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're all out of whatever it was that you wanted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

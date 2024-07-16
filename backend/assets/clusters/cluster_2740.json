@@ -16,7 +16,10 @@
             "04:28",
             "04:41"
         ],
-        "label": "john's"
+        "label": {
+            "phrase": "john's been a celebrity ever since he was shot down",
+            "count": 5
+        }
     },
     "clusterList": [
         {

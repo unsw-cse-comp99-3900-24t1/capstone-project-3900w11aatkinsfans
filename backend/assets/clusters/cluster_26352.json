@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "any"
+        "label": {
+            "phrase": "any of the language in there referred to mr sullivan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

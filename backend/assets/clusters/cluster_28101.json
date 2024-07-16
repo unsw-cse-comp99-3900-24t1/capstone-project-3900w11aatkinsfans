@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "dry"
+        "label": {
+            "phrase": "dry and dusty chronologies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

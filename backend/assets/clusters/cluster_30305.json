@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm the best man for the job and my numbers in the primary validate that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

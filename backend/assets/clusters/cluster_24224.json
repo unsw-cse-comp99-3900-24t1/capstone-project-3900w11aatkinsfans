@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "blue"
+        "label": {
+            "phrase": "blue button twins 1983",
+            "count": 1
+        }
     },
     "clusterList": [
         {

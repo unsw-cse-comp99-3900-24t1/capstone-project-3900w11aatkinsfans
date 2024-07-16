@@ -12,7 +12,10 @@
             "02:20",
             "03:15"
         ],
-        "label": "opens"
+        "label": {
+            "phrase": "legs up the wall",
+            "count": 2
+        }
     },
     "clusterList": [
         {

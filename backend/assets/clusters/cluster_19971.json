@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have to ask why would anyone go to the trouble of all that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

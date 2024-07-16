@@ -8,7 +8,10 @@
             "01:14",
             "01:33"
         ],
-        "label": "brought"
+        "label": {
+            "phrase": "brought to account",
+            "count": 2
+        }
     },
     "clusterList": [
         {

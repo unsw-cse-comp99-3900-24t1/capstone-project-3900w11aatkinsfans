@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "at"
+        "label": {
+            "phrase": "at no point in history have consumers incurred as much debt relative to wealth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

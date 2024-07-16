@@ -8,7 +8,10 @@
             "03:58",
             "04:03"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the question is is this the right time or some time down the road",
+            "count": 2
+        }
     },
     "clusterList": [
         {

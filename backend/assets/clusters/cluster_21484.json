@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a thrilling time is in your immediate future",
+            "count": 1
+        }
     },
     "clusterList": [
         {

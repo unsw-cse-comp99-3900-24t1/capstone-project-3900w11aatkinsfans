@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're pushing prodding and cajoling",
+            "count": 1
+        }
     },
     "clusterList": [
         {

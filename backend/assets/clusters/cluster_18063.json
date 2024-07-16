@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh and how is it a bigger night then usual",
+            "count": 1
+        }
     },
     "clusterList": [
         {

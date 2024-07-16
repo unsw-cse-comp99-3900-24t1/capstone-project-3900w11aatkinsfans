@@ -8,7 +8,10 @@
             "04:33",
             "05:00"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes to be honest sir it doesn't work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

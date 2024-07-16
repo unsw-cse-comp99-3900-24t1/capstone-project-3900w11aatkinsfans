@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that was a riot especially when someone piped up saying he really did need a cobol compiler for the amiga",
+            "count": 1
+        }
     },
     "clusterList": [
         {

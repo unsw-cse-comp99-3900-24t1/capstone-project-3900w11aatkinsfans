@@ -6,7 +6,10 @@
         "xLabels": [
             "02:34"
         ],
-        "label": "congratulations"
+        "label": {
+            "phrase": "congratulations you've earned an additional miles boost of 15 000 mqms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

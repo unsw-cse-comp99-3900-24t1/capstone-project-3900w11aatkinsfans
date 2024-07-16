@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm not casting aishwarya or john because they are big names",
+            "count": 1
+        }
     },
     "clusterList": [
         {

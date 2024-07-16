@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "said"
+        "label": {
+            "phrase": "said tucker who owns a cattle ranch in texas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

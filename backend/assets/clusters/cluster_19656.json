@@ -6,7 +6,10 @@
         "xLabels": [
             "01:35"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you understand what i have done for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

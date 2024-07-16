@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a code issue it's a safety issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "resizing"
+        "label": {
+            "phrase": "resizing excel charts is a common source of headache always right-size the chart inside excel before exporting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your questions are much too profound for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

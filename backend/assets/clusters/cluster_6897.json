@@ -10,7 +10,10 @@
             "02:32",
             "03:19"
         ],
-        "label": "bicycle"
+        "label": {
+            "phrase": "bicycle repair man",
+            "count": 2
+        }
     },
     "clusterList": [
         {

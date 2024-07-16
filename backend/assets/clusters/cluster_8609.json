@@ -8,7 +8,10 @@
             "00:24",
             "03:41"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you're not comfortable in giving your social security number don't do that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

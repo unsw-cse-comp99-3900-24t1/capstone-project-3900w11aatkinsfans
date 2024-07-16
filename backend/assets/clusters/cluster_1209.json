@@ -22,7 +22,10 @@
             "04:24",
             "04:44"
         ],
-        "label": "sprints"
+        "label": {
+            "phrase": "sprints to the finish",
+            "count": 4
+        }
     },
     "clusterList": [
         {

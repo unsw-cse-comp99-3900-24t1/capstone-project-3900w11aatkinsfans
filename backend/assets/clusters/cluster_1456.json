@@ -14,7 +14,10 @@
             "04:03",
             "04:32"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "every 38 seconds a marijuana smoker is arrested",
+            "count": 2
+        }
     },
     "clusterList": [
         {

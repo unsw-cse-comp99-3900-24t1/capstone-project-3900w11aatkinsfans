@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are we tipping too much",
+            "count": 1
+        }
     },
     "clusterList": [
         {

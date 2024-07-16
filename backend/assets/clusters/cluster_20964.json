@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is known as the halo effect and it has previously been shown to affect the outcome of job interviews",
+            "count": 1
+        }
     },
     "clusterList": [
         {

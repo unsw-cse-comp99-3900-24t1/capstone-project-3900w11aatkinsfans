@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lot of lead time to figure out what's going on here this isn't something new",
+            "count": 1
+        }
     },
     "clusterList": [
         {

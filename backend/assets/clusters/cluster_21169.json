@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do not attempt this dog is a professional",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all experiences are but preparations for something else",
+            "count": 1
+        }
     },
     "clusterList": [
         {

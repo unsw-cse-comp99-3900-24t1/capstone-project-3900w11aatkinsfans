@@ -8,7 +8,10 @@
             "00:56",
             "03:37"
         ],
-        "label": "asking"
+        "label": {
+            "phrase": "asking portfolio questions",
+            "count": 4
+        }
     },
     "clusterList": [
         {

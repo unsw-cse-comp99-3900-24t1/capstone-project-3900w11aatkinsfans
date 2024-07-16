@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we didn't know anything until my oldest son yelled dad it's the police",
+            "count": 1
+        }
     },
     "clusterList": [
         {

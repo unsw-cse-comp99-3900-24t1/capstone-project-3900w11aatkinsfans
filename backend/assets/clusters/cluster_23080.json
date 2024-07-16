@@ -6,7 +6,10 @@
         "xLabels": [
             "02:36"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people were looking to come out here instead of taking that trip to disneyland",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the step file format is widely used to exchange 3d data between different cad systems",
+            "count": 1
+        }
     },
     "clusterList": [
         {

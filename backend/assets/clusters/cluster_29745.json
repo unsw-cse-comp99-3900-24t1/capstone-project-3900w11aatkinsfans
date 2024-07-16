@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things that are standard in statistical practice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

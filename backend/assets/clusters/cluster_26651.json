@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he boxed better than he ever has",
+            "count": 1
+        }
     },
     "clusterList": [
         {

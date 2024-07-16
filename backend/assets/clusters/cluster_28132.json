@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's cooler this way and i don't have anything to take care of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

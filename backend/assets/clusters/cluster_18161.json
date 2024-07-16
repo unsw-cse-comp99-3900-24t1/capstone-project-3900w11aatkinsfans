@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is no possible threat to the students at vmes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

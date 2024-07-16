@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "sarcasm"
+        "label": {
+            "phrase": "sarcasm is the bodies natural response to stupid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

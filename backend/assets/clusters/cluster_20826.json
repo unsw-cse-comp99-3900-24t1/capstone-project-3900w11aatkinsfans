@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "snitchin"
+        "label": {
+            "phrase": "snitchin for dummies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

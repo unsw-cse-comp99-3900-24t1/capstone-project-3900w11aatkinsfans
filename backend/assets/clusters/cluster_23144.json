@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we cannot advertise for more players because we are at capacity as it is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

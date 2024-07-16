@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "walking"
+        "label": {
+            "phrase": "walking with dinosaurs",
+            "count": 2
+        }
     },
     "clusterList": [
         {

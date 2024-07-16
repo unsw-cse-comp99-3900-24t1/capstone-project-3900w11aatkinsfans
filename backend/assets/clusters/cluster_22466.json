@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not just a hope we've proven that this works",
+            "count": 1
+        }
     },
     "clusterList": [
         {

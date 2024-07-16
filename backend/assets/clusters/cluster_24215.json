@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because last week all i wrote about was animal farts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

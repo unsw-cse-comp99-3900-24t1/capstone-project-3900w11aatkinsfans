@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "third"
+        "label": {
+            "phrase": "third place is good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

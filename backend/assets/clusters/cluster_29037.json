@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "generally"
+        "label": {
+            "phrase": "generally people only ask for packages if they are pretty serious about this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

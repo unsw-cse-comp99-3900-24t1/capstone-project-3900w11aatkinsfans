@@ -22,7 +22,10 @@
             "04:04",
             "04:13"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "yet another broken promise",
+            "count": 3
+        }
     },
     "clusterList": [
         {

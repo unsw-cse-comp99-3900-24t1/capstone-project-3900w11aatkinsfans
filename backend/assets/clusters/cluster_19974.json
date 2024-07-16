@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the week also sa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "traveling"
+        "label": {
+            "phrase": "traveling back and forth is the easy part",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "03:13",
             "03:18"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "oh you hear it right there it's that sound",
+            "count": 2
+        }
     },
     "clusterList": [
         {

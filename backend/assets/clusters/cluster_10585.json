@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the editorial recommended aerial eradication",
+            "count": 1
+        }
     },
     "clusterList": [
         {

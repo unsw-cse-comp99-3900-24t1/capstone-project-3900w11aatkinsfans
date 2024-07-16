@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's indifference that bores me to death",
+            "count": 1
+        }
     },
     "clusterList": [
         {

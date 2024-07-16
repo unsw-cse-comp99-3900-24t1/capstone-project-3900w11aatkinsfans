@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in this instance being",
+            "count": 1
+        }
     },
     "clusterList": [
         {

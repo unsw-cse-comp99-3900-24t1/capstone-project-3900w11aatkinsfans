@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is kiffin's response",
+            "count": 1
+        }
     },
     "clusterList": [
         {

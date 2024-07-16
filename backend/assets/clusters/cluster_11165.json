@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "alexis"
+        "label": {
+            "phrase": "alexis what's the problem he had the surgery everything should be all good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

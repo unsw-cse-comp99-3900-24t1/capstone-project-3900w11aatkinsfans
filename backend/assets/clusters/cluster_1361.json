@@ -24,7 +24,10 @@
             "04:09",
             "04:18"
         ],
-        "label": "comfort"
+        "label": {
+            "phrase": "comfort me with apples",
+            "count": 6
+        }
     },
     "clusterList": [
         {

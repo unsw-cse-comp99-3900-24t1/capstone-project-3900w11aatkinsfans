@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "permeable"
+        "label": {
+            "phrase": "permeable and able to absorb gases fluids",
+            "count": 1
+        }
     },
     "clusterList": [
         {

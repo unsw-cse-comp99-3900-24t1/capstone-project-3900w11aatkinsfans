@@ -12,7 +12,10 @@
             "02:43",
             "03:23"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what we need is a whole array of models that all make different assumptions and then we look for conclusions that are reasonably robust",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:18",
             "01:04"
         ],
-        "label": "thomas"
+        "label": {
+            "phrase": "dewey defeats truman",
+            "count": 2
+        }
     },
     "clusterList": [
         {

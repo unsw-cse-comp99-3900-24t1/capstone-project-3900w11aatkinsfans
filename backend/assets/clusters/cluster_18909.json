@@ -6,7 +6,10 @@
         "xLabels": [
             "01:21"
         ],
-        "label": "archive"
+        "label": {
+            "phrase": "archive bit would be too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

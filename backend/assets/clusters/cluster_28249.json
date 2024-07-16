@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look i cannot buy a carwash for this weekend i'm too busy sorry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "gross"
+        "label": {
+            "phrase": "gross negligence and recklessness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

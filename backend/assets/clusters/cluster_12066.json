@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "oracle"
+        "label": {
+            "phrase": "oracle universal installer summary",
+            "count": 2
+        }
     },
     "clusterList": [
         {

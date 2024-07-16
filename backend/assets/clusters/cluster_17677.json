@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "plus"
+        "label": {
+            "phrase": "plus you don't know where he lives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

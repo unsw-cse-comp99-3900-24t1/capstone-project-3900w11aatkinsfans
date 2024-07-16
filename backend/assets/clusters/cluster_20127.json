@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a charmed life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

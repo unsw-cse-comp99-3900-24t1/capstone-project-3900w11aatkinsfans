@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the flow in css is the logical way in which elements get placed on your screen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

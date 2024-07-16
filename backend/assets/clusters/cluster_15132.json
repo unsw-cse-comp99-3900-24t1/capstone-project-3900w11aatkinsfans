@@ -6,7 +6,10 @@
         "xLabels": [
             "00:27"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a backpack for the nis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

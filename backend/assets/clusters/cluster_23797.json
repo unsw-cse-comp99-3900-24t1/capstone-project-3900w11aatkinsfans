@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "blowing"
+        "label": {
+            "phrase": "blowing bubbles while driving is dangerous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

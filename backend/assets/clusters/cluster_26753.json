@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're right it was worth a thousand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

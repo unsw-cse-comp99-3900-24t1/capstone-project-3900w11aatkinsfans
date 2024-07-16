@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it appeared to me it never applied its brakes at all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

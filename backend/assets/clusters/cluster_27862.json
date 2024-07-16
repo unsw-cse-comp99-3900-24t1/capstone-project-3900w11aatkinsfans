@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "dumb"
+        "label": {
+            "phrase": "dumb as a bag of hammers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

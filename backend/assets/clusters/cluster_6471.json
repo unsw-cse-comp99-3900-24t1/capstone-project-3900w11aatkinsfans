@@ -10,7 +10,10 @@
             "01:30",
             "03:50"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you missed it",
+            "count": 2
+        }
     },
     "clusterList": [
         {

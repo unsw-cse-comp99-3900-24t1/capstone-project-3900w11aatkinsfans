@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "choosing"
+        "label": {
+            "phrase": "choosing a doctor is not a casual decision",
+            "count": 1
+        }
     },
     "clusterList": [
         {

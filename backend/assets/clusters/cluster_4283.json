@@ -10,7 +10,10 @@
             "04:32",
             "04:37"
         ],
-        "label": "cloud"
+        "label": {
+            "phrase": "cloud computing is fundamentally about re-engineering the world's computing infrastructure to enable game-changing even life changing applications",
+            "count": 3
+        }
     },
     "clusterList": [
         {

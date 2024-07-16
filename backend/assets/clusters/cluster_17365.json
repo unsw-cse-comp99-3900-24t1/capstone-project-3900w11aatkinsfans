@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "should"
+        "label": {
+            "phrase": "should you eat grass",
+            "count": 1
+        }
     },
     "clusterList": [
         {

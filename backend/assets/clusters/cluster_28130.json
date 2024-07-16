@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "active"
+        "label": {
+            "phrase": "active physically unable to perform",
+            "count": 1
+        }
     },
     "clusterList": [
         {

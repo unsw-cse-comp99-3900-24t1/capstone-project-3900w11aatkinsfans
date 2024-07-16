@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "ignorance"
+        "label": {
+            "phrase": "ignorance is bliss",
+            "count": 1
+        }
     },
     "clusterList": [
         {

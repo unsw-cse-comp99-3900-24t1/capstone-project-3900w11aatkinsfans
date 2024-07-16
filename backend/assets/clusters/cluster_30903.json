@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's hard to find more bodies as those that are left have sunk down out of sight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "04:18",
             "04:23"
         ],
-        "label": "never"
+        "label": {
+            "phrase": "never send it to spam",
+            "count": 5
+        }
     },
     "clusterList": [
         {

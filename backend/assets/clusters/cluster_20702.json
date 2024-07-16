@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "melt"
+        "label": {
+            "phrase": "melt away stress lotion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

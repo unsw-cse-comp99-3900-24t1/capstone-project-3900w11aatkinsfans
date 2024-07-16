@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've stood up against my party many times",
+            "count": 1
+        }
     },
     "clusterList": [
         {

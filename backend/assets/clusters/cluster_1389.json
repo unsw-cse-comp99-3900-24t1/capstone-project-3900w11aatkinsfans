@@ -22,7 +22,10 @@
             "04:03",
             "04:44"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "son of pashur",
+            "count": 3
+        }
     },
     "clusterList": [
         {

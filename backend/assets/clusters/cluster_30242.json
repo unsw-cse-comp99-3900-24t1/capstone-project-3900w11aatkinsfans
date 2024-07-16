@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you look too long at the face of the person you are talking to it suggests that you have more interest in the person than the subject",
+            "count": 1
+        }
     },
     "clusterList": [
         {

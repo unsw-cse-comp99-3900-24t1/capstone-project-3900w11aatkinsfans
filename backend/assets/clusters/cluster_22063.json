@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "she"
+        "label": {
+            "phrase": "she thought this is it this is the titanic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

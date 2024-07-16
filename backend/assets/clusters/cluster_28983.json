@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "professional"
+        "label": {
+            "phrase": "professional stuff and very cool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are normally 8 000 to 10 000 butterflies in the area that is why this program is so crucial",
+            "count": 1
+        }
     },
     "clusterList": [
         {

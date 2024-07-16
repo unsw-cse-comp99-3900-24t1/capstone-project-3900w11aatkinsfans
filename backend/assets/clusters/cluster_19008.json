@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole point of an underground economy is it is underground",
+            "count": 1
+        }
     },
     "clusterList": [
         {

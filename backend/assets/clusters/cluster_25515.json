@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "welcome"
+        "label": {
+            "phrase": "welcome to a life of insecurity and paralyzing self-doubt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

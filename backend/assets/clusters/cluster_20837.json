@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is that informed enough for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

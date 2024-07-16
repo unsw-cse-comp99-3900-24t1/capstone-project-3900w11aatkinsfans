@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "online"
+        "label": {
+            "phrase": "online are you really reading",
+            "count": 1
+        }
     },
     "clusterList": [
         {

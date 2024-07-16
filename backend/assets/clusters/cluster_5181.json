@@ -8,7 +8,10 @@
             "00:20",
             "02:20"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "happy t h ree friends",
+            "count": 3
+        }
     },
     "clusterList": [
         {

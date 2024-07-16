@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "really"
+        "label": {
+            "phrase": "really dour bleak cold and impossible to know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

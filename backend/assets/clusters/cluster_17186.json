@@ -6,7 +6,10 @@
         "xLabels": [
             "00:57"
         ],
-        "label": "taking"
+        "label": {
+            "phrase": "taking the red pill the real matrix",
+            "count": 1
+        }
     },
     "clusterList": [
         {

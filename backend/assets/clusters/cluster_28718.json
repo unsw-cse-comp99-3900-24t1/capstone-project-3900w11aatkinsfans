@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what did you like about repin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most sought after",
+            "count": 1
+        }
     },
     "clusterList": [
         {

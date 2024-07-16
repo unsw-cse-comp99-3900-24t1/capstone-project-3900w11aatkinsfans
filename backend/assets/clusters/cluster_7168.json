@@ -8,7 +8,10 @@
             "03:05",
             "03:34"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you got your robot in my helicopter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -32,7 +32,10 @@
             "04:22",
             "04:46"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "where is jesus",
+            "count": 2
+        }
     },
     "clusterList": [
         {

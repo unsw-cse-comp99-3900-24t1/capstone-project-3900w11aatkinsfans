@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not everyone who thinks the way jim adkisson did will open fire on a group of people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

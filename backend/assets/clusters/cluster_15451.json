@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the funding goes away but our clients don't",
+            "count": 1
+        }
     },
     "clusterList": [
         {

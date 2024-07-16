@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "battlefield"
+        "label": {
+            "phrase": "battlefield bad company",
+            "count": 1
+        }
     },
     "clusterList": [
         {

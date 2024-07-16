@@ -8,7 +8,10 @@
             "03:09",
             "04:04"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is this chicken or is this fish i know it's tuna but it says chicken by the sea",
+            "count": 1
+        }
     },
     "clusterList": [
         {

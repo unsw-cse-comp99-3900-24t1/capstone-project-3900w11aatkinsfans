@@ -24,7 +24,10 @@
             "04:28",
             "04:41"
         ],
-        "label": "typical"
+        "label": {
+            "phrase": "typical white person",
+            "count": 5
+        }
     },
     "clusterList": [
         {

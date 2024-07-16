@@ -12,7 +12,10 @@
             "02:24",
             "02:52"
         ],
-        "label": "has"
+        "label": {
+            "phrase": "has the level gone down at all",
+            "count": 2
+        }
     },
     "clusterList": [
         {

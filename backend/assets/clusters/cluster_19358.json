@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "mighty"
+        "label": {
+            "phrase": "mighty and strong one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

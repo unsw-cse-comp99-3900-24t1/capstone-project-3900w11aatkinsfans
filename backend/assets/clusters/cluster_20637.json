@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the vocals recall curt smith of tears for fears in full",
+            "count": 1
+        }
     },
     "clusterList": [
         {

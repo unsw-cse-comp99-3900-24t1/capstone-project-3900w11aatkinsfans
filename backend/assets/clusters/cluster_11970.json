@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only mr newman knows the context in which he intended the comments to have",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -28,7 +28,10 @@
             "03:38",
             "04:42"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's pretty weird",
+            "count": 3
+        }
     },
     "clusterList": [
         {

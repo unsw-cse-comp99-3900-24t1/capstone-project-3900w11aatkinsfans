@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "arise"
+        "label": {
+            "phrase": "arise and see",
+            "count": 1
+        }
     },
     "clusterList": [
         {

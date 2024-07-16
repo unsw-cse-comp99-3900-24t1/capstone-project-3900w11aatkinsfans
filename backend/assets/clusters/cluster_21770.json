@@ -6,7 +6,10 @@
         "xLabels": [
             "02:12"
         ],
-        "label": "fresh"
+        "label": {
+            "phrase": "fresh vision for the hopeful homemaker",
+            "count": 1
+        }
     },
     "clusterList": [
         {

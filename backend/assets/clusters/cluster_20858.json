@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "betcha"
+        "label": {
+            "phrase": "betcha it was one of those renegade skate boarders",
+            "count": 1
+        }
     },
     "clusterList": [
         {

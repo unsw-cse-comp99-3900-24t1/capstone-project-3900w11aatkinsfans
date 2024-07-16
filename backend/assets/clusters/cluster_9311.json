@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "lack"
+        "label": {
+            "phrase": "lack of honor",
+            "count": 2
+        }
     },
     "clusterList": [
         {

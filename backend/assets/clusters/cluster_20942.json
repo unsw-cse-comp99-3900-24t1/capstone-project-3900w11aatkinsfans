@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the students he's using are all from other neighborhoods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

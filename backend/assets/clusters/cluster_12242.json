@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the satc archives",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "even"
+        "label": {
+            "phrase": "even though dayton is a small town we can make big changes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

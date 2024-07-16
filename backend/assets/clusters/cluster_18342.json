@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i said what happened to the dogs and they said no we couldn't get any help from anybody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

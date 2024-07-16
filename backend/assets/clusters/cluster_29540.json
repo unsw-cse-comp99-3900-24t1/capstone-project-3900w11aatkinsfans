@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "except"
+        "label": {
+            "phrase": "except for redacted barnyard and anatomical vulgarities",
+            "count": 1
+        }
     },
     "clusterList": [
         {

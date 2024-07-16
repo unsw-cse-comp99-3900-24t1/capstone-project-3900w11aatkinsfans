@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "object"
+        "label": {
+            "phrase": "object breakfast in fur",
+            "count": 1
+        }
     },
     "clusterList": [
         {

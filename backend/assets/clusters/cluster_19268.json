@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the cases that haunt us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "president"
+        "label": {
+            "phrase": "president bush made an unusual early morning public appearance to talk about progress in iraq",
+            "count": 1
+        }
     },
     "clusterList": [
         {

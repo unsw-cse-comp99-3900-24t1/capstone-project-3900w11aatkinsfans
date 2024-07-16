@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "888"
+        "label": {
+            "phrase": "888 is the number of the name",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:45",
             "03:31"
         ],
-        "label": "jvc"
+        "label": {
+            "phrase": "jvc 7600 with tbc on",
+            "count": 2
+        }
     },
     "clusterList": [
         {

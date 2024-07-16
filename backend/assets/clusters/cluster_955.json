@@ -30,7 +30,10 @@
             "04:45",
             "04:56"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good morning america",
+            "count": 8
+        }
     },
     "clusterList": [
         {

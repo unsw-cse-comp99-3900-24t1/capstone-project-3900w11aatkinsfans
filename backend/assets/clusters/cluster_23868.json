@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "mea"
+        "label": {
+            "phrase": "mea culpa i think it might be what i just put on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

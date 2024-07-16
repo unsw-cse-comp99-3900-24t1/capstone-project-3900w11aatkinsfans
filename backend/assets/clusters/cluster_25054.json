@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "ok"
+        "label": {
+            "phrase": "ok take a breath refocus and move forward",
+            "count": 1
+        }
     },
     "clusterList": [
         {

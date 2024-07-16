@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a good format for doing intense data sharing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "matters"
+        "label": {
+            "phrase": "matters of a deeply personal nature",
+            "count": 1
+        }
     },
     "clusterList": [
         {

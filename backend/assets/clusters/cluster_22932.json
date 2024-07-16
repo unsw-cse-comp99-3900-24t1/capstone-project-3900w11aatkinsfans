@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and there's a lack of volunteers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

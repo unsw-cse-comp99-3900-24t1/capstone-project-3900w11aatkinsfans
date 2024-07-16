@@ -8,7 +8,10 @@
             "01:37",
             "04:13"
         ],
-        "label": "unable"
+        "label": {
+            "phrase": "unable to play user vs user game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "living"
+        "label": {
+            "phrase": "living out a suitcase will mean that you are estranged from friends and family",
+            "count": 1
+        }
     },
     "clusterList": [
         {

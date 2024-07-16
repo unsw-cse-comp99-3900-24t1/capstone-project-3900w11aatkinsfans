@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "hello"
+        "label": {
+            "phrase": "hello democrats welcome to chicago",
+            "count": 1
+        }
     },
     "clusterList": [
         {

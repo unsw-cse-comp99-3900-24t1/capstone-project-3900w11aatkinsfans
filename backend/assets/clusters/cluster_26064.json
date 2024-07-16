@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think they finally realized they were misguided",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it touches people's hearts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

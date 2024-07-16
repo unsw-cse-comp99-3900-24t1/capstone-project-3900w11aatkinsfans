@@ -14,7 +14,10 @@
             "02:44",
             "04:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "was under attack",
+            "count": 2
+        }
     },
     "clusterList": [
         {

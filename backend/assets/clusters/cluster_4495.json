@@ -10,7 +10,10 @@
             "04:24",
             "04:33"
         ],
-        "label": "whatever"
+        "label": {
+            "phrase": "cat in residence",
+            "count": 2
+        }
     },
     "clusterList": [
         {

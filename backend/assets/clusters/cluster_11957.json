@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "chrome"
+        "label": {
+            "phrase": "chrome global content platformhtmlbindings",
+            "count": 2
+        }
     },
     "clusterList": [
         {

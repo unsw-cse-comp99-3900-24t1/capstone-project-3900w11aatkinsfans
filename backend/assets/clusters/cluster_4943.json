@@ -10,7 +10,10 @@
             "02:23",
             "04:19"
         ],
-        "label": "man"
+        "label": {
+            "phrase": "man xorg conf",
+            "count": 4
+        }
     },
     "clusterList": [
         {

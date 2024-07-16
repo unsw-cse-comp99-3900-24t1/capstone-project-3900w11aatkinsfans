@@ -6,7 +6,10 @@
         "xLabels": [
             "00:56"
         ],
-        "label": "plane"
+        "label": {
+            "phrase": "plane pilots have ejection seats if they make a mistake or have an engine failure this guy has not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how a kinescope is created",
+            "count": 1
+        }
     },
     "clusterList": [
         {

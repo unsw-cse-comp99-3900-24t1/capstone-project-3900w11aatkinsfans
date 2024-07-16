@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a view to a kill the fourteenth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

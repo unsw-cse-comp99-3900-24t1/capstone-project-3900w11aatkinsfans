@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are trying to make ends meet themselves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:23",
             "03:56"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of their own",
+            "count": 2
+        }
     },
     "clusterList": [
         {

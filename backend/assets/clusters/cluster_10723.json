@@ -8,7 +8,10 @@
             "04:22",
             "05:04"
         ],
-        "label": "excellent"
+        "label": {
+            "phrase": "excellent we can attack in any direction",
+            "count": 2
+        }
     },
     "clusterList": [
         {

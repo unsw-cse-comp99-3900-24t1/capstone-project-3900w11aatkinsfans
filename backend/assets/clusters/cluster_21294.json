@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "equal"
+        "label": {
+            "phrase": "equal to or greater than the current benefits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

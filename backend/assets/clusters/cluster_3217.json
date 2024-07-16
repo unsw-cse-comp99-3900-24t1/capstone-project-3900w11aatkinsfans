@@ -14,7 +14,10 @@
             "04:33",
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the neighborhood has definitely changed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

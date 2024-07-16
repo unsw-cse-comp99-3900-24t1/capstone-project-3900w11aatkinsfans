@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "another of the same sort",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what does west and non-west mean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

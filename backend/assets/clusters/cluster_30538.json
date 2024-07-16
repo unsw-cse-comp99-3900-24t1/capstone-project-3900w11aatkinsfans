@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "whoop-de-fucking-doo"
+        "label": {
+            "phrase": "whoop-de-fucking-doo a pixelated jet-ski just for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

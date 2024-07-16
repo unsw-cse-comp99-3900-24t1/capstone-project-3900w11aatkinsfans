@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "300"
+        "label": {
+            "phrase": "300 pounds of heavenly joy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

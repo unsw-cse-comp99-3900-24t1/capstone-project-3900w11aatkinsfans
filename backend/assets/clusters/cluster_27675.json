@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well wasn't he meeting with the navy on friday",
+            "count": 1
+        }
     },
     "clusterList": [
         {

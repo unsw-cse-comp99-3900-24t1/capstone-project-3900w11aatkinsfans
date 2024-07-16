@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "decorating"
+        "label": {
+            "phrase": "decorating with curly wurly gurly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

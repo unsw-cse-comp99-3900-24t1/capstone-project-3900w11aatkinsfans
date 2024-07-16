@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it really got to my wife",
+            "count": 1
+        }
     },
     "clusterList": [
         {

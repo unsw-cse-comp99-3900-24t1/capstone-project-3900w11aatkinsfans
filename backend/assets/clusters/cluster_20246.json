@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "tera"
+        "label": {
+            "phrase": "tera patrick dev diary 1",
+            "count": 1
+        }
     },
     "clusterList": [
         {

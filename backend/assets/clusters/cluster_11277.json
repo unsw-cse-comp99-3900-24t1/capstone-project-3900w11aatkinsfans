@@ -8,7 +8,10 @@
             "03:14",
             "03:43"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's still an incoming and outgoing message",
+            "count": 1
+        }
     },
     "clusterList": [
         {

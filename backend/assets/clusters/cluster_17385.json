@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are now a vespa dealer and we're going to be an aprilla dealer too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of my main career goals was to communicate to the people how very important nursing is to the health of our nation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

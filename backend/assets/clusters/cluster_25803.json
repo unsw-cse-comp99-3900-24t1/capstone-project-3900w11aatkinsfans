@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "hybrid"
+        "label": {
+            "phrase": "hybrid business charity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

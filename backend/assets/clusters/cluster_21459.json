@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one who sells provisions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

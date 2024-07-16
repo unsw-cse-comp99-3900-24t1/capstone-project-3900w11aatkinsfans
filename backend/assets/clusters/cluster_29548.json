@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who framed roger rabbit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

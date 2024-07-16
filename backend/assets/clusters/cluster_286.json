@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "krusha"
+        "label": {
+            "phrase": "krusha please show tobias down to one of the empty rooms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

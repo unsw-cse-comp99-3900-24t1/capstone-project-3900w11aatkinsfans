@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for reasons that are not completely understood",
+            "count": 1
+        }
     },
     "clusterList": [
         {

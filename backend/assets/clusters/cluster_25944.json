@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no intention of complying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

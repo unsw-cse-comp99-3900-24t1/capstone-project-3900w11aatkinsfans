@@ -20,7 +20,10 @@
             "04:23",
             "04:42"
         ],
-        "label": "pushing"
+        "label": {
+            "phrase": "get the message",
+            "count": 4
+        }
     },
     "clusterList": [
         {

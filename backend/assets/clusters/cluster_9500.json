@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two and a half men",
+            "count": 2
+        }
     },
     "clusterList": [
         {

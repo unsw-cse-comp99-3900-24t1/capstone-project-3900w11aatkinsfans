@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the new cutter is working out well",
+            "count": 1
+        }
     },
     "clusterList": [
         {

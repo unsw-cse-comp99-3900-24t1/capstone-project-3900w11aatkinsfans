@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how come were you playing on a toboggan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

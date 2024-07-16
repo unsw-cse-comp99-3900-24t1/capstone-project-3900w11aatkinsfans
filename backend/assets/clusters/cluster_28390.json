@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "seven"
+        "label": {
+            "phrase": "seven words you can never say on television",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "gardener"
+        "label": {
+            "phrase": "gardener of hope card",
+            "count": 1
+        }
     },
     "clusterList": [
         {

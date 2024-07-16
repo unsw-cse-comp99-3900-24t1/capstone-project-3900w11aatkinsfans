@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "smith"
+        "label": {
+            "phrase": "smith still poses an unreasonable threat to public safety",
+            "count": 1
+        }
     },
     "clusterList": [
         {

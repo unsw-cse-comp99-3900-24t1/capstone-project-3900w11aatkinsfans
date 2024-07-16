@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "turn"
+        "label": {
+            "phrase": "turn left in 500m",
+            "count": 1
+        }
     },
     "clusterList": [
         {

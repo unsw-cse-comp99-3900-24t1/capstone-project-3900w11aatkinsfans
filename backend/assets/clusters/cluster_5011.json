@@ -12,7 +12,10 @@
             "03:18",
             "04:45"
         ],
-        "label": "four"
+        "label": {
+            "phrase": "four for friday",
+            "count": 1
+        }
     },
     "clusterList": [
         {

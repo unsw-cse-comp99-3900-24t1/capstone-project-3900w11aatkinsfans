@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are so many instances when it's fine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

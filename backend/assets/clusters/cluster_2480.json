@@ -14,7 +14,10 @@
             "03:51",
             "04:31"
         ],
-        "label": "ask"
+        "label": {
+            "phrase": "ask the experts the expert network",
+            "count": 5
+        }
     },
     "clusterList": [
         {

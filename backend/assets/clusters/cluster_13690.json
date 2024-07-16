@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i completely agree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

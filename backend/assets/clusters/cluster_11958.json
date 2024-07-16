@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you remember your first images that you did",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we sit here all the time and never thought something like that would happen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

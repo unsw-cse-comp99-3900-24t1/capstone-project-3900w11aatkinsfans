@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in addition to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

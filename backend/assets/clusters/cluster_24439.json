@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "companies"
+        "label": {
+            "phrase": "companies today would rather not go through the process of dumping someone and hiring them back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

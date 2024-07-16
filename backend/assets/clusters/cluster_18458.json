@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so it's mr bloombecker's fault you killed him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

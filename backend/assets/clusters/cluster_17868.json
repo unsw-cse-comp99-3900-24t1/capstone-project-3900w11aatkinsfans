@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you have kissed have you no",
+            "count": 1
+        }
     },
     "clusterList": [
         {

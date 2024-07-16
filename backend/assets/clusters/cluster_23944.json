@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "behave"
+        "label": {
+            "phrase": "behave in the first place",
+            "count": 1
+        }
     },
     "clusterList": [
         {

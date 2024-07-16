@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we will look at the applications and decide which is the best home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -14,7 +14,10 @@
             "04:04",
             "05:05"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why me why so much why again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you understand what is broken you may be able to treat it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

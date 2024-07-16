@@ -6,7 +6,10 @@
         "xLabels": [
             "02:30"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take nick the message",
+            "count": 1
+        }
     },
     "clusterList": [
         {

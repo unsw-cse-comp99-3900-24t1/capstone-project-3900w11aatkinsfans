@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you just dump those into grease",
+            "count": 1
+        }
     },
     "clusterList": [
         {

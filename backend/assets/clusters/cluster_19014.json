@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a happy person must love kids and must love having fun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

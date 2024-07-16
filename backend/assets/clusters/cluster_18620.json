@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "video"
+        "label": {
+            "phrase": "video killed the radio star",
+            "count": 1
+        }
     },
     "clusterList": [
         {

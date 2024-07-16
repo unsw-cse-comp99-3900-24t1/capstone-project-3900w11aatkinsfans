@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lot of that's up to joe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

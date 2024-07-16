@@ -8,7 +8,10 @@
             "00:06",
             "00:23"
         ],
-        "label": "teens"
+        "label": {
+            "phrase": "teens have adopted text messaging as a second language",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:16",
             "00:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the misfortune cookie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

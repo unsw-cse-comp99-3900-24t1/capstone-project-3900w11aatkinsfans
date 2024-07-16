@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a very big one we have sympathy for you sir",
+            "count": 1
+        }
     },
     "clusterList": [
         {

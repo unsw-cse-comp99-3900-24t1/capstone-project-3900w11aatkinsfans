@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "predicated"
+        "label": {
+            "phrase": "predicated on the prevalence of connected systems",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:17"
         ],
-        "label": "brain"
+        "label": {
+            "phrase": "brain candy thursday edition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

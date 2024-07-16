@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an impressive find judy but can it hold up will this track carry a train or is it only a showpiece",
+            "count": 1
+        }
     },
     "clusterList": [
         {

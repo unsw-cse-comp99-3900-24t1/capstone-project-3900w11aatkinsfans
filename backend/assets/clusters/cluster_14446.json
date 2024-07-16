@@ -6,7 +6,10 @@
         "xLabels": [
             "00:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the model t of the genre",
+            "count": 1
+        }
     },
     "clusterList": [
         {

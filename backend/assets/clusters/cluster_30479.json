@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "of"
+        "label": {
+            "phrase": "of legal age",
+            "count": 1
+        }
     },
     "clusterList": [
         {

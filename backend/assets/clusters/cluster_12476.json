@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "360"
+        "label": {
+            "phrase": "360 degrees of speculation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

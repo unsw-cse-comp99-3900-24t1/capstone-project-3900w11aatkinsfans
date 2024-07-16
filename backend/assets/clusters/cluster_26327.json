@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "congratulations"
+        "label": {
+            "phrase": "congratulations to you for keeping it so clean",
+            "count": 1
+        }
     },
     "clusterList": [
         {

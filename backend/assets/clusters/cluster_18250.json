@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "sorry"
+        "label": {
+            "phrase": "sorry nothing we can do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

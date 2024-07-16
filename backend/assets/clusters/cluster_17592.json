@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pillar and ground of the truth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

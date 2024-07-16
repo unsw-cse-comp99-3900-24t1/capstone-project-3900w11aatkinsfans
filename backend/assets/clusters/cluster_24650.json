@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "beyond"
+        "label": {
+            "phrase": "beyond conservation we need a delta fix",
+            "count": 1
+        }
     },
     "clusterList": [
         {

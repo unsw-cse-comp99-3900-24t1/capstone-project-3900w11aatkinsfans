@@ -8,7 +8,10 @@
             "03:22",
             "03:23"
         ],
-        "label": "administrator"
+        "label": {
+            "phrase": "administrator stephen johnson is a failure",
+            "count": 2
+        }
     },
     "clusterList": [
         {

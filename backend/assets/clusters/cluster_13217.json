@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the questions and problems of our friends are also our questions and problems",
+            "count": 1
+        }
     },
     "clusterList": [
         {

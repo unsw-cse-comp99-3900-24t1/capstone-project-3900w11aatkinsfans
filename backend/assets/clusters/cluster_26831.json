@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why would you work your life away",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -24,7 +24,10 @@
             "04:42",
             "05:04"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not a lot of people get this many opportunities",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a gamble to elect someone with no proven record",
+            "count": 1
+        }
     },
     "clusterList": [
         {

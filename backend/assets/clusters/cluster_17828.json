@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "emily"
+        "label": {
+            "phrase": "emily i can't do it i'm telling you i don't think the guy is interested",
+            "count": 1
+        }
     },
     "clusterList": [
         {

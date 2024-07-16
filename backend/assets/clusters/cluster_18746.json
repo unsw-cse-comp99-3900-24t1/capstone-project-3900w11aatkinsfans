@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "air"
+        "label": {
+            "phrase": "air bursts generate much less dust and fallout etc than do ground bursts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

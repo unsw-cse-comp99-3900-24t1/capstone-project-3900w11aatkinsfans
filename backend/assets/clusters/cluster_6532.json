@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "i'll"
+        "label": {
+            "phrase": "i'll introduce you to mrs pepperfield later on tonight",
+            "count": 3
+        }
     },
     "clusterList": [
         {

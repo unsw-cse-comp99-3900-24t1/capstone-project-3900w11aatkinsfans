@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we basically had two hero characters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

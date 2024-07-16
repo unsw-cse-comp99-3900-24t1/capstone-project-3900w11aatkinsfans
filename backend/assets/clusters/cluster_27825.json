@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "kennedy"
+        "label": {
+            "phrase": "kennedy is going to win",
+            "count": 1
+        }
     },
     "clusterList": [
         {

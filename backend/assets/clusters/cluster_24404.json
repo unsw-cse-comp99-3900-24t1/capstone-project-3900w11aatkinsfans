@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "abandoned"
+        "label": {
+            "phrase": "abandoned and insulted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

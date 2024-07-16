@@ -28,7 +28,10 @@
             "03:41",
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the early bird cartoon show",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "feast"
+        "label": {
+            "phrase": "feast of flowers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

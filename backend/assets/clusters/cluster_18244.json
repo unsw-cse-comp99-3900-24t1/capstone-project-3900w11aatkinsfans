@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "yo"
+        "label": {
+            "phrase": "yo shiro hurray up man people are gonna be here anytime now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

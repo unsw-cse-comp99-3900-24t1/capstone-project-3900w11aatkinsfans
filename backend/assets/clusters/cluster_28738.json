@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "coconuts"
+        "label": {
+            "phrase": "coconuts and carnage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that would present a different dynamic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

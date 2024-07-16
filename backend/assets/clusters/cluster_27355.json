@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "shoeperman"
+        "label": {
+            "phrase": "shoeperman we will heel you save your sole and even dye for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

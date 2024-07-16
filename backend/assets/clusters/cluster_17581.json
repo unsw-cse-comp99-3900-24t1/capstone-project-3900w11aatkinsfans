@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every socio-economic indicator native americans are doing worse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

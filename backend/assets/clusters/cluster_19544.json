@@ -6,7 +6,10 @@
         "xLabels": [
             "03:30"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please consider or look into so-and-so",
+            "count": 1
+        }
     },
     "clusterList": [
         {

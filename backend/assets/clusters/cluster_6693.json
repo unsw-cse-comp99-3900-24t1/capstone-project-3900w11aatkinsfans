@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "warning"
+        "label": {
+            "phrase": "warning shared memory is not reported by this system",
+            "count": 1
+        }
     },
     "clusterList": [
         {

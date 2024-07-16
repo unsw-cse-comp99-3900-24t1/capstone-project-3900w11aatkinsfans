@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have about 190 people that rsvp'd that they wanted to come",
+            "count": 1
+        }
     },
     "clusterList": [
         {

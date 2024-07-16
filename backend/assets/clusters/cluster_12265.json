@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "limited"
+        "label": {
+            "phrase": "limited turn with absolute analog signal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

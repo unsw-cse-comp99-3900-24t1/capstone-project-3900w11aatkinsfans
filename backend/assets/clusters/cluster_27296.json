@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "dio"
+        "label": {
+            "phrase": "dio has rocked for a long time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

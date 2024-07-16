@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "co-wrote"
+        "label": {
+            "phrase": "co-wrote directed and starred in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

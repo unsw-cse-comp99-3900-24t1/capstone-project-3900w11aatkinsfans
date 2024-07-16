@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they love p3s",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not long until the first porcini",
+            "count": 1
+        }
     },
     "clusterList": [
         {

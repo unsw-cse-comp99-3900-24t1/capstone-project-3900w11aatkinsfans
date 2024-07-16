@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we try to make it a very high-impact experience",
+            "count": 1
+        }
     },
     "clusterList": [
         {

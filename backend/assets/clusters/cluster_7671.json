@@ -10,7 +10,10 @@
             "02:22",
             "04:33"
         ],
-        "label": "cowboy"
+        "label": {
+            "phrase": "cowboy starter kits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

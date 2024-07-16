@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "first"
+        "label": {
+            "phrase": "first of many",
+            "count": 1
+        }
     },
     "clusterList": [
         {

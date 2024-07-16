@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "about"
+        "label": {
+            "phrase": "about yesterday's game stupid is as stupid does",
+            "count": 1
+        }
     },
     "clusterList": [
         {

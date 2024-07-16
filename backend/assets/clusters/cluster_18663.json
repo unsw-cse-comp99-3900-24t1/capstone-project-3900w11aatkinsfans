@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "cosmic"
+        "label": {
+            "phrase": "cosmic dark ages",
+            "count": 1
+        }
     },
     "clusterList": [
         {

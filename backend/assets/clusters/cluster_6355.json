@@ -10,7 +10,10 @@
             "02:02",
             "02:20"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a ring i'm less interested in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

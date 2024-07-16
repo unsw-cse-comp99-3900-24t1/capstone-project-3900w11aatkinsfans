@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i was pissed lei what does it matter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

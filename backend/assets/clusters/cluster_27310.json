@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "indeed"
+        "label": {
+            "phrase": "indeed in that i",
+            "count": 1
+        }
     },
     "clusterList": [
         {

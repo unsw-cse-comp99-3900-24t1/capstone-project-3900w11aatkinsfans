@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the magic carpet is a good example of how the boundaries of lighting and video are really blurring",
+            "count": 1
+        }
     },
     "clusterList": [
         {

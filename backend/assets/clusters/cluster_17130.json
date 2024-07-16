@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "history"
+        "label": {
+            "phrase": "history will track you down and condemn you for your cravenness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

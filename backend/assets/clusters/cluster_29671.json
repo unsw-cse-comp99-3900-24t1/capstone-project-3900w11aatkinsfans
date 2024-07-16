@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is being looked up proper english",
+            "count": 1
+        }
     },
     "clusterList": [
         {

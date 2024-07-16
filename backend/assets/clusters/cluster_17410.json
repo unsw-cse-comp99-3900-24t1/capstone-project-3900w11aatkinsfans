@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "smtp"
+        "label": {
+            "phrase": "smtp mired local",
+            "count": 1
+        }
     },
     "clusterList": [
         {

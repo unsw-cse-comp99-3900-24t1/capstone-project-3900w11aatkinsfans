@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because of the shock value he has added",
+            "count": 2
+        }
     },
     "clusterList": [
         {

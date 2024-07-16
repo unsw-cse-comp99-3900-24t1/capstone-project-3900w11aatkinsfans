@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the complete lovecraft filmography",
+            "count": 1
+        }
     },
     "clusterList": [
         {

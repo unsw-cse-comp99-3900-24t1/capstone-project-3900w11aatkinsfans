@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "anything"
+        "label": {
+            "phrase": "anything outdoors that's devin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

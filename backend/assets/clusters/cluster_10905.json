@@ -8,7 +8,10 @@
             "02:42",
             "03:09"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all the world's an oyster",
+            "count": 1
+        }
     },
     "clusterList": [
         {

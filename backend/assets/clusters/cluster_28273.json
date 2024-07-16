@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "e"
+        "label": {
+            "phrase": "e b green the greening of buffalo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

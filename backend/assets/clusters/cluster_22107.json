@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but you didn't overeat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

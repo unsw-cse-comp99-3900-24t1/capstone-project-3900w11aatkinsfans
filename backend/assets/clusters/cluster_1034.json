@@ -26,7 +26,10 @@
             "04:38",
             "04:51"
         ],
-        "label": "help"
+        "label": {
+            "phrase": "help me to find you",
+            "count": 2
+        }
     },
     "clusterList": [
         {

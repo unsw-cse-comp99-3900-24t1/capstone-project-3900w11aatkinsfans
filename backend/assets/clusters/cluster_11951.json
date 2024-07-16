@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my superman build",
+            "count": 2
+        }
     },
     "clusterList": [
         {

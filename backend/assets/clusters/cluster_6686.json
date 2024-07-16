@@ -10,7 +10,10 @@
             "01:37",
             "03:02"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm not sure show me a different channel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

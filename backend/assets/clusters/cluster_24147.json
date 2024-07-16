@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "urine"
+        "label": {
+            "phrase": "urine the anti-drug",
+            "count": 1
+        }
     },
     "clusterList": [
         {

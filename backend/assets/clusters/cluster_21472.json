@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a stone's throw away",
+            "count": 1
+        }
     },
     "clusterList": [
         {

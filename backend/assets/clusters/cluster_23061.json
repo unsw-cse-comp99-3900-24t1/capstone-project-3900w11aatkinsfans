@@ -6,7 +6,10 @@
         "xLabels": [
             "02:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mister sss",
+            "count": 1
+        }
     },
     "clusterList": [
         {

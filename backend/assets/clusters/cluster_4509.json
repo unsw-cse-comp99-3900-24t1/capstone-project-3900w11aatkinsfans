@@ -12,7 +12,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "growing"
+        "label": {
+            "phrase": "we've got a ton of trees in grant park and we're really maximizing those trees this year",
+            "count": 2
+        }
     },
     "clusterList": [
         {

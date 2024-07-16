@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "wow"
+        "label": {
+            "phrase": "wow they're really getting after it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "epiphany"
+        "label": {
+            "phrase": "epiphany in prague",
+            "count": 1
+        }
     },
     "clusterList": [
         {

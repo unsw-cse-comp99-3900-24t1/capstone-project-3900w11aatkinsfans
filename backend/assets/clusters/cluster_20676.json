@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "change"
+        "label": {
+            "phrase": "change continents not just little islands",
+            "count": 1
+        }
     },
     "clusterList": [
         {

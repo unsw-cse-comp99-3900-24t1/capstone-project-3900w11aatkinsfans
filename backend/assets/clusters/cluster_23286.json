@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i once knew a partner at a large firm who told me this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

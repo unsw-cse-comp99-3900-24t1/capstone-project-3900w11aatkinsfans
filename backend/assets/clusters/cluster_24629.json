@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the crooked aligns himself again with president arroyo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

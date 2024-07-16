@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh y didn u type in d question numbers on d cards too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

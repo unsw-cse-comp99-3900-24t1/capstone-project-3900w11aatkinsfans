@@ -10,7 +10,10 @@
             "02:24",
             "03:10"
         ],
-        "label": "published"
+        "label": {
+            "phrase": "4 major climate monitoring agencies",
+            "count": 10
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a new chapter for buffalogeek",
+            "count": 1
+        }
     },
     "clusterList": [
         {

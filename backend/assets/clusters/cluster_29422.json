@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "fashion"
+        "label": {
+            "phrase": "fashion retailer ng bansa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

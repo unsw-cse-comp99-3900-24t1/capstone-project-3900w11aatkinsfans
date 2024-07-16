@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "yea"
+        "label": {
+            "phrase": "yea of course i have a credit card",
+            "count": 1
+        }
     },
     "clusterList": [
         {

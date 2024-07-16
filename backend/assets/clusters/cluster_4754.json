@@ -12,7 +12,10 @@
             "01:46",
             "03:48"
         ],
-        "label": "point"
+        "label": {
+            "phrase": "point of impact",
+            "count": 1
+        }
     },
     "clusterList": [
         {

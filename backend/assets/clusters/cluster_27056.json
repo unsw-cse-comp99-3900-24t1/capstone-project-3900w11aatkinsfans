@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my dear miss robinson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

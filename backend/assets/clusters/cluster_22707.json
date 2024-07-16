@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "acted"
+        "label": {
+            "phrase": "acted outrageously once they got there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

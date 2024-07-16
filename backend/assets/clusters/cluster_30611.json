@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "integrative"
+        "label": {
+            "phrase": "integrative analysis of entire organisms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

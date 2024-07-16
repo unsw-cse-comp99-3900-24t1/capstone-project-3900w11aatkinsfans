@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "death"
+        "label": {
+            "phrase": "death letter blues",
+            "count": 1
+        }
     },
     "clusterList": [
         {

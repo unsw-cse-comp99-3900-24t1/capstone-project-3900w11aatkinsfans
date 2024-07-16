@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "early"
+        "label": {
+            "phrase": "early morning committments",
+            "count": 1
+        }
     },
     "clusterList": [
         {

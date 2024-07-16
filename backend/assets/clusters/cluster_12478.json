@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now we have a smoking gun it appears",
+            "count": 1
+        }
     },
     "clusterList": [
         {

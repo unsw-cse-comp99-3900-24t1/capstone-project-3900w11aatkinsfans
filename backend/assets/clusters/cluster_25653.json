@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we put a whopping four on them again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

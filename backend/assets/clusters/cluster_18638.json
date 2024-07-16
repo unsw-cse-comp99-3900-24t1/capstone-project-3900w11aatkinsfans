@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is in a state of indecision",
+            "count": 1
+        }
     },
     "clusterList": [
         {

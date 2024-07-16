@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we got a lot of playmakers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

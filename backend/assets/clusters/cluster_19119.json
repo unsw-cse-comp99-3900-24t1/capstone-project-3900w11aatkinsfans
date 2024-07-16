@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a critical topic for turkey",
+            "count": 1
+        }
     },
     "clusterList": [
         {

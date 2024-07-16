@@ -8,7 +8,10 @@
             "01:10",
             "02:01"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's how refs are",
+            "count": 2
+        }
     },
     "clusterList": [
         {

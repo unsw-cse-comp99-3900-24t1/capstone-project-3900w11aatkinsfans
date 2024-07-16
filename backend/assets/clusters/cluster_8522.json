@@ -8,7 +8,10 @@
             "00:21",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best time to plant a tree is 10 years ago the second best time is now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

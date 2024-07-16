@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this no claim of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

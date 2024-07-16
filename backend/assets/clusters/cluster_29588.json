@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "learning"
+        "label": {
+            "phrase": "learning to crawl again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

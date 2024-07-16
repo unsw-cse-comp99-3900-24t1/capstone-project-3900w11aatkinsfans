@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "draw"
+        "label": {
+            "phrase": "draw out the infection",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "canadian"
+        "label": {
+            "phrase": "canadian memories by taki sekiguchi",
+            "count": 1
+        }
     },
     "clusterList": [
         {

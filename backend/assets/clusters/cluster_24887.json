@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "mobilizing"
+        "label": {
+            "phrase": "mobilizing the future screening the past",
+            "count": 1
+        }
     },
     "clusterList": [
         {

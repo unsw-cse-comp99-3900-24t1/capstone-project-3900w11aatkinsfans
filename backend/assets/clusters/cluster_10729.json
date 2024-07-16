@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it changed all the reasons i'm playing here",
+            "count": 2
+        }
     },
     "clusterList": [
         {

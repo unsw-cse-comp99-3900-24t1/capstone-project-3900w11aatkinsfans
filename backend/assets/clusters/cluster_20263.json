@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "easier"
+        "label": {
+            "phrase": "easier to play cards",
+            "count": 1
+        }
     },
     "clusterList": [
         {

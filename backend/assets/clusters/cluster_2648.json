@@ -18,7 +18,10 @@
             "03:48",
             "05:00"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what a feeling",
+            "count": 2
+        }
     },
     "clusterList": [
         {

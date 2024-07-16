@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "automatically"
+        "label": {
+            "phrase": "automatically gets the black vote",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "parser"
+        "label": {
+            "phrase": "parser error message failed to decrypt using provider rsaprotectedconfigurationprovider error message from the provider the rsa key container could not be opened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

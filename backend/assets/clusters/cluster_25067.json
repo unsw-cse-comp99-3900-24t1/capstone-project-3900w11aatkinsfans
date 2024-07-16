@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good we're both dead that means that you'll help",
+            "count": 1
+        }
     },
     "clusterList": [
         {

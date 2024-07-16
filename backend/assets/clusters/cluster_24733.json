@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this program has really bloomed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

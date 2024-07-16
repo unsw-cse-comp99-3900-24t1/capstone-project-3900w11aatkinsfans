@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "you'd"
+        "label": {
+            "phrase": "you'd think they'd turn the music down just a little bit so we could talk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

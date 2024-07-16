@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "rubin"
+        "label": {
+            "phrase": "rubin and ed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

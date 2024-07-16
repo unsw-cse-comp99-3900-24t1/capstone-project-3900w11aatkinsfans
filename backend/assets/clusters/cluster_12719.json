@@ -6,7 +6,10 @@
         "xLabels": [
             "00:02"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i feel really confident the review board will give us the recommendation and that this will be a success",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "01:59",
             "02:05"
         ],
-        "label": "sprinklers"
+        "label": {
+            "phrase": "sprinklers again proved their worth and kept the fire from spreading",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i swing up my targe but too slow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

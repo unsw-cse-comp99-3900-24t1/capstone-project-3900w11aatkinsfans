@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i serve with hsv-2",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fire is the same the drive is the same",
+            "count": 1
+        }
     },
     "clusterList": [
         {

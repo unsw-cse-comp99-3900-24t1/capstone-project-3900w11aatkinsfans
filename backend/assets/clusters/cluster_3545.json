@@ -12,7 +12,10 @@
             "02:31",
             "04:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "someone gutted this book",
+            "count": 2
+        }
     },
     "clusterList": [
         {

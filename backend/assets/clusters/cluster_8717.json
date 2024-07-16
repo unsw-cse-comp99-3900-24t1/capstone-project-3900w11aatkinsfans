@@ -8,7 +8,10 @@
             "01:03",
             "02:32"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what could have gone wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

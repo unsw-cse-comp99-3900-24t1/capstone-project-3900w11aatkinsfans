@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he has springs in his feet and hates to touch a rail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "01:09",
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the volunteers have done a wonderful job in mariposa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

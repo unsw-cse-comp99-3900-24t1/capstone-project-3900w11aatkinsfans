@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we really believe these numbers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

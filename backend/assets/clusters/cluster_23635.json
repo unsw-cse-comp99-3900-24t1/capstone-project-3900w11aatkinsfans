@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are left with the sole question",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "campbell"
+        "label": {
+            "phrase": "campbell isn't worth it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

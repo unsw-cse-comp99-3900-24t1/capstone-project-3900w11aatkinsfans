@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "holy"
+        "label": {
+            "phrase": "holy shit its heath ledger",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's nothing pending that they are working on that i'm interested in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

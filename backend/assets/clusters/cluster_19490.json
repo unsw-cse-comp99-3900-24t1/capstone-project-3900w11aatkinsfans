@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "expecting"
+        "label": {
+            "phrase": "expecting to find new ways of looking at seoul",
+            "count": 1
+        }
     },
     "clusterList": [
         {

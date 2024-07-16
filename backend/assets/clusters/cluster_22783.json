@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "listening"
+        "label": {
+            "phrase": "listening to america session",
+            "count": 1
+        }
     },
     "clusterList": [
         {

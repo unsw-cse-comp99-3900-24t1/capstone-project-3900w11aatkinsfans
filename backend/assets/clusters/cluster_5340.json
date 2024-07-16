@@ -12,7 +12,10 @@
             "03:18",
             "03:42"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then or now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

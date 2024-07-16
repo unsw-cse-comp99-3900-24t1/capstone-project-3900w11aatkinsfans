@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the last step in the merger process",
+            "count": 1
+        }
     },
     "clusterList": [
         {

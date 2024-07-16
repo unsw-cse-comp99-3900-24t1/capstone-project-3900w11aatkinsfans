@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have a bug in the pools that's resistant to the major barrier that kills most of the germs that gets transmitted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

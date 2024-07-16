@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a few hundred grams could theoretically kill every human on earth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

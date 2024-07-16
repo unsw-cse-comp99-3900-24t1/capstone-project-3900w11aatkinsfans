@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "provides"
+        "label": {
+            "phrase": "provides weak marginal support to the iris conjecture",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's no way prices on these houses reflect the market",
+            "count": 1
+        }
     },
     "clusterList": [
         {

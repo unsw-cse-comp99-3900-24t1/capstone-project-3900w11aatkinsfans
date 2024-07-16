@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're hoping they will hatch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

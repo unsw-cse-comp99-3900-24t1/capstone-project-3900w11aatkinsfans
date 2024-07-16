@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a negative attitude robin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

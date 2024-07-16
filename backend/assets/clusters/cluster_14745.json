@@ -6,7 +6,10 @@
         "xLabels": [
             "04:26"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've found that cb1 expression is lost in most colorectal cancers and when that happens a cancer-promoting protein is free to inhibit cell death",
+            "count": 1
+        }
     },
     "clusterList": [
         {

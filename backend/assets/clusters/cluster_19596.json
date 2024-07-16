@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "annoying"
+        "label": {
+            "phrase": "annoying guy with maraca",
+            "count": 1
+        }
     },
     "clusterList": [
         {

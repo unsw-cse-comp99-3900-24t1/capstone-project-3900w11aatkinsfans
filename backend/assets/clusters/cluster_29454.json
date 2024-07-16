@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my generation worships the god of the universe and yours worships the god of process",
+            "count": 1
+        }
     },
     "clusterList": [
         {

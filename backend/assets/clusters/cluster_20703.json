@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "clinically"
+        "label": {
+            "phrase": "clinically shown to melt away daily muscle tension",
+            "count": 1
+        }
     },
     "clusterList": [
         {

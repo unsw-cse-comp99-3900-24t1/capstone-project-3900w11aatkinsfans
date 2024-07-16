@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i let my team down and myself down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:38",
             "04:03"
         ],
-        "label": "highway"
+        "label": {
+            "phrase": "highway 61 revisited",
+            "count": 1
+        }
     },
     "clusterList": [
         {

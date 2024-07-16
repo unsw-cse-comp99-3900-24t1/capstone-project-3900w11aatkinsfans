@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "shall"
+        "label": {
+            "phrase": "shall be reduced",
+            "count": 1
+        }
     },
     "clusterList": [
         {

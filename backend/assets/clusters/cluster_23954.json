@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are many sleeper",
+            "count": 1
+        }
     },
     "clusterList": [
         {

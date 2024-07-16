@@ -6,7 +6,10 @@
         "xLabels": [
             "00:10"
         ],
-        "label": "dchhs"
+        "label": {
+            "phrase": "dchhs is actively involved in the investigation of cases of diarrahal illnesses that may be associated with spray parks in dallas county",
+            "count": 1
+        }
     },
     "clusterList": [
         {

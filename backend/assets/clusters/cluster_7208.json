@@ -10,7 +10,10 @@
             "03:56",
             "04:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the basement is much crowded but there is plenty of room up-stairs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "miss"
+        "label": {
+            "phrase": "miss croc what do you think you are doing in my room",
+            "count": 1
+        }
     },
     "clusterList": [
         {

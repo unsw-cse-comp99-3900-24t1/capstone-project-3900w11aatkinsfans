@@ -6,7 +6,10 @@
         "xLabels": [
             "00:05"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once things go wrong and you've exhausted your resources just like when you are sick sometimes you have to call the doctor sometimes you need somebody to help you out because it's keeping you from getting your work done",
+            "count": 1
+        }
     },
     "clusterList": [
         {

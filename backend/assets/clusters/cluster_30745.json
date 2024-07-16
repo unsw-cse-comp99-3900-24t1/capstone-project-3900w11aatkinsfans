@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the state regulatory agencies must now reverse their earlier decisions to approve duke's reactor project and require that the company not come back for reconsideration until the reactor design is finalized",
+            "count": 1
+        }
     },
     "clusterList": [
         {

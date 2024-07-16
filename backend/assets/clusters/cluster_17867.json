@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "think"
+        "label": {
+            "phrase": "think u can beat that ai",
+            "count": 1
+        }
     },
     "clusterList": [
         {

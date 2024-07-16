@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an hero to take that shot to leave us all behind",
+            "count": 1
+        }
     },
     "clusterList": [
         {

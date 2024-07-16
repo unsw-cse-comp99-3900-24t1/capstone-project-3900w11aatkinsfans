@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "fair"
+        "label": {
+            "phrase": "fair play for pluto",
+            "count": 1
+        }
     },
     "clusterList": [
         {

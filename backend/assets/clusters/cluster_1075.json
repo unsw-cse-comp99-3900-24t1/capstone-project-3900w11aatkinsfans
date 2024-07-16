@@ -30,7 +30,10 @@
             "02:47",
             "03:34"
         ],
-        "label": "java"
+        "label": {
+            "phrase": "we've been able to come up with a java applet that for all intents and purposes is an image",
+            "count": 8
+        }
     },
     "clusterList": [
         {

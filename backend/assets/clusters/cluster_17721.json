@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "pick"
+        "label": {
+            "phrase": "pick your own",
+            "count": 1
+        }
     },
     "clusterList": [
         {

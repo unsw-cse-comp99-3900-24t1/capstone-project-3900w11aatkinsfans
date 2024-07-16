@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh yes everything is just dandy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

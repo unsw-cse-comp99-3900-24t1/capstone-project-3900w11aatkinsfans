@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey you need to check out 127 0 0 1 its using way too much bandwidth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

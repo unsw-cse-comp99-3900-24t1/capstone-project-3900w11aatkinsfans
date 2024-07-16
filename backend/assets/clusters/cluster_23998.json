@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the saudis now know their",
+            "count": 1
+        }
     },
     "clusterList": [
         {

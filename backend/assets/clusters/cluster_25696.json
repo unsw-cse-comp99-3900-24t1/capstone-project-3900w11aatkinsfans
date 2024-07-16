@@ -6,7 +6,10 @@
         "xLabels": [
             "03:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the camera is an instrument that teaches people how to see without a camera",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is no such thing as the critical path",
+            "count": 1
+        }
     },
     "clusterList": [
         {

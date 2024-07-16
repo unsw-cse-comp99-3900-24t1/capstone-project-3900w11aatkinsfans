@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "continue"
+        "label": {
+            "phrase": "continue the legacy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

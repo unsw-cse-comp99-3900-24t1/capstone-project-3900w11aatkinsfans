@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's just as important to us as the next laugh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

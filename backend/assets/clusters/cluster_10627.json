@@ -8,7 +8,10 @@
             "02:19",
             "04:13"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a long way to drive to work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

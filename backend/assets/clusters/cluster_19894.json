@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "optimize"
+        "label": {
+            "phrase": "optimize for quicktime playback",
+            "count": 1
+        }
     },
     "clusterList": [
         {

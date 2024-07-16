@@ -12,7 +12,10 @@
             "03:14",
             "04:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have spent 10k here because so and so told me this is what i needed to do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

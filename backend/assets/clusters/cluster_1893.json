@@ -22,7 +22,10 @@
             "03:48",
             "03:52"
         ],
-        "label": "open"
+        "label": {
+            "phrase": "the window for doing this remains open",
+            "count": 2
+        }
     },
     "clusterList": [
         {

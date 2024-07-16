@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we understand districts work with tight budgets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

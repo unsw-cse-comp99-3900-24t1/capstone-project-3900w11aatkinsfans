@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "scholastic"
+        "label": {
+            "phrase": "scholastic productions and",
+            "count": 1
+        }
     },
     "clusterList": [
         {

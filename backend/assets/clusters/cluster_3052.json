@@ -16,7 +16,10 @@
             "04:45",
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the rest of the nation is watching",
+            "count": 4
+        }
     },
     "clusterList": [
         {

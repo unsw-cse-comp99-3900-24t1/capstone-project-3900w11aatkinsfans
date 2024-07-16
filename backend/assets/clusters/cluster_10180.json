@@ -8,7 +8,10 @@
             "01:00",
             "03:34"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to set a price on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

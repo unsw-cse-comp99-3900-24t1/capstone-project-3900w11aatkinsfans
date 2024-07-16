@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "provided"
+        "label": {
+            "phrase": "provided by bmc",
+            "count": 1
+        }
     },
     "clusterList": [
         {

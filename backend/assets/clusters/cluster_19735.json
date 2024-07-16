@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my hips don't move i'm a baptist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

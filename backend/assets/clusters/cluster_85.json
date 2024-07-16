@@ -86,7 +86,10 @@
             "04:50",
             "05:05"
         ],
-        "label": "church"
+        "label": {
+            "phrase": "anointed blessed and consecrated",
+            "count": 18
+        }
     },
     "clusterList": [
         {

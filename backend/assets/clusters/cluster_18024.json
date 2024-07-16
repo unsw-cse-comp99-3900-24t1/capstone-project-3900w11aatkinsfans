@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there was less corruption",
+            "count": 1
+        }
     },
     "clusterList": [
         {

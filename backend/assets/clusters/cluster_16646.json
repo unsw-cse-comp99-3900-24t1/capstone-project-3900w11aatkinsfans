@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the commission is responsible for ensuring that the more than 15 000 products everything from infant cribs to all-terrain-vehicles are safe to use",
+            "count": 1
+        }
     },
     "clusterList": [
         {

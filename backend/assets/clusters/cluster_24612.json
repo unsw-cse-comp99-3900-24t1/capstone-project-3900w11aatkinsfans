@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't think you'll be heard because of your much speaking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

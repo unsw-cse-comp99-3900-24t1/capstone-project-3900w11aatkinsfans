@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "free"
+        "label": {
+            "phrase": "free communication weekend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

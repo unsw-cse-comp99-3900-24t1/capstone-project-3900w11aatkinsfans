@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we won that argument",
+            "count": 1
+        }
     },
     "clusterList": [
         {

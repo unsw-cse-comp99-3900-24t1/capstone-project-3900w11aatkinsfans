@@ -12,7 +12,10 @@
             "01:24",
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the data shows that as more people ride the streets get safer",
+            "count": 2
+        }
     },
     "clusterList": [
         {

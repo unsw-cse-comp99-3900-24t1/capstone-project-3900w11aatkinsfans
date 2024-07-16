@@ -8,7 +8,10 @@
             "00:46",
             "01:04"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you try to treat the symptoms",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "god i hope we make a lot of mistakes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

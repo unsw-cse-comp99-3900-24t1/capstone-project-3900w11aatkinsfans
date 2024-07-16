@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "kissed"
+        "label": {
+            "phrase": "kissed the knob on the stairwell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

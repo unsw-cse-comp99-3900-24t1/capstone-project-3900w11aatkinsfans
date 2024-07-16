@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "perishable"
+        "label": {
+            "phrase": "perishable and intangible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

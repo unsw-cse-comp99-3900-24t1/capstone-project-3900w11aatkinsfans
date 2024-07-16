@@ -34,7 +34,10 @@
             "04:31",
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the american society of civil engineers estimates that we're going to have to spend 1 6 trillion over the next five years to rebuild our infrastructure",
+            "count": 6
+        }
     },
     "clusterList": [
         {

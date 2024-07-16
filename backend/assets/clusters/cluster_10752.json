@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sensitive onion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

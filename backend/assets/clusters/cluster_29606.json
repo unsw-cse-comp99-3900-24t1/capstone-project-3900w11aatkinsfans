@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've got my own personal nanny now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

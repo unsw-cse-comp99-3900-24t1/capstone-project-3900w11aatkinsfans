@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "homosexuals"
+        "label": {
+            "phrase": "homosexuals who do publicly disclose their sexual orientation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

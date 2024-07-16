@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm happy to talk about the substantive issues the next time i'm on your program",
+            "count": 1
+        }
     },
     "clusterList": [
         {

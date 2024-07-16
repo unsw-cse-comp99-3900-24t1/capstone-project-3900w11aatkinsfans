@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you ever seen the notebook",
+            "count": 1
+        }
     },
     "clusterList": [
         {

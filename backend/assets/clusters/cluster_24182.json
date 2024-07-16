@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the all blacks can only learn how to score tries by winning games",
+            "count": 1
+        }
     },
     "clusterList": [
         {

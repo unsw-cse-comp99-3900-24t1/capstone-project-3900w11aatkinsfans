@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "created"
+        "label": {
+            "phrase": "created islands of hope",
+            "count": 1
+        }
     },
     "clusterList": [
         {

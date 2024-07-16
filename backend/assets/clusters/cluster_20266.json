@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but your the only human who's run through a wall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

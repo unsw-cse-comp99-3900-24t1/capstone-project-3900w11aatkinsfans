@@ -6,7 +6,10 @@
         "xLabels": [
             "04:49"
         ],
-        "label": "testing's"
+        "label": {
+            "phrase": "testing's not the point it's about responsibility developers taking responsibility for what they write",
+            "count": 1
+        }
     },
     "clusterList": [
         {

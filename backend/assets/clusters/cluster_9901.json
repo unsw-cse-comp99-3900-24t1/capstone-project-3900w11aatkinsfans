@@ -8,7 +8,10 @@
             "01:34",
             "03:02"
         ],
-        "label": "raise"
+        "label": {
+            "phrase": "raise the red lantern",
+            "count": 1
+        }
     },
     "clusterList": [
         {

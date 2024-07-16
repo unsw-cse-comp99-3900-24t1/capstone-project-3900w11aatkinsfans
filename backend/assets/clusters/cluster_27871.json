@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why go to work and be hot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

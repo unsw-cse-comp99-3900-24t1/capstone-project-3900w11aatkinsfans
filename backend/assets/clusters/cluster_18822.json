@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "trafficking"
+        "label": {
+            "phrase": "trafficking victim protection reauthorization act",
+            "count": 1
+        }
     },
     "clusterList": [
         {

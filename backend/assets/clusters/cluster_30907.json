@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "well-meaning"
+        "label": {
+            "phrase": "well-meaning but they are misguided",
+            "count": 1
+        }
     },
     "clusterList": [
         {

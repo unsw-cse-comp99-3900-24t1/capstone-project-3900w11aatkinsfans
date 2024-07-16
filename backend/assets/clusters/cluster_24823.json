@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "frequently"
+        "label": {
+            "phrase": "frequently asked questions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:46"
         ],
-        "label": "was"
+        "label": {
+            "phrase": "was not this counrty founded on the premise of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

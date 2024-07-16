@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "filled"
+        "label": {
+            "phrase": "filled to a point approximately half of its maximum volume",
+            "count": 1
+        }
     },
     "clusterList": [
         {

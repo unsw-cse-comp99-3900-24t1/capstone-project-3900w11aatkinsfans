@@ -10,7 +10,10 @@
             "00:18",
             "04:35"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our internal analysis predicted this a month ago",
+            "count": 1
+        }
     },
     "clusterList": [
         {

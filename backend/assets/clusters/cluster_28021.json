@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "treat"
+        "label": {
+            "phrase": "treat every person who presents himself or herself to you as a potential leader with the utmost suspicion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

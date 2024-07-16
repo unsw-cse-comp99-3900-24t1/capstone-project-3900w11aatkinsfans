@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "everbody"
+        "label": {
+            "phrase": "everbody has a certain job and to stick to it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was not a seville orange",
+            "count": 1
+        }
     },
     "clusterList": [
         {

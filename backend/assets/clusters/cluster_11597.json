@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "ken"
+        "label": {
+            "phrase": "ken just sees things others don't",
+            "count": 1
+        }
     },
     "clusterList": [
         {

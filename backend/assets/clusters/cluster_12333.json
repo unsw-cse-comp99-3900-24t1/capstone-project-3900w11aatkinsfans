@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "pulling"
+        "label": {
+            "phrase": "pulling us down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

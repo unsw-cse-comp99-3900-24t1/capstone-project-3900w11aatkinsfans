@@ -6,7 +6,10 @@
         "xLabels": [
             "00:48"
         ],
-        "label": "rear"
+        "label": {
+            "phrase": "rear window captioning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

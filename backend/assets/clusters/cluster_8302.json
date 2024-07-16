@@ -8,7 +8,10 @@
             "00:14",
             "04:55"
         ],
-        "label": "resolves"
+        "label": {
+            "phrase": "resolves and again rejects",
+            "count": 2
+        }
     },
     "clusterList": [
         {

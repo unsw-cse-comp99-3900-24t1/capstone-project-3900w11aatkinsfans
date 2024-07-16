@@ -6,7 +6,10 @@
         "xLabels": [
             "00:29"
         ],
-        "label": "coronary"
+        "label": {
+            "phrase": "coronary by-pass brought to you by columbia university medical center",
+            "count": 1
+        }
     },
     "clusterList": [
         {

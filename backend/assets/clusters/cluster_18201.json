@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and that's certainly what desert rock is about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

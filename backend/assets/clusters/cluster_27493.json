@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "notes"
+        "label": {
+            "phrase": "notes towards affect engines",
+            "count": 1
+        }
     },
     "clusterList": [
         {

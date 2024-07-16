@@ -12,7 +12,10 @@
             "02:33",
             "04:31"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the station agent",
+            "count": 5
+        }
     },
     "clusterList": [
         {

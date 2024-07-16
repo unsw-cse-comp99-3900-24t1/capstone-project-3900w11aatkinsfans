@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "sometimes"
+        "label": {
+            "phrase": "sometimes but why dwell on it why not just live my life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

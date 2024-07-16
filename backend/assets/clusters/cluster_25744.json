@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm standing on olmert's shoulders",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:02",
             "04:17"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this book is a work of fiction no characters are based on real people whether living or dead any resemblance to a real person is pure coincidence anyone who tells you otherwise is a liar",
+            "count": 1
+        }
     },
     "clusterList": [
         {

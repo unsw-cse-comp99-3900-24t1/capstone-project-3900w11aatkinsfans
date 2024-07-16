@@ -8,7 +8,10 @@
             "03:10",
             "04:22"
         ],
-        "label": "three"
+        "label": {
+            "phrase": "three of them plus the prisoner they took with them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

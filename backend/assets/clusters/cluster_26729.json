@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a good move by the ffa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

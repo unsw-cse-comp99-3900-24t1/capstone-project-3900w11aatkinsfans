@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if all's going along well with the first nest they'll build another right near by and lay the next batch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

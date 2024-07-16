@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "at"
+        "label": {
+            "phrase": "at least peeps didn't get ripped off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

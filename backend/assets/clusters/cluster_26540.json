@@ -6,7 +6,10 @@
         "xLabels": [
             "03:44"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm cool with whatever happens tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

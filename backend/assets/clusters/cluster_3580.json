@@ -10,7 +10,10 @@
             "02:16",
             "04:46"
         ],
-        "label": "ketchup"
+        "label": {
+            "phrase": "ketchup on a hot dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

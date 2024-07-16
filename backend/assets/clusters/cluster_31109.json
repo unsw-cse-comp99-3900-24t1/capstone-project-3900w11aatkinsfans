@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "we'd"
+        "label": {
+            "phrase": "we'd rather pay you your price because you do quality work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

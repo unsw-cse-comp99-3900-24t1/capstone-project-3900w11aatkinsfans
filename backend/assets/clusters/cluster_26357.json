@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "public"
+        "label": {
+            "phrase": "public men are as it were public property",
+            "count": 1
+        }
     },
     "clusterList": [
         {

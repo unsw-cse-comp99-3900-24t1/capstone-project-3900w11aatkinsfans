@@ -12,7 +12,10 @@
             "04:32",
             "04:45"
         ],
-        "label": "declaration"
+        "label": {
+            "phrase": "declaration of intent",
+            "count": 3
+        }
     },
     "clusterList": [
         {

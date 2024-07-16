@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "lack"
+        "label": {
+            "phrase": "lack of a quorum",
+            "count": 1
+        }
     },
     "clusterList": [
         {

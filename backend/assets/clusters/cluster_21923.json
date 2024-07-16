@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and i warn you some of the coverage is disturbing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

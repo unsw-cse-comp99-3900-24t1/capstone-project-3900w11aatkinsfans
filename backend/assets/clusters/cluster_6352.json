@@ -10,7 +10,10 @@
             "01:20",
             "04:17"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he said they needed fuel and i told them where to park",
+            "count": 1
+        }
     },
     "clusterList": [
         {

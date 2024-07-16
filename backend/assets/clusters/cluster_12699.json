@@ -6,7 +6,10 @@
         "xLabels": [
             "00:01"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so he's going to take my kids",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:01",
             "03:18"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as part of a larger transaction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

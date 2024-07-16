@@ -10,7 +10,10 @@
             "01:42",
             "03:55"
         ],
-        "label": "steve"
+        "label": {
+            "phrase": "steve jobs has said that the market doesn't always know what it wants companies that do radical innovation do not listen to users they eventually value market feedback but first they propose things to the users",
+            "count": 1
+        }
     },
     "clusterList": [
         {

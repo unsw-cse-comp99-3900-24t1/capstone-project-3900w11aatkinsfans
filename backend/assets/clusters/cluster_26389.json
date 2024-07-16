@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those things will kill you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

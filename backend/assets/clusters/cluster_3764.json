@@ -14,7 +14,10 @@
             "02:20",
             "03:01"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we killed a cop",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give me 4 parameters and i will fit an elephant five and i will make him wiggle his trunk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

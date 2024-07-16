@@ -20,7 +20,10 @@
             "03:41",
             "03:42"
         ],
-        "label": "asking"
+        "label": {
+            "phrase": "asking for flowers",
+            "count": 3
+        }
     },
     "clusterList": [
         {

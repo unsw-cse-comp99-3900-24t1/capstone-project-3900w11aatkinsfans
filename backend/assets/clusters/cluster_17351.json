@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "anytime"
+        "label": {
+            "phrase": "anytime i make a stop sasha gets snow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

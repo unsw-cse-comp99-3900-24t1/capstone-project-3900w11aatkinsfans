@@ -20,7 +20,10 @@
             "04:41",
             "05:01"
         ],
-        "label": "order"
+        "label": {
+            "phrase": "order by month desc",
+            "count": 2
+        }
     },
     "clusterList": [
         {

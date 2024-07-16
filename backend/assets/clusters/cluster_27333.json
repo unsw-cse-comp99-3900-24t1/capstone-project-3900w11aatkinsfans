@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "wag"
+        "label": {
+            "phrase": "wag the dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

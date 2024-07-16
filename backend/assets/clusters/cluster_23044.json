@@ -6,7 +6,10 @@
         "xLabels": [
             "02:35"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the power of orange knickers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

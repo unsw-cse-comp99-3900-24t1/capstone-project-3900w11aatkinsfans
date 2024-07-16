@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "open"
+        "label": {
+            "phrase": "open applications finder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

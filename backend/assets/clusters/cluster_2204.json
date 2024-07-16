@@ -20,7 +20,10 @@
             "04:13",
             "04:32"
         ],
-        "label": "gore"
+        "label": {
+            "phrase": "gore calls for electrical power conversion",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes i must tell you that the time for america's death has come",
+            "count": 1
+        }
     },
     "clusterList": [
         {

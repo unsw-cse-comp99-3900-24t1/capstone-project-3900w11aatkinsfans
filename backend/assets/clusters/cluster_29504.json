@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes but it's in a new template",
+            "count": 1
+        }
     },
     "clusterList": [
         {

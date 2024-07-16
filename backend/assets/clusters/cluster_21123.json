@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't ever want to see anybody else go through this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

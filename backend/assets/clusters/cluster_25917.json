@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just think of the movie poseidon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:51",
             "04:45"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't judge a book by its cover",
+            "count": 2
+        }
     },
     "clusterList": [
         {

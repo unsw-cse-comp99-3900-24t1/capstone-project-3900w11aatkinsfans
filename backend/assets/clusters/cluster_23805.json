@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "operation"
+        "label": {
+            "phrase": "operation not supported",
+            "count": 1
+        }
     },
     "clusterList": [
         {

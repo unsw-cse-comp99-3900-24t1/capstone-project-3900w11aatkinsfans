@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey bernie i was just messing with you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

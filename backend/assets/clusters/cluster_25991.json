@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have a blue house with a blue window blue is the color of all that i wear blue are the streets and all the trees are too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

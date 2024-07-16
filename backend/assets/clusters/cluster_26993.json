@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "hard"
+        "label": {
+            "phrase": "hard core kid",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all i need is enough elevation so that i don't pee on my shoes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

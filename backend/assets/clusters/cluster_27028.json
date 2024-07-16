@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "group"
+        "label": {
+            "phrase": "group action to make a difference",
+            "count": 1
+        }
     },
     "clusterList": [
         {

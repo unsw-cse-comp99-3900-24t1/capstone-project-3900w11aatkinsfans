@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "range"
+        "label": {
+            "phrase": "range to friendly port",
+            "count": 1
+        }
     },
     "clusterList": [
         {

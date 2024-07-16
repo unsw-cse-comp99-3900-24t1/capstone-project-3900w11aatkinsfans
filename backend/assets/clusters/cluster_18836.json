@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "gathered"
+        "label": {
+            "phrase": "gathered to zion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they broke their word",
+            "count": 2
+        }
     },
     "clusterList": [
         {

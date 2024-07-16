@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if six isn't enough for them that concerns me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

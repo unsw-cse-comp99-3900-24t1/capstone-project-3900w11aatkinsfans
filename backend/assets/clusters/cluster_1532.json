@@ -24,7 +24,10 @@
             "04:33",
             "04:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the last guy",
+            "count": 4
+        }
     },
     "clusterList": [
         {

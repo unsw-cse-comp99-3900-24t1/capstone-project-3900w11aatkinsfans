@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "sympathetic"
+        "label": {
+            "phrase": "sympathetic post-ganglionic neurotransmitters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

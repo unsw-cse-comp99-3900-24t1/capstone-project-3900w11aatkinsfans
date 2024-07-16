@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "somebody's"
+        "label": {
+            "phrase": "somebody's killin the goose that lays the golden eggs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

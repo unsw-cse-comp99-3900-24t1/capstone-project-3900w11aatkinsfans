@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "ripley's"
+        "label": {
+            "phrase": "ripley's believe it or not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because murder is more fun away from home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

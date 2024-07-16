@@ -6,7 +6,10 @@
         "xLabels": [
             "00:29"
         ],
-        "label": "defending"
+        "label": {
+            "phrase": "defending the caveman",
+            "count": 1
+        }
     },
     "clusterList": [
         {

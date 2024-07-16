@@ -8,7 +8,10 @@
             "00:09",
             "01:05"
         ],
-        "label": "remind"
+        "label": {
+            "phrase": "remind new yorkers that people come from all over the world to experience what's in their backyards",
+            "count": 2
+        }
     },
     "clusterList": [
         {

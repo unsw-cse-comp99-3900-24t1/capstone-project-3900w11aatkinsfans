@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "mr screenan would like to talk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

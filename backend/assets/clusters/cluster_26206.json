@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "corn"
+        "label": {
+            "phrase": "corn and rocks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you saying you like edward norton",
+            "count": 1
+        }
     },
     "clusterList": [
         {

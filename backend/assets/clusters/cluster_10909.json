@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "claims"
+        "label": {
+            "phrase": "claims to universality",
+            "count": 2
+        }
     },
     "clusterList": [
         {

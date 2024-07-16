@@ -6,7 +6,10 @@
         "xLabels": [
             "02:35"
         ],
-        "label": "colt"
+        "label": {
+            "phrase": "colt 45 works every time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

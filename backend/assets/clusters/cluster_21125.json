@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "baby"
+        "label": {
+            "phrase": "baby bump watches",
+            "count": 1
+        }
     },
     "clusterList": [
         {

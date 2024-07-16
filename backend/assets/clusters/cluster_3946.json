@@ -10,7 +10,10 @@
             "01:43",
             "02:33"
         ],
-        "label": "three"
+        "label": {
+            "phrase": "three men in a room",
+            "count": 2
+        }
     },
     "clusterList": [
         {

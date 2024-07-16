@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the day peter retired i thought ken was going to cry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

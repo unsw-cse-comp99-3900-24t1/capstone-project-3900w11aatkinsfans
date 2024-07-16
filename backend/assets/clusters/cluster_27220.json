@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "found"
+        "label": {
+            "phrase": "found lying around in azan's studio",
+            "count": 1
+        }
     },
     "clusterList": [
         {

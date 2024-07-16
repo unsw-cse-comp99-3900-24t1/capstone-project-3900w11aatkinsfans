@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "oil"
+        "label": {
+            "phrase": "oil industry says it is not out of line but some motorists feel otherwise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

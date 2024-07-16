@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "won't"
+        "label": {
+            "phrase": "won't somebody stand up for him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

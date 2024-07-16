@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "nave"
+        "label": {
+            "phrase": "nave a nice day or not the choice is yours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

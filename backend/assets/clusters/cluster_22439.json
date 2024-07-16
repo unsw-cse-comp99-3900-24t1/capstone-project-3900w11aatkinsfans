@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "90"
+        "label": {
+            "phrase": "90 of those who are kept fully informed are motivated to deliver added value while those who are kept in the dark almost 80 are not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

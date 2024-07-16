@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a time-consuming process and it won't fill up overnight with inmates",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "australia's"
+        "label": {
+            "phrase": "australia's rental crisis is showing no signs of easing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

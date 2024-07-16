@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people tend to find those previews annoying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

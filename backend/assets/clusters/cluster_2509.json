@@ -18,7 +18,10 @@
             "03:51",
             "04:32"
         ],
-        "label": "obama"
+        "label": {
+            "phrase": "obama is the first presidential candidate to refuse federal funds in a general election",
+            "count": 5
+        }
     },
     "clusterList": [
         {

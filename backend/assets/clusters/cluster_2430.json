@@ -10,7 +10,10 @@
             "02:45",
             "04:17"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "if you don't behave the doctor nurse is going to give you an injection",
+            "count": 3
+        }
     },
     "clusterList": [
         {

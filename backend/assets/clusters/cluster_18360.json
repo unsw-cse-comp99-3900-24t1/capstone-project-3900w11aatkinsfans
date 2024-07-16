@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then my dad bragged about it so it backfired",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "sit"
+        "label": {
+            "phrase": "sit in place for two hours before his arrival and they may not leave until after his speech is over",
+            "count": 1
+        }
     },
     "clusterList": [
         {

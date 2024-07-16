@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i can't control what people look at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

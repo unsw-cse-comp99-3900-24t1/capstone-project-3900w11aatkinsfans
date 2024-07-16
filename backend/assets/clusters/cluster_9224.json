@@ -8,7 +8,10 @@
             "00:56",
             "01:01"
         ],
-        "label": "poo"
+        "label": {
+            "phrase": "poo poo on the potty chair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

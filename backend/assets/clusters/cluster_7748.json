@@ -10,7 +10,10 @@
             "01:03",
             "05:00"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with regard to google",
+            "count": 1
+        }
     },
     "clusterList": [
         {

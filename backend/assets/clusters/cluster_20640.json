@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "fred"
+        "label": {
+            "phrase": "fred lupin tonks moody all die",
+            "count": 1
+        }
     },
     "clusterList": [
         {

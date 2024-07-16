@@ -6,7 +6,10 @@
         "xLabels": [
             "04:12"
         ],
-        "label": "wait"
+        "label": {
+            "phrase": "wait a minute we're your friends as well don't just focus on the big guys think about us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "froth"
+        "label": {
+            "phrase": "froth on the daydream",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most notches on the bedpost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

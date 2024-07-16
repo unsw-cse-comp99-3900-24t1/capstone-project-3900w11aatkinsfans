@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and he made himself of no reputation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

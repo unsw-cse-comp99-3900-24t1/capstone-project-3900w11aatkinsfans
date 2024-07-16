@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you spend thanxgiving over michael irvin's house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

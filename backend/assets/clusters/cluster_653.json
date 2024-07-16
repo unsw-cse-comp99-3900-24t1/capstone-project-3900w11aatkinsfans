@@ -10,7 +10,10 @@
             "02:05",
             "05:04"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you either die a hero or live long enough to see yourself become the villain",
+            "count": 20
+        }
     },
     "clusterList": [
         {

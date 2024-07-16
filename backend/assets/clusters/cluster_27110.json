@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "seven"
+        "label": {
+            "phrase": "seven angels on a bicycle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

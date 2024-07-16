@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "kevin's"
+        "label": {
+            "phrase": "kevin's got to bring us into the future",
+            "count": 1
+        }
     },
     "clusterList": [
         {

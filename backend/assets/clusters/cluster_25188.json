@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh okay i'll tell ya but it mustn't go beyond this room alright",
+            "count": 1
+        }
     },
     "clusterList": [
         {

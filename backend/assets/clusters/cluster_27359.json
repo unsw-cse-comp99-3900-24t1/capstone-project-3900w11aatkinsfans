@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "24-hour"
+        "label": {
+            "phrase": "24-hour exemption from all existential torment in connection with the environmental crisis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

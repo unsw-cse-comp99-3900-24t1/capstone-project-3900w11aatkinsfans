@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "doing"
+        "label": {
+            "phrase": "doing nothing was better that what they did last year he said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

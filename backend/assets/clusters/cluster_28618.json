@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a rock star out of bed at 8 a m",
+            "count": 1
+        }
     },
     "clusterList": [
         {

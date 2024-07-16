@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i suppose it will be more peaceful around here now that the kittens have gone home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "thaksin"
+        "label": {
+            "phrase": "thaksin is not disheartened",
+            "count": 2
+        }
     },
     "clusterList": [
         {

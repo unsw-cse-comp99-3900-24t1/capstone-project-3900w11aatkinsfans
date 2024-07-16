@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i deserve to know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

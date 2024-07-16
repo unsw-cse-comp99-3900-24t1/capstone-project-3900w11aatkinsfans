@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the buddy holly story",
+            "count": 1
+        }
     },
     "clusterList": [
         {

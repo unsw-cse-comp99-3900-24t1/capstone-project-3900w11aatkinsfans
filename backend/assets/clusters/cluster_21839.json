@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "er"
+        "label": {
+            "phrase": "er no thanks you can keep your cat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the squeaky wheel gets the grease",
+            "count": 1
+        }
     },
     "clusterList": [
         {

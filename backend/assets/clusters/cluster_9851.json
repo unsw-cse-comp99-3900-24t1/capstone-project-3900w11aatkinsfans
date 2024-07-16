@@ -8,7 +8,10 @@
             "01:32",
             "03:05"
         ],
-        "label": "congratulations"
+        "label": {
+            "phrase": "congratulations you've worn out a professional litigator",
+            "count": 2
+        }
     },
     "clusterList": [
         {

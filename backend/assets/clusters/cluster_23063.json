@@ -6,7 +6,10 @@
         "xLabels": [
             "02:36"
         ],
-        "label": "spyro"
+        "label": {
+            "phrase": "spyro the dragon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

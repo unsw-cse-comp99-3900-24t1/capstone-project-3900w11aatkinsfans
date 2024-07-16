@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i save your life do not eat me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

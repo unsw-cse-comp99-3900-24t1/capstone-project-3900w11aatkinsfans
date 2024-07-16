@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "remember"
+        "label": {
+            "phrase": "remember tonight any profits you make are your own",
+            "count": 1
+        }
     },
     "clusterList": [
         {

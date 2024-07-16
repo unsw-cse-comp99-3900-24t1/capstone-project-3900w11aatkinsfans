@@ -8,7 +8,10 @@
             "01:05",
             "01:19"
         ],
-        "label": "epo"
+        "label": {
+            "phrase": "epo erythropoetin is a natural hormone produced by the body",
+            "count": 1
+        }
     },
     "clusterList": [
         {

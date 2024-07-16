@@ -8,7 +8,10 @@
             "02:35",
             "03:34"
         ],
-        "label": "cars"
+        "label": {
+            "phrase": "cars and guitars",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "she"
+        "label": {
+            "phrase": "she said gee i want to pawn these",
+            "count": 1
+        }
     },
     "clusterList": [
         {

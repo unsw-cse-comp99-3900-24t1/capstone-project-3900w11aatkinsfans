@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "kick"
+        "label": {
+            "phrase": "kick everyone's ass supermove",
+            "count": 1
+        }
     },
     "clusterList": [
         {

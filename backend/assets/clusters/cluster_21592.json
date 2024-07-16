@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "ahoy"
+        "label": {
+            "phrase": "ahoy there m'hearty it be a fine day for plunder'n",
+            "count": 1
+        }
     },
     "clusterList": [
         {

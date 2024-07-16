@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those who attacked us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

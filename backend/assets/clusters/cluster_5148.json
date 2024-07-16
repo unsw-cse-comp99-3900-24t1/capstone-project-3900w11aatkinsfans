@@ -10,7 +10,10 @@
             "03:06",
             "04:28"
         ],
-        "label": "citizen"
+        "label": {
+            "phrase": "citizen of the world",
+            "count": 4
+        }
     },
     "clusterList": [
         {

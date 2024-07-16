@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "select"
+        "label": {
+            "phrase": "select distinct email from breakingnews",
+            "count": 2
+        }
     },
     "clusterList": [
         {

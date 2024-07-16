@@ -18,7 +18,10 @@
             "02:45",
             "04:05"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with this bill we hope to change that",
+            "count": 2
+        }
     },
     "clusterList": [
         {

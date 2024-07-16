@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh you know that's just the brainwashing of society",
+            "count": 1
+        }
     },
     "clusterList": [
         {

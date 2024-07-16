@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our windows are specially designed to not smash into pieces which would pose a threat to staff and prisoners",
+            "count": 1
+        }
     },
     "clusterList": [
         {

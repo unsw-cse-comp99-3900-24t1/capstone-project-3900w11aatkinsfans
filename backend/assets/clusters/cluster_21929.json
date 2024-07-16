@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "policy"
+        "label": {
+            "phrase": "policy of economic isolationism",
+            "count": 1
+        }
     },
     "clusterList": [
         {

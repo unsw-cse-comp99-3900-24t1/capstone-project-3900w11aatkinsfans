@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "venom"
+        "label": {
+            "phrase": "venom energy drink offers bounty for the capture of a live",
+            "count": 1
+        }
     },
     "clusterList": [
         {

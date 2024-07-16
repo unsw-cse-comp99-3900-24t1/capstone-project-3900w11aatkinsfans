@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "come"
+        "label": {
+            "phrase": "come on bob",
+            "count": 1
+        }
     },
     "clusterList": [
         {

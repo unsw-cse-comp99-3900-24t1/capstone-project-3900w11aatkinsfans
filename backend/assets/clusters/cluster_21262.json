@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we see confectionery as a particularly robust category in difficult times",
+            "count": 1
+        }
     },
     "clusterList": [
         {

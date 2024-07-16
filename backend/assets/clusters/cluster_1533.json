@@ -20,7 +20,10 @@
             "04:13",
             "04:52"
         ],
-        "label": "backup"
+        "label": {
+            "phrase": "connection could not be established",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "270"
+        "label": {
+            "phrase": "270 cas d'ing rences",
+            "count": 1
+        }
     },
     "clusterList": [
         {

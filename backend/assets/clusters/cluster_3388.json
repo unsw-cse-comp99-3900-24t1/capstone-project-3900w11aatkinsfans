@@ -16,7 +16,10 @@
             "03:51",
             "04:09"
         ],
-        "label": "another"
+        "label": {
+            "phrase": "not a damn thing",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the laurelton students were very good neighbors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

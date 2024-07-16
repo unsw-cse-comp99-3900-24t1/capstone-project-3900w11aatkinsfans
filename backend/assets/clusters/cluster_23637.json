@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i won't walk across the street for a client without a contract",
+            "count": 1
+        }
     },
     "clusterList": [
         {

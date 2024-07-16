@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "here's"
+        "label": {
+            "phrase": "here's your new hot pink watchband",
+            "count": 1
+        }
     },
     "clusterList": [
         {

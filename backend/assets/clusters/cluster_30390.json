@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how designers spend their day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

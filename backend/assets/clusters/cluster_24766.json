@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "forwarding"
+        "label": {
+            "phrase": "forwarding and pop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:56",
             "03:11"
         ],
-        "label": "remember"
+        "label": {
+            "phrase": "remember when x",
+            "count": 1
+        }
     },
     "clusterList": [
         {

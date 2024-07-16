@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "nobody"
+        "label": {
+            "phrase": "nobody ever gives me pleasure any more",
+            "count": 1
+        }
     },
     "clusterList": [
         {

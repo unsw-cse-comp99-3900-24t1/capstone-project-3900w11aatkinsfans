@@ -6,7 +6,10 @@
         "xLabels": [
             "01:40"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the district remains in a very precarious position",
+            "count": 1
+        }
     },
     "clusterList": [
         {

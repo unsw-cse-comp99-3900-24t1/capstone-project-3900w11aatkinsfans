@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's getting rough out there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

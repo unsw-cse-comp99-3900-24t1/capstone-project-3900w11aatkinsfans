@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we speak with human terms because of your human limitations",
+            "count": 1
+        }
     },
     "clusterList": [
         {

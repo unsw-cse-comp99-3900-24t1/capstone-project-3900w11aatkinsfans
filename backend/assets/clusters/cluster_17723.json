@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and now assassination",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "mantle"
+        "label": {
+            "phrase": "mantle of power",
+            "count": 1
+        }
     },
     "clusterList": [
         {

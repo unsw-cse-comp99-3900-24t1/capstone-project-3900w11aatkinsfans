@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a one-man think tank",
+            "count": 1
+        }
     },
     "clusterList": [
         {

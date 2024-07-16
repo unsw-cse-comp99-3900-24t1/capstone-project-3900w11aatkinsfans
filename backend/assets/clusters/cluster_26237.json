@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "troll"
+        "label": {
+            "phrase": "troll who doesn't disparage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

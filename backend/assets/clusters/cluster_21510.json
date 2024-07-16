@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "california"
+        "label": {
+            "phrase": "california state fair ribbon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

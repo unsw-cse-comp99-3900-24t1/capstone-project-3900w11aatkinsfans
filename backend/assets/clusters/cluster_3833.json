@@ -14,7 +14,10 @@
             "03:51",
             "04:13"
         ],
-        "label": "argonne"
+        "label": {
+            "phrase": "laboratory of experimental physics",
+            "count": 3
+        }
     },
     "clusterList": [
         {

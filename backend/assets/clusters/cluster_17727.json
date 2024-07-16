@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "be"
+        "label": {
+            "phrase": "be self-controlled and alert",
+            "count": 1
+        }
     },
     "clusterList": [
         {

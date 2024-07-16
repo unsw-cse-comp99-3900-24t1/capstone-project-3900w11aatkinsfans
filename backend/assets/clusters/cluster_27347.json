@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "caught"
+        "label": {
+            "phrase": "caught by the fuzz",
+            "count": 1
+        }
     },
     "clusterList": [
         {

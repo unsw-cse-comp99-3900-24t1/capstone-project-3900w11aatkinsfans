@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what if we aren't attracted to each other",
+            "count": 1
+        }
     },
     "clusterList": [
         {

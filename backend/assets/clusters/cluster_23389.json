@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "pour"
+        "label": {
+            "phrase": "pour oil on fire at a sensitive and crucial time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

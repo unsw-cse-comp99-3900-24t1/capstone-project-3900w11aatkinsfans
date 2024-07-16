@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they were counterproductive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

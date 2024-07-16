@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you're going to san francisco be sure to wear some flowers in your hair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

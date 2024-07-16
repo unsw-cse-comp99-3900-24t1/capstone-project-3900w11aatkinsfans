@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this would be for 09 10",
+            "count": 1
+        }
     },
     "clusterList": [
         {

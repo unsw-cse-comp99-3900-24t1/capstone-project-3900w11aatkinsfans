@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's collapse the writing staff into one central portal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

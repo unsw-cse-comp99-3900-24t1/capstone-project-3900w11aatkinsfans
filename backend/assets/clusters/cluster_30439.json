@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "other"
+        "label": {
+            "phrase": "other career interests",
+            "count": 1
+        }
     },
     "clusterList": [
         {

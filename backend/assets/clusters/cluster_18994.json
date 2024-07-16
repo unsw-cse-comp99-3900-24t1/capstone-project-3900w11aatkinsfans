@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's hard to compare eras",
+            "count": 1
+        }
     },
     "clusterList": [
         {

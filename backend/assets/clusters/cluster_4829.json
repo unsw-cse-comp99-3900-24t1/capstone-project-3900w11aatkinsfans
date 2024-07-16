@@ -10,7 +10,10 @@
             "00:27",
             "01:14"
         ],
-        "label": "purchase"
+        "label": {
+            "phrase": "purchase new subscription",
+            "count": 1
+        }
     },
     "clusterList": [
         {

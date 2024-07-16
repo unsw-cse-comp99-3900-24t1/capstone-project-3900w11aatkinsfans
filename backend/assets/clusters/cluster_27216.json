@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "type"
+        "label": {
+            "phrase": "type of surgery",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "insufficient"
+        "label": {
+            "phrase": "insufficient and inadequate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are currently experiencing higher than normal call volume please stay on the line and one of our customer service representatives will be happy to help you as soon as they are available",
+            "count": 1
+        }
     },
     "clusterList": [
         {

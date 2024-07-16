@@ -6,7 +6,10 @@
         "xLabels": [
             "04:40"
         ],
-        "label": "wheeled"
+        "label": {
+            "phrase": "wheeled into a back room and advised",
+            "count": 1
+        }
     },
     "clusterList": [
         {

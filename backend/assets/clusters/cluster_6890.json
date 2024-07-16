@@ -10,7 +10,10 @@
             "02:02",
             "03:15"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of the world's leading experts on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

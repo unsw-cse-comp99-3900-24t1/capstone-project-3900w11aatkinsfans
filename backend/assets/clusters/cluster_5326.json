@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "avoid"
+        "label": {
+            "phrase": "avoid the waves",
+            "count": 4
+        }
     },
     "clusterList": [
         {

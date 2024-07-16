@@ -8,7 +8,10 @@
             "01:43",
             "02:52"
         ],
-        "label": "congratulations"
+        "label": {
+            "phrase": "congratulations your account has been activated click here to login",
+            "count": 1
+        }
     },
     "clusterList": [
         {

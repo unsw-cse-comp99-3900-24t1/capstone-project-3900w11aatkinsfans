@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "far"
+        "label": {
+            "phrase": "far but it might work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

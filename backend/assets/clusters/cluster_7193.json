@@ -10,7 +10,10 @@
             "03:10",
             "03:50"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two things are infinite the universe and human stupidity and i'm not sure about the the universe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

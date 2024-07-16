@@ -10,7 +10,10 @@
             "02:20",
             "05:04"
         ],
-        "label": "game"
+        "label": {
+            "phrase": "game highlights sports news and clips",
+            "count": 1
+        }
     },
     "clusterList": [
         {

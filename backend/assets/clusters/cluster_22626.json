@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "she"
+        "label": {
+            "phrase": "she remembers the coach asking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

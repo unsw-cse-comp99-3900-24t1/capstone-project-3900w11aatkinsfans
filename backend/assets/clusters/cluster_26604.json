@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "rise"
+        "label": {
+            "phrase": "rise of the sith",
+            "count": 1
+        }
     },
     "clusterList": [
         {

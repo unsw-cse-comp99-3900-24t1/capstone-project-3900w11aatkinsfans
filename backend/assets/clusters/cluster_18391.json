@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the velcro hug",
+            "count": 1
+        }
     },
     "clusterList": [
         {

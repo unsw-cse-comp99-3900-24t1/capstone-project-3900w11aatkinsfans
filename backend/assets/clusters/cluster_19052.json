@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't think it's anything serious",
+            "count": 1
+        }
     },
     "clusterList": [
         {

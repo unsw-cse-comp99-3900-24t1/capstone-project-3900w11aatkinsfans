@@ -6,7 +6,10 @@
         "xLabels": [
             "03:30"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who the hell is susan eisenhower and what the hell would she know about anything anyway",
+            "count": 1
+        }
     },
     "clusterList": [
         {

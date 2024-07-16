@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "so"
+        "label": {
+            "phrase": "so homology and cohomology theories rule the day not as powerful as homology groups but infinitely more tractable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

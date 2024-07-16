@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am really trying to get off of the pr bandwagon",
+            "count": 2
+        }
     },
     "clusterList": [
         {

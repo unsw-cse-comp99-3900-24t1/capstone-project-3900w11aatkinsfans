@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are americans and europeans simply more compassionate than asians",
+            "count": 1
+        }
     },
     "clusterList": [
         {

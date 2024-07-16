@@ -6,7 +6,10 @@
         "xLabels": [
             "00:23"
         ],
-        "label": "indiana"
+        "label": {
+            "phrase": "indiana children going hungry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

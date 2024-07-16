@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fact that it is not a glory position",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "jody"
+        "label": {
+            "phrase": "jody i'm worried about you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

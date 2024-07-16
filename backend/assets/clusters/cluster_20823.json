@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "teach"
+        "label": {
+            "phrase": "teach yourself c in 21 days",
+            "count": 1
+        }
     },
     "clusterList": [
         {

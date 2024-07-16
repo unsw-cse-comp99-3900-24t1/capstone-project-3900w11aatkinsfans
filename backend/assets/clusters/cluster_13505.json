@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i didnt expect the news that i heard last night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the government's policy is to filter only a black-list of illegal content maintained by the acma",
+            "count": 1
+        }
     },
     "clusterList": [
         {

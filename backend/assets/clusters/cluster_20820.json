@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not security as a slogan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

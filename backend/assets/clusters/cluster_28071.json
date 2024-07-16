@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the purpose of a national exercise should be to test the adequacy of emergency plans and procedures",
+            "count": 1
+        }
     },
     "clusterList": [
         {

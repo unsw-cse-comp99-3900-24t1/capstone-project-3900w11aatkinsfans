@@ -32,7 +32,10 @@
             "04:42",
             "05:04"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "of all the people",
+            "count": 2
+        }
     },
     "clusterList": [
         {

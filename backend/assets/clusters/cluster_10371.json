@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we write something is amazing in the morning and then total junk in the afternoon",
+            "count": 2
+        }
     },
     "clusterList": [
         {

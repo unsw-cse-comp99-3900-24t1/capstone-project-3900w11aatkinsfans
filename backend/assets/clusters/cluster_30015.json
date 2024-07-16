@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "complete"
+        "label": {
+            "phrase": "complete unedited unchanged unfiltered",
+            "count": 1
+        }
     },
     "clusterList": [
         {

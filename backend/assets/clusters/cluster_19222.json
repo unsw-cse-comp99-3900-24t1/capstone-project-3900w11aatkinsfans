@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one bureaucratic dodge after a",
+            "count": 1
+        }
     },
     "clusterList": [
         {

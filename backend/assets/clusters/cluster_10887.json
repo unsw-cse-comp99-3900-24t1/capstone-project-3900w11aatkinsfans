@@ -8,7 +8,10 @@
             "03:05",
             "03:38"
         ],
-        "label": "warn"
+        "label": {
+            "phrase": "warn pom for x is invalid reason not a v4 0 0 pom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

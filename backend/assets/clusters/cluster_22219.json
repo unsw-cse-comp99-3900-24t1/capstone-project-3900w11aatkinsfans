@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "handwriting"
+        "label": {
+            "phrase": "handwriting without tears",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:08"
         ],
-        "label": "longevity"
+        "label": {
+            "phrase": "longevity is not what wins battles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "kitaro"
+        "label": {
+            "phrase": "kitaro and the millenium cursse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's sit around for a few more weeks and analyze a little more data before we act precipitously",
+            "count": 1
+        }
     },
     "clusterList": [
         {

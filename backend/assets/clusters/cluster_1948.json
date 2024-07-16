@@ -22,7 +22,10 @@
             "02:34",
             "03:12"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "look at this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

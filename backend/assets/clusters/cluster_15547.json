@@ -6,7 +6,10 @@
         "xLabels": [
             "00:32"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what our enemies couldn't do our politicians will",
+            "count": 1
+        }
     },
     "clusterList": [
         {

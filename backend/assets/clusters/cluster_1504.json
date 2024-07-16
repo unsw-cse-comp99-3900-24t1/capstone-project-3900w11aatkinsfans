@@ -20,7 +20,10 @@
             "02:05",
             "02:23"
         ],
-        "label": "let"
+        "label": {
+            "phrase": "let them eat cake",
+            "count": 5
+        }
     },
     "clusterList": [
         {

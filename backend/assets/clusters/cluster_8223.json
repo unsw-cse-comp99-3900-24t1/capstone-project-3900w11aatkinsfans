@@ -6,7 +6,10 @@
         "xLabels": [
             "00:12"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't need a search warrant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

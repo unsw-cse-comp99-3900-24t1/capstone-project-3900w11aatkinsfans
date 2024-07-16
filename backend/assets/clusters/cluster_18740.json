@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "eisenhower"
+        "label": {
+            "phrase": "eisenhower had already handled that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

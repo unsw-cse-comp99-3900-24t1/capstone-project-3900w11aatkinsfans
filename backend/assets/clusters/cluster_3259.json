@@ -16,7 +16,10 @@
             "02:09",
             "02:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "did anyone look at the scoreboard",
+            "count": 3
+        }
     },
     "clusterList": [
         {

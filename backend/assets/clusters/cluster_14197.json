@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look al there's a priest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

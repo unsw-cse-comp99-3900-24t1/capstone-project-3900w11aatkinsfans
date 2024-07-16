@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who treats everyone who works for him like livestock",
+            "count": 2
+        }
     },
     "clusterList": [
         {

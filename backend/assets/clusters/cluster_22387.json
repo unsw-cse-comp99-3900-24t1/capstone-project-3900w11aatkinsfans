@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this bond isn't about slapping another coat of paint on the problem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

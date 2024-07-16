@@ -10,7 +10,10 @@
             "02:33",
             "02:42"
         ],
-        "label": "actions"
+        "label": {
+            "phrase": "actions speak louder than words",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "nope"
+        "label": {
+            "phrase": "nope it's no use you can't even begin to polish this up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

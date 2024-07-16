@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "uhm"
+        "label": {
+            "phrase": "uhm tasty both we're tasty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

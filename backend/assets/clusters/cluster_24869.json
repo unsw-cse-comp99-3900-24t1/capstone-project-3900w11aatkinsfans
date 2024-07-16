@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "scrub"
+        "label": {
+            "phrase": "scrub the club",
+            "count": 1
+        }
     },
     "clusterList": [
         {

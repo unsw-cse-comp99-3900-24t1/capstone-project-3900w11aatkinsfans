@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which one has come off today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

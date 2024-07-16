@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not everybody is going to like you and you can't like everybody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

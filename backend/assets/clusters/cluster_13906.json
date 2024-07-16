@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "staying"
+        "label": {
+            "phrase": "staying the course",
+            "count": 1
+        }
     },
     "clusterList": [
         {

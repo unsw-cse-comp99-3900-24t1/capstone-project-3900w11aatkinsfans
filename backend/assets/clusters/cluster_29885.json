@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the coaches in the state are very good about getting us those films",
+            "count": 1
+        }
     },
     "clusterList": [
         {

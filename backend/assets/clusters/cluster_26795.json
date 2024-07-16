@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i've been thinking about that i've spoken to ayumi this morning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how well do you know the quints",
+            "count": 1
+        }
     },
     "clusterList": [
         {

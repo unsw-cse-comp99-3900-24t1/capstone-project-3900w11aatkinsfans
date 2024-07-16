@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "without"
+        "label": {
+            "phrase": "without quantisation there would be no fundamental uncertainty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

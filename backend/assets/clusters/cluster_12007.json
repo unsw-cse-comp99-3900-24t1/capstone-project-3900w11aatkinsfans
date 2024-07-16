@@ -8,7 +8,10 @@
             "04:28",
             "05:05"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a well-deserved wage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

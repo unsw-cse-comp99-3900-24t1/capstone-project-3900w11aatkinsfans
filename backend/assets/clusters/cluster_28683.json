@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we didn't expect production to be down as much as reported",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's unfortunate that these things happen you try and limit it as much as you can",
+            "count": 1
+        }
     },
     "clusterList": [
         {

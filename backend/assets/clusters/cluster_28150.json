@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a damning statistic and we want to help do something about that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

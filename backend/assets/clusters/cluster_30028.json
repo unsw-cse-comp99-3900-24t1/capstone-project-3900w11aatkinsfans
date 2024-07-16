@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because it's a fresh install on a nice piece of kit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

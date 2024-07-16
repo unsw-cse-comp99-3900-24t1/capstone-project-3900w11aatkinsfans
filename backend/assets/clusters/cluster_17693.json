@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "toyota"
+        "label": {
+            "phrase": "toyota production system",
+            "count": 1
+        }
     },
     "clusterList": [
         {

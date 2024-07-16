@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "eventually"
+        "label": {
+            "phrase": "eventually all teams that upgrade to new engine packages will be subject to this rule modification",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "aerial"
+        "label": {
+            "phrase": "aerial city 008",
+            "count": 1
+        }
     },
     "clusterList": [
         {

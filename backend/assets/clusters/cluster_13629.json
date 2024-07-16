@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a symbol the world is waiting for",
+            "count": 1
+        }
     },
     "clusterList": [
         {

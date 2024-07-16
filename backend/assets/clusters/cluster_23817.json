@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "experienced"
+        "label": {
+            "phrase": "experienced prosecutors not politicians",
+            "count": 1
+        }
     },
     "clusterList": [
         {

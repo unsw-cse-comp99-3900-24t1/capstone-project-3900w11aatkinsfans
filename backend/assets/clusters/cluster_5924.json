@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i wish we could take credit for the number of deaths",
+            "count": 3
+        }
     },
     "clusterList": [
         {

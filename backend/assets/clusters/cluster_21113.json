@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will think twice before deciding such a high-profile case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

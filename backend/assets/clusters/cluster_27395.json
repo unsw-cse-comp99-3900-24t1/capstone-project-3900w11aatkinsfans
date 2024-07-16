@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have become all too common",
+            "count": 1
+        }
     },
     "clusterList": [
         {

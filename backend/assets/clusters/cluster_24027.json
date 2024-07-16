@@ -6,7 +6,10 @@
         "xLabels": [
             "02:59"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you want buy something boat boat how much how much you give me special price for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if x is true do the following chunk of code",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "factionalism"
+        "label": {
+            "phrase": "factionalism has become endemic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you got the softest hands in the world",
+            "count": 3
+        }
     },
     "clusterList": [
         {

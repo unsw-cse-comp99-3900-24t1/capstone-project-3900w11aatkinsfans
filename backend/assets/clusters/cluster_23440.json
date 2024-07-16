@@ -6,7 +6,10 @@
         "xLabels": [
             "02:44"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my brother-in-law sold me to the mashi here when i was 13",
+            "count": 1
+        }
     },
     "clusterList": [
         {

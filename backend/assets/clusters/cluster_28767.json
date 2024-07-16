@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "trip"
+        "label": {
+            "phrase": "trip tek trip computer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

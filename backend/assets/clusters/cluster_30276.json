@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if we don't know it happened we can't do anything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:08"
         ],
-        "label": "financial"
+        "label": {
+            "phrase": "financial planners risk lawsuites for failing to recommend realistic plans for long term care",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the people of this country are ready for bolder more dramatic actions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

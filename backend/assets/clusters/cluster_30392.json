@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's our local news papaw just hold your horses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

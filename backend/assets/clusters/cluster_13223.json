@@ -6,7 +6,10 @@
         "xLabels": [
             "00:08"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we were told where the life jackets were and that was it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

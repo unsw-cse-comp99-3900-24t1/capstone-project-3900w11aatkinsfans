@@ -10,7 +10,10 @@
             "01:52",
             "03:01"
         ],
-        "label": "based"
+        "label": {
+            "phrase": "based on information received today",
+            "count": 2
+        }
     },
     "clusterList": [
         {

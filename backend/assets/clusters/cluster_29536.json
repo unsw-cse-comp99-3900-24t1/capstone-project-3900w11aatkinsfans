@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "jerry"
+        "label": {
+            "phrase": "jerry told angie has a chance to stay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're looking to see if there is anything we can do to make the signal safer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

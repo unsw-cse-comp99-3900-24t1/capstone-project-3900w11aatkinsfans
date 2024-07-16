@@ -16,7 +16,10 @@
             "02:43",
             "04:28"
         ],
-        "label": "watching"
+        "label": {
+            "phrase": "watching the detectives",
+            "count": 2
+        }
     },
     "clusterList": [
         {

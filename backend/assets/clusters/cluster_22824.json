@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is a very interesting conversation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

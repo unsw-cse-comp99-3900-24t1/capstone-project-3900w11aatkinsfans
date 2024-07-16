@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can have your camera tethered to a lap top you can see the image immediately",
+            "count": 1
+        }
     },
     "clusterList": [
         {

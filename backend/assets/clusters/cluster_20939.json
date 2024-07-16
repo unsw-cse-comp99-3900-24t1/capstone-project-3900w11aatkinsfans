@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "right"
+        "label": {
+            "phrase": "right now the only green job in the hood is selling weed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

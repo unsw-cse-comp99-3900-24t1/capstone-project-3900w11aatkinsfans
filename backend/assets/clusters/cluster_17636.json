@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "test"
+        "label": {
+            "phrase": "test drive his tufu-powered lawn mower",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "04:22",
             "05:04"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not my package anymore",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "we'll"
+        "label": {
+            "phrase": "we'll do an activity audit person-by-person",
+            "count": 1
+        }
     },
     "clusterList": [
         {

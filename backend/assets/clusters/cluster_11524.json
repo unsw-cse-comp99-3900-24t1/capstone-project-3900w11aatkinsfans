@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "everybody's"
+        "label": {
+            "phrase": "everybody's car is a motor vehicle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

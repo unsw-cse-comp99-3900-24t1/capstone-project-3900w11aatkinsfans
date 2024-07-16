@@ -10,7 +10,10 @@
             "04:05",
             "04:47"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've replaced my roundhouse kick with this book",
+            "count": 3
+        }
     },
     "clusterList": [
         {

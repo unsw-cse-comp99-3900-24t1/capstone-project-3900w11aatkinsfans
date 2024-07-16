@@ -12,7 +12,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well basically we have",
+            "count": 3
+        }
     },
     "clusterList": [
         {

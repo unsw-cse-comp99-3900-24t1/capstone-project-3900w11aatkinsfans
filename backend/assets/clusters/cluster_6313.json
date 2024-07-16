@@ -10,7 +10,10 @@
             "03:59",
             "04:00"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "you haven't seen the inside of my locker yet",
+            "count": 2
+        }
     },
     "clusterList": [
         {

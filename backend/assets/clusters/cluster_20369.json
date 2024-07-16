@@ -6,7 +6,10 @@
         "xLabels": [
             "01:45"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he sees all the stars from 10-15 feet away",
+            "count": 1
+        }
     },
     "clusterList": [
         {

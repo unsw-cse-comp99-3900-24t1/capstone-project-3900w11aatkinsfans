@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "mass"
+        "label": {
+            "phrase": "mass of men lead lives of quiet desperation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

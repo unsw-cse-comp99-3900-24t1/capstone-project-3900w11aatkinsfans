@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i like to picture this old lady at tokyo bay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

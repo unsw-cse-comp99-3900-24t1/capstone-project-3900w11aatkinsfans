@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's make nelson-tasman violence free",
+            "count": 1
+        }
     },
     "clusterList": [
         {

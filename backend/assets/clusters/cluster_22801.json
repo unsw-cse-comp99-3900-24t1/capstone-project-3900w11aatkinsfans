@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "international"
+        "label": {
+            "phrase": "international alphabet flag",
+            "count": 1
+        }
     },
     "clusterList": [
         {

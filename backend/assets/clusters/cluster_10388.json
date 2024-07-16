@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "illegal"
+        "label": {
+            "phrase": "illegal corporate contributions from the olnick organization",
+            "count": 1
+        }
     },
     "clusterList": [
         {

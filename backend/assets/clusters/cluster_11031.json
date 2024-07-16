@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we see india as a unique case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

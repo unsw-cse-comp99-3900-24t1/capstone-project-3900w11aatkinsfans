@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "hindu"
+        "label": {
+            "phrase": "hindu strong leader",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -16,7 +16,10 @@
             "04:50",
             "04:52"
         ],
-        "label": "god"
+        "label": {
+            "phrase": "the sewerage tank was full",
+            "count": 4
+        }
     },
     "clusterList": [
         {

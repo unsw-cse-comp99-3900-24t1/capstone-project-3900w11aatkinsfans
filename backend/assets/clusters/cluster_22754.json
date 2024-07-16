@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i do run from the bedroom to the laundry room",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the result we've seen today brings to a close a significant chapter in contraband tobacco history",
+            "count": 1
+        }
     },
     "clusterList": [
         {

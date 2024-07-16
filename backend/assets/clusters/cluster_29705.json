@@ -6,7 +6,10 @@
         "xLabels": [
             "04:35"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is kind of difficult to discern what we have",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "lacking"
+        "label": {
+            "phrase": "lacking a sense of humor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my loyalty is to presidents park",
+            "count": 1
+        }
     },
     "clusterList": [
         {

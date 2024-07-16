@@ -14,7 +14,10 @@
             "02:59",
             "03:59"
         ],
-        "label": "slow"
+        "label": {
+            "phrase": "slow train coming",
+            "count": 1
+        }
     },
     "clusterList": [
         {

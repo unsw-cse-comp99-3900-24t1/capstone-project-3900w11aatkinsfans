@@ -10,7 +10,10 @@
             "03:41",
             "04:21"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the meeting already finished",
+            "count": 1
+        }
     },
     "clusterList": [
         {

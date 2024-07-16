@@ -6,7 +6,10 @@
         "xLabels": [
             "04:16"
         ],
-        "label": "clear"
+        "label": {
+            "phrase": "clear body clear mind",
+            "count": 1
+        }
     },
     "clusterList": [
         {

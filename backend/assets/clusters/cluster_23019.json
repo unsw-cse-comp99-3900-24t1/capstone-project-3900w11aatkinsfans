@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "before"
+        "label": {
+            "phrase": "before we do anything i think we",
+            "count": 1
+        }
     },
     "clusterList": [
         {

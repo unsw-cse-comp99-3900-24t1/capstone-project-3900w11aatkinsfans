@@ -6,7 +6,10 @@
         "xLabels": [
             "03:56"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you must be licensed if you care for children from more than one family and who are not related to you you don't need a license if you care for your children or those of a relative and children from only one other family",
+            "count": 1
+        }
     },
     "clusterList": [
         {

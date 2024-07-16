@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes in the offense you can",
+            "count": 1
+        }
     },
     "clusterList": [
         {

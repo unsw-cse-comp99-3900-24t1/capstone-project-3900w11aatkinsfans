@@ -18,7 +18,10 @@
             "02:01",
             "03:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole truth",
+            "count": 2
+        }
     },
     "clusterList": [
         {

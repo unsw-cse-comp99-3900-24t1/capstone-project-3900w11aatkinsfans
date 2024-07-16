@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the patient ctb ceased to breathe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

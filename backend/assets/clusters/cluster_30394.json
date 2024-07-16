@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "who's"
+        "label": {
+            "phrase": "who's controllin the air in here i'm freezin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "its"
+        "label": {
+            "phrase": "its the sat-nav sir",
+            "count": 1
+        }
     },
     "clusterList": [
         {

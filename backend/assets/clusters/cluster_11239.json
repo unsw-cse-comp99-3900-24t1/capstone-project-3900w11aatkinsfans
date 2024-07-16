@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whining has just begun",
+            "count": 2
+        }
     },
     "clusterList": [
         {

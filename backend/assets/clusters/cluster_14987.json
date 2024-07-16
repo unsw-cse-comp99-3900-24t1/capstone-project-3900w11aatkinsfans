@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that is science's little secret we really don't know a lot of what people think we know or what people think we should know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

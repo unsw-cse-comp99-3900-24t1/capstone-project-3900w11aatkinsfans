@@ -8,7 +8,10 @@
             "00:25",
             "03:18"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's one of those bad words",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:13"
         ],
-        "label": "edible-grade"
+        "label": {
+            "phrase": "edible-grade paraffin wax",
+            "count": 1
+        }
     },
     "clusterList": [
         {

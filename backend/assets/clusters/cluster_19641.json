@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no thomas we all did it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

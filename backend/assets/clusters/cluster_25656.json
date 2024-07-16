@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i took it all in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

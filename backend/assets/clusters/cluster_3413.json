@@ -16,7 +16,10 @@
             "04:26",
             "04:33"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my memory is a little foggy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

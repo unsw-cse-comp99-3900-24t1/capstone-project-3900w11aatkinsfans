@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once you're a couple i believe in alternating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

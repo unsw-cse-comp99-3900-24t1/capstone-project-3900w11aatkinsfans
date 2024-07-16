@@ -12,7 +12,10 @@
             "03:02",
             "03:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the black cat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

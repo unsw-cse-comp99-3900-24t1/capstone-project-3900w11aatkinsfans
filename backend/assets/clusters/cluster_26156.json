@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "merge"
+        "label": {
+            "phrase": "merge right to exit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

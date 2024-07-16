@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two cute proofs of the isoperimetric inequality",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as shown in the second chart based on very reliable satellite data which have been confirmed by measurements from weather balloons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good things come out of tragedies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

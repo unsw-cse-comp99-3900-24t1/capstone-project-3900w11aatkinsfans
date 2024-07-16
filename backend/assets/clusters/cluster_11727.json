@@ -8,7 +8,10 @@
             "00:29",
             "04:46"
         ],
-        "label": "pain"
+        "label": {
+            "phrase": "pain can be controlled you just disconnect it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

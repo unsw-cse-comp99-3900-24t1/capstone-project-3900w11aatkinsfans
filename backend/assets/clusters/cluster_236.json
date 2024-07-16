@@ -70,7 +70,10 @@
             "04:45",
             "04:46"
         ],
-        "label": "world"
+        "label": {
+            "phrase": "world of warcraft",
+            "count": 9
+        }
     },
     "clusterList": [
         {

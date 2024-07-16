@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "pregnant"
+        "label": {
+            "phrase": "pregnant duh what's that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "grandstanding"
+        "label": {
+            "phrase": "grandstanding before the media",
+            "count": 1
+        }
     },
     "clusterList": [
         {

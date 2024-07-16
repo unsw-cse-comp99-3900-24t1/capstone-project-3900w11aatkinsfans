@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best deals can be right in your own backyard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

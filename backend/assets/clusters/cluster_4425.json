@@ -12,7 +12,10 @@
             "00:37",
             "00:48"
         ],
-        "label": "frequently"
+        "label": {
+            "phrase": "frequently people will have some kind of identification",
+            "count": 3
+        }
     },
     "clusterList": [
         {

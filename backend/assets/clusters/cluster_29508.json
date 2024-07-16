@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my key and strokes are not my own",
+            "count": 1
+        }
     },
     "clusterList": [
         {

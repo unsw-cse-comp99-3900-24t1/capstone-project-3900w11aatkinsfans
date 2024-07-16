@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "would"
+        "label": {
+            "phrase": "would you pass would you mind",
+            "count": 1
+        }
     },
     "clusterList": [
         {

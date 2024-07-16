@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "outro"
+        "label": {
+            "phrase": "outro live in nashville",
+            "count": 1
+        }
     },
     "clusterList": [
         {

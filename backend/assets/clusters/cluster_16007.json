@@ -6,7 +6,10 @@
         "xLabels": [
             "00:41"
         ],
-        "label": "having"
+        "label": {
+            "phrase": "having a french petit d jeuner sitting outside at a cafe on a sunny morning in paris",
+            "count": 1
+        }
     },
     "clusterList": [
         {

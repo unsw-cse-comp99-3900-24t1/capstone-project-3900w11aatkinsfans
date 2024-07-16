@@ -10,7 +10,10 @@
             "01:01",
             "02:20"
         ],
-        "label": "out"
+        "label": {
+            "phrase": "out here grindin",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lot of players get in trouble because they want everyone around them to lead the same lifestyle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

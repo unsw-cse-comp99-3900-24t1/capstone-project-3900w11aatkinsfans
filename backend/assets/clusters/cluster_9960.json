@@ -8,7 +8,10 @@
             "00:05",
             "02:00"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then take it with you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the boy should have had thicker skin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

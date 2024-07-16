@@ -8,7 +8,10 @@
             "04:23",
             "04:29"
         ],
-        "label": "letters"
+        "label": {
+            "phrase": "letters of direction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

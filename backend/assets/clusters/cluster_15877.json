@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "models"
+        "label": {
+            "phrase": "models of urban dynamics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

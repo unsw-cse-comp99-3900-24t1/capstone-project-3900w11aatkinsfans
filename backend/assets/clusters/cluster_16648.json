@@ -6,7 +6,10 @@
         "xLabels": [
             "00:51"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey hey we're the monkees",
+            "count": 1
+        }
     },
     "clusterList": [
         {

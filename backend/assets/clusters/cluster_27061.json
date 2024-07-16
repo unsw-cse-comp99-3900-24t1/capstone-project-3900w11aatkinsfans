@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "tridion"
+        "label": {
+            "phrase": "tridion safety cell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

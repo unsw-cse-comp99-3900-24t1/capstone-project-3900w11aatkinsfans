@@ -32,7 +32,10 @@
             "04:18",
             "04:24"
         ],
-        "label": "send"
+        "label": {
+            "phrase": "send me an email",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -20,7 +20,10 @@
             "02:43",
             "04:38"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "i bought em",
+            "count": 6
+        }
     },
     "clusterList": [
         {

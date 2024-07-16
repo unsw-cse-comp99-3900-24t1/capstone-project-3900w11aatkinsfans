@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best synth site on the web always updated always interesting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

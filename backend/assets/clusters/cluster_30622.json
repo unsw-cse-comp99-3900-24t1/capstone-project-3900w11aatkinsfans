@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "trust"
+        "label": {
+            "phrase": "trust the pattern even if it doesn't make sense at first",
+            "count": 1
+        }
     },
     "clusterList": [
         {

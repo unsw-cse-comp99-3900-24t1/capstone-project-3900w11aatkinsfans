@@ -22,7 +22,10 @@
             "03:51",
             "04:32"
         ],
-        "label": "friends"
+        "label": {
+            "phrase": "the o'reilly factor",
+            "count": 12
+        }
     },
     "clusterList": [
         {

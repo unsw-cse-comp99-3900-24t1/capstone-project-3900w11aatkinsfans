@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a day after challenging stephane dion to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

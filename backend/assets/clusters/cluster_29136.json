@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "negotiate"
+        "label": {
+            "phrase": "negotiate the successful refinancing or restructuring of the group's capital structure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "known"
+        "label": {
+            "phrase": "known as the fidgeter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

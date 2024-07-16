@@ -6,7 +6,10 @@
         "xLabels": [
             "03:33"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the installed version of the application could not be determined the setup will now terminate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

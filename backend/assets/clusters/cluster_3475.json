@@ -12,7 +12,10 @@
             "02:10",
             "04:15"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my violent heart",
+            "count": 2
+        }
     },
     "clusterList": [
         {

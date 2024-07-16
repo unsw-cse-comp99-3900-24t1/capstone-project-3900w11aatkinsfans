@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's been a while since i took geometry it's been even longer since you took geometry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

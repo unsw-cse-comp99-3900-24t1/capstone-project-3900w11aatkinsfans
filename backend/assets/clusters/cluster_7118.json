@@ -10,7 +10,10 @@
             "02:51",
             "03:42"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it says with a smiley face",
+            "count": 1
+        }
     },
     "clusterList": [
         {

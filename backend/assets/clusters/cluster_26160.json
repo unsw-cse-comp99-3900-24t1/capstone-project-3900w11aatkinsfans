@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "pulling"
+        "label": {
+            "phrase": "pulling tests from the specification",
+            "count": 1
+        }
     },
     "clusterList": [
         {

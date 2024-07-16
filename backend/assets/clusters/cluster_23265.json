@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the delay was mainly because of montreal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

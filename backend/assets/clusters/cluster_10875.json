@@ -8,7 +8,10 @@
             "02:39",
             "04:05"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no don't do it comparing apples and oranges is wrong",
+            "count": 1
+        }
     },
     "clusterList": [
         {

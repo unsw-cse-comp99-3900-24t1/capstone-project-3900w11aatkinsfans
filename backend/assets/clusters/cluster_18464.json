@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "bloombecker"
+        "label": {
+            "phrase": "bloombecker wanted to destroy my life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "would"
+        "label": {
+            "phrase": "would that be one hump or two ma'am",
+            "count": 1
+        }
     },
     "clusterList": [
         {

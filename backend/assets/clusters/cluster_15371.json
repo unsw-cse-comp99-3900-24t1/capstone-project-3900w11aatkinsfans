@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "economic"
+        "label": {
+            "phrase": "economic recovery act of 2006",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "see"
+        "label": {
+            "phrase": "see you at the cake box",
+            "count": 1
+        }
     },
     "clusterList": [
         {

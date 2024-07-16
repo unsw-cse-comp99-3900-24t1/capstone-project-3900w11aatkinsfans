@@ -32,7 +32,10 @@
             "04:41",
             "04:45"
         ],
-        "label": "kids"
+        "label": {
+            "phrase": "where do the children play",
+            "count": 2
+        }
     },
     "clusterList": [
         {

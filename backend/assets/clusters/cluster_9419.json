@@ -8,7 +8,10 @@
             "01:05",
             "03:23"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there isn't enough science to determine what the dynamics of this population are",
+            "count": 2
+        }
     },
     "clusterList": [
         {

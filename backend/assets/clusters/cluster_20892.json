@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "connection"
+        "label": {
+            "phrase": "connection gt ssh gt auth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

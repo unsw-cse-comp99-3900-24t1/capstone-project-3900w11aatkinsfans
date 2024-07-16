@@ -6,7 +6,10 @@
         "xLabels": [
             "02:34"
         ],
-        "label": "ask"
+        "label": {
+            "phrase": "ask farina tomorrow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

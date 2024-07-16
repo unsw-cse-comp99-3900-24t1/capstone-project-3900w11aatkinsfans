@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are just showing the data published in a way that is consistent with the way every other agency publishes their data",
+            "count": 1
+        }
     },
     "clusterList": [
         {

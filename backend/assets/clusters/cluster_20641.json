@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i would like to book a facial with you between aug 13-17",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have lawyers doctors executives pretty much anyone and everyone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

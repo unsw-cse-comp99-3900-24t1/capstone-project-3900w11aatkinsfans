@@ -8,7 +8,10 @@
             "00:12",
             "03:15"
         ],
-        "label": "inland"
+        "label": {
+            "phrase": "inland intermodal center",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "owned"
+        "label": {
+            "phrase": "owned and occupied",
+            "count": 1
+        }
     },
     "clusterList": [
         {

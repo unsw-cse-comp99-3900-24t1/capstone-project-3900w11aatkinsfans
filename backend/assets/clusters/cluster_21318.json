@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "twiddles"
+        "label": {
+            "phrase": "twiddles and mopsy go to the zoo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

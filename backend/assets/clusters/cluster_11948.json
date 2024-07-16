@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the crate escape",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we do limit the surface area of the gallium cells",
+            "count": 1
+        }
     },
     "clusterList": [
         {

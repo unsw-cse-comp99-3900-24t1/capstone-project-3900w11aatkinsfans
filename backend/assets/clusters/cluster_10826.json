@@ -8,7 +8,10 @@
             "02:33",
             "04:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the boy who cried wolf and other bedtime stories",
+            "count": 1
+        }
     },
     "clusterList": [
         {

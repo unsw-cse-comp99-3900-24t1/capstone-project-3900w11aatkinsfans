@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "wow"
+        "label": {
+            "phrase": "wow god is really doing something amazing in the atlanta area",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:47"
         ],
-        "label": "307"
+        "label": {
+            "phrase": "307 temporary redirect",
+            "count": 1
+        }
     },
     "clusterList": [
         {

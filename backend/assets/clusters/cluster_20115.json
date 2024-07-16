@@ -6,7 +6,10 @@
         "xLabels": [
             "01:40"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it should have been a long time ago before we got in such a bad situation here but at least they're doing something before we lose all the kids",
+            "count": 1
+        }
     },
     "clusterList": [
         {

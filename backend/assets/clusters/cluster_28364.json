@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey why didn't i meet you before mickey",
+            "count": 1
+        }
     },
     "clusterList": [
         {

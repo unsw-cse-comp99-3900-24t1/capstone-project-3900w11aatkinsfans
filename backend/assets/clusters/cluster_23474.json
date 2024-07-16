@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i want information not opinions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

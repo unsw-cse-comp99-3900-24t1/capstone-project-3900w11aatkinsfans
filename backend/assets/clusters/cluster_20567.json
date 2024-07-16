@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to collect the whole set",
+            "count": 1
+        }
     },
     "clusterList": [
         {

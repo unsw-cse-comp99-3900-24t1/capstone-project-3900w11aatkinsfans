@@ -6,7 +6,10 @@
         "xLabels": [
             "00:47"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if they have a sensor that can detect differences in balance it is fairly easy to train the elderly using physical therapy to improve their balance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

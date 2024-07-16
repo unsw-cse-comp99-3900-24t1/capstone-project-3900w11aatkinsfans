@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh it's his last movie 10 10",
+            "count": 1
+        }
     },
     "clusterList": [
         {

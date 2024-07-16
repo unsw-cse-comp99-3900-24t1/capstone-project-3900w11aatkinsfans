@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've seen some cases where people are slow to adopt vm because they haven't gotten their arms around this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

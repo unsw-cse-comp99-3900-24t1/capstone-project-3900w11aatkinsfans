@@ -36,7 +36,10 @@
             "04:36",
             "05:05"
         ],
-        "label": "anytime"
+        "label": {
+            "phrase": "finally it's here",
+            "count": 4
+        }
     },
     "clusterList": [
         {

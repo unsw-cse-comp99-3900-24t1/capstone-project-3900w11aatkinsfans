@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how many pairs of shoes do you have again principessa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -46,7 +46,10 @@
             "05:04",
             "05:05"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a potential market for luxury advertisers",
+            "count": 2
+        }
     },
     "clusterList": [
         {

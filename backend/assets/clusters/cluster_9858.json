@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we think tomotherapy is the most advanced image-guided system for radiotherapy with an integrated functionality for imaging and localisation of the target volume it also produces the most advantageous dose distributions for imrt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

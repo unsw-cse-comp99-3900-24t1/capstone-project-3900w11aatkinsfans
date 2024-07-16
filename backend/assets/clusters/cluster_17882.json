@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you set this is gonna be a rough ride",
+            "count": 1
+        }
     },
     "clusterList": [
         {

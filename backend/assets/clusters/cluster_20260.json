@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in such a case",
+            "count": 1
+        }
     },
     "clusterList": [
         {

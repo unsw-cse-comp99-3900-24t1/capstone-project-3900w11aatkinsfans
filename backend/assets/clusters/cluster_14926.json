@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hippy dippy weatherman",
+            "count": 1
+        }
     },
     "clusterList": [
         {

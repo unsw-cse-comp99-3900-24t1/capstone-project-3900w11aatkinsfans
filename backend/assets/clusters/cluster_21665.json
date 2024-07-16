@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "paint"
+        "label": {
+            "phrase": "paint the rust",
+            "count": 1
+        }
     },
     "clusterList": [
         {

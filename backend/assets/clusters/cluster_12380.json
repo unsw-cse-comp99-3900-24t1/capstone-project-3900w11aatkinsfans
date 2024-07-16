@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my kids take the bus whenever they need to go to the hub a teen hangout at patch barracks or to a movie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

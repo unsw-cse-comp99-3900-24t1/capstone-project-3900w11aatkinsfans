@@ -8,7 +8,10 @@
             "02:16",
             "04:15"
         ],
-        "label": "nobel"
+        "label": {
+            "phrase": "nobel prize awarded to ban me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

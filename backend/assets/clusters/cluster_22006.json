@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "everybody"
+        "label": {
+            "phrase": "everybody around here passed through yusuf he touched all of them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "new"
+        "label": {
+            "phrase": "new and noteworthy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

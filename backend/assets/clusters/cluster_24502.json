@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "sundance"
+        "label": {
+            "phrase": "sundance is weird the movies are weird you actually have to think about them when you watch them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

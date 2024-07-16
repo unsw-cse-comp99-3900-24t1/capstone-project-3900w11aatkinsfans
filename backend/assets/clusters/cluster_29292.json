@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "celebraty"
+        "label": {
+            "phrase": "celebraty over night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

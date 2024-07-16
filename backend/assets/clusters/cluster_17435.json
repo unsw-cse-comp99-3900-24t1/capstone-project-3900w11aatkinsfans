@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the website is down amazingly hilarious video",
+            "count": 1
+        }
     },
     "clusterList": [
         {

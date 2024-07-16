@@ -6,7 +6,10 @@
         "xLabels": [
             "04:40"
         ],
-        "label": "reserved"
+        "label": {
+            "phrase": "reserved for witches only",
+            "count": 1
+        }
     },
     "clusterList": [
         {

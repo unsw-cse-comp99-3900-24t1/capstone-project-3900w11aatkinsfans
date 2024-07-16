@@ -10,7 +10,10 @@
             "02:37",
             "04:41"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who have a great personality",
+            "count": 1
+        }
     },
     "clusterList": [
         {

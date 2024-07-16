@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look what the cat dragged in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

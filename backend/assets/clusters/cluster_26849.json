@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you give a criminal the opportunity sooner or later someone's going to come along and take it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

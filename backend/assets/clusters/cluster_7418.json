@@ -10,7 +10,10 @@
             "03:51",
             "03:59"
         ],
-        "label": "somewhere"
+        "label": {
+            "phrase": "somewhere franklin and jefferson are smiling",
+            "count": 3
+        }
     },
     "clusterList": [
         {

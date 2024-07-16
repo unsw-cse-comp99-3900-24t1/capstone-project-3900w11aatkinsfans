@@ -18,7 +18,10 @@
             "02:15",
             "04:32"
         ],
-        "label": "funny"
+        "label": {
+            "phrase": "what's in a name",
+            "count": 2
+        }
     },
     "clusterList": [
         {

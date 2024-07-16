@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my hat's off to elisson all hail elisson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

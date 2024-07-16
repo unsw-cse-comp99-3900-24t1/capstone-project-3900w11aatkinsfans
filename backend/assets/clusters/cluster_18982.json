@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's a commitment they'll stick to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

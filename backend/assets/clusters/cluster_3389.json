@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "memoirs"
+        "label": {
+            "phrase": "memoirs of an illegal alien",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "chicks"
+        "label": {
+            "phrase": "chicks with guns",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "besides"
+        "label": {
+            "phrase": "besides it doesn't cost any more to be positive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

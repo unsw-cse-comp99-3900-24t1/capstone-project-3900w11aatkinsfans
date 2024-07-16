@@ -16,7 +16,10 @@
             "02:42",
             "03:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "every small town every little place has its own jealously guarded water systems most of which have inadequate treatment",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the defendant argues that it is irrelevant whether or not the producers intended to portray king in a negative light",
+            "count": 1
+        }
     },
     "clusterList": [
         {

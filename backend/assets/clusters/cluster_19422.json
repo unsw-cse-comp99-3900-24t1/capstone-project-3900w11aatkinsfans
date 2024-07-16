@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "straight"
+        "label": {
+            "phrase": "straight as students",
+            "count": 1
+        }
     },
     "clusterList": [
         {

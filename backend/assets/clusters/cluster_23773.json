@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if a disc is defective about 1 in 500 it will not be replaced",
+            "count": 1
+        }
     },
     "clusterList": [
         {

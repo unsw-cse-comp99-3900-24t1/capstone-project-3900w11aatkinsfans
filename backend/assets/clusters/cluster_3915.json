@@ -8,7 +8,10 @@
             "01:30",
             "01:37"
         ],
-        "label": "simon"
+        "label": {
+            "phrase": "simon son of john do you love me",
+            "count": 2
+        }
     },
     "clusterList": [
         {

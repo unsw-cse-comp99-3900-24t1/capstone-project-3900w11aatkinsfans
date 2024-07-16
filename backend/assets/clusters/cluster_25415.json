@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "horton"
+        "label": {
+            "phrase": "horton hears a who",
+            "count": 1
+        }
     },
     "clusterList": [
         {

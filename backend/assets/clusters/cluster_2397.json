@@ -18,7 +18,10 @@
             "04:45",
             "04:54"
         ],
-        "label": "bridge"
+        "label": {
+            "phrase": "bridge to nowhere",
+            "count": 6
+        }
     },
     "clusterList": [
         {

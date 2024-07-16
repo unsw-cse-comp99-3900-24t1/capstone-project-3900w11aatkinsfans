@@ -6,7 +6,10 @@
         "xLabels": [
             "04:44"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are no extended stays in berkeley",
+            "count": 1
+        }
     },
     "clusterList": [
         {

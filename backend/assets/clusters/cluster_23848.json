@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "twelve"
+        "label": {
+            "phrase": "twelve commandments of active listening",
+            "count": 1
+        }
     },
     "clusterList": [
         {

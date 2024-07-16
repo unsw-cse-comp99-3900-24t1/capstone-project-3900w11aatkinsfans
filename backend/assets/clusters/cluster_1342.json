@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a clip of",
+            "count": 6
+        }
     },
     "clusterList": [
         {

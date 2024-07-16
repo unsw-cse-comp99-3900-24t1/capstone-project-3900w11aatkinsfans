@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "face"
+        "label": {
+            "phrase": "face to face part 1",
+            "count": 1
+        }
     },
     "clusterList": [
         {

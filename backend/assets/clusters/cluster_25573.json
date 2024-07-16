@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "seriously"
+        "label": {
+            "phrase": "seriously consider eliminating the penny",
+            "count": 1
+        }
     },
     "clusterList": [
         {

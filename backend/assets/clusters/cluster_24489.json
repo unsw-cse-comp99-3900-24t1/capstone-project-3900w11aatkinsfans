@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "superman"
+        "label": {
+            "phrase": "superman is how america sees itself batman is how the world sees america",
+            "count": 1
+        }
     },
     "clusterList": [
         {

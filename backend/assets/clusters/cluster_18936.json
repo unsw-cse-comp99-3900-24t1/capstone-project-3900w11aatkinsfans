@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my role with brandon will be more as a veto voice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

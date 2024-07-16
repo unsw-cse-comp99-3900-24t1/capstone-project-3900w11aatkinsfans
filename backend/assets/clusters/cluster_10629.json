@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "domestic"
+        "label": {
+            "phrase": "domestic partnership equality act of 2006",
+            "count": 1
+        }
     },
     "clusterList": [
         {

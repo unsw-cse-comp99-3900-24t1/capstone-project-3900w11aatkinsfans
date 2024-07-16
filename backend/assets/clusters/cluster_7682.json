@@ -10,7 +10,10 @@
             "02:06",
             "04:00"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one day that'll be you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

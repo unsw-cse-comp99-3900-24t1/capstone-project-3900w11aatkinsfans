@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "through"
+        "label": {
+            "phrase": "through the viewfinder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

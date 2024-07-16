@@ -14,7 +14,10 @@
             "01:18",
             "02:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the design team was heading to minnesota for a glass manufacturing meeting",
+            "count": 5
+        }
     },
     "clusterList": [
         {

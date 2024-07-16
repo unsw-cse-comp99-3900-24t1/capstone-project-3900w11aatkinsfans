@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "welcome"
+        "label": {
+            "phrase": "welcome to the nfl type hit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

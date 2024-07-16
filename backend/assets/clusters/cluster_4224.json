@@ -12,7 +12,10 @@
             "02:46",
             "03:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the overall result of the conference was a resounding success as all the objectives were met",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "commercial"
+        "label": {
+            "phrase": "commercial buildings like that one would qualify",
+            "count": 1
+        }
     },
     "clusterList": [
         {

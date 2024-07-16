@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all those other guys",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "risky"
+        "label": {
+            "phrase": "risky and grown-up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

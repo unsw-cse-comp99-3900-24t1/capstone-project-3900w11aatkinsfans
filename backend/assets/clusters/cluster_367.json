@@ -54,7 +54,10 @@
             "04:45",
             "04:50"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "work with the other side",
+            "count": 7
+        }
     },
     "clusterList": [
         {

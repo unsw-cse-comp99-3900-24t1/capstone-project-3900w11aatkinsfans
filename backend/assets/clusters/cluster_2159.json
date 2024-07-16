@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "failblogcommenter"
+        "label": {
+            "phrase": "failblogcommenter you is going to die today",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the bag looks like it held up better than the conference did",
+            "count": 1
+        }
     },
     "clusterList": [
         {

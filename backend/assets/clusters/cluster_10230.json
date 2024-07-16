@@ -8,7 +8,10 @@
             "02:32",
             "02:44"
         ],
-        "label": "beagles"
+        "label": {
+            "phrase": "beagles are one big nose on four legs and they're fast",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fire grew so rapidly that the u s coast guard was called in for an emergency rescue by helicopter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

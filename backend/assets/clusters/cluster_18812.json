@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the beat generation and the angry young man",
+            "count": 1
+        }
     },
     "clusterList": [
         {

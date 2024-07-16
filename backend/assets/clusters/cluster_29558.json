@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you found everything to your liking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

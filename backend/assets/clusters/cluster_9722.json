@@ -8,7 +8,10 @@
             "01:21",
             "04:27"
         ],
-        "label": "download"
+        "label": {
+            "phrase": "download 15-day trial",
+            "count": 1
+        }
     },
     "clusterList": [
         {

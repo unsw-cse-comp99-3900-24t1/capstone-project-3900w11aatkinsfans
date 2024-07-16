@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the initiative to rename the sewage treatment plant after the outgoing commander-in-chief",
+            "count": 1
+        }
     },
     "clusterList": [
         {

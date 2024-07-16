@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "trouble"
+        "label": {
+            "phrase": "trouble comes looking for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "satisfied"
+        "label": {
+            "phrase": "satisfied by the story",
+            "count": 1
+        }
     },
     "clusterList": [
         {

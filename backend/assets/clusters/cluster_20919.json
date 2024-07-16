@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "crouching"
+        "label": {
+            "phrase": "crouching snowmen renewed dragon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

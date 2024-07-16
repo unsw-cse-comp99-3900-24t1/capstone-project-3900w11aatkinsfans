@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "swallowing"
+        "label": {
+            "phrase": "swallowing their pride",
+            "count": 1
+        }
     },
     "clusterList": [
         {

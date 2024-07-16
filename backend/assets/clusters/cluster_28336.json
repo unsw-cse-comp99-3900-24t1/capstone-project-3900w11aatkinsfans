@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "stress"
+        "label": {
+            "phrase": "stress fracture of her left lemur",
+            "count": 1
+        }
     },
     "clusterList": [
         {

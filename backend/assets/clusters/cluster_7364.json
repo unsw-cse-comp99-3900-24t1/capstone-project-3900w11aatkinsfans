@@ -10,7 +10,10 @@
             "03:05",
             "03:35"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do i get another run",
+            "count": 1
+        }
     },
     "clusterList": [
         {

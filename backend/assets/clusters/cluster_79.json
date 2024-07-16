@@ -104,7 +104,10 @@
             "04:59",
             "05:04"
         ],
-        "label": "tales"
+        "label": {
+            "phrase": "tales of beedle the bard",
+            "count": 8
+        }
     },
     "clusterList": [
         {

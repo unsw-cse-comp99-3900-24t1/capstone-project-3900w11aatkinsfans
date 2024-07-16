@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "rose"
+        "label": {
+            "phrase": "rose the doe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

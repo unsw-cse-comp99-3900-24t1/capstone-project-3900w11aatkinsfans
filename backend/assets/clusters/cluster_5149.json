@@ -12,7 +12,10 @@
             "02:46",
             "04:13"
         ],
-        "label": "certificate"
+        "label": {
+            "phrase": "certificate of public necessity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

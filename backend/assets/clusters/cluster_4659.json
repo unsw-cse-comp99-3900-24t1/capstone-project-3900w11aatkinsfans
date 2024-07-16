@@ -12,7 +12,10 @@
             "01:37",
             "02:18"
         ],
-        "label": "warning"
+        "label": {
+            "phrase": "don't create a gamertag or motto that references controversial religious topics notorious people organizations or sensitive current or historical events that may also be considered inappropriate",
+            "count": 2
+        }
     },
     "clusterList": [
         {

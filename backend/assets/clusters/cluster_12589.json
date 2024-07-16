@@ -6,7 +6,10 @@
         "xLabels": [
             "00:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i know what the people of ararat like and they know when i'm not cooking mrs hevey said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

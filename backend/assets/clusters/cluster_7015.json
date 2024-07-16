@@ -10,7 +10,10 @@
             "03:41",
             "04:27"
         ],
-        "label": "oops"
+        "label": {
+            "phrase": "oops i did something wrong to the post",
+            "count": 1
+        }
     },
     "clusterList": [
         {

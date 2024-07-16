@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just another way to snoop on us all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

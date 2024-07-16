@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the time for action is now the time of excuses and explanations is long past",
+            "count": 1
+        }
     },
     "clusterList": [
         {

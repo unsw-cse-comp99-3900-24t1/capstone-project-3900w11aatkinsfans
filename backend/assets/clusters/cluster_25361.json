@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your scales are changing that's interesting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

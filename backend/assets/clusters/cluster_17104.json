@@ -6,7 +6,10 @@
         "xLabels": [
             "00:56"
         ],
-        "label": "balanced"
+        "label": {
+            "phrase": "balanced menu of options",
+            "count": 1
+        }
     },
     "clusterList": [
         {

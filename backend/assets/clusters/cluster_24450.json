@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because we believe stripe delivers what australia wants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

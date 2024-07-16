@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "ascii"
+        "label": {
+            "phrase": "ascii encoded binary string automated sql injection attack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

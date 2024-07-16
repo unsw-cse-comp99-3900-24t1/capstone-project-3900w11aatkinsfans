@@ -12,7 +12,10 @@
             "03:18",
             "03:45"
         ],
-        "label": "wow"
+        "label": {
+            "phrase": "wow i did that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

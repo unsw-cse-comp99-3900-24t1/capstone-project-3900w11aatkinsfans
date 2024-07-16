@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "her"
+        "label": {
+            "phrase": "her royal highness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

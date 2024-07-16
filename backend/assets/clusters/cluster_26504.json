@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please don't torture yourself like this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

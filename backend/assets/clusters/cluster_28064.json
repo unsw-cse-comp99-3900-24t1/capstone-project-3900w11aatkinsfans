@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "national"
+        "label": {
+            "phrase": "national response framework",
+            "count": 1
+        }
     },
     "clusterList": [
         {

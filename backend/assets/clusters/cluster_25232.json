@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no klump it's something more long-term than that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

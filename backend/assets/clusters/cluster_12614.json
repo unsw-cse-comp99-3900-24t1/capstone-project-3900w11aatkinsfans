@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mint is just a vehicle for the chocolate",
+            "count": 1
+        }
     },
     "clusterList": [
         {

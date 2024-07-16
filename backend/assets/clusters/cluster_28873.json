@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "excuse"
+        "label": {
+            "phrase": "excuse me may i have a cart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

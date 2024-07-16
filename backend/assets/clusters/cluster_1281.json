@@ -28,7 +28,10 @@
             "04:46",
             "04:55"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this city is going to rebuild",
+            "count": 4
+        }
     },
     "clusterList": [
         {

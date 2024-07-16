@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "cormarant"
+        "label": {
+            "phrase": "cormarant launches from submarine to the skies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

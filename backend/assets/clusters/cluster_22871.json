@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "certainly"
+        "label": {
+            "phrase": "certainly ease the situation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

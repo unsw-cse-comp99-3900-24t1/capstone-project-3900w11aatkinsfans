@@ -6,7 +6,10 @@
         "xLabels": [
             "00:18"
         ],
-        "label": "crossing"
+        "label": {
+            "phrase": "crossing wires its not stealing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

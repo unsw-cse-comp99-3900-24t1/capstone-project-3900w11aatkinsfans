@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "feed"
+        "label": {
+            "phrase": "feed my head",
+            "count": 1
+        }
     },
     "clusterList": [
         {

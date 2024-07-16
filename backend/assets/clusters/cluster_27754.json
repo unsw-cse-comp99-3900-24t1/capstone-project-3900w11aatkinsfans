@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "teaching"
+        "label": {
+            "phrase": "teaching people how to take care of their hair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

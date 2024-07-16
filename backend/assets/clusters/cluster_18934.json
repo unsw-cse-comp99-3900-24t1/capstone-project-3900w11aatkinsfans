@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "although"
+        "label": {
+            "phrase": "although i think in this case community input will weigh heavily",
+            "count": 1
+        }
     },
     "clusterList": [
         {

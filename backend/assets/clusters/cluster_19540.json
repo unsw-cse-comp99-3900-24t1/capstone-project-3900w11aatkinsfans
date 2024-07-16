@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in the same sentence which is always good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

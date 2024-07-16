@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have had so many managers over the last couple of years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "04:23",
             "04:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the big powers are going down",
+            "count": 4
+        }
     },
     "clusterList": [
         {

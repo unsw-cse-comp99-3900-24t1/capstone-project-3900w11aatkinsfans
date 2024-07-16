@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's one of the tools we have to use and they're effective in some circumstances and not in others",
+            "count": 1
+        }
     },
     "clusterList": [
         {

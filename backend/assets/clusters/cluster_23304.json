@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if we could have bought 24 hours time this may have never happened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

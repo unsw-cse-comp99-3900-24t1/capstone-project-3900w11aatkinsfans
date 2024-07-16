@@ -22,7 +22,10 @@
             "04:04",
             "04:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "adhere to the principles and rules",
+            "count": 2
+        }
     },
     "clusterList": [
         {

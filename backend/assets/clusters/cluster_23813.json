@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "having"
+        "label": {
+            "phrase": "having a relay each year reminds people the importance of having regular checkups",
+            "count": 1
+        }
     },
     "clusterList": [
         {

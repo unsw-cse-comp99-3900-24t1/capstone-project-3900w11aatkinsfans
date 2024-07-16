@@ -6,7 +6,10 @@
         "xLabels": [
             "00:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the woman was going to get a lighter sentence but as i understand it because i showed up and gave an impact statement the sentence was harsher",
+            "count": 1
+        }
     },
     "clusterList": [
         {

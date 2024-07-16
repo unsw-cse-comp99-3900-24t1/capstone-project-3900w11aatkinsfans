@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm always here on the 31st",
+            "count": 1
+        }
     },
     "clusterList": [
         {

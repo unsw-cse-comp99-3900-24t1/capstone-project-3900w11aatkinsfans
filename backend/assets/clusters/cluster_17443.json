@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "postcards"
+        "label": {
+            "phrase": "postcards from the funny farm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

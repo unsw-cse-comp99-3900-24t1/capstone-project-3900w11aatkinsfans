@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if we're interested in a player i usually talk to him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:51"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a very unstable part of the world and i don't need it to be more unstable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

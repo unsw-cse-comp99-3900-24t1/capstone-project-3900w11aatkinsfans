@@ -8,7 +8,10 @@
             "00:21",
             "02:18"
         ],
-        "label": "explorer"
+        "label": {
+            "phrase": "explorer exe filename shell",
+            "count": 1
+        }
     },
     "clusterList": [
         {

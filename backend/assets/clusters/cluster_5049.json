@@ -12,7 +12,10 @@
             "02:11",
             "02:23"
         ],
-        "label": "journal"
+        "label": {
+            "phrase": "journal of evolutionary psychology",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "bif"
+        "label": {
+            "phrase": "bif returnonlyfsdirs bif nonewfolderbutton bif usenewui",
+            "count": 1
+        }
     },
     "clusterList": [
         {

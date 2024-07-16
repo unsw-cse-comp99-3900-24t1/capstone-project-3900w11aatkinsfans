@@ -12,7 +12,10 @@
             "01:20",
             "01:23"
         ],
-        "label": "body"
+        "label": {
+            "phrase": "the grand deception",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "tips"
+        "label": {
+            "phrase": "tips for news reporters covering the unitarian universalist church",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "sicilian"
+        "label": {
+            "phrase": "sicilian mother ii",
+            "count": 1
+        }
     },
     "clusterList": [
         {

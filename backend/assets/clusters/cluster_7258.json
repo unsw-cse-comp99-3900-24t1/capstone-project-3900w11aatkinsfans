@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look lizard-boy you're trespassing on our turf",
+            "count": 1
+        }
     },
     "clusterList": [
         {

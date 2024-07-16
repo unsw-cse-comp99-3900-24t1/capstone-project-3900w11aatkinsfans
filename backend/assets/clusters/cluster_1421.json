@@ -26,7 +26,10 @@
             "04:46",
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the day has come",
+            "count": 2
+        }
     },
     "clusterList": [
         {

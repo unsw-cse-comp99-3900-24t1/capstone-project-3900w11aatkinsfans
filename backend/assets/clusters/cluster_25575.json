@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "empire"
+        "label": {
+            "phrase": "empire center for new york state policy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

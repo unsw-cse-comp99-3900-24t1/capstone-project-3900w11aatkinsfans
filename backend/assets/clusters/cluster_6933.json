@@ -10,7 +10,10 @@
             "02:01",
             "02:10"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have some responsibility because i went and made another movie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

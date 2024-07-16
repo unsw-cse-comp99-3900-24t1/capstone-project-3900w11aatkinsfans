@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we meet at 12 with art from",
+            "count": 1
+        }
     },
     "clusterList": [
         {

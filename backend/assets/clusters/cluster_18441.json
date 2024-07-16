@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but it's basically for the parts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

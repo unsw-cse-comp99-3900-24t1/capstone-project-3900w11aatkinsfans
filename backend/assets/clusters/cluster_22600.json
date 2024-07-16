@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you politiked out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

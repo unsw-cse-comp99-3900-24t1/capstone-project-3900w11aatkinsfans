@@ -10,7 +10,10 @@
             "01:29",
             "02:39"
         ],
-        "label": "needed"
+        "label": {
+            "phrase": "needed more training",
+            "count": 1
+        }
     },
     "clusterList": [
         {

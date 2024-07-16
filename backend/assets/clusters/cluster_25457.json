@@ -6,7 +6,10 @@
         "xLabels": [
             "03:20"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you start small and you discover you love it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

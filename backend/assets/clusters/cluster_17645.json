@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the future is today because new fiber and resin are available every day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

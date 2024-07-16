@@ -10,7 +10,10 @@
             "02:32",
             "04:06"
         ],
-        "label": "mayberry"
+        "label": {
+            "phrase": "mayberry inside the capital beltway",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:28",
             "03:10"
         ],
-        "label": "internal"
+        "label": {
+            "phrase": "internal organization of the network layer",
+            "count": 2
+        }
     },
     "clusterList": [
         {

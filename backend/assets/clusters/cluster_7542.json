@@ -6,7 +6,10 @@
         "xLabels": [
             "04:12"
         ],
-        "label": "any"
+        "label": {
+            "phrase": "any factor other than sex",
+            "count": 2
+        }
     },
     "clusterList": [
         {

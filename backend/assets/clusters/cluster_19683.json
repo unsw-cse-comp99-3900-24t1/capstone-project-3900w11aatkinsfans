@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "always"
+        "label": {
+            "phrase": "always have a plan b",
+            "count": 1
+        }
     },
     "clusterList": [
         {

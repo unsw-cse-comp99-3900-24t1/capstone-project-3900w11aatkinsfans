@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i ain't gots no hands but where are ya",
+            "count": 1
+        }
     },
     "clusterList": [
         {

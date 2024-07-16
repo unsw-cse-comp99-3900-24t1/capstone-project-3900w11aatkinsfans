@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my wolverine was terrible",
+            "count": 1
+        }
     },
     "clusterList": [
         {

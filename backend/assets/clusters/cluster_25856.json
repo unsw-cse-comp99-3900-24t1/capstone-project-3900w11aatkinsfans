@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an awesome debut forgetaboutit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

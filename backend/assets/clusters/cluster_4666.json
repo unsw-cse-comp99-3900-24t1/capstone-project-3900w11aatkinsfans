@@ -12,7 +12,10 @@
             "03:50",
             "04:24"
         ],
-        "label": "society"
+        "label": {
+            "phrase": "society as a whole",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we feel comfortable with what we've got",
+            "count": 1
+        }
     },
     "clusterList": [
         {

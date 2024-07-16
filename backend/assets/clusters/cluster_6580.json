@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "big"
+        "label": {
+            "phrase": "big bouncy jiggly hearts",
+            "count": 3
+        }
     },
     "clusterList": [
         {

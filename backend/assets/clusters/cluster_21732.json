@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the lamp is low",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's such a problem to have servant with a head like a hermit's address book",
+            "count": 1
+        }
     },
     "clusterList": [
         {

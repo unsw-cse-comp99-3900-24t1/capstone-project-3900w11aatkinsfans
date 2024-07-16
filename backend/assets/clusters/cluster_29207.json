@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "anybody"
+        "label": {
+            "phrase": "anybody who votes republican is fired",
+            "count": 1
+        }
     },
     "clusterList": [
         {

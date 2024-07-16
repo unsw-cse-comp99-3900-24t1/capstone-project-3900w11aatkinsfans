@@ -8,7 +8,10 @@
             "01:30",
             "03:51"
         ],
-        "label": "crime"
+        "label": {
+            "phrase": "crime of passion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

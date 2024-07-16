@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and we as a nation are having a heart attack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

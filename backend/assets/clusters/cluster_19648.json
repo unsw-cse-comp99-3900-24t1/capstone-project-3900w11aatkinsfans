@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and that's the story jake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "02:28",
             "03:14"
         ],
-        "label": "translink"
+        "label": {
+            "phrase": "translink needs to proceed on the basis of a tolled bridge if it's going to be able to respond with the urgency required to address the problems created by the pattullo",
+            "count": 2
+        }
     },
     "clusterList": [
         {

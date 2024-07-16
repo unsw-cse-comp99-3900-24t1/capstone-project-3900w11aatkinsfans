@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "clinton"
+        "label": {
+            "phrase": "clinton didn't tell solis doyle she was lending money to keep the campaign afloat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "uncle"
+        "label": {
+            "phrase": "uncle bob's self storage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

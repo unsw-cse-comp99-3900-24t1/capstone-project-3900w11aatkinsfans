@@ -12,7 +12,10 @@
             "03:00",
             "04:24"
         ],
-        "label": "never"
+        "label": {
+            "phrase": "you've never heard of that song",
+            "count": 2
+        }
     },
     "clusterList": [
         {

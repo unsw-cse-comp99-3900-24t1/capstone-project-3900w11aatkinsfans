@@ -20,7 +20,10 @@
             "04:28",
             "04:31"
         ],
-        "label": "early"
+        "label": {
+            "phrase": "the test is a measure of long-term glucose control but doctors don't typically use it to screen for or diagnose the disease",
+            "count": 4
+        }
     },
     "clusterList": [
         {

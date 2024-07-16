@@ -18,7 +18,10 @@
             "01:09",
             "03:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the army's policy is that physical training cannot be given as a punishment although soldiers in detention are required to do physical training",
+            "count": 3
+        }
     },
     "clusterList": [
         {

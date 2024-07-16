@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "produced"
+        "label": {
+            "phrase": "produced and distributed by",
+            "count": 2
+        }
     },
     "clusterList": [
         {

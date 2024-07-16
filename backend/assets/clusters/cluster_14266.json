@@ -6,7 +6,10 @@
         "xLabels": [
             "00:19"
         ],
-        "label": "project"
+        "label": {
+            "phrase": "project management with the lights on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

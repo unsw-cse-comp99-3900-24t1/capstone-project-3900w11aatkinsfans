@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the long shots",
+            "count": 1
+        }
     },
     "clusterList": [
         {

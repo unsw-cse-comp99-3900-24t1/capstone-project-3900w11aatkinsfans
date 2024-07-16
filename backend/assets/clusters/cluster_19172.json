@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "decontaminate"
+        "label": {
+            "phrase": "decontaminate the tory brand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

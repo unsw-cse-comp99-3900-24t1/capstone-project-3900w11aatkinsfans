@@ -10,7 +10,10 @@
             "03:57",
             "04:33"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two heads are better then one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

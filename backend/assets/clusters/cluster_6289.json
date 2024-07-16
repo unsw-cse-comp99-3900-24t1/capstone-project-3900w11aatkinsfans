@@ -10,7 +10,10 @@
             "01:57",
             "02:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the content is filtered so this service is for legitimate use",
+            "count": 3
+        }
     },
     "clusterList": [
         {

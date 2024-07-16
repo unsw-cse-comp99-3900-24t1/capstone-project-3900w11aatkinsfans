@@ -42,7 +42,10 @@
             "04:59",
             "05:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "back to school",
+            "count": 10
+        }
     },
     "clusterList": [
         {

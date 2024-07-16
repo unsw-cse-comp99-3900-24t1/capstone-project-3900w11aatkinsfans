@@ -6,7 +6,10 @@
         "xLabels": [
             "00:12"
         ],
-        "label": "chelsea's"
+        "label": {
+            "phrase": "chelsea's working waterfront can often seem like an unfriendly uniniviting place",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:23",
             "03:36"
         ],
-        "label": "betty"
+        "label": {
+            "phrase": "betty beetle's birthday party",
+            "count": 1
+        }
     },
     "clusterList": [
         {

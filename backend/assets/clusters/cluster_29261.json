@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "leeches"
+        "label": {
+            "phrase": "leeches in a private",
+            "count": 1
+        }
     },
     "clusterList": [
         {

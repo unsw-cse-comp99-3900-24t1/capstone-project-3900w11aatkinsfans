@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's free and open to everyone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

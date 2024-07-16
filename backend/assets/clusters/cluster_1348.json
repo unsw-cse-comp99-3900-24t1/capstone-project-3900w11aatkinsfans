@@ -24,7 +24,10 @@
             "04:36",
             "05:00"
         ],
-        "label": "doing"
+        "label": {
+            "phrase": "well i don't know exactly how it's done",
+            "count": 4
+        }
     },
     "clusterList": [
         {

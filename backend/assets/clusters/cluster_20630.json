@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "words"
+        "label": {
+            "phrase": "words to live by",
+            "count": 1
+        }
     },
     "clusterList": [
         {

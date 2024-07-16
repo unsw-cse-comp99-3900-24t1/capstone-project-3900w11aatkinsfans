@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no money could pay for that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

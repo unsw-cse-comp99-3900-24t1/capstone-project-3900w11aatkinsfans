@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "starfest"
+        "label": {
+            "phrase": "starfest is one of the highlights of the astronomical calendar",
+            "count": 1
+        }
     },
     "clusterList": [
         {

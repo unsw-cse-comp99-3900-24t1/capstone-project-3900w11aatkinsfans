@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's all relative",
+            "count": 1
+        }
     },
     "clusterList": [
         {

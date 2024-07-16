@@ -16,7 +16,10 @@
             "04:27",
             "04:37"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is my evidence",
+            "count": 2
+        }
     },
     "clusterList": [
         {

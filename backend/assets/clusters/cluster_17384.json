@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that was amazing there's no way that they can top it at the next stop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

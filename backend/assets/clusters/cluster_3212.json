@@ -14,7 +14,10 @@
             "03:55",
             "04:52"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my flagship issue",
+            "count": 6
+        }
     },
     "clusterList": [
         {

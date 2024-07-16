@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "maria"
+        "label": {
+            "phrase": "maria you fucking hider pick up the phone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

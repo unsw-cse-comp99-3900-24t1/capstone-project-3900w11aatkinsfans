@@ -10,7 +10,10 @@
             "00:20",
             "02:00"
         ],
-        "label": "yah"
+        "label": {
+            "phrase": "yah that could be up on the northshore",
+            "count": 1
+        }
     },
     "clusterList": [
         {

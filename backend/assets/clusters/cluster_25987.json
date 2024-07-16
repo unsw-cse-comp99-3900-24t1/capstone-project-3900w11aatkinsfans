@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is exerting the amount of power needed to go that speed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

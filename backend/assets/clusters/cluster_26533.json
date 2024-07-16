@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you couldn't lose but you could make a lot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "03:14",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the olpc-xo device is slightly cheaper than the other products because of lower processor and motherboard cost and battery and packaging cost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

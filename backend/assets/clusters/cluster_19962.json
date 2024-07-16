@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now i have more seniority",
+            "count": 1
+        }
     },
     "clusterList": [
         {

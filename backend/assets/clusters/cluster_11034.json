@@ -8,7 +8,10 @@
             "02:56",
             "03:00"
         ],
-        "label": "hit"
+        "label": {
+            "phrase": "hit the brics",
+            "count": 2
+        }
     },
     "clusterList": [
         {

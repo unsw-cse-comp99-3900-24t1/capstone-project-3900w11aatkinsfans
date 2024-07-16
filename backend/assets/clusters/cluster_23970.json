@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you don't like the heat don't get in the kitchen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the single-most important position for a lot of reasons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

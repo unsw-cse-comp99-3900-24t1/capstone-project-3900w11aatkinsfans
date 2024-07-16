@@ -6,7 +6,10 @@
         "xLabels": [
             "03:49"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but we have a wonderful group of artists in this town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "wet"
+        "label": {
+            "phrase": "wet behind the ears",
+            "count": 1
+        }
     },
     "clusterList": [
         {

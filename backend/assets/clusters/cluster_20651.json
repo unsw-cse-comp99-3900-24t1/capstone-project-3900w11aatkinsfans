@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "general"
+        "label": {
+            "phrase": "general orders of a sentry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

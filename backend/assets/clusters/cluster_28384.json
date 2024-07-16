@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is it about the sex or is it about the lie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

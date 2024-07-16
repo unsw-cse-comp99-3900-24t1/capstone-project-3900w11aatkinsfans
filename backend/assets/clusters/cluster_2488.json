@@ -12,7 +12,10 @@
             "03:02",
             "04:53"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "if you titrate insulin weekly you can get to goal a1c",
+            "count": 2
+        }
     },
     "clusterList": [
         {

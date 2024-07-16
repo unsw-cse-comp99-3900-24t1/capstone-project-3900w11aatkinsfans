@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "kicking"
+        "label": {
+            "phrase": "kicking the hat was probably a little much",
+            "count": 1
+        }
     },
     "clusterList": [
         {

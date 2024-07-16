@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "piercing"
+        "label": {
+            "phrase": "piercing the corporate veil",
+            "count": 1
+        }
     },
     "clusterList": [
         {

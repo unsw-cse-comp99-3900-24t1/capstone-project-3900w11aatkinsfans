@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the words weren't so meaningful but the chord changes really had magic in them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

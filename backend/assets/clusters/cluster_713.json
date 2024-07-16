@@ -10,7 +10,10 @@
             "02:25",
             "02:51"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "ctl00 logincontent loginview1 login1 username",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:31"
         ],
-        "label": "very"
+        "label": {
+            "phrase": "very close but not perfect",
+            "count": 1
+        }
     },
     "clusterList": [
         {

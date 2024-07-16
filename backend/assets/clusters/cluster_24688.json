@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "joseph"
+        "label": {
+            "phrase": "joseph smith's treasure hunting trip to salem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

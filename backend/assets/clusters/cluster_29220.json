@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "bob"
+        "label": {
+            "phrase": "bob hegman's one big league game came",
+            "count": 1
+        }
     },
     "clusterList": [
         {

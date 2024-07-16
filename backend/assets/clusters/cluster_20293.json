@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "check"
+        "label": {
+            "phrase": "check all that apply",
+            "count": 1
+        }
     },
     "clusterList": [
         {

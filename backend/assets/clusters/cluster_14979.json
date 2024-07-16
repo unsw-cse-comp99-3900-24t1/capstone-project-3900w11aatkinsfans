@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "hitherto"
+        "label": {
+            "phrase": "hitherto unknown group",
+            "count": 1
+        }
     },
     "clusterList": [
         {

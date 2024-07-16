@@ -6,7 +6,10 @@
         "xLabels": [
             "00:14"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some of his exploits are fictionalized",
+            "count": 1
+        }
     },
     "clusterList": [
         {

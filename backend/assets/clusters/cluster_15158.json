@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it doesn't bring it out in me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -18,7 +18,10 @@
             "03:34",
             "04:03"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you feel stressed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

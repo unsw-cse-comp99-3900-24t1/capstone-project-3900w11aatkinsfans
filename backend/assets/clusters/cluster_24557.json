@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't confuse effort with results",
+            "count": 1
+        }
     },
     "clusterList": [
         {

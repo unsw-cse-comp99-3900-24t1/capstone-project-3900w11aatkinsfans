@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "never"
+        "label": {
+            "phrase": "never be afraid to do something completely outrageous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

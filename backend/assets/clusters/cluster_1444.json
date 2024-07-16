@@ -22,7 +22,10 @@
             "04:07",
             "04:15"
         ],
-        "label": "pushing"
+        "label": {
+            "phrase": "jump in the fire",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're not in the business of being arbitrageurs on transactions closing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

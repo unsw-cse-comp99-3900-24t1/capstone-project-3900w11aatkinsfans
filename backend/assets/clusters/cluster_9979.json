@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "members"
+        "label": {
+            "phrase": "members guide to the new car org",
+            "count": 2
+        }
     },
     "clusterList": [
         {

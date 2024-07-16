@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know if you get out of here it'd be faster",
+            "count": 1
+        }
     },
     "clusterList": [
         {

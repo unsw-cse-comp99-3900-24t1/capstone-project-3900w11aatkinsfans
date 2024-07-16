@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "social"
+        "label": {
+            "phrase": "social studies and humanities",
+            "count": 1
+        }
     },
     "clusterList": [
         {

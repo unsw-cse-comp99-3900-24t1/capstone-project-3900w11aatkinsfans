@@ -8,7 +8,10 @@
             "00:18",
             "02:15"
         ],
-        "label": "chicken"
+        "label": {
+            "phrase": "chicken in every pot",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "retropolis"
+        "label": {
+            "phrase": "retropolis by night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

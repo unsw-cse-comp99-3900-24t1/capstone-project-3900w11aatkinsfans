@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "operation"
+        "label": {
+            "phrase": "operation stealing home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

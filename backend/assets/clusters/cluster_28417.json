@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with the electric vehicle it can take several hours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

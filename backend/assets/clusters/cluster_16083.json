@@ -6,7 +6,10 @@
         "xLabels": [
             "00:42"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is a letter of warmth and encouragement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

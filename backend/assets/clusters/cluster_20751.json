@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this card opens up the conversation for people to talk about it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

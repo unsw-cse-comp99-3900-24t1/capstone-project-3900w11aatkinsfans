@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "resourcefulness"
+        "label": {
+            "phrase": "resourcefulness and cleverness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

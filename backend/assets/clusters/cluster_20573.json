@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "phew"
+        "label": {
+            "phrase": "phew me too cool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

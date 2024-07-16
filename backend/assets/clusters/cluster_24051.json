@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "nutritional"
+        "label": {
+            "phrase": "nutritional therapist julia fitzgerald",
+            "count": 1
+        }
     },
     "clusterList": [
         {

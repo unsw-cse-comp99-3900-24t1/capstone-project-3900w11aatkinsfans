@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the game has passed lemaire by",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's great to be an independent creature",
+            "count": 12
+        }
     },
     "clusterList": [
         {

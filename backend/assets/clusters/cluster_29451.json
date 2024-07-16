@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you cannot do what these guys do without learning how to fall",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "02:42",
             "03:18"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are like tanks",
+            "count": 2
+        }
     },
     "clusterList": [
         {

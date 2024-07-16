@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is the clock ticking for chad jackson and a few others",
+            "count": 1
+        }
     },
     "clusterList": [
         {

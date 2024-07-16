@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that time rmuser almost died",
+            "count": 1
+        }
     },
     "clusterList": [
         {

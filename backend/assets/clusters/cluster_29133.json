@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "having"
+        "label": {
+            "phrase": "having something like this makes us a little different",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why aren't you in the top three",
+            "count": 1
+        }
     },
     "clusterList": [
         {

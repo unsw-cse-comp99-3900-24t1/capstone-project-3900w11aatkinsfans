@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "make"
+        "label": {
+            "phrase": "make your own wand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

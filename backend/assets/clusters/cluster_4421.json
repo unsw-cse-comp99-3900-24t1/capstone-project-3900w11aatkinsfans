@@ -12,7 +12,10 @@
             "01:06",
             "03:23"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's one of those names you hate when you're growing up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

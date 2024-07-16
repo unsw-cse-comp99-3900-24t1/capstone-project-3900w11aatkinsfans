@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't think there are too many rhodes scholars there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

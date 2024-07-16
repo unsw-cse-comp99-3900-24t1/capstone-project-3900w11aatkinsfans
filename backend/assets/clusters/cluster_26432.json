@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "enterprises"
+        "label": {
+            "phrase": "enterprises have to remember that even when components come from places you think you have complete control over in most cases you don't have that control",
+            "count": 1
+        }
     },
     "clusterList": [
         {

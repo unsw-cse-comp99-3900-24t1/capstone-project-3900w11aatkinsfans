@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "apple"
+        "label": {
+            "phrase": "apple weirdo fashion",
+            "count": 1
+        }
     },
     "clusterList": [
         {

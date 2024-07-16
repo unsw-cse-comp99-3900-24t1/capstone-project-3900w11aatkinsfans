@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "electricity"
+        "label": {
+            "phrase": "electricity going to the heart in an organized way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

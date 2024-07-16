@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the air conditioning didn't work too well there either",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the whole geoffin show",
+            "count": 1
+        }
     },
     "clusterList": [
         {

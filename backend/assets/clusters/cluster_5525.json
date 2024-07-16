@@ -12,7 +12,10 @@
             "02:24",
             "04:09"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm getting reps first team second team third team",
+            "count": 2
+        }
     },
     "clusterList": [
         {

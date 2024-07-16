@@ -6,7 +6,10 @@
         "xLabels": [
             "05:01"
         ],
-        "label": "saddam"
+        "label": {
+            "phrase": "saddam husseins hitler grave located in iraq",
+            "count": 2
+        }
     },
     "clusterList": [
         {

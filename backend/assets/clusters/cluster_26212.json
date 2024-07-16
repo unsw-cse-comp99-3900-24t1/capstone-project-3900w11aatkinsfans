@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not operated for compensation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

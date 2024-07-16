@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "woke"
+        "label": {
+            "phrase": "woke on a whaleheart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

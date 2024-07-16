@@ -14,7 +14,10 @@
             "01:32",
             "03:01"
         ],
-        "label": "must"
+        "label": {
+            "phrase": "must actually do this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

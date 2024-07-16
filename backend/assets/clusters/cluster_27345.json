@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "living"
+        "label": {
+            "phrase": "living breathing baby doll",
+            "count": 1
+        }
     },
     "clusterList": [
         {

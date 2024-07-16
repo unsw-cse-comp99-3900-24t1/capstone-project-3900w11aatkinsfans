@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's going to do a number on our county",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:19",
             "04:04"
         ],
-        "label": "how's"
+        "label": {
+            "phrase": "how's the account coming along",
+            "count": 1
+        }
     },
     "clusterList": [
         {

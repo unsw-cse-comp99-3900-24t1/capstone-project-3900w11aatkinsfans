@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that feels custom-made just for your shape and cup-size",
+            "count": 1
+        }
     },
     "clusterList": [
         {

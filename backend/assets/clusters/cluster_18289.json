@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pet vests cost about 12 to 20",
+            "count": 1
+        }
     },
     "clusterList": [
         {

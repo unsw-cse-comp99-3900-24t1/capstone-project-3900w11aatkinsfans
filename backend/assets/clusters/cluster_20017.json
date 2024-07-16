@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "learning"
+        "label": {
+            "phrase": "learning is not attained by",
+            "count": 1
+        }
     },
     "clusterList": [
         {

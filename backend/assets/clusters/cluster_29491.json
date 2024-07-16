@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "stargate"
+        "label": {
+            "phrase": "stargate goes to the arctic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

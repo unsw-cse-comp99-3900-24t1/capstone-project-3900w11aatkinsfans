@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm very well rounded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

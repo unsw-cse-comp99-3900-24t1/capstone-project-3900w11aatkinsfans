@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "georgia"
+        "label": {
+            "phrase": "georgia be careful with that magic wand it's sharp",
+            "count": 1
+        }
     },
     "clusterList": [
         {

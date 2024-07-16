@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the healing power of plants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

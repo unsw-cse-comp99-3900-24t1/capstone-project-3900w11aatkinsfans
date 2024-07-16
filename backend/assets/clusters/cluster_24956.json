@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "become"
+        "label": {
+            "phrase": "become a monk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

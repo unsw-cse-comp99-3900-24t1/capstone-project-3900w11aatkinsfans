@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "richard"
+        "label": {
+            "phrase": "richard w chopping",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "both"
+        "label": {
+            "phrase": "both declined to provide further details",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "shits"
+        "label": {
+            "phrase": "shits and giggles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

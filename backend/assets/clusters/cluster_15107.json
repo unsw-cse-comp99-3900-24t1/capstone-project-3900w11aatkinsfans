@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "congress"
+        "label": {
+            "phrase": "congress has a responsibility to protect all americans from unfair discrimination",
+            "count": 1
+        }
     },
     "clusterList": [
         {

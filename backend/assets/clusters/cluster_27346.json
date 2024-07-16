@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what do you think about insert meaningful subject here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

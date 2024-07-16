@@ -6,7 +6,10 @@
         "xLabels": [
             "02:38"
         ],
-        "label": "today"
+        "label": {
+            "phrase": "today we are excited to be able to announce the new radio partner of the avalanche and nuggets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

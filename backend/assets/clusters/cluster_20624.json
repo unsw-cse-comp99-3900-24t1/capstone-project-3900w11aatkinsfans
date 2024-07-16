@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "meets"
+        "label": {
+            "phrase": "meets minimum tolerable requirements to stay in place as-is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:47",
             "04:28"
         ],
-        "label": "officer"
+        "label": {
+            "phrase": "officer it was the strangest thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

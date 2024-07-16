@@ -6,7 +6,10 @@
         "xLabels": [
             "00:20"
         ],
-        "label": "outside"
+        "label": {
+            "phrase": "outside of the military mission line",
+            "count": 1
+        }
     },
     "clusterList": [
         {

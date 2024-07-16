@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm expecting to learn a lot i'm willing to learn all i can now i want to get my bachelor's degree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

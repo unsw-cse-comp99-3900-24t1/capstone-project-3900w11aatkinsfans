@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ancient greeks recognized epilepsy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

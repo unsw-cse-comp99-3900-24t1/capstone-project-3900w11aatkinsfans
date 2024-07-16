@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in the face of uncertainty let's assign non-zero probability to some but not all worst-case scenarios",
+            "count": 1
+        }
     },
     "clusterList": [
         {

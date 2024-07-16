@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "china"
+        "label": {
+            "phrase": "china is becoming more like us in very visible ways starbucks hooters cellphones that are cooler than ours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

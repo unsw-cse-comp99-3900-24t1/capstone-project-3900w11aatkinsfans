@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's been quite a bit made of nothing to be honest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

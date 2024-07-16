@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't sell horse tranquilizers to a midget",
+            "count": 1
+        }
     },
     "clusterList": [
         {

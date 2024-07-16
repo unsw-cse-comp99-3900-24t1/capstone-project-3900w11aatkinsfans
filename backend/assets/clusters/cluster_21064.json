@@ -6,7 +6,10 @@
         "xLabels": [
             "01:58"
         ],
-        "label": "seized"
+        "label": {
+            "phrase": "seized property auctions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

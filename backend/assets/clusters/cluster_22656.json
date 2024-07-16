@@ -6,7 +6,10 @@
         "xLabels": [
             "02:40"
         ],
-        "label": "uh"
+        "label": {
+            "phrase": "uh sure i wasn't planning on it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

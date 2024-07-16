@@ -48,7 +48,10 @@
             "04:28",
             "05:01"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "so whatcha want",
+            "count": 3
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "sonic"
+        "label": {
+            "phrase": "sonic amp knuckles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

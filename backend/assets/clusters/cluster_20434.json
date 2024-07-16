@@ -6,7 +6,10 @@
         "xLabels": [
             "01:46"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the crazy frog advertisements move",
+            "count": 1
+        }
     },
     "clusterList": [
         {

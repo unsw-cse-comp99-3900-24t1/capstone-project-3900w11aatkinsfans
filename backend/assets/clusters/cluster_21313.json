@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "motivic"
+        "label": {
+            "phrase": "motivic donaldson-thomas invariants for calabi-yau categories",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm sorry i know alligators are dangerous",
+            "count": 1
+        }
     },
     "clusterList": [
         {

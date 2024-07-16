@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these things are so annoying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

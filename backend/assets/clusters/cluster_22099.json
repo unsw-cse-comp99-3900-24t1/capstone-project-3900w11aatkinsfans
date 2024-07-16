@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "several"
+        "label": {
+            "phrase": "several sets of stop sticks were deployed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

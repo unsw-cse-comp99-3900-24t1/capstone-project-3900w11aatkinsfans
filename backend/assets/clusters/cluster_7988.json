@@ -8,7 +8,10 @@
             "00:05",
             "00:29"
         ],
-        "label": "beer"
+        "label": {
+            "phrase": "beer bellies aren't aerodynamic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

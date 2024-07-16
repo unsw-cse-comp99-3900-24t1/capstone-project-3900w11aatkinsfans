@@ -10,7 +10,10 @@
             "01:23",
             "04:59"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is something we're looking at first in minneapolis and then in st paul but this is a much bigger issue than that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

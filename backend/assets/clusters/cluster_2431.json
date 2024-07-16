@@ -18,7 +18,10 @@
             "03:48",
             "04:28"
         ],
-        "label": "haircut"
+        "label": {
+            "phrase": "haircut time for the donkeys",
+            "count": 7
+        }
     },
     "clusterList": [
         {

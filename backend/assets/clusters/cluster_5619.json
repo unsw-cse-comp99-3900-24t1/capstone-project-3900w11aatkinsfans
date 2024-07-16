@@ -10,7 +10,10 @@
             "00:02",
             "02:42"
         ],
-        "label": "china's"
+        "label": {
+            "phrase": "china's clean revolution",
+            "count": 3
+        }
     },
     "clusterList": [
         {

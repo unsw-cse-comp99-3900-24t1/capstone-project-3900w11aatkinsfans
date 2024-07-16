@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "moo"
+        "label": {
+            "phrase": "moo if you love california contest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

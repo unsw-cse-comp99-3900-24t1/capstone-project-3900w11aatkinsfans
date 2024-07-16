@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "where've"
+        "label": {
+            "phrase": "where've ya'll been toby",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who are you people where have you been yohan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

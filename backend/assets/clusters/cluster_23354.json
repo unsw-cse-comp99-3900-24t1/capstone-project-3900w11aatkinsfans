@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "second"
+        "label": {
+            "phrase": "second life is the gopher of virtual worlds it looks so good because there is so little else to look at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

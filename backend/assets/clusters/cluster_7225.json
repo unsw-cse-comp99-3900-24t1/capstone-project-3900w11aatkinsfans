@@ -10,7 +10,10 @@
             "04:18",
             "04:28"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this movie seemed so ripe for a remake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he has not looked beyond that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

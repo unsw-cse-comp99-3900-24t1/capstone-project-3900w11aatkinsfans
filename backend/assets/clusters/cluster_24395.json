@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your wooden floors all seem so cold",
+            "count": 1
+        }
     },
     "clusterList": [
         {

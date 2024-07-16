@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my birthday doesn't fit on any human calendars",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in this day and age the word service is somewhat lost",
+            "count": 1
+        }
     },
     "clusterList": [
         {

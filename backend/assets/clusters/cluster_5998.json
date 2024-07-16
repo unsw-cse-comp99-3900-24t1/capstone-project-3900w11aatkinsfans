@@ -10,7 +10,10 @@
             "01:20",
             "03:37"
         ],
-        "label": "poor"
+        "label": {
+            "phrase": "poor thing it gets no respect",
+            "count": 1
+        }
     },
     "clusterList": [
         {

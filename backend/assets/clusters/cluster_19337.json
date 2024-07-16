@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i take all those things constructively",
+            "count": 1
+        }
     },
     "clusterList": [
         {

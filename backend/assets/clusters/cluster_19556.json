@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "don't"
+        "label": {
+            "phrase": "don't shoot yourself now you have a generous pension due in just 30 years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

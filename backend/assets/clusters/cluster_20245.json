@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the number of steamers that used to come up for the new norfolk regatta in years gone by we wanted to recapture some of that atmosphere with the river traffic",
+            "count": 1
+        }
     },
     "clusterList": [
         {

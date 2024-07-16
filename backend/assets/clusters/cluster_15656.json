@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have i worked on that today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

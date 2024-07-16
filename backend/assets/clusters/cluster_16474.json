@@ -6,7 +6,10 @@
         "xLabels": [
             "00:48"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that was the only transportation we had that and walking",
+            "count": 1
+        }
     },
     "clusterList": [
         {

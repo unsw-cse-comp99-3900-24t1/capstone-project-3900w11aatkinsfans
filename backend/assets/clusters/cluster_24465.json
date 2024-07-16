@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to discuss the company's performance and second quarter results",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -22,7 +22,10 @@
             "03:43",
             "03:50"
         ],
-        "label": "client"
+        "label": {
+            "phrase": "client server news",
+            "count": 8
+        }
     },
     "clusterList": [
         {

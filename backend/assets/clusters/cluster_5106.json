@@ -12,7 +12,10 @@
             "03:48",
             "05:04"
         ],
-        "label": "oodles"
+        "label": {
+            "phrase": "oodles of enticing recipes",
+            "count": 2
+        }
     },
     "clusterList": [
         {

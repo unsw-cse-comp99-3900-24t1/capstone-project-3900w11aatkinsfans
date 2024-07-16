@@ -10,7 +10,10 @@
             "03:18",
             "03:59"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best thing that ever happened to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

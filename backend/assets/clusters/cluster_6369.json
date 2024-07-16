@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "showed"
+        "label": {
+            "phrase": "the last picture show",
+            "count": 2
+        }
     },
     "clusterList": [
         {

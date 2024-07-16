@@ -14,7 +14,10 @@
             "02:33",
             "04:41"
         ],
-        "label": "yourcompany"
+        "label": {
+            "phrase": "yourcompany com paid me to hold this sign",
+            "count": 1
+        }
     },
     "clusterList": [
         {

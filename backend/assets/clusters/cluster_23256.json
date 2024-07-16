@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are all vulnerable to some weapon or another",
+            "count": 1
+        }
     },
     "clusterList": [
         {

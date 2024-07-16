@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the film is set in the swinging 60s when fashion was wild and body hair even wilder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

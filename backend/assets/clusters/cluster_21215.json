@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i think it's time for you to pick up my pants",
+            "count": 1
+        }
     },
     "clusterList": [
         {

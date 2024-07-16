@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just as we do not hold the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

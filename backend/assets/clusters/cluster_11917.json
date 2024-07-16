@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "use"
+        "label": {
+            "phrase": "use our time wisely",
+            "count": 1
+        }
     },
     "clusterList": [
         {

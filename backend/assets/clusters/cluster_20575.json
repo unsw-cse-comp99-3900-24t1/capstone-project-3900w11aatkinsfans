@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "would"
+        "label": {
+            "phrase": "would you call the client and ask him yada yada",
+            "count": 1
+        }
     },
     "clusterList": [
         {

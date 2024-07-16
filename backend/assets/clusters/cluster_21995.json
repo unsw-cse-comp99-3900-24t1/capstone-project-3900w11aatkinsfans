@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "its"
+        "label": {
+            "phrase": "its step makes the sound of rainfall on the dust",
+            "count": 1
+        }
     },
     "clusterList": [
         {

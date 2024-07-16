@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "sid"
+        "label": {
+            "phrase": "sid you're a resident too not a staff person",
+            "count": 1
+        }
     },
     "clusterList": [
         {

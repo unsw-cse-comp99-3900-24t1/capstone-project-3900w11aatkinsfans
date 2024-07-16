@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "provides"
+        "label": {
+            "phrase": "provides a means to describe the structure of text-based information in a document",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -24,7 +24,10 @@
             "03:42",
             "04:08"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we don't think it is ethical behaviour to agree to do that",
+            "count": 3
+        }
     },
     "clusterList": [
         {

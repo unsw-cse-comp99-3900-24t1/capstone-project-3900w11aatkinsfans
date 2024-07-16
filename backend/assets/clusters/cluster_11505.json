@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that man wants to give us a crab",
+            "count": 1
+        }
     },
     "clusterList": [
         {

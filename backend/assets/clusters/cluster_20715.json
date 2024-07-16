@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "chinese"
+        "label": {
+            "phrase": "chinese prisoner of conscience",
+            "count": 1
+        }
     },
     "clusterList": [
         {

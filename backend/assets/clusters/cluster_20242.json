@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a war between these different card suits and this one gets shot with a spade and then spills out all these hearts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

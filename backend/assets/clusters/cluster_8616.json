@@ -8,7 +8,10 @@
             "00:25",
             "02:55"
         ],
-        "label": "harmful"
+        "label": {
+            "phrase": "harmful content on the internet and in video games",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you must respond instantaneously and with all you got",
+            "count": 1
+        }
     },
     "clusterList": [
         {

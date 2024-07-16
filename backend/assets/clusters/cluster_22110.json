@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "walk"
+        "label": {
+            "phrase": "walk away the pounds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's hard to get good community leaders",
+            "count": 1
+        }
     },
     "clusterList": [
         {

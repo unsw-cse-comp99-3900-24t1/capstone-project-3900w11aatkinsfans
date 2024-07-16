@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "i'd"
+        "label": {
+            "phrase": "i'd be happy to buy you a sandwich from mcd's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

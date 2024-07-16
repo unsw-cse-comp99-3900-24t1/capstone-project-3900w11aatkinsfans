@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "trace"
+        "label": {
+            "phrase": "trace wants to see you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

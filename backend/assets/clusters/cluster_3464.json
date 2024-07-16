@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can never step in the same river twice",
+            "count": 6
+        }
     },
     "clusterList": [
         {

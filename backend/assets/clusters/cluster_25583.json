@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "hi"
+        "label": {
+            "phrase": "hi i want to write a final paper on the topic of utilitarianism",
+            "count": 1
+        }
     },
     "clusterList": [
         {

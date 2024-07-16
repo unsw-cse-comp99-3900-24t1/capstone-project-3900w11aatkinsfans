@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "sufficient"
+        "label": {
+            "phrase": "sufficient wherewithal to eat clothe and house themselves comfortably",
+            "count": 1
+        }
     },
     "clusterList": [
         {

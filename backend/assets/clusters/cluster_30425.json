@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's easy to score runs in bunches here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -18,7 +18,10 @@
             "04:14",
             "04:23"
         ],
-        "label": "shut"
+        "label": {
+            "phrase": "bustin down the door",
+            "count": 2
+        }
     },
     "clusterList": [
         {

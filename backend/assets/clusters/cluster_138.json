@@ -34,7 +34,10 @@
             "04:32",
             "04:56"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i invented the internet",
+            "count": 12
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "morphine"
+        "label": {
+            "phrase": "morphine is used legally",
+            "count": 1
+        }
     },
     "clusterList": [
         {

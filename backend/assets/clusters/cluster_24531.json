@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "giants"
+        "label": {
+            "phrase": "giants play dad gogogogo giants play",
+            "count": 1
+        }
     },
     "clusterList": [
         {

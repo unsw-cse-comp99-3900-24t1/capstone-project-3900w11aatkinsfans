@@ -16,7 +16,10 @@
             "02:20",
             "05:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the texas chainsaw massacre",
+            "count": 5
+        }
     },
     "clusterList": [
         {

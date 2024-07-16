@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to deliver us out of this quagmire",
+            "count": 1
+        }
     },
     "clusterList": [
         {

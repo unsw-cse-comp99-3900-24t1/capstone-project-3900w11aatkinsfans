@@ -6,7 +6,10 @@
         "xLabels": [
             "00:32"
         ],
-        "label": "will"
+        "label": {
+            "phrase": "will there ever be a rainbow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

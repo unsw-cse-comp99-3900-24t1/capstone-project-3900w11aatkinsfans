@@ -6,7 +6,10 @@
         "xLabels": [
             "03:52"
         ],
-        "label": "every"
+        "label": {
+            "phrase": "every time i fell the spirit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

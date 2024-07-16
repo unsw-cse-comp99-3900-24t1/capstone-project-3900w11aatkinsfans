@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there will be some places that might go higher than 50 percent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

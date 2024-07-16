@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in west hollywood that is a nightly occurrence",
+            "count": 1
+        }
     },
     "clusterList": [
         {

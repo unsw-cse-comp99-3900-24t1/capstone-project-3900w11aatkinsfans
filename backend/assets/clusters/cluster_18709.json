@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you see that house over there with the awnings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

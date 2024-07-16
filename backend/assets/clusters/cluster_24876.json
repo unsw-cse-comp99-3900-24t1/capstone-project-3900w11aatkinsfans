@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "soldiers"
+        "label": {
+            "phrase": "soldiers risk ruin while awaiting benefits checks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're looking for peace around your homes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

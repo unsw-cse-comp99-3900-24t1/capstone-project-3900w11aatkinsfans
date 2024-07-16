@@ -12,7 +12,10 @@
             "01:34",
             "04:36"
         ],
-        "label": "schools"
+        "label": {
+            "phrase": "schools on facebook",
+            "count": 1
+        }
     },
     "clusterList": [
         {

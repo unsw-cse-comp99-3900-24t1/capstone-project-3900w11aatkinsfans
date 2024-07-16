@@ -6,7 +6,10 @@
         "xLabels": [
             "01:28"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who new to watch",
+            "count": 1
+        }
     },
     "clusterList": [
         {

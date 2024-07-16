@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "babe"
+        "label": {
+            "phrase": "babe you needed a video to tell you that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

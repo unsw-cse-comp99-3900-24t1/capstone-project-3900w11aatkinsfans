@@ -18,7 +18,10 @@
             "03:01",
             "03:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the great firewall of china",
+            "count": 6
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are all usually members of their local astronomical society",
+            "count": 1
+        }
     },
     "clusterList": [
         {

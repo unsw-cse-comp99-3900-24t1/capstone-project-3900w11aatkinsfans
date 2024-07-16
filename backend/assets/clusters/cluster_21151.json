@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and we'll hope on that day that maybe we get lucky",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "anchorman"
+        "label": {
+            "phrase": "anchorman the legend of ron burgundy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

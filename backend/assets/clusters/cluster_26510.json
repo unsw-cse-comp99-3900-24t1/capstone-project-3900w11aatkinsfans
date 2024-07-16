@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it worked for hillary and bill clinton",
+            "count": 1
+        }
     },
     "clusterList": [
         {

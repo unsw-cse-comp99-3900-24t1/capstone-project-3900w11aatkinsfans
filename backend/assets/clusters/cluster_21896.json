@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "never"
+        "label": {
+            "phrase": "never got around",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a record is what makes a band vital",
+            "count": 1
+        }
     },
     "clusterList": [
         {

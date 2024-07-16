@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "ain't"
+        "label": {
+            "phrase": "ain't changed since 1940",
+            "count": 1
+        }
     },
     "clusterList": [
         {

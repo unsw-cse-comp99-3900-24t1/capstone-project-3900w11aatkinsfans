@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where have all the geniuses gone",
+            "count": 1
+        }
     },
     "clusterList": [
         {

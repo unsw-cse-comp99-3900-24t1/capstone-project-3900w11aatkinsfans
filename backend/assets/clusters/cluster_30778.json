@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "es"
+        "label": {
+            "phrase": "es ist alles noch etwas fremd hier",
+            "count": 1
+        }
     },
     "clusterList": [
         {

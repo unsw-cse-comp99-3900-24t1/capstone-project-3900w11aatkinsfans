@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "competing"
+        "label": {
+            "phrase": "competing promoters and other interests",
+            "count": 1
+        }
     },
     "clusterList": [
         {

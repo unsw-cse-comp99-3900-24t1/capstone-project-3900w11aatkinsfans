@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're not your job you're not how much money you have in the bank you're not the car you drive you're not the contents of your wallet you're not your fucking khakis you're the all-singing all-dancing crap of the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

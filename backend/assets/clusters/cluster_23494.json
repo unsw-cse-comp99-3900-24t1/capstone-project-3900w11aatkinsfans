@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "may"
+        "label": {
+            "phrase": "may have no lights or gas",
+            "count": 1
+        }
     },
     "clusterList": [
         {

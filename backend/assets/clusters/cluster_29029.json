@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've got even some as far away as ontario",
+            "count": 1
+        }
     },
     "clusterList": [
         {

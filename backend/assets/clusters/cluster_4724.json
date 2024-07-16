@@ -12,7 +12,10 @@
             "04:15",
             "04:45"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're just shocked",
+            "count": 1
+        }
     },
     "clusterList": [
         {

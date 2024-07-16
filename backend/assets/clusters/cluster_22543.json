@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "efforts"
+        "label": {
+            "phrase": "efforts to replace responsible management or to discipline or terminate wrongdoers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

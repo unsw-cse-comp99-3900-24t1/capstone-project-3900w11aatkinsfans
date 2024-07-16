@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "dreams"
+        "label": {
+            "phrase": "dreams and pyres",
+            "count": 1
+        }
     },
     "clusterList": [
         {

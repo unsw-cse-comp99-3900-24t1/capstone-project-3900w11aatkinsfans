@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "bring"
+        "label": {
+            "phrase": "bring something up from the back burner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

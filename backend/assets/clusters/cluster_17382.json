@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in sight it must be right",
+            "count": 1
+        }
     },
     "clusterList": [
         {

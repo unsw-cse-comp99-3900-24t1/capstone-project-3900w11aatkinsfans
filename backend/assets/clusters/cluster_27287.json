@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "wass"
+        "label": {
+            "phrase": "wass goin on brian",
+            "count": 1
+        }
     },
     "clusterList": [
         {

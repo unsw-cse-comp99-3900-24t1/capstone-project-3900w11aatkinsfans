@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are judging the dogs on personality grooming and performance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

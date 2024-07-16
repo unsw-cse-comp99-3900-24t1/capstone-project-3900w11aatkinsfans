@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "soft"
+        "label": {
+            "phrase": "soft tissue dino blood",
+            "count": 1
+        }
     },
     "clusterList": [
         {

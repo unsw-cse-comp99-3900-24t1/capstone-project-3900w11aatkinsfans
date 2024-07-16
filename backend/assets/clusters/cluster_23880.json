@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "elaine"
+        "label": {
+            "phrase": "elaine thinks that diane purposefully arranges to have the packages delivered when she is not home but it just seems to be the way it works out each and every year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

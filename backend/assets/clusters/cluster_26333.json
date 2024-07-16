@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the life and work of hunter s thompson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "satellite"
+        "label": {
+            "phrase": "satellite remote sounding of mid-tropospheric co2",
+            "count": 1
+        }
     },
     "clusterList": [
         {

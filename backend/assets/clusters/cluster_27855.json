@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the gulf coast shrimp business is now on the verge of collapse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

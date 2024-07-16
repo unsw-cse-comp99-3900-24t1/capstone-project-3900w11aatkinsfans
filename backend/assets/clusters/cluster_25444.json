@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i said it once my career would be over",
+            "count": 1
+        }
     },
     "clusterList": [
         {

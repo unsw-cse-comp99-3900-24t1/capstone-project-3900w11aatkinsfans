@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my morning sickness is still just in the mornings and after that i feel fine so i can work around it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

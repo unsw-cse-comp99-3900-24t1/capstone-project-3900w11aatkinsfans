@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where is the craziest place where you've had sex",
+            "count": 1
+        }
     },
     "clusterList": [
         {

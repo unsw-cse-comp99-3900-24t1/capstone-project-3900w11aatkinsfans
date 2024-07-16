@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're not going to do earth berm houses for 400 people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

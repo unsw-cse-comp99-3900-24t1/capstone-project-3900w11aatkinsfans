@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "ask"
+        "label": {
+            "phrase": "ask not what ford can do for you ask what gm product you can buy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

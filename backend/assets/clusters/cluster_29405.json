@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are many unsung heroes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

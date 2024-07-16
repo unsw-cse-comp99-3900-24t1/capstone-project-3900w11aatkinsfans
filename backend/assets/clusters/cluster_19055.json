@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "bumps"
+        "label": {
+            "phrase": "bumps in the road",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -28,7 +28,10 @@
             "04:13",
             "04:55"
         ],
-        "label": "medal"
+        "label": {
+            "phrase": "it's the army",
+            "count": 3
+        }
     },
     "clusterList": [
         {

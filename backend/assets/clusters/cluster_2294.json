@@ -16,7 +16,10 @@
             "04:00",
             "04:08"
         ],
-        "label": "welcome"
+        "label": {
+            "phrase": "burger to go",
+            "count": 2
+        }
     },
     "clusterList": [
         {

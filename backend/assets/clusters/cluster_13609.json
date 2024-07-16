@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "yo"
+        "label": {
+            "phrase": "yo jimmy i am gonna jump into the shower",
+            "count": 1
+        }
     },
     "clusterList": [
         {

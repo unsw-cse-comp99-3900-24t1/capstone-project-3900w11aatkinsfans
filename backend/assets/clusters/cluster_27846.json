@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the devil went down to georgia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

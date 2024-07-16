@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "early"
+        "label": {
+            "phrase": "early on many people expressed disbelief about my decision to donate our milk concerned that pumping would be incredibly emotionally painful for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

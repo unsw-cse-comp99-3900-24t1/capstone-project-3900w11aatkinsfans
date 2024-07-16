@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "do you think they're going to cut me today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

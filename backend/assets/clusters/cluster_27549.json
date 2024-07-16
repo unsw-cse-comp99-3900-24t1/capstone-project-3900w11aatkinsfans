@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "sexy"
+        "label": {
+            "phrase": "sexy but not overwhelming",
+            "count": 1
+        }
     },
     "clusterList": [
         {

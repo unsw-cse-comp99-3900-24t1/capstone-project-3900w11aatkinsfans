@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "tales"
+        "label": {
+            "phrase": "tales from the insomniac",
+            "count": 1
+        }
     },
     "clusterList": [
         {

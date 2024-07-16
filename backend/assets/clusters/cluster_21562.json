@@ -6,7 +6,10 @@
         "xLabels": [
             "02:08"
         ],
-        "label": "budget"
+        "label": {
+            "phrase": "budget cuts and political shifts cost us our support system at the old place",
+            "count": 1
+        }
     },
     "clusterList": [
         {

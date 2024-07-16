@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have ballroom dancing boy scouts girl scouts something going on all the time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

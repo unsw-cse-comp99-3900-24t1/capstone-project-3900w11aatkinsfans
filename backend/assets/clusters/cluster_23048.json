@@ -6,7 +6,10 @@
         "xLabels": [
             "02:35"
         ],
-        "label": "marthas"
+        "label": {
+            "phrase": "marthas durchgeknallter ingwer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

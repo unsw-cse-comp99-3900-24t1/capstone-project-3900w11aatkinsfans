@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey this is how it is not much i can do outside of surgery to change it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

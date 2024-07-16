@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "lobbying"
+        "label": {
+            "phrase": "lobbying not simply for habeas corpus rights for al-qaida but reparations as well",
+            "count": 1
+        }
     },
     "clusterList": [
         {

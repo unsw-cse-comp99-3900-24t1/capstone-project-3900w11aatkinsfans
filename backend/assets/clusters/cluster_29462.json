@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i believe i'll have three cats and a whole bunch of dogs waiting for me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the sunday morning hangover to the beatles a hard day's night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

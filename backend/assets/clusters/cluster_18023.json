@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you listen carefully you can hear the wind blowing in one ear and out the other",
+            "count": 1
+        }
     },
     "clusterList": [
         {

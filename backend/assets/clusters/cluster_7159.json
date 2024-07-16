@@ -10,7 +10,10 @@
             "03:42",
             "03:55"
         ],
-        "label": "colony"
+        "label": {
+            "phrase": "colony of birchmen",
+            "count": 3
+        }
     },
     "clusterList": [
         {

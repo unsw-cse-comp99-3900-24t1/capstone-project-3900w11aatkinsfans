@@ -26,7 +26,10 @@
             "04:23",
             "04:33"
         ],
-        "label": "open"
+        "label": {
+            "phrase": "open up the gates",
+            "count": 1
+        }
     },
     "clusterList": [
         {

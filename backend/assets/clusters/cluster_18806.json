@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "post-abortion"
+        "label": {
+            "phrase": "post-abortion stress disorder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

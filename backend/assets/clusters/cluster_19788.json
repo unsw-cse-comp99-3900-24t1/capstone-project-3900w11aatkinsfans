@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're not dumb we're secretaries at boyce college",
+            "count": 1
+        }
     },
     "clusterList": [
         {

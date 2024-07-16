@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "net"
+        "label": {
+            "phrase": "net toa anomoly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

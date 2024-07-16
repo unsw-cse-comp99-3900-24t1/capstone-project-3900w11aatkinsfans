@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "phrasing"
+        "label": {
+            "phrase": "phrasing it as a question instead of saying",
+            "count": 1
+        }
     },
     "clusterList": [
         {

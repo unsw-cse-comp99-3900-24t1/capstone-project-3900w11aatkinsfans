@@ -10,7 +10,10 @@
             "04:23",
             "04:41"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why is this taking me forever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

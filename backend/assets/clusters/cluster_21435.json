@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the addams family",
+            "count": 1
+        }
     },
     "clusterList": [
         {

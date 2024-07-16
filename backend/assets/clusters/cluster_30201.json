@@ -6,7 +6,10 @@
         "xLabels": [
             "04:43"
         ],
-        "label": "act"
+        "label": {
+            "phrase": "act just to see how it fits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

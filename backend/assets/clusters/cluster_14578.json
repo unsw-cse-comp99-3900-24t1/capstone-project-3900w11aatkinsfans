@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people need to know that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "autism"
+        "label": {
+            "phrase": "autism continues to grow every year at alarming rates",
+            "count": 1
+        }
     },
     "clusterList": [
         {

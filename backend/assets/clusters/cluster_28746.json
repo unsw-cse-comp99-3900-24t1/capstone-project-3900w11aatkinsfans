@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is something that cannot be duplicated anywhere else",
+            "count": 1
+        }
     },
     "clusterList": [
         {

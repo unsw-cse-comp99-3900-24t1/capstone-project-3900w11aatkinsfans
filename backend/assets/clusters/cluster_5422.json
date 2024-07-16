@@ -12,7 +12,10 @@
             "04:06",
             "04:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the croak of frogs doesn't prevent the elephant from drinking in the river",
+            "count": 2
+        }
     },
     "clusterList": [
         {

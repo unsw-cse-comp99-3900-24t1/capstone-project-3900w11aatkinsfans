@@ -28,7 +28,10 @@
             "04:45",
             "04:56"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not a complex case it should be one that moves quickly",
+            "count": 8
+        }
     },
     "clusterList": [
         {

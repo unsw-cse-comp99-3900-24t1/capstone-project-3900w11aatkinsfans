@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a new product it's called cradle it's a beautiful cotton-padded quilt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

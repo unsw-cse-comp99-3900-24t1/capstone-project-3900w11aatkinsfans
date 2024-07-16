@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not in port land",
+            "count": 1
+        }
     },
     "clusterList": [
         {

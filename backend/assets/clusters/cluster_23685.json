@@ -6,7 +6,10 @@
         "xLabels": [
             "02:50"
         ],
-        "label": "sho"
+        "label": {
+            "phrase": "sho stoppers panel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

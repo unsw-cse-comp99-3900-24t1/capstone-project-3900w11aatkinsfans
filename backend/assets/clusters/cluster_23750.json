@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "endangered"
+        "label": {
+            "phrase": "endangered the lives of those who live along the thai-cambodian border",
+            "count": 1
+        }
     },
     "clusterList": [
         {

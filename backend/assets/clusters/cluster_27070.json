@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's possible they are linked to the blasts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

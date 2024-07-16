@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is not reasonable to us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

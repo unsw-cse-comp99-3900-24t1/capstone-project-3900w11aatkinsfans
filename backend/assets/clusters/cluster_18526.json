@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people think i'm in the independent category by choice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "03:41",
             "04:56"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "the wicker man",
+            "count": 3
+        }
     },
     "clusterList": [
         {

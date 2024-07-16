@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "mr"
+        "label": {
+            "phrase": "mr beautiful that's what they're calling me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

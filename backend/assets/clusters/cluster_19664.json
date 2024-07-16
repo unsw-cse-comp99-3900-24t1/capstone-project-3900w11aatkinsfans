@@ -6,7 +6,10 @@
         "xLabels": [
             "01:36"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey just wondering what the heck is going on with jwt inside heard a bunch of shops are being closed call me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

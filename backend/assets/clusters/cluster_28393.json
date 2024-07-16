@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how does hearst hope to defeat me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

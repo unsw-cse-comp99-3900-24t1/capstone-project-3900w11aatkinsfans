@@ -10,7 +10,10 @@
             "04:05",
             "04:13"
         ],
-        "label": "cow"
+        "label": {
+            "phrase": "cow farts are killing us",
+            "count": 3
+        }
     },
     "clusterList": [
         {

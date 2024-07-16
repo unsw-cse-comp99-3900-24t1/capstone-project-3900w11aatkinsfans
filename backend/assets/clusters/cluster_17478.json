@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "penalties"
+        "label": {
+            "phrase": "penalties for early withdrawal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

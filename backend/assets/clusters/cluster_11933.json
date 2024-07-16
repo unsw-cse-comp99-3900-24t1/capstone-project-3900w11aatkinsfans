@@ -8,7 +8,10 @@
             "00:22",
             "02:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the oil drum",
+            "count": 1
+        }
     },
     "clusterList": [
         {

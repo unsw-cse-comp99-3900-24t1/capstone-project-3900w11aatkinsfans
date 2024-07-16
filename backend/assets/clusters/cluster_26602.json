@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are desperately trying to unravel what happened",
+            "count": 1
+        }
     },
     "clusterList": [
         {

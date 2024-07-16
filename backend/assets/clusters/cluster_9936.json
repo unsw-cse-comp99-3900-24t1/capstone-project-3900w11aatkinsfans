@@ -8,7 +8,10 @@
             "01:37",
             "04:03"
         ],
-        "label": "who's"
+        "label": {
+            "phrase": "who's the one whose name begins with a j and ends with an n",
+            "count": 1
+        }
     },
     "clusterList": [
         {

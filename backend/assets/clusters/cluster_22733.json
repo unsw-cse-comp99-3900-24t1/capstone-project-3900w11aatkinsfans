@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to reach people no one else is reaching we must do things no one else is doing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

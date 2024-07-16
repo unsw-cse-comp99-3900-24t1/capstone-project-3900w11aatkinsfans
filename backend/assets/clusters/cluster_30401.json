@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "dating"
+        "label": {
+            "phrase": "dating my therapist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

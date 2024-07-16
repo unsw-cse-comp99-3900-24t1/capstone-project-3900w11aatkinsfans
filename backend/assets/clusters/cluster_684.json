@@ -26,7 +26,10 @@
             "04:45",
             "05:04"
         ],
-        "label": "blasted"
+        "label": {
+            "phrase": "blasted with light",
+            "count": 4
+        }
     },
     "clusterList": [
         {

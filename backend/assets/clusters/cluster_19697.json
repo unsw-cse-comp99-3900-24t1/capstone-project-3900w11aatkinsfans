@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "castle"
+        "label": {
+            "phrase": "castle of doubt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

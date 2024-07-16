@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "past"
+        "label": {
+            "phrase": "past watchful dragons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

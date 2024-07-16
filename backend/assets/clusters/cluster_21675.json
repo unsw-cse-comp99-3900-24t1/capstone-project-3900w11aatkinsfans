@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is there somewhere we can talk over coffee perhaps",
+            "count": 1
+        }
     },
     "clusterList": [
         {

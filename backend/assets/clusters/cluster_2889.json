@@ -10,7 +10,10 @@
             "03:00",
             "04:22"
         ],
-        "label": "base"
+        "label": {
+            "phrase": "base m ac rose",
+            "count": 3
+        }
     },
     "clusterList": [
         {

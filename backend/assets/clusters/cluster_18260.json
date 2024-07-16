@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "free"
+        "label": {
+            "phrase": "free foreclosure bus tour",
+            "count": 1
+        }
     },
     "clusterList": [
         {

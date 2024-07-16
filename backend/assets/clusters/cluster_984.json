@@ -18,7 +18,10 @@
             "01:15",
             "04:05"
         ],
-        "label": "homeland"
+        "label": {
+            "phrase": "protection of federal networks and the security of our homeland",
+            "count": 4
+        }
     },
     "clusterList": [
         {

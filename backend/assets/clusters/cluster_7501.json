@@ -10,7 +10,10 @@
             "04:05",
             "04:13"
         ],
-        "label": "cattle-free"
+        "label": {
+            "phrase": "cattle-free by 93",
+            "count": 3
+        }
     },
     "clusterList": [
         {

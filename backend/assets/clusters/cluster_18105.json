@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "seriously"
+        "label": {
+            "phrase": "seriously i don't like this anymore than you do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

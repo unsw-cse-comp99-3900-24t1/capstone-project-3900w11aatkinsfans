@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "males"
+        "label": {
+            "phrase": "males will act as if their desired mate is near and start blindly feeling around to locate it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

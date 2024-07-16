@@ -6,7 +6,10 @@
         "xLabels": [
             "00:01"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a spectrum you go from one to the other",
+            "count": 1
+        }
     },
     "clusterList": [
         {

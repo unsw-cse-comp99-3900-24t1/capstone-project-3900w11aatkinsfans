@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my dear aavo near",
+            "count": 1
+        }
     },
     "clusterList": [
         {

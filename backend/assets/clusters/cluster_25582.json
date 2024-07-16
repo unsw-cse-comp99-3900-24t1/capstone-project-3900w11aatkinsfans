@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a controversial topic and perhaps people will never agree",
+            "count": 1
+        }
     },
     "clusterList": [
         {

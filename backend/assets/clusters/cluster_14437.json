@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people said it was like a bad dream",
+            "count": 1
+        }
     },
     "clusterList": [
         {

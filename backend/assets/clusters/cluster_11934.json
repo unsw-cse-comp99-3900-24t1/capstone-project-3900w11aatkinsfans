@@ -8,7 +8,10 @@
             "01:23",
             "03:34"
         ],
-        "label": "sit"
+        "label": {
+            "phrase": "sit up straight and finish your spinach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

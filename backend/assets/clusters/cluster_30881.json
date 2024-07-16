@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "our cities would be ablaze",
+            "count": 1
+        }
     },
     "clusterList": [
         {

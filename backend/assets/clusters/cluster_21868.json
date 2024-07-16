@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the best damn thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the night is starry and the stars are blue and shiver in the distance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

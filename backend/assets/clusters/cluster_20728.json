@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these companies got caught with their pants down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

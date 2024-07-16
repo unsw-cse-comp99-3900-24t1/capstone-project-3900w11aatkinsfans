@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well i always thought they were supposed to make sure the moose only crossed at the moose crossing signs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

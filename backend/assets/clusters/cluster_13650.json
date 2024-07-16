@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no longer in a relationship",
+            "count": 1
+        }
     },
     "clusterList": [
         {

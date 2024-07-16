@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "wow"
+        "label": {
+            "phrase": "wow i really understand this",
+            "count": 1
+        }
     },
     "clusterList": [
         {

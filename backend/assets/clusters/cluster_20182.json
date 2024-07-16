@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "saying"
+        "label": {
+            "phrase": "saying no is the ultimate self care",
+            "count": 1
+        }
     },
     "clusterList": [
         {

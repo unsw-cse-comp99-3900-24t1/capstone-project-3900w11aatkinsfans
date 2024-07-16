@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "origin"
+        "label": {
+            "phrase": "origin of symmetry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

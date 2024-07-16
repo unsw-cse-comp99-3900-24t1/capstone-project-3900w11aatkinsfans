@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "accept"
+        "label": {
+            "phrase": "accept incoming call",
+            "count": 1
+        }
     },
     "clusterList": [
         {

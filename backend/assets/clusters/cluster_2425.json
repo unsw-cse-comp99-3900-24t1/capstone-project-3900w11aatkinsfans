@@ -18,7 +18,10 @@
             "03:55",
             "04:27"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in this environment cash is king",
+            "count": 3
+        }
     },
     "clusterList": [
         {

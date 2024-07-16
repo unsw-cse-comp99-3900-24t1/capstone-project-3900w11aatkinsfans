@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "nearly"
+        "label": {
+            "phrase": "nearly every navy admiral in the pacific was in here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

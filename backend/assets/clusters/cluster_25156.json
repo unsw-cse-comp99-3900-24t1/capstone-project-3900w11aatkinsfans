@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i do believe you crashed into my son last night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

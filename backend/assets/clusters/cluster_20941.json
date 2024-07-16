@@ -6,7 +6,10 @@
         "xLabels": [
             "01:55"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he just strung us along",
+            "count": 1
+        }
     },
     "clusterList": [
         {

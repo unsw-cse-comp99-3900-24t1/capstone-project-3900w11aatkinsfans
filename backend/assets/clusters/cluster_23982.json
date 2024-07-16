@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "verily"
+        "label": {
+            "phrase": "verily they are in a manifest error",
+            "count": 1
+        }
     },
     "clusterList": [
         {

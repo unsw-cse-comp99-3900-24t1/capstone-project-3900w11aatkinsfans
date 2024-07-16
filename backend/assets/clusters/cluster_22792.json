@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "quantum"
+        "label": {
+            "phrase": "quantum wave packets",
+            "count": 1
+        }
     },
     "clusterList": [
         {

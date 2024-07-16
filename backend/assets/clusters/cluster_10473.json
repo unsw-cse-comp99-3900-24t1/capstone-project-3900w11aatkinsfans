@@ -8,7 +8,10 @@
             "02:06",
             "04:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the volume of complaints haven't been as high on this project as other projects",
+            "count": 1
+        }
     },
     "clusterList": [
         {

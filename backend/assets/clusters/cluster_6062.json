@@ -10,7 +10,10 @@
             "03:11",
             "04:13"
         ],
-        "label": "remember"
+        "label": {
+            "phrase": "remember the maine",
+            "count": 3
+        }
     },
     "clusterList": [
         {

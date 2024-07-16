@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "everything"
+        "label": {
+            "phrase": "everything you've told me is technically correct but i don't understand the information and the fact is that i'm still lost and don't know where i am",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we inadvertenly omitted pmi",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:17"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is a simple test email",
+            "count": 1
+        }
     },
     "clusterList": [
         {

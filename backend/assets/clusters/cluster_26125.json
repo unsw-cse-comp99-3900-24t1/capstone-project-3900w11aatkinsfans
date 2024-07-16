@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "fussiness"
+        "label": {
+            "phrase": "fussiness and hysteria",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "wither"
+        "label": {
+            "phrase": "wither on the vine",
+            "count": 1
+        }
     },
     "clusterList": [
         {

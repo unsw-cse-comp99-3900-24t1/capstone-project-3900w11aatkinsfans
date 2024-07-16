@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "interestingly"
+        "label": {
+            "phrase": "interestingly only connections to the hiring",
+            "count": 1
+        }
     },
     "clusterList": [
         {

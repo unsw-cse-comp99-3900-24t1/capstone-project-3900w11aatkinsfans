@@ -6,7 +6,10 @@
         "xLabels": [
             "01:04"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a walkway must withstand heavy foot traffic machinery and the wear and tear of the elements",
+            "count": 1
+        }
     },
     "clusterList": [
         {

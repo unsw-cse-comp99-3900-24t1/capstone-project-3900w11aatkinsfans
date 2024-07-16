@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know what i can't understand people who come here to work out and take the elevator",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:49"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we basically all ran for our lives",
+            "count": 1
+        }
     },
     "clusterList": [
         {

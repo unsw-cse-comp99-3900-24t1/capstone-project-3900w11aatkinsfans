@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what kind of words do rabbits say",
+            "count": 1
+        }
     },
     "clusterList": [
         {

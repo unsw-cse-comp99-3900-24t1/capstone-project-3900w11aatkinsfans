@@ -10,7 +10,10 @@
             "02:20",
             "03:43"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well that's two hours i'll never get back",
+            "count": 1
+        }
     },
     "clusterList": [
         {

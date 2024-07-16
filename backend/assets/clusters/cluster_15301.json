@@ -6,7 +6,10 @@
         "xLabels": [
             "01:24"
         ],
-        "label": "borriello"
+        "label": {
+            "phrase": "borriello has a problem which will be resolved quickly so we will wait for him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

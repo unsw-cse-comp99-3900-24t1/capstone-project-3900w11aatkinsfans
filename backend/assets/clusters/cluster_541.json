@@ -24,7 +24,10 @@
             "03:29",
             "04:33"
         ],
-        "label": "best-paid"
+        "label": {
+            "phrase": "best-paid actor i",
+            "count": 15
+        }
     },
     "clusterList": [
         {

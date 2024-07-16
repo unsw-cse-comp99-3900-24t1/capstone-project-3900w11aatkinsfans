@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "todd"
+        "label": {
+            "phrase": "todd bentley a prophet little known in his home town",
+            "count": 1
+        }
     },
     "clusterList": [
         {

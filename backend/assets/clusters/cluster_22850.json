@@ -6,7 +6,10 @@
         "xLabels": [
             "02:31"
         ],
-        "label": "shipper"
+        "label": {
+            "phrase": "shipper 0 successfully added",
+            "count": 1
+        }
     },
     "clusterList": [
         {

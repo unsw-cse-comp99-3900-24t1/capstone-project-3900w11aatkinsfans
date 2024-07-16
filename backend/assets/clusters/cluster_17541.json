@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you bring adventures to my life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

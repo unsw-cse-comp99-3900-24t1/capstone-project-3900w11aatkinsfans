@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a city block apart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

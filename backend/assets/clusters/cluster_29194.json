@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the killing fields",
+            "count": 1
+        }
     },
     "clusterList": [
         {

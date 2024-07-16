@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how to backpack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

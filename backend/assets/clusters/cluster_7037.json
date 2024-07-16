@@ -10,7 +10,10 @@
             "02:29",
             "05:01"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we admire those traits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

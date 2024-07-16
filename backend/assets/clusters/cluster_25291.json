@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "rutabaga's"
+        "label": {
+            "phrase": "rutabaga's a nicer word i use it in place of a swear word sometime",
+            "count": 1
+        }
     },
     "clusterList": [
         {

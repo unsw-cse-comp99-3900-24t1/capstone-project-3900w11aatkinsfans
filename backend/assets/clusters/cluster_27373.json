@@ -6,7 +6,10 @@
         "xLabels": [
             "04:01"
         ],
-        "label": "strictly"
+        "label": {
+            "phrase": "strictly the rat pack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

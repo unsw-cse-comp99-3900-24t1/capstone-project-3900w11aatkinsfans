@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the energy in kitchen stadium inspired me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

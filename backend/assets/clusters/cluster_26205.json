@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "guess"
+        "label": {
+            "phrase": "guess what was in it mom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

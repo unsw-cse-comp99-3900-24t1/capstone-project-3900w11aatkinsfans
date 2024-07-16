@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have a joint venture with",
+            "count": 1
+        }
     },
     "clusterList": [
         {

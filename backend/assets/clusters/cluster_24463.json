@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my dream is not to die in poverty but to have poverty die in me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

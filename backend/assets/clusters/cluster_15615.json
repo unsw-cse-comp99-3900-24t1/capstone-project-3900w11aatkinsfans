@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "clean"
+        "label": {
+            "phrase": "clean creek campus",
+            "count": 1
+        }
     },
     "clusterList": [
         {

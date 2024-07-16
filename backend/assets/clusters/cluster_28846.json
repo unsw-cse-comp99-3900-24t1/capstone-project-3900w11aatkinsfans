@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "while"
+        "label": {
+            "phrase": "while in the cave the organism rests but keeps one eye open",
+            "count": 1
+        }
     },
     "clusterList": [
         {

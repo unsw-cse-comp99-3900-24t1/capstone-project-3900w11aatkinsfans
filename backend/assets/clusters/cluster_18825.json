@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "senator"
+        "label": {
+            "phrase": "senator mccaskill's work on the whistleblower and the inspector general provisions helped convince the conferees to provide whistleblower protections to millions of workers in the consumer products sector",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:35",
             "04:18"
         ],
-        "label": "king"
+        "label": {
+            "phrase": "barons of suburbia",
+            "count": 2
+        }
     },
     "clusterList": [
         {

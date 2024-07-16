@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what would david hasslehoff do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

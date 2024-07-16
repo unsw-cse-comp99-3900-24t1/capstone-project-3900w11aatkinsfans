@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he would bike right past my house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i appreciate your balance with regard to the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

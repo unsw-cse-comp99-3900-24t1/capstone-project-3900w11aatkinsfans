@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this was not ownership this was not management",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they took their pens and dared to create",
+            "count": 1
+        }
     },
     "clusterList": [
         {

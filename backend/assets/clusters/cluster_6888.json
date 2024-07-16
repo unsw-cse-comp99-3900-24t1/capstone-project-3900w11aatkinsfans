@@ -10,7 +10,10 @@
             "02:01",
             "03:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the secret goldfish",
+            "count": 1
+        }
     },
     "clusterList": [
         {

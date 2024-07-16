@@ -10,7 +10,10 @@
             "02:33",
             "03:56"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the taxi driver waiting for us was astonished at what was happening",
+            "count": 1
+        }
     },
     "clusterList": [
         {

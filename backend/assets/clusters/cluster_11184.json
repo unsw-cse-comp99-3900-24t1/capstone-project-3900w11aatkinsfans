@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the goal to cleanse the anp is started here at the regional training center",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are thrilled to have catalyzed the harvard-columbia collaboration that led to this discovery",
+            "count": 1
+        }
     },
     "clusterList": [
         {

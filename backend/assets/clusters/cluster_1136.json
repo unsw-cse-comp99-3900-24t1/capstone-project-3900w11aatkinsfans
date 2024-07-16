@@ -30,7 +30,10 @@
             "04:33",
             "04:57"
         ],
-        "label": "ebay"
+        "label": {
+            "phrase": "ebay end of auction",
+            "count": 5
+        }
     },
     "clusterList": [
         {

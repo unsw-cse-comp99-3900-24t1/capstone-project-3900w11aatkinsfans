@@ -6,7 +6,10 @@
         "xLabels": [
             "04:20"
         ],
-        "label": "famous"
+        "label": {
+            "phrase": "famous for doing something bad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

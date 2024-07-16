@@ -10,7 +10,10 @@
             "01:32",
             "04:46"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these water bowls are empty because rabbits drink water at night",
+            "count": 4
+        }
     },
     "clusterList": [
         {

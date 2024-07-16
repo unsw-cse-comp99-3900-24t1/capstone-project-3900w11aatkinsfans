@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "sea"
+        "label": {
+            "phrase": "sea turtles do not have teeth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

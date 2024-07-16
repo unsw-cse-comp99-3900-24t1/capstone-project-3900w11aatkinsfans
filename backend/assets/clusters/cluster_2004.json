@@ -20,7 +20,10 @@
             "04:37",
             "04:45"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "positive for families",
+            "count": 2
+        }
     },
     "clusterList": [
         {

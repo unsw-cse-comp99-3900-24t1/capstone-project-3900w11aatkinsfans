@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am now going to the shelter because my wife forced me to",
+            "count": 1
+        }
     },
     "clusterList": [
         {

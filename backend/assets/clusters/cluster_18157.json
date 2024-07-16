@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in about a week the board will know what its next step will be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

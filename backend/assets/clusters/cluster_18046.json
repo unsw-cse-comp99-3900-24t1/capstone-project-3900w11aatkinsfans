@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "everyone's"
+        "label": {
+            "phrase": "everyone's talking about increasing tolls",
+            "count": 1
+        }
     },
     "clusterList": [
         {

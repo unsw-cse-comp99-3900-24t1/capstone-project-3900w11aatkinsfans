@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the grumpy diabetic guy",
+            "count": 2
+        }
     },
     "clusterList": [
         {

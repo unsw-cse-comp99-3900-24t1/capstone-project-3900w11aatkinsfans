@@ -20,7 +20,10 @@
             "04:35",
             "05:04"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "the message sent today is that no company is above the law",
+            "count": 2
+        }
     },
     "clusterList": [
         {

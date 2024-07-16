@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "writing"
+        "label": {
+            "phrase": "writing is a socially acceptable form of schizophrenia",
+            "count": 1
+        }
     },
     "clusterList": [
         {

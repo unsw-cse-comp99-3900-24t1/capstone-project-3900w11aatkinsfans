@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the 2008 olympic gold medalist on uneven bars",
+            "count": 1
+        }
     },
     "clusterList": [
         {

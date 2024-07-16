@@ -18,7 +18,10 @@
             "03:55",
             "04:21"
         ],
-        "label": "everybody's"
+        "label": {
+            "phrase": "everybody's talking about",
+            "count": 2
+        }
     },
     "clusterList": [
         {

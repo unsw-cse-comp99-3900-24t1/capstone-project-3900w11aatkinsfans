@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "pain"
+        "label": {
+            "phrase": "pain is your greatest ally it is a constant reminder you are alive",
+            "count": 1
+        }
     },
     "clusterList": [
         {

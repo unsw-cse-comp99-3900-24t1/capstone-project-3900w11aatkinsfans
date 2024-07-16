@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "very"
+        "label": {
+            "phrase": "very critical condition",
+            "count": 1
+        }
     },
     "clusterList": [
         {

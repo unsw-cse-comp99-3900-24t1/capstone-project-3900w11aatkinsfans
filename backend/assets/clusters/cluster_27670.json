@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "five"
+        "label": {
+            "phrase": "five years ago this week we led a coalition to liberate this country from tyranny it's never been easy but we know from history that it's worth all the effort we put into it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

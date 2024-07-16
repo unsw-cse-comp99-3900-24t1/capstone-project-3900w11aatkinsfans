@@ -14,7 +14,10 @@
             "02:01",
             "03:06"
         ],
-        "label": "strip"
+        "label": {
+            "phrase": "strip the bark",
+            "count": 3
+        }
     },
     "clusterList": [
         {

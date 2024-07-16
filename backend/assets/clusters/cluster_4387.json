@@ -12,7 +12,10 @@
             "02:01",
             "04:40"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have a look",
+            "count": 1
+        }
     },
     "clusterList": [
         {

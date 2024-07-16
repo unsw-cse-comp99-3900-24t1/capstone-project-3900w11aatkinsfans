@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "lump"
+        "label": {
+            "phrase": "lump of work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

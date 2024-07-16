@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "pagdating"
+        "label": {
+            "phrase": "pagdating ng panahon when the time comes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

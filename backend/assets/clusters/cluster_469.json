@@ -48,7 +48,10 @@
             "04:36",
             "04:38"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what can you do for me",
+            "count": 2
+        }
     },
     "clusterList": [
         {

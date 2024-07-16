@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "quit"
+        "label": {
+            "phrase": "quit saying mornin shhhhhhhhhhhh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

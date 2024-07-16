@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "case"
+        "label": {
+            "phrase": "case of the vengeful veterinarian",
+            "count": 1
+        }
     },
     "clusterList": [
         {

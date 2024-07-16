@@ -32,7 +32,10 @@
             "04:04",
             "04:06"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a block wall",
+            "count": 3
+        }
     },
     "clusterList": [
         {

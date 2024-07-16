@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "hrm"
+        "label": {
+            "phrase": "hrm is obliged to issue the permit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

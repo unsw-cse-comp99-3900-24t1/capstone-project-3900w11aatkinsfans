@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the hudsucker proxy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

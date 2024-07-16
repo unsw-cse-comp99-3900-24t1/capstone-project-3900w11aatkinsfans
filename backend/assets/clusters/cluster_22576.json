@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't think an agent would like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

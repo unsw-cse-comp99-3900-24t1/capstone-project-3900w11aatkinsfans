@@ -14,7 +14,10 @@
             "01:23",
             "01:50"
         ],
-        "label": "canadians"
+        "label": {
+            "phrase": "canadians are wussies",
+            "count": 6
+        }
     },
     "clusterList": [
         {

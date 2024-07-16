@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no matter how ridiculous it may be",
+            "count": 1
+        }
     },
     "clusterList": [
         {

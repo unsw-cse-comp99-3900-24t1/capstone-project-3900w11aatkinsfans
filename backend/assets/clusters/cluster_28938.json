@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is emo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

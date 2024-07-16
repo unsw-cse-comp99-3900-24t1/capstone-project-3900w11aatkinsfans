@@ -20,7 +20,10 @@
             "02:44",
             "03:56"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "go to washington",
+            "count": 2
+        }
     },
     "clusterList": [
         {

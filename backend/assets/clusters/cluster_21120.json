@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it doesn't get much lower than that i've got to say",
+            "count": 1
+        }
     },
     "clusterList": [
         {

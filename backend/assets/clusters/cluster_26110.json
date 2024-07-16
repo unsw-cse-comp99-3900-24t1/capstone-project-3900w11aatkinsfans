@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "draw"
+        "label": {
+            "phrase": "draw like crazy every day and never miss a deadline",
+            "count": 1
+        }
     },
     "clusterList": [
         {

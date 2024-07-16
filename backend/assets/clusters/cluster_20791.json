@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they are worthless",
+            "count": 1
+        }
     },
     "clusterList": [
         {

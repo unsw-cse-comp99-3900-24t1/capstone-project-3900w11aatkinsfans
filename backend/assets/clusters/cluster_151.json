@@ -78,7 +78,10 @@
             "04:55",
             "05:03"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm pretty excited about that",
+            "count": 13
+        }
     },
     "clusterList": [
         {

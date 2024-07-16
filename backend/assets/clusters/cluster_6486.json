@@ -10,7 +10,10 @@
             "03:29",
             "04:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the house has been the greatest blessing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "plunge"
+        "label": {
+            "phrase": "plunge from the home key of g major onto an unstable b minor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

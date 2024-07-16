@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "sometimes"
+        "label": {
+            "phrase": "sometimes your the pidgen and sometimes your the statue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the european union's top court",
+            "count": 1
+        }
     },
     "clusterList": [
         {

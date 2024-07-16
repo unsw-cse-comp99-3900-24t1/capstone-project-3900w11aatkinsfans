@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it comes to 70 killed a day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

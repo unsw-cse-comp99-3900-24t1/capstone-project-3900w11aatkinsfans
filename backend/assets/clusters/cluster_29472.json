@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "wordpress"
+        "label": {
+            "phrase": "wordpress should correct invalidly nested xhtml automatically",
+            "count": 1
+        }
     },
     "clusterList": [
         {

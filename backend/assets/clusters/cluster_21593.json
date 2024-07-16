@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "teach"
+        "label": {
+            "phrase": "teach perl like a pirate day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

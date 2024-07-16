@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "now"
+        "label": {
+            "phrase": "now also working with m silverlight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

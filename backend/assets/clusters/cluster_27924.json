@@ -6,7 +6,10 @@
         "xLabels": [
             "04:09"
         ],
-        "label": "adoration"
+        "label": {
+            "phrase": "adoration for scarlett",
+            "count": 1
+        }
     },
     "clusterList": [
         {

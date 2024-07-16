@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "fairfax"
+        "label": {
+            "phrase": "fairfax county certainly benefits from the well-deserved reputation the commonwealth enjoys as a good place to do business",
+            "count": 1
+        }
     },
     "clusterList": [
         {

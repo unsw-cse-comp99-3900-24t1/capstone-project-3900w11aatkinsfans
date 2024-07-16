@@ -6,7 +6,10 @@
         "xLabels": [
             "00:02"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the true keeps calm biding its story",
+            "count": 1
+        }
     },
     "clusterList": [
         {

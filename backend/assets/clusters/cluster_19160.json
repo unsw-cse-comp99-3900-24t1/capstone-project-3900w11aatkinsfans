@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most important bilateral relationship",
+            "count": 1
+        }
     },
     "clusterList": [
         {

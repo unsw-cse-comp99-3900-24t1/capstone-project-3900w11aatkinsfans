@@ -8,7 +8,10 @@
             "00:14",
             "04:13"
         ],
-        "label": "large"
+        "label": {
+            "phrase": "large for a size small",
+            "count": 1
+        }
     },
     "clusterList": [
         {

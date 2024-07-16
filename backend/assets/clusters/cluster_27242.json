@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm gonna fight you steve",
+            "count": 1
+        }
     },
     "clusterList": [
         {

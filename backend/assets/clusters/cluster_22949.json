@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why is it called bokbier",
+            "count": 1
+        }
     },
     "clusterList": [
         {

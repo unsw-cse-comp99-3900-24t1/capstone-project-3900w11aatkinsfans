@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the people who came in first are the people with the high-performance cells",
+            "count": 1
+        }
     },
     "clusterList": [
         {

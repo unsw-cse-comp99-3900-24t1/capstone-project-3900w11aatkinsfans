@@ -10,7 +10,10 @@
             "01:32",
             "02:39"
         ],
-        "label": "blackwater"
+        "label": {
+            "phrase": "blackwater is getting a bad rap",
+            "count": 2
+        }
     },
     "clusterList": [
         {

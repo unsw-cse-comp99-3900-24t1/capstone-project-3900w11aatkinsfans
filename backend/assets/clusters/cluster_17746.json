@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "birch"
+        "label": {
+            "phrase": "birch in color",
+            "count": 1
+        }
     },
     "clusterList": [
         {

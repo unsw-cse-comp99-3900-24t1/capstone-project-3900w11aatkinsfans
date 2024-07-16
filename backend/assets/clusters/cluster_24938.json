@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "livery"
+        "label": {
+            "phrase": "livery of seisin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

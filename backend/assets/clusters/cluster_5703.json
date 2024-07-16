@@ -10,7 +10,10 @@
             "02:44",
             "04:05"
         ],
-        "label": "failure"
+        "label": {
+            "phrase": "failure of imagination",
+            "count": 3
+        }
     },
     "clusterList": [
         {

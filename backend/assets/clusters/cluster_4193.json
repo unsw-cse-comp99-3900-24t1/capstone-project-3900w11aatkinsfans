@@ -12,7 +12,10 @@
             "03:55",
             "03:57"
         ],
-        "label": "none"
+        "label": {
+            "phrase": "none of these",
+            "count": 2
+        }
     },
     "clusterList": [
         {

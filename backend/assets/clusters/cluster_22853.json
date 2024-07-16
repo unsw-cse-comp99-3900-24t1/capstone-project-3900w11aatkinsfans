@@ -6,7 +6,10 @@
         "xLabels": [
             "02:31"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we need a little proof",
+            "count": 1
+        }
     },
     "clusterList": [
         {

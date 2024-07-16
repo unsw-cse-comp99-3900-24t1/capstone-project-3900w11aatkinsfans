@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're sharing lunch now and this is after your sweaty romantic activity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

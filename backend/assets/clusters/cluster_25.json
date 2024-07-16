@@ -8,7 +8,10 @@
             "00:22",
             "04:33"
         ],
-        "label": "unidentified"
+        "label": {
+            "phrase": "unidentified flying threats",
+            "count": 54
+        }
     },
     "clusterList": [
         {

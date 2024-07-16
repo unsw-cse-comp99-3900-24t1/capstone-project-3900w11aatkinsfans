@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "jaws"
+        "label": {
+            "phrase": "jaws is well aware the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

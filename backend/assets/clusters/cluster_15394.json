@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "duh"
+        "label": {
+            "phrase": "duh well amy's bed isn't big enough",
+            "count": 1
+        }
     },
     "clusterList": [
         {

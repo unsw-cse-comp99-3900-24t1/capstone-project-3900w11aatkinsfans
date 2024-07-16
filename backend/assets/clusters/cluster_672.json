@@ -36,7 +36,10 @@
             "04:08",
             "04:23"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things we can do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

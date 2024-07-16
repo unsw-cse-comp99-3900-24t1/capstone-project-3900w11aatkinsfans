@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am paying attention would you stop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

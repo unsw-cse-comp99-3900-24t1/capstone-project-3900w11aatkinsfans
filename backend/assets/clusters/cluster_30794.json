@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "new"
+        "label": {
+            "phrase": "new harsh language",
+            "count": 1
+        }
     },
     "clusterList": [
         {

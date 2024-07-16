@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no problem we'll hold it for you till you get out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

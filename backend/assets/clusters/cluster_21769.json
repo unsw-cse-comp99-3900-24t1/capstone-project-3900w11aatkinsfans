@@ -6,7 +6,10 @@
         "xLabels": [
             "02:12"
         ],
-        "label": "okay"
+        "label": {
+            "phrase": "okay i get it don't waste my life",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i expect major developments in fields like quantum information",
+            "count": 1
+        }
     },
     "clusterList": [
         {

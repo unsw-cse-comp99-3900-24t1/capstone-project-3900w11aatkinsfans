@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "knowledge"
+        "label": {
+            "phrase": "knowledge comes with action while narrating comes with investigating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

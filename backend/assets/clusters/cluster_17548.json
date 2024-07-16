@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where do we put the next 50 itaipu's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one more wave",
+            "count": 1
+        }
     },
     "clusterList": [
         {

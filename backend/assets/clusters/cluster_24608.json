@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people 50 to 64 are very busy so sometimes healthcare takes a back seat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

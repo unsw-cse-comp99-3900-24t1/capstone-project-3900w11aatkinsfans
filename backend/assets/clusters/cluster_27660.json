@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not politically active",
+            "count": 1
+        }
     },
     "clusterList": [
         {

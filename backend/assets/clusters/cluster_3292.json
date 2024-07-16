@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "internal"
+        "label": {
+            "phrase": "internal radiative forcing",
+            "count": 6
+        }
     },
     "clusterList": [
         {

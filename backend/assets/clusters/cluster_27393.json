@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "town"
+        "label": {
+            "phrase": "town of the large canoes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

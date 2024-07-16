@@ -10,7 +10,10 @@
             "03:37",
             "04:41"
         ],
-        "label": "free"
+        "label": {
+            "phrase": "free call day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

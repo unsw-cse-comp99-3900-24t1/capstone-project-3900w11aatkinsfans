@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes but what does it make me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

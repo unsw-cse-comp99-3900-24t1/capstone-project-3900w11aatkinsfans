@@ -6,7 +6,10 @@
         "xLabels": [
             "03:02"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a horse walks into a bar",
+            "count": 1
+        }
     },
     "clusterList": [
         {

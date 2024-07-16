@@ -6,7 +6,10 @@
         "xLabels": [
             "01:14"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i am asking you to write with great humility",
+            "count": 1
+        }
     },
     "clusterList": [
         {

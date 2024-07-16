@@ -32,7 +32,10 @@
             "04:23",
             "04:51"
         ],
-        "label": "clearly"
+        "label": {
+            "phrase": "we thought we needed one",
+            "count": 5
+        }
     },
     "clusterList": [
         {

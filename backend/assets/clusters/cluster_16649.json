@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "life"
+        "label": {
+            "phrase": "life is too expensive you are killing us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

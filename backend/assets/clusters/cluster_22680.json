@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the type of people that are commenting on fred's youtube videos",
+            "count": 1
+        }
     },
     "clusterList": [
         {

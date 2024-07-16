@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lot of it is not usable",
+            "count": 1
+        }
     },
     "clusterList": [
         {

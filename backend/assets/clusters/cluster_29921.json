@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "paddy"
+        "label": {
+            "phrase": "paddy why is it that whenever you ask an irishman a question he answers with another question",
+            "count": 1
+        }
     },
     "clusterList": [
         {

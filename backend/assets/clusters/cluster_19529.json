@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "some"
+        "label": {
+            "phrase": "some parties have reservations over some expressions but not over any of the statement's clauses",
+            "count": 1
+        }
     },
     "clusterList": [
         {

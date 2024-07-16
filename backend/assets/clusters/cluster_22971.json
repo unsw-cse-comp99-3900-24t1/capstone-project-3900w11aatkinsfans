@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "back"
+        "label": {
+            "phrase": "back to bacharach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all indications were that mr ayro was killed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

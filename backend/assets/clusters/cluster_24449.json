@@ -6,7 +6,10 @@
         "xLabels": [
             "03:08"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a great advantage of our service is that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

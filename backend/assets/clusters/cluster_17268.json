@@ -6,7 +6,10 @@
         "xLabels": [
             "01:28"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no parking on the dance floor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

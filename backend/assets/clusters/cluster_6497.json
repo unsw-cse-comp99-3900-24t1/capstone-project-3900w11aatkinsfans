@@ -10,7 +10,10 @@
             "02:05",
             "03:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "everyone thinks i'm a space case",
+            "count": 2
+        }
     },
     "clusterList": [
         {

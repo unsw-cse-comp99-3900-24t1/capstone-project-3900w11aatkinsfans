@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't mine that forever",
+            "count": 1
+        }
     },
     "clusterList": [
         {

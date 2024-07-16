@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "provide"
+        "label": {
+            "phrase": "provide an exciting and thrilling demonstration of boxers bouts in each weight category",
+            "count": 1
+        }
     },
     "clusterList": [
         {

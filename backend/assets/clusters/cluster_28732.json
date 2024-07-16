@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you did not remember which way the hammer and sickle are turned",
+            "count": 1
+        }
     },
     "clusterList": [
         {

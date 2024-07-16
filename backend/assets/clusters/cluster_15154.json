@@ -6,7 +6,10 @@
         "xLabels": [
             "03:38"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are no cheap fixes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

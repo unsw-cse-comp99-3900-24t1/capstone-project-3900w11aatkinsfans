@@ -8,7 +8,10 @@
             "02:13",
             "04:37"
         ],
-        "label": "configuration"
+        "label": {
+            "phrase": "configuration and preferences",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's right but so far bull is winning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

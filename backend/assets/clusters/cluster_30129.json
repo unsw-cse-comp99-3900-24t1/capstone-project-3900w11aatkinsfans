@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're just working on our leverage points",
+            "count": 1
+        }
     },
     "clusterList": [
         {

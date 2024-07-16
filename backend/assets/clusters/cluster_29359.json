@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those folks will be able to walk into an ice office and say i'm here and i want to go home",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "00:12",
             "04:59"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how long have you worked here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

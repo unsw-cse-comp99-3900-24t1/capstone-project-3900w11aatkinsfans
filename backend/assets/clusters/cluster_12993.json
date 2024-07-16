@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what do you wish of me o master",
+            "count": 1
+        }
     },
     "clusterList": [
         {

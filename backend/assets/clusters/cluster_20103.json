@@ -6,7 +6,10 @@
         "xLabels": [
             "01:40"
         ],
-        "label": "exploitation"
+        "label": {
+            "phrase": "exploitation of wounds",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is x technically spamming",
+            "count": 1
+        }
     },
     "clusterList": [
         {

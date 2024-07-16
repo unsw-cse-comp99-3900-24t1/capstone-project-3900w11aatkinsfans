@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're in the cabinet to your right ma'am",
+            "count": 1
+        }
     },
     "clusterList": [
         {

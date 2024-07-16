@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when will you win another slam",
+            "count": 1
+        }
     },
     "clusterList": [
         {

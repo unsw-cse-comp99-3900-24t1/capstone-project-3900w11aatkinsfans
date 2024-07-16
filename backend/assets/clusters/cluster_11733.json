@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "woe"
+        "label": {
+            "phrase": "woe to you who ordered you to do this",
+            "count": 2
+        }
     },
     "clusterList": [
         {

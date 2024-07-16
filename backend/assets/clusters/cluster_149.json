@@ -48,7 +48,10 @@
             "04:51",
             "05:05"
         ],
-        "label": "enemies"
+        "label": {
+            "phrase": "the good is the enemy of the best",
+            "count": 21
+        }
     },
     "clusterList": [
         {

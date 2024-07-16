@@ -10,7 +10,10 @@
             "04:13",
             "04:21"
         ],
-        "label": "six"
+        "label": {
+            "phrase": "six degrees of separation",
+            "count": 3
+        }
     },
     "clusterList": [
         {

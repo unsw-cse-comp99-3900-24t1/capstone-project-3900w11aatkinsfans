@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all loan terms would be carefully explained",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not able to share any additional information",
+            "count": 1
+        }
     },
     "clusterList": [
         {

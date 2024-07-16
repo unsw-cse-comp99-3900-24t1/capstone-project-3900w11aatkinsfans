@@ -10,7 +10,10 @@
             "02:23",
             "04:32"
         ],
-        "label": "he's"
+        "label": {
+            "phrase": "he's my pick this week",
+            "count": 1
+        }
     },
     "clusterList": [
         {

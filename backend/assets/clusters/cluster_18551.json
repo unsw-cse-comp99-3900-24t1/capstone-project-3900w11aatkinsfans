@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a politician is an animal which can sit on a fence and yet keep both ears to the ground",
+            "count": 1
+        }
     },
     "clusterList": [
         {

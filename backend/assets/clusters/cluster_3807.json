@@ -8,7 +8,10 @@
             "03:01",
             "03:42"
         ],
-        "label": "school"
+        "label": {
+            "phrase": "school is practice practice makes perfect noone is perfect so why practice",
+            "count": 5
+        }
     },
     "clusterList": [
         {

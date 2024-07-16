@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most colleagues published by the pound",
+            "count": 1
+        }
     },
     "clusterList": [
         {

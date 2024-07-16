@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "being"
+        "label": {
+            "phrase": "being able to walk to get a cappuccino",
+            "count": 1
+        }
     },
     "clusterList": [
         {

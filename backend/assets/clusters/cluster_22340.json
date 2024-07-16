@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i stole one on 16 and another on the 18",
+            "count": 1
+        }
     },
     "clusterList": [
         {

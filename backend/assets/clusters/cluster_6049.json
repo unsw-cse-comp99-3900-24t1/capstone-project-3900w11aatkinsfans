@@ -10,7 +10,10 @@
             "02:19",
             "04:03"
         ],
-        "label": "verdict"
+        "label": {
+            "phrase": "verdict is still out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

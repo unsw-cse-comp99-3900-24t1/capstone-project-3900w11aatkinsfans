@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the curious case of benjamin buttons",
+            "count": 2
+        }
     },
     "clusterList": [
         {

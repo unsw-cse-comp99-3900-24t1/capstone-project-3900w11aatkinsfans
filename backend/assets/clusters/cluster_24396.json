@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you seemed so much to me did i seem much to you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "00:24",
             "01:27"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've been a gardener for 40 years and all i've got is a bare spot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

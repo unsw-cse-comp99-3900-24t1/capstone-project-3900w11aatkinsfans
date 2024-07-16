@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the department of housing is putting bad people in here without checking on their past history",
+            "count": 1
+        }
     },
     "clusterList": [
         {

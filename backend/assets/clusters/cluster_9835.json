@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "spurgeon"
+        "label": {
+            "phrase": "spurgeon was once asked when he would quit smoking cigars",
+            "count": 2
+        }
     },
     "clusterList": [
         {

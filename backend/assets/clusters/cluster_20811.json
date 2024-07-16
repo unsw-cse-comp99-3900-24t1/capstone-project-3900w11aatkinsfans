@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "housing"
+        "label": {
+            "phrase": "housing is no where near bottom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "while"
+        "label": {
+            "phrase": "while my guitar gently weeps",
+            "count": 1
+        }
     },
     "clusterList": [
         {

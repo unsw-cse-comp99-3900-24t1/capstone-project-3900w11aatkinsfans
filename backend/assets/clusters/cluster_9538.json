@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your testimony seems all too defensive of the existing system",
+            "count": 2
+        }
     },
     "clusterList": [
         {

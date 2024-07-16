@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then it would have an educational mission",
+            "count": 1
+        }
     },
     "clusterList": [
         {

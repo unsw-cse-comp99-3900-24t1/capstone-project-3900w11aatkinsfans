@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey it looks like this package is somehow attached to the dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

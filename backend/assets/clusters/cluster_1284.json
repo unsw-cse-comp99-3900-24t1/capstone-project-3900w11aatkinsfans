@@ -24,7 +24,10 @@
             "01:47",
             "02:39"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the balancing fuel will be coal",
+            "count": 4
+        }
     },
     "clusterList": [
         {

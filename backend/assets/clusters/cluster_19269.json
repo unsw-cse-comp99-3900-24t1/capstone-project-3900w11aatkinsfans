@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "obama"
+        "label": {
+            "phrase": "obama andreas live aristoi",
+            "count": 1
+        }
     },
     "clusterList": [
         {

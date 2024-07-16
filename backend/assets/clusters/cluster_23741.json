@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "landevejens"
+        "label": {
+            "phrase": "landevejens rastl se cowboys",
+            "count": 1
+        }
     },
     "clusterList": [
         {

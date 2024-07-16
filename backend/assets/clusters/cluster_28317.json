@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "hooray"
+        "label": {
+            "phrase": "hooray reunification whooooo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

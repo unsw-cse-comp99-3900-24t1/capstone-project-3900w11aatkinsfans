@@ -6,7 +6,10 @@
         "xLabels": [
             "02:08"
         ],
-        "label": "alas"
+        "label": {
+            "phrase": "alas poor yoric i knew him in america",
+            "count": 1
+        }
     },
     "clusterList": [
         {

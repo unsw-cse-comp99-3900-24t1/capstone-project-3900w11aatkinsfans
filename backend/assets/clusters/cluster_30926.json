@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "jack"
+        "label": {
+            "phrase": "jack this is angelica",
+            "count": 1
+        }
     },
     "clusterList": [
         {

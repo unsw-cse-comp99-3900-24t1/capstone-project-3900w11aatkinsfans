@@ -12,7 +12,10 @@
             "02:09",
             "04:18"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes yes i did it i'm a real owner",
+            "count": 3
+        }
     },
     "clusterList": [
         {

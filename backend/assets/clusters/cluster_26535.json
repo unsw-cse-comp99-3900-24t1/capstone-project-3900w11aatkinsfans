@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "peter"
+        "label": {
+            "phrase": "peter would talk about heebner constantly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

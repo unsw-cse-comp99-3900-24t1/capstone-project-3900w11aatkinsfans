@@ -24,7 +24,10 @@
             "05:04",
             "05:05"
         ],
-        "label": "before"
+        "label": {
+            "phrase": "before the end of the",
+            "count": 7
+        }
     },
     "clusterList": [
         {

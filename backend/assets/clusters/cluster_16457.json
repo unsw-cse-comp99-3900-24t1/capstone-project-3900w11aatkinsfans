@@ -6,7 +6,10 @@
         "xLabels": [
             "00:48"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this far exceeded our initial expectations for opening day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

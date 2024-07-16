@@ -6,7 +6,10 @@
         "xLabels": [
             "00:09"
         ],
-        "label": "hot"
+        "label": {
+            "phrase": "hot ish archives",
+            "count": 2
+        }
     },
     "clusterList": [
         {

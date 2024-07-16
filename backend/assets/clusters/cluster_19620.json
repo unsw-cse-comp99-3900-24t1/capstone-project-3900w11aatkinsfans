@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we run away at night when everyone is asleep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

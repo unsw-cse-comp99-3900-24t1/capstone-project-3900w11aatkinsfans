@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've had enough of this guards",
+            "count": 1
+        }
     },
     "clusterList": [
         {

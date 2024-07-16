@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the master answered",
+            "count": 1
+        }
     },
     "clusterList": [
         {

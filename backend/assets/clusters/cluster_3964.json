@@ -12,7 +12,10 @@
             "03:23",
             "04:04"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "remembering the kana",
+            "count": 4
+        }
     },
     "clusterList": [
         {

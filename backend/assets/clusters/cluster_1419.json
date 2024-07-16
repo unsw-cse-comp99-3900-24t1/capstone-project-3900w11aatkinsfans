@@ -24,7 +24,10 @@
             "04:18",
             "04:28"
         ],
-        "label": "business"
+        "label": {
+            "phrase": "business as usual",
+            "count": 5
+        }
     },
     "clusterList": [
         {

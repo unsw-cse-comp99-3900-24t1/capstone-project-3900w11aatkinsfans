@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "family"
+        "label": {
+            "phrase": "family water attractions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

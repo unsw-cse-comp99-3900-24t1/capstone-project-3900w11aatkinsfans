@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the rain has made it very unstable it's more like gloop than jelly really",
+            "count": 1
+        }
     },
     "clusterList": [
         {

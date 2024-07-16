@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "manipulative"
+        "label": {
+            "phrase": "manipulative and tyrannical owner",
+            "count": 2
+        }
     },
     "clusterList": [
         {

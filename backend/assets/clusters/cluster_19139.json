@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "many"
+        "label": {
+            "phrase": "many many people put many many hours into how it ended up too",
+            "count": 1
+        }
     },
     "clusterList": [
         {

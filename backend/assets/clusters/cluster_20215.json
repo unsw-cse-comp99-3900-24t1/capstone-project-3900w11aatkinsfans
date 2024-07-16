@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i can't believe they watch listen to or do that stuff",
+            "count": 1
+        }
     },
     "clusterList": [
         {

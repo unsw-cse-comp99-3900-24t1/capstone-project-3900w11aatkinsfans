@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "break"
+        "label": {
+            "phrase": "break the blockade",
+            "count": 2
+        }
     },
     "clusterList": [
         {

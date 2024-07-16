@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you know i feel so strange today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

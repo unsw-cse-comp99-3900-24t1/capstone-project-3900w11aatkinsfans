@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pta is the springboard of my passion for education",
+            "count": 1
+        }
     },
     "clusterList": [
         {

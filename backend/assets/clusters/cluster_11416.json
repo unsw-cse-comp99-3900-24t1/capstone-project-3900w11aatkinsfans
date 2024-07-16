@@ -6,7 +6,10 @@
         "xLabels": [
             "03:25"
         ],
-        "label": "from"
+        "label": {
+            "phrase": "from the comfort of your own car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

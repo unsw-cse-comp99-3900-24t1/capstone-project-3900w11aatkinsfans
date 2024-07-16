@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "look"
+        "label": {
+            "phrase": "look don't you tell me what ta do",
+            "count": 1
+        }
     },
     "clusterList": [
         {

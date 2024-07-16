@@ -6,7 +6,10 @@
         "xLabels": [
             "00:32"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the way the swiss government approaches this is that every person who is a swiss citizen has the right to be able to live decently",
+            "count": 1
+        }
     },
     "clusterList": [
         {

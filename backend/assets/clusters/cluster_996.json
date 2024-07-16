@@ -30,7 +30,10 @@
             "04:32",
             "04:37"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "an anger management class",
+            "count": 6
+        }
     },
     "clusterList": [
         {

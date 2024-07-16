@@ -12,7 +12,10 @@
             "04:08",
             "04:45"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "not ready for combat",
+            "count": 4
+        }
     },
     "clusterList": [
         {

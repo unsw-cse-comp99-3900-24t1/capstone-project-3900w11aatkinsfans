@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "uh"
+        "label": {
+            "phrase": "uh this is too bitter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

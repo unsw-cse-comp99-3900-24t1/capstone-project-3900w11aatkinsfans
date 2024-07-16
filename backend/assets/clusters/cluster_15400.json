@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and does not have government support",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "south"
+        "label": {
+            "phrase": "south side police station moving to hilltop",
+            "count": 1
+        }
     },
     "clusterList": [
         {

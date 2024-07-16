@@ -22,7 +22,10 @@
             "04:05",
             "04:28"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "chef in concerto",
+            "count": 3
+        }
     },
     "clusterList": [
         {

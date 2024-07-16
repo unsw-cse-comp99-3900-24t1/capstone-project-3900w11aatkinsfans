@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they drink four bottles a day each still so that's 20 bottles a day i'd say we go through about 30 diapers a day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have about 15 minutes worth of backup power",
+            "count": 1
+        }
     },
     "clusterList": [
         {

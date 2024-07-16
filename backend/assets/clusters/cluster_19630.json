@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why you have so many guns and painting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

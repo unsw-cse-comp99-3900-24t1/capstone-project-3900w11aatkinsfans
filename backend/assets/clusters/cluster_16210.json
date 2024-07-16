@@ -6,7 +6,10 @@
         "xLabels": [
             "00:45"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're more likely to be working off the new low list than the new high list",
+            "count": 1
+        }
     },
     "clusterList": [
         {

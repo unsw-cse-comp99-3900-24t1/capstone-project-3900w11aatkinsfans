@@ -10,7 +10,10 @@
             "02:34",
             "03:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the coolest videos ever",
+            "count": 3
+        }
     },
     "clusterList": [
         {

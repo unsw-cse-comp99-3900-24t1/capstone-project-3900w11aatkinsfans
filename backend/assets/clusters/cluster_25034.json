@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "t'ink"
+        "label": {
+            "phrase": "t'ink lawrence t'ink",
+            "count": 1
+        }
     },
     "clusterList": [
         {

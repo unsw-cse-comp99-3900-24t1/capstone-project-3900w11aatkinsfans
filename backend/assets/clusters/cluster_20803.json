@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in the grand scheme of things",
+            "count": 1
+        }
     },
     "clusterList": [
         {

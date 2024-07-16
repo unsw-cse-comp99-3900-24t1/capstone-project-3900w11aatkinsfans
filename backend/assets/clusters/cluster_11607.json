@@ -6,7 +6,10 @@
         "xLabels": [
             "03:46"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you two of my friends died while playing halo",
+            "count": 2
+        }
     },
     "clusterList": [
         {

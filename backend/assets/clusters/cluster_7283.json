@@ -10,7 +10,10 @@
             "04:17",
             "05:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "the thing you don't want",
+            "count": 2
+        }
     },
     "clusterList": [
         {

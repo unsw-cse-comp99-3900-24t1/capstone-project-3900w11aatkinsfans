@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "very"
+        "label": {
+            "phrase": "very impressive indeed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "chinese"
+        "label": {
+            "phrase": "chinese authorities have found sentences within the text which infringe their sovereignty and have refused to grant an export authorisation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

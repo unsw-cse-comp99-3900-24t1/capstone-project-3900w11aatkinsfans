@@ -8,7 +8,10 @@
             "00:33",
             "04:06"
         ],
-        "label": "push"
+        "label": {
+            "phrase": "push the mixing bowl across the floor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

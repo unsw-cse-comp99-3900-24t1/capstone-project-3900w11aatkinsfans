@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "handsfree"
+        "label": {
+            "phrase": "handsfree if you hold my hand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

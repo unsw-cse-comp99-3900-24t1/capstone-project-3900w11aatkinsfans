@@ -14,7 +14,10 @@
             "04:45",
             "04:55"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the deadly affair",
+            "count": 1
+        }
     },
     "clusterList": [
         {

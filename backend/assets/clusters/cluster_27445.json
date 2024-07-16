@@ -6,7 +6,10 @@
         "xLabels": [
             "04:03"
         ],
-        "label": "documentary"
+        "label": {
+            "phrase": "documentary of comrade deng xiaoping in shenzhen",
+            "count": 1
+        }
     },
     "clusterList": [
         {

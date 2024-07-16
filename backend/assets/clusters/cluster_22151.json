@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there were no cheers of jubilation or hats thrown in the air or anything",
+            "count": 1
+        }
     },
     "clusterList": [
         {

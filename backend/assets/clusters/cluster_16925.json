@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the wizard of oz he's back at it again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

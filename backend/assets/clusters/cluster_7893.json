@@ -8,7 +8,10 @@
             "00:01",
             "00:05"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of the most abiding images",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an inverted 3",
+            "count": 1
+        }
     },
     "clusterList": [
         {

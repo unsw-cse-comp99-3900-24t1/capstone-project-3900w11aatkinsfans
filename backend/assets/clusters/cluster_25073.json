@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "yay"
+        "label": {
+            "phrase": "yay we've got light",
+            "count": 1
+        }
     },
     "clusterList": [
         {

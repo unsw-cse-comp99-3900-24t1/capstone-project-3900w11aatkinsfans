@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "napoleon"
+        "label": {
+            "phrase": "napoleon ought never to be confused with nelson",
+            "count": 1
+        }
     },
     "clusterList": [
         {

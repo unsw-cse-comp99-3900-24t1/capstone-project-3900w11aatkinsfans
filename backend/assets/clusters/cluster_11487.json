@@ -8,7 +8,10 @@
             "03:34",
             "04:14"
         ],
-        "label": "d"
+        "label": {
+            "phrase": "d winavr 1 lib gcc avr include",
+            "count": 2
+        }
     },
     "clusterList": [
         {

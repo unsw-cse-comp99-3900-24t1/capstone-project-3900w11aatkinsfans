@@ -8,7 +8,10 @@
             "00:02",
             "03:18"
         ],
-        "label": "please"
+        "label": {
+            "phrase": "please hold for two minutes while i check on something",
+            "count": 1
+        }
     },
     "clusterList": [
         {

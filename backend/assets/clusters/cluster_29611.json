@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is it on is it off",
+            "count": 1
+        }
     },
     "clusterList": [
         {

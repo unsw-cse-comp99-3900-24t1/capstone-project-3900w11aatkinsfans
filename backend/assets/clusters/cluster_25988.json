@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the children dancing dancing dancing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

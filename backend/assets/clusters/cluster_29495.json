@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i once knew a man back in chokawagga county who could read",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:47"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not the same if your boat just has a number is it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "al-douri"
+        "label": {
+            "phrase": "al-douri is believed to play an important role in financing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people are using the word",
+            "count": 1
+        }
     },
     "clusterList": [
         {

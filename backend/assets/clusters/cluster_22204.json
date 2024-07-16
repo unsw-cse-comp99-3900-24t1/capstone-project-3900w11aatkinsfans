@@ -6,7 +6,10 @@
         "xLabels": [
             "02:20"
         ],
-        "label": "kids"
+        "label": {
+            "phrase": "kids are time-rich and cash-poor and have an infinite supply of ingenuity and impecuniousness to apply to the job of getting music for free",
+            "count": 1
+        }
     },
     "clusterList": [
         {

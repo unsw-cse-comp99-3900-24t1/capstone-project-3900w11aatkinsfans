@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i could care less what's in my neighbor's driveway",
+            "count": 1
+        }
     },
     "clusterList": [
         {

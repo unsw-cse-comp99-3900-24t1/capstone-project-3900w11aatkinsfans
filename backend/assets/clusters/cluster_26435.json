@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you don't have to understand it to understand dedupe",
+            "count": 1
+        }
     },
     "clusterList": [
         {

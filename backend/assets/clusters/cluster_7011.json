@@ -10,7 +10,10 @@
             "02:25",
             "03:01"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it has gone and hit the edge of the channel and is stuck waiting for the next high tide",
+            "count": 3
+        }
     },
     "clusterList": [
         {

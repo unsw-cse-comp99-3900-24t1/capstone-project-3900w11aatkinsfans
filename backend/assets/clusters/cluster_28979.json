@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's worth finding it's a hoot",
+            "count": 1
+        }
     },
     "clusterList": [
         {

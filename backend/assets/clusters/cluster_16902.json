@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "video"
+        "label": {
+            "phrase": "video play reached 25",
+            "count": 1
+        }
     },
     "clusterList": [
         {

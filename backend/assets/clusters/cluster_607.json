@@ -10,7 +10,10 @@
             "02:02",
             "02:09"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "who's the jive turkey now",
+            "count": 9
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh chill out little guy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

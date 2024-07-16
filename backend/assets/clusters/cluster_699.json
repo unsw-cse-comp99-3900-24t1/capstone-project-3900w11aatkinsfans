@@ -30,7 +30,10 @@
             "04:28",
             "04:29"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the perfect storm",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -18,7 +18,10 @@
             "04:06",
             "04:08"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't have an answer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

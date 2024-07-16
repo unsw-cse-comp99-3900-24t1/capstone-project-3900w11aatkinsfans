@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "beautiful"
+        "label": {
+            "phrase": "beautiful words don't make things change",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm sure once everybody hears about the beach they'll be running out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

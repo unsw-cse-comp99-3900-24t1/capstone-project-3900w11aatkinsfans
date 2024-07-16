@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no i tried to button my blouse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

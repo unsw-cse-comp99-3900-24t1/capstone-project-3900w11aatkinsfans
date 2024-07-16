@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "loaded"
+        "label": {
+            "phrase": "loaded with many upgrades",
+            "count": 1
+        }
     },
     "clusterList": [
         {

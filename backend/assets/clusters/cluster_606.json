@@ -44,7 +44,10 @@
             "04:54",
             "05:00"
         ],
-        "label": "over"
+        "label": {
+            "phrase": "i found a little town",
+            "count": 6
+        }
     },
     "clusterList": [
         {

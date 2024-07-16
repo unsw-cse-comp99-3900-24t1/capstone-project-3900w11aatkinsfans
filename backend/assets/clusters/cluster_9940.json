@@ -8,7 +8,10 @@
             "01:37",
             "02:15"
         ],
-        "label": "john"
+        "label": {
+            "phrase": "john gave me a good wedgie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

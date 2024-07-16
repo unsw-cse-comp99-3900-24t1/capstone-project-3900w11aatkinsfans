@@ -14,7 +14,10 @@
             "03:42",
             "03:55"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "down with the sickness",
+            "count": 3
+        }
     },
     "clusterList": [
         {

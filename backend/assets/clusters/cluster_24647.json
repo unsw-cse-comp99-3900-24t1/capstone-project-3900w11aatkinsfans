@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a group of hooligans arrived and threw formaldehyde into the building",
+            "count": 1
+        }
     },
     "clusterList": [
         {

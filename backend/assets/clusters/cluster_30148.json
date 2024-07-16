@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all about elk",
+            "count": 1
+        }
     },
     "clusterList": [
         {

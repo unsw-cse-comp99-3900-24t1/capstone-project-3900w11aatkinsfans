@@ -24,7 +24,10 @@
             "04:23",
             "04:37"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "is an historic occasion",
+            "count": 3
+        }
     },
     "clusterList": [
         {

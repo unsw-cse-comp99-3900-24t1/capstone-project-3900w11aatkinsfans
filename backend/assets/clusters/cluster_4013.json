@@ -12,7 +12,10 @@
             "02:14",
             "02:47"
         ],
-        "label": "crumbs"
+        "label": {
+            "phrase": "crumbs in the forest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

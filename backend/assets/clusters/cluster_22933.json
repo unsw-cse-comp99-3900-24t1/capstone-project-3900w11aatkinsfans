@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one double-decker train equals two b-doubles",
+            "count": 1
+        }
     },
     "clusterList": [
         {

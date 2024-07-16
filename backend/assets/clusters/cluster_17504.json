@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we have a partnership with tom and eaa to help bring these down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're making me feel queasy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

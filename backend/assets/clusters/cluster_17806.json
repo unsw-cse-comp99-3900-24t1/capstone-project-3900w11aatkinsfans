@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a pinch of sugar and loads of shit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

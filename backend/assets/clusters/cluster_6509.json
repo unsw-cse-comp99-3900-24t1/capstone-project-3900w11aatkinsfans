@@ -10,7 +10,10 @@
             "01:18",
             "02:42"
         ],
-        "label": "back"
+        "label": {
+            "phrase": "back in the old days of web 1",
+            "count": 1
+        }
     },
     "clusterList": [
         {

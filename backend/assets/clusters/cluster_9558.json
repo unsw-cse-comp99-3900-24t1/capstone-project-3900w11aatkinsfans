@@ -8,7 +8,10 @@
             "01:11",
             "04:15"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey kayla and spencer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

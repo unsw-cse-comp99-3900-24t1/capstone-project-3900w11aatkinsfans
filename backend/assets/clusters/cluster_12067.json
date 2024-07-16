@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "end"
+        "label": {
+            "phrase": "end of installation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

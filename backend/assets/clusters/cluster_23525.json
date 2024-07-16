@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who spilled the guacamole",
+            "count": 1
+        }
     },
     "clusterList": [
         {

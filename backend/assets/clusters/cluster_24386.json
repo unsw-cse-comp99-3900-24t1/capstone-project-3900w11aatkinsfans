@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "miller"
+        "label": {
+            "phrase": "miller didn't want walls but we had to make accommodations for storage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

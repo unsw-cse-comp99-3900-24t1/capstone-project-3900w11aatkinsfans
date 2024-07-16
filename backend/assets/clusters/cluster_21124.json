@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're not just cats it's our pet our family member",
+            "count": 1
+        }
     },
     "clusterList": [
         {

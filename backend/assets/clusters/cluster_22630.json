@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "everybody"
+        "label": {
+            "phrase": "everybody knows he has that x factor white said",
+            "count": 1
+        }
     },
     "clusterList": [
         {

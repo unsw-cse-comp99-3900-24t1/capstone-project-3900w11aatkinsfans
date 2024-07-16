@@ -8,7 +8,10 @@
             "02:01",
             "04:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the group tried to evacuate but only half the party got across the river",
+            "count": 1
+        }
     },
     "clusterList": [
         {

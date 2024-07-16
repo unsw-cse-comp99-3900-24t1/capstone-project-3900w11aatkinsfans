@@ -6,7 +6,10 @@
         "xLabels": [
             "01:11"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can you put a book on hold",
+            "count": 1
+        }
     },
     "clusterList": [
         {

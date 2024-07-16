@@ -6,7 +6,10 @@
         "xLabels": [
             "00:48"
         ],
-        "label": "best"
+        "label": {
+            "phrase": "best radio reporter in the state",
+            "count": 1
+        }
     },
     "clusterList": [
         {

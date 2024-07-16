@@ -8,7 +8,10 @@
             "00:07",
             "04:29"
         ],
-        "label": "type"
+        "label": {
+            "phrase": "type a mode",
+            "count": 1
+        }
     },
     "clusterList": [
         {

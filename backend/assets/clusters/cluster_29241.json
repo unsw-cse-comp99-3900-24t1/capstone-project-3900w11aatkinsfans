@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with thermal imaging capabilities you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

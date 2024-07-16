@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "professor"
+        "label": {
+            "phrase": "professor of inane intellectual twaddle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

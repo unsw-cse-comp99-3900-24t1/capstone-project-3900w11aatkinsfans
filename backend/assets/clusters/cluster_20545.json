@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the stone age didn't end because of a shortage of stones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

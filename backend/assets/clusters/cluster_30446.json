@@ -6,7 +6,10 @@
         "xLabels": [
             "04:47"
         ],
-        "label": "nothing"
+        "label": {
+            "phrase": "nothing surprises me about boston",
+            "count": 1
+        }
     },
     "clusterList": [
         {

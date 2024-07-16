@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we should have been able to say on saturday afternoon that we had a problem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

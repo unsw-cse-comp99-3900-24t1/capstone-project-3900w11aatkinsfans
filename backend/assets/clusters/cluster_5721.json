@@ -10,7 +10,10 @@
             "03:15",
             "04:19"
         ],
-        "label": "all's"
+        "label": {
+            "phrase": "all's well that ends with meat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

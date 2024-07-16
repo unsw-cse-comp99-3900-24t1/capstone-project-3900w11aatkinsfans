@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who is the best fill-in-the-blank",
+            "count": 1
+        }
     },
     "clusterList": [
         {

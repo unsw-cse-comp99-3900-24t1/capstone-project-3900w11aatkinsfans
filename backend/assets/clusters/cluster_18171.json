@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if we were separated why are we joining this meeting together this morning",
+            "count": 1
+        }
     },
     "clusterList": [
         {

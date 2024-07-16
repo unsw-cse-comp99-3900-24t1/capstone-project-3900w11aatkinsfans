@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "eating"
+        "label": {
+            "phrase": "eating pop rocks is dumb what's the point",
+            "count": 1
+        }
     },
     "clusterList": [
         {

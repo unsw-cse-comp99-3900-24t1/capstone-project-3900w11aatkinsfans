@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it tested 15 times the national legal limits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

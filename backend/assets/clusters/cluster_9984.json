@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the domenici legacy",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:59",
             "03:14"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he injected this yesterday",
+            "count": 3
+        }
     },
     "clusterList": [
         {

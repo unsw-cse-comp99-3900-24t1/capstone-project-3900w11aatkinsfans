@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's one of the things that defeated the soviet union",
+            "count": 1
+        }
     },
     "clusterList": [
         {

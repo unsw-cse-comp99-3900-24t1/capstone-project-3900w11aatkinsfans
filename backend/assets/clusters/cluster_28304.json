@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they used their bicycles like pickup trucks over there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

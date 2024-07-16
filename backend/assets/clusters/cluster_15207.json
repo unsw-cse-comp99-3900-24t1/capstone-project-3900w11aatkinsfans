@@ -6,7 +6,10 @@
         "xLabels": [
             "00:28"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's your character in-game",
+            "count": 1
+        }
     },
     "clusterList": [
         {

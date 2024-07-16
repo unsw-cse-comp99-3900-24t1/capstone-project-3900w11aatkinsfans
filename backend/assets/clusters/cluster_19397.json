@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give you a rifle up there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

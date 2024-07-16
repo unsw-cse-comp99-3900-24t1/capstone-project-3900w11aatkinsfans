@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "cofi"
+        "label": {
+            "phrase": "cofi reporting members",
+            "count": 1
+        }
     },
     "clusterList": [
         {

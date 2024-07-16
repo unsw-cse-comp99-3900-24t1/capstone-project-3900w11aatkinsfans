@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have nothing left to give to this organization",
+            "count": 1
+        }
     },
     "clusterList": [
         {

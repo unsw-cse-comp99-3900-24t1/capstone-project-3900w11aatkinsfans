@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they couldn't make you look worse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

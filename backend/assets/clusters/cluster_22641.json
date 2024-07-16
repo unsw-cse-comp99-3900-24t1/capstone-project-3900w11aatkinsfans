@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "1-year"
+        "label": {
+            "phrase": "1-year us treasury constant maturity",
+            "count": 1
+        }
     },
     "clusterList": [
         {

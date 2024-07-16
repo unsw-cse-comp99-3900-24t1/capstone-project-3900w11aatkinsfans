@@ -10,7 +10,10 @@
             "00:28",
             "03:37"
         ],
-        "label": "steady"
+        "label": {
+            "phrase": "steady stream of false negative attacks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

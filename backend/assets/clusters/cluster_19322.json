@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not like he is used to the idea of not harassing me about life day in and day out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the earthquake had about 1 percent of the energy of the northridge quake",
+            "count": 1
+        }
     },
     "clusterList": [
         {

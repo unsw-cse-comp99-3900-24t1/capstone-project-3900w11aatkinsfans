@@ -6,7 +6,10 @@
         "xLabels": [
             "04:58"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we grew up playing every sport under the sun",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "saudades"
+        "label": {
+            "phrase": "saudades was always a beautiful word to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

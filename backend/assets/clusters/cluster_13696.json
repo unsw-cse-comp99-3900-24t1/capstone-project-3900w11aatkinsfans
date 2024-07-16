@@ -6,7 +6,10 @@
         "xLabels": [
             "00:12"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i can replace my vote with at least a million two million others",
+            "count": 1
+        }
     },
     "clusterList": [
         {

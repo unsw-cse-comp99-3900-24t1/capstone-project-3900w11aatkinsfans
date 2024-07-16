@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we humans plan most of our lives by working backwards just try figuring out what time you need to wake up if you want to be at the airport on time and you'll see that we work backwards all the time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

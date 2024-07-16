@@ -12,7 +12,10 @@
             "03:46",
             "05:04"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is full documentation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

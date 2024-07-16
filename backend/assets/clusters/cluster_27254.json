@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "total"
+        "label": {
+            "phrase": "total lack of forecasting skills",
+            "count": 1
+        }
     },
     "clusterList": [
         {

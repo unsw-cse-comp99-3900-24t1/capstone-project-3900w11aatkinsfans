@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes you need a current passport",
+            "count": 1
+        }
     },
     "clusterList": [
         {

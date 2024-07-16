@@ -6,7 +6,10 @@
         "xLabels": [
             "02:16"
         ],
-        "label": "simple"
+        "label": {
+            "phrase": "simple headphone mind",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh well peanut butter comes right out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "substituting"
+        "label": {
+            "phrase": "substituting descriptive comments or citing specific improvements in work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

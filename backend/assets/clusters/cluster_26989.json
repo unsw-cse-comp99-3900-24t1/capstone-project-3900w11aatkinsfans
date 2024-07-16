@@ -6,7 +6,10 @@
         "xLabels": [
             "03:54"
         ],
-        "label": "artificial"
+        "label": {
+            "phrase": "artificial intelligence no thank you computer i can handle the job by myself pretty well",
+            "count": 1
+        }
     },
     "clusterList": [
         {

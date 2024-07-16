@@ -12,7 +12,10 @@
             "02:52",
             "03:48"
         ],
-        "label": "confuse"
+        "label": {
+            "phrase": "confuse horse with butterfly",
+            "count": 2
+        }
     },
     "clusterList": [
         {

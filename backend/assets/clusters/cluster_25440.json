@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "classic"
+        "label": {
+            "phrase": "classic example of a heavy-handed author no",
+            "count": 1
+        }
     },
     "clusterList": [
         {

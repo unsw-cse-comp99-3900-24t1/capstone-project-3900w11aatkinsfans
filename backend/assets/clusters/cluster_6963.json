@@ -10,7 +10,10 @@
             "03:40",
             "04:55"
         ],
-        "label": "finding"
+        "label": {
+            "phrase": "finding a doctor",
+            "count": 1
+        }
     },
     "clusterList": [
         {

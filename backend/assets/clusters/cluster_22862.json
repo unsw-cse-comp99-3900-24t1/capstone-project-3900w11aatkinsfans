@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "incredible"
+        "label": {
+            "phrase": "incredible piece of industrial engineering and design",
+            "count": 1
+        }
     },
     "clusterList": [
         {

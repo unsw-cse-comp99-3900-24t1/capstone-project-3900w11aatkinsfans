@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these cranes are a fascinating leading indicator of progress",
+            "count": 1
+        }
     },
     "clusterList": [
         {

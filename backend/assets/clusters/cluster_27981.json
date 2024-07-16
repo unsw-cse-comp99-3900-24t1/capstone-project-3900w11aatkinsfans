@@ -6,7 +6,10 @@
         "xLabels": [
             "04:11"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one hand can't clap",
+            "count": 1
+        }
     },
     "clusterList": [
         {

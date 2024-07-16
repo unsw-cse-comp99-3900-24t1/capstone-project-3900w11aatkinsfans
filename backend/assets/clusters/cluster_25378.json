@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in 07 and 08 there was only one butterfly found each year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

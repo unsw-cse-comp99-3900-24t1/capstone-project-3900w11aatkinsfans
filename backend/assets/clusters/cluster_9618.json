@@ -8,7 +8,10 @@
             "01:14",
             "03:22"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've had only one honda stolen this year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

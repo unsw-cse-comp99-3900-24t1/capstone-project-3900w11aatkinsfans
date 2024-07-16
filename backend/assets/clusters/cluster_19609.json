@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "thomas"
+        "label": {
+            "phrase": "thomas why you have that chain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

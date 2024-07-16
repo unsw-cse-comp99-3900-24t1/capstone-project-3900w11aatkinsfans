@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there certainly has been some crossover",
+            "count": 1
+        }
     },
     "clusterList": [
         {

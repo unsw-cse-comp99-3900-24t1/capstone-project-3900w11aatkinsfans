@@ -6,7 +6,10 @@
         "xLabels": [
             "00:25"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm going to miss you whispers my guardian",
+            "count": 1
+        }
     },
     "clusterList": [
         {

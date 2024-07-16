@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "champagnize"
+        "label": {
+            "phrase": "champagnize the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

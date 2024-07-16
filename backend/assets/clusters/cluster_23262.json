@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "they've"
+        "label": {
+            "phrase": "they've got rugby in their blood",
+            "count": 1
+        }
     },
     "clusterList": [
         {

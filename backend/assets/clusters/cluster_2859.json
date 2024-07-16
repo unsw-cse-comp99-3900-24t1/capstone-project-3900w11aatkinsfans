@@ -12,7 +12,10 @@
             "01:10",
             "03:50"
         ],
-        "label": "coach"
+        "label": {
+            "phrase": "coach tressel is a total players coach",
+            "count": 1
+        }
     },
     "clusterList": [
         {

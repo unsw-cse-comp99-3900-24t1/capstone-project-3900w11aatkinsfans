@@ -22,7 +22,10 @@
             "04:14",
             "04:17"
         ],
-        "label": "old"
+        "label": {
+            "phrase": "how old are you",
+            "count": 7
+        }
     },
     "clusterList": [
         {

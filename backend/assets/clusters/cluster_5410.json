@@ -12,7 +12,10 @@
             "04:05",
             "04:06"
         ],
-        "label": "severe"
+        "label": {
+            "phrase": "severe abdominal pain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

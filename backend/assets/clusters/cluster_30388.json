@@ -6,7 +6,10 @@
         "xLabels": [
             "04:46"
         ],
-        "label": "delete"
+        "label": {
+            "phrase": "delete this damn thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

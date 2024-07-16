@@ -6,7 +6,10 @@
         "xLabels": [
             "01:22"
         ],
-        "label": "almost"
+        "label": {
+            "phrase": "almost every mouse-click",
+            "count": 1
+        }
     },
     "clusterList": [
         {

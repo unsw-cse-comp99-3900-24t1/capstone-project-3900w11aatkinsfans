@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "art"
+        "label": {
+            "phrase": "art is not about thinking something up it's about getting something down",
+            "count": 1
+        }
     },
     "clusterList": [
         {

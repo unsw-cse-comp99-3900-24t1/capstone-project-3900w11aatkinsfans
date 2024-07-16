@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "purples"
+        "label": {
+            "phrase": "purples on the lids",
+            "count": 1
+        }
     },
     "clusterList": [
         {

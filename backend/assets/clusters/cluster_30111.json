@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to the manor born",
+            "count": 1
+        }
     },
     "clusterList": [
         {

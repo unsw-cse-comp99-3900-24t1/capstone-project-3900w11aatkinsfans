@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's no shark uh i mean no ghosts in ocean view park",
+            "count": 1
+        }
     },
     "clusterList": [
         {

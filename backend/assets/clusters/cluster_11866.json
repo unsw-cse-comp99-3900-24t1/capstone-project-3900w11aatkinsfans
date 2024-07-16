@@ -8,7 +8,10 @@
             "01:10",
             "01:13"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you see the light start to flash you shouldn't cross",
+            "count": 1
+        }
     },
     "clusterList": [
         {

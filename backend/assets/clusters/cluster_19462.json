@@ -6,7 +6,10 @@
         "xLabels": [
             "01:32"
         ],
-        "label": "people"
+        "label": {
+            "phrase": "people question if words matter",
+            "count": 1
+        }
     },
     "clusterList": [
         {

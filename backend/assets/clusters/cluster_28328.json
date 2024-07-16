@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've learned the tricks to find safe and effective solutions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

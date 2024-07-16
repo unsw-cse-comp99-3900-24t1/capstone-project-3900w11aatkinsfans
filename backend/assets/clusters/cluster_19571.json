@@ -6,7 +6,10 @@
         "xLabels": [
             "01:34"
         ],
-        "label": "single"
+        "label": {
+            "phrase": "single factor tax",
+            "count": 1
+        }
     },
     "clusterList": [
         {

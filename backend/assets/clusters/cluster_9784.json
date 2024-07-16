@@ -8,7 +8,10 @@
             "01:25",
             "04:18"
         ],
-        "label": "recently"
+        "label": {
+            "phrase": "recently opened another front in the campaign",
+            "count": 1
+        }
     },
     "clusterList": [
         {

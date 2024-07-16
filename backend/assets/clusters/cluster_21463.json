@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "arrangement"
+        "label": {
+            "phrase": "arrangement in straight or parallel lines",
+            "count": 1
+        }
     },
     "clusterList": [
         {

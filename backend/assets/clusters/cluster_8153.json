@@ -8,7 +8,10 @@
             "00:10",
             "03:14"
         ],
-        "label": "say"
+        "label": {
+            "phrase": "say whatever you want about bill clinton",
+            "count": 2
+        }
     },
     "clusterList": [
         {

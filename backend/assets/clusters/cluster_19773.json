@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which would suck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

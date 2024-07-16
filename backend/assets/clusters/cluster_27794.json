@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if the chancla fits",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "emergencies"
+        "label": {
+            "phrase": "emergencies what's the emergency to-chan",
+            "count": 1
+        }
     },
     "clusterList": [
         {

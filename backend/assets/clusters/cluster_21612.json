@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what year do you think it is",
+            "count": 1
+        }
     },
     "clusterList": [
         {

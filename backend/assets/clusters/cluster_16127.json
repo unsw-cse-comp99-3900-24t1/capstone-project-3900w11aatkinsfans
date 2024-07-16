@@ -6,7 +6,10 @@
         "xLabels": [
             "00:43"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my son the yak herder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

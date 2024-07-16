@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the ad agency to end all ad agencies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

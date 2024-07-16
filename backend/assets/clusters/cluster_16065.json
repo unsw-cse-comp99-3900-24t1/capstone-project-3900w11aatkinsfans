@@ -6,7 +6,10 @@
         "xLabels": [
             "00:42"
         ],
-        "label": "albatross"
+        "label": {
+            "phrase": "albatross has provided support on so many levels",
+            "count": 1
+        }
     },
     "clusterList": [
         {

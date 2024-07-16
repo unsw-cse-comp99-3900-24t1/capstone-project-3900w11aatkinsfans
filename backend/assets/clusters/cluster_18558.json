@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that kid is always picking on me i just want to punch him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

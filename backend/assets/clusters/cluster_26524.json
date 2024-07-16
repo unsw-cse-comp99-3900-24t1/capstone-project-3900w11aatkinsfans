@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's not a business for him it's a pleasure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

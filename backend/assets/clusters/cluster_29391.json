@@ -6,7 +6,10 @@
         "xLabels": [
             "04:31"
         ],
-        "label": "chemical"
+        "label": {
+            "phrase": "chemical equation expert",
+            "count": 1
+        }
     },
     "clusterList": [
         {

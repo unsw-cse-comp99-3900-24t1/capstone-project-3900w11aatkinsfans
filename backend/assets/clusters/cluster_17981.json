@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're stupid for not including",
+            "count": 1
+        }
     },
     "clusterList": [
         {

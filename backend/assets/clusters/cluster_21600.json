@@ -6,7 +6,10 @@
         "xLabels": [
             "02:09"
         ],
-        "label": "because"
+        "label": {
+            "phrase": "because it reminds me too much of perl 4",
+            "count": 1
+        }
     },
     "clusterList": [
         {

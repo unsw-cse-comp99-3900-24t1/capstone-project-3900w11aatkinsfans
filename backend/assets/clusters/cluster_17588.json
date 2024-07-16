@@ -6,7 +6,10 @@
         "xLabels": [
             "01:03"
         ],
-        "label": "daily"
+        "label": {
+            "phrase": "daily updates reports",
+            "count": 1
+        }
     },
     "clusterList": [
         {

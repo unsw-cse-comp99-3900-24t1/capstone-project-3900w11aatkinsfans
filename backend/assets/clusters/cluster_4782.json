@@ -12,7 +12,10 @@
             "01:46",
             "04:17"
         ],
-        "label": "type"
+        "label": {
+            "phrase": "find as you type",
+            "count": 2
+        }
     },
     "clusterList": [
         {

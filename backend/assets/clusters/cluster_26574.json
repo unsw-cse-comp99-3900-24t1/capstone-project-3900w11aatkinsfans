@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "computer"
+        "label": {
+            "phrase": "computer or office vision syndrome",
+            "count": 1
+        }
     },
     "clusterList": [
         {

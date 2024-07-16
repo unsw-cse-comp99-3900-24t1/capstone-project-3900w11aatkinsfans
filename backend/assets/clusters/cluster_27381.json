@@ -6,7 +6,10 @@
         "xLabels": [
             "04:02"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all i have to say is finally",
+            "count": 1
+        }
     },
     "clusterList": [
         {

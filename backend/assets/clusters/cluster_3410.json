@@ -12,7 +12,10 @@
             "03:52",
             "04:00"
         ],
-        "label": "shining"
+        "label": {
+            "phrase": "shining on the goups",
+            "count": 3
+        }
     },
     "clusterList": [
         {

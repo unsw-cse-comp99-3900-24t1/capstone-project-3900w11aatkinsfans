@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a way of resolving this without maximum costs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

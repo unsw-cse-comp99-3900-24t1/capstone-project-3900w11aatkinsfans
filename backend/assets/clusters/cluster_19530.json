@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "from"
+        "label": {
+            "phrase": "from naqoura to hermel",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well general they do this is a saluki",
+            "count": 1
+        }
     },
     "clusterList": [
         {

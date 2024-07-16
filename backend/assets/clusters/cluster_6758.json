@@ -10,7 +10,10 @@
             "01:50",
             "04:36"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the candle of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "hold"
+        "label": {
+            "phrase": "hold on a second rose i've almost got it this time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

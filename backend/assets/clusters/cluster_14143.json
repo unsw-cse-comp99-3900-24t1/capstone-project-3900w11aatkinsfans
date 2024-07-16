@@ -6,7 +6,10 @@
         "xLabels": [
             "00:18"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's very disturbing to know that something like this took place next door to my practice",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "olsen"
+        "label": {
+            "phrase": "olsen family meals on wheels",
+            "count": 1
+        }
     },
     "clusterList": [
         {

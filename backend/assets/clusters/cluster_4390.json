@@ -12,7 +12,10 @@
             "03:18",
             "04:10"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is it funky enough",
+            "count": 1
+        }
     },
     "clusterList": [
         {

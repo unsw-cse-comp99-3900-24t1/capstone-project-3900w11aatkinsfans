@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's going to be a modern-day willy wonka factory",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "slow"
+        "label": {
+            "phrase": "slow boat to china",
+            "count": 1
+        }
     },
     "clusterList": [
         {

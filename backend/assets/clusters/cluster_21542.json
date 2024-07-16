@@ -6,7 +6,10 @@
         "xLabels": [
             "02:08"
         ],
-        "label": "thing"
+        "label": {
+            "phrase": "thing that would fall apart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

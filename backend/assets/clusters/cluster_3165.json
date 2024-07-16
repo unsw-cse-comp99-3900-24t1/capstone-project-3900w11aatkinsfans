@@ -12,7 +12,10 @@
             "02:00",
             "03:18"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it does look like a cut or a wound",
+            "count": 4
+        }
     },
     "clusterList": [
         {

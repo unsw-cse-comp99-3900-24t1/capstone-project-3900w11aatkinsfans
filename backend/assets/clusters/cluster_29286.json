@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "puree"
+        "label": {
+            "phrase": "puree and strain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

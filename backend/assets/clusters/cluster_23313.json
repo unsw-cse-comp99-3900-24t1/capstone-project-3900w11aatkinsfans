@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how to cook a graph in three easy lessons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

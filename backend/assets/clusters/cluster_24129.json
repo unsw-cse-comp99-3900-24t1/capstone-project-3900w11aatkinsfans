@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've been working a little bit at a time on our checklist",
+            "count": 1
+        }
     },
     "clusterList": [
         {

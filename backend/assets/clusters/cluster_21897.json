@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we can't let the fish market flounder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

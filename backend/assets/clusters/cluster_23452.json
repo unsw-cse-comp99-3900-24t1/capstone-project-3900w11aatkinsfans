@@ -6,7 +6,10 @@
         "xLabels": [
             "02:44"
         ],
-        "label": "yes"
+        "label": {
+            "phrase": "yes we are very frightened of the traffickers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the most the most useful piece of software someone else wrote in a calendar year",
+            "count": 1
+        }
     },
     "clusterList": [
         {

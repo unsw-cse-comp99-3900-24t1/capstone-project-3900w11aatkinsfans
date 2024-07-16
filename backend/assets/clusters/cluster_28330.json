@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "tulane"
+        "label": {
+            "phrase": "tulane really stood by everybody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

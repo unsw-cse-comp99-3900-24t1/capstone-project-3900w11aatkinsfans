@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "motor"
+        "label": {
+            "phrase": "motor voter act",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm looking for the life preserver",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:33",
             "03:55"
         ],
-        "label": "hello"
+        "label": {
+            "phrase": "hello i'm ringing on behalf of telstra to check whether you are still listed as using telstra services",
+            "count": 1
+        }
     },
     "clusterList": [
         {

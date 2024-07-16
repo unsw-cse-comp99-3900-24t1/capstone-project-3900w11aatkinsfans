@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this case is nothing but unanswered questions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

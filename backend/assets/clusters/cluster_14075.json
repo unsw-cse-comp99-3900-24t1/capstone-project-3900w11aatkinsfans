@@ -6,7 +6,10 @@
         "xLabels": [
             "00:17"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all rights reserved",
+            "count": 1
+        }
     },
     "clusterList": [
         {

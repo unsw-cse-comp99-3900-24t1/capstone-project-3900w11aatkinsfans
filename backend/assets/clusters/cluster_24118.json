@@ -6,7 +6,10 @@
         "xLabels": [
             "03:34"
         ],
-        "label": "on"
+        "label": {
+            "phrase": "on to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

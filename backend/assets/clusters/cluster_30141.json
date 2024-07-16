@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you notice that the threw you in the garbage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a good indication they are being submerged",
+            "count": 1
+        }
     },
     "clusterList": [
         {

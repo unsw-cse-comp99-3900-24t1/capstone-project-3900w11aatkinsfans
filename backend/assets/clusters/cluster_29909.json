@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "blizzard's"
+        "label": {
+            "phrase": "blizzard's team doesn't care for the term",
+            "count": 1
+        }
     },
     "clusterList": [
         {

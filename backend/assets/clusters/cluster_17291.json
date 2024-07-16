@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "keep"
+        "label": {
+            "phrase": "keep that character pure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

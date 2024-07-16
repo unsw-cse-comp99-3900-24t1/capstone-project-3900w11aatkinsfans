@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "hide"
+        "label": {
+            "phrase": "hide extensions for known file types",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -24,7 +24,10 @@
             "02:24",
             "03:50"
         ],
-        "label": "hope"
+        "label": {
+            "phrase": "believe what you want",
+            "count": 10
+        }
     },
     "clusterList": [
         {

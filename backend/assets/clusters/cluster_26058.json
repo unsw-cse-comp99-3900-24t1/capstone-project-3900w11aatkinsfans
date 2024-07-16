@@ -6,7 +6,10 @@
         "xLabels": [
             "03:35"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is gonna be the year reg",
+            "count": 1
+        }
     },
     "clusterList": [
         {

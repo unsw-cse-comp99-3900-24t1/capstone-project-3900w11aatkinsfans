@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we were able to identify three so-called microdeletions",
+            "count": 1
+        }
     },
     "clusterList": [
         {

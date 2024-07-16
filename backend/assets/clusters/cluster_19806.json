@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't know any black dog like you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

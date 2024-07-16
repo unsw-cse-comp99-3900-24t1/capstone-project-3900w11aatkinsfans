@@ -14,7 +14,10 @@
             "02:09",
             "03:27"
         ],
-        "label": "yeah"
+        "label": {
+            "phrase": "yeah first scene",
+            "count": 3
+        }
     },
     "clusterList": [
         {

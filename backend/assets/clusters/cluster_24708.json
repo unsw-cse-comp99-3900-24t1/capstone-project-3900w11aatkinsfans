@@ -6,7 +6,10 @@
         "xLabels": [
             "03:12"
         ],
-        "label": "catch"
+        "label": {
+            "phrase": "catch someone being good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "rise"
+        "label": {
+            "phrase": "rise of the plague",
+            "count": 1
+        }
     },
     "clusterList": [
         {

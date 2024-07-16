@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's really wow them tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

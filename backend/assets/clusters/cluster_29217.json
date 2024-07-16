@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is there enough magic out there in the moonlight to make dreams come true",
+            "count": 1
+        }
     },
     "clusterList": [
         {

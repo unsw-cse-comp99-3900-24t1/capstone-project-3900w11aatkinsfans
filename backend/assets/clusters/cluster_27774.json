@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did i ever tell you the story about the crocodile and the little rabbit on the riverbank",
+            "count": 1
+        }
     },
     "clusterList": [
         {

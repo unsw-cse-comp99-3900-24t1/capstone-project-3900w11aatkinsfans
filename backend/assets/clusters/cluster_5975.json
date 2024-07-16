@@ -10,7 +10,10 @@
             "03:11",
             "04:06"
         ],
-        "label": "three"
+        "label": {
+            "phrase": "three gods in one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

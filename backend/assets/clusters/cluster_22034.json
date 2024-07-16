@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you write about a beep in your house",
+            "count": 1
+        }
     },
     "clusterList": [
         {

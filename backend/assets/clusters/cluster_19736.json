@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how do you end a call like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

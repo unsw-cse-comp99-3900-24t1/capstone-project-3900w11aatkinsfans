@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "two"
+        "label": {
+            "phrase": "two legs good four legs bad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

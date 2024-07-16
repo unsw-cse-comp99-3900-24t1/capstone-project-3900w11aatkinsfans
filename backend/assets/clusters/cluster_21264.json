@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're totally missing the point",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "supportive"
+        "label": {
+            "phrase": "supportive of disinflation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

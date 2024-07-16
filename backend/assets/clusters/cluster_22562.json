@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "make"
+        "label": {
+            "phrase": "make an example",
+            "count": 1
+        }
     },
     "clusterList": [
         {

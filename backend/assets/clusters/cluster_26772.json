@@ -6,7 +6,10 @@
         "xLabels": [
             "03:49"
         ],
-        "label": "american"
+        "label": {
+            "phrase": "american drivers are counting on congress to lift the ban and so are american workers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

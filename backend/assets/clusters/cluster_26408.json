@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in case of an emergency break glass and call for us marines",
+            "count": 1
+        }
     },
     "clusterList": [
         {

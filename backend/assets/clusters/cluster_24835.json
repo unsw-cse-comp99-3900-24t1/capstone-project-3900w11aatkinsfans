@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i guess we'll just make this a loop around the block",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:28"
         ],
-        "label": "got"
+        "label": {
+            "phrase": "got interrupted by the rebate checks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

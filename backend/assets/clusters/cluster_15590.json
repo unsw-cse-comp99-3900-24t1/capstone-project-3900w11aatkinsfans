@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're still trying to determine what the motive was",
+            "count": 1
+        }
     },
     "clusterList": [
         {

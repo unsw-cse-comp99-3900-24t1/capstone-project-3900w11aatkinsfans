@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "solstice"
+        "label": {
+            "phrase": "solstice i knew someone stole him",
+            "count": 1
+        }
     },
     "clusterList": [
         {

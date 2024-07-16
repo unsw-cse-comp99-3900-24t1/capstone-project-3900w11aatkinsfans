@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there are lots of curve balls in this research and we are not having an easy time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

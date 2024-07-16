@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a bit overly squashy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

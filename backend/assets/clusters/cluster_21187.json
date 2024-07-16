@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we will prosper only so long as we hold our public",
+            "count": 1
+        }
     },
     "clusterList": [
         {

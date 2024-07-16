@@ -18,7 +18,10 @@
             "02:19",
             "03:00"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "now i know where my 4",
+            "count": 2
+        }
     },
     "clusterList": [
         {

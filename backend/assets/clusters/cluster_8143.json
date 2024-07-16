@@ -8,7 +8,10 @@
             "00:10",
             "04:00"
         ],
-        "label": "gus"
+        "label": {
+            "phrase": "gus fried chicken",
+            "count": 1
+        }
     },
     "clusterList": [
         {

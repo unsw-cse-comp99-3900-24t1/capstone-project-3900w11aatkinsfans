@@ -6,7 +6,10 @@
         "xLabels": [
             "00:41"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you've got the money we'll issue the permit",
+            "count": 1
+        }
     },
     "clusterList": [
         {

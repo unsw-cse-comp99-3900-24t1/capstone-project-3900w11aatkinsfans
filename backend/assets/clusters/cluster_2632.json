@@ -18,7 +18,10 @@
             "02:55",
             "04:18"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the clock is ticking on jerry everybody knows that",
+            "count": 5
+        }
     },
     "clusterList": [
         {

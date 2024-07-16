@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i never want to hear the words jettison or scuttle again",
+            "count": 1
+        }
     },
     "clusterList": [
         {

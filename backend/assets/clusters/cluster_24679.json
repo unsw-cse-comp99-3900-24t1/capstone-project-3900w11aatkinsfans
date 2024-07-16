@@ -6,7 +6,10 @@
         "xLabels": [
             "03:11"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this shows you should never take your cliff face for granite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

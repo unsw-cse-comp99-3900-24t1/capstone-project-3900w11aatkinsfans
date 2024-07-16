@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it is very easy to say that mclarens are the",
+            "count": 1
+        }
     },
     "clusterList": [
         {

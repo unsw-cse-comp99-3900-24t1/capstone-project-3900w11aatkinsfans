@@ -6,7 +6,10 @@
         "xLabels": [
             "02:51"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is there any other recourse besides this chat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

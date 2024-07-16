@@ -20,7 +20,10 @@
             "04:57",
             "05:05"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's in it for me",
+            "count": 3
+        }
     },
     "clusterList": [
         {

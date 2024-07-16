@@ -14,7 +14,10 @@
             "02:29",
             "04:45"
         ],
-        "label": "she"
+        "label": {
+            "phrase": "she had the right-of-way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

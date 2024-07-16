@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "project"
+        "label": {
+            "phrase": "project story time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

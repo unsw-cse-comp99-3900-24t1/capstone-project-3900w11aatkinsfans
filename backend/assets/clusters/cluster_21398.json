@@ -6,7 +6,10 @@
         "xLabels": [
             "02:04"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can smell that dump all the way from topeka",
+            "count": 1
+        }
     },
     "clusterList": [
         {

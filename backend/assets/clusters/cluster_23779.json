@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "region"
+        "label": {
+            "phrase": "region 1 is clearly the best in texas for 2008",
+            "count": 1
+        }
     },
     "clusterList": [
         {

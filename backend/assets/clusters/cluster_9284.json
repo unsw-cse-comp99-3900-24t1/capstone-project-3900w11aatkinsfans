@@ -8,7 +8,10 @@
             "00:58",
             "03:42"
         ],
-        "label": "clean"
+        "label": {
+            "phrase": "clean your plate",
+            "count": 2
+        }
     },
     "clusterList": [
         {

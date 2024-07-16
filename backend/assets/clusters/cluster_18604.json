@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "cyclops"
+        "label": {
+            "phrase": "cyclops is a total dick",
+            "count": 1
+        }
     },
     "clusterList": [
         {

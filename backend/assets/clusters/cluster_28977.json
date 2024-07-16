@@ -6,7 +6,10 @@
         "xLabels": [
             "04:27"
         ],
-        "label": "live"
+        "label": {
+            "phrase": "live a night at tipitina's",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:42",
             "04:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pitch presented by liveboard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

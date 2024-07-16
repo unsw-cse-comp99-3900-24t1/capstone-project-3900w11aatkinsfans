@@ -6,7 +6,10 @@
         "xLabels": [
             "04:21"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but now we're seeing great restaurants and new retail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

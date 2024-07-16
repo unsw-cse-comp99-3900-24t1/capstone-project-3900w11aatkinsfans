@@ -6,7 +6,10 @@
         "xLabels": [
             "00:38"
         ],
-        "label": "second"
+        "label": {
+            "phrase": "second life and linden lab are trademarks or registered trademarks of linden research inc all rights reserved no infringement is intended",
+            "count": 1
+        }
     },
     "clusterList": [
         {

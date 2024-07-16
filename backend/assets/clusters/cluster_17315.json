@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "never"
+        "label": {
+            "phrase": "never has there been a rebellion with so little to rebel about",
+            "count": 1
+        }
     },
     "clusterList": [
         {

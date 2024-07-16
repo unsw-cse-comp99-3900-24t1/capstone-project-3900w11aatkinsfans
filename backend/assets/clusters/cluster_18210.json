@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "fighter"
+        "label": {
+            "phrase": "fighter on behalf of working people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my thoughts today are with those workers whose future at the plant is unclear they now face a time of great uncertainty when mortgages and household bills will still have to be met",
+            "count": 1
+        }
     },
     "clusterList": [
         {

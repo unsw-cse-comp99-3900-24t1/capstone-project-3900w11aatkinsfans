@@ -44,7 +44,10 @@
             "04:32",
             "04:56"
         ],
-        "label": "decades"
+        "label": {
+            "phrase": "the reagan era",
+            "count": 7
+        }
     },
     "clusterList": [
         {

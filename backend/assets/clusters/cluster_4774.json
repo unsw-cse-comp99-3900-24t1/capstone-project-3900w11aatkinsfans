@@ -12,7 +12,10 @@
             "01:43",
             "02:10"
         ],
-        "label": "actually"
+        "label": {
+            "phrase": "actually the language in that particular paragraph is quite weak",
+            "count": 4
+        }
     },
     "clusterList": [
         {

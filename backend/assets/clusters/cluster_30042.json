@@ -6,7 +6,10 @@
         "xLabels": [
             "04:41"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they need a mac client because most people who go to the same conferences as robert use macs",
+            "count": 1
+        }
     },
     "clusterList": [
         {

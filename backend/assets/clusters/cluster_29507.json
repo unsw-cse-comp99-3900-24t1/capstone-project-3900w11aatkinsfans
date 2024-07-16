@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's that nick you've put a new",
+            "count": 1
+        }
     },
     "clusterList": [
         {

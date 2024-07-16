@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we saved the same car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

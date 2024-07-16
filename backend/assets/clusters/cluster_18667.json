@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "surface"
+        "label": {
+            "phrase": "surface potentials and layer charge distributions in few-layer graphene films",
+            "count": 1
+        }
     },
     "clusterList": [
         {

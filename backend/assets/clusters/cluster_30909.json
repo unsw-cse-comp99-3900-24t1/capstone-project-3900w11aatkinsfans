@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "but"
+        "label": {
+            "phrase": "but what is supposed to constitute a small variance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

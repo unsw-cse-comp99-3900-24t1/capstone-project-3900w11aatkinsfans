@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "american"
+        "label": {
+            "phrase": "american attributes was celebrated by their parents",
+            "count": 1
+        }
     },
     "clusterList": [
         {

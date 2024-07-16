@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well that sounds precious mums but we'll be having the pork chops and applesauce tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

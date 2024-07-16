@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was a time of uncertainty hope and change the summer of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

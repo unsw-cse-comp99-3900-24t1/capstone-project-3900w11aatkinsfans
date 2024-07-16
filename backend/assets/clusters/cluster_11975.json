@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "belushi"
+        "label": {
+            "phrase": "belushi hunted me down and found me in an arbitrary home in santa cruz",
+            "count": 2
+        }
     },
     "clusterList": [
         {

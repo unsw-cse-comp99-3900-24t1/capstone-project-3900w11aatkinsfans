@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "conspiracy"
+        "label": {
+            "phrase": "conspiracy to blackmail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

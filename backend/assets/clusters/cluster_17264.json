@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who d'you think you are toulouse-lautrec",
+            "count": 1
+        }
     },
     "clusterList": [
         {

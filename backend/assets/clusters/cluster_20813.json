@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pach attack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

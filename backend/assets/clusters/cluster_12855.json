@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's what we say it is and damn the actual facts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

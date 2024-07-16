@@ -6,7 +6,10 @@
         "xLabels": [
             "01:08"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my client feared for his life there's no doubt about it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what does that stand for now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

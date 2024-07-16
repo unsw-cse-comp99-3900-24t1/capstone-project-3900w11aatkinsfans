@@ -6,7 +6,10 @@
         "xLabels": [
             "04:36"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not only do we tell users the phases of the sales cycle but we also tell them how to complete the sale effectively",
+            "count": 1
+        }
     },
     "clusterList": [
         {

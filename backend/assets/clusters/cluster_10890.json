@@ -6,7 +6,10 @@
         "xLabels": [
             "02:40"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the museum's you can't take photographs here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

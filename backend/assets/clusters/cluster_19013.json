@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give it a whirl",
+            "count": 1
+        }
     },
     "clusterList": [
         {

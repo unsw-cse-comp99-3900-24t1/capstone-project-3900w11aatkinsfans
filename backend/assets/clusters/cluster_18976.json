@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "philly"
+        "label": {
+            "phrase": "philly 2 bmore",
+            "count": 1
+        }
     },
     "clusterList": [
         {

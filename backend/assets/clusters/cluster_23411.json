@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's tyranitar he seems to be a little under the weather",
+            "count": 1
+        }
     },
     "clusterList": [
         {

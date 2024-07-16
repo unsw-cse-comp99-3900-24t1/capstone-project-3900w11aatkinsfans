@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "stress"
+        "label": {
+            "phrase": "stress the commonalities between people in differing geographies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

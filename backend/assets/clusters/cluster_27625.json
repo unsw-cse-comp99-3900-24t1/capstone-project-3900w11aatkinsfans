@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "here"
+        "label": {
+            "phrase": "here too the question is a practical and urgent one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

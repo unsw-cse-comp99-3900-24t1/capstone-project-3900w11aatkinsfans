@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "much"
+        "label": {
+            "phrase": "much ado about nothing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

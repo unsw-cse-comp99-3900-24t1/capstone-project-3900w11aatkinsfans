@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "nomadic"
+        "label": {
+            "phrase": "nomadic and chaotic lifestyle",
+            "count": 1
+        }
     },
     "clusterList": [
         {

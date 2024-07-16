@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "benfits"
+        "label": {
+            "phrase": "benfits of blogging amp fireworks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

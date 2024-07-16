@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "add"
+        "label": {
+            "phrase": "add to existing style sheet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

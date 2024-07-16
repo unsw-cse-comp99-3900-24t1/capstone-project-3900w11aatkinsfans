@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "gimme"
+        "label": {
+            "phrase": "gimme back my wig",
+            "count": 1
+        }
     },
     "clusterList": [
         {

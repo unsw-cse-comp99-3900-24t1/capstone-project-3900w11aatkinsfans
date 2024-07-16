@@ -12,7 +12,10 @@
             "04:08",
             "04:45"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "can we guess and you'll tell us if we're right or wrong",
+            "count": 4
+        }
     },
     "clusterList": [
         {

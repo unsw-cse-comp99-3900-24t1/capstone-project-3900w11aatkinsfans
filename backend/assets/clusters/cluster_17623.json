@@ -6,7 +6,10 @@
         "xLabels": [
             "02:28"
         ],
-        "label": "cadel"
+        "label": {
+            "phrase": "cadel is a focussed athlete and he doesn't take much interest in rumours",
+            "count": 1
+        }
     },
     "clusterList": [
         {

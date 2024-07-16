@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you do not have to spend a long time in this town to realize how much people resent the government",
+            "count": 1
+        }
     },
     "clusterList": [
         {

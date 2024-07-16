@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've had some type of security in place for about six years",
+            "count": 1
+        }
     },
     "clusterList": [
         {

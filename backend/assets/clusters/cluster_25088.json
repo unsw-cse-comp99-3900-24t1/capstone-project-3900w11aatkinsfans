@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you've"
+        "label": {
+            "phrase": "you've already done enough damage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the world responded yeah so what",
+            "count": 1
+        }
     },
     "clusterList": [
         {

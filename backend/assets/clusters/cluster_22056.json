@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "among"
+        "label": {
+            "phrase": "among the five best reasons",
+            "count": 1
+        }
     },
     "clusterList": [
         {

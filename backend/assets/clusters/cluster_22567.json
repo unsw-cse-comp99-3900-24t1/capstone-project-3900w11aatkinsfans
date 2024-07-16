@@ -6,7 +6,10 @@
         "xLabels": [
             "02:25"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you certainly can't complete with any of that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

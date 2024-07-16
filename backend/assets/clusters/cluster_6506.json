@@ -10,7 +10,10 @@
             "02:00",
             "03:19"
         ],
-        "label": "doesn't"
+        "label": {
+            "phrase": "doesn't exist right now",
+            "count": 3
+        }
     },
     "clusterList": [
         {

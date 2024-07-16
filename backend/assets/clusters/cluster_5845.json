@@ -10,7 +10,10 @@
             "00:28",
             "01:23"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's the silver lining",
+            "count": 3
+        }
     },
     "clusterList": [
         {

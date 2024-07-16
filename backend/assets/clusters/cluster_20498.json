@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "stop"
+        "label": {
+            "phrase": "stop it mom you're embarrassing us",
+            "count": 1
+        }
     },
     "clusterList": [
         {

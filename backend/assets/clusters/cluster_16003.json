@@ -6,7 +6,10 @@
         "xLabels": [
             "00:41"
         ],
-        "label": "agile"
+        "label": {
+            "phrase": "agile moves and realistic voices",
+            "count": 1
+        }
     },
     "clusterList": [
         {

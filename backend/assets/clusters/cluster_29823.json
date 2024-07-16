@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get how many sets of 6 elements can be formed out of all words of 5 letters",
+            "count": 1
+        }
     },
     "clusterList": [
         {

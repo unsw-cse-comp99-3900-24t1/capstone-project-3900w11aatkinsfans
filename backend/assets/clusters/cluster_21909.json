@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "something"
+        "label": {
+            "phrase": "something along the lines of the a-bat will have a better chance of success today than five years ago",
+            "count": 1
+        }
     },
     "clusterList": [
         {

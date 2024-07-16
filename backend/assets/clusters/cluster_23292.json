@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a quarter of holocaust survivors live below the poverty level",
+            "count": 1
+        }
     },
     "clusterList": [
         {

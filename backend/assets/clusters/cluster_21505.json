@@ -6,7 +6,10 @@
         "xLabels": [
             "02:06"
         ],
-        "label": "come"
+        "label": {
+            "phrase": "come on in time for sum misbehavin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

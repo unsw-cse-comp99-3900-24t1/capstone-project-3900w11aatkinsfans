@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "resource"
+        "label": {
+            "phrase": "resource gre res forms-grad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

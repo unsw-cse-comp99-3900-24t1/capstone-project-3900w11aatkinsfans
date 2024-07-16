@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good readers ask themselves questions all the time as they read",
+            "count": 1
+        }
     },
     "clusterList": [
         {

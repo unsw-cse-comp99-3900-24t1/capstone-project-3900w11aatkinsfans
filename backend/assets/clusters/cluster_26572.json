@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "sandwiches"
+        "label": {
+            "phrase": "sandwiches so fast you'll freak",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:23"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey i emailed you the week before comicon",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're providing weather impacts to the jtf commander so he can have an idea of what operations in the joint operating area might be affected said capt",
+            "count": 1
+        }
     },
     "clusterList": [
         {

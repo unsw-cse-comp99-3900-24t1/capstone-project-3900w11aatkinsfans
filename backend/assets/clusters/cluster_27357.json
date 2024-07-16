@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "admiration"
+        "label": {
+            "phrase": "admiration our polite recognition of another's resemblance to ourselves",
+            "count": 1
+        }
     },
     "clusterList": [
         {

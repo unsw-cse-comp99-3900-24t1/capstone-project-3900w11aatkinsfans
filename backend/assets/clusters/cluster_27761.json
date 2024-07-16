@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once we left fargo we just started pulling away from the other teams",
+            "count": 1
+        }
     },
     "clusterList": [
         {

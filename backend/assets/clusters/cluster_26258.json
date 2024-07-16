@@ -6,7 +6,10 @@
         "xLabels": [
             "03:39"
         ],
-        "label": "anyone"
+        "label": {
+            "phrase": "anyone seen my blackberry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

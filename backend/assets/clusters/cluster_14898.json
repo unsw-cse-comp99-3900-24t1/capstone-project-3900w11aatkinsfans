@@ -6,7 +6,10 @@
         "xLabels": [
             "00:24"
         ],
-        "label": "intelisea"
+        "label": {
+            "phrase": "intelisea the application built in flex 2 is the front end for controlling a yacht",
+            "count": 1
+        }
     },
     "clusterList": [
         {

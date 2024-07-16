@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "lost"
+        "label": {
+            "phrase": "lost art of heaping coal",
+            "count": 1
+        }
     },
     "clusterList": [
         {

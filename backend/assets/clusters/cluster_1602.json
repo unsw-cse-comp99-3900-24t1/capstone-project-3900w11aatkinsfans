@@ -20,7 +20,10 @@
             "04:14",
             "04:21"
         ],
-        "label": "america's"
+        "label": {
+            "phrase": "america's most wanted",
+            "count": 10
+        }
     },
     "clusterList": [
         {

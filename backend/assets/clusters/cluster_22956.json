@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "ip"
+        "label": {
+            "phrase": "ip collection 2004 vol i",
+            "count": 1
+        }
     },
     "clusterList": [
         {

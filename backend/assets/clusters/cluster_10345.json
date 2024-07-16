@@ -6,7 +6,10 @@
         "xLabels": [
             "01:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the second life of thomas p m barnett",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:02"
         ],
-        "label": "gratuitous"
+        "label": {
+            "phrase": "gratuitous use of the following buzzwords",
+            "count": 1
+        }
     },
     "clusterList": [
         {

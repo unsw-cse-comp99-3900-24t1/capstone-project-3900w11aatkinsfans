@@ -10,7 +10,10 @@
             "03:11",
             "03:14"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you match them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

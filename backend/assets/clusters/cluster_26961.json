@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an atlas to follow",
+            "count": 1
+        }
     },
     "clusterList": [
         {

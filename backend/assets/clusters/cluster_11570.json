@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "fix"
+        "label": {
+            "phrase": "fix incorrect marker location",
+            "count": 2
+        }
     },
     "clusterList": [
         {

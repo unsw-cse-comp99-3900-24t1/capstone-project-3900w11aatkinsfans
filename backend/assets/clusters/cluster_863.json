@@ -30,7 +30,10 @@
             "03:55",
             "04:37"
         ],
-        "label": "true"
+        "label": {
+            "phrase": "to my wife",
+            "count": 2
+        }
     },
     "clusterList": [
         {

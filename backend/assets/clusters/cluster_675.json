@@ -38,7 +38,10 @@
             "04:23",
             "04:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the colbert report",
+            "count": 12
+        }
     },
     "clusterList": [
         {

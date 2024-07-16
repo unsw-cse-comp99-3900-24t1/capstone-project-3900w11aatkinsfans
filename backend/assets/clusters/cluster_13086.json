@@ -6,7 +6,10 @@
         "xLabels": [
             "00:06"
         ],
-        "label": "mostly"
+        "label": {
+            "phrase": "mostly what i hear is why is it taking so long and that's a little hard to explain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

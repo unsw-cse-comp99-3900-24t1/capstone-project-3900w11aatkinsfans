@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i don't want my woodworking project moving while i work on it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

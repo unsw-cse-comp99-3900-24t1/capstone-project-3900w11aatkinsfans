@@ -10,7 +10,10 @@
             "03:14",
             "04:54"
         ],
-        "label": "speak"
+        "label": {
+            "phrase": "speak to them",
+            "count": 1
+        }
     },
     "clusterList": [
         {

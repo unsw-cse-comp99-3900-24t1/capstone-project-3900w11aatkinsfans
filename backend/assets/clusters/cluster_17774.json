@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the guys decided to give 25 percent of what they raise to the food bank",
+            "count": 1
+        }
     },
     "clusterList": [
         {

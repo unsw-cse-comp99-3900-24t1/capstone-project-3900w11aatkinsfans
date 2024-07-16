@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the buyer doesn't tow as heavy as we thought",
+            "count": 1
+        }
     },
     "clusterList": [
         {

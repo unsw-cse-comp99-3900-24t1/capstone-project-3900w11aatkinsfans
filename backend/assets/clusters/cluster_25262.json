@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh just a death report or two",
+            "count": 1
+        }
     },
     "clusterList": [
         {

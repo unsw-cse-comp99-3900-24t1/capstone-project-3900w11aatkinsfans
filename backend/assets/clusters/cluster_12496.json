@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is all just a political ploy by pakatan rakyat",
+            "count": 1
+        }
     },
     "clusterList": [
         {

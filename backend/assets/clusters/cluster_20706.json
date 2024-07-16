@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "give"
+        "label": {
+            "phrase": "give us a go we are elderly citizens",
+            "count": 1
+        }
     },
     "clusterList": [
         {

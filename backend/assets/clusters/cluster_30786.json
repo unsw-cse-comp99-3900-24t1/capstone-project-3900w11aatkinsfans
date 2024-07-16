@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you just took away a child's favorite toy why",
+            "count": 1
+        }
     },
     "clusterList": [
         {

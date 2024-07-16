@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "well"
+        "label": {
+            "phrase": "well if they have some who would have the rest",
+            "count": 1
+        }
     },
     "clusterList": [
         {

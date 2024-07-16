@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you you polished it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

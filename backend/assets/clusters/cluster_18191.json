@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "nobody"
+        "label": {
+            "phrase": "nobody could get you fired up like patty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

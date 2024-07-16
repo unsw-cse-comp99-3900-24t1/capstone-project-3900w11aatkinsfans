@@ -6,7 +6,10 @@
         "xLabels": [
             "02:55"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my car likes the mountains maybe because it is a swiss car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

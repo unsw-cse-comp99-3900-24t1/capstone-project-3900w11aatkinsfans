@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "take"
+        "label": {
+            "phrase": "take all the bibles they want",
+            "count": 1
+        }
     },
     "clusterList": [
         {

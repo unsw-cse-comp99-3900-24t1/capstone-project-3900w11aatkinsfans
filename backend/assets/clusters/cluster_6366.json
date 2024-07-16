@@ -8,7 +8,10 @@
             "01:00",
             "03:59"
         ],
-        "label": "survival"
+        "label": {
+            "phrase": "survival of the fittest",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "thank"
+        "label": {
+            "phrase": "thank you for your concern jake but i am still in charge of my squad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "03:39",
             "04:33"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a smart car",
+            "count": 1
+        }
     },
     "clusterList": [
         {

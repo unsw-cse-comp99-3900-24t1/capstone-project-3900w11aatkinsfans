@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "carrying"
+        "label": {
+            "phrase": "carrying of arms by bear",
+            "count": 1
+        }
     },
     "clusterList": [
         {

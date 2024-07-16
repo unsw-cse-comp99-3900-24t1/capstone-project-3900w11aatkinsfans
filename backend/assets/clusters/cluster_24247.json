@@ -6,7 +6,10 @@
         "xLabels": [
             "03:03"
         ],
-        "label": "wise"
+        "label": {
+            "phrase": "wise speech is rarer and more valuable than gold and rubies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

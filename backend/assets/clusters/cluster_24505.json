@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have got little feet because nothing grows in the shade",
+            "count": 1
+        }
     },
     "clusterList": [
         {

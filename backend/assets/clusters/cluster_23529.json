@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only with questions like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

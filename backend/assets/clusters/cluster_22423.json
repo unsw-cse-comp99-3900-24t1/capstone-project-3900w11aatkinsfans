@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "foul"
+        "label": {
+            "phrase": "foul ball city",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:02"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i feel sad for the duck i feel sad for the duck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

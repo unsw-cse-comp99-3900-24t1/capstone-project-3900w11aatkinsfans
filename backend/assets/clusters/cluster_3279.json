@@ -6,7 +6,10 @@
         "xLabels": [
             "02:32"
         ],
-        "label": "error"
+        "label": {
+            "phrase": "error while importing urlconf r s",
+            "count": 4
+        }
     },
     "clusterList": [
         {

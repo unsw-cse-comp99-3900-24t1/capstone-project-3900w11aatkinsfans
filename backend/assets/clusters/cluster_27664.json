@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the pest also known as iran",
+            "count": 1
+        }
     },
     "clusterList": [
         {

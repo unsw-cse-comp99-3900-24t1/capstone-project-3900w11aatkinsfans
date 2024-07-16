@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you ain't seen but half of it and you clearly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

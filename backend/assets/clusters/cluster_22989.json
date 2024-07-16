@@ -6,7 +6,10 @@
         "xLabels": [
             "02:33"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they tally the numbers to present on the hill",
+            "count": 1
+        }
     },
     "clusterList": [
         {

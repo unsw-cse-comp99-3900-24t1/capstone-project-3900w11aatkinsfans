@@ -10,7 +10,10 @@
             "00:46",
             "03:24"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is my document",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:50"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh she's so going to get yelled at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

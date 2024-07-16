@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "i'd"
+        "label": {
+            "phrase": "i'd have a zoo if i could afford it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

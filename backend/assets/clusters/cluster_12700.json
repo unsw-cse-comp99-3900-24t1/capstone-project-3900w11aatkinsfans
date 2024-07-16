@@ -6,7 +6,10 @@
         "xLabels": [
             "00:01"
         ],
-        "label": "luck"
+        "label": {
+            "phrase": "luck that is good",
+            "count": 1
+        }
     },
     "clusterList": [
         {

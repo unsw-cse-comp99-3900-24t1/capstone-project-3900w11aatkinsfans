@@ -16,7 +16,10 @@
             "04:21",
             "04:27"
         ],
-        "label": "do"
+        "label": {
+            "phrase": "math class is tough",
+            "count": 2
+        }
     },
     "clusterList": [
         {

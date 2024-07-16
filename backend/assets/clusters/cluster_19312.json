@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "gollda"
+        "label": {
+            "phrase": "gollda you have three on your tail",
+            "count": 1
+        }
     },
     "clusterList": [
         {

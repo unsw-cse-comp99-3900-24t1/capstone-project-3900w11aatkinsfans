@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "david"
+        "label": {
+            "phrase": "david mercer chief of early pd",
+            "count": 1
+        }
     },
     "clusterList": [
         {

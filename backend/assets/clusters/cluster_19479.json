@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we are delighted to welcome zol to the board",
+            "count": 1
+        }
     },
     "clusterList": [
         {

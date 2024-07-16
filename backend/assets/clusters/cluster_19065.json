@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i got it done for a good cause",
+            "count": 1
+        }
     },
     "clusterList": [
         {

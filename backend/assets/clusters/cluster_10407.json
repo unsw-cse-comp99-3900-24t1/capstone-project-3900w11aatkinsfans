@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the flea and the dog",
+            "count": 1
+        }
     },
     "clusterList": [
         {

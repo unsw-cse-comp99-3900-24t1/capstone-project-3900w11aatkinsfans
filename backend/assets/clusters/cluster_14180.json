@@ -6,7 +6,10 @@
         "xLabels": [
             "00:36"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then i heard the sirens i knew something was going on",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's the army for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

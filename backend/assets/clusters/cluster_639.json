@@ -40,7 +40,10 @@
             "03:38",
             "03:57"
         ],
-        "label": "cat"
+        "label": {
+            "phrase": "cat on a hot tin roof",
+            "count": 20
+        }
     },
     "clusterList": [
         {

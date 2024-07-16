@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when i took the bayat in",
+            "count": 1
+        }
     },
     "clusterList": [
         {

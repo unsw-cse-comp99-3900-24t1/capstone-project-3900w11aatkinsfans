@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "voter"
+        "label": {
+            "phrase": "voter protection is personal to me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

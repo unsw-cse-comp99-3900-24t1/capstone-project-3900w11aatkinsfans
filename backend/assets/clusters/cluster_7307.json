@@ -10,7 +10,10 @@
             "03:22",
             "03:44"
         ],
-        "label": "out"
+        "label": {
+            "phrase": "out of range",
+            "count": 1
+        }
     },
     "clusterList": [
         {

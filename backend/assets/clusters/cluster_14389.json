@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've granted that extension for a month",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:50"
         ],
-        "label": "commercial"
+        "label": {
+            "phrase": "commercial shoot driven by precision drivers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

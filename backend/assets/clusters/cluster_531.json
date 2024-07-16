@@ -40,7 +40,10 @@
             "04:38",
             "05:04"
         ],
-        "label": "our"
+        "label": {
+            "phrase": "city that floats",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "plan"
+        "label": {
+            "phrase": "plan b racing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

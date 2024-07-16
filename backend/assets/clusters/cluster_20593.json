@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the construkction of light",
+            "count": 1
+        }
     },
     "clusterList": [
         {

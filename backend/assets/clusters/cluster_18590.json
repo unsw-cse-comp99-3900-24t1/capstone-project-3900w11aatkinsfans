@@ -6,7 +6,10 @@
         "xLabels": [
             "01:18"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what are you a couple of inlanders",
+            "count": 1
+        }
     },
     "clusterList": [
         {

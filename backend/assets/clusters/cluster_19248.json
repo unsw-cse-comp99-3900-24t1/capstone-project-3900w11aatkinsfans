@@ -6,7 +6,10 @@
         "xLabels": [
             "01:29"
         ],
-        "label": "challenge"
+        "label": {
+            "phrase": "challenge anyone who carries anything with them that looks odd",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "must"
+        "label": {
+            "phrase": "must instead have a legitimate claim of entitlement",
+            "count": 1
+        }
     },
     "clusterList": [
         {

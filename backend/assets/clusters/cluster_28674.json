@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "display"
+        "label": {
+            "phrase": "display module on all pages",
+            "count": 1
+        }
     },
     "clusterList": [
         {

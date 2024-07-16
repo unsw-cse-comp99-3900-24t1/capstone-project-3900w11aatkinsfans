@@ -8,7 +8,10 @@
             "03:02",
             "03:14"
         ],
-        "label": "tv"
+        "label": {
+            "phrase": "tv service is currently not available please try again later",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:41"
         ],
-        "label": "shepherd"
+        "label": {
+            "phrase": "shepherd amp sheep",
+            "count": 1
+        }
     },
     "clusterList": [
         {

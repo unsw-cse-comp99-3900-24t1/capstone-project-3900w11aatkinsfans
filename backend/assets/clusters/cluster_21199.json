@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can wear the pink one",
+            "count": 1
+        }
     },
     "clusterList": [
         {

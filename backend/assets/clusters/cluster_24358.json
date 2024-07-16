@@ -6,7 +6,10 @@
         "xLabels": [
             "03:06"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i wanna be sedated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

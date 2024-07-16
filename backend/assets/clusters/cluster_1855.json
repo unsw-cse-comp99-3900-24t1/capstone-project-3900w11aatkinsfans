@@ -22,7 +22,10 @@
             "04:05",
             "04:10"
         ],
-        "label": "pound"
+        "label": {
+            "phrase": "pound of flesh",
+            "count": 1
+        }
     },
     "clusterList": [
         {

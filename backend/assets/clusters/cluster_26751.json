@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm a news person i read the news i'm online all the time nothing surprises me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

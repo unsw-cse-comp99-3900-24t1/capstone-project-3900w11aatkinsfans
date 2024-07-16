@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "few"
+        "label": {
+            "phrase": "few bricks short of a full load",
+            "count": 1
+        }
     },
     "clusterList": [
         {

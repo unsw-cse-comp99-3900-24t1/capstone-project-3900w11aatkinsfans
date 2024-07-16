@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "sorry"
+        "label": {
+            "phrase": "sorry mommy i just killed a million people",
+            "count": 1
+        }
     },
     "clusterList": [
         {

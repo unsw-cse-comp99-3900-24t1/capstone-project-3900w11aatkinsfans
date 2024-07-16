@@ -12,7 +12,10 @@
             "02:01",
             "04:38"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is cool",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:39"
         ],
-        "label": "forgot"
+        "label": {
+            "phrase": "forgot about dre",
+            "count": 1
+        }
     },
     "clusterList": [
         {

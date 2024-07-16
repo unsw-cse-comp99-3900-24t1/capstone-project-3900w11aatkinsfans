@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it shows you the arrogance of this group",
+            "count": 1
+        }
     },
     "clusterList": [
         {

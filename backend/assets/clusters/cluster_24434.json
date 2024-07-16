@@ -6,7 +6,10 @@
         "xLabels": [
             "03:07"
         ],
-        "label": "who's"
+        "label": {
+            "phrase": "who's in the chat room and when was the chat last active",
+            "count": 1
+        }
     },
     "clusterList": [
         {

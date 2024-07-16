@@ -6,7 +6,10 @@
         "xLabels": [
             "01:38"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that word is loaded",
+            "count": 1
+        }
     },
     "clusterList": [
         {

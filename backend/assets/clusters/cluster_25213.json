@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "there's"
+        "label": {
+            "phrase": "there's a never-ending supply for you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

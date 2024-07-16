@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they set off their emergency beacon and managed to walk a couple of kilometres to the road and raise the alarm",
+            "count": 1
+        }
     },
     "clusterList": [
         {

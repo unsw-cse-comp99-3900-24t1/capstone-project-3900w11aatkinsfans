@@ -10,7 +10,10 @@
             "02:01",
             "04:51"
         ],
-        "label": "borgin"
+        "label": {
+            "phrase": "borgin and burkes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

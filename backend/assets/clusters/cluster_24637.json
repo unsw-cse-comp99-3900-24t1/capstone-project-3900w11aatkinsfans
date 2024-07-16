@@ -6,7 +6,10 @@
         "xLabels": [
             "03:10"
         ],
-        "label": "subjective"
+        "label": {
+            "phrase": "subjective and misleading",
+            "count": 1
+        }
     },
     "clusterList": [
         {

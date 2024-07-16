@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the people who live here are private",
+            "count": 1
+        }
     },
     "clusterList": [
         {

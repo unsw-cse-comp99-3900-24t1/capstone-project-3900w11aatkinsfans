@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "to overdo it you can burn out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

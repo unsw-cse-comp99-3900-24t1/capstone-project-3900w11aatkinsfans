@@ -6,7 +6,10 @@
         "xLabels": [
             "03:45"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's dr strangelove but it's the kind of dr strangelove you could see governments really using",
+            "count": 1
+        }
     },
     "clusterList": [
         {

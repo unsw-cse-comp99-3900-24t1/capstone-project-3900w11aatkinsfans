@@ -6,7 +6,10 @@
         "xLabels": [
             "02:52"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if we couldn't laugh then we'd all go insane",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:32"
         ],
-        "label": "study"
+        "label": {
+            "phrase": "study for ram",
+            "count": 1
+        }
     },
     "clusterList": [
         {

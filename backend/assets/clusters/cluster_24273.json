@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's also the labor day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

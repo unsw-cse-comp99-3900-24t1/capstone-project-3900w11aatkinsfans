@@ -6,7 +6,10 @@
         "xLabels": [
             "03:29"
         ],
-        "label": "elephant"
+        "label": {
+            "phrase": "elephant in the sand",
+            "count": 1
+        }
     },
     "clusterList": [
         {

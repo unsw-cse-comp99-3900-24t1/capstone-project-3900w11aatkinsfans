@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "each"
+        "label": {
+            "phrase": "each additional 10g ethanol day was associated with risk higher by 10",
+            "count": 1
+        }
     },
     "clusterList": [
         {

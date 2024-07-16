@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "fields"
+        "label": {
+            "phrase": "fields of athenry",
+            "count": 2
+        }
     },
     "clusterList": [
         {

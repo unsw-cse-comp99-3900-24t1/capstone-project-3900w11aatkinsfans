@@ -22,7 +22,10 @@
             "04:50",
             "04:59"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "i liked the food for the soul probably the best",
+            "count": 2
+        }
     },
     "clusterList": [
         {

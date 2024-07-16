@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "doctor"
+        "label": {
+            "phrase": "doctor you have to help me i keep imagining that i'm a giant moth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

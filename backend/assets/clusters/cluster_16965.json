@@ -6,7 +6,10 @@
         "xLabels": [
             "00:53"
         ],
-        "label": "airline"
+        "label": {
+            "phrase": "airline tycoon richard branson announced on friday a 25 million prize for the first person to come up with a way of scrubbing greenhouse gases out of the atmosphere in the battle to beat global warming",
+            "count": 1
+        }
     },
     "clusterList": [
         {

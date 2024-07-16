@@ -16,7 +16,10 @@
             "02:20",
             "03:02"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and is subject to early termination",
+            "count": 3
+        }
     },
     "clusterList": [
         {

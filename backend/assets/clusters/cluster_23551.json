@@ -6,7 +6,10 @@
         "xLabels": [
             "04:22"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the las vegas of gay marriage",
+            "count": 1
+        }
     },
     "clusterList": [
         {

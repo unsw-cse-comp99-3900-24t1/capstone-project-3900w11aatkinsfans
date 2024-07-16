@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "ratepayers"
+        "label": {
+            "phrase": "ratepayers should not be punished for council's mismanagement of funds and resources",
+            "count": 1
+        }
     },
     "clusterList": [
         {

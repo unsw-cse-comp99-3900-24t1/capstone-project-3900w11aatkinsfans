@@ -18,7 +18,10 @@
             "04:03",
             "04:52"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i saw you eat that piece of pie",
+            "count": 2
+        }
     },
     "clusterList": [
         {

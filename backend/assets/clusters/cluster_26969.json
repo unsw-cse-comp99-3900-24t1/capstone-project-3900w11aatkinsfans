@@ -6,7 +6,10 @@
         "xLabels": [
             "03:51"
         ],
-        "label": "human"
+        "label": {
+            "phrase": "human out of me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

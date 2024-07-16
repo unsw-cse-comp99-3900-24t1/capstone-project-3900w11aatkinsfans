@@ -12,7 +12,10 @@
             "01:20",
             "02:42"
         ],
-        "label": "we've"
+        "label": {
+            "phrase": "we've tested this site and found it safe to use",
+            "count": 4
+        }
     },
     "clusterList": [
         {

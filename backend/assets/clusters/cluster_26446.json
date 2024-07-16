@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what constitutes relevancy",
+            "count": 1
+        }
     },
     "clusterList": [
         {

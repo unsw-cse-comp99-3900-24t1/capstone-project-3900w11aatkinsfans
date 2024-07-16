@@ -6,7 +6,10 @@
         "xLabels": [
             "02:27"
         ],
-        "label": "ian"
+        "label": {
+            "phrase": "ian fleming just back from istanbul reports that the filming of",
+            "count": 1
+        }
     },
     "clusterList": [
         {

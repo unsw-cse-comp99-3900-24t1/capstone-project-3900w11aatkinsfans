@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "hey"
+        "label": {
+            "phrase": "hey you big brindle what's say we get down and dirty",
+            "count": 1
+        }
     },
     "clusterList": [
         {

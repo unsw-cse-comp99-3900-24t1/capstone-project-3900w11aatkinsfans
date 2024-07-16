@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the y-wings won't be able to make it for quite a while but the other two will be in the area fairly soon just try and hold off until the y-wings can help you out in taking down the big guns",
+            "count": 1
+        }
     },
     "clusterList": [
         {

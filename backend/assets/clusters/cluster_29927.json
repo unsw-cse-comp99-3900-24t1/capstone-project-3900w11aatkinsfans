@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things they may not want to give up their first time around",
+            "count": 1
+        }
     },
     "clusterList": [
         {

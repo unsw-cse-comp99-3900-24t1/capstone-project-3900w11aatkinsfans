@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "then the us military silenced the cellphones",
+            "count": 1
+        }
     },
     "clusterList": [
         {

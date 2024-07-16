@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "poor"
+        "label": {
+            "phrase": "poor white mountaineers",
+            "count": 1
+        }
     },
     "clusterList": [
         {

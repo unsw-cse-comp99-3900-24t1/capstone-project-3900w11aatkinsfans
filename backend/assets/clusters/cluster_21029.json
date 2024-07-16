@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "heart"
+        "label": {
+            "phrase": "heart won't tell a lie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

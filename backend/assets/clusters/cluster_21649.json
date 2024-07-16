@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "awaiting"
+        "label": {
+            "phrase": "awaiting his friends arrival",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you cheated theres no way you could out run me",
+            "count": 1
+        }
     },
     "clusterList": [
         {

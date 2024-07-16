@@ -12,7 +12,10 @@
             "03:23",
             "04:00"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the world is not enough",
+            "count": 1
+        }
     },
     "clusterList": [
         {

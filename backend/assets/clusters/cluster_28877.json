@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "total"
+        "label": {
+            "phrase": "total brutal is total brilliant",
+            "count": 1
+        }
     },
     "clusterList": [
         {

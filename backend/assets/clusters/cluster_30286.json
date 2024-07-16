@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was an exceptional office in all ways",
+            "count": 1
+        }
     },
     "clusterList": [
         {

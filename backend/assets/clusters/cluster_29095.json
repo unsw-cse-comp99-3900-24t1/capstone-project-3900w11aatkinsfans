@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "warren"
+        "label": {
+            "phrase": "warren beatty is here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

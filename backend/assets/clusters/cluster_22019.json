@@ -6,7 +6,10 @@
         "xLabels": [
             "02:18"
         ],
-        "label": "javafx"
+        "label": {
+            "phrase": "javafx builds upon this foundation to del",
+            "count": 1
+        }
     },
     "clusterList": [
         {

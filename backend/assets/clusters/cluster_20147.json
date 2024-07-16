@@ -6,7 +6,10 @@
         "xLabels": [
             "04:18"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for every action there is an equal and opposite reaction",
+            "count": 1
+        }
     },
     "clusterList": [
         {

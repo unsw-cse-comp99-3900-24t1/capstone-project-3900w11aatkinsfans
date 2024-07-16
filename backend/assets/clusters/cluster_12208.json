@@ -6,7 +6,10 @@
         "xLabels": [
             "04:52"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "why touch the screen",
+            "count": 2
+        }
     },
     "clusterList": [
         {

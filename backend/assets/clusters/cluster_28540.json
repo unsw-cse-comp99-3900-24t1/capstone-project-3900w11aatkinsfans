@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "processed"
+        "label": {
+            "phrase": "processed in the normal manner",
+            "count": 1
+        }
     },
     "clusterList": [
         {

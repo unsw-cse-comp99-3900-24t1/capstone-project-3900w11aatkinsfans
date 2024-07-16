@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "doesn't"
+        "label": {
+            "phrase": "doesn't pass the smell test",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -16,7 +16,10 @@
             "04:15",
             "04:37"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "word of mouse",
+            "count": 2
+        }
     },
     "clusterList": [
         {

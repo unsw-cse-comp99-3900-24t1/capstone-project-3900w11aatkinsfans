@@ -6,7 +6,10 @@
         "xLabels": [
             "02:19"
         ],
-        "label": "let's"
+        "label": {
+            "phrase": "let's learn fijian",
+            "count": 1
+        }
     },
     "clusterList": [
         {

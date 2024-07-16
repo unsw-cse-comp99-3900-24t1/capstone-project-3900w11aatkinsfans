@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a big chunk of change to operate a building we don't know about yet",
+            "count": 1
+        }
     },
     "clusterList": [
         {

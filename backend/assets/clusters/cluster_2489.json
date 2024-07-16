@@ -18,7 +18,10 @@
             "03:27",
             "04:28"
         ],
-        "label": "why"
+        "label": {
+            "phrase": "zero flight hours",
+            "count": 3
+        }
     },
     "clusterList": [
         {

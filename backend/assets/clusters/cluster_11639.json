@@ -6,7 +6,10 @@
         "xLabels": [
             "03:48"
         ],
-        "label": "has"
+        "label": {
+            "phrase": "has your child recently felt the affects of a terrorist attack",
+            "count": 2
+        }
     },
     "clusterList": [
         {

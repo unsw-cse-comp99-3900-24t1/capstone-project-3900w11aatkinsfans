@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is not fancy and does not require a ph d",
+            "count": 1
+        }
     },
     "clusterList": [
         {

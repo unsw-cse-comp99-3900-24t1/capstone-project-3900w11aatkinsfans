@@ -14,7 +14,10 @@
             "01:04",
             "01:14"
         ],
-        "label": "hi"
+        "label": {
+            "phrase": "hi i'm a witness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

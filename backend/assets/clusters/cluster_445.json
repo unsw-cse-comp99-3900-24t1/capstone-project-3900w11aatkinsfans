@@ -40,7 +40,10 @@
             "04:54",
             "04:55"
         ],
-        "label": "something"
+        "label": {
+            "phrase": "it's different this time",
+            "count": 6
+        }
     },
     "clusterList": [
         {

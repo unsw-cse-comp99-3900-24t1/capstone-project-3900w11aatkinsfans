@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "philadelphia"
+        "label": {
+            "phrase": "philadelphia called me richie",
+            "count": 1
+        }
     },
     "clusterList": [
         {

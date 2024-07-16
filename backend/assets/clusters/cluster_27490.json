@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not of human origin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

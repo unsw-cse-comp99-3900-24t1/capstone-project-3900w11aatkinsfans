@@ -6,7 +6,10 @@
         "xLabels": [
             "01:25"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in the cookie jar",
+            "count": 1
+        }
     },
     "clusterList": [
         {

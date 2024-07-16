@@ -10,7 +10,10 @@
             "00:48",
             "01:32"
         ],
-        "label": "holding"
+        "label": {
+            "phrase": "i just kind of held on for dear life",
+            "count": 2
+        }
     },
     "clusterList": [
         {

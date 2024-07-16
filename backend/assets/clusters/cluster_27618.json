@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "rapidly"
+        "label": {
+            "phrase": "rapidly coming to an end",
+            "count": 1
+        }
     },
     "clusterList": [
         {

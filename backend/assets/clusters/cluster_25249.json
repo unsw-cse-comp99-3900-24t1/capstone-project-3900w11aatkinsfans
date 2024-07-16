@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "are"
+        "label": {
+            "phrase": "are you sure i'm sensing something more here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

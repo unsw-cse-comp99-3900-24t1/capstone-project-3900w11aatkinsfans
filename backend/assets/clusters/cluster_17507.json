@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the guy who wanted to make a quick buck ran into another guy who wanted to make big bucks",
+            "count": 1
+        }
     },
     "clusterList": [
         {

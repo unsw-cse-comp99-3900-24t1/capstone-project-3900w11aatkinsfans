@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one is kicked out",
+            "count": 1
+        }
     },
     "clusterList": [
         {

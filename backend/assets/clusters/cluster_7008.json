@@ -10,7 +10,10 @@
             "02:52",
             "03:34"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the situation has improved dramatically",
+            "count": 2
+        }
     },
     "clusterList": [
         {

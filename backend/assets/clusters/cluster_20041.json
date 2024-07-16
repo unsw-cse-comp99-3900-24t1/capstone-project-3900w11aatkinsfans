@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "spixana"
+        "label": {
+            "phrase": "spixana in fiera",
+            "count": 1
+        }
     },
     "clusterList": [
         {

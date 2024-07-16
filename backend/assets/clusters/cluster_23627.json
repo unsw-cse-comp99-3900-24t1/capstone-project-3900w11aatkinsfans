@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "be"
+        "label": {
+            "phrase": "be fresh so change daily",
+            "count": 1
+        }
     },
     "clusterList": [
         {

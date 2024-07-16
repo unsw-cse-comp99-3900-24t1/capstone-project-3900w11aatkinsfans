@@ -6,7 +6,10 @@
         "xLabels": [
             "02:41"
         ],
-        "label": "out"
+        "label": {
+            "phrase": "out of egypt have i called my son",
+            "count": 1
+        }
     },
     "clusterList": [
         {

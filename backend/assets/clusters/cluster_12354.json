@@ -6,7 +6,10 @@
         "xLabels": [
             "00:00"
         ],
-        "label": "did"
+        "label": {
+            "phrase": "did you just say you were a competitive yoga fan cocoa",
+            "count": 1
+        }
     },
     "clusterList": [
         {

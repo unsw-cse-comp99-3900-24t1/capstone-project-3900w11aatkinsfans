@@ -14,7 +14,10 @@
             "04:00",
             "04:29"
         ],
-        "label": "right"
+        "label": {
+            "phrase": "right track wrong track",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -36,7 +36,10 @@
             "03:29",
             "04:28"
         ],
-        "label": "common"
+        "label": {
+            "phrase": "have another drink on me",
+            "count": 3
+        }
     },
     "clusterList": [
         {

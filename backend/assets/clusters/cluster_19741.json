@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "shipping"
+        "label": {
+            "phrase": "shipping will be extra to hawai'i alaska or any of the other non-contiguous u s states",
+            "count": 1
+        }
     },
     "clusterList": [
         {

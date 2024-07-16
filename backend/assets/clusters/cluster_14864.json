@@ -6,7 +6,10 @@
         "xLabels": [
             "02:01"
         ],
-        "label": "honey"
+        "label": {
+            "phrase": "honey i rented you a ton of movies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

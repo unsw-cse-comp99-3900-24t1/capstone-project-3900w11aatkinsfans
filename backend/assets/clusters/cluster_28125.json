@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the conversation proves it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

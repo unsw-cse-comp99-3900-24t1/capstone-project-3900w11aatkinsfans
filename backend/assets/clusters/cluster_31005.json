@@ -6,7 +6,10 @@
         "xLabels": [
             "05:03"
         ],
-        "label": "call"
+        "label": {
+            "phrase": "call me ishmael",
+            "count": 1
+        }
     },
     "clusterList": [
         {

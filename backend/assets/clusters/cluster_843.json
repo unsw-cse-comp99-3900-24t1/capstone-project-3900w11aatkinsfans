@@ -30,7 +30,10 @@
             "04:22",
             "04:38"
         ],
-        "label": "vote"
+        "label": {
+            "phrase": "nevertheless the appeal is made to enable democracy to prevail in this country",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:07"
         ],
-        "label": "anesthesia"
+        "label": {
+            "phrase": "anesthesia pulling teeth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

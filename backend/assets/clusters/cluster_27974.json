@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i do wear a lot of different hats",
+            "count": 1
+        }
     },
     "clusterList": [
         {

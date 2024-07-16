@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "have"
+        "label": {
+            "phrase": "have you notified the president scientific advisors office of this thing you are looking at",
+            "count": 1
+        }
     },
     "clusterList": [
         {

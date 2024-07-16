@@ -8,7 +8,10 @@
             "02:10",
             "03:55"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you've seen me you've seen the father",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "what's"
+        "label": {
+            "phrase": "what's up with all the cab drivers tonight",
+            "count": 1
+        }
     },
     "clusterList": [
         {

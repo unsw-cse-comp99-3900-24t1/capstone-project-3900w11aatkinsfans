@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "friends"
+        "label": {
+            "phrase": "friends are the ones who know everything about us but love us anyway",
+            "count": 1
+        }
     },
     "clusterList": [
         {

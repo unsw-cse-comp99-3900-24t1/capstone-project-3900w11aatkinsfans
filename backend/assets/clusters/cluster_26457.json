@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "matt"
+        "label": {
+            "phrase": "matt have you seen this cat it's just like tiger",
+            "count": 1
+        }
     },
     "clusterList": [
         {

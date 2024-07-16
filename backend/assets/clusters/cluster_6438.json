@@ -8,7 +8,10 @@
             "01:09",
             "01:33"
         ],
-        "label": "which"
+        "label": {
+            "phrase": "which is all very well but how can we get around the brittleness that has plagued automated ui tests in the past a key is to address the form in which the tests are recorded how they identify what is being done with the gui once upon a time this was the screen mechanics click on pixel 124 21 and the tests broke as soon as you ran with different monitor settings now it's usually the gui toolkit mechanics find this jtable and click in the third cell of the second row but what if we ended up recording intent instead of mechanics in a domain language",
+            "count": 3
+        }
     },
     "clusterList": [
         {

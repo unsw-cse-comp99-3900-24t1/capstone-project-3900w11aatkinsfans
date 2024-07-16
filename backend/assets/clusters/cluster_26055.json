@@ -6,7 +6,10 @@
         "xLabels": [
             "03:35"
         ],
-        "label": "an"
+        "label": {
+            "phrase": "an honest evaluation",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "knowledge"
+        "label": {
+            "phrase": "knowledge is a parent and action is its offspring",
+            "count": 1
+        }
     },
     "clusterList": [
         {

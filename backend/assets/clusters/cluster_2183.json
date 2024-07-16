@@ -20,7 +20,10 @@
             "01:42",
             "04:24"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "booking through thursday afternoon",
+            "count": 4
+        }
     },
     "clusterList": [
         {

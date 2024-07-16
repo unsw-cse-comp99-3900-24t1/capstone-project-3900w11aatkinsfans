@@ -6,7 +6,10 @@
         "xLabels": [
             "02:13"
         ],
-        "label": "we're"
+        "label": {
+            "phrase": "we're the only husband and wife participating",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm not taking it for you just because you're lazy and don't have any grandchildren",
+            "count": 1
+        }
     },
     "clusterList": [
         {

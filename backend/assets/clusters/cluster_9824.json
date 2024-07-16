@@ -8,7 +8,10 @@
             "01:30",
             "01:38"
         ],
-        "label": "opinion"
+        "label": {
+            "phrase": "opinion was challenged",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:28"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and any other clown",
+            "count": 1
+        }
     },
     "clusterList": [
         {

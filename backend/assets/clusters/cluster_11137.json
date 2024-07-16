@@ -8,7 +8,10 @@
             "03:05",
             "04:09"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not a truck",
+            "count": 1
+        }
     },
     "clusterList": [
         {

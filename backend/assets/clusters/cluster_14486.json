@@ -6,7 +6,10 @@
         "xLabels": [
             "00:20"
         ],
-        "label": "rebranding"
+        "label": {
+            "phrase": "rebranding efforts have not only been a collosal failure but they've been horrible propositions and too-little-too-late pandering",
+            "count": 1
+        }
     },
     "clusterList": [
         {

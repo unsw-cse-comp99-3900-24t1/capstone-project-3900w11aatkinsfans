@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we had some really good talks with seattle they were pretty intense and pretty in-depth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

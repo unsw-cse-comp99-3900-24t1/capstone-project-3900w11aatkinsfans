@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "and"
+        "label": {
+            "phrase": "and how do you take your americano",
+            "count": 1
+        }
     },
     "clusterList": [
         {

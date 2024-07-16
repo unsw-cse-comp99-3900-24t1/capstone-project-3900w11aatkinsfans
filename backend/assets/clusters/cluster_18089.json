@@ -6,7 +6,10 @@
         "xLabels": [
             "01:09"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we wanted to develop super users",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the faculty knows her very well",
+            "count": 1
+        }
     },
     "clusterList": [
         {

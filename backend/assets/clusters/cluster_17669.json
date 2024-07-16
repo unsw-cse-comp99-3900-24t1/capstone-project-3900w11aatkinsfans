@@ -6,7 +6,10 @@
         "xLabels": [
             "01:30"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just surprised at that that's all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

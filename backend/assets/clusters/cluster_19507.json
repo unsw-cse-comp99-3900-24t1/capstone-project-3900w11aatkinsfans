@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a match made in space",
+            "count": 1
+        }
     },
     "clusterList": [
         {

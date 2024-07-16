@@ -8,7 +8,10 @@
             "03:59",
             "04:21"
         ],
-        "label": "corporations"
+        "label": {
+            "phrase": "corporations are bad",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -74,7 +74,10 @@
             "05:00",
             "05:01"
         ],
-        "label": "then"
+        "label": {
+            "phrase": "where are you",
+            "count": 4
+        }
     },
     "clusterList": [
         {

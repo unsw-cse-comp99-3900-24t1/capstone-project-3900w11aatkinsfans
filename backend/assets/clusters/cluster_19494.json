@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "until"
+        "label": {
+            "phrase": "until you go out on the market and test something you're not sure how it's going to work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

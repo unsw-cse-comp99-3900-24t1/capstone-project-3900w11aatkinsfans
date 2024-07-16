@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "renowned"
+        "label": {
+            "phrase": "renowned for the amount of control",
+            "count": 1
+        }
     },
     "clusterList": [
         {

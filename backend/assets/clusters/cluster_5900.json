@@ -10,7 +10,10 @@
             "00:58",
             "03:00"
         ],
-        "label": "mttdl"
+        "label": {
+            "phrase": "mttdl calculation is one attribute",
+            "count": 3
+        }
     },
     "clusterList": [
         {

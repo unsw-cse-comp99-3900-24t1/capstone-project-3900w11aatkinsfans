@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "hell"
+        "label": {
+            "phrase": "hell yeah and you're getting even more where that came from",
+            "count": 1
+        }
     },
     "clusterList": [
         {

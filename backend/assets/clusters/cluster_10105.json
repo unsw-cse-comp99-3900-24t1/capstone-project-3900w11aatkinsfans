@@ -8,7 +8,10 @@
             "01:41",
             "03:42"
         ],
-        "label": "cruising"
+        "label": {
+            "phrase": "cruising the mid section",
+            "count": 2
+        }
     },
     "clusterList": [
         {

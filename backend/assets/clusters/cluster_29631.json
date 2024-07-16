@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "they"
+        "label": {
+            "phrase": "they got coats and sweaters in the middle of the summer",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "what"
+        "label": {
+            "phrase": "what is quantum shamanism",
+            "count": 1
+        }
     },
     "clusterList": [
         {

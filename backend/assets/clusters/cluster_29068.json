@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "splendor"
+        "label": {
+            "phrase": "splendor in the grass",
+            "count": 1
+        }
     },
     "clusterList": [
         {

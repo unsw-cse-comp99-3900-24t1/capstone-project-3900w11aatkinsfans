@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "too"
+        "label": {
+            "phrase": "too many closed doors around here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

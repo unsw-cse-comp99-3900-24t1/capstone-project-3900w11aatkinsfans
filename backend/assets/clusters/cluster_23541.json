@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is evidence that's been around a while",
+            "count": 1
+        }
     },
     "clusterList": [
         {

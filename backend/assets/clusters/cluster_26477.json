@@ -6,7 +6,10 @@
         "xLabels": [
             "03:43"
         ],
-        "label": "obviously"
+        "label": {
+            "phrase": "obviously san diego is an extremely bilingual city",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was freed about 10am",
+            "count": 1
+        }
     },
     "clusterList": [
         {

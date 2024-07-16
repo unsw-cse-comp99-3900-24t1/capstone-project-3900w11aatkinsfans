@@ -30,7 +30,10 @@
             "04:22",
             "05:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "new york times",
+            "count": 3
+        }
     },
     "clusterList": [
         {

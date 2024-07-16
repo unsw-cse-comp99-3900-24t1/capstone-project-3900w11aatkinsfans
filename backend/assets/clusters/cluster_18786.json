@@ -6,7 +6,10 @@
         "xLabels": [
             "01:20"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can't just live on raspberries you know",
+            "count": 1
+        }
     },
     "clusterList": [
         {

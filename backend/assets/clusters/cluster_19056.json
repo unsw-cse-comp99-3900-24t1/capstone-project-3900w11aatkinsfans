@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "enough"
+        "label": {
+            "phrase": "enough of this nonsense",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:11"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no country for old men",
+            "count": 1
+        }
     },
     "clusterList": [
         {

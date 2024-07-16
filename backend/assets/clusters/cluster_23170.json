@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "critical"
+        "label": {
+            "phrase": "critical period hyphothesis",
+            "count": 1
+        }
     },
     "clusterList": [
         {

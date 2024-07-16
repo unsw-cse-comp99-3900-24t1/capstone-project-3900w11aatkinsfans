@@ -12,7 +12,10 @@
             "03:34",
             "05:02"
         ],
-        "label": "hand"
+        "label": {
+            "phrase": "the insert funky word here",
+            "count": 2
+        }
     },
     "clusterList": [
         {

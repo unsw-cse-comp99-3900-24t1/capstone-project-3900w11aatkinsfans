@@ -10,7 +10,10 @@
             "01:02",
             "01:24"
         ],
-        "label": "message"
+        "label": {
+            "phrase": "message icon not shown in ie6",
+            "count": 3
+        }
     },
     "clusterList": [
         {

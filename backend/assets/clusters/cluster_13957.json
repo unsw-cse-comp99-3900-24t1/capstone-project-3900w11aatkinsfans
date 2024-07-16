@@ -6,7 +6,10 @@
         "xLabels": [
             "00:15"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if i play my cards right i think i've found a father for vennis he's a regular robot stack",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "900"
+        "label": {
+            "phrase": "900 degree wheels are still 270 degree wheels so they still suck for 360 degree games in mame and do fine for 270 degree games",
+            "count": 1
+        }
     },
     "clusterList": [
         {

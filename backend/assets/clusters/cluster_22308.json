@@ -6,7 +6,10 @@
         "xLabels": [
             "02:45"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when you're involved in that type of research not every single thing that you try is going to work perfectly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

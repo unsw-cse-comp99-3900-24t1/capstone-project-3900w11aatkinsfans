@@ -6,7 +6,10 @@
         "xLabels": [
             "04:59"
         ],
-        "label": "teaching"
+        "label": {
+            "phrase": "teaching attitude motivation communication and customer service",
+            "count": 1
+        }
     },
     "clusterList": [
         {

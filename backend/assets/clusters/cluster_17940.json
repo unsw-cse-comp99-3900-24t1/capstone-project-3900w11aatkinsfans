@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "mile"
+        "label": {
+            "phrase": "mile high sports radio",
+            "count": 1
+        }
     },
     "clusterList": [
         {

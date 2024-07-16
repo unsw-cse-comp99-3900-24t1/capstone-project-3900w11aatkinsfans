@@ -6,7 +6,10 @@
         "xLabels": [
             "00:51"
         ],
-        "label": "ain't"
+        "label": {
+            "phrase": "ain't it break time chester",
+            "count": 1
+        }
     },
     "clusterList": [
         {

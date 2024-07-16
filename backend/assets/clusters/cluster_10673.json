@@ -6,7 +6,10 @@
         "xLabels": [
             "02:24"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a srf e o office",
+            "count": 2
+        }
     },
     "clusterList": [
         {

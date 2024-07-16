@@ -6,7 +6,10 @@
         "xLabels": [
             "01:56"
         ],
-        "label": "chick"
+        "label": {
+            "phrase": "chick lit is like chocolate it is lovely",
+            "count": 1
+        }
     },
     "clusterList": [
         {

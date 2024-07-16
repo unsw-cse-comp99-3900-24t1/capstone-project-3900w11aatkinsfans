@@ -6,7 +6,10 @@
         "xLabels": [
             "04:50"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the style and colour don't go with the cabinetry",
+            "count": 1
+        }
     },
     "clusterList": [
         {

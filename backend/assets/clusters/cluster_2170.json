@@ -20,7 +20,10 @@
             "04:41",
             "05:01"
         ],
-        "label": "smoking"
+        "label": {
+            "phrase": "second-hand smoke has very high levels of toxic gases and small particles",
+            "count": 3
+        }
     },
     "clusterList": [
         {

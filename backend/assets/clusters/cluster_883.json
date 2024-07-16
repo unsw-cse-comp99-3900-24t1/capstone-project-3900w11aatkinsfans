@@ -30,7 +30,10 @@
             "04:32",
             "04:45"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "we are all americans",
+            "count": 5
+        }
     },
     "clusterList": [
         {

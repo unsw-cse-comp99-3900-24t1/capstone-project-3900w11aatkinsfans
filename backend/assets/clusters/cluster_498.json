@@ -46,7 +46,10 @@
             "04:24",
             "04:28"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "the california kid",
+            "count": 3
+        }
     },
     "clusterList": [
         {

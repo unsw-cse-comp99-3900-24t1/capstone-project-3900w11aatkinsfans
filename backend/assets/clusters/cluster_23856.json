@@ -6,7 +6,10 @@
         "xLabels": [
             "02:56"
         ],
-        "label": "quick"
+        "label": {
+            "phrase": "quick before we sink get that email out to robert",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -12,7 +12,10 @@
             "03:05",
             "04:13"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can not enter media philips external hard disk folder",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "how"
+        "label": {
+            "phrase": "how dare you to write like that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

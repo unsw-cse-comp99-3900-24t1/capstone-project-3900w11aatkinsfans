@@ -6,7 +6,10 @@
         "xLabels": [
             "04:06"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one of the most ignorant things i've ever heard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

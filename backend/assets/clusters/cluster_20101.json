@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "just"
+        "label": {
+            "phrase": "just following orders",
+            "count": 1
+        }
     },
     "clusterList": [
         {

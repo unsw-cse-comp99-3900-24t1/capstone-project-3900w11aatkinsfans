@@ -10,7 +10,10 @@
             "04:14",
             "04:41"
         ],
-        "label": "countdown"
+        "label": {
+            "phrase": "countdown with keith olbermann",
+            "count": 5
+        }
     },
     "clusterList": [
         {

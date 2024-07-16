@@ -6,7 +6,10 @@
         "xLabels": [
             "01:43"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in the system",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "02:35",
             "03:08"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this may sting a little",
+            "count": 1
+        }
     },
     "clusterList": [
         {

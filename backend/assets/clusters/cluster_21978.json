@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not in line",
+            "count": 1
+        }
     },
     "clusterList": [
         {

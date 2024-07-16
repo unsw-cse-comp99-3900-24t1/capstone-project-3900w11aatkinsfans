@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "i've"
+        "label": {
+            "phrase": "i've never seen anything so pitiful but it is hard for me to feel pity so it's not gonna work",
+            "count": 1
+        }
     },
     "clusterList": [
         {

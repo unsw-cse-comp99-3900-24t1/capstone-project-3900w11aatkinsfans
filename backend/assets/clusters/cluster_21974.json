@@ -6,7 +6,10 @@
         "xLabels": [
             "02:15"
         ],
-        "label": "maybe"
+        "label": {
+            "phrase": "maybe we taught him too much about politics",
+            "count": 1
+        }
     },
     "clusterList": [
         {

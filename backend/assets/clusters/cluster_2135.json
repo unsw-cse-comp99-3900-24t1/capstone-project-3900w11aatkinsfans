@@ -20,7 +20,10 @@
             "04:15",
             "05:05"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is forgiveness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

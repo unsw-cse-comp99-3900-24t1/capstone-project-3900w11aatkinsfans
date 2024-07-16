@@ -6,7 +6,10 @@
         "xLabels": [
             "01:52"
         ],
-        "label": "most"
+        "label": {
+            "phrase": "most of the other standalone friendfeed apps are hard to use",
+            "count": 1
+        }
     },
     "clusterList": [
         {

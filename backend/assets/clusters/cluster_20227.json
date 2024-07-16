@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the most common distraction is the use of cellphones followed by drowsiness",
+            "count": 1
+        }
     },
     "clusterList": [
         {

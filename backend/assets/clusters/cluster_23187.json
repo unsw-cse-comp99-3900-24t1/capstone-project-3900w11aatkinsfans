@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "knock"
+        "label": {
+            "phrase": "knock on wood",
+            "count": 1
+        }
     },
     "clusterList": [
         {

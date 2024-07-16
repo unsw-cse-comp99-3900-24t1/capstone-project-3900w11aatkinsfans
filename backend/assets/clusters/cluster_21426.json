@@ -6,7 +6,10 @@
         "xLabels": [
             "02:05"
         ],
-        "label": "great"
+        "label": {
+            "phrase": "great low light performance",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:01",
             "03:11"
         ],
-        "label": "urban"
+        "label": {
+            "phrase": "urban heat island",
+            "count": 1
+        }
     },
     "clusterList": [
         {

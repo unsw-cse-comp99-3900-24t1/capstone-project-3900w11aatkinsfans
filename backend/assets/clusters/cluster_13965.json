@@ -6,7 +6,10 @@
         "xLabels": [
             "00:15"
         ],
-        "label": "rover"
+        "label": {
+            "phrase": "rover rover wake up rover cats",
+            "count": 1
+        }
     },
     "clusterList": [
         {

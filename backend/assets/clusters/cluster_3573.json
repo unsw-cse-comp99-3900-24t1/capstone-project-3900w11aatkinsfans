@@ -10,7 +10,10 @@
             "00:12",
             "00:38"
         ],
-        "label": "am"
+        "label": {
+            "phrase": "am i the same girl",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:24"
         ],
-        "label": "that"
+        "label": {
+            "phrase": "that will leave a stain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:16"
         ],
-        "label": "standin"
+        "label": {
+            "phrase": "standin round cryin",
+            "count": 1
+        }
     },
     "clusterList": [
         {

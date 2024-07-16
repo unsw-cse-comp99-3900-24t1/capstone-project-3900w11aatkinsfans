@@ -6,7 +6,10 @@
         "xLabels": [
             "05:04"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the next thing the kitchen was up in flames",
+            "count": 1
+        }
     },
     "clusterList": [
         {

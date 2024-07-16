@@ -6,7 +6,10 @@
         "xLabels": [
             "01:39"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the mysterious ticking noise",
+            "count": 1
+        }
     },
     "clusterList": [
         {

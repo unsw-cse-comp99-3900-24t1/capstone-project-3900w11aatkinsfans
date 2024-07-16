@@ -18,7 +18,10 @@
             "04:32",
             "05:04"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a pretty big part of our game",
+            "count": 2
+        }
     },
     "clusterList": [
         {

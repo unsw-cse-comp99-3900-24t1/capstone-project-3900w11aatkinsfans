@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no one can boast of understanding the germans",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:09"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the way of the bohdisattva",
+            "count": 1
+        }
     },
     "clusterList": [
         {

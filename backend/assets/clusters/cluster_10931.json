@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "crawdaunt"
+        "label": {
+            "phrase": "crawdaunt hey where is moth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

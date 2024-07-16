@@ -6,7 +6,10 @@
         "xLabels": [
             "03:14"
         ],
-        "label": "use"
+        "label": {
+            "phrase": "use your special ability here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

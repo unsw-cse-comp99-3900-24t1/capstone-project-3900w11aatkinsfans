@@ -6,7 +6,10 @@
         "xLabels": [
             "02:42"
         ],
-        "label": "top"
+        "label": {
+            "phrase": "top of atmosphere radiative anomaly",
+            "count": 1
+        }
     },
     "clusterList": [
         {

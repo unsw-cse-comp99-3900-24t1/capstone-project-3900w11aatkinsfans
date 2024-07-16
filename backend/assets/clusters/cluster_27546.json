@@ -6,7 +6,10 @@
         "xLabels": [
             "04:04"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's rare to get this number of artists of this calibre together under one roof for an entire weekend",
+            "count": 1
+        }
     },
     "clusterList": [
         {

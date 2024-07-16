@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "close"
+        "label": {
+            "phrase": "close to 40 million people are listed as being food insecure even if theydon't actually go hungry food on the table",
+            "count": 1
+        }
     },
     "clusterList": [
         {

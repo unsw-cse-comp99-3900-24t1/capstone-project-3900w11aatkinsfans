@@ -28,7 +28,10 @@
             "05:00",
             "05:02"
         ],
-        "label": "litter"
+        "label": {
+            "phrase": "litter your house with music",
+            "count": 1
+        }
     },
     "clusterList": [
         {

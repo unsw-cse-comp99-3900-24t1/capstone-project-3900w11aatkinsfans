@@ -12,7 +12,10 @@
             "04:06",
             "04:46"
         ],
-        "label": "haha"
+        "label": {
+            "phrase": "haha you don't have to call me that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

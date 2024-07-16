@@ -6,7 +6,10 @@
         "xLabels": [
             "01:06"
         ],
-        "label": "okay"
+        "label": {
+            "phrase": "okay i'll ask when he comes out i'll ask",
+            "count": 1
+        }
     },
     "clusterList": [
         {

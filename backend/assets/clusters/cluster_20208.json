@@ -6,7 +6,10 @@
         "xLabels": [
             "01:42"
         ],
-        "label": "culture"
+        "label": {
+            "phrase": "culture is fine and worth protecting",
+            "count": 1
+        }
     },
     "clusterList": [
         {

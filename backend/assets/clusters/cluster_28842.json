@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the fact that stress can activate the innate immune response has been a major breakthrough",
+            "count": 1
+        }
     },
     "clusterList": [
         {

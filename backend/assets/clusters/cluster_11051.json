@@ -6,7 +6,10 @@
         "xLabels": [
             "02:57"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your safe armour and honest cover",
+            "count": 1
+        }
     },
     "clusterList": [
         {

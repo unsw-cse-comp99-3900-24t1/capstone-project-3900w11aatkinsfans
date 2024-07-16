@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this program has been produced by the entertainment capital of the world produced for television by warner bros",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "not"
+        "label": {
+            "phrase": "not worth a continental",
+            "count": 1
+        }
     },
     "clusterList": [
         {

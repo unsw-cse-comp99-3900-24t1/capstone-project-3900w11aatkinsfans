@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "daylights"
+        "label": {
+            "phrase": "daylights savings time",
+            "count": 1
+        }
     },
     "clusterList": [
         {

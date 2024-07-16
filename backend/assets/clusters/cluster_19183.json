@@ -6,7 +6,10 @@
         "xLabels": [
             "03:23"
         ],
-        "label": "investments"
+        "label": {
+            "phrase": "investments still pouring in but next year less certain",
+            "count": 1
+        }
     },
     "clusterList": [
         {

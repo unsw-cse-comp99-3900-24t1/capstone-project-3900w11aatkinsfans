@@ -10,7 +10,10 @@
             "02:57",
             "03:55"
         ],
-        "label": "content"
+        "label": {
+            "phrase": "content that is not permitted",
+            "count": 1
+        }
     },
     "clusterList": [
         {

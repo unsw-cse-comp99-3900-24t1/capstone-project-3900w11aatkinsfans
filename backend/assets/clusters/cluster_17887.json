@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's a bit of drive hope u bear it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

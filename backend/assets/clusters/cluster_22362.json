@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "like"
+        "label": {
+            "phrase": "like your there",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "03:59"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i could write the truth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

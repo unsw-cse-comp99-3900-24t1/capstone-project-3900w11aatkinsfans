@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "over"
+        "label": {
+            "phrase": "over my pile of ashes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

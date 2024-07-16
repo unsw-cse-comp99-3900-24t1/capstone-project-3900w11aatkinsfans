@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "there"
+        "label": {
+            "phrase": "there is no question in my mind that i am a",
+            "count": 1
+        }
     },
     "clusterList": [
         {

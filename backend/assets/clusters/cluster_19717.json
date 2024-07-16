@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "can"
+        "label": {
+            "phrase": "can we call you special dark",
+            "count": 1
+        }
     },
     "clusterList": [
         {

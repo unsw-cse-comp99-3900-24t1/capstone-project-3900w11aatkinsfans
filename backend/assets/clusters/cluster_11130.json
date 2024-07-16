@@ -6,7 +6,10 @@
         "xLabels": [
             "03:05"
         ],
-        "label": "those"
+        "label": {
+            "phrase": "those dudes put the old serial numbers in the money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

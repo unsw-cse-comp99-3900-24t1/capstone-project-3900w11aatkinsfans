@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "groovy"
+        "label": {
+            "phrase": "groovy a little help is needed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

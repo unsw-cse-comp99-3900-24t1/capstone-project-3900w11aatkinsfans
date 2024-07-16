@@ -18,7 +18,10 @@
             "04:05",
             "04:32"
         ],
-        "label": "hot"
+        "label": {
+            "phrase": "this is thin soup",
+            "count": 2
+        }
     },
     "clusterList": [
         {

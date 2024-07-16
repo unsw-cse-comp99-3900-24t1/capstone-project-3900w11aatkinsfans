@@ -6,7 +6,10 @@
         "xLabels": [
             "01:02"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was the closest i've ever got to being munched",
+            "count": 1
+        }
     },
     "clusterList": [
         {

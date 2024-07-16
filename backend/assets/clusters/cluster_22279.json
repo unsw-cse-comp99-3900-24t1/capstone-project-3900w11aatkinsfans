@@ -6,7 +6,10 @@
         "xLabels": [
             "02:22"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i told milt no i wasn't enticed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

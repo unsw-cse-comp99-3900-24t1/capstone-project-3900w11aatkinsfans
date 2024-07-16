@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "only"
+        "label": {
+            "phrase": "only a sunnah",
+            "count": 1
+        }
     },
     "clusterList": [
         {

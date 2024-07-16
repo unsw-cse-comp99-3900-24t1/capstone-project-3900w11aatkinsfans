@@ -18,7 +18,10 @@
             "03:51",
             "04:31"
         ],
-        "label": "operation"
+        "label": {
+            "phrase": "operation peter pan",
+            "count": 7
+        }
     },
     "clusterList": [
         {

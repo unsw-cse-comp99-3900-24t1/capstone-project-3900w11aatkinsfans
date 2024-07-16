@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "with"
+        "label": {
+            "phrase": "with all of its settings",
+            "count": 1
+        }
     },
     "clusterList": [
         {

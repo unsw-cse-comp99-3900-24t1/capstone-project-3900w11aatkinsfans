@@ -6,7 +6,10 @@
         "xLabels": [
             "02:54"
         ],
-        "label": "good"
+        "label": {
+            "phrase": "good things do come to those who wait",
+            "count": 1
+        }
     },
     "clusterList": [
         {

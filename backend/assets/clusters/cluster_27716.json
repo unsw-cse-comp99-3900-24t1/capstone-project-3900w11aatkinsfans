@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "against"
+        "label": {
+            "phrase": "against the envy of less happier lands",
+            "count": 1
+        }
     },
     "clusterList": [
         {

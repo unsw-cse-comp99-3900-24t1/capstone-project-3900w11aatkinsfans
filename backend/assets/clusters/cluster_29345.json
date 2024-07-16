@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "everything"
+        "label": {
+            "phrase": "everything about this album was natural",
+            "count": 1
+        }
     },
     "clusterList": [
         {

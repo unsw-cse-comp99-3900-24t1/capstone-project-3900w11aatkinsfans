@@ -10,7 +10,10 @@
             "00:29",
             "01:10"
         ],
-        "label": "things"
+        "label": {
+            "phrase": "things fall apart",
+            "count": 1
+        }
     },
     "clusterList": [
         {

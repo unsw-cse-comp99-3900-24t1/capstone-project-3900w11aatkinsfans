@@ -6,7 +6,10 @@
         "xLabels": [
             "03:01"
         ],
-        "label": "bikes"
+        "label": {
+            "phrase": "bikes are finally getting the respect they deserve",
+            "count": 1
+        }
     },
     "clusterList": [
         {

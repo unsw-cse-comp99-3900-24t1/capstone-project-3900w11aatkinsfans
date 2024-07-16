@@ -6,7 +6,10 @@
         "xLabels": [
             "01:08"
         ],
-        "label": "safe"
+        "label": {
+            "phrase": "safe and secure bike racks are very hard to find and those that are on the streets are full",
+            "count": 1
+        }
     },
     "clusterList": [
         {

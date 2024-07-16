@@ -6,7 +6,10 @@
         "xLabels": [
             "02:29"
         ],
-        "label": "geoghegan"
+        "label": {
+            "phrase": "geoghegan got a drumstick",
+            "count": 1
+        }
     },
     "clusterList": [
         {

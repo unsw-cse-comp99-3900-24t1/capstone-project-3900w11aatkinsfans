@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we can't do that our hearts are bleeding for craig",
+            "count": 1
+        }
     },
     "clusterList": [
         {

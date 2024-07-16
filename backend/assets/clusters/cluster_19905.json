@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "it's"
+        "label": {
+            "phrase": "it's learned movements",
+            "count": 1
+        }
     },
     "clusterList": [
         {

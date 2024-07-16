@@ -6,7 +6,10 @@
         "xLabels": [
             "04:37"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you can spend half a day here and not spend a lot of money",
+            "count": 1
+        }
     },
     "clusterList": [
         {

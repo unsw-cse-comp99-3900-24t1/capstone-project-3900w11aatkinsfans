@@ -44,7 +44,10 @@
             "04:45",
             "04:51"
         ],
-        "label": "to"
+        "label": {
+            "phrase": "stairway to heaven",
+            "count": 3
+        }
     },
     "clusterList": [
         {

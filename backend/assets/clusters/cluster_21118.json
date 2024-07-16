@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we kept pressing and asking why",
+            "count": 1
+        }
     },
     "clusterList": [
         {

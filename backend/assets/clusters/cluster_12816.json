@@ -6,7 +6,10 @@
         "xLabels": [
             "02:48"
         ],
-        "label": "grant"
+        "label": {
+            "phrase": "grant what are you doing here",
+            "count": 1
+        }
     },
     "clusterList": [
         {

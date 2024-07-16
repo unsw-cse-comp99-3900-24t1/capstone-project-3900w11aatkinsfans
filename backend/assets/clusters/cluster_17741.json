@@ -6,7 +6,10 @@
         "xLabels": [
             "01:05"
         ],
-        "label": "if"
+        "label": {
+            "phrase": "if you train at sea level and sleep at 14 000 feet your body makes red cells at an impressive rate and amount",
+            "count": 1
+        }
     },
     "clusterList": [
         {

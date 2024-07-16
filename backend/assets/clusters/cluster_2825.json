@@ -14,7 +14,10 @@
             "01:32",
             "03:01"
         ],
-        "label": "proof"
+        "label": {
+            "phrase": "proof of concept",
+            "count": 6
+        }
     },
     "clusterList": [
         {

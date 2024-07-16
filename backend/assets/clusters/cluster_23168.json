@@ -6,7 +6,10 @@
         "xLabels": [
             "02:39"
         ],
-        "label": "for"
+        "label": {
+            "phrase": "for possible action",
+            "count": 1
+        }
     },
     "clusterList": [
         {

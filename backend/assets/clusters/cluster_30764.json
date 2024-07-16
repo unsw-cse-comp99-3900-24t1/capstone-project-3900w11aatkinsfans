@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "general"
+        "label": {
+            "phrase": "general management plan for the presidio",
+            "count": 1
+        }
     },
     "clusterList": [
         {

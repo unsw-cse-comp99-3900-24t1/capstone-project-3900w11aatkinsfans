@@ -12,7 +12,10 @@
             "03:18",
             "03:29"
         ],
-        "label": "where"
+        "label": {
+            "phrase": "where do you live",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:13"
         ],
-        "label": "throwdown"
+        "label": {
+            "phrase": "throwdown with bobby flay",
+            "count": 1
+        }
     },
     "clusterList": [
         {

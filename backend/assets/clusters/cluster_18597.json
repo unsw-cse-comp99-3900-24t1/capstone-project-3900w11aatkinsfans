@@ -6,7 +6,10 @@
         "xLabels": [
             "01:47"
         ],
-        "label": "least"
+        "label": {
+            "phrase": "least government is best",
+            "count": 1
+        }
     },
     "clusterList": [
         {

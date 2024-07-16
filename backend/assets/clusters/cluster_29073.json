@@ -6,7 +6,10 @@
         "xLabels": [
             "04:28"
         ],
-        "label": "when"
+        "label": {
+            "phrase": "when settlers first arrived 400 years ago they had bagpipes and hurdy-gurdies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

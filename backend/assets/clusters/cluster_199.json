@@ -40,7 +40,10 @@
             "04:38",
             "05:04"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "it seems that since you are unable to offer",
+            "count": 4
+        }
     },
     "clusterList": [
         {

@@ -34,7 +34,10 @@
             "04:15",
             "05:05"
         ],
-        "label": "act"
+        "label": {
+            "phrase": "act appropriately when necessary",
+            "count": 5
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:15"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it might look weird on paper but there's a logical explanation for it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "01:19"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a lap of the gods",
+            "count": 1
+        }
     },
     "clusterList": [
         {

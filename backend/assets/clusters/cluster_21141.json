@@ -6,7 +6,10 @@
         "xLabels": [
             "02:00"
         ],
-        "label": "highest"
+        "label": {
+            "phrase": "highest certified mileage driven by the original owner in non-commercial service",
+            "count": 1
+        }
     },
     "clusterList": [
         {

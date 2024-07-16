@@ -6,7 +6,10 @@
         "xLabels": [
             "04:17"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my productivity was still high i didn't not do my job",
+            "count": 1
+        }
     },
     "clusterList": [
         {

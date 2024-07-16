@@ -6,7 +6,10 @@
         "xLabels": [
             "04:13"
         ],
-        "label": "get"
+        "label": {
+            "phrase": "get the point",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "00:33"
         ],
-        "label": "ldap"
+        "label": {
+            "phrase": "ldap modify operation of entry uid user001 ou people dc company dc com failed at null error code 65 reason null",
+            "count": 1
+        }
     },
     "clusterList": [
         {

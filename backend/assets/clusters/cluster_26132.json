@@ -6,7 +6,10 @@
         "xLabels": [
             "03:37"
         ],
-        "label": "leadership"
+        "label": {
+            "phrase": "leadership communications begin as monologue denning says",
+            "count": 1
+        }
     },
     "clusterList": [
         {

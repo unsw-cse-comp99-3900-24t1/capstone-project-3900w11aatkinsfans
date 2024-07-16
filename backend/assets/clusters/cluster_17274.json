@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "you're"
+        "label": {
+            "phrase": "you're a fucking hypocrite",
+            "count": 1
+        }
     },
     "clusterList": [
         {

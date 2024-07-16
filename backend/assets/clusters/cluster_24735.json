@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "comparison"
+        "label": {
+            "phrase": "comparison with wild type wt mouse emryonic fibroblasts mef showed that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -10,7 +10,10 @@
             "01:38",
             "04:23"
         ],
-        "label": "open"
+        "label": {
+            "phrase": "open source or commercial software is more secure",
+            "count": 1
+        }
     },
     "clusterList": [
         {

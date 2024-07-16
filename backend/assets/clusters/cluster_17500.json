@@ -6,7 +6,10 @@
         "xLabels": [
             "01:01"
         ],
-        "label": "very"
+        "label": {
+            "phrase": "very hot as well very similar to what we see in omaha",
+            "count": 1
+        }
     },
     "clusterList": [
         {

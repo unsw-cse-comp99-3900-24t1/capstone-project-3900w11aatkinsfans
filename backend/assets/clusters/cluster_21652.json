@@ -6,7 +6,10 @@
         "xLabels": [
             "02:10"
         ],
-        "label": "casket"
+        "label": {
+            "phrase": "casket making capital of the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

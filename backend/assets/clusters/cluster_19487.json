@@ -6,7 +6,10 @@
         "xLabels": [
             "01:33"
         ],
-        "label": "one"
+        "label": {
+            "phrase": "one line of ad copy is worth ten actors",
+            "count": 1
+        }
     },
     "clusterList": [
         {

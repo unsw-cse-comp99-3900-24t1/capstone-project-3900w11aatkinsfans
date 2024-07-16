@@ -6,7 +6,10 @@
         "xLabels": [
             "04:14"
         ],
-        "label": "in"
+        "label": {
+            "phrase": "in vermont we like to know people who we're working with",
+            "count": 1
+        }
     },
     "clusterList": [
         {

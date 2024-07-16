@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "who's"
+        "label": {
+            "phrase": "who's gonna clean it up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

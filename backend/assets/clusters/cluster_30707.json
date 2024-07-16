@@ -6,7 +6,10 @@
         "xLabels": [
             "04:55"
         ],
-        "label": "ground"
+        "label": {
+            "phrase": "ground hog day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

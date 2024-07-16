@@ -6,7 +6,10 @@
         "xLabels": [
             "03:16"
         ],
-        "label": "a"
+        "label": {
+            "phrase": "a book is worth more than a bomb any day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

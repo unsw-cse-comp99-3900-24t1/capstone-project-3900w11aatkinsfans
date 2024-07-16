@@ -18,7 +18,10 @@
             "03:12",
             "03:18"
         ],
-        "label": "knife"
+        "label": {
+            "phrase": "knife here later please",
+            "count": 2
+        }
     },
     "clusterList": [
         {

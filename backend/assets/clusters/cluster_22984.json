@@ -6,7 +6,10 @@
         "xLabels": [
             "04:00"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're in the truck and on the way",
+            "count": 1
+        }
     },
     "clusterList": [
         {

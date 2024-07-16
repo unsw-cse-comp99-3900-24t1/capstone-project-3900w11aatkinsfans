@@ -6,7 +6,10 @@
         "xLabels": [
             "04:23"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i may be a fool but i have survived with half my brains whereas some with all of their faculties have not",
+            "count": 1
+        }
     },
     "clusterList": [
         {

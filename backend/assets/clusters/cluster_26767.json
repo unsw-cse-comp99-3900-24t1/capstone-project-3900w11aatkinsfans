@@ -6,7 +6,10 @@
         "xLabels": [
             "03:49"
         ],
-        "label": "you"
+        "label": {
+            "phrase": "you get a really nice texture close up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

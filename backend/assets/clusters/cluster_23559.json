@@ -6,7 +6,10 @@
         "xLabels": [
             "02:46"
         ],
-        "label": "here's"
+        "label": {
+            "phrase": "here's a man who at every point was where things were happening",
+            "count": 1
+        }
     },
     "clusterList": [
         {

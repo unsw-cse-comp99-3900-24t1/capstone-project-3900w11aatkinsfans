@@ -12,7 +12,10 @@
             "03:42",
             "03:55"
         ],
-        "label": "ace"
+        "label": {
+            "phrase": "ace of spades",
+            "count": 4
+        }
     },
     "clusterList": [
         {

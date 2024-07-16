@@ -6,7 +6,10 @@
         "xLabels": [
             "04:15"
         ],
-        "label": "democracy"
+        "label": {
+            "phrase": "democracy and the market will be the guiding principles of my domestic and foreign policies",
+            "count": 1
+        }
     },
     "clusterList": [
         {

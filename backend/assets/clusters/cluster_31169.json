@@ -6,7 +6,10 @@
         "xLabels": [
             "05:05"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my family can't survive on 6 55",
+            "count": 1
+        }
     },
     "clusterList": [
         {

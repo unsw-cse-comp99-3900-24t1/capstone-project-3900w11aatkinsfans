@@ -8,7 +8,10 @@
             "01:10",
             "01:32"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not a nickel-and-dime operation",
+            "count": 2
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "02:43"
         ],
-        "label": "oh"
+        "label": {
+            "phrase": "oh you know the usual bunsen burner accident",
+            "count": 1
+        }
     },
     "clusterList": [
         {

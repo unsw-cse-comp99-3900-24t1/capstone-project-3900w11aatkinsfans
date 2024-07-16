@@ -6,7 +6,10 @@
         "xLabels": [
             "02:47"
         ],
-        "label": "that's"
+        "label": {
+            "phrase": "that's why we do run them hard",
+            "count": 1
+        }
     },
     "clusterList": [
         {

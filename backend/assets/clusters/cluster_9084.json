@@ -6,7 +6,10 @@
         "xLabels": [
             "00:49"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the international open ict summit couldn't come at a better time for professionals working in government and technology around the world",
+            "count": 1
+        }
     },
     "clusterList": [
         {

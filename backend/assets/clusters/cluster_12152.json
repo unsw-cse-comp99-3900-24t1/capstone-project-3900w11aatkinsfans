@@ -6,7 +6,10 @@
         "xLabels": [
             "04:42"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this issue is a result of the migration of javax",
+            "count": 1
+        }
     },
     "clusterList": [
         {

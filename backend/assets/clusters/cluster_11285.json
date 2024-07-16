@@ -8,7 +8,10 @@
             "01:34",
             "03:42"
         ],
-        "label": "sonpow"
+        "label": {
+            "phrase": "sonpow you have to be careful",
+            "count": 1
+        }
     },
     "clusterList": [
         {

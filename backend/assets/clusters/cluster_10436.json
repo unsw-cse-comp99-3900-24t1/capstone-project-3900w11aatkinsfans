@@ -8,7 +8,10 @@
             "02:05",
             "03:01"
         ],
-        "label": "complex"
+        "label": {
+            "phrase": "complex radiative transfer",
+            "count": 2
+        }
     },
     "clusterList": [
         {

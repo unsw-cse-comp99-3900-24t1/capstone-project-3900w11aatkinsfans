@@ -6,7 +6,10 @@
         "xLabels": [
             "05:00"
         ],
-        "label": "it"
+        "label": {
+            "phrase": "it was tough to see the bodies with that smog and the algae in the water but thanks to the efforts of thousands of workers that's no longer an issue",
+            "count": 1
+        }
     },
     "clusterList": [
         {

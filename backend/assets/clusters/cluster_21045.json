@@ -6,7 +6,10 @@
         "xLabels": [
             "01:57"
         ],
-        "label": "is"
+        "label": {
+            "phrase": "is a common practice in numerous european countries",
+            "count": 1
+        }
     },
     "clusterList": [
         {

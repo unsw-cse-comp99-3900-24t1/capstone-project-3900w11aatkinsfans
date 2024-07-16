@@ -6,7 +6,10 @@
         "xLabels": [
             "01:51"
         ],
-        "label": "as"
+        "label": {
+            "phrase": "as soon as the information is printed it's outdated",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:32"
         ],
-        "label": "blacklisted"
+        "label": {
+            "phrase": "blacklisted see http www surbl org lists html",
+            "count": 2
+        }
     },
     "clusterList": [
         {

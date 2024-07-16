@@ -6,7 +6,10 @@
         "xLabels": [
             "03:55"
         ],
-        "label": "clean"
+        "label": {
+            "phrase": "clean up cleveland",
+            "count": 1
+        }
     },
     "clusterList": [
         {

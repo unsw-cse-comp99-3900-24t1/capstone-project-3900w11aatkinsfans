@@ -6,7 +6,10 @@
         "xLabels": [
             "01:37"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i like to curl up in the bathroom",
+            "count": 1
+        }
     },
     "clusterList": [
         {

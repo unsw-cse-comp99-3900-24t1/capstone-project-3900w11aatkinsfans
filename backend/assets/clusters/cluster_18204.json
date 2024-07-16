@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "pretty"
+        "label": {
+            "phrase": "pretty intense and pretty in-depth",
+            "count": 1
+        }
     },
     "clusterList": [
         {

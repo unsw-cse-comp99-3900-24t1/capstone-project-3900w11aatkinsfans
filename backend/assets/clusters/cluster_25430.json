@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "flew"
+        "label": {
+            "phrase": "flew under the radar",
+            "count": 1
+        }
     },
     "clusterList": [
         {

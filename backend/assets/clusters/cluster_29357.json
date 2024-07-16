@@ -6,7 +6,10 @@
         "xLabels": [
             "04:29"
         ],
-        "label": "no"
+        "label": {
+            "phrase": "no peikoff does not deny a role to these other things",
+            "count": 1
+        }
     },
     "clusterList": [
         {

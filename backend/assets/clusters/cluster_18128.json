@@ -6,7 +6,10 @@
         "xLabels": [
             "01:10"
         ],
-        "label": "these"
+        "label": {
+            "phrase": "these foolish things",
+            "count": 1
+        }
     },
     "clusterList": [
         {

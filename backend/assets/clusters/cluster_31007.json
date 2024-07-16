@@ -6,7 +6,10 @@
         "xLabels": [
             "05:03"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i have written a wicked book and feel as spotless as the lamb",
+            "count": 1
+        }
     },
     "clusterList": [
         {

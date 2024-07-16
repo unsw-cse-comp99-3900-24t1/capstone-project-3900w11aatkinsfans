@@ -6,7 +6,10 @@
         "xLabels": [
             "03:13"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is john chancellor somewhere in custody",
+            "count": 1
+        }
     },
     "clusterList": [
         {

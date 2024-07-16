@@ -8,7 +8,10 @@
             "01:00",
             "03:50"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is an awesome summer drink to serve on the deck while the grill warms up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

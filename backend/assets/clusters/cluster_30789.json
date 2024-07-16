@@ -6,7 +6,10 @@
         "xLabels": [
             "04:56"
         ],
-        "label": "none"
+        "label": {
+            "phrase": "none of my friends had a problem",
+            "count": 1
+        }
     },
     "clusterList": [
         {

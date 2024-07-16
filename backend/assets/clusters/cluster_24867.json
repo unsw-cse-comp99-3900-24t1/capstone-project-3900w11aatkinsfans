@@ -6,7 +6,10 @@
         "xLabels": [
             "03:15"
         ],
-        "label": "all"
+        "label": {
+            "phrase": "all this talkin all the time and the air fills up up up",
+            "count": 1
+        }
     },
     "clusterList": [
         {

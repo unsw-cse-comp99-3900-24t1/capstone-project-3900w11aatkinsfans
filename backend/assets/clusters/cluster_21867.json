@@ -6,7 +6,10 @@
         "xLabels": [
             "02:14"
         ],
-        "label": "dude"
+        "label": {
+            "phrase": "dude you're cutting off the best parts",
+            "count": 1
+        }
     },
     "clusterList": [
         {

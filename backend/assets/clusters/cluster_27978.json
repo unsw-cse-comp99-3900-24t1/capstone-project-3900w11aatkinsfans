@@ -6,7 +6,10 @@
         "xLabels": [
             "04:10"
         ],
-        "label": "we"
+        "label": {
+            "phrase": "we synchronize the traffic lights by the actual time of day",
+            "count": 1
+        }
     },
     "clusterList": [
         {

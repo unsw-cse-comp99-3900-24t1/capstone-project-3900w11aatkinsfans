@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "thank"
+        "label": {
+            "phrase": "thank you mrs davis is that all",
+            "count": 1
+        }
     },
     "clusterList": [
         {

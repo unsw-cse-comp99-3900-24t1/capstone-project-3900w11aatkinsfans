@@ -6,7 +6,10 @@
         "xLabels": [
             "04:05"
         ],
-        "label": "ny"
+        "label": {
+            "phrase": "ny certainly knows how to throw a party",
+            "count": 1
+        }
     },
     "clusterList": [
         {

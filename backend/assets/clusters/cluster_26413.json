@@ -6,7 +6,10 @@
         "xLabels": [
             "03:42"
         ],
-        "label": "lifting"
+        "label": {
+            "phrase": "lifting the curse",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:45"
         ],
-        "label": "they're"
+        "label": {
+            "phrase": "they're a really docile breed",
+            "count": 1
+        }
     },
     "clusterList": [
         {

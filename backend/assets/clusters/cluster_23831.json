@@ -6,7 +6,10 @@
         "xLabels": [
             "04:19"
         ],
-        "label": "this"
+        "label": {
+            "phrase": "this is not something our treaty anticipated this is a danger to every human in the area",
+            "count": 1
+        }
     },
     "clusterList": [
         {

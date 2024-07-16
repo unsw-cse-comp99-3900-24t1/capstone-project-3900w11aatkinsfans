@@ -6,7 +6,10 @@
         "xLabels": [
             "04:38"
         ],
-        "label": "who"
+        "label": {
+            "phrase": "who told you that",
+            "count": 1
+        }
     },
     "clusterList": [
         {

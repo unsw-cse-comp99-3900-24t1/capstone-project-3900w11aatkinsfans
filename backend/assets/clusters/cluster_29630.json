@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "towels"
+        "label": {
+            "phrase": "towels blankets coats anything they could find to stop the bleeding",
+            "count": 1
+        }
     },
     "clusterList": [
         {

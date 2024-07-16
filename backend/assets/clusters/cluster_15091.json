@@ -6,7 +6,10 @@
         "xLabels": [
             "01:00"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i cannot subscribe to your beliefs because the conclusions are so abhorrent",
+            "count": 1
+        }
     },
     "clusterList": [
         {

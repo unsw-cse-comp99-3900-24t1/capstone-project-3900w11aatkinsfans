@@ -8,7 +8,10 @@
             "00:02",
             "00:38"
         ],
-        "label": "come"
+        "label": {
+            "phrase": "come in tokyo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

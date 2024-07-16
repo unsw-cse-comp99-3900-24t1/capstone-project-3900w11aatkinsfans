@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "double"
+        "label": {
+            "phrase": "double x chromosomes always come out on top",
+            "count": 1
+        }
     },
     "clusterList": [
         {

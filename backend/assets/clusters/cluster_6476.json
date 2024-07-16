@@ -6,7 +6,10 @@
         "xLabels": [
             "01:13"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the acma report is based on a laboratory trial of isp filtering technologies within a network that would be used by a small isp",
+            "count": 1
+        }
     },
     "clusterList": [
         {

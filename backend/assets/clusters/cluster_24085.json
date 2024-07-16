@@ -6,7 +6,10 @@
         "xLabels": [
             "03:00"
         ],
-        "label": "mud"
+        "label": {
+            "phrase": "mud the only thing on the sarah steelman platform",
+            "count": 1
+        }
     },
     "clusterList": [
         {

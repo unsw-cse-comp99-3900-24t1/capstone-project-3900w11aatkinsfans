@@ -6,7 +6,10 @@
         "xLabels": [
             "01:07"
         ],
-        "label": "want"
+        "label": {
+            "phrase": "want some more or should we call it a night",
+            "count": 1
+        }
     },
     "clusterList": [
         {

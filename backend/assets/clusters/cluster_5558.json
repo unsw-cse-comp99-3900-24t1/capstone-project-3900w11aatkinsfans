@@ -10,7 +10,10 @@
             "00:16",
             "04:43"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the golden calf",
+            "count": 2
+        }
     },
     "clusterList": [
         {

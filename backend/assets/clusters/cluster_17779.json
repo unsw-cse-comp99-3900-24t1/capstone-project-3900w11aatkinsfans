@@ -6,7 +6,10 @@
         "xLabels": [
             "04:33"
         ],
-        "label": "could"
+        "label": {
+            "phrase": "could say the same thing",
+            "count": 1
+        }
     },
     "clusterList": [
         {

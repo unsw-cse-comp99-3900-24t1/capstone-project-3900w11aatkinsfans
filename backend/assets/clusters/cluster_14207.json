@@ -6,7 +6,10 @@
         "xLabels": [
             "00:18"
         ],
-        "label": "satirists"
+        "label": {
+            "phrase": "satirists refuse to spoof",
+            "count": 1
+        }
     },
     "clusterList": [
         {

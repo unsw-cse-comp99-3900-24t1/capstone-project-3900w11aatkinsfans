@@ -20,7 +20,10 @@
             "04:00",
             "04:18"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my body is experiencing such and such",
+            "count": 1
+        }
     },
     "clusterList": [
         {

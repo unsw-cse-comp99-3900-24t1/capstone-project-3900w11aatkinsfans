@@ -12,7 +12,10 @@
             "01:25",
             "02:10"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "for the majority of people",
+            "count": 3
+        }
     },
     "clusterList": [
         {

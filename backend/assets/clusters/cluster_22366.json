@@ -6,7 +6,10 @@
         "xLabels": [
             "02:23"
         ],
-        "label": "also"
+        "label": {
+            "phrase": "also receiving votes",
+            "count": 1
+        }
     },
     "clusterList": [
         {

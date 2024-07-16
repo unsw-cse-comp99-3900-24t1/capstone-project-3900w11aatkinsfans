@@ -6,7 +6,10 @@
         "xLabels": [
             "02:36"
         ],
-        "label": "i'm"
+        "label": {
+            "phrase": "i'm sorry for a lot of folks in fernley",
+            "count": 1
+        }
     },
     "clusterList": [
         {

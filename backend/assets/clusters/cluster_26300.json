@@ -6,7 +6,10 @@
         "xLabels": [
             "03:41"
         ],
-        "label": "the"
+        "label": {
+            "phrase": "the veggietales logo",
+            "count": 1
+        }
     },
     "clusterList": [
         {

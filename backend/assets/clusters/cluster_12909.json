@@ -6,7 +6,10 @@
         "xLabels": [
             "00:05"
         ],
-        "label": "i"
+        "label": {
+            "phrase": "i was working on my trochoidal today",
+            "count": 1
+        }
     },
     "clusterList": [
         {

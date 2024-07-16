@@ -6,7 +6,10 @@
         "xLabels": [
             "03:18"
         ],
-        "label": "tj"
+        "label": {
+            "phrase": "tj bed now",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -6,7 +6,10 @@
         "xLabels": [
             "04:24"
         ],
-        "label": "your"
+        "label": {
+            "phrase": "your father was a good man he understood the value of life and only wanted to protect you",
+            "count": 1
+        }
     },
     "clusterList": [
         {

@@ -8,7 +8,10 @@
             "02:24",
             "04:15"
         ],
-        "label": "he"
+        "label": {
+            "phrase": "he said he can do it",
+            "count": 1
+        }
     },
     "clusterList": [
         {

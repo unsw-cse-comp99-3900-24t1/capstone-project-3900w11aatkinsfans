@@ -8,7 +8,10 @@
             "00:14",
             "00:38"
         ],
-        "label": "my"
+        "label": {
+            "phrase": "my worst possible room 101",
+            "count": 1
+        }
     },
     "clusterList": [
         {

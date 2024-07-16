@@ -6,7 +6,10 @@
         "xLabels": [
             "03:19"
         ],
-        "label": "once"
+        "label": {
+            "phrase": "once they had all the information",
+            "count": 1
+        }
     },
     "clusterList": [
         {
