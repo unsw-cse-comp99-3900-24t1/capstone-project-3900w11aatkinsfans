@@ -59,7 +59,8 @@ const SearchBar = () => {
 
   const handleSearchClick = () => {
     console.log(searchText);
-    fetch('http://localhost:5000/memesearch', {
+    fetch((process.env.REACT_APP_BACKEND_URL ||
+      'http://localhost:5000') + '/memesearch', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
