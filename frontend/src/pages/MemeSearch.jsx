@@ -55,6 +55,7 @@ const TopTrendingMemesTitle = styled('div')({
 
 const SearchBar = () => {
   const [searchText, setSearchText] = useState('');
+  const navigate = useNavigate();
 
   const handleSearchClick = () => {
     console.log(searchText);
@@ -67,11 +68,11 @@ const SearchBar = () => {
     })
       .then(response => response.json())
       .then(data => {
-        console.log('Success:', data); // This should result in log { clusterID: 1 }
-    })
+        navigate(`/meme/${data.clusterID}`);
+      })
       .catch((error) => {
         console.error('Error:', error);
-    });
+      });
   };
 
   const handleKeyDown = (e) => {
