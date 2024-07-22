@@ -26,12 +26,13 @@ ChartJS.register(
   Legend
 );
 
-const TopFlexDiv = styled('div')({
+const ColFlexDiv = styled('div')({
   display: 'flex',
+  flexDirection: 'row',
   justifyContent: 'flex-start',
   alignItems: 'flex-start',
   gap: '40px',
-  margin: '3vh 3vw 30px 3vw',
+  margin: '3vh 3vw',
 });
 
 const PopularityGraphDiv = styled('div')({
@@ -46,9 +47,9 @@ const PopularityGraphDiv = styled('div')({
 
 const TextBoxDiv = styled('div')({
   width: '40vw',
-  height: '440px',
+  minHeight: '420px',
   borderRadius: '12px',
-  padding: '10px 30px',
+  padding: '10px 30px 30px',
   backgroundColor: 'white',
   boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
 });
@@ -163,21 +164,57 @@ function MemePage() {
   return (
     <>
       <h2 style={{marginLeft: '3vw', color: '#0D2633'}}>{memeName}</h2>
-      <TopFlexDiv>
-        <PopularityGraphDiv>
-          {
-            chartData.datasets.length > 0 ? (
-              <div>
-                <Line options={chartOptions} data={chartData}
-                style={{ height: '400px'}}/>
-              </div>
-            ) : (
-              <div>
-                Loading chart data...
-              </div>
-            )
-          }
-        </PopularityGraphDiv>
+      <ColFlexDiv>
+        <div>
+          <PopularityGraphDiv>
+            {
+              chartData.datasets.length > 0 ? (
+                <div>
+                  <Line options={chartOptions} data={chartData}
+                  style={{ height: '400px'}}/>
+                </div>
+              ) : (
+                <div>
+                  Loading chart data...
+                </div>
+              )
+            }
+          </PopularityGraphDiv>
+
+          <TableContainer component={Paper} style={{ marginTop: '40px', width: '50vw', padding: '20px', borderRadius: '12px',
+            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)', }}>
+            <Table>
+              <TableHead>
+                <TableRow>
+                  <TableCell style={{ fontWeight: 'bold' }}>#</TableCell> 
+                  <TableCell style={{ fontWeight: 'bold' }}>Meme Mutations</TableCell>
+                  <TableCell align="right" style={{ fontWeight: 'bold' }}>Mutation Count</TableCell>
+                </TableRow>
+              </TableHead>
+              <TableBody>
+                {clusterList.length > 0 ? (
+                  clusterList.map((cluster, index) => (
+                    <TableRow key={index}>
+                      <TableCell component="th" scope="row">
+                        {index + 1}  
+                      </TableCell>
+                      <TableCell component="th" scope="row">
+                        {cluster.phrase}
+                      </TableCell>
+                      <TableCell align="right">{cluster.count}</TableCell>
+                    </TableRow>
+                  ))
+                ) : (
+                  <TableRow>
+                    <TableCell colSpan={3} align="center">
+                      No meme mutations
+                    </TableCell>
+                  </TableRow>
+                )}
+              </TableBody>
+            </Table>
+          </TableContainer>
+        </div>
         <TextBoxDiv>
           {
             memeName === "" ? (<></>) : (
@@ -196,42 +233,7 @@ function MemePage() {
             )
           }
         </TextBoxDiv>
-      </TopFlexDiv>
-      {
-        <TableContainer component={Paper} style={{ margin: '0 3vw', marginTop: '20px', width: '50vw', borderRadius: '12px',
-          boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)', }}>
-          <Table>
-            <TableHead>
-              <TableRow>
-                <TableCell style={{ fontWeight: 'bold' }}>#</TableCell> 
-                <TableCell style={{ fontWeight: 'bold' }}>Meme Mutations</TableCell>
-                <TableCell align="right" style={{ fontWeight: 'bold' }}>Mutation Count</TableCell>
-              </TableRow>
-            </TableHead>
-            <TableBody>
-              {clusterList.length > 0 ? (
-                clusterList.map((cluster, index) => (
-                  <TableRow key={index}>
-                    <TableCell component="th" scope="row">
-                      {index + 1}  
-                    </TableCell>
-                    <TableCell component="th" scope="row">
-                      {cluster.phrase}
-                    </TableCell>
-                    <TableCell align="right">{cluster.count}</TableCell>
-                  </TableRow>
-                ))
-              ) : (
-                <TableRow>
-                  <TableCell colSpan={3} align="center">
-                    No meme mutations
-                  </TableCell>
-                </TableRow>
-              )}
-            </TableBody>
-          </Table>
-        </TableContainer>
-      }
+      </ColFlexDiv>
     </>
   );
 }
