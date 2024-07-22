@@ -139,6 +139,18 @@ function MemePage() {
           padding: 5,
           caretPadding: 10,
           caretSize: 5,
+          callbacks: {
+            title: (context) => {
+              let meme = context[0].dataset.label;
+              if (meme.length > 100) {
+                meme = meme.slice(0, 100) + "..."
+              }
+              return "\"" + meme + "\"";
+            },
+            label: (context) => {
+              return "Time: " + context.label + ", Count: " + context.raw;
+            },
+          }
         },
       },
       hover: {

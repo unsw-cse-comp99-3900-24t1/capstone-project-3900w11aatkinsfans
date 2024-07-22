@@ -2,6 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Line } from 'react-chartjs-2'
 import { COLOUR_PALETTE } from '../assets/constants';
+import QuestionButton from './QuestionButton';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -100,7 +101,18 @@ export default function MainGraph () {
           text: "Top 'meme' phrases during 1/08/2008",
           font: { size: 16 }
         },
-        legend: { display: false },
+        legend: {
+          display: true,
+          position: 'right',
+          maxWidth: 300,
+          title: {
+            text: 'Meme Names',
+            display: true,
+            font: {
+              size: 20
+            }
+          },
+        },
         tooltip: {
           intersect: false,
           mode: 'nearest',
@@ -108,10 +120,31 @@ export default function MainGraph () {
           padding: 10,
           caretPadding: 20,
           caretSize: 10,
+          filter: (tooltipItem) => {
+            if (tooltipItem.datasetIndex && tooltipItem.datasetIndex === 0) {
+              return tooltipItem
+            }
+            return tooltipItem;
+          },
+          callbacks: {
+            title: (context) => {
+              let meme = context[0].dataset.label;
+              if (meme.length > 100) {
+                meme = meme.slice(0, 100) + "..."
+              }
+              return "\"" + meme + "\"";
+            },
+            label: (context) => {
+              return "Time: " + context.label + ", Count: " + context.raw;
+            },
+            footer: () => {
+              return "Click on chart to goto page"
+            }
+          }
         },
       },
       hover: {
-        intersect: true,
+        intersect: false,
       },
       // highlighting when hovering on line
       onHover: onHover,
@@ -164,12 +197,22 @@ export default function MainGraph () {
 
   return (
     <>
-    <div>
       {
         chartData.datasets.length > 0 ? (
-          <div>
-            <Line options={chartOptions} data={chartData}
-            style={{ height: '600px', cursor: cursorType }}/>
+          <div style={{ position: 'relative' }}>
+            <div style={{ height: '600px', cursor: cursorType }}>
+              <Line options={chartOptions} data={chartData}/>
+            </div>
+            <QuestionButton title='How To Use'
+            text={
+            <>
+            • Hover cursor on graph. The closest meme will be highlighted. <br/>
+            • When a meme is highlighted, click anywhere on the chart area to goto its meme page. <br/>
+            • Memes can be filtered by clicking on the legend.
+            </>
+            }
+            style={{ position: 'absolute', top: '5px', right: '5px'}}
+            />
           </div>
         ) : (
           <div>
@@ -177,7 +220,6 @@ export default function MainGraph () {
           </div>
         )
       }
-    </div>
     </>
   )
 }
