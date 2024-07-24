@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useLocation, Link } from 'react-router-dom';
-import { Switch, FormControlLabel, CircularProgress } from '@mui/material';
+import { Switch, FormControlLabel, CircularProgress, FormGroup, FormControl } from '@mui/material';
 
 const ResultPage = () => {
   const location = useLocation();
@@ -64,17 +64,24 @@ const ResultPage = () => {
         alignItems: 'flex-start',
       }}>
         <h1 style={{ marginBottom: '10px' }}>Meme Search Results</h1>
-        <FormControlLabel
-          control={
-            <Switch
-              checked={sortByPopularity}
-              onChange={() => setSortByPopularity(!sortByPopularity)}
-              name="sortToggle"
-              color="primary"
+        <FormControl component="fieldset">
+        <FormGroup row style={{ alignItems: 'center' }}>
+            <span style={{ marginRight: '10px' }}>Sort by Nearest Meme Cluster</span>
+            <FormControlLabel
+            control={
+                <Switch
+                checked={sortByPopularity}
+                onChange={() => setSortByPopularity(!sortByPopularity)}
+                name="sortToggle"
+                color="primary"
+                />
+            }
+            labelPlacement="start"
+            style={{ marginRight: '10px' }}
             />
-          }
-          label="Sort by Meme Volume"
-        />
+            <span>Sort by Meme Volume</span>
+        </FormGroup>
+        </FormControl>
         {loading ? (
           <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
             <CircularProgress />
