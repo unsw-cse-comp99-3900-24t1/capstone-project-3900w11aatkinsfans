@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { TextField, Paper, InputAdornment, IconButton, Table, TableBody, TableCell, TableContainer, TableRow } from '@mui/material';
+import { TextField, Paper, InputAdornment, IconButton, CircularProgress, Table, TableBody, TableCell, TableContainer, TableRow } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
 import { styled } from '@mui/system';
 import { useNavigate } from 'react-router-dom';
@@ -21,6 +21,12 @@ const StyledTextField = styled(TextField)(({ theme }) => ({
     padding: '0 20px',
   },
 }));
+
+const ErrorText = styled('div')({
+  color: 'red',
+  textAlign: 'center',
+  marginTop: '8px'
+});
 
 const SearchResultDatabaseSize = styled('div')({
   display: 'flex',
@@ -44,7 +50,7 @@ const CenterTable = styled('div')({
   justifyContent: 'center',
   alignItems: 'center',
   flexDirection: 'column',
-  marginTop: '10vh',
+  marginTop: '12vh',
   paddingBottom: '30px',
 });
 
@@ -53,12 +59,20 @@ const TopTrendingMemesTitle = styled('div')({
   fontSize: '20px'
 });
 
-const SearchBar = () => {
+const CenteredCircularProgress = styled('div')({
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  marginTop: '8vh',
+  height: 'auto',
+});
+
+const SearchBar = ({ setLoading }) => {
   const [searchText, setSearchText] = useState('');
   const navigate = useNavigate();
 
   const handleSearchClick = () => {
-    console.log(searchText);
+    setLoading(true);
     fetch((process.env.REACT_APP_BACKEND_URL ||
       'http://localhost:5000') + '/memesearch', {
       method: 'POST',
@@ -69,9 +83,11 @@ const SearchBar = () => {
     })
       .then(response => response.json())
       .then(data => {
+        setLoading(false);
         navigate(`/meme/${data.clusterID}`);
       })
       .catch((error) => {
+        setLoading(false);
         console.error('Error:', error);
       });
   };
@@ -94,11 +110,9 @@ const SearchBar = () => {
         InputProps={{
           disableUnderline: true,
           endAdornment: (
-            <InputAdornment position="end">
               <IconButton edge="end" onClick={handleSearchClick}>
                 <SearchIcon />
               </IconButton>
-            </InputAdornment>
           ),
           style: { flex: 1 },
         }}
@@ -131,6 +145,7 @@ export default function MemeSearch() {
   const [beginDate, setBeginDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
   const [memeCount, setMemeCount] = useState(null);
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -166,7 +181,7 @@ export default function MemeSearch() {
   if (!popularData) {
     return (
       <>
-        <SearchBar />
+        <SearchBar setLoading={setLoading} />
         <SearchResultDatabaseSize>
           Loading...
         </SearchResultDatabaseSize>
@@ -176,10 +191,16 @@ export default function MemeSearch() {
 
   return (
     <>
-      <SearchBar />
+      <SearchBar setLoading={setLoading} />
       <SearchResultDatabaseSize>
         Search from a database of {memeCount} memes
       </SearchResultDatabaseSize>
+      {loading && 
+        <CenteredCircularProgress>
+          <CircularProgress />
+          Searching...
+        </CenteredCircularProgress>
+      }
       <CenterTable>
         <TopTrendingMemesTitle>
           Top Trending Memes
