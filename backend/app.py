@@ -15,7 +15,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Setting up MongoDB connection
-db = Database(uri='mongodb://localhost:27017', db_name='3900')
+db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='clusters')
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 pca_model = joblib.load('pca_model.pkl')
@@ -67,9 +67,14 @@ def get_overview_data():
 # route for getting cluster_id.json given the file name
 @app.route('/clusters/<string:filename>', methods=['GET'])
 def get_cluster(filename):
-    if not os.path.isfile(f'assets/clusters/{filename}.json'):
+    # if not os.path.isfile(f'assets/clusters/{filename}.json'):
+    #     abort(404, description="File not found")
+    # return send_from_directory('assets/clusters/', f'{filename}.json')
+    cluster = db.get_collection().find_one({'filename': filename})
+    if not cluster:
         abort(404, description="File not found")
-    return send_from_directory('assets/clusters/', f'{filename}.json')
+    return jsonify(cluster)
+
 
 # getPopular 
 @app.route('/getPopular')
