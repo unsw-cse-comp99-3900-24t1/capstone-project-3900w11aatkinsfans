@@ -59,10 +59,10 @@ def test():
     return jsonify(data)
 
 # Initial method of serving main graph data through a pre-processed excel
-@app.route('/dashboard/overview_data', methods=['GET'])
-def get_overview_data():
-    json_data = get_json_data('assets/overview_data.csv')
-    return jsonify(json_data)
+# @app.route('/dashboard/overview_data', methods=['GET'])
+# def get_overview_data():
+#     json_data = get_json_data('assets/overview_data.csv')
+#     return jsonify(json_data)
 
 # route for getting cluster_id.json given the file name
 @app.route('/clusters/<string:filename>', methods=['GET'])
