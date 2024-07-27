@@ -1,7 +1,21 @@
 import React, { useState } from 'react';
-import { TextField, Paper, InputAdornment, IconButton } from '@mui/material';
+import { TextField, Paper, InputAdornment, IconButton, Dialog,
+  DialogActions,
+  DialogContent,
+  DialogContentText,
+  Button, Typography, Box } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
+import { useNavigate } from 'react-router-dom';
 import { styled } from '@mui/system';
+import QuestionButton from '../components/QuestionButton';
+
+const Container = styled('div')({
+  display: 'flex',
+  flexDirection: 'column',
+  alignItems: 'center',
+  width: '100%',
+  padding: '20px', // Add some padding for better spacing
+});
 
 const StyledPaper = styled(Paper)(({ theme }) => ({
   display: 'flex',
@@ -9,9 +23,10 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
   padding: '2px',
   borderRadius: 50,
   boxShadow: '0 2px 10px rgba(0, 0, 0, 0.1)',
-  maxWidth: 600,
+  maxWidth: 550, // Make the search bar wider
   height: '50px',
-  margin: '0 auto',
+  marginTop: theme.spacing(2),
+  width: '100%', // Ensure it takes full width available
 }));
 
 const StyledTextField = styled(TextField)(({ theme }) => ({
@@ -20,11 +35,33 @@ const StyledTextField = styled(TextField)(({ theme }) => ({
   },
 }));
 
-const SearchBar = () => {
+const SearchBar = ({ setIsModalOpen }) => {
   const [searchText, setSearchText] = useState('');
+  const navigate = useNavigate();
 
   const handleSearchClick = () => {
+    if (searchText.trim() === '') {
+      setIsModalOpen(true);
+      return;
+    }
+
+    setIsModalOpen(false);
     console.log(searchText);
+    fetch((process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000') + '/memepredict', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ searchText }),
+    })
+      .then(response => response.json())
+      .then(data => {
+        console.log(data);
+        navigate('/memepredictionresult', { state: { data } });
+    })
+      .catch((error) => {
+        console.error('Error:', error);
+    });
   };
 
   const handleKeyDown = (e) => {
@@ -41,7 +78,7 @@ const SearchBar = () => {
         placeholder="Search..."
         value={searchText}
         onChange={(e) => setSearchText(e.target.value)}
-        onKeyDown={handleKeyDown} // Attach the onKeyDown event handler
+        onKeyDown={handleKeyDown}
         InputProps={{
           disableUnderline: true,
           endAdornment: (
@@ -60,10 +97,61 @@ const SearchBar = () => {
 };
 
 export default function MemePrediction() {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isHelpModalOpen, setIsHelpModalOpen] = useState(false);
+
   return (
-    <div>
-      <p>This is the Meme prediction page.</p>
-      <SearchBar />
-    </div>
+    <Container>
+      <Box sx={{ display: 'flex', alignItems: 'center' }}>
+        <Typography variant="h6" component="div" align="center">
+          Predict how your memes will perform
+        </Typography>
+        <QuestionButton 
+          title='How To Use'
+          text={
+            <>
+              This tool allows you to search and predict the performance of memes. Enter a meme description and click the search button to get predictions.
+            </>
+          }
+        />
+      </Box>
+      <SearchBar setIsModalOpen={setIsModalOpen} />
+      
+      <Dialog
+        open={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        aria-labelledby="alert-dialog-title"
+        aria-describedby="alert-dialog-description"
+      >
+        <DialogContent>
+          <DialogContentText id="alert-dialog-description">
+            Please enter a meme to search.
+          </DialogContentText>
+        </DialogContent>
+        <DialogActions>
+          <Button onClick={() => setIsModalOpen(false)} color="primary" autoFocus>
+            OK
+          </Button>
+        </DialogActions>
+      </Dialog>
+
+      <Dialog
+        open={isHelpModalOpen}
+        onClose={() => setIsHelpModalOpen(false)}
+        aria-labelledby="help-dialog-title"
+        aria-describedby="help-dialog-description"
+      >
+        <DialogContent>
+          <DialogContentText id="help-dialog-description">
+            This tool allows you to search and predict the performance of memes. Enter a meme description and click the search button to get predictions.
+          </DialogContentText>
+        </DialogContent>
+        <DialogActions>
+          <Button onClick={() => setIsHelpModalOpen(false)} color="primary" autoFocus>
+            Close
+          </Button>
+        </DialogActions>
+      </Dialog>
+    </Container>
   );
-}
+} 

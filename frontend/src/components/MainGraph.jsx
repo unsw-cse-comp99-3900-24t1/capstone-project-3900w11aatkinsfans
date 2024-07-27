@@ -251,6 +251,7 @@ export default function MainGraph () {
             <QuestionButton title='How To Use'
             text={
             <>
+            This graph shoes the popularity of meme clusters (closely related memes) against time. <br/> <br/>
             • Hover cursor on graph. The closest meme will be highlighted. <br/>
             • When a meme is highlighted, click anywhere on the chart area to go to its meme page. <br/>
             • Memes can be filtered out by clicking on the legend entry. <br/>

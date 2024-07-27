@@ -115,6 +115,16 @@ def search():
 
     return jsonify({'clusterID': closest_cluster_id})
 
+@app.route('/memepredict', methods=['POST'])
+def predict():
+    data = request.get_json()
+    search_text = data.get('searchText')
+
+    if not search_text:
+        return jsonify({'error': 'searchText is required'}), 400
+
+    return jsonify({'returnstuffhere': 1})
+
 app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
     data = db.find_all('overview_data', {})
