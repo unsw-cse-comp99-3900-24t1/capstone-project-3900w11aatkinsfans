@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { Line } from 'react-chartjs-2'
 import { COLOUR_PALETTE } from '../assets/constants';
 import QuestionButton from './QuestionButton';
+import Slider from '@mui/material/Slider';
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -24,15 +25,20 @@ ChartJS.register(
 );
 
 export default function MainGraph () {
+  const chartRef = React.useRef(null);
   const [chartData, setChartData] = React.useState({
     labels: [],
     datasets: []
   });
   const [chartOptions, setChartOptions] = React.useState({});
   const isHovering = React.useRef(false);
-  const [cursorType, setCursorType] = React.useState('default')
+  const [cursorType, setCursorType] = React.useState('default');
   const defaultLineWidth = 3;
   const hoverLineWidth = 7;
+  const [maxTimeRange, setMaxTimeRange] = React.useState([]);
+  const [sliderMarks, setSliderMarks] = React.useState([{}]);
+  const [sliderValues, setSliderValues] = React.useState([0, 100]);
+  const isSliding = React.useRef(false);
   const navigate = useNavigate();
 
   React.useEffect(() => {
@@ -57,13 +63,17 @@ export default function MainGraph () {
             dataset.hoverBorderWidth = 10;
             dataset.tension = 0.1;
             dataset.id = i;
-            
             // set chart data
             // only update xLabels if a dataset with more values are found
             setChartData(prevChartData => ({
-              labels: dataset.xLabels.length > prevChartData.labels.length ? dataset.xLabels : prevChartData.labels,
+              labels: dataset.xLabels.length > prevChartData.labels.length ?
+              dataset.xLabels : prevChartData.labels,
               datasets: [...prevChartData.datasets, dataset],
             }));
+            setMaxTimeRange(prevTimeRange => {
+              return dataset.xLabels.length > prevTimeRange.length ?
+              dataset.xLabels : prevTimeRange;
+            });
           }
         } catch (err) {
           console.log(err);
@@ -106,7 +116,7 @@ export default function MainGraph () {
           position: 'right',
           maxWidth: 300,
           title: {
-            text: 'Meme Names',
+            text: 'Memes Legend',
             display: true,
             font: {
               size: 20
@@ -121,8 +131,8 @@ export default function MainGraph () {
           caretPadding: 20,
           caretSize: 10,
           filter: (tooltipItem) => {
-            if (tooltipItem.datasetIndex && tooltipItem.datasetIndex === 0) {
-              return tooltipItem
+            if (tooltipItem.datasetIndex && tooltipItem.datasetIndex === 1) {
+              return tooltipItem;
             }
             return tooltipItem;
           },
@@ -164,7 +174,7 @@ export default function MainGraph () {
       if (chartElement && chartElement.length > 0) {
         setCursorType('pointer');
         const datasetIndex = chartElement[0].datasetIndex;
-        chart.data.datasets.forEach(function(dataset, index) {
+        chart.data.datasets.forEach((dataset, index) => {
           if (index === datasetIndex) {
             dataset.borderWidth = hoverLineWidth; // highlighted width
           } else {
@@ -174,7 +184,7 @@ export default function MainGraph () {
         chart.update();
       } else {
         setCursorType('default');
-        chart.data.datasets.forEach(function(dataset) {
+        chart.data.datasets.forEach((dataset) => {
           dataset.borderWidth = defaultLineWidth; // Reset all datasets to default width
         });
         chart.update();
@@ -195,24 +205,71 @@ export default function MainGraph () {
     }
   }
 
+  // set time range slider whenever max range changes
+  React.useEffect(() => {
+    setSliderMarks([
+      {
+        value: 0,
+        label: maxTimeRange[0],
+      },
+      {
+        value: 100,
+        label: maxTimeRange[maxTimeRange.length - 1],
+      }
+    ])
+  },[maxTimeRange]);
+
+  // update chart range when time range slider changes
+  const onSliderChange = (event, newVals) => {
+    if (!isSliding.current) {
+      isSliding.current = true;
+      const len = maxTimeRange.length;
+      const newLow = Math.floor(len * newVals[0] / 100);
+      const newHigh = Math.floor(len * newVals[1] /100);
+      const newTimeRange = maxTimeRange.slice(newLow, newHigh);
+
+      chartRef.current.data.labels = newTimeRange;
+      chartRef.current.data.datasets.forEach(dataset => {
+        dataset.data = chartData.datasets[dataset.id].data.slice(newLow, newHigh);
+      });
+      chartRef.current.update();
+    }
+    // throttle to only update chart every 100ms
+    setTimeout(() => {
+      isSliding.current = false;
+    }, 100)
+  };
+
   return (
     <>
       {
         chartData.datasets.length > 0 ? (
           <div style={{ position: 'relative' }}>
-            <div style={{ height: '600px', cursor: cursorType }}>
-              <Line options={chartOptions} data={chartData}/>
+            <div style={{ height: '600px', margin: '0 10px', cursor: cursorType }}>
+              <Line ref={chartRef} options={chartOptions} data={chartData}/>
             </div>
             <QuestionButton title='How To Use'
             text={
             <>
             • Hover cursor on graph. The closest meme will be highlighted. <br/>
-            • When a meme is highlighted, click anywhere on the chart area to goto its meme page. <br/>
-            • Memes can be filtered by clicking on the legend.
+            • When a meme is highlighted, click anywhere on the chart area to go to its meme page. <br/>
+            • Memes can be filtered out by clicking on the legend entry. <br/>
+            • Drag the slider to adjust the time range.
             </>
             }
             style={{ position: 'absolute', top: '5px', right: '5px'}}
             />
+            <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center',
+              position: 'absolute', bottom: '5px', right: '40px' }}>
+              <span>Time Range</span>
+              <Slider
+                getAriaLabel={() => 'Time Range Slider'}
+                defaultValue={sliderValues}
+                marks={sliderMarks}
+                onChange={onSliderChange}
+                style={{ width: '200px', color: COLOUR_PALETTE[1] }}
+              />
+            </div>
           </div>
         ) : (
           <div>
