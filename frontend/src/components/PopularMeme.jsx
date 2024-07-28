@@ -76,7 +76,7 @@ export default function PopularMeme() {
   }, []);
 
   if (error) {
-    return <div>{`Error: ${error}`}</div>;
+    return <div style={{ margin: "0.5em" }}>{`Error: ${error}`}</div>;
   }
 
   // While waiting for fetch, show loading

@@ -183,7 +183,9 @@ function MemePage() {
   // You can now use the id to fetch data or perform any other action
   return (
     <>
-      <h2 style={{ marginLeft: "3vw", color: "#0D2633" }}>{memeName}</h2>
+      <h2 style={{ marginLeft: "3vw", color: COLOUR_PALETTE[0] }}>
+        {memeName}
+      </h2>
       <ColFlexDiv>
         <div>
           <PopularityGraphDiv>
