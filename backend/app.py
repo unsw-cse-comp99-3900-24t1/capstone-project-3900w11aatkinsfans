@@ -155,10 +155,9 @@ def search():
     closest_cluster_ids = find_top_n_cluster_ids(search_text, model, pca_model, cluster_centers)
     
     # this was the old implementation of top search 
-    closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
+    # closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
-    print(closest_cluster_ids)
-    return jsonify([{'clusterID': closest_cluster_id}])
+    return jsonify(closest_cluster_ids)
 
 @app.route('/memepredict', methods=['POST'])
 def predict():
