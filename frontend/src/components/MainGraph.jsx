@@ -1,9 +1,9 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
-import { Line } from 'react-chartjs-2'
-import { COLOUR_PALETTE } from '../assets/constants';
-import QuestionButton from './QuestionButton';
-import Slider from '@mui/material/Slider';
+import React from "react";
+import { useNavigate } from "react-router-dom";
+import { Line } from "react-chartjs-2";
+import { COLOUR_PALETTE } from "../assets/constants";
+import QuestionButton from "./QuestionButton";
+import Slider from "@mui/material/Slider";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -13,7 +13,7 @@ import {
   Title,
   Tooltip,
   Legend,
-} from 'chart.js';
+} from "chart.js";
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -24,15 +24,15 @@ ChartJS.register(
   Legend
 );
 
-export default function MainGraph () {
+export default function MainGraph() {
   const chartRef = React.useRef(null);
   const [chartData, setChartData] = React.useState({
     labels: [],
-    datasets: []
+    datasets: [],
   });
   const [chartOptions, setChartOptions] = React.useState({});
   const isHovering = React.useRef(false);
-  const [cursorType, setCursorType] = React.useState('default');
+  const [cursorType, setCursorType] = React.useState("default");
   const defaultLineWidth = 3;
   const hoverLineWidth = 7;
   const [maxTimeRange, setMaxTimeRange] = React.useState([]);
@@ -44,35 +44,41 @@ export default function MainGraph () {
   React.useEffect(() => {
     // to avoid double loading in dev mode
     let isMounted = true;
-    
+
     const fetchData = async () => {
       for (let i = 0; i <= 4; i++) {
-        let filename = 'cluster_' + i;
+        let filename = "cluster_" + i;
         try {
-          const response = await fetch((process.env.REACT_APP_BACKEND_URL ||
-            'http://localhost:5000') + '/clusters/' + filename);
+          const response = await fetch(
+            (process.env.REACT_APP_BACKEND_URL || "http://localhost:5000") +
+              "/clusters/" +
+              filename
+          );
           if (!response.ok) {
-            throw new Error('Bad response');
+            throw new Error("Bad response");
           }
           const data = await response.json();
           if (isMounted) {
             // set colors and dataset options
             let dataset = data.popularityCurve;
-            dataset.borderColor = COLOUR_PALETTE[i-1];
-            dataset.backgroundColor = COLOUR_PALETTE[i-1] + 'E6';
+            dataset.borderColor = COLOUR_PALETTE[i - 1];
+            dataset.backgroundColor = COLOUR_PALETTE[i - 1] + "E6";
             dataset.hoverBorderWidth = 10;
             dataset.tension = 0.1;
             dataset.id = i;
             // set chart data
             // only update xLabels if a dataset with more values are found
-            setChartData(prevChartData => ({
-              labels: dataset.xLabels.length > prevChartData.labels.length ?
-              dataset.xLabels : prevChartData.labels,
+            setChartData((prevChartData) => ({
+              labels:
+                dataset.xLabels.length > prevChartData.labels.length
+                  ? dataset.xLabels
+                  : prevChartData.labels,
               datasets: [...prevChartData.datasets, dataset],
             }));
-            setMaxTimeRange(prevTimeRange => {
-              return dataset.xLabels.length > prevTimeRange.length ?
-              dataset.xLabels : prevTimeRange;
+            setMaxTimeRange((prevTimeRange) => {
+              return dataset.xLabels.length > prevTimeRange.length
+                ? dataset.xLabels
+                : prevTimeRange;
             });
           }
         } catch (err) {
@@ -88,20 +94,20 @@ export default function MainGraph () {
         x: {
           title: {
             display: true,
-            text: 'Time (H:MM)',
-            font: { size: 14, weight: 'bold' }
+            text: "Time (H:MM)",
+            font: { size: 14, weight: "bold" },
           },
           ticks: {
             maxTicksLimit: 20,
-          }
+          },
         },
         y: {
           title: {
             display: true,
-            text: 'Volume',
-            font: { size: 14, weight: 'bold' }
+            text: "Volume",
+            font: { size: 14, weight: "bold" },
           },
-        }
+        },
       },
       responsive: true,
       maintainAspectRatio: false,
@@ -109,24 +115,24 @@ export default function MainGraph () {
         title: {
           display: true,
           text: "Top 'meme' phrases during 1/08/2008",
-          font: { size: 16 }
+          font: { size: 16 },
         },
         legend: {
           display: true,
-          position: 'right',
+          position: "right",
           maxWidth: 300,
           title: {
-            text: 'Memes Legend',
+            text: "Memes Legend",
             display: true,
             font: {
-              size: 20
-            }
+              size: 20,
+            },
           },
         },
         tooltip: {
           intersect: false,
-          mode: 'nearest',
-          axis: 'xy',
+          mode: "nearest",
+          axis: "xy",
           padding: 10,
           caretPadding: 20,
           caretSize: 10,
@@ -140,26 +146,24 @@ export default function MainGraph () {
             title: (context) => {
               let meme = context[0].dataset.label;
               if (meme.length > 100) {
-                meme = meme.slice(0, 100) + "..."
+                meme = meme.slice(0, 100) + "...";
               }
-              return "\"" + meme + "\"";
+              return '"' + meme + '"';
             },
             label: (context) => {
               return "Time: " + context.label + ", Count: " + context.raw;
             },
             footer: () => {
-              return "Click on chart to goto page"
-            }
-          }
+              return "Click on chart to goto page";
+            },
+          },
         },
       },
       hover: {
         intersect: false,
       },
-      // highlighting when hovering on line
       onHover: onHover,
-      // onclick functionality to navigate to corresponding page
-      onClick: onClick
+      onClick: onClick,
     });
 
     return () => {
@@ -167,12 +171,13 @@ export default function MainGraph () {
     };
   }, []);
 
+  // highlighting when hovering on line
   const onHover = (event, chartElement) => {
     const chart = event.chart;
     if (!isHovering.current) {
       isHovering.current = true;
       if (chartElement && chartElement.length > 0) {
-        setCursorType('pointer');
+        setCursorType("pointer");
         const datasetIndex = chartElement[0].datasetIndex;
         chart.data.datasets.forEach((dataset, index) => {
           if (index === datasetIndex) {
@@ -183,7 +188,7 @@ export default function MainGraph () {
         });
         chart.update();
       } else {
-        setCursorType('default');
+        setCursorType("default");
         chart.data.datasets.forEach((dataset) => {
           dataset.borderWidth = defaultLineWidth; // Reset all datasets to default width
         });
@@ -192,10 +197,11 @@ export default function MainGraph () {
       // throttle so only sets new line thickness every 100ms
       setTimeout(() => {
         isHovering.current = false;
-      }, 100)
+      }, 100);
     }
-  }
+  };
 
+  // onclick functionality to navigate to corresponding page
   const onClick = (event, chartElements) => {
     if (chartElements && chartElements.length > 0) {
       const chart = event.chart;
@@ -203,7 +209,7 @@ export default function MainGraph () {
       const datasetItem = chart.data.datasets[datasetIndex];
       navigate(`/meme/${datasetItem.id}`);
     }
-  }
+  };
 
   // set time range slider whenever max range changes
   React.useEffect(() => {
@@ -215,68 +221,92 @@ export default function MainGraph () {
       {
         value: 100,
         label: maxTimeRange[maxTimeRange.length - 1],
-      }
-    ])
-  },[maxTimeRange]);
+      },
+    ]);
+    setSliderValues([maxTimeRange[0], maxTimeRange[maxTimeRange.length - 1]]);
+  }, [maxTimeRange]);
 
   // update chart range when time range slider changes
   const onSliderChange = (event, newVals) => {
+    const len = maxTimeRange.length;
+    const newLow = Math.floor((len * newVals[0]) / 100);
+    const newHigh = Math.floor((len * newVals[1]) / 100 - 1);
+    const newTimeRange = maxTimeRange.slice(newLow, newHigh);
+
+    // update slider label value
+    setSliderValues([maxTimeRange[newLow], maxTimeRange[newHigh]]);
+
+    // isSliding ref variable to throttle the amount this updates
     if (!isSliding.current) {
       isSliding.current = true;
-      const len = maxTimeRange.length;
-      const newLow = Math.floor(len * newVals[0] / 100);
-      const newHigh = Math.floor(len * newVals[1] /100);
-      const newTimeRange = maxTimeRange.slice(newLow, newHigh);
 
+      // update chart range
       chartRef.current.data.labels = newTimeRange;
-      chartRef.current.data.datasets.forEach(dataset => {
-        dataset.data = chartData.datasets[dataset.id].data.slice(newLow, newHigh);
+      chartRef.current.data.datasets.forEach((dataset) => {
+        dataset.data = chartData.datasets[dataset.id].data.slice(
+          newLow,
+          newHigh
+        );
       });
       chartRef.current.update();
     }
     // throttle to only update chart every 100ms
     setTimeout(() => {
       isSliding.current = false;
-    }, 100)
+    }, 100);
   };
 
   return (
     <>
-      {
-        chartData.datasets.length > 0 ? (
-          <div style={{ position: 'relative' }}>
-            <div style={{ height: '600px', margin: '0 10px', cursor: cursorType }}>
-              <Line ref={chartRef} options={chartOptions} data={chartData}/>
-            </div>
-            <QuestionButton title='How To Use'
+      {chartData.datasets.length > 0 ? (
+        <div style={{ position: "relative" }}>
+          <div
+            style={{ height: "600px", margin: "0 10px", cursor: cursorType }}
+          >
+            <Line ref={chartRef} options={chartOptions} data={chartData} />
+          </div>
+          <QuestionButton
+            title="How To Use"
             text={
-            <>
-            • Hover cursor on graph. The closest meme will be highlighted. <br/>
-            • When a meme is highlighted, click anywhere on the chart area to go to its meme page. <br/>
-            • Memes can be filtered out by clicking on the legend entry. <br/>
-            • Drag the slider to adjust the time range.
-            </>
+              <>
+                • Hover cursor on graph. The closest meme will be highlighted.{" "}
+                <br />
+                • When a meme is highlighted, click anywhere on the chart area
+                to go to its meme page. <br />• Memes can be filtered out by
+                clicking on the legend entry. <br />• Drag the slider to adjust
+                the time range.
+              </>
             }
-            style={{ position: 'absolute', top: '5px', right: '5px'}}
+            style={{ position: "absolute", top: "5px", right: "5px" }}
+          />
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
+              position: "absolute",
+              bottom: "5px",
+              right: "40px",
+            }}
+          >
+            <span>Time Range</span>
+            <Slider
+              getAriaLabel={() => "Time Range Slider"}
+              defaultValue={[0, 100]}
+              marks={sliderMarks}
+              onChange={onSliderChange}
+              style={{ width: "200px", color: COLOUR_PALETTE[1] }}
+              valueLabelDisplay="auto"
+              valueLabelFormat={(value, index) => {
+                return `${sliderValues[index]}`;
+              }}
+              disableSwap
             />
-            <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center',
-              position: 'absolute', bottom: '5px', right: '40px' }}>
-              <span>Time Range</span>
-              <Slider
-                getAriaLabel={() => 'Time Range Slider'}
-                defaultValue={sliderValues}
-                marks={sliderMarks}
-                onChange={onSliderChange}
-                style={{ width: '200px', color: COLOUR_PALETTE[1] }}
-              />
-            </div>
           </div>
-        ) : (
-          <div>
-            Loading chart data...
-          </div>
-        )
-      }
+        </div>
+      ) : (
+        <div>Loading chart data...</div>
+      )}
     </>
-  )
+  );
 }
