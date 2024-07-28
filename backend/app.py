@@ -11,13 +11,16 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
 from PIL import Image
+from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
 
+import time
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
 # Setting up MongoDB connection
 db = Database(uri='mongodb://localhost:27017', db_name='3900')
 
+# Setting up pretrained sentence transformer and PCA model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 pca_model = joblib.load('pca_model.pkl')
 
@@ -46,6 +49,26 @@ def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
             min_distance = distance
             closest_cluster_id = cluster_id
     return closest_cluster_id
+
+
+def generate_caption(model, processor, image):
+    # Open the image
+    
+    # Resize image to a reasonable size
+    max_size = (512, 512)
+    image.thumbnail(max_size, Image.ANTIALIAS)
+    
+    # Preprocess the image
+    inputs = processor(images=image, return_tensors="pt")
+    start_time = time.time()
+    out = model.generate(**inputs)
+    caption = processor.decode(out[0], skip_special_tokens=True)
+    end_time = time.time()
+    
+    print(f"Caption generation took {end_time - start_time} seconds")
+    
+    
+    return caption
 
 @app.route('/')
 def home():
@@ -140,11 +163,10 @@ def image_captioning():
     file = request.files['image']
 
     try:
-        image = Image.open(file)
-        # Process the image here (e.g., generate a caption)
-        # For demonstration purposes, let's just return a dummy caption
-        caption = "This is a dummy caption for the uploaded image."
-
+        image = Image.open(file).convert("RGB")
+        processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
+        model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
+        caption = generate_caption(model, processor, image)
         return jsonify({"caption": caption}), 200
 
     except Exception as e:
