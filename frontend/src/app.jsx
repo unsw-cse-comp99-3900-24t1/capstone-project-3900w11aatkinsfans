@@ -9,6 +9,7 @@ import Dashboard from "./pages/Dashboard";
 import Meme from "./pages/Meme";
 import MemeSearchResult from "./pages/MemeSearchResult";
 import MemePredictionResult from "./pages/MemePredictionResult.jsx";
+import ImageCaptioning from "./pages/ImageCaptioning.jsx";
 import "./global.css";
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
           <Route path="memeprediction" element={<MemePrediction />} />
           <Route path="/meme/:id" element={<Meme />} />
           <Route path="memesearchresult" element={<MemeSearchResult />} />
+          <Route path="imagecaptioning" element={<ImageCaptioning />} />
           <Route
             path="memepredictionresult"
             element={<MemePredictionResult />}

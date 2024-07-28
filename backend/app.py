@@ -10,10 +10,11 @@ import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
-import pytesseract
+import easyocr
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
 
+import time
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
 
@@ -51,14 +52,8 @@ def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
     return closest_cluster_id
 
 
-def extract_text_from_image(image_path):
-    image = Image.open(image_path)
-    text = pytesseract.image_to_string(image)
-    return text
-
-def generate_caption(model, processor, image_path, extracted_text):
+def generate_caption(model, processor, image):
     # Open the image
-    image = Image.open(image_path).convert("RGB")
     
     # Resize image to a reasonable size
     max_size = (512, 512)
@@ -66,11 +61,13 @@ def generate_caption(model, processor, image_path, extracted_text):
     
     # Preprocess the image
     inputs = processor(images=image, return_tensors="pt")
- 
-    
-    # Generate the caption
+    start_time = time.time()
     out = model.generate(**inputs)
     caption = processor.decode(out[0], skip_special_tokens=True)
+    end_time = time.time()
+    
+    print(f"Caption generation took {end_time - start_time} seconds")
+    
     
     return caption
 
@@ -153,29 +150,28 @@ def predict():
 
     return jsonify({'returnstuffhere': 1})
 
-@app.route('/imagepredict', methods=['POST'])
-def predict():
-    data = request.get_json()
-    image = data.get('image')
-
-    if not image:
-        return jsonify({'error': 'searchText is required'}), 400
-
-    # Load the model and processor once
-    processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
-    model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
-    image_path = 'magical_casle.jpeg'
-    extracted_text = extract_text_from_image(image_path)
-    caption = generate_caption(model, processor, image_path, extracted_text)
-
-
-    return jsonify({'caption': caption})
-
 app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
     data = db.find_all('overview_data', {})
     json_data = [doc for doc in data]
     return jsonify(json_data)
+
+@app.route('/imagecaptioning', methods=['POST'])
+def image_captioning():
+    if 'image' not in request.files:
+        return jsonify({"error": "No image file found"}), 400
+
+    file = request.files['image']
+
+    try:
+        image = Image.open(file).convert("RGB")
+        processor = BlipProcessor.from_pretrained("Salesforce/blip-image-captioning-base")
+        model = BlipForConditionalGeneration.from_pretrained("Salesforce/blip-image-captioning-base")
+        caption = generate_caption(model, processor, image)
+        return jsonify({"caption": caption}), 200
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
