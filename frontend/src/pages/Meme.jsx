@@ -1,11 +1,17 @@
-import React from 'react';
-import { useParams } from 'react-router-dom';
-import { styled } from '@mui/system';
-import { Line } from 'react-chartjs-2';
+import React from "react";
+import { useParams } from "react-router-dom";
+import { styled } from "@mui/system";
+import { Line } from "react-chartjs-2";
 import {
-  Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper
-} from '@mui/material';
-import { COLOUR_PALETTE } from '../assets/constants';
+  Table,
+  TableBody,
+  TableCell,
+  TableContainer,
+  TableHead,
+  TableRow,
+  Paper,
+} from "@mui/material";
+import { COLOUR_PALETTE } from "../assets/constants";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -15,7 +21,7 @@ import {
   Title,
   Tooltip,
   Legend,
-} from 'chart.js';
+} from "chart.js";
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -26,32 +32,32 @@ ChartJS.register(
   Legend
 );
 
-const ColFlexDiv = styled('div')({
-  display: 'flex',
-  flexDirection: 'row',
-  justifyContent: 'flex-start',
-  alignItems: 'flex-start',
-  gap: '40px',
-  margin: '3vh 3vw',
+const ColFlexDiv = styled("div")({
+  display: "flex",
+  flexDirection: "row",
+  justifyContent: "flex-start",
+  alignItems: "flex-start",
+  gap: "40px",
+  margin: "3vh 3vw",
 });
 
-const PopularityGraphDiv = styled('div')({
-  width: '50vw',
-  height: '420px',
-  backgroundColor: 'white',
-  justifyContent: 'center',
-  borderRadius: '12px',
-  padding: '20px',
-  boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+const PopularityGraphDiv = styled("div")({
+  width: "50vw",
+  height: "420px",
+  backgroundColor: "white",
+  justifyContent: "center",
+  borderRadius: "12px",
+  padding: "20px",
+  boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
 });
 
-const TextBoxDiv = styled('div')({
-  width: '40vw',
-  minHeight: '420px',
-  borderRadius: '12px',
-  padding: '10px 30px 30px',
-  backgroundColor: 'white',
-  boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)',
+const TextBoxDiv = styled("div")({
+  width: "40vw",
+  minHeight: "420px",
+  borderRadius: "12px",
+  padding: "10px 30px 30px",
+  backgroundColor: "white",
+  boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
 });
 
 function MemePage() {
@@ -59,7 +65,7 @@ function MemePage() {
   const [memeName, setMemeName] = React.useState("");
   const [chartData, setChartData] = React.useState({
     labels: [],
-    datasets: []
+    datasets: [],
   });
   const [chartOptions, setChartOptions] = React.useState({});
   const [totalPosts, setTotalPosts] = React.useState(0);
@@ -70,34 +76,39 @@ function MemePage() {
 
   // load up meme
   React.useEffect(() => {
-    let filename = 'cluster_' + id;
-    fetch((process.env.REACT_APP_BACKEND_URL ||
-      'http://localhost:5000') + '/clusters/' + filename)
-      .then(response => {
+    let filename = "cluster_" + id;
+    fetch(
+      (process.env.REACT_APP_BACKEND_URL || "http://localhost:5000") +
+        "/clusters/" +
+        filename
+    )
+      .then((response) => {
         if (!response.ok) {
-          throw new Error('Bad response');
+          throw new Error("Bad response");
         }
         return response.json();
       })
-      .then(data => {
+      .then((data) => {
         const dataset = data.popularityCurve;
-        setMemeName('\"' + dataset.label + '\"');
-        setTotalPosts(Math.max(dataset.data.reduce((sum, current) =>
-          sum + current, 0)));
+        setMemeName('"' + dataset.label + '"');
+        setTotalPosts(
+          Math.max(dataset.data.reduce((sum, current) => sum + current, 0))
+        );
         setTotalMutations(data.clusterList.length);
         setLargestMutation(data.clusterList[0].phrase);
         setlargestMutAmount(data.clusterList[0].count);
         setClusterList(data.clusterList);
         createGraph(dataset);
       })
-      .catch(err => {
+      .catch((err) => {
         console.log(err);
       });
-  },[]);
+  }, []);
 
+  // Main graph displaying meme posts over time
   const createGraph = (dataset) => {
     dataset.borderColor = COLOUR_PALETTE[0];
-    dataset.backgroundColor = COLOUR_PALETTE[0] + 'E6';
+    dataset.backgroundColor = COLOUR_PALETTE[0] + "E6";
     dataset.hoverBorderWidth = 10;
     dataset.tension = 0.1;
     setChartData({
@@ -109,20 +120,20 @@ function MemePage() {
         x: {
           title: {
             display: true,
-            text: 'Time (H:MM)',
-            font: { size: 12, weight: 'bold' }
+            text: "Time (H:MM)",
+            font: { size: 12, weight: "bold" },
           },
           ticks: {
             maxTicksLimit: 10,
-          }
+          },
         },
         y: {
           title: {
             display: true,
-            text: 'Volume',
-            font: { size: 12, weight: 'bold' }
-          }
-        }
+            text: "Volume",
+            font: { size: 12, weight: "bold" },
+          },
+        },
       },
       responsive: true,
       maintainAspectRatio: false,
@@ -130,13 +141,13 @@ function MemePage() {
         title: {
           display: true,
           text: "Meme Popularity",
-          font: { size: 14 }
+          font: { size: 14 },
         },
         legend: { display: false },
         tooltip: {
           intersect: false,
-          mode: 'nearest',
-          axis: 'xy',
+          mode: "nearest",
+          axis: "xy",
           padding: 5,
           caretPadding: 10,
           caretSize: 5,
@@ -144,14 +155,14 @@ function MemePage() {
             title: (context) => {
               let meme = context[0].dataset.label;
               if (meme.length > 100) {
-                meme = meme.slice(0, 100) + "..."
+                meme = meme.slice(0, 100) + "...";
               }
-              return "\"" + meme + "\"";
+              return '"' + meme + '"';
             },
             label: (context) => {
               return "Time: " + context.label + ", Count: " + context.raw;
             },
-          }
+          },
         },
       },
       hover: {
@@ -163,32 +174,44 @@ function MemePage() {
   // You can now use the id to fetch data or perform any other action
   return (
     <>
-      <h2 style={{marginLeft: '3vw', color: '#0D2633'}}>{memeName}</h2>
+      <h2 style={{ marginLeft: "3vw", color: "#0D2633" }}>{memeName}</h2>
       <ColFlexDiv>
         <div>
           <PopularityGraphDiv>
-            {
-              chartData.datasets.length > 0 ? (
-                <div>
-                  <Line options={chartOptions} data={chartData}
-                  style={{ height: '400px'}}/>
-                </div>
-              ) : (
-                <div>
-                  Loading chart data...
-                </div>
-              )
-            }
+            {chartData.datasets.length > 0 ? (
+              <div>
+                <Line
+                  options={chartOptions}
+                  data={chartData}
+                  style={{ height: "400px" }}
+                />
+              </div>
+            ) : (
+              <div>Loading chart data...</div>
+            )}
           </PopularityGraphDiv>
 
-          <TableContainer component={Paper} style={{ marginTop: '40px', width: '50vw', padding: '20px', borderRadius: '12px',
-            boxShadow: '0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)', }}>
+          <TableContainer
+            component={Paper}
+            style={{
+              marginTop: "40px",
+              width: "50vw",
+              padding: "20px",
+              borderRadius: "12px",
+              boxShadow:
+                "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
+            }}
+          >
             <Table>
               <TableHead>
                 <TableRow>
-                  <TableCell style={{ fontWeight: 'bold' }}>#</TableCell> 
-                  <TableCell style={{ fontWeight: 'bold' }}>Meme Mutations</TableCell>
-                  <TableCell align="right" style={{ fontWeight: 'bold' }}>Mutation Count</TableCell>
+                  <TableCell style={{ fontWeight: "bold" }}>#</TableCell>
+                  <TableCell style={{ fontWeight: "bold" }}>
+                    Meme Mutations
+                  </TableCell>
+                  <TableCell align="right" style={{ fontWeight: "bold" }}>
+                    Mutation Count
+                  </TableCell>
                 </TableRow>
               </TableHead>
               <TableBody>
@@ -196,7 +219,7 @@ function MemePage() {
                   clusterList.map((cluster, index) => (
                     <TableRow key={index}>
                       <TableCell component="th" scope="row">
-                        {index + 1}  
+                        {index + 1}
                       </TableCell>
                       <TableCell component="th" scope="row">
                         {cluster.phrase}
@@ -216,22 +239,22 @@ function MemePage() {
           </TableContainer>
         </div>
         <TextBoxDiv>
-          {
-            memeName === "" ? (<></>) : (
-              <div>
-                <h3>About</h3>
-                <b>{memeName}</b> is a meme that has gained over {totalPosts} posts
-                and reposts over a span of 24 hours.
-                <h3>Spread</h3>
-                Our database and clustering algorithm have detected at
-                least {totalMutations} variants of this meme.
-                <br/>
-                The most popular variant was "<i>{largestMutation}</i>" which was
-                detected within {largestMutAmount} posts.
-                {/* TODO: More information to be added in the future */}
-              </div>
-            )
-          }
+          {memeName === "" ? (
+            <></>
+          ) : (
+            <div>
+              <h3>About</h3>
+              <b>{memeName}</b> is a meme that has gained over {totalPosts}{" "}
+              posts and reposts over a span of 24 hours.
+              <h3>Spread</h3>
+              Our database and clustering algorithm have detected at least{" "}
+              {totalMutations} variants of this meme.
+              <br />
+              The most popular variant was "<i>{largestMutation}</i>" which was
+              detected within {largestMutAmount} posts.
+              {/* TODO: More information to be added in the future */}
+            </div>
+          )}
         </TextBoxDiv>
       </ColFlexDiv>
     </>

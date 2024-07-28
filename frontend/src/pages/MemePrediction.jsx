@@ -1,71 +1,83 @@
-import React, { useState } from 'react';
-import { TextField, Paper, InputAdornment, IconButton, Dialog,
+import React, { useState } from "react";
+import {
+  TextField,
+  Paper,
+  InputAdornment,
+  IconButton,
+  Dialog,
   DialogActions,
   DialogContent,
   DialogContentText,
-  Button, Typography, Box } from '@mui/material';
-import SearchIcon from '@mui/icons-material/Search';
-import { useNavigate } from 'react-router-dom';
-import { styled } from '@mui/system';
-import QuestionButton from '../components/QuestionButton';
+  Button,
+  Typography,
+  Box,
+} from "@mui/material";
+import SearchIcon from "@mui/icons-material/Search";
+import { useNavigate } from "react-router-dom";
+import { styled } from "@mui/system";
+import QuestionButton from "../components/QuestionButton";
 
-const Container = styled('div')({
-  display: 'flex',
-  flexDirection: 'column',
-  alignItems: 'center',
-  width: '100%',
-  padding: '20px', // Add some padding for better spacing
+const Container = styled("div")({
+  display: "flex",
+  flexDirection: "column",
+  alignItems: "center",
+  width: "100%",
+  padding: "20px", // Add some padding for better spacing
 });
 
 const StyledPaper = styled(Paper)(({ theme }) => ({
-  display: 'flex',
-  alignItems: 'center',
-  padding: '2px',
+  display: "flex",
+  alignItems: "center",
+  padding: "2px",
   borderRadius: 50,
-  boxShadow: '0 2px 10px rgba(0, 0, 0, 0.1)',
+  boxShadow: "0 2px 10px rgba(0, 0, 0, 0.1)",
   maxWidth: 550, // Make the search bar wider
-  height: '50px',
+  height: "50px",
   marginTop: theme.spacing(2),
-  width: '100%', // Ensure it takes full width available
+  width: "100%", // Ensure it takes full width available
 }));
 
 const StyledTextField = styled(TextField)(({ theme }) => ({
-  '& .MuiInputBase-root': {
-    padding: '0 20px', // Padding inside the input field
+  "& .MuiInputBase-root": {
+    padding: "0 20px", // Padding inside the input field
   },
 }));
 
 const SearchBar = ({ setIsModalOpen }) => {
-  const [searchText, setSearchText] = useState('');
+  const [searchText, setSearchText] = useState("");
   const navigate = useNavigate();
 
   const handleSearchClick = () => {
-    if (searchText.trim() === '') {
+    if (searchText.trim() === "") {
       setIsModalOpen(true);
       return;
     }
 
     setIsModalOpen(false);
     console.log(searchText);
-    fetch((process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000') + '/memepredict', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ searchText }),
-    })
-      .then(response => response.json())
-      .then(data => {
+    fetch(
+      (process.env.REACT_APP_BACKEND_URL || "http://localhost:5000") +
+        "/memepredict",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ searchText }),
+      }
+    )
+      .then((response) => response.json())
+      .then((data) => {
         console.log(data);
-        navigate('/memepredictionresult', { state: { data } });
-    })
+        navigate("/memepredictionresult", { state: { data } });
+      })
       .catch((error) => {
-        console.error('Error:', error);
-    });
+        console.error("Error:", error);
+      });
   };
 
   const handleKeyDown = (e) => {
-    if (e.key === 'Enter') {
+    if (e.key === "Enter") {
       e.preventDefault(); // Prevent form submission or any default action
       handleSearchClick();
     }
@@ -102,21 +114,23 @@ export default function MemePrediction() {
 
   return (
     <Container>
-      <Box sx={{ display: 'flex', alignItems: 'center' }}>
+      <Box sx={{ display: "flex", alignItems: "center" }}>
         <Typography variant="h6" component="div" align="center">
           Predict how your memes will perform
         </Typography>
-        <QuestionButton 
-          title='How To Use'
+        <QuestionButton
+          title="How To Use"
           text={
             <>
-              This tool allows you to search and predict the performance of memes. Enter a meme description and click the search button to get predictions.
+              This tool allows you to search and predict the performance of
+              memes. Enter a meme description and click the search button to get
+              predictions.
             </>
           }
         />
       </Box>
       <SearchBar setIsModalOpen={setIsModalOpen} />
-      
+
       <Dialog
         open={isModalOpen}
         onClose={() => setIsModalOpen(false)}
@@ -129,7 +143,11 @@ export default function MemePrediction() {
           </DialogContentText>
         </DialogContent>
         <DialogActions>
-          <Button onClick={() => setIsModalOpen(false)} color="primary" autoFocus>
+          <Button
+            onClick={() => setIsModalOpen(false)}
+            color="primary"
+            autoFocus
+          >
             OK
           </Button>
         </DialogActions>
@@ -143,15 +161,21 @@ export default function MemePrediction() {
       >
         <DialogContent>
           <DialogContentText id="help-dialog-description">
-            This tool allows you to search and predict the performance of memes. Enter a meme description and click the search button to get predictions.
+            This tool allows you to search and predict the performance of memes.
+            Enter a meme description and click the search button to get
+            predictions.
           </DialogContentText>
         </DialogContent>
         <DialogActions>
-          <Button onClick={() => setIsHelpModalOpen(false)} color="primary" autoFocus>
+          <Button
+            onClick={() => setIsHelpModalOpen(false)}
+            color="primary"
+            autoFocus
+          >
             Close
           </Button>
         </DialogActions>
       </Dialog>
     </Container>
   );
-} 
+}

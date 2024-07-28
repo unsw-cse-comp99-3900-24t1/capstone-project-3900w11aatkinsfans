@@ -1,43 +1,43 @@
-import React, { useState, useEffect } from 'react';
-import { Outlet, Link, useLocation } from 'react-router-dom';
-import { styled } from '@mui/system';
-import { Tabs, Tab } from '@mui/material';
+import React, { useState, useEffect } from "react";
+import { Outlet, Link, useLocation } from "react-router-dom";
+import { styled } from "@mui/system";
+import { Tabs, Tab } from "@mui/material";
 
 // Styled components
-const HeaderNavDiv = styled('div')({
-  top: '0',
-  left: '0',
-  width: '100%',
-  height: '60px',
-  display: 'flex',
-  flexDirection: 'row',
-  justifyContent: 'space-between',
-  background: 'rgb(12,65,96)',
+const HeaderNavDiv = styled("div")({
+  top: "0",
+  left: "0",
+  width: "100%",
+  height: "60px",
+  display: "flex",
+  flexDirection: "row",
+  justifyContent: "space-between",
+  background: "rgb(12,65,96)",
 });
 
 const AppTitle = styled(Link)({
-  display: 'flex',
-  justifyContent: 'center', /* Horizontal centering */
-  alignItems: 'center', /* Vertical centering */
-  color: 'white',
-  fontSize: '32px',
+  display: "flex",
+  justifyContent: "center" /* Horizontal centering */,
+  alignItems: "center" /* Vertical centering */,
+  color: "white",
+  fontSize: "32px",
   fontWeight: 600,
-  fontFamily: 'Inter, sans-serif',
-  padding: '10px',
-  textDecoration: 'none',
+  fontFamily: "Inter, sans-serif",
+  padding: "10px",
+  textDecoration: "none",
 });
 
-const TabsContainer = styled('div')({
+const TabsContainer = styled("div")({
   flexGrow: 1,
-  display: 'flex',
-  alignItems: 'center',
-  justifyContent: 'flex-start',
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "flex-start",
 });
 
 const StyledTab = styled(Tab)({
-  color: 'white',
-  fontWeight: 'bold',
-  fontFamily: 'Inter, sans-serif',
+  color: "white",
+  fontWeight: "bold",
+  fontFamily: "Inter, sans-serif",
 });
 
 export default function HeaderNav() {
@@ -46,23 +46,24 @@ export default function HeaderNav() {
 
   const tabToValue = (path) => {
     switch (path) {
-      case '/dashboard':
+      case "/dashboard":
         return 0;
-      case '/memesearch':
+      case "/memesearch":
         return 1;
-      case '/memeprediction':
+      case "/memeprediction":
         return 2;
       default:
         return false;
     }
   };
-
   const [value, setValue] = useState(tabToValue(currentPath));
 
+  // Dynamically update the tab to the current path
   useEffect(() => {
     setValue(tabToValue(currentPath));
   }, [currentPath]);
 
+  // Handle change for when different tabs are chosen
   const handleChange = (event, newValue) => {
     setValue(newValue);
   };
@@ -77,7 +78,9 @@ export default function HeaderNav() {
             onChange={handleChange}
             textColor="inherit"
             indicatorColor="secondary"
-            TabIndicatorProps={{ style: { backgroundColor: 'rgb(195,206,218)' } }}
+            TabIndicatorProps={{
+              style: { backgroundColor: "rgb(195,206,218)" },
+            }}
           >
             <StyledTab
               label="Dashboard"
