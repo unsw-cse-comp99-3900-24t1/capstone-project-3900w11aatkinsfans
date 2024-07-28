@@ -61,9 +61,11 @@ def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
     return top_n_cluster_ids
 
 def generate_caption(model, processor, image):
-    max_size = (512, 512)
-    image.thumbnail(max_size, Image.ANTIALIAS)
+    # Compatibility issues - reducing image size
+    # max_size = (512, 512)
+    # image.thumbnail(max_size, Image.ANTIALIAS)
     
+    # Preprocess the image
     inputs = processor(images=image, return_tensors="pt")
     start_time = time.time()
     out = model.generate(**inputs)
@@ -101,12 +103,14 @@ def popular():
     latest_timestamp = df['Timestamp'].max()
     meme_count = df.shape[0]
 
+    # Filter for clusters of interest
     filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])]
 
+    # Initialize an empty DataFrame to store results
     results = filtered_df.copy()
     results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
     results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)
-
+    # Combine results and quotes into final data dictionary
     data = {
         'result': results.to_dict(orient='records'),
         'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),
@@ -125,10 +129,11 @@ def search():
         return jsonify({'error': 'searchText is required'}), 400
 
     closest_cluster_ids = find_top_n_cluster_ids(search_text, model, pca_model, cluster_centers)
-    closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
+    
+    # this was the old implementation of top search 
+    # closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
-    print(closest_cluster_ids)
-    return jsonify([{'clusterID': closest_cluster_id}])
+    return jsonify(closest_cluster_ids)
 
 @app.route('/memepredict', methods=['POST'])
 def predict():
