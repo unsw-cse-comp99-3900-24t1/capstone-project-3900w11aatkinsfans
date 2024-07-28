@@ -1,6 +1,25 @@
 import React, { useState, useEffect } from 'react';
-import { TextField, Paper, InputAdornment, IconButton, Table, TableBody, TableCell, TableContainer, TableRow } from '@mui/material';
+import {
+  TextField,
+  Paper,
+  InputAdornment,
+  IconButton,
+  CircularProgress,
+  Table,
+  TableBody,
+  TableCell,
+  TableContainer,
+  TableRow,
+  Typography,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  DialogContentText,
+  DialogTitle,
+  Button
+} from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
+import { Box } from '@mui/material';
 import { styled } from '@mui/system';
 import { useNavigate } from 'react-router-dom';
 
@@ -44,7 +63,7 @@ const CenterTable = styled('div')({
   justifyContent: 'center',
   alignItems: 'center',
   flexDirection: 'column',
-  marginTop: '10vh',
+  marginTop: '12vh',
   paddingBottom: '30px',
 });
 
@@ -53,14 +72,28 @@ const TopTrendingMemesTitle = styled('div')({
   fontSize: '20px'
 });
 
-const SearchBar = () => {
+const CenteredCircularProgress = styled('div')({
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  marginTop: '8vh',
+  height: 'auto',
+});
+
+const SearchBar = ({ setLoading }) => {
   const [searchText, setSearchText] = useState('');
+  const [isModalOpen, setIsModalOpen] = useState(false);
   const navigate = useNavigate();
 
   const handleSearchClick = () => {
-    console.log(searchText);
-    fetch((process.env.REACT_APP_BACKEND_URL ||
-      'http://localhost:5000') + '/memesearch', {
+    if (searchText.trim() === '') {
+      setIsModalOpen(true);
+      return;
+    }
+
+    setLoading(true);
+    setIsModalOpen(false);
+    fetch((process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000') + '/memesearch', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -69,9 +102,14 @@ const SearchBar = () => {
     })
       .then(response => response.json())
       .then(data => {
-        navigate(`/meme/${data.clusterID}`);
+        setLoading(false);
+        // navigate(`/meme/${data.clusterID}`);
+        // console.log(data); {clusterID: 1}
+        const test_result = [10,9,8,7,6,5,4,3,2,1];
+        navigate('/memesearchresult', { state: { test_result } });
       })
       .catch((error) => {
+        setLoading(false);
         console.error('Error:', error);
       });
   };
@@ -84,27 +122,44 @@ const SearchBar = () => {
   };
 
   return (
-    <StyledPaper>
-      <StyledTextField
-        variant="standard"
-        placeholder="Search Meme..."
-        value={searchText}
-        onChange={(e) => setSearchText(e.target.value)}
-        onKeyDown={handleKeyDown}
-        InputProps={{
-          disableUnderline: true,
-          endAdornment: (
-            <InputAdornment position="end">
-              <IconButton edge="end" onClick={handleSearchClick}>
-                <SearchIcon />
-              </IconButton>
-            </InputAdornment>
-          ),
-          style: { flex: 1 },
-        }}
-        fullWidth
-      />
-    </StyledPaper>
+    <>
+      <StyledPaper>
+        <StyledTextField
+          variant="standard"
+          placeholder="Search Meme..."
+          value={searchText}
+          onChange={(e) => setSearchText(e.target.value)}
+          onKeyDown={handleKeyDown}
+          InputProps={{
+            disableUnderline: true,
+            endAdornment: (
+                <IconButton edge="end" onClick={handleSearchClick}>
+                  <SearchIcon />
+                </IconButton>
+            ),
+            style: { flex: 1 },
+          }}
+          fullWidth
+        />
+      </StyledPaper>
+      <Dialog
+        open={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        aria-labelledby="alert-dialog-title"
+        aria-describedby="alert-dialog-description"
+      >
+        <DialogContent>
+          <DialogContentText id="alert-dialog-description">
+            Please enter a meme to search.
+          </DialogContentText>
+        </DialogContent>
+        <DialogActions>
+          <Button onClick={() => setIsModalOpen(false)} color="primary" autoFocus>
+            OK
+          </Button>
+        </DialogActions>
+      </Dialog>
+    </>
   );
 };
 
@@ -131,6 +186,7 @@ export default function MemeSearch() {
   const [beginDate, setBeginDate] = useState(null);
   const [endDate, setEndDate] = useState(null);
   const [memeCount, setMemeCount] = useState(null);
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -166,7 +222,7 @@ export default function MemeSearch() {
   if (!popularData) {
     return (
       <>
-        <SearchBar />
+        <SearchBar setLoading={setLoading} />
         <SearchResultDatabaseSize>
           Loading...
         </SearchResultDatabaseSize>
@@ -176,10 +232,16 @@ export default function MemeSearch() {
 
   return (
     <>
-      <SearchBar />
+      <SearchBar setLoading={setLoading} />
       <SearchResultDatabaseSize>
         Search from a database of {memeCount} memes
       </SearchResultDatabaseSize>
+      {loading && 
+        <CenteredCircularProgress>
+          <CircularProgress /> &nbsp;
+          Searching...
+        </CenteredCircularProgress>
+      }
       <CenterTable>
         <TopTrendingMemesTitle>
           Top Trending Memes
