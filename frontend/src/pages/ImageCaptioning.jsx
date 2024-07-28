@@ -186,14 +186,15 @@ export default function ImageCaptioning() {
               </Box>
               {loading && (
                 <>
-                  <CircularProgress style={{ margin: "40px" }} />
+                  <CircularProgress style={{ margin: "10px" }} />
                   <div>Processing Caption...</div>
                 </>
               )}
             </>
           ) : (
             <>
-              <CircularProgress /> &nbsp; Processing Image...
+              <CircularProgress style={{ margin: "10px" }} /> &nbsp; Processing
+              Image...
             </>
           )}
         </>

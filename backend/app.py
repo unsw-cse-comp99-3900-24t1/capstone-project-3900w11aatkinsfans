@@ -72,8 +72,9 @@ def generate_caption(model, processor, image):
     
     # Resize image to a reasonable size
     max_size = (512, 512)
-    image.thumbnail(max_size, Image.ANTIALIAS)
-    
+
+    # image.thumbnail(max_size, Image.ANTIALIAS)
+
     # Preprocess the image
     inputs = processor(images=image, return_tensors="pt")
     start_time = time.time()
@@ -82,7 +83,6 @@ def generate_caption(model, processor, image):
     end_time = time.time()
     
     print(f"Caption generation took {end_time - start_time} seconds")
-    
     
     return caption
 
