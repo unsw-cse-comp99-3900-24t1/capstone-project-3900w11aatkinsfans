@@ -4,35 +4,31 @@ import pandas as pd
 import os
 from sentence_transformers import SentenceTransformer
 import joblib
-import csv
-from sklearn.decomposition import PCA
 import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
-
 import time
+
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}}) 
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Setting up MongoDB connection
-db = Database(uri='mongodb://localhost:27017', db_name='3900')
+db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='clusters')
 
 # Setting up pretrained sentence transformer and PCA model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 pca_model = joblib.load('pca_model.pkl')
 
-# Load cluster centers from CSV
-cluster_centers_file = 'cluster_centers.csv'
+# Load cluster centers from MongoDB
 cluster_centers = {}
-with open(cluster_centers_file, 'r') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        cluster_id = int(row['cluster_id'])
-        center_vector = json.loads(row['center_vector'])
-        cluster_centers[cluster_id] = np.array(center_vector)
+cluster_centers_data = db.find_all('cluster_centers', {})
+for doc in cluster_centers_data:
+    cluster_id = doc['cluster_id']
+    center_vector = np.array(doc['center_vector'])
+    cluster_centers[cluster_id] = center_vector
 
 def vectorize_and_reduce(sentence, model, pca_model):
     vector_360d = model.encode(sentence)
@@ -58,23 +54,17 @@ def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
         distance = 1 - cosine_similarity([input_vector], [center_vector])[0][0]
         distances.append((cluster_id, distance))
     
-    # Sort distances based on the distance value and select the top n
     distances.sort(key=lambda x: x[1])
     top_n_clusters = distances[:n]
-
-    # Extract and return only the cluster IDs
     top_n_cluster_ids = [cluster_id for cluster_id, _ in top_n_clusters]
 
     return top_n_cluster_ids
 
 def generate_caption(model, processor, image):
-    # Open the image
-    
-    # Resize image to a reasonable size
-    max_size = (512, 512)
-
+    # Compatibility issues - reducing image size
+    # max_size = (512, 512)
     # image.thumbnail(max_size, Image.ANTIALIAS)
-
+    
     # Preprocess the image
     inputs = processor(images=image, return_tensors="pt")
     start_time = time.time()
@@ -98,23 +88,14 @@ def test():
     }
     return jsonify(data)
 
-# Initial method of serving main graph data through a pre-processed excel
-# @app.route('/dashboard/overview_data', methods=['GET'])
-# def get_overview_data():
-#     json_data = get_json_data('assets/overview_data.csv')
-#     return jsonify(json_data)
-
-# route for getting cluster_id.json given the file name
 @app.route('/clusters/<string:filename>', methods=['GET'])
 def get_cluster(filename):
     if not os.path.isfile(f'assets/clusters/{filename}.json'):
         abort(404, description="File not found")
     return send_from_directory('assets/clusters/', f'{filename}.json')
 
-# getPopular 
 @app.route('/getPopular')
 def popular():
-
     df = pd.read_csv('assets/sorted_clusters.csv')
     df['Timestamp'] = pd.to_datetime(df['Timestamp'])
 
@@ -127,16 +108,13 @@ def popular():
 
     # Initialize an empty DataFrame to store results
     results = filtered_df.copy()
-
-    # Sort the DataFrame
     results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
-    results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)  # Keep only the first row of each ClusterID
-
+    results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)
     # Combine results and quotes into final data dictionary
     data = {
         'result': results.to_dict(orient='records'),
-        'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
-        'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
+        'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),
+        'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),
         'memeCount': meme_count,
     }
 
@@ -150,8 +128,6 @@ def search():
     if not search_text:
         return jsonify({'error': 'searchText is required'}), 400
 
-    # Find the closest cluster ID for the given search text
-    # this finds the top ten clusters by default, can be changed to any number 
     closest_cluster_ids = find_top_n_cluster_ids(search_text, model, pca_model, cluster_centers)
     
     # this was the old implementation of top search 
@@ -169,7 +145,7 @@ def predict():
 
     return jsonify({'returnstuffhere': 1})
 
-app.route('/dashboard/overview_data_db', methods=['GET'])
+@app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
     data = db.find_all('overview_data', {})
     json_data = [doc for doc in data]
