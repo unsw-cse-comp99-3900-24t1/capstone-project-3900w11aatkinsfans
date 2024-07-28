@@ -25,7 +25,7 @@ const Container = styled("div")({
   padding: "20px", // Add some padding for better spacing
 });
 
-const StyledPaper = styled(Paper)(() => ({
+const StyledPaper = styled(Paper)(({ theme }) => ({
   display: "flex",
   alignItems: "center",
   padding: "2px",
@@ -37,7 +37,7 @@ const StyledPaper = styled(Paper)(() => ({
   width: "100%", // Ensure it takes full width available
 }));
 
-const StyledTextField = styled(TextField)(() => ({
+const StyledTextField = styled(TextField)(({ theme }) => ({
   "& .MuiInputBase-root": {
     padding: "0 20px", // Padding inside the input field
   },
@@ -113,9 +113,69 @@ export default function MemePrediction() {
   const [isHelpModalOpen, setIsHelpModalOpen] = useState(false);
 
   return (
-    <div>
-      <p>This is the Meme prediction page.</p>
-      <SearchBar />
-    </div>
+    <Container>
+      <Box sx={{ display: "flex", alignItems: "center" }}>
+        <Typography variant="h6" component="div" align="center">
+          Predict how your memes will perform
+        </Typography>
+        <QuestionButton
+          title="How To Use"
+          text={
+            <>
+              This tool allows you to search and predict the performance of
+              memes. Enter a meme description and click the search button to get
+              predictions.
+            </>
+          }
+        />
+      </Box>
+      <SearchBar setIsModalOpen={setIsModalOpen} />
+
+      <Dialog
+        open={isModalOpen}
+        onClose={() => setIsModalOpen(false)}
+        aria-labelledby="alert-dialog-title"
+        aria-describedby="alert-dialog-description"
+      >
+        <DialogContent>
+          <DialogContentText id="alert-dialog-description">
+            Please enter a meme to search.
+          </DialogContentText>
+        </DialogContent>
+        <DialogActions>
+          <Button
+            onClick={() => setIsModalOpen(false)}
+            color="primary"
+            autoFocus
+          >
+            OK
+          </Button>
+        </DialogActions>
+      </Dialog>
+
+      <Dialog
+        open={isHelpModalOpen}
+        onClose={() => setIsHelpModalOpen(false)}
+        aria-labelledby="help-dialog-title"
+        aria-describedby="help-dialog-description"
+      >
+        <DialogContent>
+          <DialogContentText id="help-dialog-description">
+            This tool allows you to search and predict the performance of memes.
+            Enter a meme description and click the search button to get
+            predictions.
+          </DialogContentText>
+        </DialogContent>
+        <DialogActions>
+          <Button
+            onClick={() => setIsHelpModalOpen(false)}
+            color="primary"
+            autoFocus
+          >
+            Close
+          </Button>
+        </DialogActions>
+      </Dialog>
+    </Container>
   );
 }

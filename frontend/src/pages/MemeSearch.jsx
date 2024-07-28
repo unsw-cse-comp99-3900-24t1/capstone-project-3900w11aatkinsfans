@@ -18,11 +18,6 @@ import {
 import SearchIcon from "@mui/icons-material/Search";
 import { styled } from "@mui/system";
 import { useNavigate } from "react-router-dom";
-  Button
-} from '@mui/material';
-import SearchIcon from '@mui/icons-material/Search';
-import { styled } from '@mui/system';
-import { useNavigate } from 'react-router-dom';
 
 const StyledPaper = styled(Paper)(() => ({
   display: "flex",
