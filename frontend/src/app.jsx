@@ -8,6 +8,7 @@ import HeaderNav from "./components/HeaderNav";
 import Dashboard from "./pages/Dashboard";
 import Meme from "./pages/Meme";
 import MemeSearchResult from "./pages/MemeSearchResult";
+import MemePredictionResult from "./pages/MemePredictionResult.jsx";
 import "./global.css";
 
 function App() {
@@ -21,6 +22,10 @@ function App() {
           <Route path="memeprediction" element={<MemePrediction />} />
           <Route path="/meme/:id" element={<Meme />} />
           <Route path="memesearchresult" element={<MemeSearchResult />} />
+          <Route
+            path="memepredictionresult"
+            element={<MemePredictionResult />}
+          />
         </Route>
       </Routes>
     </BrowserRouter>

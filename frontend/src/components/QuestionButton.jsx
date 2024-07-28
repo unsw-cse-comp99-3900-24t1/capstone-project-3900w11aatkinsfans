@@ -10,8 +10,8 @@ const box_style = {
   top: "50%",
   left: "50%",
   transform: "translate(-50%, -50%)",
-  width: 400,
-  bgcolor: "background.paper",
+  width: 500,
+  bgcolor: "rgba(255, 255, 255, 0.8)", // Semi-transparent white background
   boxShadow: 0,
   p: 4,
   borderRadius: "5px",
@@ -22,7 +22,7 @@ export default function QuestionButton(props) {
   const [open, setOpen] = React.useState(false);
   const handleOpen = () => setOpen(true);
   const handleClose = () => setOpen(false);
-  const [bgColor, setBgColor] = React.useState("white");
+  const [bgColor, setBgColor] = React.useState("transparent");
 
   return (
     <>
@@ -35,10 +35,13 @@ export default function QuestionButton(props) {
             cursor: "pointer",
             backgroundColor: bgColor,
             borderRadius: "25px",
+            boxShadow: "none",
+            padding: 0,
+            outline: "none",
           }}
           onClick={handleOpen}
           onMouseEnter={() => setBgColor("rgba(0, 0, 0, 0.1)")}
-          onMouseLeave={() => setBgColor("white")}
+          onMouseLeave={() => setBgColor("transparent")}
         >
           <HelpOutlineIcon style={{ fill: COLOUR_PALETTE[1] }} />
         </button>
@@ -47,6 +50,7 @@ export default function QuestionButton(props) {
           onClose={handleClose}
           aria-labelledby="modal-modal-title"
           aria-describedby="modal-modal-description"
+          sx={{ backdropFilter: "blur(5px)" }} // Optional: Adds blur effect to the backdrop
         >
           <Box sx={box_style}>
             <Typography id="modal-modal-title" variant="h6" component="h2">
