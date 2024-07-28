@@ -10,7 +10,6 @@ import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
-import easyocr
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
 
