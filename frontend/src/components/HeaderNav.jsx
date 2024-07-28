@@ -52,6 +52,8 @@ export default function HeaderNav() {
         return 1;
       case "/memeprediction":
         return 2;
+      case "/imagecaptioning":
+        return 3;
       default:
         return false;
     }
@@ -99,6 +101,12 @@ export default function HeaderNav() {
               value={2} // Assign value prop
               component={Link}
               to="/memeprediction"
+            />
+            <StyledTab
+              label="Image Captioning"
+              value={3} // Assign value prop
+              component={Link}
+              to="/imagecaptioning"
             />
           </Tabs>
         </TabsContainer>

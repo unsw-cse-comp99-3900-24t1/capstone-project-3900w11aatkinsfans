@@ -10,6 +10,7 @@ import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
+from PIL import Image
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}) 
@@ -130,6 +131,24 @@ def get_overview_data_db():
     data = db.find_all('overview_data', {})
     json_data = [doc for doc in data]
     return jsonify(json_data)
+
+@app.route('/imagecaptioning', methods=['POST'])
+def image_captioning():
+    if 'image' not in request.files:
+        return jsonify({"error": "No image file found"}), 400
+
+    file = request.files['image']
+
+    try:
+        image = Image.open(file)
+        # Process the image here (e.g., generate a caption)
+        # For demonstration purposes, let's just return a dummy caption
+        caption = "This is a dummy caption for the uploaded image."
+
+        return jsonify({"caption": caption}), 200
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
