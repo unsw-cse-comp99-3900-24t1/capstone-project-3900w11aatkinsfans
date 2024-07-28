@@ -12,6 +12,8 @@ import {
   Paper,
 } from "@mui/material";
 import { COLOUR_PALETTE } from "../assets/constants";
+import GrowthRateChart from "../components/GrowthRateChart";
+import QuestionButton from "../components/QuestionButton";
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -42,6 +44,7 @@ const ColFlexDiv = styled("div")({
 });
 
 const PopularityGraphDiv = styled("div")({
+  position: "relative",
   width: "50vw",
   height: "420px",
   backgroundColor: "white",
@@ -51,11 +54,12 @@ const PopularityGraphDiv = styled("div")({
   boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
 });
 
-const TextBoxDiv = styled("div")({
-  width: "40vw",
+const ContentBox = styled("div")({
+  width: "35vw",
   minHeight: "420px",
   borderRadius: "12px",
-  padding: "10px 30px 30px",
+  padding: "30px",
+  marginBottom: "40px",
   backgroundColor: "white",
   boxShadow: "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
 });
@@ -73,6 +77,11 @@ function MemePage() {
   const [largestMutation, setLargestMutation] = React.useState("");
   const [largestMutAmount, setlargestMutAmount] = React.useState(0);
   const [clusterList, setClusterList] = React.useState([]);
+  const [growthRateData, setGrowthRateData] = React.useState({
+    data: [5, 15, 25, 26, 26, 27],
+    xLabels: ["0:00", "0:1", "0:02", "0:03", "0:04", "0:05"],
+    label: "test growth rate yep",
+  });
 
   // load up meme
   React.useEffect(() => {
@@ -141,7 +150,7 @@ function MemePage() {
         title: {
           display: true,
           text: "Meme Popularity",
-          font: { size: 14 },
+          font: { size: 18 },
         },
         legend: { display: false },
         tooltip: {
@@ -184,6 +193,12 @@ function MemePage() {
                   options={chartOptions}
                   data={chartData}
                   style={{ height: "400px" }}
+                />
+                <QuestionButton
+                  title="Meme Popularity"
+                  text="This graph shows the amount of posts/reposts that has
+                  occured for this meme over time."
+                  style={{ position: "absolute", top: "10px", right: "10px" }}
                 />
               </div>
             ) : (
@@ -238,24 +253,29 @@ function MemePage() {
             </Table>
           </TableContainer>
         </div>
-        <TextBoxDiv>
-          {memeName === "" ? (
-            <></>
-          ) : (
-            <div>
-              <h3>About</h3>
-              <b>{memeName}</b> is a meme that has gained over {totalPosts}{" "}
-              posts and reposts over a span of 24 hours.
-              <h3>Spread</h3>
-              Our database and clustering algorithm have detected at least{" "}
-              {totalMutations} variants of this meme.
-              <br />
-              The most popular variant was "<i>{largestMutation}</i>" which was
-              detected within {largestMutAmount} posts.
-              {/* TODO: More information to be added in the future */}
-            </div>
-          )}
-        </TextBoxDiv>
+        <div>
+          <ContentBox>
+            {memeName === "" ? (
+              <></>
+            ) : (
+              <div>
+                <h3>About</h3>
+                <b>{memeName}</b> is a meme that has gained over {totalPosts}{" "}
+                posts and reposts over a span of 24 hours.
+                <h3>Spread</h3>
+                Our database and clustering algorithm have detected at least{" "}
+                {totalMutations} variants of this meme.
+                <br />
+                The most popular variant was "<i>{largestMutation}</i>" which
+                was detected within {largestMutAmount} posts.
+                {/* TODO: More information to be added in the future */}
+              </div>
+            )}
+          </ContentBox>
+          <ContentBox>
+            <GrowthRateChart data={growthRateData} />
+          </ContentBox>
+        </div>
       </ColFlexDiv>
     </>
   );
