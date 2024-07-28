@@ -50,6 +50,22 @@ def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
             closest_cluster_id = cluster_id
     return closest_cluster_id
 
+def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
+    input_vector = vectorize_and_reduce(sentence, model, pca_model)
+    distances = []
+
+    for cluster_id, center_vector in cluster_centers.items():
+        distance = 1 - cosine_similarity([input_vector], [center_vector])[0][0]
+        distances.append((cluster_id, distance))
+    
+    # Sort distances based on the distance value and select the top n
+    distances.sort(key=lambda x: x[1])
+    top_n_clusters = distances[:n]
+
+    # Extract and return only the cluster IDs
+    top_n_cluster_ids = [cluster_id for cluster_id, _ in top_n_clusters]
+
+    return top_n_cluster_ids
 
 def generate_caption(model, processor, image):
     # Open the image
@@ -134,10 +150,14 @@ def search():
     if not search_text:
         return jsonify({'error': 'searchText is required'}), 400
 
-    # TODO: find closest 10 results, and return in array of {clusterID: ...}
     # Find the closest cluster ID for the given search text
+    # this finds the top ten clusters by default, can be changed to any number 
+    closest_cluster_ids = find_top_n_cluster_ids(search_text, model, pca_model, cluster_centers)
+    
+    # this was the old implementation of top search 
     closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
+    print(closest_cluster_ids)
     return jsonify([{'clusterID': closest_cluster_id}])
 
 @app.route('/memepredict', methods=['POST'])
