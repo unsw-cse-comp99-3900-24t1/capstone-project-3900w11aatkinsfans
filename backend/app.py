@@ -111,10 +111,11 @@ def search():
     if not search_text:
         return jsonify({'error': 'searchText is required'}), 400
 
+    # TODO: find closest 10 results, and return in array of {clusterID: ...}
     # Find the closest cluster ID for the given search text
     closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
-    return jsonify({'clusterID': closest_cluster_id})
+    return jsonify([{'clusterID': closest_cluster_id}])
 
 @app.route('/memepredict', methods=['POST'])
 def predict():

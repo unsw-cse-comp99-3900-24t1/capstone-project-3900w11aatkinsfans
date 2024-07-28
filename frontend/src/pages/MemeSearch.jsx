@@ -18,6 +18,7 @@ import {
 import SearchIcon from "@mui/icons-material/Search";
 import { styled } from "@mui/system";
 import { useNavigate } from "react-router-dom";
+import { COLOUR_PALETTE } from "../assets/constants";
 
 const StyledPaper = styled(Paper)(() => ({
   display: "flex",
@@ -28,7 +29,14 @@ const StyledPaper = styled(Paper)(() => ({
   maxWidth: 600,
   height: "50px",
   margin: "0 auto",
-  marginTop: "15vh",
+  marginTop: "5vh",
+}));
+
+const StyledTitle = styled("h2")(() => ({
+  width: "100vw",
+  textAlign: "center",
+  color: COLOUR_PALETTE[0],
+  marginTop: "60px",
 }));
 
 const StyledTextField = styled(TextField)(() => ({
@@ -104,8 +112,10 @@ const SearchBar = ({ setLoading }) => {
       .then((data) => {
         setLoading(false);
         // navigate(`/meme/${data.clusterID}`);
-        // console.log(data); {clusterID: 1}
-        const test_result = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
+        let test_result = [];
+        for (let cluster of data) {
+          test_result.push(cluster.clusterID);
+        }
         navigate("/memesearchresult", { state: { test_result } });
       })
       .catch((error) => {
@@ -230,6 +240,7 @@ export default function MemeSearch() {
   if (!popularData) {
     return (
       <>
+        <StyledTitle>Search a Meme</StyledTitle>
         <SearchBar setLoading={setLoading} />
         <SearchResultDatabaseSize>Loading...</SearchResultDatabaseSize>
       </>
@@ -238,6 +249,7 @@ export default function MemeSearch() {
 
   return (
     <>
+      <StyledTitle>Search a Meme</StyledTitle>
       <SearchBar setLoading={setLoading} />
       <SearchResultDatabaseSize>
         Search from a database of {memeCount} memes

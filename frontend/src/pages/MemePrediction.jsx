@@ -9,13 +9,18 @@ import {
   DialogContent,
   DialogContentText,
   Button,
-  Typography,
   Box,
 } from "@mui/material";
 import SearchIcon from "@mui/icons-material/Search";
 import { useNavigate } from "react-router-dom";
 import { styled } from "@mui/system";
 import QuestionButton from "../components/QuestionButton";
+import { COLOUR_PALETTE } from "../assets/constants";
+
+const StyledTitle = styled("h2")(() => ({
+  color: COLOUR_PALETTE[0],
+  marginTop: "40px",
+}));
 
 const Container = styled("div")({
   display: "flex",
@@ -114,10 +119,17 @@ export default function MemePrediction() {
 
   return (
     <Container>
-      <Box sx={{ display: "flex", alignItems: "center" }}>
-        <Typography variant="h6" component="div" align="center">
-          Predict how your memes will perform
-        </Typography>
+      <Box
+        sx={{
+          display: "flex",
+          flexDirection: "row",
+          justifyContent: "center",
+          alignItems: "center",
+          width: "100%",
+          gap: "20px",
+        }}
+      >
+        <StyledTitle>Predict how your memes will perform</StyledTitle>
         <QuestionButton
           title="How To Use"
           text={
@@ -127,6 +139,7 @@ export default function MemePrediction() {
               predictions.
             </>
           }
+          style={{ margin: "20px 0 0 -20px" }}
         />
       </Box>
       <SearchBar setIsModalOpen={setIsModalOpen} />
