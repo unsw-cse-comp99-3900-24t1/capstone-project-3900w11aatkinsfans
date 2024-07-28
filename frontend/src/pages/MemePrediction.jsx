@@ -59,7 +59,6 @@ const SearchBar = ({ setIsModalOpen }) => {
     }
 
     setIsModalOpen(false);
-    console.log(searchText);
     fetch(
       (process.env.REACT_APP_BACKEND_URL || "http://localhost:5000") +
         "/memepredict",
@@ -73,7 +72,6 @@ const SearchBar = ({ setIsModalOpen }) => {
     )
       .then((response) => response.json())
       .then((data) => {
-        console.log(data);
         navigate("/memepredictionresult", { state: { data } });
       })
       .catch((error) => {

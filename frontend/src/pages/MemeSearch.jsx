@@ -114,7 +114,7 @@ const SearchBar = ({ setLoading }) => {
         // navigate(`/meme/${data.clusterID}`);
         let test_result = [];
         for (let cluster of data) {
-          test_result.push(cluster.clusterID);
+          test_result.push(cluster);
         }
         navigate("/memesearchresult", { state: { test_result } });
       })
@@ -234,7 +234,14 @@ export default function MemeSearch() {
   };
 
   if (error) {
-    return <div>{`Error: ${error}`}</div>;
+    return (
+      <>
+        <StyledTitle>Search a Meme</StyledTitle>
+        <div
+          style={{ width: "100%", textAlign: "center" }}
+        >{`Error: ${error}`}</div>
+      </>
+    );
   }
 
   if (!popularData) {

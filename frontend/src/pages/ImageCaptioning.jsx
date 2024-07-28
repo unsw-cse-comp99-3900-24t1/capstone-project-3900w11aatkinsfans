@@ -68,7 +68,7 @@ export default function ImageCaptioning() {
           setLoading(false);
           let test_result = [];
           for (let cluster of data) {
-            test_result.push(cluster.clusterID);
+            test_result.push(cluster);
           }
           navigate("/memesearchresult", { state: { test_result } });
         })
@@ -121,9 +121,11 @@ export default function ImageCaptioning() {
           title="How To Use"
           text={
             <>
-              This tool allows you to caption any image. <br />
+              This tool allows you to caption any image (png/jpg). <br />
               Upload an image to produce a caption that describes the image,
               which can be used for meme search or for meme prediction.
+              <br />
+              <b>Note:</b> The first time can take longer to process.
             </>
           }
           style={{ margin: "20px 0 0 -20px" }}
@@ -137,7 +139,7 @@ export default function ImageCaptioning() {
         Upload Image
         <input
           type="file"
-          accept="image/*"
+          accept="image/png, image/jpeg, image/jpg"
           onChange={handleImageUpload}
           hidden
         />
@@ -184,7 +186,7 @@ export default function ImageCaptioning() {
               </Box>
               {loading && (
                 <>
-                  <CircularProgress style={{ margin: "10px" }} />
+                  <CircularProgress style={{ margin: "40px" }} />
                   <div>Processing Caption...</div>
                 </>
               )}
