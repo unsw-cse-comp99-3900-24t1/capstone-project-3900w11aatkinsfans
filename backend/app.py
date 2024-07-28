@@ -1,38 +1,31 @@
-from flask import Flask, request, jsonify, abort, send_from_directory
+from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
-import pandas as pd
-import os
 from sentence_transformers import SentenceTransformer
 import joblib
-import csv
-from sklearn.decomposition import PCA
-import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
 from PIL import Image
-from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
-
+from transformers import BlipProcessor, BlipForConditionalGeneration
 import time
+
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}}) 
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Setting up MongoDB connection
-db = Database(uri='mongodb://localhost:27017', db_name='3900')
+db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='clusters')
 
 # Setting up pretrained sentence transformer and PCA model
 model = SentenceTransformer("all-MiniLM-L6-v2")
 pca_model = joblib.load('pca_model.pkl')
 
-# Load cluster centers from CSV
-cluster_centers_file = 'cluster_centers.csv'
+# Load cluster centers from MongoDB
 cluster_centers = {}
-with open(cluster_centers_file, 'r') as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        cluster_id = int(row['cluster_id'])
-        center_vector = json.loads(row['center_vector'])
-        cluster_centers[cluster_id] = np.array(center_vector)
+clusters_data = db.find_all('clusters', {})
+for cluster in clusters_data:
+    cluster_id = cluster['cluster_id']
+    center_vector = cluster['popularityCurve']['data']  # Assuming this is the center vector
+    cluster_centers[cluster_id] = np.array(center_vector)
 
 def vectorize_and_reduce(sentence, model, pca_model):
     vector_360d = model.encode(sentence)
@@ -50,7 +43,6 @@ def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
             closest_cluster_id = cluster_id
     return closest_cluster_id
 
-
 def generate_caption(model, processor, image):
     # Open the image
     
@@ -67,7 +59,6 @@ def generate_caption(model, processor, image):
     
     print(f"Caption generation took {end_time - start_time} seconds")
     
-    
     return caption
 
 @app.route('/')
@@ -82,49 +73,51 @@ def test():
     }
     return jsonify(data)
 
-# Initial method of serving main graph data through a pre-processed excel
-# @app.route('/dashboard/overview_data', methods=['GET'])
-# def get_overview_data():
-#     json_data = get_json_data('assets/overview_data.csv')
-#     return jsonify(json_data)
-
-# route for getting cluster_id.json given the file name
-@app.route('/clusters/<string:filename>', methods=['GET'])
-def get_cluster(filename):
-    if not os.path.isfile(f'assets/clusters/{filename}.json'):
-        abort(404, description="File not found")
-    return send_from_directory('assets/clusters/', f'{filename}.json')
-
+# route for getting cluster data given the cluster_id
+@app.route('/clusters/<int:cluster_id>', methods=['GET'])
+def get_cluster(cluster_id):
+    cluster_data = db.find_all('clusters', {'cluster_id': cluster_id})
+    cluster_list = list(cluster_data)
+    if cluster_list:
+        return jsonify(cluster_list[0])  # Assuming there's only one document per cluster_id
+    else:
+        return jsonify({'error': 'Cluster not found'}), 404
+    
 # getPopular 
 @app.route('/getPopular')
 def popular():
+    clusters_data_cursor = db.find_all('clusters', {})
+    clusters_data = list(clusters_data_cursor)
+    result_data = []
+    x_labels = []
 
-    df = pd.read_csv('assets/sorted_clusters.csv')
-    df['Timestamp'] = pd.to_datetime(df['Timestamp'])
+    for cluster in clusters_data:
+        if 'popularityCurve' in cluster and 'xLabels' in cluster['popularityCurve']:
+            x_labels.extend(cluster['popularityCurve']['xLabels'])
+        result_data.append({
+            'cluster_id': cluster['cluster_id'],
+            'popularityCurve': cluster['popularityCurve'],
+            'clusterList': cluster['clusterList']
+        })
 
-    earliest_timestamp = df['Timestamp'].min()
-    latest_timestamp = df['Timestamp'].max()
-    meme_count = df.shape[0]
+    # Extract the earliest and latest timestamps
+    if x_labels:
+        earliest_timestamp = min(x_labels)
+        latest_timestamp = max(x_labels)
+    else:
+        earliest_timestamp = latest_timestamp = None
 
-    # Filter for clusters of interest
-    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])]
+    meme_count = len(clusters_data)
 
-    # Initialize an empty DataFrame to store results
-    results = filtered_df.copy()
-
-    # Sort the DataFrame
-    results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
-    results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)  # Keep only the first row of each ClusterID
-
-    # Combine results and quotes into final data dictionary
     data = {
-        'result': results.to_dict(orient='records'),
-        'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
-        'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),  # Format as string if needed
+        'result': result_data,
+        'earliest_timestamp': earliest_timestamp,
+        'latest_timestamp': latest_timestamp,
         'memeCount': meme_count,
     }
 
     return jsonify(data)
+
 
 @app.route('/memesearch', methods=['POST'])
 def search():
@@ -134,7 +127,6 @@ def search():
     if not search_text:
         return jsonify({'error': 'searchText is required'}), 400
 
-    # TODO: find closest 10 results, and return in array of {clusterID: ...}
     # Find the closest cluster ID for the given search text
     closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
@@ -150,7 +142,7 @@ def predict():
 
     return jsonify({'returnstuffhere': 1})
 
-app.route('/dashboard/overview_data_db', methods=['GET'])
+@app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
     data = db.find_all('overview_data', {})
     json_data = [doc for doc in data]
