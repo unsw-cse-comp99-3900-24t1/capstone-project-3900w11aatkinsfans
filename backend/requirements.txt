@@ -1,11 +1,10 @@
 Flask
 flask-cors
 pandas
-numpy
+numpy<2.0
 pymongo
-scikit-learn
+scikit-learn==1.5.0
 sentence-transformers
 transformers
 joblib
-pytesseract
-PIL
+pillow
