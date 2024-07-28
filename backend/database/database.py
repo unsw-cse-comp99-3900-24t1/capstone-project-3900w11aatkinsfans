@@ -15,6 +15,10 @@ class Database:
         collection = self.get_collection(collection_name)
         return collection.find(query)
 
+    def find_one(self, collection_name, query):
+        collection = self.get_collection(collection_name)
+        return collection.find_one(query)
+
     def insert_json_files(self, directory):
         files = [f for f in os.listdir(directory) if f.startswith('cluster_') and f.endswith('.json')]
         for file in files:

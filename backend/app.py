@@ -1,15 +1,13 @@
-from flask import Flask, request, jsonify, abort, send_from_directory
+from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
 import pandas as pd
-import os
 from sentence_transformers import SentenceTransformer
 import joblib
-import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from database.database import Database
 from PIL import Image
-from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
+from transformers import BlipProcessor, BlipForConditionalGeneration
 import time
 
 app = Flask(__name__)
@@ -61,11 +59,6 @@ def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
     return top_n_cluster_ids
 
 def generate_caption(model, processor, image):
-    # Compatibility issues - reducing image size
-    # max_size = (512, 512)
-    # image.thumbnail(max_size, Image.ANTIALIAS)
-    
-    # Preprocess the image
     inputs = processor(images=image, return_tensors="pt")
     start_time = time.time()
     out = model.generate(**inputs)
@@ -75,6 +68,11 @@ def generate_caption(model, processor, image):
     print(f"Caption generation took {end_time - start_time} seconds")
     
     return caption
+
+def convert_objectid_to_str(doc):
+    if '_id' in doc:
+        doc['_id'] = str(doc['_id'])
+    return doc
 
 @app.route('/')
 def home():
@@ -90,35 +88,97 @@ def test():
 
 @app.route('/clusters/<string:filename>', methods=['GET'])
 def get_cluster(filename):
-    if not os.path.isfile(f'assets/clusters/{filename}.json'):
-        abort(404, description="File not found")
-    return send_from_directory('assets/clusters/', f'{filename}.json')
+    try:
+        cluster_id = int(filename.split('_')[-1])
+        print(f"Requesting cluster with ID: {cluster_id}")
+        cluster_data = db.find_one('clusters', {'cluster_id': cluster_id})
+        
+        if not cluster_data:
+            print(f"Cluster with ID {cluster_id} not found")
+            abort(404, description="Cluster not found")
+        
+        cluster_data = convert_objectid_to_str(cluster_data)
+        print(f"Cluster data: {cluster_data}")
+        return jsonify(cluster_data)
+    except Exception as e:
+        print(f"Error in /clusters/{filename}: {e}")
+        return jsonify({"error": str(e)}), 500
 
 @app.route('/getPopular')
 def popular():
-    df = pd.read_csv('assets/sorted_clusters.csv')
-    df['Timestamp'] = pd.to_datetime(df['Timestamp'])
+    try:
+        print("Fetching all clusters from MongoDB")
+        cluster_data = db.find_all('clusters', {})
+        if not cluster_data:
+            print("No data found in clusters collection")
+            return jsonify({"error": "No data found in clusters"}), 404
 
-    earliest_timestamp = df['Timestamp'].min()
-    latest_timestamp = df['Timestamp'].max()
-    meme_count = df.shape[0]
+        data_list = []
+        for doc in cluster_data:
+            doc = convert_objectid_to_str(doc)
+            cluster_id = doc.get('cluster_id')
+            popularity_curve = doc.get('popularityCurve', {})
+            cluster_list = doc.get('clusterList', [])
 
-    # Filter for clusters of interest
-    filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])]
+            xlabels = popularity_curve.get('xLabels', [])
+            for item in cluster_list:
+                phrase = item.get('phrase')
+                count = item.get('count')
+                for xlabel in xlabels:
+                    data_list.append({
+                        'ClusterID': cluster_id,
+                        'Phrase': phrase,
+                        'Count': count,
+                        'Timestamp': xlabel,
+                        'Date': popularity_curve.get('date', 'Unknown')  # Assuming each cluster has a date field
+                    })
 
-    # Initialize an empty DataFrame to store results
-    results = filtered_df.copy()
-    results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
-    results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)
-    # Combine results and quotes into final data dictionary
-    data = {
-        'result': results.to_dict(orient='records'),
-        'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),
-        'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),
-        'memeCount': meme_count,
-    }
+        df = pd.DataFrame(data_list)
+        df['Timestamp'] = pd.to_datetime(df['Timestamp'], format='%H:%M', errors='coerce')
 
-    return jsonify(data)
+        # Calculate the total popularity for each cluster
+        df['TotalCount'] = df.groupby('ClusterID')['Count'].transform('sum')
+
+        # Sort by TotalCount, ClusterID and Timestamp
+        df.sort_values(by=['TotalCount', 'ClusterID', 'Timestamp'], ascending=[False, True, True], inplace=True)
+
+        # Get top 5 clusters
+        top_clusters = df.drop_duplicates(subset='ClusterID', keep='first').head(5)
+
+        earliest_timestamp = df['Timestamp'].min()
+        latest_timestamp = df['Timestamp'].max()
+        meme_count = df.shape[0]
+
+        earliest_timestamp_str = earliest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(earliest_timestamp) else "N/A"
+        latest_timestamp_str = latest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(latest_timestamp) else "N/A"
+
+        top_clusters_data = []
+        for idx, row in top_clusters.iterrows():
+            top_clusters_data.append({
+                'Rank': idx + 1,
+                'Mutations': row['TotalCount'],
+                'Date': row['Date'],
+                'Phrase': row['Phrase'],
+                'ClusterID': row['ClusterID']
+            })
+
+        # Ensure the message is the same as required
+        message = "Showing Top 5 of 100,000 memes"
+
+        data = {
+            'result': top_clusters_data,
+            'earliest_timestamp': earliest_timestamp_str,
+            'latest_timestamp': latest_timestamp_str,
+            'memeCount': meme_count,
+            'totalMemeCount': 100000,  # Fixed value for total meme count
+            'message': message
+        }
+
+        print("Data prepared for popular endpoint")
+        return jsonify(data)
+    except Exception as e:
+        print(f"Error in /getPopular: {e}")
+        return jsonify({"error": str(e)}), 500
 
 @app.route('/memesearch', methods=['POST'])
 def search():
@@ -129,9 +189,6 @@ def search():
         return jsonify({'error': 'searchText is required'}), 400
 
     closest_cluster_ids = find_top_n_cluster_ids(search_text, model, pca_model, cluster_centers)
-    
-    # this was the old implementation of top search 
-    # closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
     return jsonify(closest_cluster_ids)
 
@@ -148,7 +205,7 @@ def predict():
 @app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
     data = db.find_all('overview_data', {})
-    json_data = [doc for doc in data]
+    json_data = [convert_objectid_to_str(doc) for doc in data]
     return jsonify(json_data)
 
 @app.route('/imagecaptioning', methods=['POST'])
@@ -170,3 +227,8 @@ def image_captioning():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
+
+def convert_objectid_to_str(doc):
+    if '_id' in doc:
+        doc['_id'] = str(doc['_id'])
+    return doc
