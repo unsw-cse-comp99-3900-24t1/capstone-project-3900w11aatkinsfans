@@ -23,7 +23,7 @@ db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='
 
 # Setting up pretrained sentence transformer and PCA model
 model = SentenceTransformer("all-MiniLM-L6-v2")
-pca_model = joblib.load('pca_model.pkl')
+pca_model = joblib.load('pca_model_100.pkl')
 
 # Load cluster centers from MongoDB
 cluster_centers = {}
@@ -60,6 +60,7 @@ def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
     return closest_cluster_id
 
 def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
+
     input_vector = vectorize_and_reduce(sentence, model, pca_model)
     distances = []
 
@@ -86,6 +87,7 @@ def generate_caption(model, processor, image):
     end_time = time.time()
     
     print(f"Caption generation took {end_time - start_time} seconds")
+
     
     return caption
 
@@ -154,11 +156,11 @@ def predict():
     search_text = data.get('searchText')
     model_name = "all-MiniLM-L6-v2"
     embedding_model = SentenceTransformer(model_name)
-    pca_model = joblib.load('pca_model.pkl')
     rf_model = joblib.load('cluster_size_predictor_model.pkl')
+    pca_model_20 = joblib.load('pca_model.pkl')
 
     new_vector = embedding_model.encode(search_text)
-    new_vector_reduced = pca_model.transform([new_vector])
+    new_vector_reduced = pca_model_20.transform([new_vector])
     cluster_size_mean = rf_model.predict(new_vector_reduced)
     rho = cluster_size_mean/(cluster_size_mean-1)
     k_values = np.arange(1, 50)
@@ -167,7 +169,7 @@ def predict():
         return jsonify({'error': 'searchText is required'}), 400
     k_values = k_values.tolist()
     pmf_values = pmf_values.tolist()
-    return jsonify({'xLabels': k_values, 'data': pmf_values, 'label':search_text})
+    return jsonify({'xLabels': k_values, 'data': pmf_values, 'label':search_text, 'cluster_size_mean': cluster_centers})
 
 @app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
