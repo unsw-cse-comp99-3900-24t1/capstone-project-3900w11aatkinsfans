@@ -12,6 +12,8 @@ from database.database import Database
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration, pipeline
 import time
+from scipy.special import beta
+
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
@@ -87,6 +89,9 @@ def generate_caption(model, processor, image):
     
     return caption
 
+def yule_simon_pmf(k, rho):
+    return rho * beta(k, rho + 1)
+
 @app.route('/')
 def home():
     return "Welcome to the Flask API!"
@@ -140,9 +145,6 @@ def search():
         return jsonify({'error': 'searchText is required'}), 400
 
     closest_cluster_ids = find_top_n_cluster_ids(search_text, model, pca_model, cluster_centers)
-    
-    # this was the old implementation of top search 
-    # closest_cluster_id = find_closest_cluster_id(search_text, model, pca_model, cluster_centers)
 
     return jsonify(closest_cluster_ids)
 
@@ -150,11 +152,22 @@ def search():
 def predict():
     data = request.get_json()
     search_text = data.get('searchText')
+    model_name = "all-MiniLM-L6-v2"
+    embedding_model = SentenceTransformer(model_name)
+    pca_model = joblib.load('pca_model.pkl')
+    rf_model = joblib.load('cluster_size_predictor_model.pkl')
 
+    new_vector = embedding_model.encode(search_text)
+    new_vector_reduced = pca_model.transform([new_vector])
+    cluster_size_mean = rf_model.predict(new_vector_reduced)
+    rho = cluster_size_mean/(cluster_size_mean-1)
+    k_values = np.arange(1, 50)
+    pmf_values = yule_simon_pmf(k_values, rho)
     if not search_text:
         return jsonify({'error': 'searchText is required'}), 400
-
-    return jsonify({'returnstuffhere': 1})
+    k_values = k_values.tolist()
+    pmf_values = pmf_values.tolist()
+    return jsonify({'x_axis': k_values, 'y_axis': pmf_values})
 
 @app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
