@@ -1,3 +1,4 @@
+import logging
 from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
 import pandas as pd
@@ -13,8 +14,11 @@ import time
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
+# Setting up logger
+logging.basicConfig(level=logging.WARNING)  # Set to WARNING to reduce log output
+logger = logging.getLogger(__name__)
+
 # Setting up MongoDB connection
-# db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='clusters')
 db = Database()
 
 # Setting up pretrained sentence transformer and PCA model
@@ -66,7 +70,7 @@ def generate_caption(model, processor, image):
     caption = processor.decode(out[0], skip_special_tokens=True)
     end_time = time.time()
     
-    print(f"Caption generation took {end_time - start_time} seconds")
+    logger.info(f"Caption generation took {end_time - start_time} seconds")
     
     return caption
 
@@ -91,27 +95,27 @@ def test():
 def get_cluster(filename):
     try:
         cluster_id = int(filename.split('_')[-1])
-        print(f"Requesting cluster with ID: {cluster_id}")
+        logger.debug(f"Requesting cluster with ID: {cluster_id}")
         cluster_data = db.find_one('clusters', {'cluster_id': cluster_id})
         
         if not cluster_data:
-            print(f"Cluster with ID {cluster_id} not found")
+            logger.warning(f"Cluster with ID {cluster_id} not found")
             abort(404, description="Cluster not found")
         
         cluster_data = convert_objectid_to_str(cluster_data)
-        print(f"Cluster data: {cluster_data}")
+        logger.debug(f"Cluster data: {cluster_data}")
         return jsonify(cluster_data)
     except Exception as e:
-        print(f"Error in /clusters/{filename}: {e}")
+        logger.error(f"Error in /clusters/{filename}: {e}")
         return jsonify({"error": str(e)}), 500
 
 @app.route('/getPopular')
 def popular():
     try:
-        print("Fetching all clusters from MongoDB")
+        logger.debug("Fetching all clusters from MongoDB")
         cluster_data = db.find_all('clusters', {})
         if not cluster_data:
-            print("No data found in clusters collection")
+            logger.warning("No data found in clusters collection")
             return jsonify({"error": "No data found in clusters"}), 404
 
         data_list = []
@@ -175,10 +179,10 @@ def popular():
             'message': message
         }
 
-        print("Data prepared for popular endpoint")
+        logger.info("Data prepared for popular endpoint")
         return jsonify(data)
     except Exception as e:
-        print(f"Error in /getPopular: {e}")
+        logger.error(f"Error in /getPopular: {e}")
         return jsonify({"error": str(e)}), 500
 
 @app.route('/memesearch', methods=['POST'])
@@ -224,12 +228,8 @@ def image_captioning():
         return jsonify({"caption": caption}), 200
 
     except Exception as e:
+        logger.error(f"Error in image_captioning: {e}")
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True)
-
-def convert_objectid_to_str(doc):
-    if '_id' in doc:
-        doc['_id'] = str(doc['_id'])
-    return doc
