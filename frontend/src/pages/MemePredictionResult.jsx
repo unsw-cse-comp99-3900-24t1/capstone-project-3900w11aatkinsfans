@@ -25,35 +25,51 @@ const ContentBox = styled("div")({
 const ResultPage = () => {
   const location = useLocation();
   const { data } = location.state || {};
+  const [analysis, setAnalysis] = React.useState(<></>);
+
+  const toPercentage = (decimal) => {
+    return (Math.round(decimal * 10000) / 100).toFixed(2);
+  };
 
   React.useEffect(() => {
-    console.log(data);
+    setAnalysis(
+      <>
+        The graph on the left shows a distribution of growth rate factors for
+        the meme <b>"{data.label}"</b>, using the Yule Simon Distribution. At
+        each point the graph shows the probability of your meme achieving the
+        corresponding number of clusters, or posts/reposts amount.
+        <p>
+          For example:
+          <br />• The probability of reaching a cluster size of{" "}
+          {data.xLabels[0]} is {toPercentage(data.data[0])}%.
+          <br />• The probability of reaching a cluster size of{" "}
+          {data.xLabels[data.data.length - 1]} is{" "}
+          {toPercentage(data.data[data.data.length - 1])}%.
+        </p>
+      </>
+    );
   }, [data]);
 
   return (
     <>
-      <h2 style={{ marginLeft: "3vw", color: "#0D2633" }}>yes</h2>
-      <ColFlexDiv>
-        <ContentBox style={{ width: "50vw" }}>
-          <GrowthRateChart
-            data={{
-              data: [5, 15, 25, 26, 26, 27],
-              xLabels: ["0:00", "0:1", "0:02", "0:03", "0:04", "0:05"],
-              label: "test growth rate yep",
-            }}
-          />
-        </ContentBox>
-        <ContentBox style={{ width: "35vw" }}>
-          {data ? (
+      <h2 style={{ marginLeft: "3vw", color: "#0D2633" }}>
+        Potential Growth Rate for "{data.label}"
+      </h2>
+      {data ? (
+        <ColFlexDiv>
+          <ContentBox style={{ width: "50vw" }}>
+            <GrowthRateChart data={data} />
+          </ContentBox>
+          <ContentBox style={{ width: "35vw" }}>
             <>
               <h3>Meme Growth Rate Analysis</h3>
-              <span>yessir</span>
+              <span>{analysis}</span>
             </>
-          ) : (
-            <></>
-          )}
-        </ContentBox>
-      </ColFlexDiv>
+          </ContentBox>
+        </ColFlexDiv>
+      ) : (
+        <></>
+      )}
     </>
   );
 };

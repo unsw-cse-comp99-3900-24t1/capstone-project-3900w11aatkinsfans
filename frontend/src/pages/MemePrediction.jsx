@@ -4,6 +4,7 @@ import {
   Paper,
   InputAdornment,
   IconButton,
+  CircularProgress,
   Dialog,
   DialogActions,
   DialogContent,
@@ -50,6 +51,7 @@ const StyledTextField = styled(TextField)(({ theme }) => ({
 
 const SearchBar = ({ setIsModalOpen }) => {
   const [searchText, setSearchText] = useState("");
+  const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
   const handleSearchClick = () => {
@@ -59,24 +61,29 @@ const SearchBar = ({ setIsModalOpen }) => {
     }
 
     setIsModalOpen(false);
-    fetch(
-      (process.env.REACT_APP_BACKEND_URL || "http://localhost:5000") +
-        "/memepredict",
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ searchText }),
-      }
-    )
-      .then((response) => response.json())
-      .then((data) => {
-        navigate("/memepredictionresult", { state: { data } });
-      })
-      .catch((error) => {
-        console.error("Error:", error);
-      });
+    if (!loading) {
+      setLoading(true);
+      fetch(
+        (process.env.REACT_APP_BACKEND_URL || "http://localhost:5000") +
+          "/memepredict",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ searchText }),
+        }
+      )
+        .then((response) => response.json())
+        .then((data) => {
+          setLoading(false);
+          navigate("/memepredictionresult", { state: { data } });
+        })
+        .catch((error) => {
+          setLoading(false);
+          console.error("Error:", error);
+        });
+    }
   };
 
   const handleKeyDown = (e) => {
@@ -87,27 +94,35 @@ const SearchBar = ({ setIsModalOpen }) => {
   };
 
   return (
-    <StyledPaper>
-      <StyledTextField
-        variant="standard"
-        placeholder="Search..."
-        value={searchText}
-        onChange={(e) => setSearchText(e.target.value)}
-        onKeyDown={handleKeyDown}
-        InputProps={{
-          disableUnderline: true,
-          endAdornment: (
-            <InputAdornment position="end">
-              <IconButton edge="end" onClick={handleSearchClick}>
-                <SearchIcon />
-              </IconButton>
-            </InputAdornment>
-          ),
-          style: { flex: 1 },
-        }}
-        fullWidth
-      />
-    </StyledPaper>
+    <>
+      <StyledPaper>
+        <StyledTextField
+          variant="standard"
+          placeholder="Search..."
+          value={searchText}
+          onChange={(e) => setSearchText(e.target.value)}
+          onKeyDown={handleKeyDown}
+          InputProps={{
+            disableUnderline: true,
+            endAdornment: (
+              <InputAdornment position="end">
+                <IconButton edge="end" onClick={handleSearchClick}>
+                  <SearchIcon />
+                </IconButton>
+              </InputAdornment>
+            ),
+            style: { flex: 1 },
+          }}
+          fullWidth
+        />
+      </StyledPaper>
+      {loading && (
+        <>
+          <CircularProgress style={{ margin: "30px 0" }} />
+          &nbsp; Processing Meme...
+        </>
+      )}
+    </>
   );
 };
 

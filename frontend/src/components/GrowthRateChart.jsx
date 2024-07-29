@@ -48,17 +48,17 @@ export default function GrowthRateChart(props) {
         x: {
           title: {
             display: true,
-            text: "TODO: X-axis label",
+            text: "Number of Clusters",
             font: { size: 12, weight: "bold" },
           },
           ticks: {
-            maxTicksLimit: 10,
+            maxTicksLimit: 16,
           },
         },
         y: {
           title: {
             display: true,
-            text: "TODO: Growth Rate label",
+            text: "Probability",
             font: { size: 12, weight: "bold" },
           },
         },
@@ -68,7 +68,7 @@ export default function GrowthRateChart(props) {
       plugins: {
         title: {
           display: true,
-          text: "Growth Rate",
+          text: "Growth Rate - Yule Simon Distribution",
           font: { size: 18 },
         },
         legend: { display: false },
@@ -88,7 +88,12 @@ export default function GrowthRateChart(props) {
               return label;
             },
             label: (context) => {
-              return "TODO: x: " + context.label + ", y: " + context.raw;
+              return (
+                "No. clusters: " +
+                context.label +
+                ", Probability: " +
+                context.raw
+              );
             },
           },
         },
@@ -109,8 +114,13 @@ export default function GrowthRateChart(props) {
             style={{ height: "400px" }}
           />
           <QuestionButton
-            title="Growth Rate"
-            text="TODO: This graph shows how likely the meme will grow for a given x value..."
+            title="Yule Simon Distribution"
+            text="The growth rate of memes can be modelled using the
+            Yule-Simon distribution using a growth rate factor.
+            The predict function searches for similar existing memes
+            to predict the evolution of unseen memes.
+            The graph shows the probability distribution
+            of the meme growing to k-sized clusters for k from 1-50."
             style={{ position: "absolute", top: "-10px", right: "0" }}
           />
         </div>
