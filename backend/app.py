@@ -14,7 +14,8 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Setting up MongoDB connection
-db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='clusters')
+# db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='clusters')
+db = Database()
 
 # Setting up pretrained sentence transformer and PCA model
 model = SentenceTransformer("all-MiniLM-L6-v2")

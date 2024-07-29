@@ -3,8 +3,9 @@ import json
 from pymongo import MongoClient
 
 class Database:
-    def __init__(self, uri='mongodb://localhost:27017/', db_name='3900', collection_name='clusters'):
-        self.client = MongoClient(uri)
+    def __init__(self, uri=None, db_name='3900', collection_name='clusters'):
+        self.uri = uri or os.getenv('MONGODB_URI', 'mongodb://localhost:27017/')
+        self.client = MongoClient(self.uri)
         self.db = self.client[db_name]
         self.collection = self.db[collection_name]
 
@@ -30,4 +31,4 @@ class Database:
 
 if __name__ == "__main__":
     db = Database()
-    db.insert_json_files('/home/cheny/24T2/3900/capstone-project-3900w11aatkinsfans/backend/assets/clusters')
+    db.insert_json_files('/home/cheny/24T2/3900/capstone-project-3900w11aatkinsfans/backend/assets/clusters_remove')
