@@ -4,6 +4,7 @@ import pandas as pd
 import os
 from sentence_transformers import SentenceTransformer
 import joblib
+import csv
 import json
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
@@ -24,11 +25,21 @@ pca_model = joblib.load('pca_model.pkl')
 
 # Load cluster centers from MongoDB
 cluster_centers = {}
-cluster_centers_data = db.find_all('cluster_centers', {})
-for doc in cluster_centers_data:
-    cluster_id = doc['cluster_id']
-    center_vector = np.array(doc['center_vector'])
-    cluster_centers[cluster_id] = center_vector
+# TODO: Fix MongoDB by making it not local
+# cluster_centers_data = db.find_all('cluster_centers', {})
+# for doc in cluster_centers_data:
+#     cluster_id = doc['cluster_id']
+#     center_vector = np.array(doc['center_vector'])
+#     cluster_centers[cluster_id] = center_vector
+
+# Load cluster centers from CSV
+cluster_centers_file = 'cluster_centers.csv'
+with open(cluster_centers_file, 'r') as csvfile:
+    reader = csv.DictReader(csvfile)
+    for row in reader:
+        cluster_id = int(row['cluster_id'])
+        center_vector = json.loads(row['center_vector'])
+        cluster_centers[cluster_id] = np.array(center_vector)
 
 def vectorize_and_reduce(sentence, model, pca_model):
     vector_360d = model.encode(sentence)

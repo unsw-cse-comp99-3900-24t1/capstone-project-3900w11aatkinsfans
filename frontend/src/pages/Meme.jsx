@@ -56,7 +56,7 @@ const PopularityGraphDiv = styled("div")({
 
 const ContentBox = styled("div")({
   width: "35vw",
-  minHeight: "420px",
+  minHeight: "400px",
   borderRadius: "12px",
   padding: "30px",
   marginBottom: "40px",
