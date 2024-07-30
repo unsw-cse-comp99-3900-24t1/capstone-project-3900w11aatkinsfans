@@ -121,7 +121,7 @@ export default function ImageCaptioning() {
           title="How To Use"
           text={
             <>
-              This tool allows you to caption any image (png/jpg). <br />
+              This tool allows you to caption any image (png/jpg/webp). <br />
               Upload an image to produce a caption that describes the image,
               which can be used for meme search or for meme prediction.
               <br />
@@ -139,7 +139,7 @@ export default function ImageCaptioning() {
         Upload Image
         <input
           type="file"
-          accept="image/png, image/jpeg, image/jpg"
+          accept="image/png, image/jpeg, image/jpg, image/webp"
           onChange={handleImageUpload}
           hidden
         />
@@ -155,10 +155,10 @@ export default function ImageCaptioning() {
           </Box>
           {ImageCaption ? (
             <>
-              <Typography variant="h4" marginTop={"20px"}>
+              <Typography variant="h5" marginTop={"20px"}>
                 Your image has been captioned as:
               </Typography>
-              <Typography variant="h6" marginTop={"20px"}>
+              <Typography variant="h4" marginTop={"20px"}>
                 "{ImageCaption}"
               </Typography>
               <Box

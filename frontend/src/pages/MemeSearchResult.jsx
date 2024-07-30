@@ -7,6 +7,7 @@ import {
   FormGroup,
   FormControl,
 } from "@mui/material";
+import { COLOUR_PALETTE } from "../assets/constants";
 
 const ResultPage = () => {
   const location = useLocation();
@@ -116,10 +117,10 @@ const ResultPage = () => {
           <ul style={{ listStyleType: "none", paddingLeft: 0 }}>
             {sortedResults.map((result, index) => (
               <li key={index} style={{ marginBottom: "20px" }}>
-                <h2>
+                <span style={{ fontSize: "1.4em", fontWeight: "bold" }}>
                   {index + 1}.{" "}
                   <Link to={`/meme/${result.id}`}>{result.label}</Link>
-                </h2>
+                </span>
                 <p>
                   Meme Volume: {result.popularity}, Cluster Size:{" "}
                   {result.clusterSize}

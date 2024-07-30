@@ -130,7 +130,7 @@ export default function PopularMeme() {
                     scope="row"
                     sx={{
                       textTransform: "capitalize",
-                      padding: "10px",
+                      padding: "10px 10px 10px 20px",
                       cursor: "pointer",
                     }}
                     onClick={() => handleCellClick(row.ClusterID)}
@@ -164,7 +164,7 @@ export default function PopularMeme() {
                     align="right"
                     sx={{
                       textTransform: "capitalize",
-                      padding: "10px",
+                      padding: "10px 20px 10px 10px",
                       cursor: "pointer",
                     }}
                     onClick={() => handleCellClick(row.ClusterID)}

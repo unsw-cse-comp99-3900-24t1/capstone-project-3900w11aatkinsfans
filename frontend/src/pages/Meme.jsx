@@ -77,6 +77,7 @@ function MemePage() {
   const [largestMutation, setLargestMutation] = React.useState("");
   const [largestMutAmount, setlargestMutAmount] = React.useState(0);
   const [clusterList, setClusterList] = React.useState([]);
+  const [hourLength, setHourLength] = React.useState(null);
   const [growthRateData, setGrowthRateData] = React.useState({
     data: [5, 15, 25, 26, 26, 27],
     xLabels: ["0:00", "0:1", "0:02", "0:03", "0:04", "0:05"],
@@ -108,6 +109,14 @@ function MemePage() {
         setlargestMutAmount(data.clusterList[0].count);
         setClusterList(data.clusterList);
         createGraph(dataset);
+        // calculate time length
+        const timeSeries = dataset.xLabels;
+        const startTime = parseInt(timeSeries[0].split(":")[0], 10);
+        const finalTime = parseInt(
+          timeSeries[timeSeries.length - 1].split(":")[0],
+          10
+        );
+        setHourLength(finalTime - startTime);
       })
       .catch((err) => {
         console.log(err);
@@ -199,7 +208,7 @@ function MemePage() {
                 <QuestionButton
                   title="Meme Popularity"
                   text="This graph shows the amount of posts/reposts that has
-                  occured for this meme over time."
+                  occurred for this meme over time."
                   style={{ position: "absolute", top: "10px", right: "10px" }}
                 />
               </div>
@@ -263,7 +272,7 @@ function MemePage() {
               <div>
                 <h3>About</h3>
                 <b>{memeName}</b> is a meme that has gained over {totalPosts}{" "}
-                posts and reposts over a span of 24 hours.
+                posts and reposts over a span of {hourLength} hours.
                 <h3>Spread</h3>
                 Our database and clustering algorithm have detected at least{" "}
                 {totalMutations} variants of this meme.
