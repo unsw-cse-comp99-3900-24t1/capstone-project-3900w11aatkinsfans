@@ -32,6 +32,7 @@ const ResultPage = () => {
   };
 
   React.useEffect(() => {
+    console.log(data);
     setAnalysis(
       <>
         The graph on the left shows a distribution of growth rate factors for

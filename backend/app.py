@@ -23,7 +23,7 @@ db = Database(uri='mongodb://localhost:27017', db_name='3900', collection_name='
 
 # Setting up pretrained sentence transformer and PCA model
 model = SentenceTransformer("all-MiniLM-L6-v2")
-pca_model = joblib.load('pca_model_100.pkl')
+pca_model = joblib.load('assets/pca_model_100.pkl')
 
 # Load cluster centers from MongoDB
 cluster_centers = {}
@@ -35,7 +35,7 @@ cluster_centers = {}
 #     cluster_centers[cluster_id] = center_vector
 
 # Load cluster centers from CSV
-cluster_centers_file = 'cluster_centers.csv'
+cluster_centers_file = 'assets/cluster_centers.csv'
 with open(cluster_centers_file, 'r') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
@@ -156,8 +156,8 @@ def predict():
     search_text = data.get('searchText')
     model_name = "all-MiniLM-L6-v2"
     embedding_model = SentenceTransformer(model_name)
-    rf_model = joblib.load('cluster_size_predictor_model.pkl')
-    pca_model_20 = joblib.load('pca_model.pkl')
+    rf_model = joblib.load('assets/cluster_size_predictor_model.pkl')
+    pca_model_20 = joblib.load('assets/pca_model.pkl')
 
     new_vector = embedding_model.encode(search_text)
     new_vector_reduced = pca_model_20.transform([new_vector])
