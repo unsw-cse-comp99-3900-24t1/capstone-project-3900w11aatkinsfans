@@ -32,20 +32,28 @@ const ResultPage = () => {
   };
 
   React.useEffect(() => {
-    console.log(data);
     setAnalysis(
       <>
         The graph on the left shows a distribution of growth rate factors for
         the meme <b>"{data.label}"</b>, using the Yule Simon Distribution. At
         each point the graph shows the probability of your meme achieving the
         corresponding number of clusters, or posts/reposts amount.
+        <p>For example:</p>
+        <ul>
+          <li>
+            The probability of reaching a cluster size of {data.xLabels[0]} is{" "}
+            {toPercentage(data.data[0])}%.
+          </li>
+          <li>
+            The probability of reaching a cluster size of{" "}
+            {data.xLabels[data.data.length - 1]} is{" "}
+            {toPercentage(data.data[data.data.length - 1])}%.
+          </li>
+        </ul>
         <p>
-          For example:
-          <br />• The probability of reaching a cluster size of{" "}
-          {data.xLabels[0]} is {toPercentage(data.data[0])}%.
-          <br />• The probability of reaching a cluster size of{" "}
-          {data.xLabels[data.data.length - 1]} is{" "}
-          {toPercentage(data.data[data.data.length - 1])}%.
+          The mean cluster size for this meme is {data.cluster_size_mean[0]},
+          meaning that on average, your meme will likely reach{" "}
+          {data.cluster_size_mean[0]} posts.
         </p>
       </>
     );
