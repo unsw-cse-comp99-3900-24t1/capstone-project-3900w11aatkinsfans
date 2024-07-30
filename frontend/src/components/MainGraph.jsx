@@ -269,12 +269,26 @@ export default function MainGraph() {
             title="How To Use"
             text={
               <>
-                • Hover cursor on graph. The closest meme will be highlighted.{" "}
-                <br />
-                • When a meme is highlighted, click anywhere on the chart area
-                to go to its meme page. <br />• Memes can be filtered out by
-                clicking on the legend entry. <br />• Drag the slider to adjust
-                the time range.
+                This graph displays the top 5 meme clusters, by volume over a
+                certain time period. Meme clusters are collections of closely
+                similar phrases that have been repeated over time in social
+                media.
+                <p>
+                  <b>To use this graph:</b>
+                </p>
+                <ul>
+                  <li>
+                    Hover cursor on graph. The closest meme will be highlighted.
+                  </li>
+                  <li>
+                    When a meme is highlighted, click anywhere on the chart area
+                    to go to its meme page.
+                  </li>
+                  <li>
+                    Memes can be filtered out by clicking on the legend entry.
+                  </li>
+                  <li>Drag the slider to adjust the time range.</li>
+                </ul>
               </>
             }
             style={{ position: "absolute", top: "5px", right: "5px" }}
