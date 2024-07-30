@@ -141,42 +141,26 @@ def popular():
         df = pd.DataFrame(data_list)
         df['Timestamp'] = pd.to_datetime(df['Timestamp'], format='%H:%M', errors='coerce')
 
-        # Calculate the total popularity for each cluster
-        df['TotalCount'] = df.groupby('ClusterID')['Count'].transform('sum')
-
-        # Sort by TotalCount, ClusterID and Timestamp
-        df.sort_values(by=['TotalCount', 'ClusterID', 'Timestamp'], ascending=[False, True, True], inplace=True)
-
-        # Get top 5 clusters
-        top_clusters = df.drop_duplicates(subset='ClusterID', keep='first').head(5)
-
         earliest_timestamp = df['Timestamp'].min()
         latest_timestamp = df['Timestamp'].max()
         meme_count = df.shape[0]
 
-        earliest_timestamp_str = earliest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(earliest_timestamp) else "N/A"
-        latest_timestamp_str = latest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(latest_timestamp) else "N/A"
+        # Filter for clusters of interest
+        filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])]
 
-        top_clusters_data = []
-        for idx, row in top_clusters.iterrows():
-            top_clusters_data.append({
-                'Rank': idx + 1,
-                'Mutations': row['TotalCount'],
-                'Date': row['Date'],
-                'Phrase': row['Phrase'],
-                'ClusterID': row['ClusterID']
-            })
+        # Initialize an empty DataFrame to store results
+        results = filtered_df.copy()
+        results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
+        results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)
 
-        # Ensure the message is the same as required
-        message = "Showing Top 5 of 100,000 memes"
-
+        # Combine results and quotes into final data dictionary
         data = {
-            'result': top_clusters_data,
-            'earliest_timestamp': earliest_timestamp_str,
-            'latest_timestamp': latest_timestamp_str,
+            'result': results.to_dict(orient='records'),
+            'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(earliest_timestamp) else "N/A",
+            'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(latest_timestamp) else "N/A",
             'memeCount': meme_count,
             'totalMemeCount': 100000,  # Fixed value for total meme count
-            'message': message
+            'message': "Showing Top 5 of 100,000 memes"
         }
 
         logger.info("Data prepared for popular endpoint")
@@ -184,6 +168,7 @@ def popular():
     except Exception as e:
         logger.error(f"Error in /getPopular: {e}")
         return jsonify({"error": str(e)}), 500
+
 
 @app.route('/memesearch', methods=['POST'])
 def search():
