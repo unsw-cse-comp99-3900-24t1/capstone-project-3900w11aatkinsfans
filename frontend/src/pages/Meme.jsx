@@ -274,9 +274,9 @@ function MemePage() {
               </div>
             )}
           </ContentBox>
-          <ContentBox>
+          {/* <ContentBox>
             <GrowthRateChart data={growthRateData} />
-          </ContentBox>
+          </ContentBox> */}
         </div>
       </ColFlexDiv>
     </>
