@@ -1,5 +1,5 @@
 import logging
-from flask import Flask, request, jsonify, abort
+from flask import Flask, request, jsonify, abort, send_from_directory
 from flask_cors import CORS
 import pandas as pd
 from sentence_transformers import SentenceTransformer
@@ -112,62 +112,33 @@ def get_cluster(filename):
 @app.route('/getPopular')
 def popular():
     try:
-        logger.debug("Fetching all clusters from MongoDB")
-        cluster_data = db.find_all('clusters', {})
-        if not cluster_data:
-            logger.warning("No data found in clusters collection")
-            return jsonify({"error": "No data found in clusters"}), 404
-
-        data_list = []
-        for doc in cluster_data:
-            doc = convert_objectid_to_str(doc)
-            cluster_id = doc.get('cluster_id')
-            popularity_curve = doc.get('popularityCurve', {})
-            cluster_list = doc.get('clusterList', [])
-
-            xlabels = popularity_curve.get('xLabels', [])
-            for item in cluster_list:
-                phrase = item.get('phrase')
-                count = item.get('count')
-                for xlabel in xlabels:
-                    data_list.append({
-                        'ClusterID': cluster_id,
-                        'Phrase': phrase,
-                        'Count': count,
-                        'Timestamp': xlabel,
-                        'Date': popularity_curve.get('date', 'Unknown')  # Assuming each cluster has a date field
-                    })
-
-        df = pd.DataFrame(data_list)
-        df['Timestamp'] = pd.to_datetime(df['Timestamp'], format='%H:%M', errors='coerce')
+        df = pd.read_csv('assets/sorted_clusters.csv')
+        app.logger.info("CSV file loaded successfully")
+        
+        df['Timestamp'] = pd.to_datetime(df['Timestamp'])
+        app.logger.info("Timestamps converted successfully")
 
         earliest_timestamp = df['Timestamp'].min()
         latest_timestamp = df['Timestamp'].max()
         meme_count = df.shape[0]
 
-        # Filter for clusters of interest
         filtered_df = df[df['ClusterID'].isin([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])]
 
-        # Initialize an empty DataFrame to store results
         results = filtered_df.copy()
         results.sort_values(by=['ClusterID', 'Timestamp'], inplace=True)
         results.drop_duplicates(subset='ClusterID', keep='first', inplace=True)
 
-        # Combine results and quotes into final data dictionary
         data = {
             'result': results.to_dict(orient='records'),
-            'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(earliest_timestamp) else "N/A",
-            'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y ') if pd.notna(latest_timestamp) else "N/A",
+            'earliest_timestamp': earliest_timestamp.strftime('%H:%M %d %B %Y '),
+            'latest_timestamp': latest_timestamp.strftime('%H:%M %d %B %Y '),
             'memeCount': meme_count,
-            'totalMemeCount': 100000,  # Fixed value for total meme count
-            'message': "Showing Top 5 of 100,000 memes"
         }
 
-        logger.info("Data prepared for popular endpoint")
         return jsonify(data)
     except Exception as e:
-        logger.error(f"Error in /getPopular: {e}")
-        return jsonify({"error": str(e)}), 500
+        app.logger.error(f"Error processing data: {e}")
+        return jsonify({"error": "Error processing data"}), 500
 
 
 @app.route('/memesearch', methods=['POST'])
