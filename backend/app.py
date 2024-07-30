@@ -169,7 +169,9 @@ def predict():
         return jsonify({'error': 'searchText is required'}), 400
     k_values = k_values.tolist()
     pmf_values = pmf_values.tolist()
-    return jsonify({'xLabels': k_values, 'data': pmf_values, 'label':search_text, 'cluster_size_mean': cluster_centers})
+    cluster_size_mean = cluster_size_mean.tolist()
+
+    return jsonify({'xLabels': k_values, 'data': pmf_values, 'label':search_text, 'cluster_size_mean':cluster_size_mean})
 
 @app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
