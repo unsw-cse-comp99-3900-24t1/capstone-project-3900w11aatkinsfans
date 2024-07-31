@@ -18,6 +18,8 @@ export default function ImageCaptioning() {
   const [loading, setLoading] = useState(false);
 
   const handleImageUpload = (event) => {
+    setSelectedImage(null);
+    setImageCaption("");
     const file = event.target.files[0];
     if (file) {
       const reader = new FileReader();

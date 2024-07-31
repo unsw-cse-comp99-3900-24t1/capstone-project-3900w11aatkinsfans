@@ -148,8 +148,9 @@ export default function MemePrediction() {
           text={
             <>
               This tool allows you to search and predict the performance of
-              memes. Enter a meme description and click the search button to get
-              predictions.
+              memes. Enter a meme phrase and click the search button to get
+              predictions. yule model, based on research paper where meme mutations is analogoues to that of gene evolution in bacteria
+              expand pls
             </>
           }
           style={{ margin: "20px 0 0 -20px" }}

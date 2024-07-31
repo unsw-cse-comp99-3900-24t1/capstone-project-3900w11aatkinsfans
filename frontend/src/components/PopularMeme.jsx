@@ -99,9 +99,9 @@ export default function PopularMeme() {
         </div>
         <QuestionButton
           title="Top Popular Memes"
-          text="This table displays the top popular memes based on the
-          number of mutations from the SNAP Memetracker Dataset. Mutations
-          are the accidental or intentional modification of an original meme. "
+          text=" 
+          This table displays the top 5 popular memes based on the number of mutations from the SNAP Meme tracker Dataset.
+          Mutations are the accidental or intentional modification of an original meme on a online social network. The date shown is the time the meme was first posted."
         />
       </PopularMemesTitle>
       <Center>
