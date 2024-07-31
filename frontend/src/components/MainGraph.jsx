@@ -270,7 +270,7 @@ export default function MainGraph() {
             text={
               <>
                 This graph displays the top 5 meme clusters, by volume over a
-                certain time period. Meme clusters are collections of closely
+                certain time period. The dataset currently spans from 12am to 5am on 1/08/2008. Meme clusters are collections of closely
                 similar phrases that have been repeated over time in social
                 media.
                 <p>
