@@ -263,7 +263,7 @@ export default function MemeSearch() {
       </SearchResultDatabaseSize>
       {loading && (
         <CenteredCircularProgress>
-          <CircularProgress /> &nbsp; Searching...
+          <CircularProgress /> &nbsp; Searching... this could take from several seconds to up to a minute
         </CenteredCircularProgress>
       )}
       <CenterTable>
