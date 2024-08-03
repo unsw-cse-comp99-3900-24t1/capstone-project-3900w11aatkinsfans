@@ -1,5 +1,5 @@
 # small image for python (you will probably need to change this to a larger image + different version)
-FROM python:3.10.9
+FROM python:3.10.9-slim
 # this is the working directory inside the container
 WORKDIR /app
 # copy all files from the current directory to the working directory
