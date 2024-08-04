@@ -44,11 +44,34 @@ with open(cluster_centers_file, 'r') as csvfile:
         cluster_centers[cluster_id] = np.array(center_vector)
 
 def vectorize_and_reduce(sentence, model, pca_model):
+    """
+    Encode a sentence into a vector and reduce its dimensions using PCA.
+    
+    Args:
+        sentence (str): The input sentence to encode.
+        model (SentenceTransformer): The sentence transformer model.
+        pca_model (PCA): The PCA model for dimensionality reduction.
+        
+    Returns:
+        np.ndarray: The reduced dimension vector.
+    """
     vector_360d = model.encode(sentence)
     vector_100d = pca_model.transform([vector_360d])[0]
     return vector_100d
 
 def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
+    """
+    Find the closest cluster ID for a given sentence.
+    
+    Args:
+        sentence (str): The input sentence.
+        model (SentenceTransformer): The sentence transformer model.
+        pca_model (PCA): The PCA model for dimensionality reduction.
+        cluster_centers (dict): The cluster centers with cluster ID as keys.
+        
+    Returns:
+        int: The closest cluster ID.
+    """
     input_vector = vectorize_and_reduce(sentence, model, pca_model)
     min_distance = float('inf')
     closest_cluster_id = None
@@ -60,7 +83,19 @@ def find_closest_cluster_id(sentence, model, pca_model, cluster_centers):
     return closest_cluster_id
 
 def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
-
+    """
+    Find the top N closest cluster IDs for a given sentence.
+    
+    Args:
+        sentence (str): The input sentence.
+        model (SentenceTransformer): The sentence transformer model.
+        pca_model (PCA): The PCA model for dimensionality reduction.
+        cluster_centers (dict): The cluster centers with cluster ID as keys.
+        n (int): The number of top clusters to find.
+        
+    Returns:
+        list: The top N closest cluster IDs.
+    """
     input_vector = vectorize_and_reduce(sentence, model, pca_model)
     distances = []
 
@@ -75,11 +110,17 @@ def find_top_n_cluster_ids(sentence, model, pca_model, cluster_centers, n=10):
     return top_n_cluster_ids
 
 def generate_caption(model, processor, image):
-    # Compatibility issues - reducing image size
-    # max_size = (512, 512)
-    # image.thumbnail(max_size, Image.ANTIALIAS)
+    """
+    Generate a caption for an image using a pretrained model.
     
-    # Preprocess the image
+    Args:
+        model (BlipForConditionalGeneration): The image captioning model.
+        processor (BlipProcessor): The image processor.
+        image (PIL.Image): The input image.
+        
+    Returns:
+        str: The generated caption.
+    """
     inputs = processor(images=image, return_tensors="pt")
     start_time = time.time()
     out = model.generate(**inputs)
@@ -92,28 +133,41 @@ def generate_caption(model, processor, image):
     return caption
 
 def yule_simon_pmf(k, rho):
+    """
+    Calculate the Yule-Simon probability mass function.
+    
+    Args:
+        k (int): The discrete variable.
+        rho (float): The rho parameter.
+        
+    Returns:
+        float: The PMF value.
+    """
     return rho * beta(k, rho + 1)
-
-@app.route('/')
-def home():
-    return "Welcome to the Flask API!"
-
-@app.route('/test')
-def test():
-    data = {
-        'message': 'Hello from Flask!',
-        'status': 'success'
-    }
-    return jsonify(data)
 
 @app.route('/clusters/<string:filename>', methods=['GET'])
 def get_cluster(filename):
+    """
+    Route to get a cluster file by filename.
+    
+    Args:
+        filename (str): The name of the cluster file.
+        
+    Returns:
+        Response: The requested cluster file.
+    """
     if not os.path.isfile(f'assets/clusters/{filename}.json'):
         abort(404, description="File not found")
     return send_from_directory('assets/clusters/', f'{filename}.json')
 
 @app.route('/getPopular')
 def popular():
+    """
+    Route to get popular clusters.
+    
+    Returns:
+        Response: JSON response with popular clusters data.
+    """
     df = pd.read_csv('assets/sorted_clusters.csv')
     df['Timestamp'] = pd.to_datetime(df['Timestamp'])
 
@@ -140,6 +194,15 @@ def popular():
 
 @app.route('/memesearch', methods=['POST'])
 def search():
+    """
+    Route to search for memes based on a search text.
+    
+    Args:
+        searchText (str): The search text provided in the POST request.
+        
+    Returns:
+        Response: JSON response with the closest cluster IDs.
+    """
     data = request.get_json()
     search_text = data.get('searchText')
 
@@ -152,6 +215,15 @@ def search():
 
 @app.route('/memepredict', methods=['POST'])
 def predict():
+    """
+    Route to predict meme cluster sizes based on a search text.
+    
+    Args:
+        searchText (str): The search text provided in the POST request.
+        
+    Returns:
+        Response: JSON response with the predicted cluster sizes and PMF values.
+    """
     data = request.get_json()
     search_text = data.get('searchText')
     model_name = "all-MiniLM-L6-v2"
@@ -175,12 +247,24 @@ def predict():
 
 @app.route('/dashboard/overview_data_db', methods=['GET'])
 def get_overview_data_db():
+    """
+    Route to get overview data from the database.
+    
+    Returns:
+        Response: JSON response with the overview data.
+    """
     data = db.find_all('overview_data', {})
     json_data = [doc for doc in data]
     return jsonify(json_data)
 
 @app.route('/imagecaptioning', methods=['POST'])
 def image_captioning():
+    """
+    Route to generate a caption for an uploaded image.
+    
+    Returns:
+        Response: JSON response with the generated caption.
+    """
     if 'image' not in request.files:
         return jsonify({"error": "No image file found"}), 400
 
